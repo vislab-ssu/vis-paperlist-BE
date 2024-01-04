@@ -43,7 +43,7 @@ for file in FILES:
                 conference_session.append(
                     [len(conference_session), paper['Session'], conference_id, year])
             papers.append([len(papers), paper['abstract'],
-                          paper['title'], paper['authors'], len(conference_session)-1, paper['data'], paper['DOI'], paper['citation']])
+                          paper['title'], paper['authors'], len(conference_session)-1, paper['data'], paper['DOI'], (paper['citation'] if paper['citation'] else 0)])
             for author in paper['authors']:
                 author = author.strip()
                 if author not in authors:
@@ -100,7 +100,7 @@ for paper_idx in range(1, len(papers)):
         papers[paper_idx][AUTHOR_IDX] = None
 
     if papers[paper_idx][DATE_IDX] == "NONE":
-        papers[paper_idx][DATE_IDX] = 0
+        papers[paper_idx][DATE_IDX] = f'0000-01-01'
     else:
         month, year = papers[paper_idx][DATE_IDX].split()
         papers[paper_idx][DATE_IDX] = f'{year}-{month_to_number[month]:02d}-01'
