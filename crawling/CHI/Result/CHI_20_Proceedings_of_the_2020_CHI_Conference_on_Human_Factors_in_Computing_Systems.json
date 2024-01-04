@@ -1,0 +1,436 @@
+[
+    {
+        "title": "Introducing Peripheral Awareness as a Neurological State for Human-computer Integration",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Josh Andres",
+            "m.c. schraefel",
+            "Nathan Semertzidis",
+            "Brahmi Dwivedi",
+            "Yutika C. Kulwe",
+            "Juerg von Kaenel",
+            "Florian Floyd Mueller"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376128",
+        "citation": "29",
+        "abstract": "In this work we introduce peripheral awareness as a neurological state for real-time human-computer integration, where the human is assisted by a computer to interact with the world. Changes to the field of view in peripheral awareness have been linked with quality of human performance. This instinctive narrowing of vision that occurs as a threat is perceived has implications in activities that benefit from the user having a wide field of view, such as cycling to navigate the environment. We present \"Ena\", a novel EEG-eBike system that draws from the user's neural activity to determine when the user is in a state of peripheral awareness to regulate engine support. A study with 20 participants revealed various themes and tactics suggesting that peripheral awareness as a neurological state is viable to align human-machine integration with internal bodily processes. Ena suggests that our work facilitates a safe and enjoyable human-computer integration experience."
+    },
+    {
+        "title": "Venous Materials: Towards Interactive Fluidic Mechanisms",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Hila Mor",
+            "Tianyu Yu",
+            "Ken Nakagaki",
+            "Benjamin Harvey Miller",
+            "Yichen Jia",
+            "Hiroshi Ishii"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376129",
+        "citation": "35",
+        "abstract": "Venous Materials is a novel concept and approach of an interactive material utilizing fluidic channels. We present a design method for fluidic mechanisms that respond to deformation by mechanical inputs from the user, such as pressure and bending. We designed a set of primitive venous structures that act as embedded analog fluidic sensors, displaying flow and color change. In this paper, we consider the fluid as the medium to drive tangible information triggered by deformation, and at the same time, to function as a responsive display of that information. To provide users with a simple way to create and validate designs of fluidic structures, we built a software platform and design tool UI. This design tool allows users to quickly design the geometry, and simulate the flow with intended mechanical force dynamically. We present a range of applications that demonstrate how Venous Materials can be utilized to augment interactivity of everyday physical objects."
+    },
+    {
+        "title": "Considering Parents in Coding Kit Design: Understanding Parents' Perspectives and Roles",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Junnan Yu",
+            "Chenke Bai",
+            "Ricarose Roque"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376130",
+        "citation": "29",
+        "abstract": "As education researchers, policymakers, and industry leaders recognize the importance of computing, many coding kits (toys and apps) have emerged to help young children learn to code at home. However, how parents perceive and support their children's use of the kits at home are less understood. In this study, we performed semi-structured interviews with eighteen parents who obtained coding kits for their young children for home use. The results show parents expected their kids to have fun and meaningful interactions with the kits. In supporting the play, parents took on various roles, mostly acting as spectator, scaffolder, and teacher. While parents perceived benefits of coding kits like a changed perspective on coding, they also reported concerns, such as their limited programming knowledge to provide help. Finally, we reflect on design and research implications to develop coding kits that consider parents' perspectives and important roles in supporting young children's exploration with computational thinking."
+    },
+    {
+        "title": "If I Hear You Correctly: Building and Evaluating Interview Chatbots with Active Listening Skills",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Ziang Xiao",
+            "Michelle X. Zhou",
+            "Wenxi Chen",
+            "Huahai Yang",
+            "Changyan Chi"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376131",
+        "citation": "37",
+        "abstract": "Interview chatbots engage users in a text-based conversation to draw out their views and opinions. It is, however, challenging to build effective interview chatbots that can handle user free-text responses to open-ended questions and deliver engaging user experience. As the first step, we are investigating the feasibility and effectiveness of using publicly available, practical AI technologies to build effective interview chatbots. To demonstrate feasibility, we built a prototype scoped to enable interview chatbots with a subset of active listening skills-the abilities to comprehend a user's input and respond properly. To evaluate the effectiveness of our prototype, we compared the performance of interview chatbots with or without active listening skills on four common interview topics in a live evaluation with 206 users. Our work presents practical design implications for building effective interview chatbots, hybrid chatbot platforms, and empathetic chatbots beyond interview tasks."
+    },
+    {
+        "title": "BlyncSync: Enabling Multimodal Smartwatch Gestures with Synchronous Touch and Blink",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Bryan Wang",
+            "Tovi Grossman"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376132",
+        "citation": "17",
+        "abstract": "Input techniques have been drawing abiding attention along with the continual miniaturization of personal computers. In this paper, we present BlyncSync, a novel multi-modal gesture set that leverages the synchronicity of touch and blink events to augment the input vocabulary of smartwatches with a rapid gesture, while at the same time, offers a solution to the false activation problem of blink-based input. BlyncSync contributes the concept of a mutual delimiter, where two modalities are used to jointly delimit the intention of each other's input. A study shows that BlyncSync is 33% faster than using a baseline input delimiter (physical smartwatch button), with only 150ms in overhead cost compared to traditional touch events. Furthermore, our data indicates that the gesture can be tuned to elicit a true positive rate of 97% and a false positive rate of 1.68%."
+    },
+    {
+        "title": "Making Space for Social Sharing: Insights from a Community-Based Social Group for People with Dementia",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Jiamin Dai",
+            "Karyn Moffatt"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376133",
+        "citation": "15",
+        "abstract": "People with dementia face major challenges in maintaining active social interaction. Designing digital tools for social sharing within families and care facilities has been well explored by HCI research, but comparatively less work has considered community settings. Situated in a community-based program for storytelling and socializing, our field observations and semi-structured interviews with people living with early-middle stage dementia, family caregivers, and program facilitators illustrate both positive and challenging aspects of social activities. We contribute a nuanced understanding of participants' social lives and identify four factors that aid in achieving positive outcomes: effective agencies for social interaction, normalized and friendly environments, collaboration and teamwork, and mediating social cues and communication. Finally, we examine our findings through the lens of past HCI work and offer insights for designing new social technologies to diversify the range of social spaces in community settings, through expanding peer collaboration, leveraging physical and virtual spaces, creating open-ended experiences, and developing flexible platforms."
+    },
+    {
+        "title": "Phasking on Paper: Accessing a Continuum of PHysically Assisted SKetchING",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Soheil Kianzad",
+            "Yuxiang Huang",
+            "Robert Xiao",
+            "Karon E. MacLean"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376134",
+        "citation": "10",
+        "abstract": "When sketching, we must choose between paper (expressive ease, ruler and eraser) and computational assistance (parametric support, a digital record). PHysically Assisted SKetching provides both, with a pen that displays force constraints with which the sketcher interacts as they draw on paper. Phasking provides passive, \"bound\" constraints (like a ruler); or actively \"brings\" the sketcher along a commanded path (e.g., a curve), which they can violate for creative variation. The sketcher modulates constraint strength (control sharing) by bearing down on the pen-tip. Phasking requires untethered, graded force-feedback, achieved by modifying a ballpoint drive that generates force through rolling surface contact. To understand phasking's viability, we implemented its interaction concepts, related them to sketching tasks and measured device performance. We assessed the experience of 10 sketchers, who could understand, use and delight in phasking, and who valued its control-sharing and digital twinning for productivity, creative control and learning to draw."
+    },
+    {
+        "title": "Peer-to-Peer Energy Markets: Understanding the Values of Collective and Community Trading",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Denise J. Wilkins",
+            "Ruzanna Chitchyan",
+            "Mark Levine"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376135",
+        "citation": "21",
+        "abstract": "Peer-to-peer energy-trading platforms (P2P) have the potential to transform the current energy system. However, research is presently scarce on how people would like to participate in, and what would they expect to gain from, such platforms. We address this gap by exploring these questions in the context of the UK energy market. Using a qualitative interview study, we examine how 45 people with an interest in renewable energy understand P2P. We find that the prospective users value the collective benefits of P2P, and understand participation as a mechanism to support social, ecological and economic benefits for communities and larger groups. Drawing on the findings from the interview analysis, we explore broad design characteristics that a prospective P2P energy trading platform should provide to meet the expectations and concerns voiced by our study participants."
+    },
+    {
+        "title": "AirTouch: 3D-printed Touch-Sensitive Objects Using Pneumatic Sensing",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Carlos E. Tejada",
+            "Raf Ramakers",
+            "Sebastian Boring",
+            "Daniel Ashbrook"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376136",
+        "citation": "19",
+        "abstract": "3D printing technology can be used to rapidly prototype the look and feel of 3D objects. However, the objects produced are passive. There has been increasing interest in making these objects interactive, yet they often require assembling components or complex calibration. In this paper, we contribute AirTouch, a technique that enables designers to fabricate touch-sensitive objects with minimal assembly and calibration using pneumatic sensing. AirTouch-enabled objects are 3D printed as a single structure using a consumer-level 3D printer. AirTouch uses pre-trained machine learning models to identify interactions with fabricated objects, meaning that there is no calibration required once the object has completed printing. We evaluate our technique using fabricated objects with various geometries and touch sensitive locations, obtaining accuracies of at least 90% with 12 interactive locations."
+    },
+    {
+        "title": "Digital Liminalities: Understanding Isolated Communities on the Edge",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Rikke Bjerg Jensen",
+            "Lizzie Coles-Kemp",
+            "Nicola Wendt",
+            "Makayla Lewis"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376137",
+        "citation": "3",
+        "abstract": "This paper brings together three distinct case studies to explore how social isolation and notions of liminality shape ontological security within communities on \"the edge\" of society. Each case study exemplifies the differing nature of liminality in everyday contexts and the extent to which increased digitalisation perturbs it in multiple ways. Taking an ethnographic approach, the research engaged with seafarers onboard container ships in European waters, communities in Greenland and welfare claimants in the North East of England. It posits that technological innovation must attend to the routinisation of everyday life through which people establish ontological security if such innovation is to be supportive. The paper thus moves beyond existing HCI scholarship by foregrounding the contextual and relational aspects of social isolation rather than the technological. It does so by advocating a ground-up design process that considers ontological security in relation to notions of liminality among communities on the edge."
+    },
+    {
+        "title": "Mouillé: Exploring Wetness Illusion on Fingertips to Enhance Immersive Experience in VR",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Teng Han",
+            "Sirui Wang",
+            "Sijia Wang",
+            "Xiangmin Fan",
+            "Jie Liu",
+            "Feng Tian",
+            "Mingming Fan"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376138",
+        "citation": "9",
+        "abstract": "Providing users with rich sensations is beneficial to enhance their immersion in Virtual Reality (VR) environments. Wetness is one such imperative sensation that affects users' sense of comfort and helps users adjust grip force when interacting with objects. Researchers have recently begun to explore ways to create wetness illusions, primarily on a user's face or body skin. In this work, we extended this line of research by creating wetness illusion on users' fingertips. We first conducted a user study to understand the effect of thermal and tactile feedback on users' perceived wetness sensation. Informed by the findings, we designed and evaluated a prototype---Mouillé---that provides various levels of wetness illusions on fingertips for both hard and soft items when users squeeze, lift, or scratch it. Study results indicated that users were able to feel wetness with different levels of temperature changes and they were able to distinguish three levels of wetness for simulated VR objects. We further presented applications that simulated an ice cube, an iced cola bottle, and a wet sponge, etc, to demonstrate its use in VR."
+    },
+    {
+        "title": "Replicate and Reuse: Tangible Interaction Design for Digitally-Augmented Physical Media Objects",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Aakar Gupta",
+            "Bo Rui Lin",
+            "Siyi Ji",
+            "Arjav Patel",
+            "Daniel Vogel"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376139",
+        "citation": "17",
+        "abstract": "Technology has transformed our physical interactions into infinitely more scalable and flexible digital ones. We can peruse an infinite number of photos, news articles, and books. However, these digital experiences lack the physical experience of paging through an album, reading a newspaper, or meandering through a bookshelf. Overlaying physical objects with digital content using augmented reality is a promising avenue towards bridging this gap. In this paper, we investigate the interaction design for such digital-overlaid physical objects and their varying levels of tangibility. We first conduct a user evaluation of a physical photo album that uses tangible interactions to support physical and digital operations. We further prototype multiple objects including bookshelves and newspapers and probe users on their usage, capabilities, and interactions. We then conduct a qualitative investigation of three interaction designs with varying tangibility that use three different input modalities. Finally, we discuss the insights from our investigations and recommend design guidelines."
+    },
+    {
+        "title": "FDHelper: Assist Unsupervised Fraud Detection Experts with Interactive Feature Selection and Evaluation",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Jiao Sun",
+            "Yin Li",
+            "Charley Chen",
+            "Jihae Lee",
+            "Xin Liu",
+            "Zhongping Zhang",
+            "Ling Huang",
+            "Lei Shi",
+            "Wei Xu"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376140",
+        "citation": "3",
+        "abstract": "Online fraud is the well-known dark side of the modern Internet. Unsupervised fraud detection algorithms are widely used to address this problem. However, selecting features, adjusting hyperparameters, evaluating the algorithms, and eliminating false positives all require human expert involvement. In this work, we design and implement an end-to-end interactive visualization system, FDHelper, based on the deep understanding of the mechanism of the black market and fraud detection algorithms. We identify a workflow based on experience from both fraud detection algorithm experts and domain experts. Using a multi-granularity three-layer visualization map embedding an entropy-based distance metric ColDis, analysts can interactively select different feature sets, refine fraud detection algorithms, tune parameters and evaluate the detection result in near real-time. We demonstrate the effectiveness and significance of FDHelper through two case studies with state-of-the-art fraud detection algorithms, interviews with domain experts and algorithm experts, and a user study with eight first-time end users."
+    },
+    {
+        "title": "Understanding Walking Meetings: Drivers and Barriers",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Ida Damen",
+            "Carine Lallemand",
+            "Rens Brankaert",
+            "Aarnout Brombacher",
+            "Pieter van Wesemael",
+            "Steven Vos"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376141",
+        "citation": "13",
+        "abstract": "There is increased interest in reducing sedentary behavior of office workers to combat the negative health effects of prolonged sitting. Walking meetings offer a promising solution to this problem as they facilitate a physically active way of working. To inform future development of technologies supporting these type of meetings, in-depth qualitative insights into people's experiences of walking meetings are needed. We conducted semi-structured walking interviews (N=16) to identify key drivers and barriers for walking meetings in a living lab setting by using the 'WorkWalk'. The 'WorkWalk' is a 1.8 km walking route indicated by a dotted blue line with outdoor meeting points, integrated into the room booking system. Our findings provide insights into how walking meetings are experienced and affect the set-up and social dynamics of meetings. We offer design recommendations for the development of future technologies and service design elements to support walking meetings and active ways of working."
+    },
+    {
+        "title": "Listen to Developers! A Participatory Design Study on Security Warnings for Cryptographic APIs",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Peter Leo Gorski",
+            "Yasemin Acar",
+            "Luigi Lo Iacono",
+            "Sascha Fahl"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376142",
+        "citation": "17",
+        "abstract": "The positive effect of security information communicated to developers through API warnings has been established. However, current prototypical designs are based on security warnings for end-users. To improve security feedback for developers, we conducted a participatory design study with 25 professional software developers in focus groups. We identify which security information is considered helpful in avoiding insecure cryptographic API use during development. Concerning console messages, participants suggested five core elements, namely message classification, title message, code location, link to detailed external resources, and color. Design guidelines for end-user warnings are only partially suitable in this context. Participants emphasized the importance of tailoring the detail and content of security information to the context. Console warnings call for concise communication; further information needs to be linked externally. Therefore, security feedback should transcend tools and should be adjustable by software developers across development tools, considering the work context and developer needs."
+    },
+    {
+        "title": "ReCog: Supporting Blind People in Recognizing Personal Objects",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Dragan Ahmetovic",
+            "Daisuke Sato",
+            "Uran Oh",
+            "Tatsuya Ishihara",
+            "Kris Kitani",
+            "Chieko Asakawa"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376143",
+        "citation": "30",
+        "abstract": "We present ReCog, a mobile app that enables blind users to recognize objects by training a deep network with their own photos of such objects. This functionality is useful to differentiate personal objects, which cannot be recognized with pre-trained recognizers and may lack distinguishing tactile features. To ensure that the objects are well-framed in the captured photos, ReCog integrates a camera-aiming guidance that tracks target objects and instructs the user through verbal and sonification feedback to appropriately frame them."
+    },
+    {
+        "title": "Breaking The Experience: Effects of Questionnaires in VR User Studies",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Susanne Putze",
+            "Dmitry Alexandrovsky",
+            "Felix Putze",
+            "Sebastian Höffner",
+            "Jan David Smeddinck",
+            "Rainer Malaka"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376144",
+        "citation": "56",
+        "abstract": "Questionnaires are among the most common research tools in virtual reality (VR) evaluations and user studies. However, transitioning from virtual worlds to the physical world to respond to VR experience questionnaires can potentially lead to systematic biases. Administering questionnaires in VR (inVRQs) is becoming more common in contemporary research. This is based on the intuitive notion that inVRQs may ease participation, reduce the Break in Presence (BIP) and avoid biases. In this paper, we perform a systematic investigation into the effects of interrupting the VR experience through questionnaires using physiological data as a continuous and objective measure of presence. In a user study (n=50), we evaluated question-asking procedures using a VR shooter with two different levels of immersion. The users rated their player experience with a questionnaire either inside or outside of VR. Our results indicate a reduced BIP for the employed inVRQ without affecting the self-reported player experience."
+    },
+    {
+        "title": "\"Hey Model!\" – Natural User Interactions and Agency in Accessible Interactive 3D Models",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Samuel Reinders",
+            "Matthew Butler",
+            "Kim Marriott"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376145",
+        "citation": "12",
+        "abstract": "While developments in 3D printing have opened up opportunities for improved access to graphical information for people who are blind or have low vision (BLV), they can provide only limited detailed and contextual information. Interactive 3D printed models (I3Ms) that provide audio labels and/or a conversational agent interface potentially overcome this limitation. We conducted a Wizard-of-Oz exploratory study to uncover the multi-modal interaction techniques that BLV people would like to use when exploring I3Ms, and investigated their attitudes towards different levels of model agency. These findings informed the creation of an I3M prototype of the solar system. A second user study with this model revealed a hierarchy of interaction, with BLV users preferring tactile exploration, followed by touch gestures to trigger audio labels, and then natural language to fill in knowledge gaps and confirm understanding."
+    },
+    {
+        "title": "Meta-AR-App: An Authoring Platform for Collaborative Augmented Reality in STEM Classrooms",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Ana Villanueva",
+            "Zhengzhe Zhu",
+            "Ziyi Liu",
+            "Kylie Peppler",
+            "Thomas Redick",
+            "Karthik Ramani"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376146",
+        "citation": "35",
+        "abstract": "Augmented Reality (AR) has become a valuable tool for education and training processes. Meanwhile, cloud-based technologies can foster collaboration and other interaction modalities to enhance learning. We combine the cloud capabilities with AR technologies to present Meta-AR-App, an authoring platform for collaborative AR, which enables authoring between instructors and students. Additionally, we introduce a new application of an established collaboration process, the pull-based development model, to enable sharing and retrieving of AR learning content. We customize this model and create two modalities of interaction for the classroom: local (student to student) and global (instructor to class) pull. Based on observations from our user studies, we organize a four-category classroom model which implements our system: Work, Design, Collaboration, and Technology. Further, our system enables an iterative improvement workflow of the class content and enables synergistic collaboration that empowers students to be active agents in the learning process."
+    },
+    {
+        "title": "PenSight: Enhanced Interaction with a Pen-Top Camera",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Fabrice Matulic",
+            "Riku Arakawa",
+            "Brian Vogel",
+            "Daniel Vogel"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376147",
+        "citation": "17",
+        "abstract": "We propose mounting a downward-facing camera above the top end of a digital tablet pen. This creates a unique and practical viewing angle for capturing the pen-holding hand and the immediate surroundings which can include the other hand. The fabrication of a prototype device is described and the enabled interaction design space is explored, including dominant and non-dominant hand pose recognition, tablet grip detection, hand gestures, capturing physical content in the environment, and detecting users and pens. A deep learning computer vision pipeline is developed for classification, regression, and keypoint detection to enable these interactions. Example applications demonstrate usage scenarios and a qualitative user evaluation confirms the potential of the approach."
+    },
+    {
+        "title": "From Data to Insights: A Layered Storytelling Approach for Multimodal Learning Analytics",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Roberto Martinez-Maldonado",
+            "Vanessa Echeverria",
+            "Gloria Fernandez Nieto",
+            "Simon Buckingham Shum"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376148",
+        "citation": "34",
+        "abstract": "Significant progress to integrate and analyse multimodal data has been carried out in the last years. Yet, little research has tackled the challenge of visualising and supporting the sensemaking of multimodal data to inform teaching and learning. It is naïve to expect that simply by rendering multiple data streams visually, a teacher or learner will be able to make sense of them. This paper introduces an approach to unravel the complexity of multimodal data by organising it into meaningful layers that explain critical insights to teachers and students. The approach is illustrated through the design of two data storytelling prototypes in the context of nursing simulation. Two authentic studies with educators and students identified the potential of the approach to create learning analytics interfaces that communicate insights on team performance, as well as concerns in terms of accountability and automated insights discovery."
+    },
+    {
+        "title": "Computing Students' Learning Difficulties in HCI Education",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Alannah Oleson",
+            "Meron Solomon",
+            "Amy J. Ko"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376149",
+        "citation": "28",
+        "abstract": "Software developers often make interface design decisions and work with designers. Therefore, computing students who seek to become developers need some education about interface design. While prior work has studied difficulties that educators face when teaching design to computing students, there is comparatively little work on the difficulties computing students face when learning HCI design skills. To uncover these difficulties, we conducted two qualitative studies consisting of surveys and interviews with (1) computing students and (2) educators who teach interface design to computing students. Qualitative analysis of their responses revealed 18 types of learning difficulties students might experience in HCI design education, including difficulties around the mechanics of design work, project management skills, the wicked nature of design problems, and distorted perspectives on design."
+    },
+    {
+        "title": "Evaluating 'Prefer not to say' Around Sensitive Disclosures",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Mark Warner",
+            "Agnieszka Kitkowska",
+            "Jo Gibbs",
+            "Juan F. Maestre",
+            "Ann Blandford"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376150",
+        "citation": "8",
+        "abstract": "As people's offline and online lives become increasingly entwined, the sensitivity of personal information disclosed online is increasing. Disclosures often occur through structured disclosure fields (e.g., drop-down lists). Prior research suggests these fields may limit privacy, with non-disclosing users being presumed to be hiding undesirable information. We investigated this around HIV status disclosure in online dating apps used by men who have sex with men. Our online study asked participants (N=183) to rate profiles where HIV status was either disclosed or undisclosed. We tested three designs for displaying undisclosed fields. Visibility of undisclosed fields had a significant effect on the way profiles were rated, and other profile information (e.g., ethnicity) could affect inferences that develop around undisclosed information. Our research highlights complexities around designing for non-disclosure and questions the voluntary nature of these fields. Further work is outlined to ensure disclosure control is appropriately implemented around online sensitive information disclosures."
+    },
+    {
+        "title": "Proximate Social Factors in First-Time Contribution to Online Communities",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Joseph Seering",
+            "Jessica Hammer",
+            "Geoff Kaufman",
+            "Diyi Yang"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376151",
+        "citation": "16",
+        "abstract": "In the course of every member's integration into an online community, a decision must be made to participate for the first time. The challenges of effective recruitment, management, and retention of new users have been extensively explored in social computing research. However, little work has looked at in-the-moment factors that lead users to decide to participate instead of \"lurk\", conditions which can be shaped to draw new users in at crucial moments. In this work we analyze 183 million messages scraped from chatrooms on the livestreaming platform Twitch in order to understand differences between first-time participants' and regulars' behaviors and to identify conditions that encourage first-time participation. We find that presence of diverse types of users increases likelihood of new participation, with effects depending on the size of the community. We also find that information-seeking behaviors in first-time participation are negatively associated with retention in the short and medium term."
+    },
+    {
+        "title": "Data-driven Multi-level Segmentation of Image Editing Logs",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Zipeng Liu",
+            "Zhicheng Liu",
+            "Tamara Munzner"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376152",
+        "citation": "5",
+        "abstract": "Automatic segmentation of logs for creativity tools such as image editing systems could improve their usability and learnability by supporting such interaction use cases as smart history navigation or recommending alternative design choices. We propose a multi-level segmentation model that works for many image editing tasks including poster creation, portrait retouching, and special effect creation. The lowest-level chunks of logged events are computed using a support vector machine model and higher-level chunks are built on top of these, at a level of granularity that can be customized for specific use cases. Our model takes into account features derived from four event attributes collected in realistically complex Photoshop sessions with expert users: command, timestamp, image content, and artwork layer. We present a detailed analysis of the relevance of each feature and evaluate the model using both quantitative performance metrics and qualitative analysis of sample sessions."
+    },
+    {
+        "title": "Data Everyday: Data Literacy Practices in a Division I College Sports Context",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Tamara Clegg",
+            "Daniel M. Greene",
+            "Nate Beard",
+            "Jasmine Brunson"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376153",
+        "citation": "11",
+        "abstract": "Data analysis is central to sports training. Today, cutting-edge digital technologies are deployed to measure and improve athletes' performance. But too often researchers focus on the technology collecting performance data at the expense of understanding athletes' experiences with data. This is particularly the case in the understudied context of collegiate athletics, where competition is fierce, tools for data analysis abound, and the institution actively manages athletes' lives. By investigating how student-athletes analyze their performance data and are analyzed in turn, we can better understand the individual and institutional factors that make data literacy practices in athletics meaningful and productive-or not. Our pilot interview study of student-athletes at one Division I university reveals a set of opportunities for student-athletes to engage with and learn from data analytics practices. These opportunities come with a set of contextual tensions that should inform the design of new technologies for collegiate sports settings."
+    },
+    {
+        "title": "TalkingBoogie: Collaborative Mobile AAC System for Non-verbal Children with Developmental Disabilities and Their Caregivers",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Donghoon Shin",
+            "Jaeyoon Song",
+            "Seokwoo Song",
+            "Jisoo Park",
+            "Joonhwan Lee",
+            "Soojin Jun"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376154",
+        "citation": "12",
+        "abstract": "Augmentative and alternative communication (AAC) technologies are widely used to help non-verbal children enable communication. For AAC-aided communication to be successful, caregivers should support children with consistent intervention strategies in various settings. As such, caregivers need to continuously observe and discuss children's AAC usage to create a shared understanding of these strategies. However, caregivers often find it challenging to effectively collaborate with one another due to a lack of family involvement and the unstructured process of collaboration. To address these issues, we present TalkingBoogie, which consists of two mobile apps: TalkingBoogie-AAC for caregiver-child communication, and TalkingBoogie-coach supporting caregiver collaboration. Working together, these applications provide contextualized layouts for symbol arrangement, scaffold the process of sharing and discussing observations, and induce caregivers' balanced participation. A two-week deployment study with four groups (N=11) found that TalkingBoogie helped increase mutual understanding of strategies and encourage balanced participation between caregivers with reduced cognitive loads."
+    },
+    {
+        "title": "texSketch: Active Diagramming through Pen-and-Ink Annotations",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Hariharan Subramonyam",
+            "Colleen Seifert",
+            "Priti Shah",
+            "Eytan Adar"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376155",
+        "citation": "17",
+        "abstract": "Learning from text is a constructive activity in which sentence-level information is combined by the reader to build coherent mental models. With increasingly complex texts, forming a mental model becomes challenging due to a lack of background knowledge, and limits in working memory and attention. To address this, we are taught knowledge externalization strategies such as active reading and diagramming. Unfortunately, paper-and-pencil approaches may not always be appropriate, and software solutions create friction through difficult input modalities, limited workflow support, and barriers between reading and diagramming. For all but the simplest text, building coherent diagrams can be tedious and difficult. We propose Active Diagramming, an approach extending familiar active reading strategies to the task of diagram construction. Our prototype, texSketch, combines pen-and-ink interactions with natural language processing to reduce the cost of producing diagrams while maintaining the cognitive effort necessary for comprehension. Our user study finds that readers can effectively create diagrams without disrupting reading."
+    },
+    {
+        "title": "\"Out of Luck\": Socio-Economic Differences in Student Coping Responses to Technology Problems",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Gwen Petro",
+            "Amy Gonzales",
+            "Jessica Calarco"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376156",
+        "citation": "2",
+        "abstract": "Despite high levels of digital technology access among college students, technology disruption remains an issue. This study was conducted to understand how technology disruption might contribute to socio-economic disparities in academic performance. Data were analyzed from a non-representative sample of 748 undergraduate students. We examined socio-economic differences in types of technology problems students experience; the consequences of those problems; and beliefs about how to handle future problems. Socio-economic status was not associated with types of technology problems, but it was associated with greater negative consequences and less-efficacious beliefs about handling future situations. These findings are consistent with sociological work on socio-economic differences in student help-seeking. They also elaborate mechanistic understanding of the technology maintenance construct. Finally, for those interested in designing to reduce socio-economic inequalities, they suggest the need for interfaces that go beyond information accessibility to facilitate student empowerment and student-teacher communication."
+    },
+    {
+        "title": "Exploring Auditory Information to Change Users' Perception of Time Passing as Shorter",
+        "conferenceTitle": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "data": "April 2020",
+        "authors": [
+            "Takanori Komatsu",
+            "Seiji Yamada"
+        ],
+        "DOI": "https://doi.org/10.1145/3313831.3376157",
+        "citation": "8",
+        "abstract": "Although the processing speed of computers has been drastically increasing year by year, users still have to wait for computers to complete tasks or to respond. To cope with this, several studies have proposed presenting certain visual information to users to change their perception of time passing as shorter, e.g., progress bars with animated ribbing or faster/slower virtual clocks. As speech interfaces such as smart speakers are becoming popular, a novel method is required to make users perceive the passing of time as shorter by presenting auditory stimuli. We thus prepared 20 pieces of auditory information as experimental stimuli; that is, 11 auditory stimuli that have the same 10.1-second duration but different numbers of 0.1-second sine-wave sounds and 9 other auditory stimuli that have the same 10.1-second duration and numbers of sounds but different interval patterns between the sounds. We conducted three experiments to figure out which kinds of auditory stimuli can change users' perception of time passing as shorter. We found that a 10.1-second auditory stimulus that has 0.1-second sine-wave sounds appearing 11 times with intervals between the sounds that narrow rapidly in a linear fashion was perceived as shortest at about 9.3 seconds, which was 7.6% shorter than the actual duration of the stimulus. We also found that different interval patterns of sounds in auditory information significantly affected users' perception of time passing as shorter, while different numbers of sounds did not."
+    }
+]
