@@ -35,8 +35,8 @@ for file in FILES:
     with open(ORIG_PATH + '/' + file) as f:
         json_data = json.load(f)
         for paper in json_data:
-            if paper['Session'] + conference + str(year) not in session:
-                session[paper['Session']+conference + str(year)] = len(session) + 1
+            if (paper['Session'] if 'Session' in paper else '') + conference + str(year) not in session:
+                session[paper['Session'] + conference + str(year)] = len(session) + 1
                 conference_session.append([len(conference_session), paper['Session'], conference_id, year])
             papers.append([len(papers), paper['abstract'],
                           paper['title'], paper['authors'], len(conference_session)-1, paper['data'], paper['DOI'], paper['citation']])
