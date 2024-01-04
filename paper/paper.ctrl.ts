@@ -17,9 +17,13 @@ async function getPaper(req: Request, res: Response) {
     let connection = await db.getConnection();
 
     let [papers, fields] = await connection
-      .query(`SELECT * FROM paper WHERE ${search} LIKE "%"?"%" LIMIT 50`, [
-        query,
-      ])
+      .query(
+        `SELECT * FROM papers p\
+        JOIN journals j ON p.conference_session_id=j.id\
+        WHERE ${search} LIKE "%"?"%"\
+        LIMIT 50`,
+        [query]
+      )
       .then(
         (res: any) => {
           return res;
