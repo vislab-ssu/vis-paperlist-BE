@@ -1,0 +1,409 @@
+[
+    {
+        "title": "Scale effects in steering law tasks",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Johnny Accot",
+            "Shumin Zhai"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365027",
+        "citation": "94",
+        "abstract": "Interaction tasks on a computer screen can technically be scaled to a much larger or much smaller sized input control area by adjusting the input device's control gain or the control-display (C-D) ratio. However, human performance as a function of movement scale is not a well concluded topic. This study introduces a new task paradigm to study the scale effect in the framework of the steering law. The results confirmed a U-shaped performance-scale function and rejected straight-line or no-effect hypotheses in the literature. We found a significant scale effect in path steering performance, although its impact was less than that of the steering law's index of difficulty. We analyzed the scale effects in two plausible causes: movement joints shift and motor precision limitation. The theoretical implications of the scale effects to the validity of the steering law, and the practical implications of input device size and zooming functions are discussed in the paper."
+    },
+    {
+        "title": "Accuracy measures for evaluating computer pointing devices",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "I. Scott MacKenzie",
+            "Tatu Kauppinen",
+            "Miika Silfverberg"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365028",
+        "citation": "291",
+        "abstract": "In view of the difficulties in evaluating computer pointing devices across different tasks within dynamic and complex systems, new performance measures are needed. This paper proposes seven new accuracy measures to elicit (sometimes subtle) differences among devices in precision pointing tasks. The measures are target re-entry, task axis crossing, movement direction change, orthogonal direction change, movement variability, movement error, and movement offset. Unlike movement time, error rate, and throughput, which are based on a single measurement per trial, the new measures capture aspects of movement behaviour during a trial. The theoretical basis and computational techniques for the measures are described, with examples given. An evaluation with four pointing devices was conducted to validate the measures. A causal relationship to pointing device efficiency (viz. throughput) was found, as was an ability to discriminate among devices in situations where differences did not otherwise appear. Implications for pointing device research are discussed."
+    },
+    {
+        "title": "Laser pointer interaction",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Dan R. Olsen",
+            "Travis Nielsen"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365030",
+        "citation": "154",
+        "abstract": "Group meetings and other non-desk situations require that people be able to interact at a distance from a display surface. This paper describes a technique using a laser pointer and a camera to accomplish just such interactions. Calibration techniques are given to synchronize the display and camera coordinates. A series of interactive techniques are described for navigation and entry of numbers, times, dates, text, enumerations and lists of items. The issues of hand jitter, detection error, slow sampling and latency are discussed in each of the interactive techniques."
+    },
+    {
+        "title": "Listen reader: an electronically augmented paper-based book",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Maribeth Back",
+            "Jonathan Cohen",
+            "Rich Gold",
+            "Steve Harrison",
+            "Scott Minneman"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365031",
+        "citation": "132",
+        "abstract": "While predictions abound that electronic books will supplant traditional paper-based books, many people bemoan the coming loss of the book as cultural artifact. In this project we deliberately keep the affordances of paper books while adding electronic augmentation. The Listen Reader combines the look and feel of a real book - a beautiful binding, paper pages and printed images and text - with the rich, evocative quality of a movie soundtrack. The book's multi-layered interactive soundtrack consists of music and sound effects. Electric field sensors located in the book binding sense the proximity of the reader's hands and control audio parameters, while RFID tags embedded in each page allow fast, robust page identification."
+    },
+    {
+        "title": "Exploiting interactivity, influence, space and time to explore non-linear drama in virtual worlds",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Mike Craven",
+            "Ian Taylor",
+            "Adam Drozd",
+            "Jim Purbrick",
+            "Chris Greenhalgh",
+            "Steve Benford",
+            "Mike Fraser",
+            "John Bowers",
+            "Kai-Mikael Jää-Aro",
+            "Bernd Lintermann",
+            "Michael Hoch"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365032",
+        "citation": "19",
+        "abstract": "We present four contrasting interfaces to allow multiple viewers to explore 3D recordings of dramas in on-line virtual worlds. The first is an on-line promenade performance to an audience of avatars. The second is a form of immersive cinema, with multiple simultaneous viewpoints. The third is a tabletop projection surface that allows viewers to select detailed views from a bird's-eye overview. The fourth is a linear television broadcast created by a director or editor. A comparison of these examples shows how a viewing audience can exploit four general resources - interactivity, influence, space, and time - to make sense of complex, non-linear virtual drama. These resources provide interaction designers with a general framework for defining the relationship between the audience and the 3D content."
+    },
+    {
+        "title": "Orchestrating a mixed reality performance",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Boriana Koleva",
+            "Ian Taylor",
+            "Steve Benford",
+            "Mike Fraser",
+            "Chris Greenhalgh",
+            "Holger Schnädelbach",
+            "Dirk vom Lehn",
+            "Christian Heath",
+            "Ju Row-Farr",
+            "Matt Adams"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365033",
+        "citation": "66",
+        "abstract": "A study of a professional touring mixed reality performance called Desert Rain yields insights into how performers orchestrate players' engagement in an interactive experience. Six players at a time journey through an extended physical and virtual set. Each sees a virtual world projected onto a screen made from a fine water spray. This acts as a traversable interface, supporting the illusion that performers physically pass between real and virtual worlds. Live and video-based observations of Desert Rain, coupled with interviews with players and the production team, have revealed how the performers create conditions for the willing suspension of disbelief, and how they monitor and intervene in the players experience without breaking their engagement. This involves carefully timed performances and “off-face” and “virtual” interventions. In turn, these are supported by the ability to monitor players' physical and virtual activity through asymmetric interfaces."
+    },
+    {
+        "title": "Cookies and Web browser design: toward realizing informed consent online",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Lynette I. Millett",
+            "Batya Friedman",
+            "Edward Felten"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365034",
+        "citation": "72",
+        "abstract": "We first provide criteria for assessing informed consent online. Then we examine how cookie technology and Web browser designs have responded to concerns about informed consent. Specifically, we document relevant design changes in Netscape Navigator and Internet Explorer over a 5-year period, starting in 1995. Our retrospective analyses leads us to conclude that while cookie technology has improved over time regarding informed consent, some startling problems remain. We specify six of these problems and offer design remedies. This work fits within the emerging field of Value-Sensitive Design."
+    },
+    {
+        "title": "Empirically validated web page design metrics",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Melody Y. Ivory",
+            "Rashmi R. Sinha",
+            "Marti A. Hearst"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365035",
+        "citation": "119",
+        "abstract": "A quantitative analysis of a large collection of expert-rated web sites reveals that page-level metrics can accurately predict if a site will be highly rated. The analysis also provides empirical evidence that important metrics, including page composition, page formatting, and overall page characteristics, differ among web site categories such as education, community, living, and finance. These results provide an empirical foundation for web site design guidelines and also suggest which metrics can be most important for evaluation via user studies."
+    },
+    {
+        "title": "What makes Web sites credible?: a report on a large quantitative study",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "B. J. Fogg",
+            "Jonathan Marshall",
+            "Othman Laraki",
+            "Alex Osipovich",
+            "Chris Varma",
+            "Nicholas Fang",
+            "Jyoti Paul",
+            "Akshay Rangnekar",
+            "John Shon",
+            "Preeti Swani",
+            "Marissa Treinen"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365037",
+        "citation": "421",
+        "abstract": "The credibility of web sites is becoming an increasingly important area to understand. To expand knowledge in this domain, we conducted an online study that investigated how different elements of Web sites affect people's perception of credibility. Over 1400 people participated in this study, both from the U.S. and Europe, evaluating 51 different Web site elements. The data showed which elements boost and which elements hurt perceptions of Web credibility. Through analysis we found these elements fell into one of seven factors. In order of impact, the five types of elements that increased credibility perceptions were “real-world feel”, “ease of use”, “expertise”, “trustworthiness”, and “tailoring”. The two types of elements that hurt credibility were “commercial implications&rdquo ;and “amateurism”. This large-scale study lays the groundwork for further research into the elements that affect Web credibility. The results also suggest implications for designing credible Web sites."
+    },
+    {
+        "title": "Improving the performance of the cyberlink mental interface with “yes / no program”",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Eamon Doherty",
+            "Gilbert Cockton",
+            "Chris Bloor",
+            "Dennis Benigno"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365038",
+        "citation": "12",
+        "abstract": "We summarise the results of the first studies to investigate the Cyberlink brain body interface as an assistive technology. Three phases of studies and a contextual inquiry were performed with a range of users. A focus group was formed from brain-injured users with locked-in syndrome who have no other method of communication or control of a computer than the Cyberlink. Versions of a Yes/No program were then created to allow communication and have achieved some success with the focus group. The purpose of this paper is to discuss how this program has been improved and what steps need to be taken to create communication programs for persons with severe motor impairment. As a result of our experiences, we have been able to develop a set of design guidelines for brain-body interface operated Yes/No programs. These are presented and justified on the basis of our experiences. We also raise some general issues for assistive technologies of this nature."
+    },
+    {
+        "title": "Responding to subtle, fleeting changes in the user's internal state",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Wataru Tsukahara",
+            "Nigel Ward"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365047",
+        "citation": "25",
+        "abstract": "In human-to-human interaction, people sometimes are able to pick up and respond sensitively to the other's internal state as it shifts moment by moment over the course of an exchange. To find out whether such an ability is worthwhile for computer human interfaces, we built a semi-automated tutoring-type spoken dialog system. The system inferred information about the user's \\scare{ephemeral emotions}, such as confidence, confusion, pleasure, and dependency, from the prosody of his utterances and the context. It used this information to select the most appropriate acknowledgement form at each moment. In doing so the system was following some of the basic social conventions for real-time interaction. Users rated the system with this ability more highly than a version without."
+    },
+    {
+        "title": "An “independent visual background” reduced balance disturbance envoked by visual scene motion: implication for alleviating simulator sickness",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Henry Been-Lirn Duh",
+            "Donald E. Parker",
+            "Thomas A. Furness"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365051",
+        "citation": "23",
+        "abstract": "Simulator sickness (SS) / virtual environment (VE) sickness is expected to become increasingly troublesome as VE technology evolves [20]. Procedures to alleviate SS / VE sickness have been of limited value [12]. This paper investigated a possible procedure to reduce SS and VE sickness. Postural disturbance was evoked by visual scene motion at different frequencies. Differences in disturbance were examined as a function of simultaneous exposure to an “independent visual background” (IVB). Eight subjects were tested at two scene motion frequencies and three different IVB conditions using a within-subjects design. An expected statistically significant interaction between IVB condition and frequency was observed. For low frequency scene movements, subjects exhibited less balance disturbance when the IVB was presented. We suggest that an IVB may alleviate disturbance when conflicting visual and inertial cues are likely to result in simulator or VE sickness."
+    },
+    {
+        "title": "Layered participatory analysis: new developments in the CARD technique",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Michael J. Muller"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365054",
+        "citation": "51",
+        "abstract": "CARD (Collaborative Analysis of Requirements and Design) is an influential technique for participatory design and participatory analysis that is in use on three continents. This paper reviews three case studies that document the development of a layered CARD approach, which distinguishes among the following: (1) observable, formal components, (2) skill and craft, and (3) interpretative description. The layered approach simplifies the CARD materials, and moves the deliberately informal technique toward a more principled analysis."
+    },
+    {
+        "title": "Building a human factors “knowledge shelf” as a collaborative information tool for designers",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Brian H. Philips",
+            "Moin Rahman",
+            "Jari Järvinen"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365056",
+        "citation": "0",
+        "abstract": "Human factors professionals have long been challenged with finding an effective way of communicating critical human factors design information to product designers. The authors have created a tool called a “Knowledge Shelf” for providing human factors information to designers in a very easy to use manner. The Knowledge Shelf is an interactive virtual library of information on human factors methodologies and data relevant to the specific product development needs of designers. Available through the Motorola Intranet, the Knowledge Shelf is designed to make human factors design information easily accessible. Providing these types of information to designers positively impacts the product development process, by facilitating more user-centered design practices."
+    },
+    {
+        "title": "Global-software development lifecycle: an exploratory study",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Alvin W. Yeo"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365060",
+        "citation": "47",
+        "abstract": "This study was conducted to explore the efficacy of the global-software development lifecycle (global-SDLC), which comprises design, implementation and usability evaluation phase. A spreadsheet was adapted using the global-SDLC process to accommodate a number of cultures. The design and implementation phases were efficacious. However, in the usability evaluation phase, the usability evaluation techniques were only efficacious when participants, who were experienced computer users and participants who were familiar with the experimenter, were employed. Explanations, from cultural literature such as Hofstede, are presented and implications of these findings on the usability evaluation phase and the global-SDLC are also described."
+    },
+    {
+        "title": "Ignoring perfect knowledge in-the-world for imperfect knowledge in-the-head",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Wayne D. Gray",
+            "Wai-Tat Fu"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365061",
+        "citation": "49",
+        "abstract": "Memory can be internal or external - knowledge in-the-world or knowledge in-the-head. Making needed information available in an interface may seem the perfect alternative to relying on imperfect memory. However, the rational analysis framework (Anderson, 1990) suggests that least-effort tradeoffs may lead to imperfect performance even when perfect knowledge in-the-world is readily available. The implications of rational analysis for interactive behavior are investigated in two experiments. In experiment 1 we varied the perceptual-motor effort of accessing knowledge in-the-world as well as the cognitive effort of retrieving items from memory. In experiment 2 we replicated one of the experiment 1 conditions to collect eye movement data. The results suggest that milliseconds matter. Least-effort tradeoffs are adopted even when the absolute difference in effort between a perceptual-motor versus a memory strategy is small, and even when adopting a memory strategy results in a higher error rate and lower performance."
+    },
+    {
+        "title": "Predicting the effects of in-car interfaces on driver behavior using a cognitive architecture",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Dario D. Salvucci"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365064",
+        "citation": "31",
+        "abstract": "When designing and evaluating in-car user interfaces for drivers, it is essential to determine what effects these interfaces may have on driver behavior and performance. This paper describes a novel approach to predicting effects of in-car interfaces by modeling behavior in a cognitive architecture. A cognitive architecture is a theoretical frame-work for building computational models of cognition and performance. The proposed approach centers on integrating a user model for the interface with an existing driver model that accounts for basic aspects of driver behavior (e.g., steering and speed control). By running the integrated model and having it interact with the interface while driving, we can generate a priori predictions of the effects of interface use on driver performance. The paper illustrates the approach by comparing four representative dialing interfaces for an in-car, hands-free cellular phone. It also presents an empirical study that validates several of the qualitative and quantitative predictions of the model."
+    },
+    {
+        "title": "Towards demystification of direct manipulation: cognitive modeling charts the gulf of execution",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "David Kieras",
+            "David Meyer",
+            "James Ballas"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365069",
+        "citation": "11",
+        "abstract": "Direct manipulation involves a large number of interacting psychological mechanisms that make the performance of a given interface hard to predict on intuitive or informal grounds. This paper applies cognitive modeling to explain the subtle effects produced by using a keypad versus a touchscreen in a performance-critical laboratory task."
+    },
+    {
+        "title": "Visualization components for persistent conversations",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Marc A. Smith",
+            "Andrew T. Fiore"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365073",
+        "citation": "118",
+        "abstract": "An appropriately designed interface to persistent, threaded conversations could reinforce socially beneficial behavior by prominently featuring how frequently and to what degree each user exhibits such behaviors. Based on the data generated by the Netscan data-mining project [9], we have developed a set of tools for illustrating the structure of discussion threads like those found in Usenet newsgroups and the patterns of participation within the discussions. We describe the benefits and challenges of integrating these tools into a multi-faceted dashboard for navigating and reading discussions in social cyberspaces like Usenet and related interaction media. Visualizations of the structure of online discussions have applications for research into the sociology of online groups as well as possible interface designs for their members."
+    },
+    {
+        "title": "Time Aura: interfaces for pacing",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Lena Mamykina",
+            "Elizabeth Mynatt",
+            "Michael A. Terry"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365077",
+        "citation": "11",
+        "abstract": "Historically one of the visions for human-computer symbiosis has been to augment human intelligence and extend people's cognitive abilities. In this paper, we present two visually-based systems to enhance a person's ability to flexibly control their pace while engaged in a cognitively demanding activity. In these investigations, we explore pacing interfaces that minimize the cognitive demands for assessing a current pace, provide ambient cues that can be quickly interpreted without incurring significant interruption from the current task, and place knowledge in the world to flexibly support different pacing strategies. Evaluation of our pacing interfaces shows that technology can successfully support pacing."
+    },
+    {
+        "title": "Doom as an interface for process management",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Dennis Chao"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365078",
+        "citation": "52",
+        "abstract": "This paper explores a novel interface to a system administration task. Instead of creating an interface de novo for the task, the author modified a popular computer game, Doom, to perform useful work. The game was chosen for its appeal to the target audience of system administrators. The implementation described is not a mature application, but it illustrates important points about user interfaces and our relationship with computers. The applications relies on a computer game vernacular rather than the simulations of physical reality found in typical navigable virtual environments. Using a computer game vocabulary may broaden an application's audience by providing sn intuitive environment for children and non-technical users. In addition, the application highlights the adversarial relationships that exist in a computer and suggests a new resource allocation scheme."
+    },
+    {
+        "title": "Shall we mix synthetic speech and human speech?: impact on users' performance, perception, and attitude",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Li Gong",
+            "Jennifer Lai"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365090",
+        "citation": "23",
+        "abstract": "Because it is impractical to record human voice for ever-changing dynamic content such as email messages and news, many commercial speech applications use human speech for fixed prompts and synthetic speech (TTS) for the dynamic content. However, this mixing approach may not be optimal from a consistency perspective. A 2-condition between-group experiment (N = 24) was conducted to compare two versions of a virtual-assistant interface (mixing human voice and TTS vs. TTS-only). Users interacted with the virtual assistant to manage some email and calendar tasks. Their task performance, self-perception of task performance, and attitudinal responses were measured. Users interacting with the TTS-only interface performed the task significantly better, while users interacting with the mixed-voices interface thought they did better and had more positive attitudinal responses. Explanations and design implications are suggested."
+    },
+    {
+        "title": "Effects of spatial audio on memory, comprehension, and preference during desktop conferences",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Jessica J. Baldis"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365092",
+        "citation": "50",
+        "abstract": "An experiment was conducted to determine the effect of spatial audio on memory, focal assurance, perceived comprehension and listener preferences during desktop conferences. Nineteen participants listened to six, pre-recorded, desktop conferences. Each conference was presented using either non-spatial audio, co-located spatial audio, or scaled spatial audio, and during half of the conferences, static visual representations of the conferees were present. In the co-located condition, each conferees voice originated from directly above their image on the screen, and in the scaled spatial audio condition, the spatial separation between conferee voices was increased beyond the visual separation. Results showed that spatial audio improved all measures, increasing memory, focal assurance, and perceived comprehension. In addition, participants preferred spatial audio to non-spatial audio. No strong differences were found in the visual conditions, or between the co-located spatial condition and the scaled spatial conditions."
+    },
+    {
+        "title": "Quiet calls: talking silently on mobile phones",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Les Nelson",
+            "Sara Bly",
+            "Tomas Sokoler"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365094",
+        "citation": "40",
+        "abstract": "Quiet Calls is a technology allowing mobile telephone users to respond to telephone conversations without talking aloud. QC-Hold, a Quiet Calls prototype, combines three buttons for responding to calls with a PDA/mobile phone unit to silently send pre-recorded audio directly into the phone. This permits a mixed-mode communication where callers in public settings use a quiet means of communication, and other callers experience a voice telephone call. An evaluation of QC-Hold shows that it is easily used and suggests ways in which Quiet Calls offers a new form of communication, extending the choices offered by synchronous phone calling and asynchronous voicemail."
+    },
+    {
+        "title": "The audio notebook: paper and pen interaction with structured speech",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Lisa Stifelman",
+            "Barry Arons",
+            "Chris Schmandt"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365096",
+        "citation": "88",
+        "abstract": "This paper addresses the problem that a listener experiences when attempting to capture information presented during a lecture, meeting, or interview. Listeners must divide their attention between the talker and their notetaking activity. We propose a new device-the Audio Notebook-for taking notes and interacting with a speech recording. The Audio Notebook is a combination of a digital audio recorder and paper notebook, all in one device. Audio recordings are structured using two techniques: user structuring based on notetaking activity, and acoustic structuring based on a talker's changes in pitch, pausing, and energy. A field study showed that the interaction techniques enabled a range of usage styles, from detailed review to high speed skimming. The study motivated the addition of phrase detection and topic suggestions to improve access to the audio recordings. Through these audio interaction techniques, the Audio Notebook defines a new approach for navigation in the audio domain."
+    },
+    {
+        "title": "Does organisation by similarity assist image browsing?",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Kerry Rodden",
+            "Wojciech Basalaj",
+            "David Sinclair",
+            "Kenneth Wood"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365097",
+        "citation": "156",
+        "abstract": "In current systems for browsing image collections, users are presented with sets of thumbnail images arranged in some default order on the screen. We are investigating whether it benefits users to have sets of thumbnails arranged according to their mutual similarity, so images that are alike are placed together. There are, of course, many possible definitions of “similarity”: so far we have explored measurements based on low-level visual features, and on the textual captions assigned to the images. Here we describe two experiments, both involving designers as the participants, examining whether similarity-based arrangements of the candidate images are helpful for a picture selection task. Firstly, the two types of similarity-based arrangement were informally compared. Then, an arrangement based on visual similarity was more formally compared with a control of a random arrangement. We believe this work should be of interest to anyone designing a system that involves presenting sets of images to users."
+    },
+    {
+        "title": "Using thumbnails to search the Web",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Allison Woodruff",
+            "Andrew Faulring",
+            "Ruth Rosenholtz",
+            "Julie Morrsion",
+            "Peter Pirolli"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365098",
+        "citation": "109",
+        "abstract": "We introduce a technique for creating novel, textually-enhanced thumbnails of Web pages. These thumbnails combine the advantages of image thumbnails and text summaries to provide consistent performance on a variety of tasks. We conducted a study in which participants used three different types of summaries (enhanced thumbnails, plain thumbnails, and text summaries) to search Web pages to find several different types of information. Participants took an average of 67, 86, and 95 seconds to find the answer with enhanced thumbnails, plain thumbnails, and text summaries, respectively. We found a strong effect of question category. For some questions, text outperformed plain thumbnails, while for other questions, plain thumbnails outperformed text. Enhanced thumbnails (which combine the features of text summaries and plain thumbnails) were more consistent than either text summaries or plain thumbnails, having for all categories the best performance or performance that was statistically indistinguishable from the best."
+    },
+    {
+        "title": "On the road and on the Web?: comprehension of synthetic and human speech while driving",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Jennifer Lai",
+            "Karen Cheng",
+            "Paul Green",
+            "Omer Tsimhoni"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365100",
+        "citation": "19",
+        "abstract": "In this study 24 participants drove a simulator while listening to three types of messages in both synthesized speech and recorded human speech. The messages consisted of short navigation messages, medium length (approximately 100 words) email messages, and longer news stories (approximately 200 words). After each message the participant was presented with a series of multiple choice questions to measure comprehension of the message. Driving performance was recorded. Findings show that for the low driving workload conditions in the study, (cruise control, predictable two-lane road with no intersections, invariant lead car) driving performance was not affected by listening to messages. This was true for both the synthesized speech and natural speech. Comprehension of messages in synthetic speech was significantly lower than for recorded human speech for all message types."
+    },
+    {
+        "title": "Accordion summarization for end-game browsing on PDAs and cellular phones",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "Orkut Buyukkokten",
+            "Hector Garcia-Molina",
+            "Andreas Paepcke"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365102",
+        "citation": "83",
+        "abstract": "We demonstrate a new browsing technique for devices with small displays such as PDAs or cellular phones. We concentrate on end-game browsing, where the user is close to or on the target page. We make browsing more efficient and easier by Accordion Summarization. In this technique the Web page is first represented as a short summary. The user can then drill down to discover relevant parts of the page. If desired, keywords can be highlighted and exposed automatically. We discuss our techniques, architecture, interface facilities, and the result of user evaluations. We measured a 57% improvement in browsing speed and 75% reduction in input effort."
+    },
+    {
+        "title": "ConNexus to awarenex: extending awareness to mobile users",
+        "conferenceTitle": "CHI '01: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "March 2001",
+        "authors": [
+            "John C. Tang",
+            "Nicole Yankelovich",
+            "James Begole",
+            "Max Van Kleek",
+            "Francis Li",
+            "Janak Bhalodia"
+        ],
+        "DOI": "https://doi.org/10.1145/365024.365105",
+        "citation": "165",
+        "abstract": "We explored the use of awareness information to facilitate communication by developing a series of prototypes. The ConNexus prototype integrates awareness information, instant messaging, and other communication channels in an interface that runs on a desktop computer. The Awarenex prototype extends that functionality to wireless handheld devices, such as a Palm. A speech interface also enables callers to make use of the awareness information over the telephone. While the prototypes offer similar functionality, the interfaces reflect the different design affordances and use context of each platform. We discuss the design implications of providing awareness information on devices with varying interface and network characteristics."
+    }
+]

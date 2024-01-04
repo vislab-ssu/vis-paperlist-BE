@@ -1,0 +1,400 @@
+[
+    {
+        "title": "Acquiring in situ training data for context-aware ubiquitous computing applications",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Stephen S. Intille",
+            "Ling Bao",
+            "Emmanuel Munguia Tapia",
+            "John Rondoni"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985693",
+        "citation": "37",
+        "abstract": "Ubiquitous, context-aware computer systems may ultimately enable computer applications that naturally and usefully respond to a user's everyday activity. Although new algorithms that can automatically detect context from wearable and environmental sensor systems show promise, many of the most flexible and robust systems use probabilistic detection algorithms that require extensive libraries of training data with labeled examples. In this paper, we describe the need for such training data and some challenges we have identified when trying to collect it while testing three context-detection systems for ubiquitous computing and mobile applications."
+    },
+    {
+        "title": "Analysis of combinatorial user effect in international usability tests",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Effie Lai-Chong Law",
+            "Ebba Thora Hvannberg"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985694",
+        "citation": "40",
+        "abstract": "User effect in terms of influencing the validity and reliability of results derived from standard usability tests has been studied with different approaches during the last decade, but inconsistent findings were obtained. User effect is further complicated by other confounding variables. With the use of various computational models, we analyze the extent of user effect in a relatively complex arrangement of international usability tests in which four different European countries were involved. We explore five aspects of user effect, including optimality of sample size, evaluator effect, effect of heterogeneous subgroups, performance of task variants, and efficiency of problem discovery. Some implications for future research are drawn."
+    },
+    {
+        "title": "Animaatiokone: an installation for creating clay animation",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Perttu Hämäläinen",
+            "Mikko Lindholm",
+            "Ari Nykänen",
+            "Johanna Höysniemi"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985695",
+        "citation": "3",
+        "abstract": "This paper describes Animaatiokone, an installation for experimenting and learning about stop-motion animation. Located in a movie theater, it allows people to create clay animation while waiting for a movie. Collaboration between users is supported, for example, by sharing of clay actors. The installation's user interface allows even beginners to create and edit animation with help of automatic onion-skinning and simple controls developed through iterative testing and prototyping. In test use, the installation has been popular and hundreds of animations have been created and made available via the installation's homepage http://www.animaatiokone.net"
+    },
+    {
+        "title": "Breaking the book: translating the chemistry lab book into a pervasive computing lab environment",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "m. c. schraefel",
+            "Gareth V. Hughes",
+            "Hugo R. Mills",
+            "Graham Smith",
+            "Terry R. Payne",
+            "Jeremy Frey"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985696",
+        "citation": "34",
+        "abstract": "The UK e-Science programme is relying on the evolution of the paper lab book into a pervasive data gathering lab system. To date take up of existing commercial or research lab book replacement systems has not been great. In this paper, we reconsider both the role of the lab book in the experimental cycle, as well as its affective and experiential properties as an artefact, in order to design an e-Science lab book that will be acceptable to the scientists who will use it. To this end we combined and extended existing design analysis models in order to assess the artefact functionally and experientially. We present the approach we developed, the prototype we designed based on our analysis, and the results of the formative study we performed of the artefact in real use. We show that our design elicitation method strongly contributed to the success of our prototype's take up."
+    },
+    {
+        "title": "a CAPpella: programming by demonstration of context-aware applications",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Anind K. Dey",
+            "Raffay Hamid",
+            "Chris Beckmann",
+            "Ian Li",
+            "Daniel Hsu"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985697",
+        "citation": "143",
+        "abstract": "Context-aware applications are applications that implicitly take their context of use into account by adapting to changes in a user's activities and environments. No one has more intimate knowledge about these activities and environments than end-users themselves. Currently there is no support for end-users to build context-aware applications for these dynamic settings. To address this issue, we present a CAPpella, a programming by demonstration Context-Aware Prototyping environment intended for end-users. Users \"program\" their desired context-aware behavior (situation and associated action) in situ, without writing any code, by demonstrating it to a CAPpella and by annotating the relevant portions of the demonstration. Using a meeting and medicine-taking scenario, we illustrate how a user can demonstrate different behaviors to a CAPpella. We describe a CAPpella's underlying system to explain how it supports users in building behaviors and present a study of 14 end-users to illustrate its feasibility and usability."
+    },
+    {
+        "title": "Caretta: a system for supporting face-to-face collaboration by integrating personal and shared spaces",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Masanori Sugimoto",
+            "Kazuhiro Hosoi",
+            "Hiromichi Hashizume"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985698",
+        "citation": "77",
+        "abstract": "In this paper, a system called Caretta that integrates personal and shared spaces to support face-to-face collaboration is described. We use PDAs and a multiple-input sensing board for personal and shared spaces, respectively. Users of Caretta can discuss and negotiate with each other in the shared space by manipulating physical objects, while they individually examine their ideas in their own personal spaces. Caretta allows users to participate in group activities interchangeably and seamlessly using both these spaces. Caretta is applicable to various collaborative tasks. In this paper, it supports users in urban planning tasks. User studies of Caretta demonstrated that it allowed users to collaborate in a flexible fashion: users could work individually in their personal spaces at their own pace, cooperatively work together in the shared space, and smoothly transition between both of the spaces."
+    },
+    {
+        "title": "Categorical imperative NOT: facial affect is perceived continuously",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Diane J. Schiano",
+            "Sheryl M. Ehrlich",
+            "Kyle Sheridan"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985699",
+        "citation": "17",
+        "abstract": "Facial affect (or emotion) recognition is a central issue for many VMC and naturalistic computing applications. Most computational models assume \"categorical perception\" of facial affect, in which a benign illusion promotes robust recognition of emotional expressions even under severe degradation conditions, including temporal compression. However, this applied interest in human facial affect perception is coming at a time when the evidence for categorical perception is being challenged in the basic research literature, largely on methodological grounds. The research presented here systematically addresses the classic evidence for categorical perception of facial affect, using high-quality digital imaging and display technologies and improved research methods. In doing so, it illustrates a fruitful convergence of basic and applied research. The evidence does NOT support categorical perception of facial affect, which in turn underlines the importance of preserving high-fidelity motion information in portraying emotion. This research provides new human behavioral data on facial affect perception, and underscores the importance of careful consideration of facial affect compression methods."
+    },
+    {
+        "title": "Cluster-based find and replace",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Robert C. Miller",
+            "Alisa M. Marshall"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985700",
+        "citation": "3",
+        "abstract": "In current text editors, the find & replace command offers only two options: replace one match at a time prompting for confirmation, or replace all matches at once without any confirmation. Both approaches are prone to errors. This paper explores a third way: cluster-based find & replace, in which the matches are clustered by similarity and whole clusters can be replaced at once. We hypothesized that cluster-based find & replace would make find & replace tasks both faster and more accurate, but initial user studies suggest that clustering may improve speed on some tasks but not accuracy. Users also prefer using a perfect-selection strategy for find & replace, rather than an interleaved decision-action strategy."
+    },
+    {
+        "title": "Collision warning design to mitigate driver distraction",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "John D. Lee",
+            "Joshua D. Hoffman",
+            "Elizabeth Hayes"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985701",
+        "citation": "124",
+        "abstract": "As computers and other information technology move into cars and trucks, distraction-related crashes are likely to become an important problem. This paper begins to address this problem by examining how alert strategy (graded and single-stage) and alert modality (haptic and auditory) affect how well collision warning systems mitigate distraction and direct drivers attention to the car ahead when it unexpectedly brakes. We conducted two experiments in which drivers interacted with an in-vehicle email system and a collision warning system signaled a braking lead vehicle. The first experiment showed that graded alerts led to a greater safety margin and a lower rate of inappropriate responses to nuisance warnings. A second experiment focused on attitudes toward the collision warning system and found that graded alerts were more trusted than single stage alerts and that haptic alerts, a vibrating seat in these experiments, were perceived as less annoying and more appropriate. Graded haptic alerts offer a promising approach to developing context aware computing in a safety-critical application."
+    },
+    {
+        "title": "Combining 2D and 3D views for orientation and relative position tasks",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Melanie Tory",
+            "Torsten Moller",
+            "M. Stella Atkins",
+            "Arthur E. Kirkpatrick"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985702",
+        "citation": "20",
+        "abstract": "We compare 2D/3D combination displays to displays with 2D and 3D views alone. Combination displays we consider are: orientation icon (i.e., side-by-side), in-place methods (e.g., clip planes), and a new method called ExoVis. We specifically analyze performance differences (i.e., time and accuracy) for 3D orientation and relative position tasks. Empirical results show that 3D displays are effective for approximate navigation and relative positioning whereas 2D/3D combination displays (orientation icon and ExoVis) are useful for precise orientation and position tasks. Combination 2D/3D displays had as good or better performance as 2D displays. Clip planes were not effective for a 3D orientation task, but may be useful when only one slice is needed."
+    },
+    {
+        "title": "A comparison of consecutive and concurrent input text entry techniques for mobile phones",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Daniel Wigdor",
+            "Ravin Balakrishnan"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985703",
+        "citation": "29",
+        "abstract": "The numeric keypads on mobile phones generally consist of 12 keys (0-9, *, #). Ambiguity arises when the 36-character alpha-numeric English alphabet is mapped onto this smaller number of keys. In this paper, we first present a taxonomy of the various techniques for resolving this ambiguity, dividing them into techniques that use consecutive actions to first select a character grouping and then a character from within that grouping, and those that use concurrent actions to achieve the same end. We then present the design and implementation of a chording approach to text entry that uses concurrent key presses. We conducted a controlled experiment that compared this chording technique to one-handed and two-handed versions of the commonly used MultiTap technique. The results show that the concurrent chording technique significantly outperforms both versions of the consecutive action MultiTap technique."
+    },
+    {
+        "title": "A comparison of static, adaptive, and adaptable menus",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Leah Findlater",
+            "Joanna McGrenere"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985704",
+        "citation": "168",
+        "abstract": "Software applications continue to grow in terms of the number of features they offer, making personalization increasingly important. Research has shown that most users prefer the control afforded by an adaptable approach to personalization rather than a system-controlled adaptive approach. No study, however, has compared the efficiency of the two approaches. In a controlled lab study with 27 subjects we compared the measured and perceived efficiency of three menu conditions: static, adaptable and adaptive. Each was implemented as a split menu, in which the top four items remained static, were adaptable by the subject, or adapted according to the subject's frequently and recently used items. The static menu was found to be significantly faster than the adaptive menu, and the adaptable menu was found to be significantly faster than the adaptive menu under certain conditions. The majority of users preferred the adaptable menu overall. Implications for interface design are discussed."
+    },
+    {
+        "title": "Computational GOMS modeling of a complex team task: lessons learned",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "David E. Kieras",
+            "Thomas P. Santoro"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985705",
+        "citation": "15",
+        "abstract": "This paper presents the lessons learned when a computational GOMS modeling tool was used to evaluate user interface concepts and team structure designs for a new class of military shipboard workstations. The lessons are both encouraging and cautionary: For example, computational GOMS models scaled well to a large and complex task involving teams of users. Interruptability and working memory constructs had to be added to conventional GOMS model concepts. However, two surprises emerged: First, the non-psychological aspects of the model construction were the practical bottleneck. Second, user testing data in this domain were difficult to collect and lacked definition, meaning that the model provided a better characterization of the design details than the user testing data. Included in these lessons are recommendations for future model applications and modeling methodology development."
+    },
+    {
+        "title": "Connecting time-oriented data and information to a coherent interactive visualization",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Ragnar Bade",
+            "Stefan Schlechtweg",
+            "Silvia Miksch"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985706",
+        "citation": "97",
+        "abstract": "In modern intensive care units (ICUs), the medical staff has to monitor a huge amount of high-dimensional and time-oriented data, which needs to be visualized user- and task-specifically to ease diagnosis and treatment planning. Available visual representations, like diagrams or charts neglect the implicit information as well as a-priory or associated knowledge about the data and its meaning (for example, 38.5°C (101.3°F) is moderate fever and 41°C (105.8°F) is critical fever). Another challenge is to provide appropriate interaction techniques to explore and navigate the data and its temporal dimensions. In this context one major challenge is to connect time-oriented data and information to a coherent interactive visualization. In this paper we present different interactive visualization techniques which enable the users to reveal the data at several levels of detail and abstraction, ranging from a broad overview to the fine structure. We will also introduce a time visualization and navigation technique that connects overview+detail, pan+zoom, and focus+context features to one powerful time-browser."
+    },
+    {
+        "title": "\"Constant, constant, multi-tasking craziness\": managing multiple working spheres",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Victor M. González",
+            "Gloria Mark"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985707",
+        "citation": "377",
+        "abstract": "Most current designs of information technology are based on the notion of supporting distinct tasks such as document production, email usage, and voice communication. In this paper we present empirical results that suggest that people organize their work in terms of much larger and thematically connected units of work. We present results of fieldwork observation of information workers in three different roles: analysts, software developers, and managers. We discovered that all of these types of workers experience a high level of discontinuity in the execution of their activities. People average about three minutes on a task and somewhat more than two minutes using any electronic tool or paper document before switching tasks. We introduce the concept of working spheres to explain the inherent way in which individuals conceptualize and organize their basic units of work. People worked in an average of ten different working spheres. Working spheres are also fragmented; people spend about 12 minutes in a working sphere before they switch to another. We argue that design of information technology needs to support people's continual switching between working spheres."
+    },
+    {
+        "title": "A constraint satisfaction approach to predicting skilled interactive cognition",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Alonso Vera",
+            "Andrew Howes",
+            "Michael McCurdy",
+            "Richard L. Lewis"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985708",
+        "citation": "17",
+        "abstract": "In this paper we report a new approach to generating predictions about skilled interactive cognition. The approach, which we call Cognitive Constraint Modeling, takes as input a description of the constraints on a task environment, on user strategies, and on the human cognitive architecture and generates as output a prediction of the time course of interaction. In the Cognitive Constraint Models that we have built this is achieved by encoding the assumptions inherent in CPM-GOMS as a set of constraints and reasoning about them using finite domain constraint satisfaction."
+    },
+    {
+        "title": "Deception and design: the impact of communication technology on lying behavior",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Jeffrey T. Hancock",
+            "Jennifer Thom-Santelli",
+            "Thompson Ritchie"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985709",
+        "citation": "121",
+        "abstract": "Social psychology has demonstrated that lying is an important, and frequent, part of everyday social interactions. As communication technologies become more ubiquitous in our daily interactions, an important question for developers is to determine how the design of these technologies affects lying behavior. The present research reports the results of a diary study, in which participants recorded all of their social interactions and lies for seven days. The data reveal that participants lied most on the telephone and least in email, and that lying rates in face-to-face and instant messaging interactions were approximately equal. This pattern of results suggests that the design features of communication technologies (e.g., synchronicity, recordability, and copresence) affect lying behavior in important ways, and that these features must be considered by both designers and users when issues of deception and trust arise. The implications for designing applications that increase, decrease or detect deception are discussed."
+    },
+    {
+        "title": "Design guidelines for learner-centered handheld tools",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Kathleen Luchini",
+            "Chris Quintana",
+            "Elliot Soloway"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985710",
+        "citation": "25",
+        "abstract": "Handheld computers are mobile, flexible devices that can provide real-time, one-to-one support for students from within the context of their learning activities. This paper describes the design of three learner-centered handheld tools used as part of a nine-month classroom study involving thirty-three eighth grade students. A review of related work identifies some of the challenges of building educational software within the constraints of handheld screens, and two broad design guidelines are synthesized to help address these challenges. The first design guideline focuses on decomposing the learning activity to identify salient tasks and the type of supports (or scaffolds) students need to engage in these tasks, then building separate handheld workspaces to support each task. The second guideline focuses on methods for implementing scaffolds within these task-based workspaces while preserving the usability of the overall handheld software."
+    },
+    {
+        "title": "Designing a compelling user interface for morphing",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "David Vronay",
+            "Shuo Wang"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985711",
+        "citation": "4",
+        "abstract": "We present a new user interface for the common morphing tool found in animation packages. Previously this interface has been based on the features of the underlying algorithm, with little regard to how artists actually use this feature. By careful design and analysis of a user study, we were able to design a novel user interface that greatly enhances the usability of the morphing tool for animation. Our improvements come in three areas: First, we replicate the artists' own ad-hoc annotation language and interaction techniques in the user interface. Second, we make the user experience more fluid and editable, to support exploration and iteration. Finally, we use the artists' morph expectations to redesign the morph algorithm itself to be more predictable. We conclude by discussing how our user study technique could help other interface design tasks."
+    },
+    {
+        "title": "Designing the whyline: a debugging interface for asking questions about program behavior",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Amy J. Ko",
+            "Brad A. Myers"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985712",
+        "citation": "221",
+        "abstract": "Debugging is still among the most common and costly of programming activities. One reason is that current debugging tools do not directly support the inquisitive nature of the activity. Interrogative Debugging is a new debugging paradigm in which programmers can ask why did and even why didn't questions directly about their program's runtime failures. The Whyline is a prototype Interrogative Debugging interface for the Alice programming environment that visualizes answers in terms of runtime events directly relevant to a programmer's question. Comparisons of identical debugging scenarios from user tests with and without the Whyline showed that the Whyline reduced debugging time by nearly a factor of 8, and helped programmers complete 40% more tasks."
+    },
+    {
+        "title": "Designing to support awareness: a predictive, composite model",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Rachid Hourizi",
+            "Peter Johnson"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985713",
+        "citation": "5",
+        "abstract": "In this paper we propose an account of human/computer awareness for use in the (re)design of complex human/computer interaction, before empirically testing its utility. Specifically, having situated our work in the wider field of human/computer awareness research, we address the well-reported phenomenon of \"situation awareness\" breakdowns in the aviation domain. We assert the need for an explanatory and predictive model of the phenomenon if the frequency of such breakdowns is to be reduced and propose such a model. We then go on to investigate the utility of our model as a guide for design through the discussion of a recent experiment involving manipulations of an animated warning signal on a simulated cockpit control panel. Our results show initial support both for the model and for our assertion of its utility. We conclude that our composite view of awareness yields practical benefit in the design of human computer awareness support."
+    },
+    {
+        "title": "DiamondSpin: an extensible toolkit for around-the-table interaction",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Chia Shen",
+            "Frédéric D. Vernier",
+            "Clifton Forlines",
+            "Meredith Ringel"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985714",
+        "citation": "233",
+        "abstract": "DiamondSpin is a toolkit for the efficient prototyping of and experimentation with multi-person, concurrent interfaces for interactive shared displays. In this paper, we identify the fundamental functionality that tabletop user interfaces should embody, then present the toolkit's architecture and API. DiamondSpin provides a novel real-time polar to Cartesian transformation engine that has enabled new, around-the-table interaction metaphors to be implemented. DiamondSpin allows arbitrary document positioning and orientation on a tabletop surface. Polygonal tabletop layouts such as rectangular, octagonal, and circular tabletops can easily be constructed. DiamondSpin also supports multiple work areas within the same digital tabletop. Multi-user operations are offered through multi-threaded input event streams, multiple active objects, and multiple concurrent menus. We also discuss insights on tabletop interaction issues we have observed from a set of applications built with DiamondSpin."
+    },
+    {
+        "title": "A diary study of task switching and interruptions",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Mary Czerwinski",
+            "Eric Horvitz",
+            "Susan Wilhite"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985715",
+        "citation": "478",
+        "abstract": "We report on a diary study of the activities of information workers aimed at characterizing how people interleave multiple tasks amidst interruptions. The week-long study revealed the type and complexity of activities performed, the nature of the interruptions experienced, and the difficulty of shifting among numerous tasks. We present key findings from the diary study and discuss implications of the findings. Finally, we describe promising directions in the design of software tools for task management, motivated by the findings."
+    },
+    {
+        "title": "Dual ecologies of robot as communication media: thoughts on coordinating orientations and projectability",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Hideaki Kuzuoka",
+            "Keiichi Yamazaki",
+            "Akiko Yamazaki",
+            "Jun'ichi Kosaka",
+            "Yasuko Suga",
+            "Christian Heath"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985716",
+        "citation": "37",
+        "abstract": "The aim of our study is to investigate systems for supporting remote instruction via a mobile robot. In the real world, instructions are typically given through words and body orientations such as head movements, which make it possible to project others' actions. Projectability is an important resource in organizing multiple actions among multiple participants in co-ordination with one another. It can likewise be said that in the case of robot-human collaboration, it is necessary to design a robot's head so that a local participant can project the robot's (and remote person's) actions. GestureMan is a robot that is designed to support such projectability properties. It is argued that a remote controlled mobile robot, designed as a communication medium, makes relevant dual ecologies: ecology at a remote (robot operator's) site and at a local participant's (robot's) site. In order to design a robot as a viable communication medium, it is essential to consider how these ecologies can be mediated and supported."
+    },
+    {
+        "title": "Effects of instant messaging on the management of multiple project trajectories",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Susan R. Fussell",
+            "Sara Kiesler",
+            "Leslie D. Setlock",
+            "Peter Scupelli",
+            "Suzanne Weisband"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985717",
+        "citation": "17",
+        "abstract": "We present a study of the effects of instant messaging (IM) on individuals' management of work across multiple collaborative projects. Groups of four participants completed four web design tasks. Each participant worked on two tasks, each task with a different partner who was either co-located or remote, connected via IM. In one condition, each participant had one co-located and one remote partner. In a second condition, both partners were remote. We examined communication, division of labor, and task performance as a function of condition. The results indicated that nearly all participants divided their time unequally between projects, but less unequally in the remote/remote condition. In the co-located/remote condition, participants favored the task with the co-located partner. The results show that the effects of IM differ depending on people's multiple tasks are distributed across space. We propose a new IM interface that promotes awareness of multiple collaborators on multiple tasks."
+    },
+    {
+        "title": "Energy-aware user interfaces: an evaluation of user acceptance",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Tim Harter",
+            "Sander Vroegindeweij",
+            "Erik Geelhoed",
+            "Meera Manahan",
+            "Parthasarathy Ranganathan"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985718",
+        "citation": "36",
+        "abstract": "The utility of a handheld device is often constrained by the battery life, particularly with recent usage patterns where the device is likely to be powered on at all times. The display component in these devices is a major consumer of battery energy and reducing its energy consumption can significantly enhance its utility. This primary research explores the impact of emerging technologies that provide energy-saving display modifications on perceived ease of use, quality, and overall user acceptance, and seeks to understand the tradeoffs between energy reduction and user acceptance for future interfaces. For our study, twelve handheld users reviewed energy-adaptive and standard display interfaces during five scenarios representing frequently performed tasks. The results show good acceptance of energy-aware user interfaces. While displays for tasks involving notifications and menus were deemed acceptable, primarily due to enhanced contrast levels, displays for longer tasks involving greater informational context need additional work."
+    },
+    {
+        "title": "Examining the robustness of sensor-based statistical models of human interruptibility",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "James Fogarty",
+            "Scott E. Hudson",
+            "Jennifer Lai"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985719",
+        "citation": "91",
+        "abstract": "Current systems often create socially awkward interruptions or unduly demand attention because they have no way of knowing if a person is busy and should not be interrupted. Previous work has examined the feasibility of using sensors and statistical models to estimate human interruptibility in an office environment, but left open some questions about the robustness of such an approach. This paper examines several dimensions of robustness in sensor-based statistical models of human interruptibility. We show that real sensors can be constructed with sufficient accuracy to drive the predictive models. We also create statistical models for a much broader group of people than was studied in prior work. Finally, we examine the effects of training data quantity on the accuracy of these models and consider tradeoffs associated with different combinations of sensors. As a whole, our analyses demonstrate that sensor-based statistical models of human interruptibility can provide robust estimates for a variety of office workers in a range of circumstances, and can do so with accuracy as good as or better than people. Integrating these models into systems could support a variety of advances in human computer interaction and computer-mediated communication."
+    },
+    {
+        "title": "Exploring PC-telephone convergence with the enhanced telephony prototype",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "JJ Cadiz",
+            "Attila Narin",
+            "Gavin Jancke",
+            "Anoop Gupta",
+            "Michael Boyle"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985720",
+        "citation": "11",
+        "abstract": "Industry trends suggest that the PC and telephone user experiences will converge over the next several years. This convergence raises important questions for the HCI community: how should the PC-phone user experience be designed, and how does PC-phone technology affect work practices? This paper focuses on the first question and provides some initial data on the second question. We describe a PC-phone prototype we built called Enhanced Telephony, and we report data from an eight month field deployment of Enhanced Telephony within our company where over 7,000 people installed the prototype. Results indicate that PC-phone software is a promising technology for the workplace and that the most valuable features may be those that help people manage their incoming calls."
+    },
+    {
+        "title": "The familiar stranger: anxiety, comfort, and play in public places",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Eric Paulos",
+            "Elizabeth Goodman"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985721",
+        "citation": "227",
+        "abstract": "As humans we live and interact across a wildly diverse set of physical spaces. We each formulate our own personal meaning of place using a myriad of observable cues such as public-private, large-small, daytime-nighttime, loud-quiet, and crowded-empty. Not surprisingly, it is the people with which we share such spaces that dominate our perception of place. Sometimes these people are friends, family and colleagues. More often, and particularly in public urban spaces we inhabit, the individuals who affect us are ones that we repeatedly observe and yet do not directly interact with - our Familiar Strangers. This paper explores our often ignored yet real relationships with Familiar Strangers. We describe several experiments and studies that led to designs for both a personal, body-worn, wireless device and a mobile phone based application that extend the Familiar Stranger relationship while respecting the delicate, yet important, constraints of our feelings and affinities with strangers in pubic places."
+    },
+    {
+        "title": "Fan-out: measuring human control of multiple robots",
+        "conferenceTitle": "CHI '04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "data": "April 2004",
+        "authors": [
+            "Dan R. Olsen",
+            "Stephen Bart Wood"
+        ],
+        "DOI": "https://doi.org/10.1145/985692.985722",
+        "citation": "82",
+        "abstract": "A goal of human-robot interaction is to allow one user to operate multiple robots simultaneously. In such a scenario the robots provide leverage to the user's attention. The number of such robots that can be operated is called the fan-out of a human-robot team. Robots that have high neglect tolerance and lower interaction time will achieve higher fan-out. We define an equation that relates fan-out to a robot's activity time and its interaction time. We describe how to measure activity time and fan-out. We then use the fan-out equation to compute interaction effort. We can use this interaction effort as a measure of the effectiveness of a human-robot interaction design. We describe experiments that validate the fan-out equation and its use as a metric for improving human-robot interaction."
+    }
+]

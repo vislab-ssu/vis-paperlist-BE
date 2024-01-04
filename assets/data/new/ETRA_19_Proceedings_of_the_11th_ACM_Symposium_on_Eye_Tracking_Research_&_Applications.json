@@ -1,0 +1,415 @@
+[
+    {
+        "title": "Deep learning investigation for chess player attention prediction using eye-tracking and game data",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Justin Le Louedec",
+            "Thomas Guntz",
+            "James L. Crowley",
+            "Dominique Vaufreydaz"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319827",
+        "citation": "8",
+        "abstract": "This article reports on an investigation of the use of convolutional neural networks to predict the visual attention of chess players. The visual attention model described in this article has been created to generate saliency maps that capture hierarchical and spatial features of chessboard, in order to predict the probability fixation for individual pixels Using a skip-layer architecture of an autoencoder, with a unified decoder, we are able to use multiscale features to predict saliency of part of the board at different scales, showing multiple relations between pieces. We have used scan path and fixation data from players engaged in solving chess problems, to compute 6600 saliency maps associated to the corresponding chess piece configurations. This corpus is completed with synthetically generated data from actual games gathered from an online chess platform. Experiments realized using both scan-paths from chess players and the CAT2000 saliency dataset of natural images, highlights several results. Deep features, pretrained on natural images, were found to be helpful in training visual attention prediction for chess. The proposed neural network architecture is able to generate meaningful saliency maps on unseen chess configurations with good scores on standard metrics. This work provides a baseline for future work on visual attention prediction in similar contexts."
+    },
+    {
+        "title": "Semantic gaze labeling for human-robot shared manipulation",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Reuben M. Aronson",
+            "Henny Admoni"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319840",
+        "citation": "3",
+        "abstract": "Human-robot collaboration systems benefit from recognizing people's intentions. This capability is especially useful for collaborative manipulation applications, in which users operate robot arms to manipulate objects. For collaborative manipulation, systems can determine users' intentions by tracking eye gaze and identifying gaze fixations on particular objects in the scene (i.e., semantic gaze labeling). Translating 2D fixation locations (from eye trackers) into 3D fixation locations (in the real world) is a technical challenge. One approach is to assign each fixation to the object closest to it. However, calibration drift, head motion, and the extra dimension required for real-world interactions make this position matching approach inaccurate. In this work, we introduce velocity features that compare the relative motion between subsequent gaze fixations and a finite set of known points and assign fixation position to one of those known points. We validate our approach on synthetic data to demonstrate that classifying using velocity features is more robust than a position matching approach. In addition, we show that a classifier using velocity features improves semantic labeling on a real-world dataset of human-robot assistive manipulation interactions."
+    },
+    {
+        "title": "EyeFlow: pursuit interactions using an unmodified camera",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Almoctar Hassoumi",
+            "Vsevolod Peysakhovich",
+            "Christophe Hurter"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319820",
+        "citation": "2",
+        "abstract": "We investigate the smooth pursuit eye movement based interaction using an unmodified off-the-shelf RGB camera. In each pair of sequential video frames, we compute the indicative direction of the eye movement by analyzing flow vectors obtained using the Lucas-Kanade optical flow algorithm. We discuss how carefully selected low vectors could replace the traditional pupil centers detection in smooth pursuit interaction. We examine implications of unused features in the eye camera imaging frame as potential elements for detecting gaze gestures. This simple approach is easy to implement and abstains from many of the complexities of pupil based approaches. In particular, EyeFlow does not call for either a 3D pupil model or 2D pupil detection to track the pupil center location. We compare this method to state-of-the-art approaches and ind that this can enable pursuit interactions with standard cameras. Results from the evaluation with 12 users data yield an accuracy that compares to previous studies. In addition, the benefit of this work is that the approach does not necessitate highly matured computer vision algorithms and expensive IR-pass cameras."
+    },
+    {
+        "title": "Exploring simple neural network architectures for eye movement classification",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Jonas Goltz",
+            "Michael Grossberg",
+            "Ronak Etemadpour"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319813",
+        "citation": "5",
+        "abstract": "Analysis of eye-gaze is a critical tool for studying human-computer interaction and visualization. Yet eye tracking systems only report eye-gaze on the scene by producing large volumes of coordinate time series data. To be able to use this data, we must first extract salient events such as eye fixations, saccades, and post-saccadic oscillations (PSO). Manually extracting these events is time-consuming, labor-intensive and subject to variability. In this paper, we present and evaluate simple and fast automatic solutions for eye-gaze analysis based on supervised learning. Similar to some recent studies, we developed different simple neural networks demonstrating that feature learning produces superior results in identifying events from sequences of gaze coordinates. We do not apply any ad-hoc post-processing, thus creating a fully automated end-to-end algorithms that perform as good as current state-of-the-art architectures. Once trained they are fast enough to be run in a near real time setting."
+    },
+    {
+        "title": "Analyzing gaze transition behavior using bayesian mixed effects Markov models",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Islam Akef Ebeid",
+            "Nilavra Bhattacharya",
+            "Jacek Gwizdka",
+            "Abhra Sarkar"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319839",
+        "citation": "2",
+        "abstract": "The complex stochastic nature of eye tracking data calls for exploring sophisticated statistical models to ensure reliable inference in multi-trial eye-tracking experiments. We employ a Bayesian semi-parametric mixed-effects Markov model to compare gaze transition matrices between different experimental factors accommodating individual random effects. The model not only allows us to assess global influences of the external factors on the gaze transition dynamics but also provides comprehension of these effects at a deeper local level. We experimented to explore the impact of recognizing distorted images of artwork and landmarks on the gaze transition patterns. Our dataset comprises sequences representing areas of interest visited when applying a content independent grid to the resulting scan paths in a multi-trial setting. Results suggest that image recognition to some extent affects the dynamics of the transitions while image type played an essential role in the viewing behavior."
+    },
+    {
+        "title": "Gaze behaviour on interacted objects during hand interaction in virtual reality for eye tracking calibration",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Ludwig Sidenmark",
+            "Anders Lundström"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319815",
+        "citation": "13",
+        "abstract": "In this paper, we investigate the probability and timing of attaining gaze fixations on interacted objects during hand interaction in virtual reality, with the main purpose for implicit and continuous eye tracking re-calibration. We conducted an evaluation with 15 participants in which their gaze was recorded while interacting with virtual objects. The data was analysed to find factors influencing the probability of fixations at different phases of interaction for different object types. The results indicate that 1) interacting with stationary objects may be favourable in attaining fixations to moving objects, 2) prolonged and precision-demanding interactions positively influences the probability to attain fixations, 3) performing multiple interactions simultaneously can negatively impact the probability of fixations, and 4) feedback can initiate and end fixations on objects."
+    },
+    {
+        "title": "Time- and space-efficient eye tracker calibration",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Heiko Drewes",
+            "Ken Pfeuffer",
+            "Florian Alt"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319818",
+        "citation": "12",
+        "abstract": "One of the obstacles to bring eye tracking technology to everyday human computer interactions is the time consuming calibration procedure. In this paper we investigate a novel calibration method based on smooth pursuit eye movement. The method uses linear regression to calculate the calibration mapping. The advantage is that users can perform the calibration quickly in a few seconds and only use a small calibration area to cover a large tracking area. We first describe the theoretical background on establishing a calibration mapping and discuss differences of calibration methods used. We then present a user study comparing the new regression-based method with a classical nine-point and with other pursuit-based calibrations. The results show the proposed method is fully functional, quick, and enables accurate tracking of a large area. The method has the potential to be integrated into current eye tracking systems to make them more usable in various use cases."
+    },
+    {
+        "title": "Task-embedded online eye-tracker calibration for improving robustness to head motion",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Jimin Pi",
+            "Bertram E. Shi"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319845",
+        "citation": "7",
+        "abstract": "Remote eye trackers are widely used for screen-based interactions. They are less intrusive than head mounted eye trackers, but are generally quite sensitive to head movement. This leads to the requirement for frequent recalibration, especially in applications requiring accurate eye tracking. We propose here an online calibration method to compensate for head movements if estimates of the gaze targets are available. For example, in dwell-time based gaze typing it is reasonable to assume that for correct selections, the user's gaze target during the dwell-time was at the key center. We use this assumption to derive an eye-position dependent linear transformation matrix for correcting the measured gaze. Our experiments show that the proposed method significantly reduces errors over a large range of head movements."
+    },
+    {
+        "title": "Reducing calibration drift in mobile eye trackers by exploiting mobile phone usage",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Philipp Müller",
+            "Daniel Buschek",
+            "Michael Xuelin Huang",
+            "Andreas Bulling"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319918",
+        "citation": "4",
+        "abstract": "Automatic saliency-based recalibration is promising for addressing calibration drift in mobile eye trackers but existing bottom-up saliency methods neglect user's goal-directed visual attention in natural behaviour. By inspecting real-life recordings of egocentric eye tracker cameras, we reveal that users are likely to look at their phones once these appear in view. We propose two novel automatic recalibration methods that exploit mobile phone usage: The first builds saliency maps using the phone location in the egocentric view to identify likely gaze locations. The second uses the occurrence of touch events to recalibrate the eye tracker, thereby enabling privacy-preserving recalibration. Through in-depth evaluations on a recent mobile eye tracking dataset (N=17, 65 hours) we show that our approaches outperform a state-of-the-art saliency approach for automatic recalibration. As such, our approach improves mobile eye tracking and gaze-based interaction, particularly for long-term use."
+    },
+    {
+        "title": "Aiming for the quiet eye in biathlon",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Dan Witzner Hansen",
+            "Amelie Heinrich",
+            "Rouwen Cañal-Bruland"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319850",
+        "citation": "1",
+        "abstract": "The duration of the so-called \"Quiet Eye\" (QE) - the final fixation before the initiation of a critical movement - seems to be linked to better perceptual-motor performances in various domains. For instance, experts show longer QE durations when compared to their less skilled counterparts. The aim of this paper was to replicate and extend previous work on the QE [Vickers and Williams 2007] in elite biathletes in an ecologically valid environment. Specifically, we tested whether longer QE durations result in higher shooting accuracy. To this end, we developed a gun-mounted eye tracker as a means to obtain reliable gaze data without interfering with the athletes' performance routines. During regular training protocols we collected gaze and performance data of 9 members (age 19.8 ± 0.45) of the German national junior team. The results did not show a significant effect of QE duration on shooting performance. Based on our findings, we critically discuss various conceptual as well as methodological issues with the QE literature that need to be aligned in future research to resolve current inconsistencies."
+    },
+    {
+        "title": "Eye tracking support for visual analytics systems: foundations, current applications, and research challenges",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Nelson Silva",
+            "Tanja Blascheck",
+            "Radu Jianu",
+            "Nils Rodrigues",
+            "Daniel Weiskopf",
+            "Martin Raubal",
+            "Tobias Schreck"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319919",
+        "citation": "12",
+        "abstract": "Visual analytics (VA) research provides helpful solutions for interactive visual data analysis when exploring large and complex datasets. Due to recent advances in eye tracking technology, promising opportunities arise to extend these traditional VA approaches. Therefore, we discuss foundations for eye tracking support in VA systems. We first review and discuss the structure and range of typical VA systems. Based on a widely used VA model, we present five comprehensive examples that cover a wide range of usage scenarios. Then, we demonstrate that the VA model can be used to systematically explore how concrete VA systems could be extended with eye tracking, to create supportive and adaptive analytics systems. This allows us to identify general research and application opportunities, and classify them into research themes. In a call for action, we map the road for future research to broaden the use of eye tracking and advance visual analytics."
+    },
+    {
+        "title": "Space-time volume visualization of gaze and stimulus",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Valentin Bruder",
+            "Kuno Kurzhals",
+            "Steffen Frey",
+            "Daniel Weiskopf",
+            "Thomas Ertl"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319812",
+        "citation": "3",
+        "abstract": "We present a method for the spatio-temporal analysis of gaze data from multiple participants in the context of a video stimulus. For such data, an overview of the recorded patterns is important to identify common viewing behavior (such as attentional synchrony) and outliers. We adopt the approach of space-time cube visualization, which extends the spatial dimensions of the stimulus by time as the third dimension. Previous work mainly handled eye tracking data in the space-time cube as point cloud, providing no information about the stimulus context. This paper presents a novel visualization technique that combines gaze data, a dynamic stimulus, and optical flow with volume rendering to derive an overview of the data with contextual information. With specifically designed transfer functions, we emphasize different data aspects, making the visualization suitable for explorative analysis and for illustrative support of statistical findings alike."
+    },
+    {
+        "title": "Using developer eye movements to externalize the mental model used in code summarization tasks",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Nahla J. Abid",
+            "Jonathan I. Maletic",
+            "Bonita Sharif"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319834",
+        "citation": "28",
+        "abstract": "Eye movements of developers are used to speculate the mental cognition model (i.e., bottom-up or top-down) applied during program comprehension tasks. The cognition models examine how programmers understand source code by describing the temporary information structures in the programmer's short term memory. The two types of models that we are interested in are top-down and bottom-up. The top-down model is normally applied as-needed (i.e., the domain of the system is familiar). The bottom-up model is typically applied when a developer is not familiar with the domain or the source code. An eye-tracking study of 18 developers reading and summarizing Java methods is used as our dataset for analyzing the mental cognition model. The developers provide a written summary for methods assigned to them. In total, 63 methods are used from five different systems. The results indicate that on average, experts and novices read the methods more closely (using the bottom-up mental model) than bouncing around (using top-down). However, on average novices spend longer gaze time performing bottom-up (66s.) compared to experts (43s.)"
+    },
+    {
+        "title": "Visually analyzing eye movements on natural language texts and source code snippets",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Tanja Blascheck",
+            "Bonita Sharif"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319917",
+        "citation": "9",
+        "abstract": "In this paper, we analyze eye movement data of 26 participants using a quantitative and qualitative approach to investigate how people read natural language text in comparison to source code. In particular, we use the radial transition graph visualization to explore strategies of participants during these reading tasks and extract common patterns amongst participants. We illustrate via examples how visualization can play a role at uncovering behavior of people while reading natural language text versus source code. Our results show that the linear reading order of natural text is only partially applicable to source code reading. We found patterns representing a linear order and also patterns that represent reading of the source code in execution order. Participants also focus more on those areas that are important to comprehend core functionality and we found that they skip unimportant constructs such as brackets."
+    },
+    {
+        "title": "Classification of strategies for solving programming problems using AoI sequence analysis",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Unaizah Obaidellah",
+            "Michael Raschke",
+            "Tanja Blascheck"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319825",
+        "citation": "5",
+        "abstract": "This eye tracking study examines participants' visual attention when solving algorithmic problems in the form of programming problems. The stimuli consisted of a problem statement, example output, and a set of multiple-choice questions regarding variables, data types, and operations needed to solve the programming problems. We recorded eye movements of students and performed an Area of Interest (Aol) sequence analysis to identify reading strategies in terms of participants' performance and visual effort. Using classical eye tracking metrics and a visual Aol sequence analysis we identified two main groups of participants---effective and ineffective problem solvers. This indicates that diversity of participants' mental schemas leads to a difference in their performance. Therefore, identifying how participants' reading behavior varies at a finer level of granularity warrants further investigation."
+    },
+    {
+        "title": "Towards a low cost and high speed mobile eye tracker",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Frank H. Borsato",
+            "Carlos H. Morimoto"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319841",
+        "citation": "1",
+        "abstract": "Despite recent developments in eye tracking technology, mobile eye trackers (ET) are still expensive devices limited to a few hundred samples per second. High speed ETs (closer to 1 KHz) can provide improved flexibility for data filtering and more reliable event detection. To address these challenges, we present the Stroboscopic Catadioptric Eye Tracking (SCET) system, a novel approach for mobile ET based on rolling shutter cameras and stroboscopic structured infrared lighting. SCET proposes a geometric model where the cornea acts as a spherical mirror in a catadioptric system, changing the projection as it moves. Calibration methods for the geometry of the system and for the gaze estimation are presented. Instead of tracking common eye features, such as the pupil center, we track multiple glints on the cornea. By carefully adjusting the camera exposure and the lighting period, we show how one image frame can be divided into several bands to increase the temporal resolution of the gaze estimates. We assess the model in a simulated environment and also describe a prototype implementation that demonstrates the feasibility of SCET, which we envision as a step further in the direction of a mobile, robust, affordable, and high-speed eye tracker."
+    },
+    {
+        "title": "Get a grip: slippage-robust and glint-free gaze estimation for real-time pervasive head-mounted eye tracking",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Thiago Santini",
+            "Diederick C. Niehorster",
+            "Enkelejda Kasneci"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319835",
+        "citation": "19",
+        "abstract": "A key assumption conventionally made by flexible head-mounted eye-tracking systems is often invalid: The eye center does not remain stationary w.r.t. the eye camera due to slippage. For instance, eye-tracker slippage might happen due to head acceleration or explicit adjustments by the user. As a result, gaze estimation accuracy can be significantly reduced. In this work, we propose Grip, a novel gaze estimation method capable of instantaneously compensating for eye-tracker slippage without additional hardware requirements such as glints or stereo eye camera setups. Grip was evaluated using previously collected data from a large scale unconstrained pervasive eye-tracking study. Our results indicate significant slippage compensation potential, decreasing average participant median angular offset by more than 43% w.r.t. a non-slippage-robust gaze estimation method. A reference implementation of Grip was integrated into EyeRecToo, an open-source hardware-agnostic eye-tracking software, thus making it readily accessible for multiple eye trackers (Available at: www.ti.uni-tuebingen.de/perception)."
+    },
+    {
+        "title": "Getting (more) real: bringing eye movement classification to HMD experiments with equirectangular stimuli",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Ioannis Agtzidis",
+            "Michael Dorr"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319829",
+        "citation": "1",
+        "abstract": "The classification of eye movements is a very important part of eye tracking research and has been studied since its early days. Over recent years, we have experienced an increasing shift towards more immersive experimental scenarios with the use of eye-tracking enabled glasses and head-mounted displays. In these new scenarios, however, most of the existing eye movement classification algorithms cannot be applied robustly anymore because they were developed with monitor-based experiments using regular 2D images and videos in mind. In this paper, we describe two approaches that reduce artifacts of eye movement classification for 360° videos shown in head-mounted displays. For the first approach, we discuss how decision criteria have to change in the space of 360° videos, and use these criteria to modify five popular algorithms from the literature. The modified algorithms are publicly available at https://web.gin.g-node.org/ioannis.agtzidis/360_em_algorithms. For cases where an existing algorithm cannot be modified, e.g. because it is closed-source, we present a second approach that maps the data instead of the algorithm to the 360° space. An empirical evaluation of both approaches shows that they significantly reduce the artifacts of the initial algorithm, especially in the areas further from the horizontal midline."
+    },
+    {
+        "title": "Power-efficient and shift-robust eye-tracking sensor for portable VR headsets",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Dmytro Katrychuk",
+            "Henry K. Griffith",
+            "Oleg V. Komogortsev"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319821",
+        "citation": "7",
+        "abstract": "Photosensor oculography (PSOG) is a promising solution for reducing the computational requirements of eye tracking sensors in wireless virtual and augmented reality platforms. This paper proposes a novel machine learning-based solution for addressing the known performance degradation of PSOG devices in the presence of sensor shifts. Namely, we introduce a convolutional neural network model capable of providing shift-robust end-to-end gaze estimates from the PSOG array output. Moreover, we propose a transfer-learning strategy for reducing model training time. Using a simulated workflow with improved realism, we show that the proposed convolutional model offers improved accuracy over a previously considered multilayer perceptron approach. In addition, we demonstrate that the transfer of initialization weights from pre-trained models can substantially reduce training time for new users. In the end, we provide the discussion regarding the design trade-offs between accuracy, training time, and power consumption among the considered models."
+    },
+    {
+        "title": "Monocular gaze depth estimation using the vestibulo-ocular reflex",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Diako Mardanbegi",
+            "Christopher Clarke",
+            "Hans Gellersen"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319822",
+        "citation": "6",
+        "abstract": "Gaze depth estimation presents a challenge for eye tracking in 3D. This work investigates a novel approach to the problem based on eye movement mediated by the vestibulo-ocular reflex (VOR). VOR stabilises gaze on a target during head movement, with eye movement in the opposite direction, and the VOR gain increases the closer the fixated target is to the viewer. We present a theoretical analysis of the relationship between VOR gain and depth which we investigate with empirical data collected in a user study (N=10). We show that VOR gain can be captured using pupil centres, and propose and evaluate a practical method for gaze depth estimation based on a generic function of VOR gain and two-point depth calibration. The results show that VOR gain is comparable with vergence in capturing depth while only requiring one eye, and provide insight into open challenges in harnessing VOR gain as a robust measure."
+    },
+    {
+        "title": "Characterizing joint attention behavior during real world interactions using automated object and gaze detection",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Pranav Venuprasad",
+            "Tushal Dobhal",
+            "Anurag Paul",
+            "Tu N. M. Nguyen",
+            "Andrew Gilman",
+            "Pamela Cosman",
+            "Leanne Chukoskie"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319843",
+        "citation": "7",
+        "abstract": "Joint attention is an essential part of the development process of children, and impairments in joint attention are considered as one of the first symptoms of autism. In this paper, we develop a novel technique to characterize joint attention in real time, by studying the interaction of two human subjects with each other and with multiple objects present in the room. This is done by capturing the subjects' gaze through eye-tracking glasses and detecting their looks on predefined indicator objects. A deep learning network is trained and deployed to detect the objects in the field of vision of the subject by processing the video feed of the world view camera mounted on the eye-tracking glasses. The looking patterns of the subjects are determined and a real-time audio response is provided when a joint attention is detected, i.e., when their looks coincide. Our findings suggest a trade-off between the accuracy measure (Look Positive Predictive Value) and the latency of joint look detection for various system parameters. For more accurate joint look detection, the system has higher latency, and for faster detection, the detection accuracy goes down."
+    },
+    {
+        "title": "A novel gaze event detection metric that is not fooled by gaze-independent baselines",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Mikhail Startsev",
+            "Stefan Göb",
+            "Michael Dorr"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319836",
+        "citation": "3",
+        "abstract": "Eye movement classification algorithms are typically evaluated either in isolation (in terms of absolute values of some performance statistic), or in comparison to previously introduced approaches. In contrast to this, we first introduce and thoroughly evaluate a set of both random and above-chance baselines that are completely independent of the eye tracking signal recorded for each considered individual observer. Surprisingly, our baselines often show performance that is either comparable to, or even exceeds the scores of some established eye movement classification approaches, for smooth pursuit detection in particular. In these cases, it may be that (i) algorithm performance is poor, (ii) the data set is overly simplistic with little inter-subject variability of the eye movements, or, alternatively, (iii) the currently used evaluation metrics are inappropriate. Based on these observations, we discuss the level of stimulus dependency of the eye movements in four different data sets. Finally, we propose a novel measure of agreement between true and assigned eye movement events, which, unlike existing metrics, is able to reveal the expected performance gap between the baselines and dedicated algorithms."
+    },
+    {
+        "title": "A fast approach to refraction-aware eye-model fitting and gaze prediction",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Kai Dierkes",
+            "Moritz Kassner",
+            "Andreas Bulling"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319819",
+        "citation": "19",
+        "abstract": "By temporally integrating information about pupil contours extracted from eye images, model-based methods for glint-free gaze estimation can mitigate pupil detection noise. However, current approaches require time-consuming iterative solving of a nonlinear minimization problem to estimate key parameters, such as eyeball position. Based on the method presented by [Swirski and Dodgson 2013], we propose a novel approach to glint-free 3D eye-model fitting and gaze prediction using a single near-eye camera. By recasting model optimization as a least-squares intersection of lines, we make it amenable to a fast non-iterative solution. We further present a method for estimating deterministic refraction-correction functions from synthetic eye images and validate them on both synthetic and real eye images. We demonstrate the robustness of our method in the presence of pupil detection noise and show the benefit of temporal integration of pupil contour information on eyeball position and gaze estimation accuracy."
+    },
+    {
+        "title": "Screen corner detection using polarization camera for cross-ratio based gaze estimation",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Masato Sasaki",
+            "Takashi Nagamatsu",
+            "Kentaro Takemura"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319814",
+        "citation": "5",
+        "abstract": "Eye tracking, which measures line of sight, is expected to advance as an intuitive and rapid input method for user interfaces, and a cross-ratio based method that calculates the point-of-gaze using homography matrices has attracted attention because it does not require hardware calibration to determine the geometric relationship between an eye camera and a screen. However, this method requires near-infrared (NIR) light-emitting diodes (LEDs) attached to the display in order to detect screen corners. Consequently, LEDs must be installed around the display to estimate the point-of-gaze. Without these requirements, cross-ratio based gaze estimation can be distributed smoothly. Therefore, we propose the use of a polarization camera for detecting the screen area reflected on a corneal surface. The reflection area of display light is easily detected by the polarized image because the light radiated from the display is polarized linearly by the internal polarization filter. With the proposed method, the screen corners can be determined without using NIR LEDs, and the point-of-gaze can be estimated using the detected corners on the corneal surface. We investigated the accuracy of the estimated point-of-gaze based on a cross-ratio method under various illumination and display conditions. Cross-ratio based gaze estimation is expected to be utilized widely in commercial products because the proposed method does not require infrared light sources at display corners."
+    },
+    {
+        "title": "Guiding gaze: expressive models of reading and face scanning",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Andrew T. Duchowski",
+            "Sophie Jörg",
+            "Jaret Screws",
+            "Nina A. Gehrer",
+            "Michael Schönenberg",
+            "Krzysztof Krejtz"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319848",
+        "citation": "9",
+        "abstract": "We evaluate subtle, emotionally-driven models of eye movement animation. Two models are tested, reading and face scanning, each based on recorded gaze transition probabilities. For reading, simulated emotional mood is governed by the probability density function that varies word advancement, i.e., re-fixations, forward, or backward skips. For face scanning, gaze behavior depends on task (gender or emotion discrimination) or the facial emotion portrayed. Probability density functions in both cases are derived from empirically observed transitions that significantly alter viewing behavior, captured either during mood-induced reading or during scanning faces expressing different emotions. A perceptual study shows that viewers can distinguish between reading and face scanning eye movements. However, viewers could not gauge the emotional valence of animated eye motion. For animation, our contribution shows that simulated emotionally-driven viewing behavior is too subtle to be discerned, or it needs to be exaggerated to be effective."
+    },
+    {
+        "title": "PrivacEye: privacy-preserving head-mounted eye tracking using egocentric scene image and eye movement features",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Julian Steil",
+            "Marion Koelle",
+            "Wilko Heuten",
+            "Susanne Boll",
+            "Andreas Bulling"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319913",
+        "citation": "38",
+        "abstract": "Eyewear devices, such as augmented reality displays, increasingly integrate eye tracking, but the first-person camera required to map a user's gaze to the visual scene can pose a significant threat to user and bystander privacy. We present PrivacEye, a method to detect privacy-sensitive everyday situations and automatically enable and disable the eye tracker's first-person camera using a mechanical shutter. To close the shutter in privacy-sensitive situations, the method uses a deep representation of the first-person video combined with rich features that encode users' eye movements. To open the shutter without visual input, PrivacEye detects changes in users' eye movements alone to gauge changes in the \"privacy level\" of the current situation. We evaluate our method on a first-person video dataset recorded in daily life situations of 17 participants, annotated by themselves for privacy sensitivity, and show that our method is effective in preserving privacy in this challenging setting."
+    },
+    {
+        "title": "Privacy-aware eye tracking using differential privacy",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Julian Steil",
+            "Inken Hagestedt",
+            "Michael Xuelin Huang",
+            "Andreas Bulling"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319915",
+        "citation": "49",
+        "abstract": "With eye tracking being increasingly integrated into virtual and augmented reality (VR/AR) head-mounted displays, preserving users' privacy is an ever more important, yet under-explored, topic in the eye tracking community. We report a large-scale online survey (N=124) on privacy aspects of eye tracking that provides the first comprehensive account of with whom, for which services, and to what extent users are willing to share their gaze data. Using these insights, we design a privacy-aware VR interface that uses differential privacy, which we evaluate on a new 20-participant dataset for two privacy sensitive tasks: We show that our method can prevent user re-identification and protect gender information while maintaining high performance for gaze-based document type classification. Our results highlight the privacy challenges particular to gaze data and demonstrate that differential privacy is a potential means to address them. Thus, this paper lays important foundations for future research on privacy-aware gaze interfaces."
+    },
+    {
+        "title": "Differential privacy for eye-tracking data",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Ao Liu",
+            "Lirong Xia",
+            "Andrew Duchowski",
+            "Reynold Bailey",
+            "Kenneth Holmqvist",
+            "Eakta Jain"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319823",
+        "citation": "28",
+        "abstract": "As large eye-tracking datasets are created, data privacy is a pressing concern for the eye-tracking community. De-identifying data does not guarantee privacy because multiple datasets can be linked for inferences. A common belief is that aggregating individuals' data into composite representations such as heatmaps protects the individual. However, we analytically examine the privacy of (noise-free) heatmaps and show that they do not guarantee privacy. We further propose two noise mechanisms that guarantee privacy and analyze their privacy-utility tradeoff. Analysis reveals that our Gaussian noise mechanism is an elegant solution to preserve privacy for heatmaps. Our results have implications for interdisciplinary research to create differentially private mechanisms for eye tracking."
+    },
+    {
+        "title": "Just gaze and wave: exploring the use of gaze and gestures for shoulder-surfing resilient authentication",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Yasmeen Abdrabou",
+            "Mohamed Khamis",
+            "Rana Mohamed Eisa",
+            "Sherif Ismail",
+            "Amrl Elmougy"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319837",
+        "citation": "28",
+        "abstract": "Eye-gaze and mid-air gestures are promising for resisting various types of side-channel attacks during authentication. However, to date, a comparison of the different authentication modalities is missing. We investigate multiple authentication mechanisms that leverage gestures, eye gaze, and a multimodal combination of them and study their resilience to shoulder surfing. To this end, we report on our implementation of three schemes and results from usability and security evaluations where we also experimented with fixed and randomized layouts. We found that the gaze-based approach outperforms the other schemes in terms of input time, error rate, perceived workload, and resistance to observation attacks, and that randomizing the layout does not improve observation resistance enough to warrant the reduced usability. Our work further underlines the significance of replicating previous eye tracking studies using today's sensors as we show significant improvement over similar previously introduced gaze-based authentication systems."
+    },
+    {
+        "title": "Assessing surgeons' skill level in laparoscopic cholecystectomy using eye metrics",
+        "conferenceTitle": "ETRA '19: Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications",
+        "data": "June 2019",
+        "authors": [
+            "Nishan Gunawardena",
+            "Michael Matscheko",
+            "Bernhard Anzengruber",
+            "Alois Ferscha",
+            "Martin Schobesberger",
+            "Andreas Shamiyeh",
+            "Bettina Klugsberger",
+            "Peter Solleder"
+        ],
+        "DOI": "https://doi.org/10.1145/3314111.3319832",
+        "citation": "5",
+        "abstract": "Laparoscopic surgery has revolutionised state of the art in surgical health care. However, its complexity puts a significant burden on the surgeon's cognitive resources resulting in major biliary injuries. With the increasing number of laparoscopic surgeries, it is crucial to identify surgeons' cognitive loads (CL) and levels of focus in real time to give them unobtrusive feedback when detecting the suboptimal level of attention. Assuming that the experts appear to be more focused on attention, we investigate how the skill level of surgeons during live surgery is reflected through eye metrics. Forty-two laparoscopic surgeries have been conducted with four surgeons who have different expertise levels. Concerning eye metrics, we have used six metrics which belong to fixation and pupillary based metrics. With the use of mean, standard deviation and ANOVA test we have proven three reliable metrics which we can use to differentiate the skill level during live surgeries. In future studies, these three metrics will be used to classify the surgeons' cognitive load and level of focus during the live surgery using machine learning techniques."
+    }
+]

@@ -1,0 +1,431 @@
+[
+    {
+        "title": "A Translational Science Model for HCI",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Lucas Colusso",
+            "Ridley Jones",
+            "Sean A. Munson",
+            "Gary Hsieh"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300231",
+        "citation": "34",
+        "abstract": "Using scientific discoveries to inform design practice is an important, but difficult, objective in HCI. In this paper, we provide an overview of Translational Science in HCI by triangulating literature related to the research-practice gap with interview data from many parties engaged (or not) in translating HCI knowledge. We propose a model for Translational Science in HCI based on the concept of a continuum to describe how knowledge progresses (or stalls) through multiple steps and translations until it can influence design practice. The model offers a conceptual framework that can be used by researchers and practitioners to visualize and describe the progression of HCI knowledge through a sequence of translations. Additionally, the model may facilitate a precise identification of translational barriers, which allows devising more effective strategies to increase the use of scientific findings in design practice."
+    },
+    {
+        "title": "\"They Don't Leave Us Alone Anywhere We Go\": Gender and Digital Abuse in South Asia",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Nithya Sambasivan",
+            "Amna Batool",
+            "Nova Ahmed",
+            "Tara Matthews",
+            "Kurt Thomas",
+            "Laura Sanely Gaytán-Lugo",
+            "David Nemer",
+            "Elie Bursztein",
+            "Elizabeth Churchill",
+            "Sunny Consolvo"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300232",
+        "citation": "78",
+        "abstract": "South Asia faces one of the largest gender gaps online globally, and online safety is one of the main barriers to gender-equitable Internet access [GSMA, 2015]. To better understand the gendered risks and coping practices online in South Asia, we present a qualitative study of the online abuse experiences and coping practices of 199 people who identified as women and 6 NGO staff from India, Pakistan, and Bangladesh, using a feminist analysis. We found that a majority of our participants regularly contended with online abuse, experiencing three major abuse types: cyberstalking, impersonation, and personal content leakages. Consequences of abuse included emotional harm, reputation damage, and physical and sexual violence. Participants coped through informal channels rather than through technological protections or law enforcement. Altogether, our findings point to opportunities for designs, policies, and algorithms to improve women's safety online in South Asia."
+    },
+    {
+        "title": "Guidelines for Human-AI Interaction",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "NONE"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300233",
+        "citation": "667",
+        "abstract": "Advances in artificial intelligence (AI) frame opportunities and challenges for user interface design. Principles for human-AI interaction have been discussed in the human-computer interaction community for over two decades, but more study and innovation are needed in light of advances in AI and the growing uses of AI technologies in human-facing applications. We propose 18 generally applicable design guidelines for human-AI interaction. These guidelines are validated through multiple rounds of evaluation including a user study with 49 design practitioners who tested the guidelines against 20 popular AI-infused products. The results verify the relevance of the guidelines over a spectrum of interaction scenarios and reveal gaps in our knowledge, highlighting opportunities for further research. Based on the evaluations, we believe the set of design guidelines can serve as a resource to practitioners working on the design of applications and features that harness AI technologies, and to researchers interested in the further development of human-AI interaction design principles."
+    },
+    {
+        "title": "Human-Centered Tools for Coping with Imperfect Algorithms During Medical Decision-Making",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Carrie J. Cai",
+            "Emily Reif",
+            "Narayan Hegde",
+            "Jason Hipp",
+            "Been Kim",
+            "Daniel Smilkov",
+            "Martin Wattenberg",
+            "Fernanda Viegas",
+            "Greg S. Corrado",
+            "Martin C. Stumpe",
+            "Michael Terry"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300234",
+        "citation": "170",
+        "abstract": "Machine learning (ML) is increasingly being used in image retrieval systems for medical decision making. One application of ML is to retrieve visually similar medical images from past patients (e.g. tissue from biopsies) to reference when making a medical decision with a new patient. However, no algorithm can perfectly capture an expert's ideal notion of similarity for every case: an image that is algorithmically determined to be similar may not be medically relevant to a doctor's specific diagnostic needs. In this paper, we identified the needs of pathologists when searching for similar images retrieved using a deep learning algorithm, and developed tools that empower users to cope with the search algorithm on-the-fly, communicating what types of similarity are most important at different moments in time. In two evaluations with pathologists, we found that these tools increased the diagnostic utility of images found and increased user trust in the algorithm. The tools were preferred over a traditional interface, without a loss in diagnostic accuracy. We also observed that users adopted new strategies when using refinement tools, re-purposing them to test and understand the underlying algorithm and to disambiguate ML errors from their own errors. Taken together, these findings inform future human-ML collaborative systems for expert decision-making."
+    },
+    {
+        "title": "Seeing with New Eyes: Designing for In-the-Wild Museum Gifting",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Jocelyn Spence",
+            "Benjamin Bedwell",
+            "Michelle Coleman",
+            "Steve Benford",
+            "Boriana N. Koleva",
+            "Matt Adams",
+            "Ju Row Farr",
+            "Nick Tandavanitj",
+            "Anders Sundnes Løvlie"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300235",
+        "citation": "28",
+        "abstract": "This paper presents the GIFT smartphone app, an artist-led Research through Design project benefitting from a three-day in-the-wild deployment. The app takes as its premise the generative potential of combining the contexts of gifting and museum visits. Visitors explore the museum, searching for objects that would most appeal to the gift-receiver they have in mind, then photographing those objects and adding audio messages for their receivers describing the motivation for their choices. This paper charts the designers' key aim of creating a new frame of mind using voice, and the most striking findings discovered during in-the-wild deployment in a museum -- 'seeing with new eyes' and fostering personal connections. We discuss empathy, motivation, and bottom-up personalisation in the productive space revealed by this combination of contexts. We suggest that this work reveals opportunities for designers of gifting services as well as those working in cultural heritage."
+    },
+    {
+        "title": "Design and Plural Heritages: Composing Critical Futures",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Tom Schofield",
+            "Daniel Foster Smith",
+            "Gönül Bozoglu",
+            "Christopher Whitehead"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300236",
+        "citation": "13",
+        "abstract": "We make theoretical and methodological contributions to the CHI community by introducing comparisons between contemporary Critical Heritage research and some forms of experimental design practice. Beginning by identifying three key approaches in contemporary heritage research: Critical Heritage, Plural Heritages and Future Heritage we introduce these in turn, while exploring their significance for thinking about design, knowledge and diversity. We discuss our efforts to apply ideas integrating Critical Heritage and design through the adoption of known Research through Design techniques in a research project in Istanbul, Turkey describing the design of our study and how this was productive of sensory and speculative reflection on the past. Finally, we reflect on the usefulness of such methods in developing new interactive technologies in heritage contexts and go on to propose a series of recommendations for a future Critical Heritage Design practice."
+    },
+    {
+        "title": "Connect-to-Connected Worlds: Piloting a Mobile, Data-Driven Reflection Tool for an Open-Ended Simulation at a Museum",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Aditi Mallavarapu",
+            "Leilah Lyons",
+            "Stephen Uzzo",
+            "Wren Thompson",
+            "Rinat Levy-Cohen",
+            "Brian Slattery"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300237",
+        "citation": "6",
+        "abstract": "Immersive open-ended museum exhibits promote ludic engagement and can be a powerful draw for visitors, but these qualities may also make learning more challenging. We describe our efforts to help visitors engage more deeply with an interactive exhibit's content by giving them access to visualizations of data skimmed from their use of the exhibit. We report on the motivations and challenges in designing this reflective tool, which positions visitors as a \"human in the loop\" to understand and manage their engagement with the exhibit. We used an iterative design process and qualitative methods to explore how and if visitors could (1) access and (2) comprehend the data visualizations, (3) reflect on their prior engagement with the exhibit, (4)plan their future engagement with the exhibit, and (5) act on their plans. We further discuss the essential design challenges and the opportunities made possible for visitors through data-driven reflection tools."
+    },
+    {
+        "title": "Anchored Audio Sampling: A Seamless Method for Exploring Children's Thoughts During Deployment Studies",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Alexis Hiniker",
+            "Jon E. Froehlich",
+            "Mingrui Zhang",
+            "Erin Beneteau"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300238",
+        "citation": "6",
+        "abstract": "Many traditional HCI methods, such as surveys and interviews, are of limited value when working with preschoolers. In this paper, we present anchored audio sampling (AAS), a remote data collection technique for extracting qualitative audio samples during field deployments with young children. AAS offers a developmentally sensitive way of understanding how children make sense of technology and situates their use in the larger context of daily life. AAS is defined by an anchor event, around which audio is collected. A sliding window surrounding this anchor captures both antecedent and ensuing recording, providing the researcher insight into the activities that led up to the event of interest as well as those that followed. We present themes from three deployments that leverage this technique. Based on our experiences using AAS, we have also developed a reusable open-source library for embedding AAS into any Android application."
+    },
+    {
+        "title": "To Asymmetry and Beyond!: Improving Social Connectedness by Increasing Designed Interdependence in Cooperative Play",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "John Harris",
+            "Mark Hancock"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300239",
+        "citation": "53",
+        "abstract": "Social play can have numerous health benefits but research has shown that not all multiplayer games are effective at promoting social engagement. Asymmetric cooperative games have shown promise in this regard but the design and dynamics of this unique style of play is not yet well understood. To address this, we present the results of two player experience studies using our custom prototype game Beam Me 'Round, Scotty! 2: the first comparing symmetric cooperative play (e.g., where players have the same interface, goals, mechanics, etc.) to asymmetric cooperative play (e.g., where players have differing roles, abilities, interfaces, etc.) and the second comparing the effect of increasing degrees of interdependence between play partners. Our results not only indicate that asymmetric cooperative games may enhance players' perceptions of connectedness, social engagement, immersion, and comfort with a game's controls, but also demonstrate how to further improve these outcomes via deliberate mechanical design changes, such as changes in cooperative action timing and direction of dependence."
+    },
+    {
+        "title": "DesignABILITY: Framework for the Design of Accessible Interactive Tools to Support Teaching to Children with Disabilities",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Leandro Flórez-Aristizábal",
+            "Sandra Cano",
+            "César A. Collazos",
+            "Andrés F. Solano",
+            "Stephen Brewster"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300240",
+        "citation": "6",
+        "abstract": "Developing educational tools aimed at children with disabilities is a challenging process for designers and developers because existing methodologies or frameworks do not provide any pedagogical information and/or do not take into account the particular needs of users with some type of impairment. In this study, we propose a framework for the design of tools to support teaching to children with disabilities. The framework provides the necessary stages for the development of tools (hardware-based or software-based) and must be adapted for a specific disability and educational goal. For this study, the framework was adapted to support literacy teaching and contributes to the design of educational/interactive technology for deaf people while making them part of the design process and taking into account their particular needs. The experts' evaluation of the framework shows that it is well structured and may be adapted for other types of disabilities."
+    },
+    {
+        "title": "Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Jotaro Shigeyama",
+            "Takeru Hashimoto",
+            "Shigeo Yoshida",
+            "Takuji Narumi",
+            "Tomohiro Tanikawa",
+            "Michitaka Hirose"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300241",
+        "citation": "68",
+        "abstract": "Humans can estimate the shape of a wielded object through the illusory feeling of the mass properties of the object obtained using their hands. Even though the shape of hand-held objects influences immersion and realism in virtual reality (VR), it is difficult to design VR controllers for rendering desired shapes according to the perceptions derived from the illusory effects of mass properties and shape perception. We propose Transcalibur, which is a hand-held VR controller that can render a 2D shape by changing its mass properties on a 2D planar area. We built a computational perception model using a data-driven approach from the collected data pairs of mass properties and perceived shapes. This enables Transcalibur to easily and effectively provide convincing shape perception based on complex illusory effects. Our user study showed that the system succeeded in providing the perception of various desired shapes in a virtual environment."
+    },
+    {
+        "title": "LightBee: A Self-Levitating Light Field Display for Hologrammatic Telepresence",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Xujing Zhang",
+            "Sean Braley",
+            "Calvin Rubens",
+            "Timothy Merritt",
+            "Roel Vertegaal"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300242",
+        "citation": "17",
+        "abstract": "LightBee is a novel \"hologrammatic\" telepresence system featuring a self-levitating light field display. It consists of a drone that flies a projection of a remote user's head through 3D space. The movements of the drone are controlled by the remote user's head movements, offering unique support for non-verbal cues, especially physical proxemics. The light field display is created by a retro-reflective sheet that is mounted on the cylindrical quadcopter. 45 smart projectors, one per 1.3 degrees, are mounted in a ring, each projecting a video stream rendered from a unique perspective onto the retroreflector. This creates a light field that naturally provides motion parallax and stereoscopy without requiring any headset nor stereo glasses. LightBee allows multiple local users to experience their own unique and correct perspective of the remote user's head. The system is currently one-directional: 2 small cameras mounted on the drone allow the remote user to observe the local scene."
+    },
+    {
+        "title": "TabletInVR: Exploring the Design Space for Using a Multi-Touch Tablet in Virtual Reality",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Hemant Bhaskar Surale",
+            "Aakar Gupta",
+            "Mark Hancock",
+            "Daniel Vogel"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300243",
+        "citation": "74",
+        "abstract": "Complex virtual reality (VR) tasks, like 3D solid modelling, are challenging with standard input controllers. We propose exploiting the affordances and input capabilities when using a 3D-tracked multi-touch tablet in an immersive VR environment. Observations gained during semi-structured interviews with general users, and those experienced with 3D software, are used to define a set of design dimensions and guidelines. These are used to develop a vocabulary of interaction techniques to demonstrate how a tablet's precise touch input capability, physical shape, metaphorical associations, and natural compatibility with barehand mid-air input can be used in VR. For example, transforming objects with touch input, \"cutting\" objects by using the tablet as a physical \"knife\", navigating in 3D by using the tablet as a viewport, and triggering commands by interleaving bare-hand input around the tablet. Key aspects of the vocabulary are evaluated with users, with results validating the approach."
+    },
+    {
+        "title": "RotoSwype: Word-Gesture Typing using a Ring",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Aakar Gupta",
+            "Cheng Ji",
+            "Hui-Shyong Yeo",
+            "Aaron Quigley",
+            "Daniel Vogel"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300244",
+        "citation": "60",
+        "abstract": "We propose RotoSwype, a technique for word-gesture typing using the orientation of a ring worn on the index finger. RotoSwype enables one-handed text-input without encumbering the hand with a device, a desirable quality in many scenarios, including virtual or augmented reality. The method is evaluated using two arm positions: with the hand raised up with the palm parallel to the ground; and with the hand resting at the side with the palm facing the body. A five-day study finds both hand positions achieved speeds of at least 14 words-per-minute (WPM) with uncorrected error rates near 1%, outperforming previous comparable techniques."
+    },
+    {
+        "title": "BeamBand: Hand Gesture Sensing with Ultrasonic Beamforming",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Yasha Iravantchi",
+            "Mayank Goel",
+            "Chris Harrison"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300245",
+        "citation": "29",
+        "abstract": "BeamBand is a wrist-worn system that uses ultrasonic beamforming for hand gesture sensing. Using an array of small transducers, arranged on the wrist, we can ensem-ble acoustic wavefronts to project acoustic energy at spec-ified angles and focal lengths. This allows us to interro-gate the surface geometry of the hand with inaudible sound in a raster-scan-like manner, from multiple view-points. We use the resulting, characteristic reflections to recognize hand pose at 8 FPS. In our user study, we found that BeamBand supports a six-class hand gesture set at 94.6% accuracy. Even across sessions, when the sensor is removed and reworn later, accuracy remains high: 89.4%. We describe our software and hardware, and future ave-nues for integration into devices such as smartwatches and VR controllers."
+    },
+    {
+        "title": "Airport Accessibility and Navigation Assistance for People with Visual Impairments",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "João Guerreiro",
+            "Dragan Ahmetovic",
+            "Daisuke Sato",
+            "Kris Kitani",
+            "Chieko Asakawa"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300246",
+        "citation": "47",
+        "abstract": "People with visual impairments often have to rely on the assistance of sighted guides in airports, which prevents them from having an independent travel experience. In order to learn about their perspectives on current airport accessibility, we conducted two focus groups that discussed their needs and experiences in-depth, as well as the potential role of assistive technologies. We found that independent navigation is a main challenge and severely impacts their overall experience. As a result, we equipped an airport with a Bluetooth Low Energy (BLE) beacon-based navigation system and performed a real-world study where users navigated routes relevant for their travel experience. We found that despite the challenging environment participants were able to complete their itinerary independently, presenting none to few navigation errors and reasonable timings. This study presents the first systematic evaluation posing BLE technology as a strong approach to increase the independence of visually impaired people in airports."
+    },
+    {
+        "title": "Effects of Moderation and Opinion Heterogeneity on Attitude towards the Online Deliberation Experience",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Simon T. Perrault",
+            "Weiyu Zhang"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300247",
+        "citation": "10",
+        "abstract": "Online deliberation offers a way for citizens to collectively discuss an issue and provide input for policymakers. The overall experience of online deliberation can be affected by multiple factors. We decided to investigate the effects of moderation and opinion heterogeneity on the perceived deliberation experience, by running the first online deliberation experiment in Singapore. Our study took place in three months with three phases. In phase 1, our 2,006 participants answered a survey, that we used to create groups of different opinion heterogeneity. During the second phase, 510 participants discussed about the population issue on the online platform we developed. We gathered data on their online deliberation experience during phase 3. We found out that higher levels of moderation negatively impact the experience of deliberation on perceived procedural fairness, validity claim and policy legitimacy; and that high opinion heterogeneity is important in order to get a fair assessment of the deliberation experience."
+    },
+    {
+        "title": "MilliSonic: Pushing the Limits of Acoustic Motion Tracking",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Anran Wang",
+            "Shyamnath Gollakota"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300248",
+        "citation": "56",
+        "abstract": "Recent years have seen interest in device tracking and localization using acoustic signals. State-of-the-art acoustic motion tracking systems however do not achieve millimeter accuracy and require large separation between microphones and speakers, and as a result, do not meet the requirements for many VR/AR applications. Further, tracking multiple concurrent acoustic transmissions from VR devices today requires sacrificing accuracy or frame rate. We present MilliSonic, a novel system that pushes the limits of acoustic based motion tracking. Our core contribution is a novel localization algorithm that can provably achieve sub-millimeter 1D tracking accuracy in the presence of multipath, while using only a single beacon with a small 4-microphone array.Further, MilliSonic enables concurrent tracking of up to four smartphones without reducing frame rate or accuracy. Our evaluation shows that MilliSonic achieves 0.7mm median 1D accuracy and a 2.6mm median 3D accuracy for smartphones, which is 5x more accurate than state-of-the-art systems. MilliSonic enables two previously infeasible interaction applications: a) 3D tracking of VR headsets using the smartphone as a beacon and b) fine-grained 3D tracking for the Google Cardboard VR system using a small microphone array."
+    },
+    {
+        "title": "Casual Microtasking: Embedding Microtasks in Facebook",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Nathan Hahn",
+            "Shamsi T. Iqbal",
+            "Jaime Teevan"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300249",
+        "citation": "15",
+        "abstract": "Microtasks enable people with limited time and context to contribute to a larger task. In this paper we explore casual microtasking, where microtasks are embedded into other primary activities so that they are available to be completed when convenient. We present a casual microtasking experience that inserts writing microtasks from an existing microwriting tool into the user's Facebook feed. From a two-week deployment of the system with nine people, we observe that casual microtasking enabled participants to get things done during their breaks, and that they tended to do so only after first engaging with Facebook's social content. Participants were most likely to complete the writing microtasks during periods of the day associated with low focus, and would occasionally use them as a springboard to open the original document in Word. These findings suggest casual microtasking can help people leverage spare micromoments to achieve meaningful micro-goals, and even encourage them to return to work."
+    },
+    {
+        "title": "Making Sense of Art: Access for Gallery Visitors with Vision Impairments",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Leona Holloway",
+            "Kim Marriott",
+            "Matthew Butler",
+            "Alan Borning"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300250",
+        "citation": "12",
+        "abstract": "While there is widespread recognition of the need to provide people with vision impairments (PVI) equitable access to cultural institutions such as art galleries, this is not easy. We present the results of a collaboration with a regional art gallery who wished to open their collection to PVIs in the local community. We describe a novel model that provides three different ways of accessing the gallery, depending upon visual acuity and mobility: virtual tours, self-guided tours and guided tours. As far as possible the model supports autonomous exploration by PVIs. It was informed by a value sensitive design exploration of the values and value conflicts of the primary stakeholders."
+    },
+    {
+        "title": "Co-Design Beyond Words: 'Moments of Interaction' with Minimally-Verbal Children on the Autism Spectrum",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Cara Wilson",
+            "Margot Brereton",
+            "Bernd Ploderer",
+            "Laurianne Sitbon"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300251",
+        "citation": "50",
+        "abstract": "Existing co-design methods support verbal children on the autism spectrum in the design process, while their minimally-verbal peers are overlooked. We describe Co-Design Beyond Words (CDBW), an approach which merges existing co-design methods with practice-based methods from Speech and Language Therapy which are child-led and interests-based. These emphasise the rich detail that can be conveyed in the moment, through recognising occurrences of, for example, Joint Attention, Turn Taking and Imitation. We worked in an autism-specific primary school over 20 weeks with ten children, aged 5 to 8. We co-designed a playful prototype, the TangiBall, using the three iterative phases of CDBW; the Foundation Phase (preparation for interaction), the Interaction Phase (designing-and-reflecting in the moment) and the Reflection Phase (reflection-on-action). We contribute a novel co-design approach and present moments of interaction, the micro instances in design in which minimally-verbal children on the spectrum can convey meaning beyond words, through their actions, interactions, and attentional foci. These moments of interaction provide design insight, shape design direction, and reveal unique strengths, interests, and abilities."
+    },
+    {
+        "title": "Emotional Utility and Recall of the Facebook News Feed",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Pawarat Nontasil",
+            "Stephen J. Payne"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300252",
+        "citation": "9",
+        "abstract": "We report a laboratory study (N=53) in which participants browsed their own Facebook news feeds for 10-15 minutes, choosing exactly when to quit, and later rated the overall emotional utility of the episode before attempting to recall threads. Finally, the emotional utility of each encountered thread was rated while looking over a recording of the interaction. We report that Facebook browsing was, overall, an emotionally positive experience; that recall of threads exhibited classic primacy and recency serial order effects; that recalled threads were both more positive and more valenced (less neutral) on average, than forgotten threads; and that overall emotional valence judgments were predicted, statistically, by the peak and end thread judgments. We find no evidence that local quit decisions were driven by the emotional utility of threads. In the light of these findings, we discuss the suggestion that emotional utility might partly explain the attractiveness of reading the news feed, and that an emotional memory bias might further increase the attractiveness of the newsfeed in prospect."
+    },
+    {
+        "title": "The Breaking Hand: Skills, Care, and Sufferings of the Hands of an Electronic Waste Worker in Bangladesh",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Mohammad Rashidujjaman Rifat",
+            "Hasan Mahmud Prottoy",
+            "Syed Ishtiaque Ahmed"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300253",
+        "citation": "32",
+        "abstract": "While repair work has recently been getting increasing attention in HCI, recycling practices have still remained relatively understudied, especially in the context of the Global South. To this end, building on our eight-month-long ethnography, this paper reports the electronic waste (`e-waste', henceforth) recycling practices among the e-waste recycler (`bhangari') communities in Dhaka, Bangladesh. In doing so, this paper offers the work of the bhangaris through an articulation of their hands and their uses. Drawing from a rich body of scholarly work on social science, we define and contextualize three characteristics of the hand of a bhangari: knowledge, care, and skills and collaboration. Our study also highlights the pains and sufferings involved in this profession. By explaining bhangari work through the hand, we also discuss its implications for design, and its connection to HCI's broader interest in sustainability."
+    },
+    {
+        "title": "EarTouch: Facilitating Smartphone Use for Visually Impaired People in Mobile and Public Scenarios",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Ruolin Wang",
+            "Chun Yu",
+            "Xing-Dong Yang",
+            "Weijie He",
+            "Yuanchun Shi"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300254",
+        "citation": "25",
+        "abstract": "Interacting with a smartphone using touch input and speech output is challenging for visually impaired people in mobile and public scenarios, where only one hand may be available for input (e.g., while holding a cane) and using the loudspeaker for speech output is constrained by environmental noise, privacy, and social concerns. To address these issues, we propose EarTouch, a one-handed interaction technique that allows the users to interact with a smartphone using the ear to perform gestures on the touchscreen. Users hold the phone to their ears and listen to speech output from the ear speaker privately. We report how the technique was designed, implemented, and evaluated through a series of studies. Results show that EarTouch is easy, efficient, fun and socially acceptable to use."
+    },
+    {
+        "title": "Diagnosing and Coping with Mode Errors in Korean-English Dual-language Keyboard",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Sangyoon Lee",
+            "Jaeyeon Lee",
+            "Geehyuk Lee"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300255",
+        "citation": "2",
+        "abstract": "In countries where languages with non-Latin characters are prevalent, people use a keyboard with two language modes namely, the native language and English, and often experience mode errors. To diagnose the mode error problem, we conducted a field study and observed that 78% of the mode errors occurred immediately after application switching. We implemented four methods (Auto-switch, Preview, Smart-toggle, and Preview & Smart-toggle) based on three strategies to deal with the mode error problem and conducted field studies to verify their effectiveness. In the studies considering Korean-English dual input, Auto-switch was ineffective. On the contrary, Preview significantly reduced the mode errors from 75.1% to 41.3%, and Smart-toggle saved typing cost for recovering from mode errors. In Preview & Smart-toggle, Preview reduced mode errors and Smart-toggle handled 86.2% of the mode errors that slipped past Preview. These results suggest that Preview & Smart-toggle is a promising method for preventing mode errors for the Korean-English dual-input environment."
+    },
+    {
+        "title": "Impact of Contextual Factors on Snapchat Public Sharing",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Hana Habib",
+            "Neil Shah",
+            "Rajan Vaish"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300256",
+        "citation": "10",
+        "abstract": "Public sharing is integral to online platforms. This includes the popular multimedia messaging application Snapchat, on which public sharing is relatively new and unexplored in prior research. In mobile-first applications, sharing contexts are dynamic. However, it is unclear how context impacts users' sharing decisions. As platforms increasingly rely on user-generated content, it is important to also broadly understand user motivations and considerations in public sharing. We explored these aspects of content sharing through a survey of 1,515 Snapchat users. Our results indicate that users primarily have intrinsic motivations for publicly sharing Snaps, such as to share an experience with the world, but also have considerations related to audience and sensitivity of content. Additionally, we found that Snaps shared publicly were contextually different from those privately shared. Our findings suggest that content sharing systems can be designed to support sharing motivations, yet also be sensitive to private contexts."
+    },
+    {
+        "title": "Cluster Touch: Improving Touch Accuracy on Smartphones for People with Motor and Situational Impairments",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Martez E. Mott",
+            "Jacob O. Wobbrock"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300257",
+        "citation": "20",
+        "abstract": "We present Cluster Touch, a combined user-independent and user-specific touch offset model that improves the accuracy of touch input on smartphones for people with motor impairments, and for people experiencing situational impairments while walking. Cluster Touch combines touch examples from multiple users to create a shared user-independent touch model, which is then updated with touch examples provided by an individual user to make it user-specific. Owing to this combination, Cluster Touch allows people to quickly improve the accuracy of their smartphones by providing only 20 touch examples. In a user study with 12 people with motor impairments and 12 people without motor impairments, but who were walking, Cluster Touch improved touch accuracy by 14.65% for the former group and 6.81% for the latter group over the native touch sensor. Furthermore, in an offline analysis of existing mobile interfaces, Cluster Touch improved touch accuracy by 8.21% and 4.84% over the native touch sensor for the two user groups, respectively."
+    },
+    {
+        "title": "MindDot: Supporting Effective Cognitive Behaviors in Concept Map-Based Learning Environments",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Shang Wang",
+            "Deniz Sonmez Unal",
+            "Erin Walker"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300258",
+        "citation": "7",
+        "abstract": "While prior research has revealed the promising impact of concept mapping on learning, few have comprehensively modeled different cognitive behaviors during concept mapping. In addition, existing concept mapping tools lack effective feedback to support better learning behaviors. This work presents MindDot, a concept map-based learning environment that facilitates the cognitive process of comparing and integrating related concepts via two forms of support. A hyperlink support and an expert template. Study results suggested that both types of support had positive impact on the development of comparative strategies and that hyperlink support enhanced learning. We further evaluated the cognitive learning progress at a fine-grained level with two forms of visualizations. We then extracted several behavioral patterns that provided insights about the cognitive progress in learning. Lastly, we derive design recommendations that we hope will inspire future intelligent tutoring systems that automatically evaluate students' learning behaviors and foster them in developing effective learning behaviors"
+    },
+    {
+        "title": "Changing Perspective: A Co-Design Approach to Explore Future Possibilities of Divergent Hearing",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Judith Dörrenbächer",
+            "Marc Hassenzahl"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300259",
+        "citation": "10",
+        "abstract": "Conventional hearing aids frame hearing impairment almost exclusively as a problem. In the present paper, we took an alternative approach by focusing on positive future possibilities of 'divergent hearing'. To this end, we developed a method to speculate simultaneously about not-yet-experienced positive meanings and not-yet-existing technology. First, we gathered already existing activities in which divergent hearing was experienced as an advantage rather than as a burden. These activities were then condensed into 'Prompts of Positive Possibilities' (PPP), such as 'Creating a shelter to feel safe in\". In performative sessions, participants were given these PPPs and 'Open Probes' to enact novel everyday activities. This led to 26 possible meanings and according devices, such as \"Being able to listen back into the past with a rewinder\". The paper provides valuable insights into the interests and expectations of people with divergent hearing as well as a methodological contribution to a possibility-driven design."
+    },
+    {
+        "title": "Failing with Style: Designing for Aesthetic Failure in Interactive Performance",
+        "conferenceTitle": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "data": "May 2019",
+        "authors": [
+            "Adrian Hazzard",
+            "Chris Greenhalgh",
+            "Maria Kallionpaa",
+            "Steve Benford",
+            "Anne Veinberg",
+            "Zubin Kanga",
+            "Andrew McPherson"
+        ],
+        "DOI": "https://doi.org/10.1145/3290605.3300260",
+        "citation": "6",
+        "abstract": "Failure is a common artefact of challenging experiences, a fact of life for interactive systems but also a resource for aesthetic and improvisational performance. We present a study of how three professional pianists performed an interactive piano composition that included playing hidden codes within the music so as to control their path through the piece and trigger system actions. We reveal how apparent failures to play the codes occurred for diverse reasons including mistakes in their playing, limitations of the system, but also deliberate failures as a way of controlling the system, and how these failures provoked aesthetic and improvised responses from the performers. We propose that creative and performative interfaces should be designed to enable aesthetic failures and introduce a taxonomy that compares human approaches to failure with approaches to capable systems, revealing new creative design strategies of gaming, taming, riding and serving the system."
+    }
+]

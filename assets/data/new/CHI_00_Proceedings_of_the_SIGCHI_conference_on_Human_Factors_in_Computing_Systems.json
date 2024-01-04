@@ -1,0 +1,396 @@
+[
+    {
+        "title": "Unleashed: Web tablet integration into the home",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Anne McClard",
+            "Patricia Somers"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332042",
+        "citation": "19",
+        "abstract": "To understand how web access from a portable tablet appliance changes the way people use the Internet, MediaOne gave families pen-based tablet computers with a wireless connection to our high-speed data network. We used ethnographic and usability methods to understand how tablets would be integrated into household activities and to define user requirements for such devices. Participants viewed the tablet as conceptually different from a PC. The tablet enabled a high degree of multitasking with household activities, yet flaws in form and function affected use. Results suggest that correctly designed portable Internet appliances will fill a special role in peoples' daily lives, particularly if these devices share information with each other. They will allow spontaneous access to information and communication anywhere."
+    },
+    {
+        "title": "Predicting text entry speed on mobile phones",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Miika Silfverberg",
+            "I. Scott MacKenzie",
+            "Panu Korhonen"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332044",
+        "citation": "164",
+        "abstract": "We present a model for predicting expert text entry rates for several input methods on a 12-key mobile phone keypad. The model includes a movement component based on Fitts' law and a linguistic component based on digraph, or letter-pair, probabilities. Predictions are provided for one-handed thumb and two-handed index finger input. For the traditional multi-press method or the lesser-used two-key method, predicted expert rates vary from about 21 to 27 words per minute (wpm). The relatively new T9 method works with a disambiguating algorithm and inputs each character with a single key press. Predicted expert rates vary from 41 wpm for one-handed thumb input to 46 wpm for two-handed index finger input. These figures are degraded somewhat depending on the user's strategy in coping with less-than-perfect disambiguation. Analyses of these strategies are presented."
+    },
+    {
+        "title": "Developing a context-aware electronic tourist guide: some issues and experiences",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Keith Cheverst",
+            "Nigel Davies",
+            "Keith Mitchell",
+            "Adrian Friday",
+            "Christos Efstratiou"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332047",
+        "citation": "536",
+        "abstract": "In this paper, we describe our experiences of developing and evaluating GUIDE, an intelligent electronic tourist guide. The GUIDE system has been built to overcome many of the limitations of the traditional information and navigation tools available to city visitors. For example, group-based tours are inherently inflexible with fixed starting times and fixed durations and (like most guidebooks) are constrained by the need to satisfy the interests of the majority rather than the specific interests of individuals. Following a period of requirements capture, involving experts in the field of tourism, we developed and installed a system for use by visitors to Lancaster. The system combines mobile computing technologies with a wireless infrastructure to present city visitors with information tailored to both their personal and environmental contexts. In this paper we present an evaluation of GUIDE, focusing on the quality of the visitor's experience when using the system."
+    },
+    {
+        "title": "Measuring the allocation of control in a 6 degree-of-freedom docking experiment",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Maurice R. Masliah",
+            "Paul Milgram"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332403",
+        "citation": "53",
+        "abstract": "Coordination definitions and metrics are reviewed from the motor control, biomedical, and human factors literature. This paper presents an alternative measurement called the M-metric, the product of the simultaneity and efficiency of a trajectory, as a means of quantifying allocation of control within a docking task. A 6 degree-of-freedom (DOF) longitudinal virtual docking task experiment was conducted to address how control is allocated across six DOFs, how allocation of control changes with extended practice, and if differences in the allocation of control are input device dependent. The results show that operators, rather than controlling all 6 DOFs equally, allocate their control to the rotational and translational DOFs separately, and switch control between the two groups. With practice, allocation of control within the translational and rotational subsets increases at a faster rate than across all 6 DOFs together."
+    },
+    {
+        "title": "Symmetric bimanual interaction",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Ravin Balakrishnan",
+            "Ken Hinckley"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332404",
+        "citation": "110",
+        "abstract": "We present experimental work that explores the factors governing symmetric bimanual interaction in a two-handed task that requires the user to track a pair of targets, one target with each hand. A symmetric bimanual task is a two-handed task in which each hand is assigned an identical role. In this context, we explore three main experimental factors. We vary the distance between the pair of targets to track: as the targets become further apart, visual diversion increases, forcing the user to divide attention between the two targets. We also vary the demands of the task by using both a slow and a fast tracking speed. Finally, we explore visual integration of sub-tasks: in one condition, the two targets to track are connected by a line segment which visually links the targets, while in the other condition there is no connecting line. Our results indicate that all three experimental factors affect the degree of parallelism, which we quantify using a new metric of bimanual parallelism. However, differences in tracking error between the two hands are affected only by the visual integration factor."
+    },
+    {
+        "title": "Two-handed input using a PDA and a mouse",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Brad A. Myers",
+            "Kin Pou Lie",
+            "Bo-Chieh Yang"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332405",
+        "citation": "19",
+        "abstract": "We performed several experiments using a Personal Digital Assistant (PDA) as an input device in the non-dominant hand along with a mouse in the dominant hand. A PDA is a small hand-held palm-size computer like a 3Com Palm Pilot or a Windows CE device. These are becoming widely available and are easily connected to a PC. Results of our experiments indicate that people can accurately and quickly select among a small numbers of buttons on the PDA using the left hand without looking, and that, as predicted, performance does decrease as the number of buttons increases. Homing times to move both hands between the keyboard and devices are only about 10% to 15% slower than times to move a single hand to the mouse, suggesting that acquiring two devices does not cause a large penalty. In an application task, we found that scrolling web pages using buttons or a scroller on the PDA matched the speed of using a mouse with a conventional scroll bar, and beat the best two-handed times reported in an earlier experiment. These results will help make two-handed interactions with computers more widely available and more effective."
+    },
+    {
+        "title": "The effects of animated characters on anxiety, task performance, and evaluations of user interfaces",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Raoul Rickenberg",
+            "Byron Reeves"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332406",
+        "citation": "111",
+        "abstract": "Animated characters are common in user interfaces, but important questions remain about whether characters work in all situations and for all users. This experiment tested the effects of different character presentations on user anxiety, task performance, and subjective evaluations of two commerce websites. There were three character conditions (no character, a character that ignored the user, and a character that closely monitored work on the website). Users were separated into two groups that had different attitudes about accepting help from others: people with control orientations that were external (users thought that other people controlled their success) and those with internal orientations (users thought they were in control). Results showed that the effects of monitoring and individual differences in thoughts about control worked as they do in real life. Users felt more anxious when characters monitored their website work and this effect was strongest for users with an external control orientation. Monitoring characters also decreased task performance, but increased trust in website content. Results are discussed in terms of design considerations that maximize the positive influence of animated agents."
+    },
+    {
+        "title": "Helper agent: designing an assistant for human-human interaction in a virtual meeting space",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Katherine Isbister",
+            "Hideyuki Nakanishi",
+            "Toru Ishida",
+            "Cliff Nass"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332407",
+        "citation": "98",
+        "abstract": "This paper introduces a new application area for agents in the computer interface: the support of human-human interaction. We discuss an interface agent prototype that is designed to support human-human communication in virtual environments. The prototype interacts with users strategically during conversation, spending most of its time listening. The prototype mimics a party host, trying to find a safe common topic for guests whose conversation has lagged. We performed an experimental evaluation of the prototype's ability to assist in cross-cultural conversations. We designed the prototype to introduce safe or unsafe topics to conversation pairs, through a series of questions and suggestions. The agent made positive contributions to participants' experience of the conversation, influenced their perception of each other and of each others' national group, and even seemed to effect their style of behavior. We discuss the implications of our research for the design of social agents to support human-human interaction."
+    },
+    {
+        "title": "Agents to assist in finding help",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Adriana Vivacqua",
+            "Henry Lieberman"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332408",
+        "citation": "61",
+        "abstract": "When a novice needs help, often the best solution is to find a human expert who is capable of answering the novice's questions. But often, novices have difficulty characterizing their own questions and expertise and finding appropriate experts. Previous attempts to assist expertise location have provided matchmaking services, but leave the task of classifying knowledge and queries to be performed manually by the participants. We introduce Expert Finder, an agent that automatically classifies both novice and expert knowledge by autonomously analyzing documents created in the course of routine work. Expert Finder works in the domain of Java programming, where it relates a user's Java class usage to an independent domain model. User models are automatically generated that allow accurate matching of query to expert without either the novice or expert filling out skill questionnaires. Testing showed that automatically generated profiles matched well with experts' own evaluation of their skills, and we achieved a high rate of matching novice questions with appropriate experts."
+    },
+    {
+        "title": "Lurker demographics: counting the silent",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Blair Nonnecke",
+            "Jenny Preece"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332409",
+        "citation": "323",
+        "abstract": "As online groups grow in number and type, understanding lurking is becoming increasingly important. Recent reports indicate that lurkers make up over 90% of online groups, yet little is known about them."
+    },
+    {
+        "title": "Talking in circles: designing a spatially-grounded audioconferencing environment",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Roy Rodenstein",
+            "Judith S. Donath"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332410",
+        "citation": "21",
+        "abstract": "This paper presents Talking in Circles, a multimodal audioconferencing environment whose novel design emphasizes spatial grounding with the aim of supporting naturalistic group interaction behaviors. Participants communicate primarily by speech and are represented as colored circles in a two-dimensional space. Behaviors such as subgroup conversations and social navigation are supported through circle mobility as mediated by the environment and the crowd and distance-based attenuation of the audio. The circles serve as platforms for the display of identity, presence and activity: graphics are synchronized to participants' speech to aid in speech-source identification and participants can sketch in their circle, allowing a pictorial and gestural channel to complement the audio. We note user experiences through informal studies as well as design challenges we have faced in the creation of a rich environment for computer-mediated communication."
+    },
+    {
+        "title": "Jotmail: a voicemail interface that enables you to see what was said",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Steve Whittaker",
+            "Richard Davis",
+            "Julia Hirschberg",
+            "Urs Muller"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332411",
+        "citation": "16",
+        "abstract": "Voicemail is a pervasive, but under-researched tool for workplace communication. Despite potential advantages of voicemail over email, current phone-based voicemail UIs are highly problematic for users. We present a novel, Web-based, voicemail interface, Jotmail. The design was based on data from several studies of voicemail tasks and user strategies. The GUI has two main elements: (a) personal annotations that serve as a visual analogue to underlying speech; (b) automatically derived message header information. We evaluated Jotmail in an 8-week field trial, where people used it as their only means for accessing voicemail. Jotmail was successful in supporting most key voicemail tasks, although users' electronic annotation and archiving behaviors were different from our initial predictions. Our results argue for the utility of a combination of annotation based indexing and automatically derived information, as a general technique for accessing speech archives."
+    },
+    {
+        "title": "Instructional interventions in computer-based tutoring: differential impact on learning time and accuracy",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Albert Corbett",
+            "Holly Trask"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332412",
+        "citation": "16",
+        "abstract": "We can reliably build “second generation” intelligent computer tutors that are approximately half as effective as human tutors. This paper evaluates two interface enhancements designed to improve the effectiveness of one successful second generation tutor, the ACT Programming Tutor. One enhancement employs animated feedback to make key data structure relationships salient. The second enhancement employs subgoal scaffolding to support students in developing simple programming plans. Both interventions were successful, but had very different impacts on student effort required to achieve mastery in the tutor environment and on subsequent posttest accuracy. These results represent a step forward in closing the gap between computer tutors and human tutors."
+    },
+    {
+        "title": "Keystroke level analysis of email message organization",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Olle Bälter"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332413",
+        "citation": "45",
+        "abstract": "Organization of email messages takes an increasing amount of time for many email users. Research has demonstrated that users develop very different strategies to handle this organization. In this paper, the relationship between the different organization strategies and the time necessary to use a certain strategy is illustrated by a mathematical model based on keystroke-level analysis. The model estimates time usage for archiving and retrieving email messages for individual users. Besides explaining why users develop different strategies to organize email messages, the model can also be used to advise users individually when to start using folders, clean messages, learn the search functionality, and using filters to store messages. Similar models could assist evaluation of different interface designs where the number of items increase with time."
+    },
+    {
+        "title": "Using naming time to evaluate quality predictors for model simplification",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Benjamin Watson",
+            "Alinda Friedman",
+            "Aaron McGaffey"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332414",
+        "citation": "11",
+        "abstract": "Model simplification researchers require quality heuristics to guide simplification, and quality predictors to allow comparison of different simplification algorithms. However, there has been little evaluation of these heuristics or predictors. We present an evaluation of quality predictors. Our standard of comparison is naming time, a well established measure of recognition from cognitive psychology. Thirty participants named models of familiar objects at three levels of simplification. Results confirm that naming time is sensitive to model simplification. Correlations indicate that view-dependent image quality predictors are most effective for drastic simplifications, while view-independent three-dimensional predictors are better for more moderate simplifications."
+    },
+    {
+        "title": "Interactive textbook and interactive Venn diagram: natural and intuitive interfaces on augmented desk system",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Hideki Koike",
+            "Yoichi Sato",
+            "Yoshinori Kobayashi",
+            "Hiroaki Tobita",
+            "Motoki Kobayashi"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332415",
+        "citation": "61",
+        "abstract": "This paper describes two interface prototypes which we have developed on our augmented desk interface system, EnhancedDesk. The first application is Interactive Textbook, which is aimed at providing an effective learning environment. When a student opens a page which describes experiments or simulations, Interactive Textbook automatically retrieves digital contents from its database and projects them onto the desk. Interactive Textbook also allows the student hands-on ability to interact with the digital contents. The second application is the Interactive Venn Diagram, which is aimed at supporting effective information retrieval. Instead of keywords, the system uses real objects such as books or CDs as keys for retrieval. The system projects a circle around each book; data corresponding the book are then retrieved and projected inside the circle. By moving two or more circles so that the circles intersect each other, the user can compose a Venn diagram interactively on the desk. We also describe the new technologies introduced in EnhancedDesk which enable us to implement these applications."
+    },
+    {
+        "title": "curlybot: designing a new class of computational toys",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Phil Frei",
+            "Victor Su",
+            "Bakhtiar Mikhak",
+            "Hiroshi Ishii"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332416",
+        "citation": "112",
+        "abstract": "We introduce an educational toy, called curlybot, as the basis for a new class of toys aimed at children in their early stages of development — ages four and up. curlybot is an autonomous two-wheeled vehicle with embedded electronics that can record how it has been moved on any flat surface and then play back that motion accurately and repeatedly. Children can use curlybot to develop intuitions for advanced mathematical and computational concepts, like differential geometry, through play away from a traditional computer."
+    },
+    {
+        "title": "HandSCAPE: a vectorizing tape measure for on-site measuring applications",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Jay Lee",
+            "Victor Su",
+            "Sandia Ren",
+            "Hiroshi Ishii"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332417",
+        "citation": "17",
+        "abstract": "We introduce HandSCAPE, an orientation-aware digital tape measure, as an input device for digitizing field measurements, and visualizing the volume of the resulting vectors with computer graphics. Using embedded orientation-sensing hardware, HandSCAPE captures relevant vectors on each linear measurements and transmits this data wirelessly to a remote computer in real-time. To guide us in design, we have closely studied the intended users, their tasks, and the physical workplaces to extract the needs from real worlds. In this paper, we first describe the potential utility of HandSCAPE for three on-site application areas: archeological surveys, interior design, and storage space allocation. We then describe the overall system which includes orientation sensing, vector calculation, and primitive modeling. With exploratory usage results, we conclude our paper for interface design issues and future developments."
+    },
+    {
+        "title": "Bringing order to the Web: automatically categorizing search results",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Hao Chen",
+            "Susan Dumais"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332418",
+        "citation": "226",
+        "abstract": "We developed a user interface that organizes Web search results into hierarchical categories. Text classification algorithms were used to automatically classify arbitrary search results into an existing category structure on-the-fly. A user study compared our new category interface with the typical ranked list interface of search results. The study showed that the category interface is superior both in objective and subjective measures. Subjects liked the category interface much better than the list interface, and they were 50% faster at finding information that was organized into categories. Organizing search results allows users to focus on items in categories of interest rather than having to browse through all the results sequentially."
+    },
+    {
+        "title": "Enhancing a digital book with a reading recommender",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Allison Woodruff",
+            "Rich Gossweiler",
+            "James Pitkow",
+            "Ed H. Chi",
+            "Stuart K. Card"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332419",
+        "citation": "36",
+        "abstract": "Digital books can significantly enhance the reading experience, providing many functions not available in printed books. In this paper we study a particular augmentation of digital books that provides readers with customized recommendations. We systematically explore the application of spreading activation over text and citation data to generate useful recommendations. Our findings reveal that for the tasks performed in our corpus, spreading activation over text is more useful than citation data. Further, fusing text and citation data via spreading activation results in the most useful recommendations. The fused spreading activation techniques outperform traditional text-based retrieval methods. Finally, we introduce a preliminary user interface for the display of recommendations from these algorithms."
+    },
+    {
+        "title": "The scent of a site: a system for analyzing and predicting information scent, usage, and usability of a Web site",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Ed H. Chi",
+            "Peter Pirolli",
+            "James Pitkow"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332423",
+        "citation": "101",
+        "abstract": "Designers and researchers of users' interactions with the World Wide Web need tools that permit the rapid exploration of hypotheses about complex interactions of user goals, user behaviors, and Web site designs. We present an architecture and system for the analysis and prediction of user behavior and Web site usability. The system integrates research on human information foraging theory, a reference model of information visualization and Web data-mining techniques. The system also incorporates new methods of Web site visualization (Dome Tree, Usage Based Layouts), a new predictive modeling technique for Web site use (Web User Flow by Information Scent, WUFIS), and new Web usability metrics."
+    },
+    {
+        "title": "Browsing digital video",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Francis C. Li",
+            "Anoop Gupta",
+            "Elizabeth Sanocki",
+            "Li-wei He",
+            "Yong Rui"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332425",
+        "citation": "85",
+        "abstract": "Video in digital format played on programmable devices presents opportunities for significantly enhancing the user's viewing experience. For example, time compression and pause removal can shorten the viewing time for a video, textual and visual indices can allow personalized navigation through the content, and random-access digital storage allows instantaneous seeks into the content. To understand user behavior when such capabilities are available, we built a software video browsing application that combines many such features. We present results from a user study where users browsed video in six different categories: classroom lectures, conference presentations, entertainment shows, news, sports, and travel. Our results show that the most frequently used features were time compression, pause removal, and navigation using shot boundaries. Also, the behavior was different depending on the content type, and we present a classification. Finally, the users found the browser to be very useful. Two main reasons were: i) the ability to save time and ii) the feeling of control over what content they watched."
+    },
+    {
+        "title": "Comparing presentation summaries: slides vs. reading vs. listening",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Liwei He",
+            "Elizabeth Sanocki",
+            "Anoop Gupta",
+            "Jonathan Grudin"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332427",
+        "citation": "18",
+        "abstract": "As more audio and video technical presentations go online, it becomes imperative to give users effective summarization and skimming tools so that they can find the presentation they want and browse through it quickly. In a previous study, we reported three automated methods for generating audio-video summaries and a user evaluation of those methods. An open question remained about how well various text/image only techniques will compare to the audio-video summarizations. This study attempts to fill that gap."
+    },
+    {
+        "title": "An interactive comic book presentation for exploring video",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "John Boreczky",
+            "Andreas Girgensohn",
+            "Gene Golovchinsky",
+            "Shingo Uchihashi"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332428",
+        "citation": "67",
+        "abstract": "This paper presents a method for generating compact pictorial summarizations of video. We developed a novel approach for selecting still images from a video suitable for summarizing the video and for providing entry points into it. Images are laid out in a compact, visually pleasing display reminiscent of a comic book or Japanese manga. Users can explore the video by interacting with the presented summary. Links from each keyframe start video playback and/or present additional detail. Captions can be added to presentation frames to include commentary or descriptions such as the minutes of a recorded meeting. We conducted a study to compare variants of our summarization technique. The study participants judged the manga summary to be significantly better than the other two conditions with respect to their suitability for summaries and navigation, and their visual appeal."
+    },
+    {
+        "title": "Face to interface: facial affect in (hu)man and machine",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Diane J. Schiano",
+            "Sheryl M. Ehrlich",
+            "Krisnawan Rahardja",
+            "Kyle Sheridan"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332430",
+        "citation": "28",
+        "abstract": "Facial expression of emotion (or “facial affect”) is rapidly becoming an area of intense interest in the computer science and interaction design communities. Ironically, this interest comes at a time when the classic findings on perception of human facial affect are being challenged in the psychological research literature, largely on methodological grounds. This paper presents two studies on perception of facial affect. Experiment 1 provides new data on the recognition of human facial expressions, using experimental methods and analyses designed to systematically address the criticisms and help resolve this controversy. Experiment 2 is a user study on affect in a prototype robot face; the results are compared to the human data of Experiment 1. Together they provide a demonstration of how basic and more applied research can mutually contribute to this rapidly developing field."
+    },
+    {
+        "title": "Hedonic and ergonomic quality aspects determine a software's appeal",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Mare Hassenzahl",
+            "Axel Platz",
+            "Michael Burmester",
+            "Katrin Lehner"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332432",
+        "citation": "234",
+        "abstract": "The present study examines the role of subjectively perceived ergonomic quality (e.g. simplicity, controllability) and hedonic quality (e.g. novelty, originality) of a software system in forming a judgement of appeal. A hypothesised research model is presented. The two main research question are: (1) Are ergonomic and hedonic quality subjectively different quality aspects that can be independently perceived by the users? and (2) Is the judgement of appeal formed by combining and weighting ergonomic and hedonic quality and which weights are assigned?"
+    },
+    {
+        "title": "Alternatives: exploring information appliances through conceptual design proposals",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Bill Gaver",
+            "Heather Martin"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332433",
+        "citation": "183",
+        "abstract": "As a way of mapping a design space for a project on information appliances, we produced a workbook describing about twenty conceptual design proposals. On the one hand, they serve as suggestions that digital devices might embody values apart from those traditionally associated with functionality and usefulness. On the other, they are examples of research through design, balancing concreteness with openness to spur the imagination, and using multiplicity to allow the emergence of a new design space. Here we describe them both in terms of content and process, discussing first the values they address and then how they were crafted to encourage a broad discussion with our partners that could inform future stages of design."
+    },
+    {
+        "title": "An observational study of how objects support engineering design thinking and communication: implications for the design of tangible media",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Margot Brereton",
+            "Ben McGarry"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332434",
+        "citation": "71",
+        "abstract": "There has been an increasing interest in objects within the HCI field particularly with a view to designing tangible interfaces. However, little is known about how people make sense of objects and how objects support thinking. This paper presents a study of groups of engineers using physical objects to prototype designs, and articulates the roles that physical objects play in supporting their design thinking and communications. The study finds that design thinking is heavily dependent upon physical objects, that designers are active and opportunistic in seeking out physical props and that the interpretation and use of an object depends heavily on the activity. The paper discusses the trade-offs that designers make between speed and accuracy of models, and specificity and generality in choice of representations. Implications for design of tangible interfaces are discussed."
+    },
+    {
+        "title": "Tagged handles: merging discrete and continuous manual control",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Karon E. MacLean",
+            "Scott S. Snibbe",
+            "Golan Levin"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332435",
+        "citation": "18",
+        "abstract": "Discrete and continuous modes of manual control are fundamentally different: buttons select or change state, while handles persistently modulate an analog parameter. User interfaces for many electronically aided tasks afford only one of these modes when both are needed. We describe an integration of two kinds of physical interfaces (tagged objects and force feedback) that enables seamless execution of such multimodal tasks while applying the benefits of physicality; and demonstrate application scenarios with conceptual and engineering prototypes. Our emphasis is on sharing insights gained in a design case study, including expert user reactions."
+    },
+    {
+        "title": "Traversable interfaces between real and virtual worlds",
+        "conferenceTitle": "CHI '00: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "April 2000",
+        "authors": [
+            "Boriana Koleva",
+            "Holger Schnädelbach",
+            "Steve Benford",
+            "Chris Greenhalgh"
+        ],
+        "DOI": "https://doi.org/10.1145/332040.332437",
+        "citation": "31",
+        "abstract": "Traversable interfaces establish the illusion that virtual and physical worlds are joined together and that users can physically cross from one to the other. Our design for a traversable interface combines work on tele-embodiment, mixed reality boundaries and virtual environments. It also exploits non-solid projection surfaces, of which we describe four examples. Our design accommodates the perspectives of users who traverse the interface and also observers who are present in the connected physical and virtual worlds, an important consideration for performance and entertainment applications. A demonstrator supports encounters between members of our laboratory and remote visitors."
+    }
+]
