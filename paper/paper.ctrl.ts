@@ -29,7 +29,7 @@ async function getPaper(req: Request, res: Response) {
           return err;
         }
       );
-    await connection.release();
+    await connection.release(); // connection이 이루어진 후에는 반드시 release 해야함
     return res.status(200).send(papers);
   } catch (err) {
     console.log(err);

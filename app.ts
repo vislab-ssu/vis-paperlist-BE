@@ -7,6 +7,7 @@ const app = express();
 const port = PORT || 3000;
 
 app.use(require("cors")());
+// HTTP body 파싱 관련
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
