@@ -1,0 +1,396 @@
+[
+    {
+        "title": "An empirical study of how people establish interaction: implications for CSCW session management models",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Steinar Kristoffersen",
+            "Fredrik Ljungberg"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.302980",
+        "citation": "24",
+        "abstract": "In this paper, we report the results of an empirical study of how people, as part of their daily work activities, go about to establish collaboration. We examine the empirical findings and relate them to existing research on CSCW session management models, i.e., the mechanisms in CSCW systems that define the way in which people can join together in collaboration. Existing models leave a lot to be desired, in particular because they tend to assume that indexical elements of interaction management are substitutable by objective representation of artifacts. Based on the empirical findings, we derive three principles to consider in the design of CSCW session management models."
+    },
+    {
+        "title": "Chat circles",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Fernanda B. Viégas",
+            "Judith S. Donath"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.302981",
+        "citation": "143",
+        "abstract": "Although current online chat environments provide new opportunities for communication, they are quite constrained in their ability to convey many important pieces of social information, ranging from the number of participants in a conversation to the subtle nuances of expression that enrich face to face speech. In this paper we present Chat Circles, an abstract graphical interface for synchronous conversa-tion. Here, presence and activity are made manifest by changes in color and form, proximity-based filtering intuitively breaks large groups into conversational clusters, and the archives of a conversation are made visible through an integrated history interface. Our goal in this work is to create a richer environment for online discussions."
+    },
+    {
+        "title": "Social, individual and technological issues for groupware calendar systems",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Leysia Palen"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.302982",
+        "citation": "133",
+        "abstract": "Designing and deploying groupware is difficult. Groupware evaluation and design are often approached from a single perspective, with a technologically-, individually-, or socially-centered focus. A study of Groupware Calendar Systems (GCSs) highlights the need for a synthesis of these multiple perspectives to fully understand the adoption challenges these systems face. First, GCSs often replace existing calendar artifacts, which can impact users calendaring habits and in turn influence technology adoption decisions. Second, electronic calendars have the potential to easily share contextualized information publicly over the computer network, creating opportunities for peer judgment about time allocation and raising concerns about privacy regulation. However, this situation may also support coordination by allowing others to make useful inferences about ones schedule. Third, the technology and the social environment are in a reciprocal, co-evolutionary relationship: the use context is affected by the constraints and affordances of the technology, and the technology also co-adapts to the environment in important ways. Finally, GCSs, despite being below the horizon of everyday notice, can affect the nature of temporal coordination beyond the expected meeting scheduling practice."
+    },
+    {
+        "title": "The design and evaluation of a high-performance soft keyboard",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "I. Scott MacKenzie",
+            "Shawn X. Zhang"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.302983",
+        "citation": "243",
+        "abstract": "The design and evaluation of a high performance soft keyboard for mobile systems are described. Using a model to predict the upper-bound text entry rate for soft keyboards, we designed a keyboard layout with a predicted upper-bound entry rate of 58.2 wpm. This is about 35% faster than the predicted rate for a QWERTY layout. We compared our design (OPTI) with a QWERTY layout in a longitudinal evaluation using five participants and 20 45-minute sessions of text entry. Average entry rates for OPT1 increased from 17.0 wpm initially to 44.3 wpm at session 20. The average rates exceeded those for the QWERTY layout after the 10 session (about 4 hours of practice). A regression equation (R = .997) in the form of the power-law of learning predicts that our upper-bound prediction would be reach at about session 50."
+    },
+    {
+        "title": "Non-keyboard QWERTY touch typing: a portable input interface for the mobile user",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Mikael Goldstein",
+            "Robert Book",
+            "Gunilla Alsiö",
+            "Silvia Tessa"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.302984",
+        "citation": "25",
+        "abstract": "Using traditional mobile input devices results in decreased effectiveness and efficiency. To improve usability issues a portable Non-Keyboard QWERTY touch-typing paradigm that supports the mobile touch-typing user is presented and investigated. It requires negligible training time. Pressure sensors strapped to the fingertips of gloves detect which finger is depressed. A language model based on lexical and syntactic knowledge transforms the depressed finger stroke sequence into real words and sentences. Different mobile input QWERTY paradigms (miniaturised, floating and Non-Keyboard) have been compared with full-size QWERTY. Among the mobile input paradigms, the Non-Keyboard fared significantly better, both regarding character error rate and subjective ratings."
+    },
+    {
+        "title": "Implications for a gesture design tool",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Allan Christian Long",
+            "James A. Landay",
+            "Lawrence A. Rowe"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.302985",
+        "citation": "79",
+        "abstract": "Interest in pen-based user interfaces is growing rapidly. One potentially useful feature of pen-based user interfaces is gestures, that is, a mark or stroke that causes a command to execute. Unfortunately, it is difficult to design gestures that are easy 1) for computers to recognize and 2) for humans to learn and remember. To investigate these problems, we built a prototype tool typical fo those used for designing gesture sets. An experiment was then performed to gain insight into the gesture design process and to evaluate this style of tool. The experiment confirmed that gesture design is very difficult and suggested several ways in which current tools can be improved. The most important improvement is to make the tools more active and provide more guidance for designers. This paper describes the gesture design tool, the experiment, and its results."
+    },
+    {
+        "title": "Object manipulation in virtual environments: relative size matters",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Yanqing Wang",
+            "Christine L. MacKenzie"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.302989",
+        "citation": "13",
+        "abstract": "An experiment was conducted to systematically investigate combined effects of controller, cursor and target size on multidimensional object manipulation in a virtual environment. It was found that it was the relative size of controller, cursor and target that significantly affe&d object transportation and orientation processes. There were significant interactions between controller size and cursor size as well as between cursor size and target size on the total task completion time, transportation time, orientation time and spatial errors. The same size of controller and cursor improved object manipulation speed, and the same size of cursor and target generally facilitated object manipulation accuracy, regardless of their absolute sizes. Implications of these findings for human-computer interaction design are discussed."
+    },
+    {
+        "title": "Exploring bimanual camera control and object manipulation in 3D graphics interfaces",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Ravin Balakrishnan",
+            "Gordon Kurtenbach"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.302991",
+        "citation": "88",
+        "abstract": "We explore the use of the non-dominant hand to control a virtual camera while the dominant hand performs other tasks in a virtual 3D scene. Two experiments and an informal study are presented which evaluate this interaction style by comparing it to the status-quo unimanual interaction. In the first experiment, we find that for a target selection task, performance using the bimanual technique was 20% faster. Experiment 2 compared performance in a more complicated object docking task. Performance advantages are shown, however, only after practice. Free-form 3D painting was explored in the user study. In both experiments and in the user study participants strongly preferred the bimanual technique. The results also indicate that user preferences concerning bimanual interaction may be driven by factors other than simple time-motion performance advantages."
+    },
+    {
+        "title": "Towards usable VR: an empirical study of user interfaces for immersive virtual environments",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Robert W. Lindeman",
+            "John L. Sibert",
+            "James K. Hahn"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.302995",
+        "citation": "70",
+        "abstract": "This paper reports empirical results from a study into the use of 2D widgets in 3D immersive virtual environments. Several researchers have proposed the use of 2D interaction techniques in 3D environments, however little empirical work has been done to test the usability of such approaches. We present the results of two experiments conducted on low-level 2D manipulation tasks within an immersive virtual environment. We empirically show that the addition of passive-haptic feedback for use in precise UI manipulation tasks can significantly increase user performance. Furthermore, users prefer interfaces that provide a physical surface, and that allow them to work with interface widgets in the same visual field of view as the objects they are modifying."
+    },
+    {
+        "title": "Socially translucent systems: social proxies, persistent conversation, and the design of “babble”",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Thomas Erickson",
+            "David N. Smith",
+            "Wendy A. Kellogg",
+            "Mark Laff",
+            "John T. Richards",
+            "Erin Bradner"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.302997",
+        "citation": "214",
+        "abstract": "We take as our premise that it is possible and desirable to design systems that support social processes. We describe Loops, a project which takes this approach to supporting computer-mediated communication (CMC) through structural and intemctive properties such as persistence and a minimalist graphical representation of users and their activities that we call a social proxy. We discuss a prototype called Babble that has been used by our group for over a year, and has been deployed to six other groups at the Watson labs for about two months. We describe usage experiences, lessons learned, and next steps."
+    },
+    {
+        "title": "The elements of computer credibility",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "B. J. Fogg",
+            "Hsiang Tseng"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303001",
+        "citation": "377",
+        "abstract": "Given the importance of credibility in computing products, the research on computer credibility is relatively small. To enhance knowledge about computers and credibility, we define key terms relating to computer credibility, synthesize the literature in this domain, and propose three new conceptual frameworks for better understanding the elements of computer credibility. To promote further research, we then offer two perspectives on what computer users evaluate when assessing credibility. We conclude by presenting a set of credibility-related terms that can serve in future research and evaluation endeavors."
+    },
+    {
+        "title": "A better mythology for system design",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Jed Harris",
+            "Austin Henderson"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303003",
+        "citation": "18",
+        "abstract": "The past decades have seen huge improvements in computer systems but these have proved difficult to translate into comparable improvements in the usability and social integration of computers. We believe that the problem is a deeply rooted set of assumptions about how computer systems should be designed, and about who should be doing that design."
+    },
+    {
+        "title": "Nomadic radio: scaleable and contextual notification for wearable audio messaging",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Nitin Sawhney",
+            "Chris Schmandt"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303005",
+        "citation": "59",
+        "abstract": "Mobile workers need seamless access to communication and information services on portable devices. However current solutions overwhelm users with intrusive and ambiguous notifications. In this paper, we describe scaleable auditory techniques and a contextual notification model for providing timely information, while minimizing interruptions. Users actions influence local adaptation in the model. These techniques are demonstrated in Nomadic Radio, an audio-only wearable computing platform."
+    },
+    {
+        "title": "Tangible progress: less is more in Somewire audio spaces",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Andrew Singer",
+            "Debby Hindus",
+            "Lisa Stifelman",
+            "Sean White"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303007",
+        "citation": "34",
+        "abstract": "We developed four widely different interfaces for users of Somewire, a prototype audio-only media space. We informally studied users experiences with the two screen- based interfaces. We prototyped a non-screen-based interface as an example of a novel tangible interface for a communication system. We explored the conflict between privacy and simplicity of representation, and identified two unresolved topics: the role of audio quality and the prospects for scsiling audio spaces beyond a single Workgroup. Finally, we formulated a set of design guidelines for control and representation in audio spaces, as follows: GUIs are not well-suited to audio spaces, users do not require control over localization or other audio attributes, and awareness of other users presence is desirable."
+    },
+    {
+        "title": "Whisper: a wristwatch style wearable handset",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Masaaki Fukumoto",
+            "Yoshinobu Tonomura"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303009",
+        "citation": "36",
+        "abstract": "Whisper is a new wrist-worn handset, which is used by inserting the fingertip into the ear canal. A received signal is conveyed from a wrist-mounted actuator to the ear canal via the hand and a finger by bone conduction. The users voice is captured by a microphone mounted on the inside of the wrist. All components of Whisper can be mounted on the wrist, and usability does not de- crease if the size of components is miniaturized. So, both wearability and usability can be achieved together. The way Whisper is operated is similar to that of an ordinary telephone handset. Thus, onlookers may not look upon Whispers operation as talking to oneself, even if the associated PDA is controlled by voice commands. Whis- per is especially effective in a noisy environment. Signals received via bone conduction can be heard clearly in the presence of noise without raising the volume (-12 dB at noise = 90 dB(A) in comparison to cellular phone hand- set). Whisper is also effective in avoiding the annoying problem of the users voice being raised in a noisy situa- tion. Feedback of the users utterance is boosted by bone conduction when covering the ear canal with a fingertip, then the users voice does not need to raised in the pres- ence of noise (-6 dB at noise = 90 dB(A) in comparison to cellular phone handset). Whisper is useful as a voice interface for a wrist-worn PDA and cellular phone."
+    },
+    {
+        "title": "i-LAND: an interactive landscape for creativity and innovation",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Norbert A. Streitz",
+            "Jörg Geißler",
+            "Torsten Holmer",
+            "Shin'ichi Konomi",
+            "Christian Müller-Tomfelde",
+            "Wolfgang Reischl",
+            "Petra Rexroth",
+            "Peter Seitz",
+            "Ralf Steinmetz"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303010",
+        "citation": "359",
+        "abstract": "We describe the i-LAND environment which constitutes an example of our vision of the workspaces of the future, in this case supporting cooperative work of dynamic teams with changing needs. i-LAND requires and provides new forms of human-computer interaction and new forms of computer-supported cooperative work. Its design is based on an integration of information and architectural spaces, implications of new work practices and an empirical requirements study informing our design. i-LAND consists of several roomware components, i.e. computer-aug- mented objects integrating room elements with information technology. We present the current realization of i-LAND in terms of an interactive electronic wall, an interactive table, two computer-enhanced chairs, and two bridges for the Passage-mechanism. This is complemented by the description of the creativity support application and the technological infrastructure. The paper is accompanied by a video figure in the CHI99 video program."
+    },
+    {
+        "title": "Logjam: a tangible multi-person interface for video logging",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Jonathan Cohen",
+            "Meg Withgott",
+            "Philippe Piernot"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303013",
+        "citation": "29",
+        "abstract": "This paper describes the evolution, implementation, and use of logjam, a system for video logging. The system features a game-board that senses the location and identities of pieces placed upon it. The board is the interface that enables a group of people to log video footage together. We report on some of the surprising physical and social dynamics that we have observed in multi-person logging sessions using the system."
+    },
+    {
+        "title": "Time-compression: systems concerns, usage, and benefits",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Nosa Omoigui",
+            "Liwei He",
+            "Anoop Gupta",
+            "Jonathan Grudin",
+            "Elizabeth Sanocki"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303017",
+        "citation": "71",
+        "abstract": "With the proliferation of online multimedia content and the popularity of multimedia streaming systems, it is increasingly useful to be able to skim and browse multimedia quickly. A key technique that enables quick browsing of multimedia is time-compression. Prior research has described how speech can be time-compressed (shortened in duration) while preserving the pitch of the audio. However, client-server systems providing this functionality have not been available."
+    },
+    {
+        "title": "SWEETPEA: software tools for programmable embodied agents",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Michael Kaminsky",
+            "Paul Dourish",
+            "W. Keith Edwards",
+            "Anthony LaMarca",
+            "Michael Salisbury",
+            "Ian Smith"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303021",
+        "citation": "7",
+        "abstract": "Programmable Embodied Agents are portable, wireless, interactive devices embodying specific, differentiable, interactive characteristics. They take the form of identifiable characters who reside in the physical world and interact directly with users. They can act as an out-of-band communication channel between users, as proxies for system components or other users, or in a variety of other roles. Traditionally, research into such devices has been based on costly custom hardware. In this paper, we report on our explorations of the space of physical character-based interfaces built on recently available stock consumer hardware platforms, structured around an initial framework of applications."
+    },
+    {
+        "title": "Sympathetic interfaces: using a plush toy to direct synthetic characters",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Michael Patrick Johnson",
+            "Andrew Wilson",
+            "Bruce Blumberg",
+            "Christopher Kline",
+            "Aaron Bobick"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303028",
+        "citation": "114",
+        "abstract": "We introduce the concept of a sympathetic inter$ace for controlling an animated synthetic character in a 3D virtual environment. A plush doll embedded with wireless sensors is used to manipulate the virtual character in an iconic and intentional manner. The interface extends from the novel physical input device through interpretation of sensor data to the behavioral brain of the virtual character. We discuss the design of the interface and focus on its latest instantiation in the Swamped! exhibit at SIGGRAPH 98. We also present what we learned from hundreds of casual users, who ranged from young children to adults."
+    },
+    {
+        "title": "Principles of mixed-initiative user interfaces",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Eric Horvitz"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303030",
+        "citation": "684",
+        "abstract": "Recent debate has centered on the relative promise of focusing user-interface research on developing new metaphors and tools that enhance users abilities to directly manipulate objects versus directing effort toward developing interface agents that provide automation. In this paper, we review principles that show promise for allowing engineers to enhance human-computer interaction through an elegant coupling of automated services with direct manipulation. Key ideas will be highlighted in terms of the Lookout system for scheduling and meeting management."
+    },
+    {
+        "title": "An exploration into supporting artwork orientation in the user interface",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "George W. Fitzmaurice",
+            "Ravin Balakrishnan",
+            "Gordon Kurtenbach",
+            "Bill Buxton"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303033",
+        "citation": "30",
+        "abstract": "Rotating a piece of paper while drawing is an integral and almost subconscious part of drawing with pencil and paper. In a similar manner, the advent of lightweight pen-based computers allow digital artwork to be rotated while drawing by rotating the entire computer. Given this type of manipulation we explore the implications for the user interface to support artwork orientation. First we describe an exploratory study to further motivate our work and characterize how artwork is manipulated while drawing. After presenting some possible UI approaches to support artwork orientation, we define a new solution called a rotating user interface (RUIs). We then discuss design issues and requirements for RUIs based on our exploratory study."
+    },
+    {
+        "title": "An alternative way of drawing",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Roope Raisamo"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303035",
+        "citation": "10",
+        "abstract": "Current object-oriented drawing programs have an established way of drawing in which the shape of an object is controlled by manipulating control points. While the control points are intuitive in their basic use, it is not clear whether they make more complex drawing tasks manageable for the average user. In this paper we describe an alternative way of drawing and editing a drawing using new direct manipulation tools. Our approach resembles sculpting in two dimensions: the user begins with a large block and uses different tools to give it the desired shape. We also present a user evaluation in which the users could try our new tools and compare them to their previous experience of control points, The users claimed to understand the operations better with our tools than if they had needed to use curves and control points. However, our tools were better suited for sketching the artwork than for making very detailed drawings."
+    },
+    {
+        "title": "The strategic use of CAD: an empirically inspired, theory-based course",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Suresh K. Bhavnani",
+            "Bonnie E. John",
+            "Ulrich Flemming"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303036",
+        "citation": "27",
+        "abstract": "The inefficient use of complex computer systems has been widely reported. These studies show the persistence of inefficient methods despite many years of experience and formal training. To counteract this phenomenon, we present the design of a new course, called the Strategic Use of CAD. The course aims at teaching students efficient strategies to use a computer-aided drafting system through a two-pronged approach. Learning to See teaches students to recognize opportunities to use efficient strategies by studying the nature of the task, and Learning to Do teaches students to implement the strategies. Results from a pilot experiment show that this approach had a positive effect on the strategic behavior of students who did not exhibit knowledge of efficient strategies before the class, and had no effect on the strategic behavior of those who did. Strategic training can thus assist users in recognizing opportunities to use efficient strategies. We present the ramifications of these results on the design of training and future experiments."
+    },
+    {
+        "title": "Implementing interface attachments based on surface representations",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Dan R. Olsen",
+            "Scott E. Hudson",
+            "Thom Verratti",
+            "Jeremy M. Heiner",
+            "Matt Phelps"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303038",
+        "citation": "51",
+        "abstract": "This paper describes an architecture for supporting interface attuchments - small interactive programs which are designed to augment the functionality of other applications. This architecture is designed to work with a diverse set of conventional applications, but require only a minimal set of hooks into those applications. In order to achieve this, the work described here concentrates on what we will call observational attachments, a subclass of attachments that operate primarily by observing and manipulating the surface representations of applications - that is the visual information that applications would normally display on the screen or print. These attachments can be thought of as looking over the shoulder of the user to assist with various tasks. By requiring very little modification to, or help from, the applications they augment, this approach supports the creation of a set of uniform services that can be applied across a more diverse set of applications than traditional approaches."
+    },
+    {
+        "title": "A visual medium for programmatic control of interactive applications",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Luke S. Zettlemoyer",
+            "Robert St. Amant"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303039",
+        "citation": "25",
+        "abstract": "The VisMap system provides for visual manipulation of arbitrary off-the-shelf applications, through an applications graphical user interface. VisMaps API-independent control has advantages for tasks that can benefit from direct access to the functions of the user interface. We describe the design goals and architecture of the system, and we discuss two applications, a user-controlled visual scripting program and an autonomous solitaire-playing program, which together demonstrate some of the capabilities and limitations of the approach."
+    },
+    {
+        "title": "Should we leverage natural-language knowledge? An analysis of user errors in a natural-language-style programming language",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Amy Bruckman",
+            "Elizabeth Edwards"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303040",
+        "citation": "62",
+        "abstract": "Should programming languages use natural-language-like syntax? Under what circumstances? What sorts of errors do novice programmers make? Does using a natural- language-like programming language lead to user errors? In this study, we read the entire online interactions of sixteen children who issued a total of 35,047 commands on MOOSE Crossing, an educational MUD for children, We counted and categorized the errors made. A total d 2,970 errors were observed. We define natural-language errors as those errors in which the user failed to distinguish between English and code, issuing an incorrect command that was more English-like than the correct one. A total of 314 natural-language errors were observed. In most of those errors, the child was able to correct the problem either easily (41.1% of the time) or with some effort (20.7%). Natural-language errors were divided into five categories. In order from most to least frequent, they are: syntax errors, guessing a command name by supplying an arbitrary English word, literal interpretation of metaphor, assuming the system is keeping more state information than is actually the case, and errors of operator precedence and combination. We believe that these error rates are within acceptable limits, and conclude that leveraging users natural-language knowledge is for many applications an effective strategy for designing end-user-programming languages."
+    },
+    {
+        "title": "Testing pointing device performance and user assessment with the ISO 9241, Part 9 standard",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Sarah A. Douglas",
+            "Arthur E. Kirkpatrick",
+            "I. Scott MacKenzie"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303042",
+        "citation": "168",
+        "abstract": "The IS0 9241, Part 9 Draft International Standard for testing computer pointing devices proposes an evaluation of performance and comfort. In this paper we evaluate the scientific validity and practicality of these dimensions for two pointing devices for laptop computers, a finger-controlled isometric joystick and a touchpad. Using a between-subjects design, evaluation of performance using the measure of throughput was done for one-direction and multi-directional pointing and selecting. Results show a significant difference in throughput for the multi-directional task, with the joystick 27% higher; results for the one-direction task were non-significant. After the experiment, participants rated the device for comfort, including operation, fatigue, and usability. The questionnaire showed no overall difference in the responses, and a significant statistical difference in only the question concerning force required to operate the device - the joystick requiring slightly more force. The paper concludes with a discussion of problems in implementing the IS0 standard and recommendations for improvement."
+    },
+    {
+        "title": "Touch-sensing input devices",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Ken Hinckley",
+            "Mike Sinclair"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303045",
+        "citation": "81",
+        "abstract": "We can touch things, and our senses tell us when our hands are touching something. But most computer input devices cannot detect when the user touches or releases the device or some portion of the device. Thus, adding touch sensors to input devices offers many possibilities for novel interaction techniques. We demonstrate the TouchTrackball and the Scrolling TouchMouse, which use unobtrusive capacitance sensors to detect contact from the users hand without requiring pressure or mechanical actuation of a switch. We further demonstrate how the capabilities of these devices can be matched to an implicit interaction technique, the On-Demand Interface, which uses the passive information captured by touch sensors to fade in or fade out portions of a display depending on what the user is doing; a second technique uses explicit, intentional interaction with touch sensors for enhanced scrolling. We present our new devices in the context of a simple tax- onomy of tactile input technologies. Finally, we discuss the properties of touch-sensing as an input channel in general."
+    },
+    {
+        "title": "The Hotbox: efficient access to a large number of menu-items",
+        "conferenceTitle": "CHI '99: Proceedings of the SIGCHI conference on Human Factors in Computing Systems",
+        "data": "May 1999",
+        "authors": [
+            "Gordon Kurtenbach",
+            "George W. Fitzmaurice",
+            "Russell N. Owen",
+            "Thomas Baudel"
+        ],
+        "DOI": "https://doi.org/10.1145/302979.303047",
+        "citation": "48",
+        "abstract": "The proliferation of multiple toolbars and UI widgets around the perimeter of application windows is an indication that the traditional GUI design of a single menubar is not sufficient to support large scale applications with numerous functions. In this paper we describe a new widget which is an enhancement of the traditional menubar which dramatically increases menu-item capacity. This widget, called the Hotbox combines several GUI techniques which are generally used independently: accelerator keys, modal dialogs, pop-up/pull down menus, radial menus, marking menus and menubars. These techniques are fitted together to create a single, easy to learn yet fast to operate GUI widget which can handle significantly more menu-items than the traditional GUI menubar. We describe the design rationale of the Hotbox and its effectiveness in a large scale commercial application. While the Hotbox was developed for a particular application domain, the widget itself and the design rationale are potentially useful in other domains."
+    }
+]

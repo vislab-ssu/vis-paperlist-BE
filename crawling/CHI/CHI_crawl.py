@@ -212,7 +212,6 @@ def CHI_sessionFalse(url:str) -> list[dict]:
     driver = webdriver.Chrome()
     # 브라우저 창을 최대화
     driver.maximize_window()  
-    url = 'https://dl.acm.org/doi/proceedings/10.1145/3313831'
     driver.get(url)    
 
     # 페이지의 동적 콘텐츠 로드를 기다림 (드라이버가 모든 요소를 찾는데 최대 10초 동안 기다리게 함)

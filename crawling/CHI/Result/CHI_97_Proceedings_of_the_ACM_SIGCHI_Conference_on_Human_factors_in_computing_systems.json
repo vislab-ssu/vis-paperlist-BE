@@ -1,0 +1,387 @@
+[
+    {
+        "title": "Computational models of information scent-following in a very large browsable text collection",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Peter Pirolli"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258558",
+        "citation": "90",
+        "abstract": "NONE"
+    },
+    {
+        "title": "SenseMaker: an information-exploration interface supporting the contextual evolution of a user's interests",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Michelle Q. Wang Baldonado",
+            "Terry Winograd"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258563",
+        "citation": "99",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Accessing multimedia through concept clustering",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "John Kominek",
+            "Rick Kazman"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258567",
+        "citation": "9",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Cooperative bimanual action",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Ken Hinckley",
+            "Randy Pausch",
+            "Dennis Proffitt",
+            "James Patten",
+            "Neal Kassell"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258571",
+        "citation": "68",
+        "abstract": "NONE"
+    },
+    {
+        "title": "The design of a GUI paradigm based on tablets, two-hands, and transparency",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Gordon Kurtenbach",
+            "George Fitzmaurice",
+            "Thomas Baudel",
+            "Bill Buxton"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258574",
+        "citation": "113",
+        "abstract": "NONE"
+    },
+    {
+        "title": "An empirical evaluation of graspable user interfaces: towards specialized, space-multiplexed input",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "George W. Fitzmaurice",
+            "William Buxton"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258578",
+        "citation": "111",
+        "abstract": "NONE"
+    },
+    {
+        "title": "AROMA: abstract representation of presence supporting mutual awareness",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Elin Rønby Pedersen",
+            "Tomas Sokoler"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258584",
+        "citation": "115",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Crowded collaborative virtual environments",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Steve Benford",
+            "Chris Greenhalgh",
+            "David Lloyd"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258588",
+        "citation": "67",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Autonomous interface agents",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Henry Lieberman"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258592",
+        "citation": "163",
+        "abstract": "NONE"
+    },
+    {
+        "title": "How to personalize the Web",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Rob Barrett",
+            "Paul P. Maglio",
+            "Daniel C. Kellem"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258595",
+        "citation": "89",
+        "abstract": "NONE"
+    },
+    {
+        "title": "The cognitive ergonomics of knowledge-based design support systems",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Tamara Sumner",
+            "Nathalie Bonnardel",
+            "Benedikte Harstad Kallak"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258613",
+        "citation": "20",
+        "abstract": "NONE"
+    },
+    {
+        "title": "From sufficient to efficient usage: an analysis of strategic knowledge",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Suresh K. Bhavnani",
+            "Bonnie E. John"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258615",
+        "citation": "29",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Relationships between users' and interfaces' task representations",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Robert B. Terwilliger",
+            "Peter G. Polson"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258617",
+        "citation": "5",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Cognitive modeling reveals menu search in both random and systematic",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Anthony J. Hornof",
+            "David E. Kieras"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258621",
+        "citation": "55",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Aesthetics and apparent usability: empirically assessing cultural and methodological issues",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Noam Tractinsky"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258626",
+        "citation": "240",
+        "abstract": "NONE"
+    },
+    {
+        "title": "A computer participant in musical improvisation",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "William F. Walker"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258629",
+        "citation": "12",
+        "abstract": "NONE"
+    },
+    {
+        "title": "WorldBeat: designing a baton-based interface for an interactive music exhibit",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Jan O. Borchers"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258632",
+        "citation": "24",
+        "abstract": "NONE"
+    },
+    {
+        "title": "The design of a wearable computer",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Len Bass",
+            "Chris Kasabach",
+            "Richard Martin",
+            "Dan Siewiorek",
+            "Asim Smailagic",
+            "John Stivoric"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258634",
+        "citation": "46",
+        "abstract": "NONE"
+    },
+    {
+        "title": "“Body coupled FingerRing”: wireless wearable keyboard",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Masaaki Fukumoto",
+            "Yoshinobu Tonomura"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258636",
+        "citation": "120",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Toward an HCI research and practice agenda based on human needs and social responsibility",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Michael J. Muller",
+            "Cathleen Wharton",
+            "William J. McIver",
+            "Lila Laux"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258640",
+        "citation": "28",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Participatory analysis: shared development of requirements from scenarios",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "George Chin",
+            "Mary Beth Rosson",
+            "John M. Carroll"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258654",
+        "citation": "41",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Maintaining a focus on user requirements throughout the development of clinical workstation software",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Janette M. Coble",
+            "John Karat",
+            "Michael G. Kahn"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258698",
+        "citation": "27",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Helping and hindering user involvement — a tale of everyday design",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Stephanie Wilson",
+            "Mathilde Bekker",
+            "Peter Johnson",
+            "Hilary Johnson"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258699",
+        "citation": "46",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Dynomite: a dynamically organized ink and audio notebook",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Lynn D. Wilcox",
+            "Bill N. Schilit",
+            "Nitin Sawhney"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258700",
+        "citation": "97",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Dynamic Soundscape: mapping time to space for audio browsing",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Minoru Kobayashi",
+            "Chris Schmandt"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258702",
+        "citation": "27",
+        "abstract": "NONE"
+    },
+    {
+        "title": "“I'll get that off the audio”: a case study of salvaging multimedia meeting records",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Thomas P. Moran",
+            "Leysia Palen",
+            "Steve Harrison",
+            "Patrick Chiu",
+            "Don Kimber",
+            "Scott Minneman",
+            "William van Melle",
+            "Polle Zellweger"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258704",
+        "citation": "89",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Design for network communities",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Elizabeth D. Mynatt",
+            "Annette Adler",
+            "Mizuko Ito",
+            "Vicki L. O'Day"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258707",
+        "citation": "64",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Timewarp: techniques for autonomous collaboration",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "W. Keith Edwards",
+            "Elizabeth D. Mynatt"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258710",
+        "citation": "51",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Building task-specific interfaces to high volume conversational data",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Loren G. Terveen",
+            "William C. Hill",
+            "Brian Amento",
+            "David McDonald",
+            "Josh Creter"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258712",
+        "citation": "16",
+        "abstract": "NONE"
+    },
+    {
+        "title": "Tangible bits: towards seamless interfaces between people, bits and atoms",
+        "conferenceTitle": "CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systems",
+        "data": "March 1997",
+        "authors": [
+            "Hiroshi Ishii",
+            "Brygg Ullmer"
+        ],
+        "DOI": "https://doi.org/10.1145/258549.258715",
+        "citation": "2,254",
+        "abstract": "NONE"
+    }
+]
