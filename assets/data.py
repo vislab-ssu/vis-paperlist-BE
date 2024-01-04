@@ -12,7 +12,8 @@ conference_session = [['id', 'name', 'upper_category_id', 'year']]
 authors = dict()
 session = dict()
 author_paper = [['author_id', 'paper_id']]
-papers = [['id', 'abstract', 'title', 'author','conference_session_id', 'date', 'DOI', 'citation']]
+papers = [['id', 'abstract', 'title', 'author',
+           'conference_session_id', 'date', 'DOI', 'citation']]
 
 for file in FILES:
     file_name, ext = file.split('.')
@@ -29,15 +30,18 @@ for file in FILES:
 
     session[conference + str(year)] = len(session) + 1
     conference_id = session[conference + str(year)]
-    
-    conference_session.append([len(conference_session), conference, None, year])
+
+    conference_session.append(
+        [len(conference_session), conference, None, year])
 
     with open(ORIG_PATH + '/' + file) as f:
         json_data = json.load(f)
         for paper in json_data:
             if (paper['Session'] if 'Session' in paper else '') + conference + str(year) not in session:
-                session[paper['Session'] + conference + str(year)] = len(session) + 1
-                conference_session.append([len(conference_session), paper['Session'], conference_id, year])
+                session[paper['Session'] + conference +
+                        str(year)] = len(session) + 1
+                conference_session.append(
+                    [len(conference_session), paper['Session'], conference_id, year])
             papers.append([len(papers), paper['abstract'],
                           paper['title'], paper['authors'], len(conference_session)-1, paper['data'], paper['DOI'], paper['citation']])
             for author in paper['authors']:
@@ -51,10 +55,45 @@ for file in FILES:
 authors = [[id, auth] for (auth, id) in authors.items()]
 authors.insert(0, ['id', 'name'])
 
-print(conference_session)
-print(authors[::1000])
-print(author_paper[::1000])
-print(papers[::1000])
+# print(conference_session)
+# print(authors[::1000])
+# print(author_paper[::1000])
+# print(papers[::1000])
+
+# authors = authors[0] + [", ".join(author) for author in authors[1:]]
+# id,abstract,title,author,conference_session_id,date,DOI,citation
+ID_IDX = 0
+ABSTRACT_IDX = 1
+TITLE_IDX = 2
+AUTHOR_IDX = 3
+CONF_SESS_ID_IDX = 4
+DATE_IDX = 5
+DOI_IDX = 6
+CITATION_IDX = 7
+for paper_idx in range(1, len(papers)-1):
+
+    if papers[paper_idx][ABSTRACT_IDX] == "NONE":
+        papers[paper_idx][ABSTRACT_IDX] = None
+
+    # print(type(papers[paper_idx][AUTHOR_IDX]),
+    #       papers[paper_idx][AUTHOR_IDX][0])
+    if len(papers[paper_idx][AUTHOR_IDX]):
+        papers[paper_idx][AUTHOR_IDX] = ", ".join(
+            papers[paper_idx][AUTHOR_IDX])
+        if papers[paper_idx][AUTHOR_IDX] == "NONE":
+            papers[paper_idx][AUTHOR_IDX] = None
+    else:
+        papers[paper_idx][AUTHOR_IDX] = None
+
+    if papers[paper_idx][DATE_IDX] == "NONE":
+        papers[paper_idx][DATE_IDX] = None
+    else:
+        month, year = papers[paper_idx][DATE_IDX].split()
+        papers[paper_idx][DATE_IDX] = f'{year}-{month}-01'
+
+    if papers[paper_idx][CITATION_IDX] == "NONE":
+        papers[paper_idx][CITATION_IDX] = 0
+
 
 DATA_PATH = DIR + '/data/new_csv'
 with open(DATA_PATH + '/journals.csv', 'w') as f:
