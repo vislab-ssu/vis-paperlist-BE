@@ -107,6 +107,9 @@ for paper_idx in range(1, len(papers)):
 
     if papers[paper_idx][CITATION_IDX] == "NONE":
         papers[paper_idx][CITATION_IDX] = 0
+    elif papers[paper_idx][CITATION_IDX].count(','):
+        papers[paper_idx][CITATION_IDX] = papers[paper_idx][CITATION_IDX].replace(
+            ',', '')
 
 
 DATA_PATH = DIR + '/data/new_csv'
