@@ -70,7 +70,21 @@ CONF_SESS_ID_IDX = 4
 DATE_IDX = 5
 DOI_IDX = 6
 CITATION_IDX = 7
-for paper_idx in range(1, len(papers)-1):
+month_to_number = {
+    'January': 1,
+    'February': 2,
+    'March': 3,
+    'April': 4,
+    'May': 5,
+    'June': 6,
+    'July': 7,
+    'August': 8,
+    'September': 9,
+    'October': 10,
+    'November': 11,
+    'December': 12
+}
+for paper_idx in range(1, len(papers)):
 
     if papers[paper_idx][ABSTRACT_IDX] == "NONE":
         papers[paper_idx][ABSTRACT_IDX] = None
@@ -86,10 +100,10 @@ for paper_idx in range(1, len(papers)-1):
         papers[paper_idx][AUTHOR_IDX] = None
 
     if papers[paper_idx][DATE_IDX] == "NONE":
-        papers[paper_idx][DATE_IDX] = None
+        papers[paper_idx][DATE_IDX] = 0
     else:
         month, year = papers[paper_idx][DATE_IDX].split()
-        papers[paper_idx][DATE_IDX] = f'{year}-{month}-01'
+        papers[paper_idx][DATE_IDX] = f'{year}-{month_to_number[month]:02d}-01'
 
     if papers[paper_idx][CITATION_IDX] == "NONE":
         papers[paper_idx][CITATION_IDX] = 0
