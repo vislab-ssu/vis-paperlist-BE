@@ -11,8 +11,8 @@ async function getPaper(req: Request, res: Response) {
     console.log("GetPaper");
     let { search, query } = req.query as SearchType;
     if (!["title", "author", "abstract"].includes(search))
-      return res.status(400).send();
-    if (query.length < 3) return res.status(400).send();
+			return res.status(400).send();
+		if (query.length < 3) return res.status(400).send();
 
     let connection = await db.getConnection();
 
