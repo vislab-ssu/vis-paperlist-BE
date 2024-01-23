@@ -8,6 +8,8 @@ RUN yarn install
 
 COPY . /app
 
+RUN yarn build
+
 ENV PORT=3000
 ENV DB_HOST=paperlist-db
 ENV DB_USER=root
