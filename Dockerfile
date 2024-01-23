@@ -17,4 +17,4 @@ ENV DB_PORT=3306
 
 EXPOSE 3000
 
-CMD ["yarn", "start"]
+CMD ["yarn", "start:prod"]
