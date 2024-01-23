@@ -4,7 +4,9 @@
   "main": "app.ts",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon app.ts"
+    "start": "nodemon app.ts",
+    "start:prod": "node dist/app.js",
+    "build": "tsc -p ."
   },
   "devDependencies": {
     "@types/express": "^4.17.20",
