@@ -22,7 +22,7 @@ async function getPaper(req: Request, res: Response) {
         `SELECT * FROM papers p\
         JOIN journals j ON p.conference_session_id=j.id\
         WHERE ${search} LIKE "%"?"%"\
-        LIMIT 50`,
+        `,
         [query]
       )
       .then(
