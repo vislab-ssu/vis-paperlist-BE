@@ -1,3 +1,5 @@
+######## 아직 연도별 논문 총갯수 개산 + 네비바 이동 구현 x
+
 import json
 import os
 from selenium import webdriver
@@ -7,7 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import TimeoutException
-
+from selenium.common.exceptions import StaleElementReferenceException
 
 # 웹 드라이버 초기화
 service = Service('/Users/choeseohyeon/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver')
@@ -26,60 +28,77 @@ def handle_cookie_popup():
     except TimeoutException:
         print("쿠키 설정 대화 상자가 표시되지 않습니다.")
 
-# 특정 페이지의 데이터를 수집하는 함수
+# 페이지의 데이터를 수집하는 함수
 def collect_data_from_page():
-    collected_data = []
+    data = []
+
     articles = driver.find_elements(By.CSS_SELECTOR, ".List-results-items .hide-mobile .d-flex.result-item .col.result-item-align.px-3 .text-md-md-lh")
 
+    # articles를 루프 돌면서 각 논문의 상세 페이지로 이동
     for article in articles:
         try:
             # 상세 페이지로 이동
             detail_link = article.find_element(By.TAG_NAME, "a")
             detail_link.click()
-            
-            # 새 탭으로의 전환을 처리합니다.
-            current_tab = driver.current_window_handle
+
+            # 새 탭으로 전환
             driver.switch_to.window(driver.window_handles[-1])
 
-            # 여기에서 상세 페이지의 데이터 수집 로직을 구현합니다.
-            # 제목(title)
-            title = driver.find_element(By.CSS_SELECTOR, 'h1.document-title span').text
+            # 상세 페이지에서 데이터 수집
+            retry_count = 3
+            while retry_count > 0:
+                try:
+                    title = WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, 'span.document-title-text'))
+                    ).text
 
-            # 저자들(authors)
-            authors_elements = driver.find_elements(By.CSS_SELECTOR, 'div.authors-info-container span.authors-info span span a span')
-            authors = [author.text for author in authors_elements]
+                    authors = []
+                    authors_info = driver.find_elements(By.CSS_SELECTOR, '.blue-tooltip span.hover a span')
+                    for author_info in authors_info:
+                        authors.append(author_info.text)
 
-            # 인용 횟수(citing_paper_count)
-            citing_paper_count = driver.find_element(By.CSS_SELECTOR, 'button.document-banner-metric div.document-banner-metric-count').text
+                    citing_paper_count = WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, 'button.document-banner-metric-count'))
+                    ).text
 
-            # 초록(abstract)
-            abstract = driver.find_element(By.CSS_SELECTOR, 'div.abstract-text').text
+                    abstract = WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, 'div.abstract-text'))
+                    ).text
 
-            # 출판물 제목(publication_title)
-            publication_title = driver.find_element(By.CSS_SELECTOR, 'div.document-abstract a').text
+                    publication_title = WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, 'div.row.g-0.u-pt-1 a'))
+                    ).text
 
-            # 출판 날짜(publication_date)
-            publication_date = driver.find_element(By.CSS_SELECTOR, 'div.doc-abstract-confdate').text
+                    publication_date = WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, 'div.col-6.u-pb-1.doc-abstract-confdate'))
+                    ).text
 
-            # DOI
-            doi_suffix = driver.find_element(By.CSS_SELECTOR, 'div.stats-document-abstract-doi').text
-            doi = f"https://doi.org/{doi_suffix}"
+                    doi = WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, 'div.col-6.u-pb-1.stats-document-abstract-doi'))
+                    ).text
 
-            paper_data = {
-                'title': title,
-                'authors': authors,
-                'citing_paper_count': citing_paper_count,
-                'abstract': abstract,
-                'publication_title': publication_title,
-                'publication_date': publication_date,
-                'DOI': doi
-            }
+                    # 수집된 데이터를 딕셔너리로 저장
+                    paper_data = {
+                        'title': title,
+                        'authors': authors,
+                        'citing_paper_count': citing_paper_count,
+                        'abstract': abstract,
+                        'publication_title': publication_title,
+                        'publication_date': publication_date,
+                        'DOI': f'https://doi.org/{doi}'
+                    }
 
-            collected_data.append(paper_data)
+                    # 수집된 데이터를 리스트에 추가
+                    data.append(paper_data)
 
-            # 새 탭을 닫고 원래 탭으로 돌아갑니다.
-            driver.close()
-            driver.switch_to.window(current_tab)
+                    # 원래 탭으로 돌아가기
+                    driver.close()
+                    driver.switch_to.window(driver.window_handles[0])
+
+                    break  # while 루프 종료
+                except StaleElementReferenceException:
+                    print("Stale element 오류 발생. 재시도 중...")
+                    retry_count -= 1
 
         except NoSuchElementException:
             print("필요한 요소를 찾을 수 없습니다.")
@@ -87,10 +106,7 @@ def collect_data_from_page():
         except Exception as e:
             print("데이터 수집 중 오류 발생:", e)
 
-    return collected_data
-
-
-
+    return data
 
 # 수집된 데이터를 JSON 파일로 저장하는 함수
 def save_data_to_json(data, filename):
@@ -102,12 +118,17 @@ def save_data_to_json(data, filename):
 
 # 각 페이지에 대해 크롤링 수행하는 함수
 def crawl_pages(url_list):
+    collected_data = []  # 전체 데이터를 저장할 리스트 초기화
     for url in url_list:
         driver.get(url)
         handle_cookie_popup()
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//div[@class='List-results-items']")))
         data = collect_data_from_page()
-        save_data_to_json(data, 'results.json')
+        collected_data.extend(data)  # 수집된 데이터를 전체 데이터 리스트에 추가
+        driver.close()  # 현재 연도의 페이지를 모두 확인한 후에 브라우저를 닫음
+
+    # 모든 페이지의 데이터를 한 번에 JSON 파일로 저장
+    save_data_to_json(collected_data, 'results.json')
 
 # 크롤링할 페이지 URL 리스트 생성
 base_url = "https://ieeexplore.ieee.org/search/searchresult.jsp?contentType=conferences&queryText=ieee%20Vis&highlight=true&returnType=SEARCH&matchPubs=true&returnFacets=ALL&ranges="
@@ -118,4 +139,5 @@ crawl_pages(url_list)
 
 # 드라이버 종료
 driver.quit()
+
 
