@@ -39,25 +39,33 @@ async function getTfidfForAbstracts(abstracts: string[]) {
   });
 }
 
-async function getWord2VecForAbstracts(abstracts: string[]) {
+async function getWord2VecForAbstracts(papers: string[]) {
   return new Promise((resolve, reject) => {
     const pythonProcess = spawn("python", ["./paper/Word2Vec.py"]);
 
     // Python 스크립트에 데이터 전송
-    pythonProcess.stdin.write(JSON.stringify(abstracts));
+    pythonProcess.stdin.write(JSON.stringify(papers));
     pythonProcess.stdin.end();
 
-    // 결과 수집 (python 프로세스의 표준 출력에서 데이터 읽어옴: stdout)
-    let data = "";
+    // 결과 수집을 위한 변수 초기화
+    let rawData = "";
+
+    // 데이터 수집 (python 프로세스의 표준 출력에서 데이터 읽어옴: stdout)
     pythonProcess.stdout.on("data", (chunk) => {
-      data += chunk;
+      // 비동기적으로 데이터를 수신하고 처리하는 과정에서 데이터가 여러 청크로 나누어져 도착할 수 있음
+      rawData += chunk;
     });
 
     // 처리 완료
     pythonProcess.stdout.on("end", () => {
-      // resolve(JSON.parse(data));
-      // const Word2VecData = JSON.parse(data);
-      // resolve(Word2VecData);
+      try {
+        const processedData = JSON.parse(rawData); // 전체 데이터를 여기서 파싱
+        // console.log(processedData);
+        resolve(processedData);
+      } catch (error) {
+        console.error("JSON parsing error:", error);
+        reject(error);
+      }
     });
 
     // 에러 처리
@@ -109,14 +117,14 @@ async function getPaper(req: Request, res: Response) {
     const { myWords } = processWordCloud(tfidfResults);
 
     // Word2Vec 방식
-    // const Word2VecResults = await getWord2VecForAbstracts(abstracts);
-    // console.log(Word2VecResults);
+    const Word2VecResults = await getWord2VecForAbstracts(papers);
+    console.log(Word2VecResults);
 
     // return res.status(200).send(papers);
     return res.status(200).send({
       papers: processedPapers,
       myWords: myWords,
-      // word2VecVisualizations: Word2VecResults,
+      embeddingData: Word2VecResults,
     });
   } catch (err) {
     console.log(err);
