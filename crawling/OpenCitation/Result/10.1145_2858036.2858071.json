@@ -1,0 +1,182 @@
+[
+    {
+        "timespan": "P13Y10M26D",
+        "cited": "10.1073/pnas.122653799",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-061103066854",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P11Y0M23D",
+        "cited": "10.1103/physreve.71.046117",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-061402681655",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P10Y11M",
+        "cited": "10.1038/nature03607",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-06160353805",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P9Y0M",
+        "cited": "10.1177/1525822x06298589",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-061801856878",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P6Y5M7D",
+        "cited": "10.1103/physreve.80.056117",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-06203119834",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P3Y",
+        "cited": "10.1504/ijwbc.2013.054908",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-0620433696",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P3Y",
+        "cited": "10.1007/978-3-319-03841-4_21",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-062102661905",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P7Y6M28D",
+        "cited": "10.1088/1742-5468/2008/10/p10008",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-062301089973",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P2Y9M20D",
+        "cited": "10.1038/srep02216",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-06303035014",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P9Y0M",
+        "cited": "10.1073/pnas.0611034104",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-06303478401",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P4Y5M",
+        "cited": "10.1109/tvcg.2011.185",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-0640188350",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P4Y4M",
+        "cited": "10.1109/tvcg.2010.269",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-0640188529",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P5Y",
+        "cited": "10.1016/b978-0-12-382229-1.00002-3",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-06402008407",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P7Y6M13D",
+        "cited": "10.1103/physreve.78.046110",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-06403125438",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P6Y6M",
+        "cited": "10.1109/tvcg.2009.109",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-0650184442",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P7Y6M",
+        "cited": "10.1109/tvcg.2008.155",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-0650184605",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P5Y0M8D",
+        "cited": "10.1371/journal.pone.0018961",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-06601532474",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P2Y",
+        "cited": "10.7155/jgaa.00323",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-06602239638",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P6Y6M",
+        "cited": "10.1140/epjst/e2010-01179-1",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-06602343251",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    },
+    {
+        "timespan": "P7Y3M",
+        "cited": "10.1109/tnn.2008.2005601",
+        "journal_sc": "no",
+        "author_sc": "no",
+        "oci": "061202495112-06702305974",
+        "creation": "2016-05-07",
+        "citing": "10.1145/2858036.2858071"
+    }
+]

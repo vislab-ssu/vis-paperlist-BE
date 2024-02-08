@@ -125,7 +125,6 @@ def crawl_pages(url_list):
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//div[@class='List-results-items']")))
         data = collect_data_from_page()
         collected_data.extend(data)  # 수집된 데이터를 전체 데이터 리스트에 추가
-        driver.close()  # 현재 연도의 페이지를 모두 확인한 후에 브라우저를 닫음
 
     # 모든 페이지의 데이터를 한 번에 JSON 파일로 저장
     save_data_to_json(collected_data, 'results.json')
@@ -139,5 +138,4 @@ crawl_pages(url_list)
 
 # 드라이버 종료
 driver.quit()
-
 
