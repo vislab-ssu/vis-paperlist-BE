@@ -18,8 +18,33 @@ save_dir = 'Result'
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
 
-# 연도별로 API 호출 및 데이터 저장
-for year in range(2010, 2024):  # 2010년부터 2023년까지
+def save_data(year, papers):
+    # 저장할 데이터 형식에 맞게 파싱
+    formatted_papers = []
+    for paper in papers:
+        authors = [author['full_name'] for author in paper.get('authors', {}).get('authors', [])]
+        formatted_paper = {
+            "title": paper.get("title", ""),
+            "conferenceTitle": paper.get("publication_title", ""),
+            "Content Type": paper.get("content_type", ""),
+            "date": paper.get("publication_date", ""),
+            "authors": authors,
+            "DOI": paper.get("doi", ""),
+            "citation": paper.get("citing_paper_count", 0),
+            "abstract": paper.get("abstract", "")
+        }
+        formatted_papers.append(formatted_paper)
+    
+    # 연도별 파일에 저장
+    filename = f'IEEE_{year}.json'
+    file_path = os.path.join(save_dir, filename)
+    
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(formatted_papers, f, ensure_ascii=False, indent=4)
+    
+    print(f"Data saved to {file_path}")
+
+def fetch_and_save_data(year):
     search_params = {
         "query": "ieee Vis",
         "content_type": "Conferences",
@@ -27,26 +52,20 @@ for year in range(2010, 2024):  # 2010년부터 2023년까지
         "end_year": year,
         "apikey": api_key,
         "start_record": 1,
-        "max_records": 200  # API의 최대 반환 항목 수를 고려하여 설정
+        "max_records": 200  
     }
     
     # API 호출 및 응답 받기
     response = requests.get(base_url, params=search_params)
-    
-    # 응답 상태 확인 및 데이터 처리
     if response.status_code == 200:
-        # JSON 응답 확인
         data = response.json()
         papers = data.get('articles', [])
-        
-        # 연도별 파일에 저장
-        filename = f'IEEE_{year}.json'
-        file_path = os.path.join(save_dir, filename)
-        
-        with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(papers, f, ensure_ascii=False, indent=4)
-        
-        print(f"Data saved to {file_path}")
+        save_data(year, papers)
     else:
         print(f"Error in {year}: {response.status_code}")
         print(response.text)
+
+# 연도별로 API 호출 및 데이터 저장
+for year in range(2010, 2024):  # 2010년부터 2023년까지
+    fetch_and_save_data(year)
+
