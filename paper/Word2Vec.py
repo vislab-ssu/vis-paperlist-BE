@@ -35,7 +35,7 @@ def preprocess_text(text):
     filtered_text = [word for word in tokenized_text if word not in stop_words and word not in string.punctuation]
     return filtered_text
 
-def mergeDocVectorAndMetadata(model, papers_info, top_n=50):
+def mergeDoc2VecAndMetadata_tSNE(model, papers_info, top_n=50):
     # 문서 벡터 추출
     doc_ids = list(range(min(top_n, len(model.dv))))
     doc_vectors = np.array([model.dv[i] for i in doc_ids])
@@ -190,12 +190,6 @@ def calculate_Word2Vec(input_data):
 
 
 def calculate_Doc2Vec(input_data):
-    # tagged_data = []
-
-    # 모든 논문 abstract를 TaggedDocument로 변환
-    # for i, abstract in enumerate(input_data):
-    #     tokens = preprocess_text(abstract)
-    #     tagged_data.append(TaggedDocument(words=tokens, tags=[str(i)]))
         
     tagged_data = [TaggedDocument(words=preprocess_text(doc['abstract']), tags=[i]) for i, doc in enumerate(input_data)]
 
@@ -214,14 +208,13 @@ def main():
     # 메타데이터 준비
     papers_info = [{"title": doc['title'], "author": doc['author'], "citation": doc['citation'], 
                     "DOI": doc['DOI']} for doc in input_data]
-
-
+    
     # Word2Vec 모델 생성
     # model_Word2Vec = calculate_Word2Vec(input_data2)
 
     # Doc2Vec 모델 학습
     model_Doc2Vec = calculate_Doc2Vec(input_data)
-    mergeDocVectorAndMetadata(model_Doc2Vec, papers_info)
+    mergeDoc2VecAndMetadata_tSNE(model_Doc2Vec, papers_info)
     
     # t-SNE 시각화 실행
     # tSNE_visualize(model_Word2Vec)
