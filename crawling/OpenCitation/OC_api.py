@@ -1,9 +1,14 @@
+## 이곳은 코드는 변경될 예정
+
 import os
 from requests import get
 import json
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # HTTP 헤더 설정
-HTTP_HEADERS = {"Authorization": "089eb33b-2ab6-4679-9425-9ab03157d3e0"}
+HTTP_HEADERS = {"Authorization": os.getenv("OPEN_CITATION_KEY")}
 
 # 'Result' 폴더가 없으면 생성
 if not os.path.exists('Result'):
