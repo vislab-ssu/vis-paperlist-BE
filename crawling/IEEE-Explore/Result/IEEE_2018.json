@@ -2,8 +2,7 @@
     {
         "title": "Functional Map of the World",
         "conferenceTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-        "Content Type": "Conferences",
-        "date": "18-23 June 2018",
+        "data": "18-23 June 2018",
         "authors": [
             "Gordon Christie",
             "Neil Fendley",
@@ -11,14 +10,13 @@
             "Ryan Mukherjee"
         ],
         "DOI": "10.1109/CVPR.2018.00646",
-        "citation": 77,
+        "citation": 78,
         "abstract": "We present a new dataset, Functional Map of the World (fMoW), which aims to inspire the development of machine learning models capable of predicting the functional purpose of buildings and land use from temporal sequences of satellite images and a rich set of metadata features. The metadata provided with each image enables reasoning about location, time, sun angles, physical sizes, and other features when making predictions about objects in the image. Our dataset consists of over 1 million images from over 200 countries. For each image, we provide at least one bounding box annotation containing one of 63 categories, including a \"false detection\" category. We present an analysis of the dataset along with baseline approaches that reason about metadata and temporal views. Our data, code, and pretrained models have been made publicly available."
     },
     {
         "title": "Comparing radio propagation channels between 28 and 140 GHz bands in a shopping mall",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Sinh L. H. Nguyen",
             "Jan Järveläinen",
@@ -33,34 +31,31 @@
     {
         "title": "Simplified molecular absorption loss model for 275–400 gigahertz frequency band",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Joonas Kokkoniemi",
             "Janne Lehtomäki",
             "Markku Juntti"
         ],
         "DOI": "10.1049/cp.2018.0446",
-        "citation": 46,
+        "citation": 47,
         "abstract": "This paper focuses on giving a simplified molecular absorption loss model for a 275–400 GHz frequency band, which has significant potential for variety of future short and medium range communications. The band offers large theoretical data rates with reasonable path loss to theoretically allow even up to kilometer long link distances when sufficiently high gain antennas are used. The molecular absorption loss in the band requires a large number of parameters from spectroscopic databases, and, thus, the exact modeling of its propagation characteristics is demanding. In this paper, we provide a simple, yet accurate absorption model, which can be utilized to predict the absorption loss at the above frequency band. The model is valid at a regular atmospheric pressure, it depends on the distance, the relative humidity, and the frequency. The existing simplified model by ITU does not cover frequencies above 350 GHz and has more complexity than our proposed model. The molecular absorption loss increases exponentially with the distance, decreasing the utilizable bandwidth in the vicinity of the absorption lines. We provide a model to approximate the window widths at the above frequency band. This model depends on the distance, the relative humidity, the frequency, and the maximum tolerable loss. It is shown to be very accurate below one kilometer link distances."
     },
     {
         "title": "Hybrid Regression Test Selection",
         "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
+        "data": "27 May-3 June 2018",
         "authors": [
             "Lingming Zhang"
         ],
         "DOI": "10.1145/3180155.3180198",
-        "citation": 43,
+        "citation": 42,
         "abstract": "Regression testing is crucial but can be extremely costly. Regression Test Selection (RTS) aims to reduce regression testing cost by only selecting and running the tests that may be affected by code changes. To date, various RTS techniques analyzing at different granularities (e.g., at the basic-block, method, and file levels) have been proposed. RTS techniques working on finer granularities may be more precise in selecting tests, while techniques working on coarser granularities may have lower overhead. According to a recent study, RTS at the file level (FRTS) can have less overall testing time compared with a finer grained technique at the method level, and represents state-of-the-art RTS. In this paper, we present the first hybrid RTS approach, HyRTS, that analyzes at multiple granularities to combine the strengths of traditional RTS techniques at different granularities. We implemented the basic HyRTS technique by combining the method and file granularity RTS. The experimental results on 2707 revisions of 32 projects, totalling over 124 Million LoC, demonstrate that HyRTS outperforms state-of-the-art FRTS significantly in terms of selected test ratio and the offline testing time. We also studied the impacts of each type of method-level changes, and further designed two new HyRTS variants based on the study results. Our additional experiments show that transforming instance method additions/deletions into file-level changes produces an even more effective HyRTS variant that can significantly outperform FRTS in both offline and online testing time."
     },
     {
         "title": "Effective and Efficient User Account Linkage across Location Based Social Networks",
         "conferenceTitle": "2018 IEEE 34th International Conference on Data Engineering (ICDE)",
-        "Content Type": "Conferences",
-        "date": "16-19 April 2018",
+        "data": "16-19 April 2018",
         "authors": [
             "Wei Chen",
             "Hongzhi Yin",
@@ -75,8 +70,7 @@
     {
         "title": "Section-Blockchain: A Storage Reduced Blockchain Protocol, the Foundation of an Autotrophic Decentralized Storage Architecture",
         "conferenceTitle": "2018 23rd International Conference on Engineering of Complex Computer Systems (ICECCS)",
-        "Content Type": "Conferences",
-        "date": "12-14 Dec. 2018",
+        "data": "12-14 Dec. 2018",
         "authors": [
             "Yibin Xu"
         ],
@@ -87,8 +81,7 @@
     {
         "title": "End-to-End Automated Exploit Generation for Validating the Security of Processor Designs",
         "conferenceTitle": "2018 51st Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
-        "Content Type": "Conferences",
-        "date": "20-24 Oct. 2018",
+        "data": "20-24 Oct. 2018",
         "authors": [
             "Rui Zhang",
             "Calvin Deutschbein",
@@ -96,14 +89,13 @@
             "Cynthia Sturton"
         ],
         "DOI": "10.1109/MICRO.2018.00071",
-        "citation": 26,
+        "citation": 27,
         "abstract": "This paper presents Coppelia, an end-to-end tool that, given a processor design and a set of security-critical invariants, automatically generates complete, replayable exploit programs to help designers find, contextualize, and assess the security threat of hardware vulnerabilities. In Coppelia, we develop a hardware-oriented backward symbolic execution engine with a new cycle stitching method and fast validation technique, along with several optimizations for exploit generation. We then add program stubs to complete the exploit. We evaluate Coppelia on three CPUs of different architectures. Coppelia is able to find and generate exploits for 29 of 31 known vulnerabilities in these CPUs, including 11 vulnerabilities that commercial and academic model checking tools can not find. All of the generated exploits are successfully replayable on an FPGA board. Moreover, Coppelia finds 4 new vulnerabilities along with exploits in these CPUs. We also use Coppelia to verify whether a security patch indeed fixed a vulnerability, and to refine a set of assertions."
     },
     {
         "title": "Identifying Features in Forks",
         "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
+        "data": "27 May-3 June 2018",
         "authors": [
             "Shurui Zhou",
             "Stefan Stanciulescu",
@@ -119,8 +111,7 @@
     {
         "title": "On Application of Natural Language Processing in Machine Translation",
         "conferenceTitle": "2018 3rd International Conference on Mechanical, Control and Computer Engineering (ICMCCE)",
-        "Content Type": "Conferences",
-        "date": "14-16 Sept. 2018",
+        "data": "14-16 Sept. 2018",
         "authors": [
             "Zhaorong Zong",
             "Changchun Hong"
@@ -132,8 +123,7 @@
     {
         "title": "Redefining Prioritization: Continuous Prioritization for Continuous Integration",
         "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
+        "data": "27 May-3 June 2018",
         "authors": [
             "Jingjing Liang",
             "Sebastian Elbaum",
@@ -146,8 +136,7 @@
     {
         "title": "The Evolution of Requirements Practices in Software Startups",
         "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
+        "data": "27 May-3 June 2018",
         "authors": [
             "Catarina Gralha",
             "Daniela Damian",
@@ -162,8 +151,7 @@
     {
         "title": "Characterization of sub-THz and mmwave propagation channel for indoor scenarios",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Laura Pometcu",
             "Raffaele D'Errico"
@@ -175,8 +163,7 @@
     {
         "title": "Efficient Sampling of SAT Solutions for Testing",
         "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
+        "data": "27 May-3 June 2018",
         "authors": [
             "Rafael Dutra",
             "Kevin Laeufer",
@@ -190,8 +177,7 @@
     {
         "title": "NARA-WPE: A Python package for weighted prediction error dereverberation in Numpy and Tensorflow for online and offline processing",
         "conferenceTitle": "Speech Communication; 13th ITG-Symposium",
-        "Content Type": "Conferences",
-        "date": "10-12 Oct. 2018",
+        "data": "10-12 Oct. 2018",
         "authors": [
             "Lukas Drude",
             "Jahn Heymann",
@@ -199,14 +185,27 @@
             "Reinhold Haeb-Umbach"
         ],
         "DOI": "",
-        "citation": 14,
+        "citation": 15,
         "abstract": "NARA-WPE is a Python software package providing implementations of the weighted prediction error (WPE) dereverberation algorithm. WPE has been shown to be a highly effective tool for speech dereverberation, thus improving the perceptual quality of the signal and improving the recognition performance of downstream automatic speech recognition (ASR). It is suitable both for single-channel and multi-channel applications. The package consist of (1) a Numpy implementation which can easily be integrated into a custom Python toolchain, and (2) a TensorFlow implementation which allows integration into larger computational graphs and enables backpropagation through WPE to train more advanced front-ends. This package comprises of an iterative offline (batch) version, a block-online version, and a frame-online version which can be used in moderately low latency applications, e.g. digital speech assistants."
+    },
+    {
+        "title": "Automated Repair of Mobile Friendly Problems in Web Pages",
+        "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)",
+        "data": "27 May-3 June 2018",
+        "authors": [
+            "Sonal Mahajan",
+            "Negarsadat Abolhassani",
+            "Phil McMinn",
+            "William G. J. Halfond"
+        ],
+        "DOI": "10.1145/3180155.3180262",
+        "citation": 14,
+        "abstract": "Mobile devices have become a primary means of accessing the Internet. Unfortunately, many websites are not designed to be mobile friendly. This results in problems such as unreadable text, cluttered navigation, and content over owing a device's viewport; all of which can lead to a frustrating and poor user experience. Existing techniques are limited in helping developers repair these mobile friendly problems. To address this limitation of prior work, we designed a novel automated approach for repairing mobile friendly problems in web pages. Our empirical evaluation showed that our approach was able to successfully resolve mobile friendly problems in 95% of the evaluation subjects. In a user study, participants preferred our repaired versions of the subjects and also considered the repaired pages to be more readable than the originals."
     },
     {
         "title": "Detection of Cyberbullying in Social Networks Using Machine Learning Methods",
         "conferenceTitle": "2018 International Congress on Big Data, Deep Learning and Fighting Cyber Terrorism (IBIGDELFT)",
-        "Content Type": "Conferences",
-        "date": "3-4 Dec. 2018",
+        "data": "3-4 Dec. 2018",
         "authors": [
             "Elif Varol Altay",
             "Bilal Alatas"
@@ -218,8 +217,7 @@
     {
         "title": "A recruitment and human resource management technique using Blockchain technology for industry 4.0",
         "conferenceTitle": "​Smart Cities Symposium 2018",
-        "Content Type": "Conferences",
-        "date": "22-23 April 2018",
+        "data": "22-23 April 2018",
         "authors": [
             "Md Mehedi Hassan Onik",
             "Mahdi H. Miraz",
@@ -230,25 +228,9 @@
         "abstract": "Application of Information Technology (IT) in the domain of Human Resource Management (HRM) systems is a sine qua non for any organization for successfully adopting and implementing Fourth Industrial Revolution (Industry 4.0). However, these systems are required to ensure non-biased, efficient, transparent and secure environment. Blockchain, a technology based on distributed digital ledgers, can help facilitate the process of successfully effectuating these specifications. A detailed literature review has been conducted to identify the current status of usage of Information Technology in the domain of Human Resource Management and how Blockchain can help achieve a smart, cost-effective, efficient, transparent and secure factory management system. A Blockchain based Recruitment Management System (BcRMS) as well as Blockchain based Human Resource Management System (BcHRMS) algorithm have been proposed. From the analysis of the results obtained through the case study, it is evident that the proposed system holds definite advantages compared to the existing recruitment systems. Future research directions have also been identified and advocated."
     },
     {
-        "title": "Automated Repair of Mobile Friendly Problems in Web Pages",
-        "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
-        "authors": [
-            "Sonal Mahajan",
-            "Negarsadat Abolhassani",
-            "Phil McMinn",
-            "William G. J. Halfond"
-        ],
-        "DOI": "10.1145/3180155.3180262",
-        "citation": 13,
-        "abstract": "Mobile devices have become a primary means of accessing the Internet. Unfortunately, many websites are not designed to be mobile friendly. This results in problems such as unreadable text, cluttered navigation, and content over owing a device's viewport; all of which can lead to a frustrating and poor user experience. Existing techniques are limited in helping developers repair these mobile friendly problems. To address this limitation of prior work, we designed a novel automated approach for repairing mobile friendly problems in web pages. Our empirical evaluation showed that our approach was able to successfully resolve mobile friendly problems in 95% of the evaluation subjects. In a user study, participants preferred our repaired versions of the subjects and also considered the repaired pages to be more readable than the originals."
-    },
-    {
         "title": "Three principles of data science: predictability, computability, and stability (PCS)",
         "conferenceTitle": "2018 IEEE International Conference on Big Data (Big Data)",
-        "Content Type": "Conferences",
-        "date": "10-13 Dec. 2018",
+        "data": "10-13 Dec. 2018",
         "authors": [
             "Bin Yu"
         ],
@@ -259,8 +241,7 @@
     {
         "title": "A Multihop Broadcast Mechanism for Emergency Messages Dissemination in VANETs",
         "conferenceTitle": "2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC)",
-        "Content Type": "Conferences",
-        "date": "23-27 July 2018",
+        "data": "23-27 July 2018",
         "authors": [
             "Sizheng Li",
             "Chuanhe Huang"
@@ -270,10 +251,21 @@
         "abstract": "In Vehicular Ad Hoc Networks (VANETs), using multihop broadcast to achieve fast and reliable dissemination of event-driven emergency messages among vehicles has positive significance. Most existing solutions make relay selection by either senders or receivers. However, the former would fall into invalidation due to the unstable links, while the latter would generate extra delay. In this paper, we propose a new mechanism named MBM-EMD (i.e., multihop broadcast mechanism for emergency messages dissemination) to solve these problems. Our contributions are two-fold. i) We integrate multiple influencing factors such as vehicle density, relative movement, and channel quality into a new metric named ETGPH (i.e., the expected transmission gain per hop), and use it to select the optimal relays. ii) After acquiring the candidate set for further rebroadcast, the current sender firstly appoints an optimal relay from it to rebroadcast immediately. Other candidates will assist in forwarding according to our rules if this relay fails. The simulation results demonstrate the feasibility and effectiveness of the proposed solution."
     },
     {
+        "title": "Designing and characterizing MATE, the Chalmers mm-wave MIMO testbed",
+        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
+        "data": "9-13 April 2018",
+        "authors": [
+            "Koen Buisman",
+            "Thomas Eriksson"
+        ],
+        "DOI": "10.1049/cp.2018.0747",
+        "citation": 10,
+        "abstract": "In this paper, we report on the design and characterization of MATE, the mm-wave testbed at the Chalmers University of Technology. We elaborate around design choices of various parts of the testbed, baseband hardware, required software and RF frontend. We also perform a thorough characterization of the testbed, in terms of I/Q imbalance, stability, frequency offset, DC offsets, and ADC/DAC clock rate offset. The study shows that the utilized design techniques for baseband and RF frontend hardware are feasible, and also that many hardware imperfections are possible to accurately characterize, for subsequent calibration and digital compensation."
+    },
+    {
         "title": "The Potential for User-Tailored Privacy on Facebook",
         "conferenceTitle": "2018 IEEE Symposium on Privacy-Aware Computing (PAC)",
-        "Content Type": "Conferences",
-        "date": "26-28 Sept. 2018",
+        "data": "26-28 Sept. 2018",
         "authors": [
             "Moses Namara",
             "Henry Sloan",
@@ -287,8 +279,7 @@
     {
         "title": "A Program Slicing-Based Bayesian Network Model for Change Impact Analysis",
         "conferenceTitle": "2018 IEEE International Conference on Software Quality, Reliability and Security (QRS)",
-        "Content Type": "Conferences",
-        "date": "16-20 July 2018",
+        "data": "16-20 July 2018",
         "authors": [
             "Ekincan Ufuktepe",
             "Tugkan Tuglular"
@@ -298,23 +289,9 @@
         "abstract": "Change impact analysis plays an important role in identifying potential affected areas that are caused by changes that are made in a software. Most of the existing change impact analysis techniques are based on architectural design and change history. However, source code-based change impact analysis studies are very few and they have shown higher precision in their results. In this study, a static method-granularity level change impact analysis, that uses program slicing and Bayesian Network technique has been proposed. The technique proposes a directed graph model that also represents the call dependencies between methods. In this study, an open source Java project with 8999 to 9445 lines of code and from 505 to 528 methods have been analyzed through 32 commits it went. Recall and f-measure metrics have been used for evaluation of the precision of the proposed method, where each software commit has been analyzed separately."
     },
     {
-        "title": "Designing and characterizing MATE, the Chalmers mm-wave MIMO testbed",
-        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
-        "authors": [
-            "Koen Buisman",
-            "Thomas Eriksson"
-        ],
-        "DOI": "10.1049/cp.2018.0747",
-        "citation": 9,
-        "abstract": "In this paper, we report on the design and characterization of MATE, the mm-wave testbed at the Chalmers University of Technology. We elaborate around design choices of various parts of the testbed, baseband hardware, required software and RF frontend. We also perform a thorough characterization of the testbed, in terms of I/Q imbalance, stability, frequency offset, DC offsets, and ADC/DAC clock rate offset. The study shows that the utilized design techniques for baseband and RF frontend hardware are feasible, and also that many hardware imperfections are possible to accurately characterize, for subsequent calibration and digital compensation."
-    },
-    {
         "title": "When Not to Comment: Questions and Tradeoffs with API Documentation for C++ Projects",
         "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
+        "data": "27 May-3 June 2018",
         "authors": [
             "Andrew Head",
             "Caitlin Sadowski",
@@ -328,8 +305,7 @@
     {
         "title": "Considering Non-sequential Control Flows for Process Prediction with Recurrent Neural Networks",
         "conferenceTitle": "2018 44th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)",
-        "Content Type": "Conferences",
-        "date": "29-31 Aug. 2018",
+        "data": "29-31 Aug. 2018",
         "authors": [
             "Andreas Metzger",
             "Adrian Neubauer"
@@ -341,8 +317,7 @@
     {
         "title": "Hardware demonstration of precoded communications in multi-beam UHTS systems",
         "conferenceTitle": "36th International Communications Satellite Systems Conference (ICSSC 2018)",
-        "Content Type": "Conferences",
-        "date": "15-18 Oct. 2018",
+        "data": "15-18 Oct. 2018",
         "authors": [
             "Juan Duncan",
             "Jevgenij Krivochiza",
@@ -357,8 +332,7 @@
     {
         "title": "A compact phase shifter in groove gap waveguide for millimeter-wave applications",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Seyed Ali Razavi",
             "Ashraf Uz Zaman"
@@ -368,10 +342,22 @@
         "abstract": "A compact low loss waveguide phase shifter design based on gap waveguide technology is presented in this work. In the proposed structure, no extra length is introduced to the waveguide section which restrains the phase shifter compactness and makes it possible to develop equal length waveguide differential phase shifters which are so applicable in realizing compact beamforming networks. From fabrication point of view, the proposed structure is very compatible with groove gap waveguide (GGW) technology which makes it a low loss and efficient solution for phase shifting at millimeter wave frequencies. A sample 9ff equal length differential phase shifter based on the proposed idea is designed and simulated for 60GHz band. Results show proper impedance matching and low insertion loss (less than 0.3dB) as well as providing 90±5° phase shift over the frequency range of 58–62.4 GHz."
     },
     {
+        "title": "Modelling of the wind rotor of WECs for the analysis of wind effects influencing the drivetrain",
+        "conferenceTitle": "Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2018)",
+        "data": "12-15 Nov. 2018",
+        "authors": [
+            "Katharine Günther",
+            "Benedikt Spichartz",
+            "Constantinos Sourkounis"
+        ],
+        "DOI": "10.1049/cp.2018.1843",
+        "citation": 9,
+        "abstract": "Improving the reliability of wind energy conversion systems is an important objective of research and of turbine construction. Especially oscillating loads at mechanical components induced through aerodynamics of the wind rotor cause additional expenses for maintenance. Real-time simulations of WECSs which include models of the wind rotor to simulate transients, facilitate the analysis of these oscillating loads and the development of advanced control algorithms for oscillation damping. Therefore, this paper presents a model of the wind rotor with adjustable accuracy and examines its influence on simulation results. Different wind effects that cause oscillating loads are analyzed using wind rotor models with varying accuracy. So limitations of model simplifications such as for real-time operation can be identified."
+    },
+    {
         "title": "Universal ionosonde for diagnostics of ionospheric HF radio channels and its application in estimation of channel availability",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "D.V. Ivanov",
             "V.A. Ivanov",
@@ -387,8 +373,7 @@
     {
         "title": "Vehicle-to-pedestrian channel characterization: Wideband measurement campaign and first results",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Ibrahim Rashdan",
             "Fabian de Ponte Müller",
@@ -403,8 +388,7 @@
     {
         "title": "TDoA-based outdoor positioning in a public LoRa network",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Nico Podevijn",
             "Jens Trogh",
@@ -424,8 +408,7 @@
     {
         "title": "Modeling power angle spectrum and antenna pattern directions in multipath propagation environment",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Jan M. Kelner",
             "Cezary Ziółkowski"
@@ -437,8 +420,7 @@
     {
         "title": "Diamond tiling optimization for hexagonal shaped phased arrays",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Nicola Anselmi",
             "Lorenzo Poli",
@@ -450,24 +432,9 @@
         "abstract": "The optimization of hexagonal phased array apertures, tessellated by diamond shaped tiles modules, is addressed. While assuring the complete covering of the antenna aperture, an enumerative-based technique is exploited for the exhaustive search of tilings that are optimal with respect to the distance of the power pattern from ideal mask-defined constraints. An illustrative numerical example is reported, showing the effectiveness of the proposed method."
     },
     {
-        "title": "Modelling of the wind rotor of WECs for the analysis of wind effects influencing the drivetrain",
-        "conferenceTitle": "Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2018)",
-        "Content Type": "Conferences",
-        "date": "12-15 Nov. 2018",
-        "authors": [
-            "Katharine Günther",
-            "Benedikt Spichartz",
-            "Constantinos Sourkounis"
-        ],
-        "DOI": "10.1049/cp.2018.1843",
-        "citation": 8,
-        "abstract": "Improving the reliability of wind energy conversion systems is an important objective of research and of turbine construction. Especially oscillating loads at mechanical components induced through aerodynamics of the wind rotor cause additional expenses for maintenance. Real-time simulations of WECSs which include models of the wind rotor to simulate transients, facilitate the analysis of these oscillating loads and the development of advanced control algorithms for oscillation damping. Therefore, this paper presents a model of the wind rotor with adjustable accuracy and examines its influence on simulation results. Different wind effects that cause oscillating loads are analyzed using wind rotor models with varying accuracy. So limitations of model simplifications such as for real-time operation can be identified."
-    },
-    {
         "title": "Multi-band outdoor measurements in a residential environment for 5G networks",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Xavier Raimundo",
             "Saied El-Faitori",
@@ -480,8 +447,7 @@
     {
         "title": "Augmented Reality in Education Learning and Training",
         "conferenceTitle": "2018 JCCO Joint International Conference on ICT in Education and Training, International Conference on Computing in Arabic, and International Conference on Geocomputing (JCCO: TICET-ICCA-GECO)",
-        "Content Type": "Conferences",
-        "date": "9-11 Nov. 2018",
+        "data": "9-11 Nov. 2018",
         "authors": [
             "Doaa Nae'l Nasser"
         ],
@@ -492,8 +458,7 @@
     {
         "title": "Silver metallization of 77 GHz 3D printed horn antennas",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Arnaud Jammes",
             "Edouard des Gayets",
@@ -509,8 +474,7 @@
     {
         "title": "A planar dual-polarized ultra-wideband millimeter-wave array antenna",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Sadegh Mansouri Moghaddam",
             "Jian Yang",
@@ -523,8 +487,7 @@
     {
         "title": "Gapless Imaging with the NASA-ISRO SAR (NISAR) Mission: Challenges and Opportunities of Staggered SAR",
         "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "data": "4-7 June 2018",
         "authors": [
             "Michelangelo Villano",
             "Muriel Pinheiro",
@@ -541,8 +504,7 @@
     {
         "title": "Touching Virtual Reality: A Review of Haptic Gloves",
         "conferenceTitle": "ACTUATOR 2018; 16th International Conference on New Actuators",
-        "Content Type": "Conferences",
-        "date": "25-27 June 2018",
+        "data": "25-27 June 2018",
         "authors": [
             "J. Perret",
             "E. Vander Poorten"
@@ -554,8 +516,7 @@
     {
         "title": "Millimetre-wave beam steerable leaky-wave antenna for 5G systems",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Muhammad Saqib Rabbani",
             "James Churm",
@@ -568,8 +529,7 @@
     {
         "title": "Implementation of a correcting coupling mechanism to mitigate surface wave in phased arrays",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Aurelien Ayissi Manga",
             "Raphael Gillard",
@@ -584,8 +544,7 @@
     {
         "title": "Wideband mm-wave non-diffracting Airy beam forming",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Ravi Kadlimatti",
             "Hemanth Gaddam",
@@ -601,8 +560,7 @@
     {
         "title": "A compact and wideband variable microwave phase shifter for phased arrays and diversity in S-band",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "S. Senega",
             "S. Lindenmeier"
@@ -612,10 +570,24 @@
         "abstract": "Especially in automotive and mobile applications, lean and compact tunable phase shifters are required. We propose a new varactor-based analog phase shifter in a broadband-matched bandpass configuration for a wide frequency range between 2–2.5 GHz. It enables continuous tuning of phase angles between 0° and 180°, which are steered by only one bias voltage. By cascading two implementations of the proposed circuit or in combination with a switchable wideband 0°/180° phase shifter all phase values between 0° and 360° can be obtained with low frequency dependence. The combination with a switchable phase shifter enables a higher usable bandwidth and offers the additional capability of selecting individual antennas in a multi-antenna system. After an analytic explanation of the phase shifter circuit, simulated and measured results of a hardware sample are presented and the influence of parasitic effects is discussed. A matching of better than 10 dB and attenuation of less than 2.5 dB is achieved for all phase constellations. Measurements of a phased array for satellite radio reception around 2.33 GHz using the new phase shifter clearly show the good performance of the circuit even with its small footprint and low component count. Continuous-valued beam steering in azimuth as well as discrete beam steering in elevation is achieved by the combination of a switchable with the new continuously tunable phase shifter."
     },
     {
+        "title": "Exploiting GAN-Based SAR to Optical Image Transcoding for Improved Classification via Deep Learning",
+        "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
+        "data": "4-7 June 2018",
+        "authors": [
+            "Andreas Ley",
+            "Olivier Dhondt",
+            "Sebastien Valade",
+            "Ronny Haensch",
+            "Olaf Hellwich"
+        ],
+        "DOI": "",
+        "citation": 6,
+        "abstract": "Learning the proxy task of transcoding SAR images into optical images forces an employed conditional generative adversarial network (GAN) to distinguish between different land surfaces. Such a network can then be used to build a classifier with significantly fewer free parameters that generalizes well even when trained on a very small amount of labeled data. We train such a GAN on aligned Sentinel-1 and Sentinel-2 image pairs. We then show that a pre-trained classifier using these features learned from transcoding outperforms classifiers that are trained from scratch when only a very limited amount of labeled pixels are available for training."
+    },
+    {
         "title": "Full probe corrected spherical near field measurement technique using standard wideband antennas as probes",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "F. Saccardi",
             "A. Giacomini",
@@ -629,8 +601,7 @@
     {
         "title": "Partially molded antenna-in-package concept for 122 GHz SiGe radar sensor",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Akanksha Bhutani",
             "Benjamin Goettel",
@@ -642,10 +613,22 @@
         "abstract": "An Antenna-in-Package concept with partial-molding encapsulation has been introduced in this paper. The concept is based on multilayered low temperature co-fired ceramic (LTCC) technology and is suitable for millimeter-wave frequencies, above 100 GHz. The proposed packaging concept consists of a semiconductor integrated circuit (IC) connected to an antenna using half-wavelength wirebonds. The IC-antenna assembly is placed in an LTCC package cavity and partially encapsulated with a low-loss molding compound. A proof of concept operating in the 122 GHz ISM band has been demonstrated. It consists of an aperture-coupled stacked-patch antenna fed by a conductor-backed coplanar waveguide and interconnected to a dummy chip. The complete assembly is partially molded. Simulation and probe-based measurement results are shown at various steps, for a thorough analysis of the proof of concept."
     },
     {
+        "title": "A technique to suppress mutual coupling in densely packed antenna arrays using metamaterial supersubstrate",
+        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
+        "data": "9-13 April 2018",
+        "authors": [
+            "Mohammad Alibakhshikenari",
+            "Bal Singh Virdee",
+            "Ernesto Limiti"
+        ],
+        "DOI": "10.1049/cp.2018.1025",
+        "citation": 6,
+        "abstract": "A simple and practical technique for reducing the mutual coupling between neighbouring antennas is presented for application in densely packed antenna arrays. This is achieved by locating between the radiation elements a smaller patch with metamaterial decoupling structure (MTM-DS). In this case the radiating elements are circular patches and the MTM-DS is constructed from a hexagonal slit resonator. The consequence of implementing the MTM-DS patch is significant reduction in mutual coupling between adjacent radiating patches by 60%, improvement in impedance match by 200% and substantial increase in the antenna's fractional bandwidth by 369%. Since the ground plane is unaltered the front-to-back ratio is unaffected too. The proposed technique is easily realizable and can be used effectively in beam scanning applications."
+    },
+    {
         "title": "New analytical model for the characterisation of printed spiral coils for wireless power transfer",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Sadeque Reza Khan",
             "Sumanth Kumar Pavuluri",
@@ -656,10 +639,21 @@
         "abstract": "Near field wireless power transfer (WPT) using transcutaneous inductive links has become one of the strong contenders for the powering of cardiac pacemaker, cardioverter defibrillators and neuroprosthetic devices. One scheme to achieve WPT is the use of a pair of printed spiral coils (PSC) acting as a transmitter and receiver. Optimization of the physical configuration of these PSC's is needed for maximum power transfer efficiency and tolerance to angular and lateral misalignment. This paper presents a new analytical model for the calculation of the self- and mutual inductances, AC resistance, and parasitic capacitance to design compact spiral PSC's for WPT applications. The proposed analytical model enables the rapid calculation of the power transfer efficiency (PTE) analysis of a spiral WPT system. A complete optimization model is also implemented in MATLAB. Furthermore, all analytical results have been validated using the 3D electromagnetic (EM) software ANSYS MAXWELL 3D combined with Agilent ADS circuit simulator."
     },
     {
+        "title": "Analytical study of 5G beamforming in the reactive near-field zone",
+        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
+        "data": "9-13 April 2018",
+        "authors": [
+            "Maryna Nesterova",
+            "Stuart Nicol"
+        ],
+        "DOI": "10.1049/cp.2018.1086",
+        "citation": 5,
+        "abstract": "An innovative method of assessment of the nonzero phase shift between electric (E) and magnetic (H) field vectors is introduced, making possible an analysis of the impact on wave propagation of a 5G array antenna. The presented two-probe measurement technique is based on a robust assessment of spatial distribution of E and H fields along with a signal propagation orientation in the reactive near-field zone of a device. This method allows one to quantify both the energy radiating outward into free space and the reactive portion of the reversing electromagnetic field which affects the efficiency of the transmitter. The ability to examine the Poynting vector variation relative to the changing phase of 0, 30, and 90 degrees between two active elements of the array antenna provides information about beam strength and direction of propagation. This method elucidates the effect of the phase shift on wave propagation direction, back-scattering, and power density."
+    },
+    {
         "title": "Barker coded excitation using pseudo chirp carrier with pulse compression filter for ultrasound imaging",
         "conferenceTitle": "BIBE 2018; International Conference on Biological Information and Biomedical Engineering",
-        "Content Type": "Conferences",
-        "date": "6-8 June 2018",
+        "data": "6-8 June 2018",
         "authors": [
             "Juan Fu",
             "Gengxin Ning"
@@ -671,8 +665,7 @@
     {
         "title": "An automated greenhouse system using agricultural Internet of Things for better crop yield",
         "conferenceTitle": "​Smart Cities Symposium 2018",
-        "Content Type": "Conferences",
-        "date": "22-23 April 2018",
+        "data": "22-23 April 2018",
         "authors": [
             "T C Jermin Jeaunita",
             "V Sarasvathi",
@@ -687,8 +680,7 @@
     {
         "title": "Cross-channel sounding for HF geolocation: Concepts and experimental results",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Ankit Jain",
             "Pascal Pagani",
@@ -703,8 +695,7 @@
     {
         "title": "Miniaturization of a circular polarized antenna using ferrite materials",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "E. Arnaud",
             "L. Huitema",
@@ -717,26 +708,23 @@
         "abstract": "A miniature antenna with an optimized circular polarization is presented in this paper. It uses the specific behavior of the electromagnetic wave's propagation in ferrite materials to create the nonreciprocity phenomenon and thus a natural circular polarization. Moreover, both the high permittivity and permeability of such a material imply that the antenna is miniaturized. In this framework, a magnetostatic and electromagnetic co-simulation of a circular polarized ferrite patch antenna working at 2 GHz is presented with reduced dimensions of λ0/8.5×λ0/8.5×λ0/37 at 2 GHz."
     },
     {
-        "title": "Exploiting GAN-Based SAR to Optical Image Transcoding for Improved Classification via Deep Learning",
-        "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "title": "Theory and validation of reduced complexity translated-SWE algorithm with applications to automotive measurements with minimum sampling",
+        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
+        "data": "9-13 April 2018",
         "authors": [
-            "Andreas Ley",
-            "Olivier Dhondt",
-            "Sebastien Valade",
-            "Ronny Haensch",
-            "Olaf Hellwich"
+            "F. Saccardi",
+            "F. Mioc",
+            "P. O. Iversen",
+            "L. J. Foged"
         ],
-        "DOI": "",
+        "DOI": "10.1049/cp.2018.0715",
         "citation": 5,
-        "abstract": "Learning the proxy task of transcoding SAR images into optical images forces an employed conditional generative adversarial network (GAN) to distinguish between different land surfaces. Such a network can then be used to build a classifier with significantly fewer free parameters that generalizes well even when trained on a very small amount of labeled data. We train such a GAN on aligned Sentinel-1 and Sentinel-2 image pairs. We then show that a pre-trained classifier using these features learned from transcoding outperforms classifiers that are trained from scratch when only a very limited amount of labeled pixels are available for training."
+        "abstract": "The testing of automotive antennas is usually performed in Spherical Near Field (SNF) ranges. Typically, the entire vehicle is measured to account for the antenna coupling with the structure. At higher frequencies, sampling becomes challenging, due to the electrical size of most vehicles. However, distant scattering can often be ignored with acceptable accuracy. If the antenna is well centred in the measurement coordinate system, the sampling can thus be reduced to represent only the immediate vicinity of the antenna. The Translated Spherical Wave Expansion (TSWE) allows the user to arbitrary move the coordinate system within the measurement sphere during post-processing. Thus, avoiding the physical movement of the vehicle for centring during test. In this paper, the Advanced-TSWE (A-TSWE) with reduced computational complexity is presented for the first time. The efficiency and accuracy of A-TSWE is demonstrated by comparative measurement on a scaled mock-up representing a realistic SNF automotive measurement scenario."
     },
     {
         "title": "Studying frequency dispersion in transionospheric radio paths using the estimates of the total electron content",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "D.V. Ivanov",
             "V.A. Ivanov",
@@ -752,8 +740,7 @@
     {
         "title": "Discovery Multiple Data Structures in Big Data through Global Optimization and Clustering Methods",
         "conferenceTitle": "2018 22nd International Conference Information Visualisation (IV)",
-        "Content Type": "Conferences",
-        "date": "10-13 July 2018",
+        "data": "10-13 July 2018",
         "authors": [
             "Ida Bifulco",
             "Stefano Cirillo"
@@ -765,8 +752,7 @@
     {
         "title": "Sensorless control of dual-three phase PMSM based aircraft electric starter/generator system using model reference adaptive system method",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2018)",
-        "Content Type": "Conferences",
-        "date": "19-22 June 2018",
+        "data": "19-22 June 2018",
         "authors": [
             "Linhui Fan",
             "Tao Yang",
@@ -780,8 +766,7 @@
     {
         "title": "Comparison of bowtie slot and rectangular waveguide-based antennas for microwave medical imaging",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Ilja Merunka",
             "Jan Vrba",
@@ -793,24 +778,23 @@
         "abstract": "In this work, two radiating elements were selected as a suitable candidates for use in the new generation of microwave imaging system developed at ELEDIA@CTU in Prague. These elements are the antenna based on the rectangular waveguide section and the bowtie slot antenna. Both elements meet the criteria we have established based on experience with the previous system: dominant radiation in the imaged domain, radiation symmetry and no need for a balun. The work deals with the verification of the fulfillment of the desired antenna properties and the mutual comparison of the two antenna elements by means of numerical simulations. Although both antenna elements exhibit the desired properties, the bowtie slot antenna exhibits lower internal losses compared to the rectangular waveguide-based antenna. This increases the magnitude of the transmission coefficients in our microwave imaging system by about 13 dB to about −74 dB (for the most distant antennas of the system) for the bowtie slot antenna (in comparison to the rectangular waveguide-based antenna). In addition, it can be expected that for this antenna element it will be easier to guarantee the reproducebility of the production and thus reduce the differences of the individual antenna elements in the antenna array of the microwave imaging system."
     },
     {
-        "title": "A technique to suppress mutual coupling in densely packed antenna arrays using metamaterial supersubstrate",
-        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "title": "Combining spectral estimation and BLU interpolation for the reconstruction of low-oversampled staggered SAR data",
+        "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
+        "data": "4-7 June 2018",
         "authors": [
-            "Mohammad Alibakhshikenari",
-            "Bal Singh Virdee",
-            "Ernesto Limiti"
+            "Muriel Pinheiro",
+            "Pau Prats-Iraola",
+            "Marc Rodriguez-Cassola",
+            "Michelangelo Villano"
         ],
-        "DOI": "10.1049/cp.2018.1025",
+        "DOI": "",
         "citation": 5,
-        "abstract": "A simple and practical technique for reducing the mutual coupling between neighbouring antennas is presented for application in densely packed antenna arrays. This is achieved by locating between the radiation elements a smaller patch with metamaterial decoupling structure (MTM-DS). In this case the radiating elements are circular patches and the MTM-DS is constructed from a hexagonal slit resonator. The consequence of implementing the MTM-DS patch is significant reduction in mutual coupling between adjacent radiating patches by 60%, improvement in impedance match by 200% and substantial increase in the antenna's fractional bandwidth by 369%. Since the ground plane is unaltered the front-to-back ratio is unaffected too. The proposed technique is easily realizable and can be used effectively in beam scanning applications."
+        "abstract": "The combination of SCan-On-REceive with continuous variation of the pulse repetition interval during transmission (staggered operation) is a viable option for the acquisition of high-resolution-wide-swath SAR data. The data acquired in staggered mode is not uniformly sampled and contain gaps within the synthetic aperture mainly due to the interruption of reception during transmission (i.e, due to blockage). Hence, proper reconstruction strategies must be considered in order to minimize artifacts. Conventionally, large oversampling rates are required to ensure low ambiguity levels, but this is not always feasible due to data-rate constraints. Based on an existing two-step (recovery/re-sample) methodology, this paper proposes an strategy for reconstructing low-oversampled staggered data which improves the reconstruction of point-like targets while ensuring the best performance for distributed scatterers."
     },
     {
         "title": "Centralized indoor positioning system using bluetooth low energy",
         "conferenceTitle": "2018 XLIV Latin American Computer Conference (CLEI)",
-        "Content Type": "Conferences",
-        "date": "1-5 Oct. 2018",
+        "data": "1-5 Oct. 2018",
         "authors": [
             "Derlis A. Garcete",
             "Jose Luis Vazquez Noguera",
@@ -823,8 +807,7 @@
     {
         "title": "Smart farm prototype for plant disease detection, diagnosis & treatment using IoT device in a greenhouse",
         "conferenceTitle": "7th Brunei International Conference on Engineering and Technology 2018 (BICET 2018)",
-        "Content Type": "Conferences",
-        "date": "12-14 Nov. 2018",
+        "data": "12-14 Nov. 2018",
         "authors": [
             "Muhammad Hanif Jumat",
             "Mohd Saleem Nazmudeen",
@@ -837,8 +820,7 @@
     {
         "title": "A New Model for Secure Joining to ZigBee 3.0 Networks in the Internet of Things",
         "conferenceTitle": "2018 International Congress on Big Data, Deep Learning and Fighting Cyber Terrorism (IBIGDELFT)",
-        "Content Type": "Conferences",
-        "date": "3-4 Dec. 2018",
+        "data": "3-4 Dec. 2018",
         "authors": [
             "Emre Deniz",
             "Refik Samet"
@@ -850,8 +832,7 @@
     {
         "title": "Retrieving of significant wave height and period from the Doppler spectrum of backscattered microwave signal",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Maria Panfilova",
             "Maria Ryabkova",
@@ -865,8 +846,7 @@
     {
         "title": "Impact of Gaps in the NASA-ISRO SAR Mission Swath",
         "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "data": "4-7 June 2018",
         "authors": [
             "Paul A. Rosen",
             "Scott Hensley",
@@ -883,8 +863,7 @@
     {
         "title": "Multi-band spatio-temporal characterization of a V2V environment under blockage",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Diego Dupleich",
             "Robert Müller",
@@ -900,10 +879,22 @@
         "abstract": "In the present paper we introduce novel simultaneous multi-band double-directional ultra-wideband measurements at 6.75 GHz, 30 GHz, and 60 GHz in an urban V2V scenario. The objective is to characterize propagation differences between the measured bands in view of correlated multi-band channel models. Furthermore, we investigate the impact of other vehicles blocking the V2V link by performing measurements with different blocker sizes (specifically, a passenger car and a large van). The shadowing effects and the correlation between intra-cluster delay spreads and large scale parameters are investigated in the different bands."
     },
     {
+        "title": "Security Applications with Synthetic Aperture Radar (SAR) Systems",
+        "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
+        "data": "4-7 June 2018",
+        "authors": [
+            "Emre Kalender",
+            "Goerkem Guerer",
+            "Erman Anadol"
+        ],
+        "DOI": "",
+        "citation": 4,
+        "abstract": "SAR systems meet the demanding needs of security applications with SAR/GMTI output information. Outputs of SAR systems are need to be improved via advanced post-processing techniques for applications such as moving target (e.g. vehicle, pedestrian) and threat activity detection on ground. Firstly, advanced clutter suppression techniques to improve GMTI detection performance are studied. Secondly, ground-placed wire detection is observed both with airborne and ground-based SAR systems. Lastly, threat activity detection on terrain with airborne SAR is presented. The data used within this paper are acquired with SARPER (exp TM) Airborne SAR System and experimental ground-based SAR system, both developed by ASELSAN."
+    },
+    {
         "title": "Toward smart logistics: A new algorithm for a multi-objective 3D bin packing problem",
         "conferenceTitle": "​Smart Cities Symposium 2018",
-        "Content Type": "Conferences",
-        "date": "22-23 April 2018",
+        "data": "22-23 April 2018",
         "authors": [
             "J. Kaabi",
             "Y. Harrath",
@@ -915,23 +906,9 @@
         "abstract": "The most important logistics requirements are the reception of the product on time, in the right place and in the best condition. These requirements may be satisfied by implementing a smart logistic process. One important problem that is faced in that process is the bin packing problem. The bin packing is an NP-hard problem which focuses on optimizing the number of bins for a set of items with varying volumes and/or weights. Bin packing problem is used in many applications such as job scheduling, shipping items and placing data on multiple disks. Although many algorithms have been developed to solve the bin-packing problem, some drawbacks have remained unsolved like efficiency of the algorithm vs. optimal number of bins. In this research, we propose a multi-objective 3D bin packing algorithm that focuses on optimizing the number of bins as well as balancing the weight inside each bin. The proposed algorithm was implemented and tested with data gathered from FedEx. The computational results showed that the algorithm is efficient for a small number of problems and runs very fast for up to around 25000 items. The algorithm also balances the weights between the bins almost perfectly."
     },
     {
-        "title": "Analytical study of 5G beamforming in the reactive near-field zone",
-        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
-        "authors": [
-            "Maryna Nesterova",
-            "Stuart Nicol"
-        ],
-        "DOI": "10.1049/cp.2018.1086",
-        "citation": 4,
-        "abstract": "An innovative method of assessment of the nonzero phase shift between electric (E) and magnetic (H) field vectors is introduced, making possible an analysis of the impact on wave propagation of a 5G array antenna. The presented two-probe measurement technique is based on a robust assessment of spatial distribution of E and H fields along with a signal propagation orientation in the reactive near-field zone of a device. This method allows one to quantify both the energy radiating outward into free space and the reactive portion of the reversing electromagnetic field which affects the efficiency of the transmitter. The ability to examine the Poynting vector variation relative to the changing phase of 0, 30, and 90 degrees between two active elements of the array antenna provides information about beam strength and direction of propagation. This method elucidates the effect of the phase shift on wave propagation direction, back-scattering, and power density."
-    },
-    {
         "title": "Modern load profile for standalone PV rural household in Malaysia",
         "conferenceTitle": "5th IET International Conference on Clean Energy and Technology (CEAT2018)",
-        "Content Type": "Conferences",
-        "date": "5-6 Sept. 2018",
+        "data": "5-6 Sept. 2018",
         "authors": [
             "M Izuan Fahmi",
             "R Rajkumar",
@@ -946,8 +923,7 @@
     {
         "title": "Impact of multilayer stack-ups on bond wire antennas at millimetre-wave frequencies",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Ivan Ndip",
             "Martin Schneider-Ramelow",
@@ -961,25 +937,9 @@
         "abstract": "We model, simulate and quantify the impact of integrating bond wire antennas (BWAs) on multilayered stack-ups at millimeter-wave frequencies. The BWAs are fabricated and measured in the 60 GHz band. Very good correlation is obtained between measurement and simulation results."
     },
     {
-        "title": "Theory and validation of reduced complexity translated-SWE algorithm with applications to automotive measurements with minimum sampling",
-        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
-        "authors": [
-            "F. Saccardi",
-            "F. Mioc",
-            "P. O. Iversen",
-            "L. J. Foged"
-        ],
-        "DOI": "10.1049/cp.2018.0715",
-        "citation": 4,
-        "abstract": "The testing of automotive antennas is usually performed in Spherical Near Field (SNF) ranges. Typically, the entire vehicle is measured to account for the antenna coupling with the structure. At higher frequencies, sampling becomes challenging, due to the electrical size of most vehicles. However, distant scattering can often be ignored with acceptable accuracy. If the antenna is well centred in the measurement coordinate system, the sampling can thus be reduced to represent only the immediate vicinity of the antenna. The Translated Spherical Wave Expansion (TSWE) allows the user to arbitrary move the coordinate system within the measurement sphere during post-processing. Thus, avoiding the physical movement of the vehicle for centring during test. In this paper, the Advanced-TSWE (A-TSWE) with reduced computational complexity is presented for the first time. The efficiency and accuracy of A-TSWE is demonstrated by comparative measurement on a scaled mock-up representing a realistic SNF automotive measurement scenario."
-    },
-    {
         "title": "A Modified Imaging Interval Selection Method Based on Joint Time-Frequency Analysis for Ship ISAR Imaging",
         "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "data": "4-7 June 2018",
         "authors": [
             "Gen Li",
             "Tianyi Zhang",
@@ -994,8 +954,7 @@
     {
         "title": "OPF integrating distribution systems flexibility for TSO real-time active power balance management",
         "conferenceTitle": "Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2018)",
-        "Content Type": "Conferences",
-        "date": "12-15 Nov. 2018",
+        "data": "12-15 Nov. 2018",
         "authors": [
             "Florin Capitanescu"
         ],
@@ -1006,8 +965,7 @@
     {
         "title": "An UWB compact microstrip antenna for S band, C band and X band applications",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Tapesh Bhandari",
             "Sudeep Baudha"
@@ -1019,8 +977,7 @@
     {
         "title": "A spectrum sharing protocol for full-duplex cognitive df relay networks",
         "conferenceTitle": "2018 26th Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "2-5 May 2018",
+        "data": "2-5 May 2018",
         "authors": [
             "Hüseyin Onur Baktiroğlu",
             "Ümit Aygölü"
@@ -1032,8 +989,7 @@
     {
         "title": "The use of a novel microwave radar reconstruction algorithm to image lesions in realistic 3D breast phantoms",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "T. Reimer",
             "D. Rodriguez Herrera",
@@ -1045,10 +1001,20 @@
         "abstract": "Microwave imaging is emerging as a novel breast imaging technique. Breast microwave imaging systems interrogate the breast with a microwave signal and record the backscatter produced by the tissues within the breast. This paper presents a novel image reconstruction algorithm for use in radar-based breast microwave imaging, based on the functional form of the maximum likelihood expectation maximization (MLEM) reconstruction algorithm. We validated this algorithm using 3D-printed MRI-based breast phantoms containing a malignant inclusion. Reconstructed images using our algorithm show the presence of high-scattering tissues with a contrast greater than 24 dB above the background clutter."
     },
     {
+        "title": "Recent Technologies on Multicore EDFA",
+        "conferenceTitle": "2018 IEEE Photonics Society Summer Topical Meeting Series (SUM)",
+        "data": "9-11 July 2018",
+        "authors": [
+            "Ryuichi Sugizaki"
+        ],
+        "DOI": "10.1109/PHOSST.2018.8456804",
+        "citation": 4,
+        "abstract": "MC-EDFA is expected as one of the key component for SDM systems. Its possibilities and abilities to enable high-capacity, low power consumption and cost reduction are summarized. Also, recent reports utilizing MC-EDFA are introduced."
+    },
+    {
         "title": "Complex permittivity measurements with a low cost parabolic resonant cavity",
         "conferenceTitle": "The Loughborough Antennas & Propagation Conference (LAPC 2018)",
-        "Content Type": "Conferences",
-        "date": "12-13 Nov. 2018",
+        "data": "12-13 Nov. 2018",
         "authors": [
             "G. Federico",
             "A.C.F. Reniers",
@@ -1063,8 +1029,7 @@
     {
         "title": "Influence of on-wafer probes in mm-wave antenna measurements",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Q. Liu",
             "A.C.F. Reniers",
@@ -1079,8 +1044,7 @@
     {
         "title": "Uniform arrays with low sidelobe two-way antenna patterns",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Randy L. Haupt",
             "Payam Nayeri"
@@ -1092,8 +1056,7 @@
     {
         "title": "Comparison of optimization procedures for the design of continuous parallel plate waveguide multiple beam lens antennas",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "François Doucet",
             "Nelson J. G. Fonseca",
@@ -1108,8 +1071,7 @@
     {
         "title": "[Journal First] MSeer – An Advanced Technique for Locating Multiple Bugs in Parallel",
         "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
+        "data": "27 May-3 June 2018",
         "authors": [
             "Ruizhi Gao",
             "W. Eric Wong"
@@ -1121,8 +1083,7 @@
     {
         "title": "Control of Continuum Robots for Medical Applications: State of the Art",
         "conferenceTitle": "ACTUATOR 2018; 16th International Conference on New Actuators",
-        "Content Type": "Conferences",
-        "date": "25-27 June 2018",
+        "data": "25-27 June 2018",
         "authors": [
             "M. T. Chikhaoui",
             "J. Burgner-Kahrs"
@@ -1134,8 +1095,7 @@
     {
         "title": "A Comprehensive Loss Analysis of Quasi Resonant Flyback Converter for Design Purpose",
         "conferenceTitle": "PCIM Asia 2018; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "26-28 June 2018",
+        "data": "26-28 June 2018",
         "authors": [
             "Halil Onay",
             "- Volkan Sueel",
@@ -1148,8 +1108,7 @@
     {
         "title": "Efficient testing of antennas for 5G mm-wave applications",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "A. Scannavini",
             "L. J. Foged",
@@ -1163,25 +1122,9 @@
         "abstract": "The development of 5G focus on the creation of a network with a much larger role than previous cellular generations: connecting new industries, enabling new services, and empowering new user experiences. 5G also introduces new higher frequencies in the mm-wave range, quite different from what was used for 3G and 4G. This has a significant impact on the design, developments, and testing of antennas embedded in 5G wireless devices. Fast and accurate antenna measurement systems are needed to satisfy the short developments and testing cycles to which today's antenna engineer are operating. Fast multi-probe systems is an established technology employed in fast and accurate measurement systems from 70MHz up to 18GHz. This paper describes a new multi-probe, near-field measurement system, in spherical geometry. The StarLab 50GHz is ideal for demanding antenna measurements for 5G applications in the 18 to 50GHz frequency range. Results from validation campaigns are also presented."
     },
     {
-        "title": "Combining spectral estimation and BLU interpolation for the reconstruction of low-oversampled staggered SAR data",
-        "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
-        "authors": [
-            "Muriel Pinheiro",
-            "Pau Prats-Iraola",
-            "Marc Rodriguez-Cassola",
-            "Michelangelo Villano"
-        ],
-        "DOI": "",
-        "citation": 4,
-        "abstract": "The combination of SCan-On-REceive with continuous variation of the pulse repetition interval during transmission (staggered operation) is a viable option for the acquisition of high-resolution-wide-swath SAR data. The data acquired in staggered mode is not uniformly sampled and contain gaps within the synthetic aperture mainly due to the interruption of reception during transmission (i.e, due to blockage). Hence, proper reconstruction strategies must be considered in order to minimize artifacts. Conventionally, large oversampling rates are required to ensure low ambiguity levels, but this is not always feasible due to data-rate constraints. Based on an existing two-step (recovery/re-sample) methodology, this paper proposes an strategy for reconstructing low-oversampled staggered data which improves the reconstruction of point-like targets while ensuring the best performance for distributed scatterers."
-    },
-    {
         "title": "Shielding effectiveness of log barriers for radio exclusion zones",
         "conferenceTitle": "The Loughborough Antennas & Propagation Conference (LAPC 2018)",
-        "Content Type": "Conferences",
-        "date": "12-13 Nov. 2018",
+        "data": "12-13 Nov. 2018",
         "authors": [
             "Wilson Conniott",
             "Joao R. Reis",
@@ -1193,10 +1136,22 @@
         "abstract": "This paper presents the development of new electromagnetic barriers based on wooden poles for application in electromagnetic site shielding. Exposure to electromagnetic radiation becomes a raising concern among the population worldwide, mostly due to the explosion of mobile technologies and services. A number of innovative and highly sustainable barriers made of circular section timber of low industrial processing, based on periodic structure of wooden poles that are stacked in a multi-layer configuration, while allowing visual transparency, is proposed. Immediate applications may be found in electromagnetic barriers that may be placed at intended radio exclusion zones in the [0.7, 2.5] GHz frequency range."
     },
     {
+        "title": "Directional modulation design based on crossed-dipole arrays for two signals with orthogonal polarisations",
+        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
+        "data": "9-13 April 2018",
+        "authors": [
+            "Bo Zhang",
+            "Wei Liu",
+            "Xiang Lan"
+        ],
+        "DOI": "10.1049/cp.2018.0428",
+        "citation": 4,
+        "abstract": "Directional modulation (DM) is a physical layer security technique based on antenna arrays and so far the polarisation information has not been considered in its designs. To increase the channel capacity, we consider exploiting the polarisation information and send two different signals simultaneously at the same direction, same frequency, but with different polarisations. These two signals can also be considered as one composite signal using the four dimensional (4-D) modulation scheme across the two polarisation diversity channels. In this paper, based on cross-dipole arrays, we formulate the design to find a set of common weight coefficients to achieve directional modulation for such a composite signal and examples are provided to verify the effectiveness of the proposed method."
+    },
+    {
         "title": "Characteristic modes analysis for the design of CubeSat antennas",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Francesco Alessio Dicandia",
             "Simone Genovesi",
@@ -1207,10 +1162,23 @@
         "abstract": "A preliminary study of the Characteristic Modes (CMs) of a CubeSat for designing an efficient radiation system is addressed in this work. In particular, the stimulation of a proper set of orthogonal current modes (Jn) supported by the CubeSat platform is investigated to achieve a broadside radiation pattern with a suitable maximum directivity and circular polarization (CP). Moreover, the possibility to scan the beam is explored by means of a multiple CMs excitation on the platform."
     },
     {
+        "title": "A framework for evaluation of cyber security challenges in smart cities",
+        "conferenceTitle": "​Smart Cities Symposium 2018",
+        "data": "22-23 April 2018",
+        "authors": [
+            "Mohammad Riyaz Belgaum",
+            "Zainab Alansari",
+            "Ruchin Jain",
+            "Jawdat Alshaer"
+        ],
+        "DOI": "10.1049/cp.2018.1372",
+        "citation": 4,
+        "abstract": "Cities are transforming to smart as various devices, technologies, services, connections, blocks, and storages are all readjusting to smart in contrast to the traditional ones. All such interconnected devices are said to be the Internet of Things (IoT) which grants the users a convenient life. At the same time, it leaves behind challenges to handle as these devices are loosely linked and the information is transmitted through the network. In this study, a review of various components forming a smart city with the challenges and factors influencing them are considered. A general objective of the study is to identify the different areas of smart city which are affected by cyber security challenges and find out the rank of each area. The data for this research is obtained from the questionnaire, experts' views and paired comparisons of the prior studies and by using the Fuzzy Analytic Hierarchy Process approach, find the weight of each factor and sub factor and their rank accordingly. Amongst the nine-factors, the \"Smart Security' factor with the weight of 0.198 is the most important, and the \"Smart Building\" factor with the weight of 0.058 is the least significant area influenced by cyber security challenges is smart cities."
+    },
+    {
         "title": "A technique for measuring the RCS of free-flying honeybees with a 24 GHz CW Doppler radar",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Herbert M. Aumann"
         ],
@@ -1221,8 +1189,7 @@
     {
         "title": "Design and optimization of compact array rectennas for harvesting wireless power",
         "conferenceTitle": "The Loughborough Antennas & Propagation Conference (LAPC 2018)",
-        "Content Type": "Conferences",
-        "date": "12-13 Nov. 2018",
+        "data": "12-13 Nov. 2018",
         "authors": [
             "Abdel Ghafour Abraray",
             "Telmo R. Fernandes",
@@ -1235,8 +1202,7 @@
     {
         "title": "Classification of the harmonic load types using multi-layer extreme learning machine",
         "conferenceTitle": "5th IET International Conference on Clean Energy and Technology (CEAT2018)",
-        "Content Type": "Conferences",
-        "date": "5-6 Sept. 2018",
+        "data": "5-6 Sept. 2018",
         "authors": [
             "S. Y. Wong",
             "K. S. Yapp",
@@ -1249,8 +1215,7 @@
     {
         "title": "An Effective Metaheuristic Algorithm for Intrusion Detection System",
         "conferenceTitle": "2018 IEEE International Conference on Smart Internet of Things (SmartIoT)",
-        "Content Type": "Conferences",
-        "date": "17-19 Aug. 2018",
+        "data": "17-19 Aug. 2018",
         "authors": [
             "Ze-Hong Chen",
             "Chun-Wei Tsai"
@@ -1262,8 +1227,7 @@
     {
         "title": "Design and Construction of an Automatic Transport System Inside the Home for People with Reduced Mobility",
         "conferenceTitle": "2018 International Conference on Information Systems and Computer Science (INCISCOS)",
-        "Content Type": "Conferences",
-        "date": "13-15 Nov. 2018",
+        "data": "13-15 Nov. 2018",
         "authors": [
             "Ronal Ponce",
             "Guillermo Mosquera Canchingre",
@@ -1277,8 +1241,7 @@
     {
         "title": "Roles and Impacts of Hands-on Software Architects in Five Industrial Case Studies",
         "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
+        "data": "27 May-3 June 2018",
         "authors": [
             "Inayat Rehman",
             "Mehdi Mirakhorli",
@@ -1293,8 +1256,7 @@
     {
         "title": "Microwave sensing of human hydration: Measurement repeatability",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "David C. Garrett",
             "Sarah Thorson",
@@ -1308,8 +1270,7 @@
     {
         "title": "On the capacity of asynchronous cooperative NOMA in multibeam satellite systems",
         "conferenceTitle": "36th International Communications Satellite Systems Conference (ICSSC 2018)",
-        "Content Type": "Conferences",
-        "date": "15-18 Oct. 2018",
+        "data": "15-18 Oct. 2018",
         "authors": [
             "Nazli Ahmad Khan Beigi",
             "Mohammad Reza Soleymani"
@@ -1321,8 +1282,7 @@
     {
         "title": "Carrier based PWM with harmonics injection for multiphase induction motor drive",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2018)",
-        "Content Type": "Conferences",
-        "date": "19-22 June 2018",
+        "data": "19-22 June 2018",
         "authors": [
             "Liu Dong",
             "Mi Chang-bao",
@@ -1336,8 +1296,7 @@
     {
         "title": "Half ellipsoid luneburg GRIN dielectric lens loaded double ridged horn antenna",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Karina Vieira Hoel",
             "Stein Kristoffersen",
@@ -1351,8 +1310,7 @@
     {
         "title": "Equalization filter design for achieving acoustic transparency in a semi-open fit hearing device",
         "conferenceTitle": "Speech Communication; 13th ITG-Symposium",
-        "Content Type": "Conferences",
-        "date": "10-12 Oct. 2018",
+        "data": "10-12 Oct. 2018",
         "authors": [
             "Florian Denk",
             "Henning Schepker",
@@ -1366,8 +1324,7 @@
     {
         "title": "An approach to the compensation of inaccuracies in near-field antenna measurements",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "A.B. Khashimov",
             "R.R. Salikhov"
@@ -1379,8 +1336,7 @@
     {
         "title": "Channel states information based spectrum sensing algorithm in satellite cognitive communication networks",
         "conferenceTitle": "36th International Communications Satellite Systems Conference (ICSSC 2018)",
-        "Content Type": "Conferences",
-        "date": "15-18 Oct. 2018",
+        "data": "15-18 Oct. 2018",
         "authors": [
             "Zhang Weizhong",
             "Yang Mingchuan",
@@ -1393,8 +1349,7 @@
     {
         "title": "Propagation measurements for device-to-device communication in forest terrain",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Johannes Hejselbæk",
             "Jesper Ødum Nielsen",
@@ -1409,8 +1364,7 @@
     {
         "title": "Aspect Level Opinion Mining for Hotel Reviews in Myanmar Language",
         "conferenceTitle": "2018 IEEE International Conference on Agents (ICA)",
-        "Content Type": "Conferences",
-        "date": "28-31 July 2018",
+        "data": "28-31 July 2018",
         "authors": [
             "Cho Cho Hnin",
             "Naw Naw",
@@ -1423,8 +1377,7 @@
     {
         "title": "Terahertz Electronics",
         "conferenceTitle": "2018 International Conference on Actual Problems of Electron Devices Engineering (APEDE)",
-        "Content Type": "Conferences",
-        "date": "27-28 Sept. 2018",
+        "data": "27-28 Sept. 2018",
         "authors": [
             "A.D. Grigoriev"
         ],
@@ -1435,8 +1388,7 @@
     {
         "title": "YOLO Approach in Digital Object Definition in Military Systems",
         "conferenceTitle": "2018 International Congress on Big Data, Deep Learning and Fighting Cyber Terrorism (IBIGDELFT)",
-        "Content Type": "Conferences",
-        "date": "3-4 Dec. 2018",
+        "data": "3-4 Dec. 2018",
         "authors": [
             "Recep Benzer",
             "Mithat Cagri Yildiz"
@@ -1448,8 +1400,7 @@
     {
         "title": "Assessment of the Water Budget from GLDAS Model",
         "conferenceTitle": "2018 Baltic Geodetic Congress (BGC Geomatics)",
-        "Content Type": "Conferences",
-        "date": "21-23 June 2018",
+        "data": "21-23 June 2018",
         "authors": [
             "Monika Birylo",
             "Zofia Rzepecka",
@@ -1462,8 +1413,7 @@
     {
         "title": "Optimized near field with an optimized controller",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Amedeo Capozzoli",
             "Laura Celentano",
@@ -1476,10 +1426,22 @@
         "abstract": "An optimized Near-Field antenna characterization is presented based on an optimized number and distribution of the sampling points and on an optimized controller able to exploit the performance of the scanning system. Indeed, to take full advantage of the optimized sampling grid and to reduce the measurement time, a Proportional-Integral-Derivative (PID) control system with an appropriate compensation signal has been developed to drive the Near-Field scanner and to follow a general trajectory traversing the samples arranged on a raster grid. The performance of the control system is experimentally assessed by a comparison with a standard approach."
     },
     {
+        "title": "Dual circularly polarized antennas with low cross-polarization for GNSS-R applications",
+        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
+        "data": "9-13 April 2018",
+        "authors": [
+            "Yan Jia",
+            "Gianluca Dassano",
+            "Patrizia Savi"
+        ],
+        "DOI": "10.1049/cp.2018.0904",
+        "citation": 3,
+        "abstract": "Global Navigation Satellite System-Reflectometry (GNSS-R), has gained increasing interests as an efficient tool for remote sensing. It is based on the concept of utilizing the received signals reflected from the Earth's surface. Several GNSS-R system configurations were proposed depending on different retrieval algorithms. In a GNSS-R system, the antenna plays a key role as a receiving component. In this paper, in-situ measurements using a commercial dual circular polarized antenna receiving both the left-hand and right-hand circular polarization reflected from the ground are analyzed. A low cost and compact dual-port circular polarized patch antenna is designed and realized to overcome the limitations of the previous configuration. The prototype shows a low level of cross polarization suitable for GNSS-R application."
+    },
+    {
         "title": "Predicting near-time satellite signal attenuation at Ka-band using tropospheric weather forecast model",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Knut Grythe",
             "Lars Erling Bråten",
@@ -1493,8 +1455,7 @@
     {
         "title": "Influence of system aspects in propagation based evaluation of beam-forming at mm-waves",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Diego Dupleich",
             "Eric Schäfer",
@@ -1508,8 +1469,7 @@
     {
         "title": "Long-term and short-term atmospheric impairments forecasting for high throughput satellite communication systems",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Charilaos Kourogiorgas",
             "Apostolos Z. Papafragkakis",
@@ -1521,10 +1481,23 @@
         "abstract": "In this paper, three different methodologies are employed for the prediction of atmospheric attenuation for the performance evaluation of High Throughput Satellite Communication systems. The first one is based on numerical weather predictions and in particular the ECMWF forecasts that uses high resolution deterministic forecast and the probabilistic forecasts the perturbated products. The second methodology is based machine learning algorithms, which are advanced statistical methods. The two algorithms tested in this study are the random forest and the gradient boosting, both based on regression trees. Finally, the last method that is employed is the recurrent neural networks and in particular the Long Short Term Memory. These neural networks are used for the prediction of time series using memory blocks. All the algorithms are tested using data from the ALPHASAT experiment at Chilbolton and Chilton, UK. The obtained results are very encouraging."
     },
     {
+        "title": "Artificial intelligence enabled IoT: Traffic congestion reduction in smart cities",
+        "conferenceTitle": "​Smart Cities Symposium 2018",
+        "data": "22-23 April 2018",
+        "authors": [
+            "Safeeullah Soomro",
+            "Mahdi H. Miraz",
+            "Anupama Prasanth",
+            "Mirza Abdullah"
+        ],
+        "DOI": "10.1049/cp.2018.1381",
+        "citation": 3,
+        "abstract": "The world has now entered in a new era of Computing, blessed with many prominent technologies including Artificial Intelligence (AI) and Internet of Things (IoT). In an IoT world, sensor enabled objects (things) are connected together via the Internet to participate in performing a particular task mainly by sending and receiving data from one to other. Artificial intelligence empowers agents (machines or devices) to perceive the surrounding environments leading to take calculative decisions, followed by performing efficient actions in order to maximizing the chances of successfully accomplishing a desired task or goal. In this research, we combine both IoT and AI to reduce traffic congestions in a smart city environment. A detailed literature review has been conducted and a simple solution based on AI Algorithm has been proposed. Future directions of the research has also been identified and advocated."
+    },
+    {
         "title": "Comparison and Optimization of the Minimum Supply Voltage of Schmitt Trigger Gates versus CMOS Gates under Process Variations",
         "conferenceTitle": "ANALOG 2018; 16th GMM/ITG-Symposium",
-        "Content Type": "Conferences",
-        "date": "13-14 Sept. 2018",
+        "data": "13-14 Sept. 2018",
         "authors": [
             "Alexander Bleitner",
             "Jacob Goeppert",
@@ -1537,22 +1510,9 @@
         "abstract": "This paper presents an in-depth discussion of the limitations of operating digital CMOS circuits at minimum supply voltages. Subsequently, Schmitt Trigger based CMOS circuits and their design methodology are discussed which allow the use of minimum supply voltages lower than standard CMOS circuits. Measurements performed on a benchmark circuit implemented in two different process technologies verify the proposed design methodology."
     },
     {
-        "title": "Recent Technologies on Multicore EDFA",
-        "conferenceTitle": "2018 IEEE Photonics Society Summer Topical Meeting Series (SUM)",
-        "Content Type": "Conferences",
-        "date": "9-11 July 2018",
-        "authors": [
-            "Ryuichi Sugizaki"
-        ],
-        "DOI": "10.1109/PHOSST.2018.8456804",
-        "citation": 3,
-        "abstract": "MC-EDFA is expected as one of the key component for SDM systems. Its possibilities and abilities to enable high-capacity, low power consumption and cost reduction are summarized. Also, recent reports utilizing MC-EDFA are introduced."
-    },
-    {
         "title": "New antenna design concept for future generation wireless communication systems",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "G. Gottardi",
             "G. Oliveri",
@@ -1565,8 +1525,7 @@
     {
         "title": "A digitally tuned reconfigurable semi-bowtie antenna for IoT devices",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "F. A. Asadallah",
             "J. Costantine",
@@ -1579,8 +1538,7 @@
     {
         "title": "Evidence-Based Risk Management for Civil Engineering Projects Using Bayesian Belief Networks (BBN)",
         "conferenceTitle": "2018 Baltic Geodetic Congress (BGC Geomatics)",
-        "Content Type": "Conferences",
-        "date": "21-23 June 2018",
+        "data": "21-23 June 2018",
         "authors": [
             "Agata Siemaszko",
             "Beata Grzyl",
@@ -1593,8 +1551,7 @@
     {
         "title": "Open Source Automatic Speech Recognition for German",
         "conferenceTitle": "Speech Communication; 13th ITG-Symposium",
-        "Content Type": "Conferences",
-        "date": "10-12 Oct. 2018",
+        "data": "10-12 Oct. 2018",
         "authors": [
             "Benjamin Milde",
             "Arne Koehn"
@@ -1606,8 +1563,7 @@
     {
         "title": "Two-stage robust operation for islanded multi-energy micro-grids",
         "conferenceTitle": "The 11th IET International Conference on Advances in Power System Control, Operation and Management (APSCOM 2018)",
-        "Content Type": "Conferences",
-        "date": "11-15 Nov. 2018",
+        "data": "11-15 Nov. 2018",
         "authors": [
             "Cuo Zhang",
             "Zhao Yang Dong",
@@ -1618,24 +1574,26 @@
         "abstract": "An islanded multi-energy micro-grid (MEMG) can simultaneously support electric and thermal energy to customers. To deal with uncertainty issues caused by uncertain renewable power generation and loads, this paper proposes a two-stage robust operation approach for islanded MEMGs which coordinates diesel generators, combined heat and power plants with auxiliary boilers and thermal energy storage units in two operation stages, i.e. daily and hourly operation. The first-stage daily operation is optimized with the consideration of the second-stage hourly operation and the second-stage hourly operation is to compensate the first-stage operation, aiming to supply reliable and sufficient electric and thermal energy to customers in islanded MEMGs. This paper applies a robust optimization method, where the uncertainties are fully taken into account, to solve the proposed two-stage operation problem. The proposed two-stage robust operation approach is tested through Monte Carlo feasibility checks. The results show high operating robustness of the proposed approach for islanded MEMGs."
     },
     {
-        "title": "Directional modulation design based on crossed-dipole arrays for two signals with orthogonal polarisations",
-        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "title": "Balancing services business use case development for TSO-DSO interoperability demonstration",
+        "conferenceTitle": "Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2018)",
+        "data": "12-15 Nov. 2018",
         "authors": [
-            "Bo Zhang",
-            "Wei Liu",
-            "Xiang Lan"
+            "Hugo Morais",
+            "Belén Goncer",
+            "Jérôme Cantenot",
+            "Eric Lambert",
+            "Gareth Taylor",
+            "Andrej Souvent",
+            "Nermin Suljanovic"
         ],
-        "DOI": "10.1049/cp.2018.0428",
+        "DOI": "10.1049/cp.2018.1889",
         "citation": 3,
-        "abstract": "Directional modulation (DM) is a physical layer security technique based on antenna arrays and so far the polarisation information has not been considered in its designs. To increase the channel capacity, we consider exploiting the polarisation information and send two different signals simultaneously at the same direction, same frequency, but with different polarisations. These two signals can also be considered as one composite signal using the four dimensional (4-D) modulation scheme across the two polarisation diversity channels. In this paper, based on cross-dipole arrays, we formulate the design to find a set of common weight coefficients to achieve directional modulation for such a composite signal and examples are provided to verify the effectiveness of the proposed method."
+        "abstract": "This paper introduces the emerging needs to strengthen the collaboration between transmission system operators (TSOs) and distribution system operators (DSOs) describing a methodology to investigate new TSO-DSO interactions. This methodology is based on Business Use Case (BUC) development, in accordance with standards IEC 62559 (Use case methodology) and IEC 62913-1 (Generic smart grids requirements). The proposed methodology is applied to the BUC “Activation of DSO-connected resources for balancing purposes in market environment” and the result is presented in the paper."
     },
     {
         "title": "Uncalibrated differential drive visual line follower automatic vehicle",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2018)",
-        "Content Type": "Conferences",
-        "date": "19-22 June 2018",
+        "data": "19-22 June 2018",
         "authors": [
             "Ahmed Mohi Eldin Abdelkafi",
             "Shaoping Wang"
@@ -1647,8 +1605,7 @@
     {
         "title": "Buck-boost converter with q-ZSC topology",
         "conferenceTitle": "5th IET International Conference on Clean Energy and Technology (CEAT2018)",
-        "Content Type": "Conferences",
-        "date": "5-6 Sept. 2018",
+        "data": "5-6 Sept. 2018",
         "authors": [
             "M. Ado",
             "A. Jusoh",
@@ -1663,8 +1620,7 @@
     {
         "title": "Active gate driver for crosstalk suppression of GaN devices in aviation bridge inverter",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2018)",
-        "Content Type": "Conferences",
-        "date": "19-22 June 2018",
+        "data": "19-22 June 2018",
         "authors": [
             "Yang Zhou",
             "Xiaofeng Ding",
@@ -1675,25 +1631,9 @@
         "abstract": "Due to the inherent defects in the pneumatic and hydraulic systems, the More Electric Aircraft (MEA) has become a trend in the future development of the aircraft. With the rapid increase of the power of airborne equipment and the limit of weight and volume, the traditional silicon based power devices cannot meet the needs of MEA. Gallium nitride (GaN) power devices have become one of the most promising devices for aviation inverter power due to their advantages of high efficiency, high frequency and high power density. However, when GaN device works in high frequency, the dv/dt and di/dt slopes increased due to stray inductances and parasitic capacitances, which lead to oscillations and overshoots in gate-source voltage and affect the stability of driving circuits. Especially in aviation inverter, crosstalk between GaN power device in bridge circuits severely limits the performance of the inverter and poses a challenge to the safety of aircraft power systems. In order to solve the short-circuit of bridge arms caused by crosstalk in the aircraft power supply system, an improved design of gate driving circuit was proposed, which can eliminate the parasitic oscillation and voltage spikes, suppress crosstalk and higher order harmonics effectively. In addition, a double pulse test prototype is built and the simulation and experimental results verify the effectiveness of this drive circuit. Therefore, applying this driving circuit to the aircraft DC-DC can effectively improve the reliability and robustness of the aviation GaN inverter."
     },
     {
-        "title": "A framework for evaluation of cyber security challenges in smart cities",
-        "conferenceTitle": "​Smart Cities Symposium 2018",
-        "Content Type": "Conferences",
-        "date": "22-23 April 2018",
-        "authors": [
-            "Mohammad Riyaz Belgaum",
-            "Zainab Alansari",
-            "Ruchin Jain",
-            "Jawdat Alshaer"
-        ],
-        "DOI": "10.1049/cp.2018.1372",
-        "citation": 3,
-        "abstract": "Cities are transforming to smart as various devices, technologies, services, connections, blocks, and storages are all readjusting to smart in contrast to the traditional ones. All such interconnected devices are said to be the Internet of Things (IoT) which grants the users a convenient life. At the same time, it leaves behind challenges to handle as these devices are loosely linked and the information is transmitted through the network. In this study, a review of various components forming a smart city with the challenges and factors influencing them are considered. A general objective of the study is to identify the different areas of smart city which are affected by cyber security challenges and find out the rank of each area. The data for this research is obtained from the questionnaire, experts' views and paired comparisons of the prior studies and by using the Fuzzy Analytic Hierarchy Process approach, find the weight of each factor and sub factor and their rank accordingly. Amongst the nine-factors, the \"Smart Security' factor with the weight of 0.198 is the most important, and the \"Smart Building\" factor with the weight of 0.058 is the least significant area influenced by cyber security challenges is smart cities."
-    },
-    {
         "title": "Fast RCS prediction of electrically large targets coated with radar absorbing materials",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Michele Borgese",
             "Pierpaolo Usai",
@@ -1707,8 +1647,7 @@
     {
         "title": "Design of double stator slotted rotor for large ceiling fan application",
         "conferenceTitle": "5th IET International Conference on Clean Energy and Technology (CEAT2018)",
-        "Content Type": "Conferences",
-        "date": "5-6 Sept. 2018",
+        "data": "5-6 Sept. 2018",
         "authors": [
             "N. Abdullah",
             "R.N. Firdaus",
@@ -1722,24 +1661,9 @@
         "abstract": "The large ceiling fan is often attribute to the weather which is environmentally warm and humid conditions. Usually, IM has low starting torque compared to other DC motor. But IM need to be attached with the gear mounted on the ceiling to reduce the speed. This contributes to the main problem of this application which is noise and vibration due to gear. In this research, the aim is to design a BLDC motor with of Double Stator Slotted Rotor Brushless DC Motor (DSSR-BLDC) topology to overcome the problem occurs in large ceiling fan application. Initially, DSSR-BLDC is designed using Permeance Analysis Method (PAM) to determine the motor sizing. By using PAM, the magnetic flux is calculated using magnetic circuit and mathematical modelling based on the direction of flux which flows in stator, rotor and air gaps. Secondly, the DSSR-BLDC model is analyze using Finite Element Method (FEM) to predict the back emf (BEMF), static torque and the transient torque. The result shows the DSSR-BLDC is able to produce 45 Nm of torques and fulfill the design restrictions. Finally, this research provides an overview of designing DSSR-BLDC for large ceiling fan application."
     },
     {
-        "title": "Security Applications with Synthetic Aperture Radar (SAR) Systems",
-        "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
-        "authors": [
-            "Emre Kalender",
-            "Goerkem Guerer",
-            "Erman Anadol"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "SAR systems meet the demanding needs of security applications with SAR/GMTI output information. Outputs of SAR systems are need to be improved via advanced post-processing techniques for applications such as moving target (e.g. vehicle, pedestrian) and threat activity detection on ground. Firstly, advanced clutter suppression techniques to improve GMTI detection performance are studied. Secondly, ground-placed wire detection is observed both with airborne and ground-based SAR systems. Lastly, threat activity detection on terrain with airborne SAR is presented. The data used within this paper are acquired with SARPER (exp TM) Airborne SAR System and experimental ground-based SAR system, both developed by ASELSAN."
-    },
-    {
         "title": "On the theory of propagation of electromagnetic waves in a regular waveguide filled with multi periodic modulated medium",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "E.A. Gevorkyan"
         ],
@@ -1750,8 +1674,7 @@
     {
         "title": "A data mining approach to predict undergraduate students' performance",
         "conferenceTitle": "2018 13th Iberian Conference on Information Systems and Technologies (CISTI)",
-        "Content Type": "Conferences",
-        "date": "13-16 June 2018",
+        "data": "13-16 June 2018",
         "authors": [
             "Maria P. G. Martins",
             "Vera L. Migueis",
@@ -1764,8 +1687,7 @@
     {
         "title": "UHF and S-band antenna arrays for nano-satellite-based data-relay",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Juner M. Vieira",
             "Eduardo Yoshimoto",
@@ -1780,8 +1702,7 @@
     {
         "title": "Design of filter-horn antenna based on groove gap waveguide technology for V-band application",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "H. Oraizi",
             "M. Hamedani",
@@ -1795,8 +1716,7 @@
     {
         "title": "Channel characterisation at THz frequencies for high data rate indoor communications",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Xavier Raimundo",
             "Maryam Hajji",
@@ -1812,8 +1732,7 @@
     {
         "title": "Simulation of terahertz intrabody wireless nano sensor networks in the presence of noise and interference",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Ratna Indrawijaya",
             "Thomas Kürner"
@@ -1825,8 +1744,7 @@
     {
         "title": "A modified contrast source inversion method for the synthesis of innovative dielectric devices",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Roberta Palmeri",
             "Martina Teresa Bevacqua",
@@ -1840,8 +1758,7 @@
     {
         "title": "Dual-redundancy sensor fault diagnosis of fuel metering unit based on real-time residual window",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2018)",
-        "Content Type": "Conferences",
-        "date": "19-22 June 2018",
+        "data": "19-22 June 2018",
         "authors": [
             "Yang Zhang",
             "Shaoping Wang"
@@ -1853,8 +1770,7 @@
     {
         "title": "Poster: Efficient GUI Test Generation by Learning from Tests of Other Apps",
         "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering: Companion (ICSE-Companion)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
+        "data": "27 May-3 June 2018",
         "authors": [
             "Andreas Rau",
             "Jenny Hotzkow",
@@ -1867,8 +1783,7 @@
     {
         "title": "Assessment on the bandwidth of artificial magnetic conductors for antenna-on-chip applications",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "A.J. van den Biggelaar",
             "U. Johannsen",
@@ -1881,8 +1796,7 @@
     {
         "title": "Thermal state analysis on bundled overhead line conductors",
         "conferenceTitle": "Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2018)",
-        "Content Type": "Conferences",
-        "date": "12-15 Nov. 2018",
+        "data": "12-15 Nov. 2018",
         "authors": [
             "Shahnurriman Abdul Rahman",
             "Konstantinos Kopsidas"
@@ -1894,8 +1808,7 @@
     {
         "title": "Enabling full-duplex in a wideband indoor base-station using low-complex antenna selection",
         "conferenceTitle": "The Loughborough Antennas & Propagation Conference (LAPC 2018)",
-        "Content Type": "Conferences",
-        "date": "12-13 Nov. 2018",
+        "data": "12-13 Nov. 2018",
         "authors": [
             "Nidal Zarifeh",
             "Mai Alissa",
@@ -1909,8 +1822,7 @@
     {
         "title": "Study of an Electromagnetic Damping Actuator",
         "conferenceTitle": "ACTUATOR 2018; 16th International Conference on New Actuators",
-        "Content Type": "Conferences",
-        "date": "25-27 June 2018",
+        "data": "25-27 June 2018",
         "authors": [
             "M. Parekh",
             "J. Magnusson",
@@ -1923,8 +1835,7 @@
     {
         "title": "Investigation of a Special Transformer Winding Model for the Interpretation of FRA Measurements",
         "conferenceTitle": "VDE High Voltage Technology 2018; ETG-Symposium",
-        "Content Type": "Conferences",
-        "date": "12-14 Nov. 2018",
+        "data": "12-14 Nov. 2018",
         "authors": [
             "Sahand Seifi",
             "Peter Werle",
@@ -1939,8 +1850,7 @@
     {
         "title": "Review of magnetic resonance technology, recent research trends and issues in EV wireless charging",
         "conferenceTitle": "The 11th IET International Conference on Advances in Power System Control, Operation and Management (APSCOM 2018)",
-        "Content Type": "Conferences",
-        "date": "11-15 Nov. 2018",
+        "data": "11-15 Nov. 2018",
         "authors": [
             "K. W. K. Chen",
             "K. W. E. Cheng"
@@ -1952,8 +1862,7 @@
     {
         "title": "Reduction of switching transients in CC/CV mode of electric vehicles battery charging",
         "conferenceTitle": "5th IET International Conference on Clean Energy and Technology (CEAT2018)",
-        "Content Type": "Conferences",
-        "date": "5-6 Sept. 2018",
+        "data": "5-6 Sept. 2018",
         "authors": [
             "Sweety Arora",
             "Mukesh Singh"
@@ -1965,8 +1874,7 @@
     {
         "title": "PCB-Embedding for GaN-on-Si Power Devices and ICs",
         "conferenceTitle": "CIPS 2018; 10th International Conference on Integrated Power Electronics Systems",
-        "Content Type": "Conferences",
-        "date": "20-22 March 2018",
+        "data": "20-22 March 2018",
         "authors": [
             "Richard Reiner",
             "Beatrix Weiss",
@@ -1984,8 +1892,7 @@
     {
         "title": "The Robotic Service Assistant - Relieving the Nursing Staff of Workload",
         "conferenceTitle": "ISR 2018; 50th International Symposium on Robotics",
-        "Content Type": "Conferences",
-        "date": "20-21 June 2018",
+        "data": "20-21 June 2018",
         "authors": [
             "Simon Baumgarten",
             "Theo Jacobs",
@@ -1998,8 +1905,7 @@
     {
         "title": "Rateless codes for satellite systems over rain fading channels",
         "conferenceTitle": "36th International Communications Satellite Systems Conference (ICSSC 2018)",
-        "Content Type": "Conferences",
-        "date": "15-18 Oct. 2018",
+        "data": "15-18 Oct. 2018",
         "authors": [
             "Satya Chan",
             "Meixiang Zhang",
@@ -2013,8 +1919,7 @@
     {
         "title": "Design and parameter optimization of a three-claw underastatctuated gripper",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2018)",
-        "Content Type": "Conferences",
-        "date": "19-22 June 2018",
+        "data": "19-22 June 2018",
         "authors": [
             "Yisen Wang",
             "Hu Shi",
@@ -2028,8 +1933,7 @@
     {
         "title": "Impacts of large-scale solar photovoltaic generation on power system frequency response",
         "conferenceTitle": "5th IET International Conference on Clean Energy and Technology (CEAT2018)",
-        "Content Type": "Conferences",
-        "date": "5-6 Sept. 2018",
+        "data": "5-6 Sept. 2018",
         "authors": [
             "Khaldon Ahmed Qaid",
             "Chin Kim Gan",
@@ -2043,8 +1947,7 @@
     {
         "title": "TOA estimation algorithms evaluated according ED-117 minimum operational performance specifications for Mode S multilateration systems",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Stephan Bernhart",
             "Gerhard A. Hofbauer",
@@ -2058,8 +1961,7 @@
     {
         "title": "Highly portable software defined radio test bed for dual band propagation studies",
         "conferenceTitle": "The Loughborough Antennas & Propagation Conference (LAPC 2018)",
-        "Content Type": "Conferences",
-        "date": "12-13 Nov. 2018",
+        "data": "12-13 Nov. 2018",
         "authors": [
             "D P Wright",
             "E A Ball"
@@ -2071,8 +1973,7 @@
     {
         "title": "Cryogenic 1.2 to 116 GHz receiver for large arrays",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Sander Weinreb",
             "Hamdi Mani",
@@ -2089,8 +1990,7 @@
     {
         "title": "Directional coupler with 3 input / 3 output square waveguide dual-polarization ports",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "A. Morini",
             "M. Baldelli",
@@ -2106,8 +2006,7 @@
     {
         "title": "Boundary extraction enhanced inverse scattering method for microwave mammography",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Kazuki Noritake",
             "Shouhei Kidera"
@@ -2119,8 +2018,7 @@
     {
         "title": "Optimal placement and sizing of distributed generation based on MVMO-SH",
         "conferenceTitle": "5th IET International Conference on Clean Energy and Technology (CEAT2018)",
-        "Content Type": "Conferences",
-        "date": "5-6 Sept. 2018",
+        "data": "5-6 Sept. 2018",
         "authors": [
             "N. Md Saad",
             "M. Z. Sujod",
@@ -2135,8 +2033,7 @@
     {
         "title": "A deceptive jamming suppression approach for SAR imaging using frequency diverse array",
         "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "data": "4-7 June 2018",
         "authors": [
             "Chenchen Lin",
             "Puming Huang",
@@ -2149,8 +2046,7 @@
     {
         "title": "A New Approach for Motion Estimation and Correction of Thermographic Images in Brain Surgery",
         "conferenceTitle": "CNNA 2018; The 16th International Workshop on Cellular Nanoscale Networks and their Applications",
-        "Content Type": "Conferences",
-        "date": "28-30 Aug. 2018",
+        "data": "28-30 Aug. 2018",
         "authors": [
             "Yahya Moshaei-Nezhad",
             "Jens Mueller",
@@ -2164,8 +2060,7 @@
     {
         "title": "Quality of Experience Estimation for WebRTC-based Video Streaming",
         "conferenceTitle": "European Wireless 2018; 24th European Wireless Conference",
-        "Content Type": "Conferences",
-        "date": "2-4 May 2018",
+        "data": "2-4 May 2018",
         "authors": [
             "Yevgeniya Sulema",
             "Noam Amram",
@@ -2177,24 +2072,9 @@
         "abstract": "Enabling high Quality of experience (QoE) for video streaming, which accounts for a large and increasing percentage of wireless traffic, anywhere and anytime is a challenging task for relatively new Web Real-Time Communication (WebRTC) protocols as well as for service providers and it triggers broad exploration of this area. In this paper, we present our experience in running experiments for estimation of QoE for a WebRTC video stream in Mobile Broadband (MBB) networks based on Quality of Service (QoS) measurements. For majority of our experiments we exploited the MONROE platform, which is the first open access platform that gives access to several hundreds of nodes for large-scale experiments in commercial MBB in Europe. For analysis of obtained QoS measurements we used a combination of subjective quality assessment and a machine learning approach."
     },
     {
-        "title": "Dual circularly polarized antennas with low cross-polarization for GNSS-R applications",
-        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
-        "authors": [
-            "Yan Jia",
-            "Gianluca Dassano",
-            "Patrizia Savi"
-        ],
-        "DOI": "10.1049/cp.2018.0904",
-        "citation": 2,
-        "abstract": "Global Navigation Satellite System-Reflectometry (GNSS-R), has gained increasing interests as an efficient tool for remote sensing. It is based on the concept of utilizing the received signals reflected from the Earth's surface. Several GNSS-R system configurations were proposed depending on different retrieval algorithms. In a GNSS-R system, the antenna plays a key role as a receiving component. In this paper, in-situ measurements using a commercial dual circular polarized antenna receiving both the left-hand and right-hand circular polarization reflected from the ground are analyzed. A low cost and compact dual-port circular polarized patch antenna is designed and realized to overcome the limitations of the previous configuration. The prototype shows a low level of cross polarization suitable for GNSS-R application."
-    },
-    {
         "title": "Improving 9-150 kHz EMI Performance of Single-Phase PFC Rectifier",
         "conferenceTitle": "CIPS 2018; 10th International Conference on Integrated Power Electronics Systems",
-        "Content Type": "Conferences",
-        "date": "20-22 March 2018",
+        "data": "20-22 March 2018",
         "authors": [
             "Pooya Davari",
             "Frede Blaabjerg",
@@ -2208,8 +2088,7 @@
     {
         "title": "Does the Propagation of Artifact Changes Across Tasks Reflect Work Dependencies?",
         "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
+        "data": "27 May-3 June 2018",
         "authors": [
             "Christoph Mayr-Dorn",
             "Alexander Egyed"
@@ -2219,25 +2098,9 @@
         "abstract": "Developers commonly define tasks to help coordinate software development efforts--whether they be feature implementation, refactoring, or bug fixes. Developers establish links between tasks to express implicit dependencies that needs explicit handling--dependencies that often require the developers responsible for a given task to assess how changes in a linked task affect their own work and vice versa (i.e., change propagation). While seemingly useful, it is unknown if change propagation indeed coincides with task links. No study has investigated to what extent change propagation actually occurs between task pairs and whether it is able to serve as a metric for characterizing the underlying task dependency. In this paper, we study the temporal relationship between developer reading and changing of source code in relationship to task links. We identify seven situations that explain the varying correlation of change propagation with linked task pairs and find six motifs describing when change propagation occurs between non-linked task pairs. Our paper demonstrates that task links are indeed useful for recommending which artifacts to monitor for changes, which developers to involve in a task, or which tasks to inspect."
     },
     {
-        "title": "Artificial intelligence enabled IoT: Traffic congestion reduction in smart cities",
-        "conferenceTitle": "​Smart Cities Symposium 2018",
-        "Content Type": "Conferences",
-        "date": "22-23 April 2018",
-        "authors": [
-            "Safeeullah Soomro",
-            "Mahdi H. Miraz",
-            "Anupama Prasanth",
-            "Mirza Abdullah"
-        ],
-        "DOI": "10.1049/cp.2018.1381",
-        "citation": 2,
-        "abstract": "The world has now entered in a new era of Computing, blessed with many prominent technologies including Artificial Intelligence (AI) and Internet of Things (IoT). In an IoT world, sensor enabled objects (things) are connected together via the Internet to participate in performing a particular task mainly by sending and receiving data from one to other. Artificial intelligence empowers agents (machines or devices) to perceive the surrounding environments leading to take calculative decisions, followed by performing efficient actions in order to maximizing the chances of successfully accomplishing a desired task or goal. In this research, we combine both IoT and AI to reduce traffic congestions in a smart city environment. A detailed literature review has been conducted and a simple solution based on AI Algorithm has been proposed. Future directions of the research has also been identified and advocated."
-    },
-    {
         "title": "Waveform-Encoded SAR: A Novel Concept for Nadir Echo and Range Ambiguity Suppression",
         "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "data": "4-7 June 2018",
         "authors": [
             "Michelangelo Villano",
             "Gerhard Krieger",
@@ -2250,8 +2113,7 @@
     {
         "title": "Dual-user massive MIMO measurements at 3.5GHz with bi-directional angular discrimination",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Anders Karstensen",
             "Jesper Ø. Nielsen",
@@ -2267,8 +2129,7 @@
     {
         "title": "Adaption Rule for Simultaneous Use of Smart Urban Objects from a Fairness Perspective",
         "conferenceTitle": "2018 IEEE 20th Conference on Business Informatics (CBI)",
-        "Content Type": "Conferences",
-        "date": "11-14 July 2018",
+        "data": "11-14 July 2018",
         "authors": [
             "Marvin Hubl"
         ],
@@ -2279,8 +2140,7 @@
     {
         "title": "Experimental evaluation of a high gain dual-band beam steerable transmit-array",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Sérgio A. Matos",
             "Eduardo B. Lima",
@@ -2295,8 +2155,7 @@
     {
         "title": "The Effect of Topography on SCORE: an Investigation Based on Simulated Spaceborne Multichannel SAR Data",
         "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "data": "4-7 June 2018",
         "authors": [
             "Federica Bordoni",
             "Marc Rodriguez-Cassola",
@@ -2310,8 +2169,7 @@
     {
         "title": "State propagation channel model for 2 GHz UAV links in cluttered environment",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Jan Zeleny",
             "Milan Kvicera",
@@ -2326,8 +2184,7 @@
     {
         "title": "Analysis of fade dynamics in site diversity system in Slovenia",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Arsim Kelmendi",
             "Gorazd Kandus",
@@ -2341,8 +2198,7 @@
     {
         "title": "Coordinated Resource Allocation Scheme for 5G Direct Air-to-Ground Communication",
         "conferenceTitle": "European Wireless 2018; 24th European Wireless Conference",
-        "Content Type": "Conferences",
-        "date": "2-4 May 2018",
+        "data": "2-4 May 2018",
         "authors": [
             "Michal Vondra",
             "Ergin Dinc",
@@ -2355,8 +2211,7 @@
     {
         "title": "Dynamic Self-Adaptive Chaotic Particle Swarm Optimization Algorithm in Optimal Control of Public Transit Priority Traffic Signal",
         "conferenceTitle": "2018 10th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)",
-        "Content Type": "Conferences",
-        "date": "25-26 Aug. 2018",
+        "data": "25-26 Aug. 2018",
         "authors": [
             "Xueyan Li",
             "Daming Li"
@@ -2368,8 +2223,7 @@
     {
         "title": "Measurement based ultra-wideband channel model for mobile communications in tunnels",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Andrej Hrovat",
             "Klemen Bregar",
@@ -2382,8 +2236,7 @@
     {
         "title": "Highly flexible strain sensor based on pop up dipole antenna for on-body applications",
         "conferenceTitle": "The Loughborough Antennas & Propagation Conference (LAPC 2018)",
-        "Content Type": "Conferences",
-        "date": "12-13 Nov. 2018",
+        "data": "12-13 Nov. 2018",
         "authors": [
             "Shaghayegh Soltani",
             "John C Batchelor"
@@ -2395,8 +2248,7 @@
     {
         "title": "On Applying Pareto Optimization for Complete Performance Space Modeling of Analog ICs",
         "conferenceTitle": "ANALOG 2018; 16th GMM/ITG-Symposium",
-        "Content Type": "Conferences",
-        "date": "13-14 Sept. 2018",
+        "data": "13-14 Sept. 2018",
         "authors": [
             "David Schreiber",
             "Juergen Kampe"
@@ -2408,8 +2260,7 @@
     {
         "title": "Design and simulation of single-axis and dual-axis solar tracking systems",
         "conferenceTitle": "7th Brunei International Conference on Engineering and Technology 2018 (BICET 2018)",
-        "Content Type": "Conferences",
-        "date": "12-14 Nov. 2018",
+        "data": "12-14 Nov. 2018",
         "authors": [
             "Abdul Hadi Mohaimin",
             "M. Rakib Uddin",
@@ -2422,28 +2273,9 @@
         "abstract": "Solar panel facing the sun generates the highest power available. This paper provides a method on how a single-axis and dual-axis solar tracking method can be performed through a technique by tracking the sun according to the sun's irradiation. Two LDR sensors and a motor is used for single-axis tracking system and 4 LDR sensors and 2 motors for dual-axis tracking system. Voltage and current readings from the solar panel rated 7.5 V have been rescaled usingvoltage divider circuit. The readings are then calculated by the microcontroller and have been displayed to a Display (GLCD). All simulation experiments have been tested using commercially-available Proteus simulation software. Measurement of voltage, current, and power calculated and recorded by the microcontroller are accurate with about 1.4% error. The system operations were successful whereby the software programming when connected to an actual circuit will be able to track the sun by the sun's light intensity."
     },
     {
-        "title": "Balancing services business use case development for TSO-DSO interoperability demonstration",
-        "conferenceTitle": "Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2018)",
-        "Content Type": "Conferences",
-        "date": "12-15 Nov. 2018",
-        "authors": [
-            "Hugo Morais",
-            "Belén Goncer",
-            "Jérôme Cantenot",
-            "Eric Lambert",
-            "Gareth Taylor",
-            "Andrej Souvent",
-            "Nermin Suljanovic"
-        ],
-        "DOI": "10.1049/cp.2018.1889",
-        "citation": 2,
-        "abstract": "This paper introduces the emerging needs to strengthen the collaboration between transmission system operators (TSOs) and distribution system operators (DSOs) describing a methodology to investigate new TSO-DSO interactions. This methodology is based on Business Use Case (BUC) development, in accordance with standards IEC 62559 (Use case methodology) and IEC 62913-1 (Generic smart grids requirements). The proposed methodology is applied to the BUC “Activation of DSO-connected resources for balancing purposes in market environment” and the result is presented in the paper."
-    },
-    {
         "title": "Circular and Polarimetric ISAR Imaging of Ships Using Airborne SAR Sensors",
         "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "data": "4-7 June 2018",
         "authors": [
             "Stefan V. Baumgartner"
         ],
@@ -2452,10 +2284,23 @@
         "abstract": "With circular flight tracks ships can be observed over the full aspect angle range of 360deg with long observation times limited only by the endurance of the aircraft. Additionally to the improved probability of detection an inverse synthetic aperture radar (ISAR) image sequence of the ships as well as a sequence of high range resolution profiles (HRRP) can be obtained. The ISAR images and HRRPs can be used for target classification and recognition purposes in a post-processing step. In the paper a generic ISAR processing chain is discussed which can be used for ISAR imaging and HRRP generation for arbitrary radar platform flight tracks. Furthermore, polarimetric ISAR imaging results of a controlled police ship and of ships of opportunity are presented. The used fully polarimetric X- and L-band radar data were simultaneously acquired with DLR's airborne sensor F-SAR [9] during a North Sea flight campaign in 2016."
     },
     {
+        "title": "Millimeter-wave substrate-integrated waveguide based leaky-wave antenna with broadbeam radiation at broadside",
+        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
+        "data": "9-13 April 2018",
+        "authors": [
+            "Miguel Poveda-García",
+            "Symon K. Podilchak",
+            "George Goussetis",
+            "José Luis Gómez-Tornero"
+        ],
+        "DOI": "10.1049/cp.2018.0530",
+        "citation": 2,
+        "abstract": "A novel broadbeam, planar leaky-wave antenna with radiation at broadside in the millimeter-wave frequency range using substrate-integrated waveguide technology is proposed. By feeding the antenna at the middle point along its length and by working at the splitting condition, a bi-directional traveling leaky-wave gives rise to a beam at the broadside direction in the far-field. The design is validated with full-wave simulations showing that a half power beamwidth of 30° and 130°, in the H- and the E-planes, are respectively possible for a 375MHz bandwidth (1% fractional bandwidth) around 24GHz. In this frequency range, realized gain values are above 8dBi."
+    },
+    {
         "title": "Optimization of neural network hyperparameters for gas turbine modelling using Bayesian optimization",
         "conferenceTitle": "5th IET International Conference on Clean Energy and Technology (CEAT2018)",
-        "Content Type": "Conferences",
-        "date": "5-6 Sept. 2018",
+        "data": "5-6 Sept. 2018",
         "authors": [
             "M H M Tarik",
             "M Omar",
@@ -2467,10 +2312,22 @@
         "abstract": "Gas turbine model can be used for many applications that can improve gas turbine operation's efficiency and reliability. Artificial Neural Network (ANN) was identified as a good technique for gas turbine modelling. However, ANN is sensitive to its hyperparameters. Current approaches for optimizing the hyperparameters of ANN used in gas turbine modelling has high computational cost. Hence, this paper proposes optimizing the ANN hyperparameters using Bayesian optimization. Bayesian optimization was used to determine the near-optimum number of layers and number of neurons for the developed gas turbine model. The result shows hyperparameters optimization using Bayesian optimization results neural network with better prediction accuracy compared to hyperparameters optimization using random search."
     },
     {
+        "title": "A Gold Standard for Emotion Annotation in Stack Overflow",
+        "conferenceTitle": "2018 IEEE/ACM 15th International Conference on Mining Software Repositories (MSR)",
+        "data": "27 May-3 June 2018",
+        "authors": [
+            "Nicole Novielli",
+            "Fabio Calefato",
+            "Filippo Lanubile"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "Software developers experience and share a wide range of emotions throughout a rich ecosystem of communication channels. A recent trend that has emerged in empirical software engineering studies is leveraging sentiment analysis of developers' communication traces. We release a dataset of 4,800 questions, answers, and comments from Stack Overflow, manually annotated for emotions. Our dataset contributes to the building of a shared corpus of annotated resources to support research on emotion awareness in software development."
+    },
+    {
         "title": "ECG-based Emotion Recognition: Overview of Methods and Applications",
         "conferenceTitle": "ANNA '18; Advances in Neural Networks and Applications 2018",
-        "Content Type": "Conferences",
-        "date": "15-17 Sept. 2018",
+        "data": "15-17 Sept. 2018",
         "authors": [
             "Desislava Nikolova",
             "Petya Petkova",
@@ -2484,8 +2341,7 @@
     {
         "title": "A two-dimensional all metal luneburg lens using glide-symmetric holey metasurface",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Lars Manholm",
             "Astrid Algaba Brazalez",
@@ -2500,8 +2356,7 @@
     {
         "title": "Towards a technological reference model of Bahraini smart city",
         "conferenceTitle": "​Smart Cities Symposium 2018",
-        "Content Type": "Conferences",
-        "date": "22-23 April 2018",
+        "data": "22-23 April 2018",
         "authors": [
             "E J Adwan"
         ],
@@ -2512,8 +2367,7 @@
     {
         "title": "The polarization analysis of the influence on internal wave imaging by SAR",
         "conferenceTitle": "IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium",
-        "Content Type": "Conferences",
-        "date": "22-27 July 2018",
+        "data": "22-27 July 2018",
         "authors": [
             "Yunyun Meng",
             "Yun Zhang",
@@ -2526,8 +2380,7 @@
     {
         "title": "Experimental evaluation of localization accuracy of multiple subjects using multiple receiving stations",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Nobuyuki Shiraki",
             "Dai Sasakawa",
@@ -2542,8 +2395,7 @@
     {
         "title": "Far- and near-field focused WPT using (Sub) arrays",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Hubregt J. Visser"
         ],
@@ -2554,8 +2406,7 @@
     {
         "title": "Design and implementation of energy management systems for Bahrain smart cities",
         "conferenceTitle": "​Smart Cities Symposium 2018",
-        "Content Type": "Conferences",
-        "date": "22-23 April 2018",
+        "data": "22-23 April 2018",
         "authors": [
             "Abdelrahman M Said",
             "Nadeen O A. Aziz",
@@ -2569,8 +2420,7 @@
     {
         "title": "Wideband crossed dipoles antenna for all GNSS bands using wideband AMC",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Wasim Alshrafi",
             "Vladimir Ekaterinichev",
@@ -2583,8 +2433,7 @@
     {
         "title": "Planar sensors for dielectric and magnetic materials measurement: A quantitative sensitivity comparison",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "L. A. Bronckers",
             "M. J. R. A. van Rossum",
@@ -2597,8 +2446,7 @@
     {
         "title": "An automated System for Ice Velocity Measurement from SAR",
         "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "data": "4-7 June 2018",
         "authors": [
             "Anders Kusk",
             "John Peter Merryman Boncori",
@@ -2611,8 +2459,7 @@
     {
         "title": "STT-MRAM for embedded memory applications from eNVM to last level cache",
         "conferenceTitle": "2018 International Symposium on VLSI Technology, Systems and Application (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "16-19 April 2018",
+        "data": "16-19 April 2018",
         "authors": [
             "Po-Kang Wang"
         ],
@@ -2623,8 +2470,7 @@
     {
         "title": "Safety analysis of actuation system of more electric aircraft",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2018)",
-        "Content Type": "Conferences",
-        "date": "19-22 June 2018",
+        "data": "19-22 June 2018",
         "authors": [
             "Bo Yu",
             "Shuai Wu",
@@ -2639,8 +2485,7 @@
     {
         "title": "Concept and Performance of Internal Instrument Calibration for Multi-Channel SAR",
         "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "data": "4-7 June 2018",
         "authors": [
             "Marwan Younis",
             "Christopher Laux",
@@ -2655,10 +2500,23 @@
         "abstract": "The increased complexity of multi-channel SAR sensors and the real-time on-board phase/amplitude correction requirement poses new challenges for the calibration, which cannot rely on current calibration techniques. On the other hand, the digital hardware utilized in multi-channel SAR systems, offer entirely new opportunities for the calibration such as on-board error correction and digital calibration. An internal calibration strategy for future digital beamforming SAR instruments is detailed and its performance analyzed using a dedicated calibration simulator software."
     },
     {
+        "title": "Concepts for Validation Sensor for Pre-Crash Information from Forward-Looking Sensors",
+        "conferenceTitle": "Sensors and Measuring Systems; 19th ITG/GMA-Symposium",
+        "data": "26-27 June 2018",
+        "authors": [
+            "Gerald Joy Sequeira",
+            "Kilian Schneider",
+            "Robert Lugner",
+            "Thomas Brandmeier"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "One approach to improve road safety is to activate Passive Safety actuators adapted to the crash situation as early as possible. Advanced driver assistance systems and future automated driving systems use a combination of forward-looking sensors like radar, lidar or camera. Such sensors can also be used to provide (pre-)crash information which will help to select the most appropriate restraint strategy. To achieve the required Automotive Safety Integration Level (ASIL) for a critical process of triggering Passive Safety systems, the information from forward-looking sensors must be verified and validated. Hence, a validation sensor based on a different physical principle is required. New sensing concepts to validate the information from forward-looking sensors will complement existing technology. The challenge for the sensor is to confirm crash information within few milliseconds after the first contact (contact-sensing). For this purpose, this paper focuses on design of new sensing concepts. This paper describes two different approaches for contact-sensing. First approach is to include the sensing feature in the carbon fiber reinforced plastic (CFRP) material used in the vehicle structure. Second approach is to enhance the present pressure-hose sensor system used for pedestrian detection. It also describes the pre-investigation tests and their results. In the end, it explains a sensing principle to verify the position of impact and overlap from a vehicle crash. The results illustrate the potential of the different concepts."
+    },
+    {
         "title": "Discrimination of Rest, Motor Imagery and Movement for Brain-Computer Interface Applications",
         "conferenceTitle": "2018 Medical Technologies National Congress (TIPTEKNO)",
-        "Content Type": "Conferences",
-        "date": "8-10 Nov. 2018",
+        "data": "8-10 Nov. 2018",
         "authors": [
             "Nedime Öztürk",
             "Bülent Yilmaz"
@@ -2670,8 +2528,7 @@
     {
         "title": "Statistical assessments of high throughput satellite performance",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Markus Gross",
             "Javier Trujillo",
@@ -2684,8 +2541,7 @@
     {
         "title": "Optimization for the planning of distributed renewable generators using genetic algorithm",
         "conferenceTitle": "5th IET International Conference on Clean Energy and Technology (CEAT2018)",
-        "Content Type": "Conferences",
-        "date": "5-6 Sept. 2018",
+        "data": "5-6 Sept. 2018",
         "authors": [
             "Abid Ali",
             "Mohd Fakhizan Romlie",
@@ -2697,10 +2553,20 @@
         "abstract": "The integration of distributed generators (DGs) considering renewable energy provides great benefits to the distribution networks, such as, reductions in power loss and improvements of voltage profile. However, such benefits to the distribution networks are constrained with the installation of DGs with proper sizes and locations. In this paper, the optimization for sizing and placement of distributed renewable generators (DRGs) in the electrical distribution networks is presented. The optimum sizes and locations for the DRGs are determined to reduce the power loss in the distribution networks. The genetic algorithm (GA) has been used to solve the optimization problem using MATLAB. For the validation, results of this study are compared with other well-known heuristic optimization techniques and analytical approaches. The numerical studies on the IEEE 33 bus distribution network have revealed that the proposed algorithm is capable for finding the optimum size and place of DRG in the distribution networks. The optimization results using GA are seen very competitive with the result by other well-known heuristic optimization techniques and analytical approaches that have been used for the similar studies. The results from this study signify the use of GA in the research related to planning of renewable energy and power system."
     },
     {
+        "title": "Voltage-control spintronics memory having potentials for high-density and high-speed applications",
+        "conferenceTitle": "2018 International Symposium on VLSI Technology, Systems and Application (VLSI-TSA)",
+        "data": "16-19 April 2018",
+        "authors": [
+            "Hiroaki Yoda"
+        ],
+        "DOI": "10.1109/VLSI-TSA.2018.8403868",
+        "citation": 1,
+        "abstract": "Summary form only. In order to reduce energy consumption of memory hierarchy, several non-volatile memories have been developed. However all of the candidates consume more energy in active modes than save in stand-by modes for busy mobile applications. Therefore, usage of non-volatile memories has been limited to storage of data. This is a historical dilemma that all the candidates have not solved. In order to solve the historical dilemma, we proposed voltage-control spintronics memories (VoCSM) and proved the fundamental writing property and its high efficiency. Also we proposed and succeeded in demonstrating unique writing schemes of the high-speed architecture and the high-density architecture."
+    },
+    {
         "title": "Very Low Stray Inductance, High Frequency 1200 V_ 2 mOhms Full SiC MOSFET Phase Leg Module",
         "conferenceTitle": "PCIM Europe 2018; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "5-7 June 2018",
+        "data": "5-7 June 2018",
         "authors": [
             "Serge Bontemps",
             "Laurent-Pierre Doumergue"
@@ -2712,8 +2578,7 @@
     {
         "title": "Modeling and simulation of combinable AC source based on SiC MOSFET",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2018)",
-        "Content Type": "Conferences",
-        "date": "19-22 June 2018",
+        "data": "19-22 June 2018",
         "authors": [
             "Ting Wang",
             "Xiaobin Zhang",
@@ -2727,8 +2592,7 @@
     {
         "title": "3D target reconstruction based on the ISAR image sequence",
         "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "data": "4-7 June 2018",
         "authors": [
             "Shize Shang",
             "Ming Li",
@@ -2742,8 +2606,7 @@
     {
         "title": "Analysis of POA estimation problem and area detection method for largely-oriented structures",
         "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "4-7 June 2018",
+        "data": "4-7 June 2018",
         "authors": [
             "Long Huang",
             "Aifang Liu",
@@ -2756,8 +2619,7 @@
     {
         "title": "Mobility-Aware Coded Storage and Delivery",
         "conferenceTitle": "WSA 2018; 22nd International ITG Workshop on Smart Antennas",
-        "Content Type": "Conferences",
-        "date": "14-16 March 2018",
+        "data": "14-16 March 2018",
         "authors": [
             "Emre Ozfatura",
             "Deniz Guenduez"
@@ -2769,8 +2631,7 @@
     {
         "title": "A study on electromagnet attraction characteristics based on Maxwell",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2018)",
-        "Content Type": "Conferences",
-        "date": "19-22 June 2018",
+        "data": "19-22 June 2018",
         "authors": [
             "Le Yang"
         ],
@@ -2781,8 +2642,7 @@
     {
         "title": "Safe and secure SOC architecture for autonomous driving",
         "conferenceTitle": "2018 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "16-19 April 2018",
+        "data": "16-19 April 2018",
         "authors": [
             "Lei Gao"
         ],
@@ -2793,8 +2653,7 @@
     {
         "title": "Simplified spatial division analog beamforming based on fourier Rotman lens",
         "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "data": "9-13 April 2018",
         "authors": [
             "Irina Munina",
             "Pavel Turalchuk",
@@ -2808,8 +2667,7 @@
     {
         "title": "Applications of Stream Data Mining on the Internet of Things: A Survey",
         "conferenceTitle": "2018 International Congress on Big Data, Deep Learning and Fighting Cyber Terrorism (IBIGDELFT)",
-        "Content Type": "Conferences",
-        "date": "3-4 Dec. 2018",
+        "data": "3-4 Dec. 2018",
         "authors": [
             "Emine Rumeysa Guler",
             "Suat Ozdemir"
@@ -2821,8 +2679,7 @@
     {
         "title": "Visible Light Communication with Multicarrier Modulation Utilizing a Buck-Converter Circuit as Efficient LED Driver",
         "conferenceTitle": "Photonic Networks; 19th ITG-Symposium",
-        "Content Type": "Conferences",
-        "date": "11-12 June 2018",
+        "data": "11-12 June 2018",
         "authors": [
             "Adrian Krohn",
             "Stephan Pachnicke",
@@ -2833,70 +2690,18 @@
         "abstract": "This paper deals with the problem of how to drive an LED in visible light communication (VLC) systems in an efficient way employing high-order modulation schemes. A circuit known from power electronics, the so-called buck converter, is evaluated. Buck converters are frequently used power supplies in LED illumination systems, and provide high efficiencies at low complexity. To demonstrate the ability of this type of converter for the purpose of data modulation, discrete multitone transmission (DMT) is used in numerical results. The circuit has been simulated in LTSpice. The bit error rate (BER) is determined for different system parameters."
     },
     {
-        "title": "Rain attenuation at low elevation angles: A step towards a LEO time series generator",
-        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
+        "title": "Bistatic SAR Moving Target Location Method Based on Differential Evolution Algorithm with Dual-Channel Receiver",
+        "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
+        "data": "4-7 June 2018",
         "authors": [
-            "L. M. Tomaz",
-            "C. Capsoni"
-        ],
-        "DOI": "10.1049/cp.2018.0589",
-        "citation": 1,
-        "abstract": "Rain attenuation is the most critical source of impairments in satellite systems operating at frequencies above 10 GHz. At low elevation angles the attenuation increases severely and its modeling requires a specific formulation in addition to simple geometric scaling. In systems based on Low Earth Orbit (LEO) satellites where the link moves from very low elevations up to highest ones, the knowledge on the characterization of rain attenuation at these low elevations is essential. This paper presents a model able to generate time series of rain attenuation at low elevation angles. The procedure uses rain attenuation episodes obtained from the ITALSAT database at 39.6 GHz and 37.7° elevation and is able to generate time series that reproduce the complementary cumulative distribution function (CCDF) of rain attenuation down to 5°. The paper presents some preliminary results obtained with this procedure. This is a fundamental step towards the development of a LEO Rain Attenuation Time Series Generator."
-    },
-    {
-        "title": "Wide band propagation measurements and modelling for low altitude UAVs",
-        "conferenceTitle": "12th European Conference on Antennas and Propagation (EuCAP 2018)",
-        "Content Type": "Conferences",
-        "date": "9-13 April 2018",
-        "authors": [
-            "César Calvo-Ramírez",
-            "Ana Gonzalez-Plaza",
-            "César Briso",
-            "Antonio Pérez-Yuste"
-        ],
-        "DOI": "10.1049/cp.2018.0947",
-        "citation": 1,
-        "abstract": "Unmanned aerial vehicles (UAV) are expected to be used extensively in the near future in commercial applications such as aerial surveillance, transportation and disaster assistance, among other applications. In order to succeed, a development of new air-ground propagation channel models are necessary for UAVs to improve communications links for control and high capacity for the transmission of payload information. In this paper, measurements are carried out in wideband with a channel sounder developed which uses narrow pulse technique. Power delay profile measurements and parameters such as RMS-Delay Spread or average delay profile are analyzed for vertical and horizontal flights in sub-urban environments at L-band. The results show that multipath propagation decreases at higher altitudes."
-    },
-    {
-        "title": "Miniaturized Integrated Sensor Modules for Harsh Environments",
-        "conferenceTitle": "Sensors and Measuring Systems; 19th ITG/GMA-Symposium",
-        "Content Type": "Conferences",
-        "date": "26-27 June 2018",
-        "authors": [
-            "Eckardt Bihler",
-            "Marc Hauer"
+            "Zhongyu Li",
+            "Yushi Xu",
+            "Junjie Wu",
+            "Yulin Huang",
+            "Jianyu Yang"
         ],
         "DOI": "",
         "citation": 1,
-        "abstract": "Liquid Crystal Polymer (LCP), a thermoplastic dielectric film material with very low water absorption (< 0.04%), high chemical stability and low thermal expansion is best suited both as a substrate material and as the encapsulate for small miniaturized electronic modules. LCP stands out among other polymer materials used for microelectronics. The permeability for water and gases is the lowest among all polymeric materials. With proper design considerations LCP packages can achieve a sufficient hermeticity for exposures in harsh environments."
-    },
-    {
-        "title": "Poster: UMLx: A UML Diagram Analytic Tool for Software Management Decisions",
-        "conferenceTitle": "2018 IEEE/ACM 40th International Conference on Software Engineering: Companion (ICSE-Companion)",
-        "Content Type": "Conferences",
-        "date": "27 May-3 June 2018",
-        "authors": [
-            "Kan Qi",
-            "Barry Boehm"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "A UML diagram analytic tool called UMLx is proposed, which automatically extracts information from UML diagrams to facilitate decision making in risk management, planning, resource allocation, and system design, based on a set of proposed metrics."
-    },
-    {
-        "title": "A Stereoscopic Parallax Generation Algorithm in a Virtual Reality Scene That Takes the Viewpoint-Related LOD Quadtree into Account",
-        "conferenceTitle": "2018 International Conference on Smart Grid and Electrical Automation (ICSGEA)",
-        "Content Type": "Conferences",
-        "date": "9-10 June 2018",
-        "authors": [
-            "Jiang Tao",
-            "Li Fang"
-        ],
-        "DOI": "10.1109/ICSGEA.2018.00068",
-        "citation": 1,
-        "abstract": "In view of the low precision of computer vision in stereoscopic parallax generation in virtual reality scenes, this paper proposes a virtual reality stereo parallax generation algorithm in viewpoint-related LOD quadtrees. During the use of the viewpoint-related LOD quadtree technology, unmarked virtual reality scenes can be effectively marked by these viewpoint-related LOD quadtree techniques. In order to evaluate the effectiveness of the algorithm, a hybrid feature is used to characterize the virtual reality scene so that the stereoscopic parallax generation process can be completed quickly. Experimental results show that the proposed viewpoint-related LOD quadtree can effectively generate stereoscopic parallax in virtual scenes."
+        "abstract": "In the application of bistatic synthetic aperture radar(SAR), transmitter and receiver are mounted on different platforms, which causes the two-dimensional coupled velocities of moving target and two radar platforms. And it makes location for moving target get difficultly. In this paper, first we build the bistatic SAR range-Doppler(RD) location model. Second we utilize the phase deviation between two channels in receiver to estimate the equivalent radial velocity of moving target. Finally we use differential evolution algorithm to get moving target location with the relationship between Doppler frequency and the equivalent radial velocity of moving target. Numerical simulations show the effectiveness of this proposed method."
     }
 ]

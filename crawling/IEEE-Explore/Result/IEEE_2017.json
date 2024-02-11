@@ -2,8 +2,7 @@
     {
         "title": "An Efficient Algebraic Solution to the Perspective-Three-Point Problem",
         "conferenceTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
-        "Content Type": "Conferences",
-        "date": "21-26 July 2017",
+        "data": "21-26 July 2017",
         "authors": [
             "Tong Ke",
             "Stergios I. Roumeliotis"
@@ -15,8 +14,7 @@
     {
         "title": "Cloud to Edge: Distributed Deployment of Process-Aware IoT Applications",
         "conferenceTitle": "2017 IEEE International Conference on Edge Computing (EDGE)",
-        "Content Type": "Conferences",
-        "date": "25-30 June 2017",
+        "data": "25-30 June 2017",
         "authors": [
             "Rakesh Jain",
             "Samir Tata"
@@ -28,8 +26,7 @@
     {
         "title": "Analysis of spectral notching in FM noise radar using measured interference",
         "conferenceTitle": "International Conference on Radar Systems (Radar 2017)",
-        "Content Type": "Conferences",
-        "date": "23-26 Oct. 2017",
+        "data": "23-26 Oct. 2017",
         "authors": [
             "Brandon Ravenscroft",
             "Shannon D. Blunt",
@@ -38,14 +35,24 @@
             "Kelly Sherbondy"
         ],
         "DOI": "10.1049/cp.2017.0388",
-        "citation": 16,
+        "citation": 18,
         "abstract": "It was recently shown that spectral notches can be incorporated into a physically realizable form of FM noise radar. Here it is shown how these spectral notches can be used to permit radar operation in a band where narrowband interference sources are present. The impact of interference and associated notches in different regions of the waveform spectrum (i.e. passband versus roll-off regions) is examined through assessment of the matched filter response when considering different receive power levels for the radar relative to measured interference. This assessment is performed for both simulated and experimentally measured notched waveforms."
+    },
+    {
+        "title": "Connected autonomous vehicle (CAV) simulation using PTV Vissim",
+        "conferenceTitle": "2017 Winter Simulation Conference (WSC)",
+        "data": "3-6 Dec. 2017",
+        "authors": [
+            "Alastair Evanson"
+        ],
+        "DOI": "10.1109/WSC.2017.8248148",
+        "citation": 14,
+        "abstract": "Currently there is a lack of detailed understanding regarding the effect of autonomous vehicles on traffic operations and transportation infrastructure. PTV Vissim, the worlds leading microscopic traffic simulation tool, provides a virtual testbed to evaluate the coexistence of autonomous and conventional vehicles either in the transition phase or when vehicle fleets are fully autonomous. Vissim traffic simulation is increasingly being employed to address the evidence gap around the potential impacts of disruptive technologies, such as connected autonomous vehicles, on traffic flow and capacity. Incorporating hardware in the loop testing allows detailed representation of autonomous vehicle control algorithms, sensor and communication protocols to be simulated within a realistic virtual traffic environment. Simulating varying penetration rates of autonomous vehicles, and different behavioral characteristics such as as platooning, vehicle to vehicle communication and vehicle to infrastructure communication, has demonstrated the opportunity to reduce travel times by 11% and delays by more than 40%."
     },
     {
         "title": "Applications of wireless sensor networks for area coverage in microgrids",
         "conferenceTitle": "2017 IEEE Manchester PowerTech",
-        "Content Type": "Conferences",
-        "date": "18-22 June 2017",
+        "data": "18-22 June 2017",
         "authors": [
             "Hongyu Wu",
             "Mohammad Shahidehpour"
@@ -57,8 +64,7 @@
     {
         "title": "Notice of Removal: Systematic synthesis methodology for the design of acoustic wave stand-alone ladder filters, duplexers and multiplexers",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Jordi Verdu",
             "Iuliia Evdokimova",
@@ -71,22 +77,9 @@
         "abstract": "Removed."
     },
     {
-        "title": "Connected autonomous vehicle (CAV) simulation using PTV Vissim",
-        "conferenceTitle": "2017 Winter Simulation Conference (WSC)",
-        "Content Type": "Conferences",
-        "date": "3-6 Dec. 2017",
-        "authors": [
-            "Alastair Evanson"
-        ],
-        "DOI": "10.1109/WSC.2017.8248148",
-        "citation": 13,
-        "abstract": "Currently there is a lack of detailed understanding regarding the effect of autonomous vehicles on traffic operations and transportation infrastructure. PTV Vissim, the worlds leading microscopic traffic simulation tool, provides a virtual testbed to evaluate the coexistence of autonomous and conventional vehicles either in the transition phase or when vehicle fleets are fully autonomous. Vissim traffic simulation is increasingly being employed to address the evidence gap around the potential impacts of disruptive technologies, such as connected autonomous vehicles, on traffic flow and capacity. Incorporating hardware in the loop testing allows detailed representation of autonomous vehicle control algorithms, sensor and communication protocols to be simulated within a realistic virtual traffic environment. Simulating varying penetration rates of autonomous vehicles, and different behavioral characteristics such as as platooning, vehicle to vehicle communication and vehicle to infrastructure communication, has demonstrated the opportunity to reduce travel times by 11% and delays by more than 40%."
-    },
-    {
         "title": "Examination of the effect of common CATR quiet zone specifications on antenna pattern measurement uncertainties",
         "conferenceTitle": "Loughborough Antennas & Propagation Conference (LAPC 2017)",
-        "Content Type": "Conferences",
-        "date": "13-14 Nov. 2017",
+        "data": "13-14 Nov. 2017",
         "authors": [
             "S.F. Gregson",
             "C.G. Parini"
@@ -98,8 +91,7 @@
     {
         "title": "The microsoft catapult project",
         "conferenceTitle": "2017 IEEE International Symposium on Workload Characterization (IISWC)",
-        "Content Type": "Conferences",
-        "date": "1-3 Oct. 2017",
+        "data": "1-3 Oct. 2017",
         "authors": [
             "Derek Chiou"
         ],
@@ -110,8 +102,7 @@
     {
         "title": "Interruption characteristics of vacuum circuit breaker and the application to DCCB",
         "conferenceTitle": "13th IET International Conference on AC and DC Power Transmission (ACDC 2017)",
-        "Content Type": "Conferences",
-        "date": "14-16 Feb. 2017",
+        "data": "14-16 Feb. 2017",
         "authors": [
             "S. Tokoyoda",
             "T. Inagaki",
@@ -128,8 +119,7 @@
     {
         "title": "Massive MIMO for 5G: Overview and the road ahead",
         "conferenceTitle": "2017 51st Annual Conference on Information Sciences and Systems (CISS)",
-        "Content Type": "Conferences",
-        "date": "22-24 March 2017",
+        "data": "22-24 March 2017",
         "authors": [
             "Erik G. Larsson"
         ],
@@ -140,8 +130,7 @@
     {
         "title": "Acceptance of Mobile Learning in Classroom Instruction among College English Teachers in China Using an Extended TAM",
         "conferenceTitle": "2017 International Conference of Educational Innovation through Technology (EITT)",
-        "Content Type": "Conferences",
-        "date": "7-9 Dec. 2017",
+        "data": "7-9 Dec. 2017",
         "authors": [
             "Lu Huang"
         ],
@@ -152,8 +141,7 @@
     {
         "title": "Parametric analysis and bandwidth optimisation of hybrid linear-exponential tapered slot Vivaldi antennas",
         "conferenceTitle": "Loughborough Antennas & Propagation Conference (LAPC 2017)",
-        "Content Type": "Conferences",
-        "date": "13-14 Nov. 2017",
+        "data": "13-14 Nov. 2017",
         "authors": [
             "Ikechukwu K. Ukaegbu",
             "Kelum A. A. Gamage"
@@ -165,8 +153,7 @@
     {
         "title": "Classification Turkish SMS with deep learning tool Word2Vec",
         "conferenceTitle": "2017 International Conference on Computer Science and Engineering (UBMK)",
-        "Content Type": "Conferences",
-        "date": "5-8 Oct. 2017",
+        "data": "5-8 Oct. 2017",
         "authors": [
             "Onur Karasoy",
             "Serkan Ballı"
@@ -178,8 +165,7 @@
     {
         "title": "Aircrafts recognition using convolutional neurons network",
         "conferenceTitle": "International Conference on Radar Systems (Radar 2017)",
-        "Content Type": "Conferences",
-        "date": "23-26 Oct. 2017",
+        "data": "23-26 Oct. 2017",
         "authors": [
             "A. Toumi",
             "A. El Housseini",
@@ -192,8 +178,7 @@
     {
         "title": "A comparison of coherent and non-coherent radar detection performance in radar sea clutter",
         "conferenceTitle": "International Conference on Radar Systems (Radar 2017)",
-        "Content Type": "Conferences",
-        "date": "23-26 Oct. 2017",
+        "data": "23-26 Oct. 2017",
         "authors": [
             "S. Watts",
             "L. Rosenberg"
@@ -203,24 +188,9 @@
         "abstract": "Target detection by airborne radars of small slow-moving targets on the sea surface is typically performed using noncoherent techniques. However, when operated at higher altitudes, the radar sea clutter will be significantly stronger and alternative techniques such as coherent processing will be required to recover some of the lost detection performance. This paper shows how recently developed models of the Doppler spectra of clutter can be combined with standard analytic modelling methods to compare the detection performance of airborne maritime surveillance radars using either coherent or non-coherent detection processing."
     },
     {
-        "title": "Design and fabrication of 1 GHz lateral TPoS MEMS resonator for RF front end applications",
-        "conferenceTitle": "2017 IEEE MTT-S International Microwave and RF Conference (IMaRC)",
-        "Content Type": "Conferences",
-        "date": "11-13 Dec. 2017",
-        "authors": [
-            "K.N. Bhadri Narayanan",
-            "Deleep R. Nair",
-            "Amitava Dasgupta"
-        ],
-        "DOI": "10.1109/IMaRC.2017.8611011",
-        "citation": 5,
-        "abstract": "This paper reports on design, fabrication and characterization of laterally excited thin film piezoelectric on Silicon (TPoS) MEMS resonators of resonance frequency around 1 GHz. Devices were fabricated on 5 μm SOI and 0.5 μm Aluminium Nitride piezoelectric film. We studied the effect of the number of anchors attached to the resonator and the width of the resonator on Q-factor and motional resistance. Measured characteristics of the device with Phononic crystal (PnC) tether showed a resonance peak at 969.22 MHz with motional resistance 2.9 kΩ and Q-factor of 1998. The motional resistance could be reduced to 770 Ω for wider devices."
-    },
-    {
         "title": "Notice of Removal: Electrical machine analysis using free software",
         "conferenceTitle": "2017 IEEE Energy Conversion Congress and Exposition (ECCE)",
-        "Content Type": "Conferences",
-        "date": "1-5 Oct. 2017",
+        "data": "1-5 Oct. 2017",
         "authors": [
             "David Meeker",
             "Nicola Bianchi",
@@ -231,14 +201,38 @@
             "Francesco Cupertino"
         ],
         "DOI": "10.1109/ECCE.2017.8096985",
-        "citation": 5,
+        "citation": 6,
         "abstract": "Removed."
+    },
+    {
+        "title": "Electricity demand forecasting by multi-task learning",
+        "conferenceTitle": "2017 IEEE Manchester PowerTech",
+        "data": "18-22 June 2017",
+        "authors": [
+            "Jean-Baptiste Fiot",
+            "Francesco Dinuzzo"
+        ],
+        "DOI": "10.1109/PTC.2017.7980955",
+        "citation": 6,
+        "abstract": "We explore the application of kernel-based multi-task learning techniques to forecast the demand of electricity measured on multiple lines of a distribution network. We show that recently developed output kernel learning techniques are particularly well suited to solve this problem, as they allow to flexibly model the complex seasonal effects that characterize electricity demand data, while learning and exploiting correlations between multiple demand profiles. We also demonstrate that kernels with a multiplicative structure yield superior predictive performance with respect to the widely adopted (generalized) additive models. Our study is based on residential and industrial smart meter data provided by the Irish Commission for Energy Regulation (CER)."
+    },
+    {
+        "title": "Design and fabrication of 1 GHz lateral TPoS MEMS resonator for RF front end applications",
+        "conferenceTitle": "2017 IEEE MTT-S International Microwave and RF Conference (IMaRC)",
+        "data": "11-13 Dec. 2017",
+        "authors": [
+            "K.N. Bhadri Narayanan",
+            "Deleep R. Nair",
+            "Amitava Dasgupta"
+        ],
+        "DOI": "10.1109/IMaRC.2017.8611011",
+        "citation": 5,
+        "abstract": "This paper reports on design, fabrication and characterization of laterally excited thin film piezoelectric on Silicon (TPoS) MEMS resonators of resonance frequency around 1 GHz. Devices were fabricated on 5 μm SOI and 0.5 μm Aluminium Nitride piezoelectric film. We studied the effect of the number of anchors attached to the resonator and the width of the resonator on Q-factor and motional resistance. Measured characteristics of the device with Phononic crystal (PnC) tether showed a resonance peak at 969.22 MHz with motional resistance 2.9 kΩ and Q-factor of 1998. The motional resistance could be reduced to 770 Ω for wider devices."
     },
     {
         "title": "Lightweight zero knowledge authentication for Internet of things",
         "conferenceTitle": "2017 International Conference on Computer Science and Engineering (UBMK)",
-        "Content Type": "Conferences",
-        "date": "5-8 Oct. 2017",
+        "data": "5-8 Oct. 2017",
         "authors": [
             "Alican Beydemir",
             "İbrahim Soğukpinar"
@@ -248,23 +242,9 @@
         "abstract": "Importance of Internet of Things technologies increased in recent years. However, these technologies carry some security vulnerabilities because of their network communication layer. The root cause of these vulnerabilities is usually the Authentication problem. Zero knowledge proof method is a strong cryptographic solution for Authentication problem that is proving of having a knowledge to another party without revealing anything other than the veracity of the statement. Zero knowledge proof method is consist of two-way complex mathematical algorithms for both parties. In this work, a new method that uses zero knowledge proofs has been proposed to provide efficient solution for Internet of Things technologies. New method was implemented and tested, then compared with existing proposed zero knowledge proof based authentication methods."
     },
     {
-        "title": "Electricity demand forecasting by multi-task learning",
-        "conferenceTitle": "2017 IEEE Manchester PowerTech",
-        "Content Type": "Conferences",
-        "date": "18-22 June 2017",
-        "authors": [
-            "Jean-Baptiste Fiot",
-            "Francesco Dinuzzo"
-        ],
-        "DOI": "10.1109/PTC.2017.7980955",
-        "citation": 5,
-        "abstract": "We explore the application of kernel-based multi-task learning techniques to forecast the demand of electricity measured on multiple lines of a distribution network. We show that recently developed output kernel learning techniques are particularly well suited to solve this problem, as they allow to flexibly model the complex seasonal effects that characterize electricity demand data, while learning and exploiting correlations between multiple demand profiles. We also demonstrate that kernels with a multiplicative structure yield superior predictive performance with respect to the widely adopted (generalized) additive models. Our study is based on residential and industrial smart meter data provided by the Irish Commission for Energy Regulation (CER)."
-    },
-    {
         "title": "Large-scale graph representation learning",
         "conferenceTitle": "2017 IEEE International Conference on Big Data (Big Data)",
-        "Content Type": "Conferences",
-        "date": "11-14 Dec. 2017",
+        "data": "11-14 Dec. 2017",
         "authors": [
             "Jure Leskovec"
         ],
@@ -275,8 +255,7 @@
     {
         "title": "Search Based Software Testing for Android",
         "conferenceTitle": "2017 IEEE/ACM 10th International Workshop on Search-Based Software Testing (SBST)",
-        "Content Type": "Conferences",
-        "date": "22-23 May 2017",
+        "data": "22-23 May 2017",
         "authors": [
             "Mark Harman"
         ],
@@ -287,8 +266,7 @@
     {
         "title": "A new methodology for the simulation of emerging power line communication standards",
         "conferenceTitle": "2017 IEEE Manchester PowerTech",
-        "Content Type": "Conferences",
-        "date": "18-22 June 2017",
+        "data": "18-22 June 2017",
         "authors": [
             "Stephen Robson",
             "Manu Haddad",
@@ -301,8 +279,7 @@
     {
         "title": "Autonomous vehicles: A playground for sensors",
         "conferenceTitle": "2017 7th IEEE International Workshop on Advances in Sensors and Interfaces (IWASI)",
-        "Content Type": "Conferences",
-        "date": "15-16 June 2017",
+        "data": "15-16 June 2017",
         "authors": [
             "Alberto L. Sangiovanni Vincentelli",
             "Benedetto Vigna"
@@ -314,8 +291,7 @@
     {
         "title": "A self-powered IoT SoC platform for wearable health care",
         "conferenceTitle": "2017 IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)",
-        "Content Type": "Conferences",
-        "date": "23-25 Oct. 2017",
+        "data": "23-25 Oct. 2017",
         "authors": [
             "Mohammed Ismail"
         ],
@@ -326,8 +302,7 @@
     {
         "title": "Using YANG module for monitoring and configuration of network devices",
         "conferenceTitle": "2017 25th Telecommunication Forum (TELFOR)",
-        "Content Type": "Conferences",
-        "date": "21-22 Nov. 2017",
+        "data": "21-22 Nov. 2017",
         "authors": [
             "Bojan Majstorović",
             "Maksim Vuleta",
@@ -342,8 +317,7 @@
     {
         "title": "Satellite image processing",
         "conferenceTitle": "2017 Fourth International Conference on Signal Processing, Communication and Networking (ICSCN)",
-        "Content Type": "Conferences",
-        "date": "16-18 March 2017",
+        "data": "16-18 March 2017",
         "authors": [
             "K. Vani"
         ],
@@ -354,8 +328,7 @@
     {
         "title": "Single probe-fed dual-band dual-circularly polarized antenna for satellite applications",
         "conferenceTitle": "2017 Sixth Asia-Pacific Conference on Antennas and Propagation (APCAP)",
-        "Content Type": "Conferences",
-        "date": "16-19 Oct. 2017",
+        "data": "16-19 Oct. 2017",
         "authors": [
             "Jun Wang",
             "Ruofan Li",
@@ -371,8 +344,7 @@
     {
         "title": "Notice of Removal: High efficiency wireless power transfer for EV charging and other applications",
         "conferenceTitle": "2017 IEEE Energy Conversion Congress and Exposition (ECCE)",
-        "Content Type": "Conferences",
-        "date": "1-5 Oct. 2017",
+        "data": "1-5 Oct. 2017",
         "authors": [
             "Chris Mi"
         ],
@@ -381,10 +353,20 @@
         "abstract": "Removed."
     },
     {
+        "title": "Notice of Retraction: High-bandwidth IC interconnects with silicon interposers and bridges for 3D multi-chip integration and packaging",
+        "conferenceTitle": "2017 China Semiconductor Technology International Conference (CSTIC)",
+        "data": "12-13 March 2017",
+        "authors": [
+            "Boping Wu"
+        ],
+        "DOI": "10.1109/CSTIC.2017.7919874",
+        "citation": 3,
+        "abstract": "Retracted."
+    },
+    {
         "title": "Evaluation of gain enhancement in large microstrip antenna arrays for mm-wave applications",
         "conferenceTitle": "IET Colloquium on Millimetre-Wave and Terahertz Engineering &amp; Technology 2017",
-        "Content Type": "Conferences",
-        "date": "30-30 March 2017",
+        "data": "30-30 March 2017",
         "authors": [
             "M. S. Rabbani",
             "H. Ghafouri-Shiraz"
@@ -396,8 +378,7 @@
     {
         "title": "Tangential AC breakdown strength of solid-solid interfaces considering surface roughness",
         "conferenceTitle": "2017 IEEE Conference on Electrical Insulation and Dielectric Phenomenon (CEIDP)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2017",
+        "data": "22-25 Oct. 2017",
         "authors": [
             "Emre Kantar",
             "Frank Mauseth",
@@ -411,8 +392,7 @@
     {
         "title": "Plenty of room at the bottom? Micropower deep learning for cognitive cyber physical systems",
         "conferenceTitle": "2017 7th IEEE International Workshop on Advances in Sensors and Interfaces (IWASI)",
-        "Content Type": "Conferences",
-        "date": "15-16 June 2017",
+        "data": "15-16 June 2017",
         "authors": [
             "Luca Benini"
         ],
@@ -423,8 +403,7 @@
     {
         "title": "Research on Moving Objects Trajectories Collection Based on Data Mining",
         "conferenceTitle": "2017 International Conference on Smart Grid and Electrical Automation (ICSGEA)",
-        "Content Type": "Conferences",
-        "date": "27-28 May 2017",
+        "data": "27-28 May 2017",
         "authors": [
             "Zhihu Wang"
         ],
@@ -435,8 +414,7 @@
     {
         "title": "Notice of Removal: The application of antivascular photo-mediated ultrasound therapy in removing microvessels in the eye",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Xinmai Yang",
             "Haonan Zhang",
@@ -451,8 +429,7 @@
     {
         "title": "Modelling and control of an interline current flow controller for meshed HVDC grids",
         "conferenceTitle": "2017 IEEE Manchester PowerTech",
-        "Content Type": "Conferences",
-        "date": "18-22 June 2017",
+        "data": "18-22 June 2017",
         "authors": [
             "Joan Sau-Bassols",
             "Eduardo Prieto-Araujo",
@@ -465,8 +442,7 @@
     {
         "title": "Explicit and implicit aspects of human cognition and behavior",
         "conferenceTitle": "2017 9th International Conference on Knowledge and Smart Technology (KST)",
-        "Content Type": "Conferences",
-        "date": "1-4 Feb. 2017",
+        "data": "1-4 Feb. 2017",
         "authors": [
             "Katsumi Watanabe"
         ],
@@ -477,8 +453,7 @@
     {
         "title": "Monitoring of in-vitro plant cultures using digital image processing and random forests",
         "conferenceTitle": "8th ​​International Conference of Pattern Recognition Systems (ICPRS 2017)",
-        "Content Type": "Conferences",
-        "date": "11-13 July 2017",
+        "data": "11-13 July 2017",
         "authors": [
             "David Mestre",
             "José M. Fonseca",
@@ -491,8 +466,7 @@
     {
         "title": "Bad data detection in the context of leverage point attacks in modern power networks",
         "conferenceTitle": "2017 IEEE Power & Energy Society General Meeting",
-        "Content Type": "Conferences",
-        "date": "16-20 July 2017",
+        "data": "16-20 July 2017",
         "authors": [
             "Ankur Majumdar"
         ],
@@ -503,8 +477,7 @@
     {
         "title": "Protection coordination index enhancement considering multiple DG locations using FCL",
         "conferenceTitle": "2017 IEEE Power & Energy Society General Meeting",
-        "Content Type": "Conferences",
-        "date": "16-20 July 2017",
+        "data": "16-20 July 2017",
         "authors": [
             "Hatem Zeineldin",
             "Ehab El-Saadany",
@@ -517,8 +490,7 @@
     {
         "title": "An order based hybrid metaheuristic algorithm for solving optimization problems",
         "conferenceTitle": "2017 International Conference on Computer Science and Engineering (UBMK)",
-        "Content Type": "Conferences",
-        "date": "5-8 Oct. 2017",
+        "data": "5-8 Oct. 2017",
         "authors": [
             "Osman Gokalp",
             "Aybars Uğur"
@@ -530,8 +502,7 @@
     {
         "title": "Analysis of bird-related outage risk for hunan power grid",
         "conferenceTitle": "2017 EPTC Power Transmission and Transformation Technology Conference",
-        "Content Type": "Conferences",
-        "date": "15-16 March 2017",
+        "data": "15-16 March 2017",
         "authors": [
             "Zhang Liu",
             "Chao Yafeng"
@@ -543,8 +514,7 @@
     {
         "title": "Design and implementation of a new wireless sensor network node",
         "conferenceTitle": "2017 29th Chinese Control And Decision Conference (CCDC)",
-        "Content Type": "Conferences",
-        "date": "28-30 May 2017",
+        "data": "28-30 May 2017",
         "authors": [
             "Jun Qi",
             "Guo-Ping Liu"
@@ -556,8 +526,7 @@
     {
         "title": "Predictive control of a new configuration of bidirectional quasi Y-source inverter fed IPMSM for electric vehicle applications",
         "conferenceTitle": "2017 Nineteenth International Middle East Power Systems Conference (MEPCON)",
-        "Content Type": "Conferences",
-        "date": "19-21 Dec. 2017",
+        "data": "19-21 Dec. 2017",
         "authors": [
             "E. G. Shehata"
         ],
@@ -568,8 +537,7 @@
     {
         "title": "Development of β-TCP block grafts with tunable porosity and mechanical properties",
         "conferenceTitle": "2017 Medical Technologies National Congress (TIPTEKNO)",
-        "Content Type": "Conferences",
-        "date": "12-14 Oct. 2017",
+        "data": "12-14 Oct. 2017",
         "authors": [
             "Emine Afra Demirci",
             "Metehan Atagür",
@@ -580,10 +548,23 @@
         "abstract": "In the scope of bone tissue engineering, there has still been great amount of demand on synthetic bone graft that induces differentiation of osteoprogenitor cells by cell-matrix interaction at the nanoscale as well as mimicking micro assembly of compact bone while providing high mechanical strength. In this study, we aimed to develop synthetic bone grafts based on beta-tricalcium phosphate (β-TCP) in the form of rod, block and cylinder with tunable porosity, radiopaque and mechanical properties."
     },
     {
+        "title": "Notice of Removal: Fast and background free super-resolution ultrasound angiography",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Oren Solomon",
+            "Avinoam Bar-Zion",
+            "Dan Adam",
+            "Yonina C. Eldar"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8092179",
+        "citation": 2,
+        "abstract": "Removed."
+    },
+    {
         "title": "Reliability of quantum well and quantum dot lasers for silicon photonics (invited)",
         "conferenceTitle": "2017 IEEE Photonics Conference (IPC)",
-        "Content Type": "Conferences",
-        "date": "1-5 Oct. 2017",
+        "data": "1-5 Oct. 2017",
         "authors": [
             "Robert W. Herrick",
             "Daehwan Jung",
@@ -599,8 +580,7 @@
     {
         "title": "Performance analysis of radar high-resolution range profiling for stationary targets",
         "conferenceTitle": "2017 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2017",
+        "data": "22-25 Oct. 2017",
         "authors": [
             "Wenzhen Yue",
             "Yu Xin"
@@ -612,8 +592,7 @@
     {
         "title": "General Analysis of Incentive Mechanisms for Peer-to-Peer Transmissions: A Quantum Game Perspective",
         "conferenceTitle": "2017 IEEE 37th International Conference on Distributed Computing Systems (ICDCS)",
-        "Content Type": "Conferences",
-        "date": "5-8 June 2017",
+        "data": "5-8 June 2017",
         "authors": [
             "Weiman Sun",
             "Shengling Wang"
@@ -625,8 +604,7 @@
     {
         "title": "Prediction of photovoltaic panel power output using artificial neural networks learned by heuristic algorithms: A comparative study",
         "conferenceTitle": "2017 International Conference on Computer Science and Engineering (UBMK)",
-        "Content Type": "Conferences",
-        "date": "5-8 Oct. 2017",
+        "data": "5-8 Oct. 2017",
         "authors": [
             "Emre Dandıl",
             "Erol Gürgen"
@@ -638,8 +616,7 @@
     {
         "title": "An Improved GRASP for the Bike-Sharing Rebalancing Problem",
         "conferenceTitle": "2017 International Conference on Smart Grid and Electrical Automation (ICSGEA)",
-        "Content Type": "Conferences",
-        "date": "27-28 May 2017",
+        "data": "27-28 May 2017",
         "authors": [
             "Haitao Xu",
             "Jing Ying"
@@ -651,8 +628,7 @@
     {
         "title": "A New Configuration for a Grid Forming Converter in AC Islanded Microgrid",
         "conferenceTitle": "PCIM Europe 2017; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "16-18 May 2017",
+        "data": "16-18 May 2017",
         "authors": [
             "Helio Antunes",
             "Sidelmo Silva",
@@ -667,8 +643,7 @@
     {
         "title": "Practical dynamic element matching techniques for 3-level unit elements",
         "conferenceTitle": "2017 IEEE Custom Integrated Circuits Conference (CICC)",
-        "Content Type": "Conferences",
-        "date": "30 April-3 May 2017",
+        "data": "30 April-3 May 2017",
         "authors": [
             "Khiem Nguyen"
         ],
@@ -679,8 +654,7 @@
     {
         "title": "Implementation and comparison of image segmentation methods for detection of brain tumors on MR images",
         "conferenceTitle": "2017 International Conference on Computer Science and Engineering (UBMK)",
-        "Content Type": "Conferences",
-        "date": "5-8 Oct. 2017",
+        "data": "5-8 Oct. 2017",
         "authors": [
             "Emre Dandıl"
         ],
@@ -689,22 +663,9 @@
         "abstract": "Brain tumors grow in the skull and they can be life threatening in later stages because of the pressure exerted on the brain. Malignant brain tumors have become one of the major causes of human death in recent years. If the tumor can be classified correctly at an early stage, the chances of survival of patients can be improved. The most appropriate treatment to be selected for brain cancer depends on precisely identifying of tumor type, location, size and boundaries by the physicians. Thus, it is important using a computer-aid ed diagnosis / detection system to detect brain tumors successfully for radiologists and physicians. In this study, Fuzzy C-Means (FCM), Otsu's method, Region Growing and Self-Organizing Maps methods is used for the automatic segmentation of brain tumors on the MR images and results are compared with each other. Application software is designed with a user interface for this purpose. Thus, the ease of decision-making by physicians will be provided. Consequently, the application software will prevent errors and may be used as a secondary means for brain tumor segmentation. It has been shown in detailed test experiments on image dataset that designed application can detect brain tumors successfully."
     },
     {
-        "title": "Notice of Retraction: High-bandwidth IC interconnects with silicon interposers and bridges for 3D multi-chip integration and packaging",
-        "conferenceTitle": "2017 China Semiconductor Technology International Conference (CSTIC)",
-        "Content Type": "Conferences",
-        "date": "12-13 March 2017",
-        "authors": [
-            "Boping Wu"
-        ],
-        "DOI": "10.1109/CSTIC.2017.7919874",
-        "citation": 2,
-        "abstract": "Retracted."
-    },
-    {
         "title": "The road to a trillion: Making the IoT work",
         "conferenceTitle": "2017 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "24-27 April 2017",
+        "data": "24-27 April 2017",
         "authors": [
             "Rob Aitken"
         ],
@@ -713,10 +674,20 @@
         "abstract": "The Internet of Things promises a massively connected future, where hundreds of billions or even trillions of intelligent devices communicate with each other as well as with a massive cloud of processing and analytic power. Achieving this vision requires overcoming a substantial set of technical challenges. How will so many devices be powered? Will our existing compute, communication and software paradigms be up to the task? If not, what will replace them? How will security, access and safety be provided? This talk looks at these challenges and explores possible avenues for solutions."
     },
     {
+        "title": "Evolution of technology and users requirements of factorycommunication systems from the 3rd to the 4th Industrial Revolution",
+        "conferenceTitle": "2017 2nd International Conference on Telecommunication and Networks (TEL-NET)",
+        "data": "10-11 Aug. 2017",
+        "authors": [
+            "Géza Haidegger"
+        ],
+        "DOI": "10.1109/TEL-NET.2017.8343494",
+        "citation": 2,
+        "abstract": "The last 40 to 50 years' history of factory automation based on electronics and computer technology had given experiences on successes and failures. The author's personal carrier has touched several areas of technology and networking aspects of this progress domain. On contrast to the steady progress of communication technology, the networking among experts and scientific entities show alternating trends."
+    },
+    {
         "title": "Broadband transmitarray for satallite applications in Ku band",
         "conferenceTitle": "2017 Japan-Africa Conference on Electronics, Communications and Computers (JAC-ECC)",
-        "Content Type": "Conferences",
-        "date": "18-20 Dec. 2017",
+        "data": "18-20 Dec. 2017",
         "authors": [
             "N. A. El-Shalaby",
             "S. H. Zainud-Deen",
@@ -729,8 +700,7 @@
     {
         "title": "Is There Difference between In and Out of Classroom? Harnessing the Group Interaction of Blended Learning",
         "conferenceTitle": "2017 IEEE 17th International Conference on Advanced Learning Technologies (ICALT)",
-        "Content Type": "Conferences",
-        "date": "3-7 July 2017",
+        "data": "3-7 July 2017",
         "authors": [
             "Hang Shu",
             "Yi Wei",
@@ -743,8 +713,7 @@
     {
         "title": "EMC analysis of power grid intelligent inspection equipment based on finite element method",
         "conferenceTitle": "2017 EPTC Power Transmission and Transformation Technology Conference",
-        "Content Type": "Conferences",
-        "date": "15-16 March 2017",
+        "data": "15-16 March 2017",
         "authors": [
             "Liao Ruchao",
             "Peng Chigang",
@@ -759,8 +728,7 @@
     {
         "title": "Modeling of Power Consumption by Wireless Transceivers for System Level Simulations",
         "conferenceTitle": "European Wireless 2017; 23th European Wireless Conference",
-        "Content Type": "Conferences",
-        "date": "17-19 May 2017",
+        "data": "17-19 May 2017",
         "authors": [
             "Pawel Kryszkiewicz",
             "Adrian Kliks"
@@ -772,8 +740,7 @@
     {
         "title": "Notice of Removal: Random incident sound waves for fast compressed pulse-echo ultrasound imaging",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Martin Schiffner",
             "Georg Schmitz"
@@ -785,8 +752,7 @@
     {
         "title": "Design and development of mode launcher for TM01 mode in circular waveguide in S-band",
         "conferenceTitle": "2017 IEEE MTT-S International Microwave and RF Conference (IMaRC)",
-        "Content Type": "Conferences",
-        "date": "11-13 Dec. 2017",
+        "data": "11-13 Dec. 2017",
         "authors": [
             "Shreekant Patel",
             "Rahul Jaiswal",
@@ -798,10 +764,25 @@
         "abstract": "This paper presents coaxial TEM-to-TM01 mode converter in circular waveguide in S-Band. Many of the High power microwave sources generate power in the form of TM01 mode at 3GHz. The proposed mode launcher is used for calibration purpose at low power. Coaxial line is attached to the axis of circular waveguide to excite TM01 mode and to increase the conversion efficiency stair type of monopole antenna is connected to the inner conductor of coaxial line. Furthermore the dielectric of coaxial line is extended in to the waveguide over inner conductor to achieve maximum possible return loss i.e. 72dB simulated and 50dB measured; since there is a requirement of minimum reflection. Proposed design offered 40% of bandwidth. Radiation pattern of TM01 mode is then investigated to verify propagated mode. The test results are in good agreement with the simulation."
     },
     {
+        "title": "Notice of Removal: Full 4D functional ultrasound imaging in rodents using a matrix array",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Claire Rabut",
+            "Victor Finel",
+            "Mafalda Correia",
+            "Mathieu Pernot",
+            "Thomas Deffieux",
+            "Mickaël Tanter"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8091658",
+        "citation": 2,
+        "abstract": "Removed."
+    },
+    {
         "title": "Frequency divider",
         "conferenceTitle": "2017 IEEE Manchester PowerTech",
-        "Content Type": "Conferences",
-        "date": "18-22 June 2017",
+        "data": "18-22 June 2017",
         "authors": [
             "Federico Milano",
             "Alvaro Ortega"
@@ -813,8 +794,7 @@
     {
         "title": "Power System Restoration and Operation of Island Grids with Frequency Dependent Active Power Control of Distributed Generation",
         "conferenceTitle": "NEIS 2017; Conference on Sustainable Energy Supply and Energy Storage Systems",
-        "Content Type": "Conferences",
-        "date": "21-22 Sept. 2017",
+        "data": "21-22 Sept. 2017",
         "authors": [
             "Christian Hachmann",
             "Gustav Lammert",
@@ -828,8 +808,7 @@
     {
         "title": "Industrial applications for cyber-physical systems",
         "conferenceTitle": "2017 First International Conference on Embedded & Distributed Systems (EDiS)",
-        "Content Type": "Conferences",
-        "date": "17-18 Dec. 2017",
+        "data": "17-18 Dec. 2017",
         "authors": [
             "Menouar Boubekeur"
         ],
@@ -840,8 +819,7 @@
     {
         "title": "Notice of Removal: Experimental investigation of shear wave imaging in thin soft media in various coupling conditions",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Enoch Jing-Han Chang",
             "Yuexin Guo",
@@ -854,8 +832,7 @@
     {
         "title": "Design and simulation of building fire protection system based on BIM technology",
         "conferenceTitle": "2017 29th Chinese Control And Decision Conference (CCDC)",
-        "Content Type": "Conferences",
-        "date": "28-30 May 2017",
+        "data": "28-30 May 2017",
         "authors": [
             "Yang Gao",
             "Huijie Xue"
@@ -867,8 +844,7 @@
     {
         "title": "A comparison of classification algorithms for chess pieces detection",
         "conferenceTitle": "2017 XVII Workshop on Information Processing and Control (RPIC)",
-        "Content Type": "Conferences",
-        "date": "20-22 Sept. 2017",
+        "data": "20-22 Sept. 2017",
         "authors": [
             "G. Larregay",
             "L. Avila",
@@ -881,8 +857,7 @@
     {
         "title": "Workshop on Virtual, Augmented and Mixed Reality in Education (VAMrE 2017) Summary",
         "conferenceTitle": "2017 IEEE International Symposium on Mixed and Augmented Reality (ISMAR-Adjunct)",
-        "Content Type": "Conferences",
-        "date": "9-13 Oct. 2017",
+        "data": "9-13 Oct. 2017",
         "authors": [
             "Kuo-En Chang",
             "Jia Zhang",
@@ -895,8 +870,7 @@
     {
         "title": "Analog filter design: Current design techniques and trends",
         "conferenceTitle": "2017 IEEE Custom Integrated Circuits Conference (CICC)",
-        "Content Type": "Conferences",
-        "date": "30 April-3 May 2017",
+        "data": "30 April-3 May 2017",
         "authors": [
             "Edgar Sánchez-Sinencio"
         ],
@@ -905,10 +879,21 @@
         "abstract": "Analog filters are used in a host of applications and are key building blocks in a number of applications. .The main components in active filters are Op Amp (VCVS) or Transconductance Amplifier (VCCS), resistors and capacitors. In this presentation we discuss different implementations of nonconventional Amplifiers and their strengths and weakness. .Also we present different non-conventional filter topologies in different domains and/or their implementations. Linearity of amplifiers/filters* is still an important active research area, not discussed here for lack of time."
     },
     {
+        "title": "Prediction of one-minute rain rate distributions from tropical rainfall measuring mission (TRMM)",
+        "conferenceTitle": "5th Colloquium on Antennas, Wireless and Electromagnetics (CAWE 2017)",
+        "data": "8-8 June 2017",
+        "authors": [
+            "Kevin S. Paulson",
+            "Geraldine R. Rimven"
+        ],
+        "DOI": "10.1049/ic.2017.0011",
+        "citation": 2,
+        "abstract": "ITU-R models of rain fade on terrestrial (Rec. ITU-R P.530-16) [1]and Earth-space links(Rec. ITU-R P.618- 12)[2] require the one-minute rain rate exceeded for 0.01% of an average year: R0.01%[3]. Inadequate data in many parts of the world has resulted in reliance on Rec. ITU-R P.837-6[3]. TRMM data will be used estimate rain rate distributions for each 1° square between 38° South to 38° North over the tropics. These distributions of instantaneous rain rates over 5 km squares are transformed to distributions over 1 km squares using a correction calculated from Nimrod radar data."
+    },
+    {
         "title": "Experimental implementation of frequency regulation services using commercial buildings",
         "conferenceTitle": "2017 IEEE Manchester PowerTech",
-        "Content Type": "Conferences",
-        "date": "18-22 June 2017",
+        "data": "18-22 June 2017",
         "authors": [
             "Luca Fabietti",
             "Tomasz T. Gorecki",
@@ -924,8 +909,7 @@
     {
         "title": "Cloud work load prediction through different models based on time-series",
         "conferenceTitle": "2017 International Conference on Computer Science and Engineering (UBMK)",
-        "Content Type": "Conferences",
-        "date": "5-8 Oct. 2017",
+        "data": "5-8 Oct. 2017",
         "authors": [
             "İlksen Çağlar",
             "D. Turgay Altılar"
@@ -937,8 +921,7 @@
     {
         "title": "An approach for creation and implementation of national cyber security strategy",
         "conferenceTitle": "2017 International Conference on Computer Science and Engineering (UBMK)",
-        "Content Type": "Conferences",
-        "date": "5-8 Oct. 2017",
+        "data": "5-8 Oct. 2017",
         "authors": [
             "Mustafa Şenol"
         ],
@@ -949,8 +932,7 @@
     {
         "title": "Invited talk 2: Various kinds of antenna and their applications",
         "conferenceTitle": "2017 International Symposium on Antennas and Propagation (ISAP)",
-        "Content Type": "Conferences",
-        "date": "30 Oct.-2 Nov. 2017",
+        "data": "30 Oct.-2 Nov. 2017",
         "authors": [
             "Dau-Chyrh Chang"
         ],
@@ -961,8 +943,7 @@
     {
         "title": "Research on Data Association Method Based on Directed Graph",
         "conferenceTitle": "2017 10th International Symposium on Computational Intelligence and Design (ISCID)",
-        "Content Type": "Conferences",
-        "date": "9-10 Dec. 2017",
+        "data": "9-10 Dec. 2017",
         "authors": [
             "Tao Sun",
             "Min Yu"
@@ -974,8 +955,7 @@
     {
         "title": "Virtual Reality: The new era of the future world",
         "conferenceTitle": "2017 International Symposium on VLSI Technology, Systems and Application (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "24-27 April 2017",
+        "data": "24-27 April 2017",
         "authors": [
             "Raymond Pao"
         ],
@@ -986,8 +966,7 @@
     {
         "title": "Stimulated Brillouin scattering in few-mode fibers and its applications",
         "conferenceTitle": "2017 IEEE Photonics Conference (IPC)",
-        "Content Type": "Conferences",
-        "date": "1-5 Oct. 2017",
+        "data": "1-5 Oct. 2017",
         "authors": [
             "Kwang Yong Song"
         ],
@@ -998,8 +977,7 @@
     {
         "title": "Learning the LMP-load coupling from data: A support vector machine based approach",
         "conferenceTitle": "2017 IEEE Manchester PowerTech",
-        "Content Type": "Conferences",
-        "date": "18-22 June 2017",
+        "data": "18-22 June 2017",
         "authors": [
             "Xinbo Geng",
             "Le Xie"
@@ -1009,10 +987,21 @@
         "abstract": "This paper investigates the fundamental coupling between loads and locational marginal prices (LMPs) in securityconstrained economic dispatch (SCED). Theoretical analysis based on multi-parametric programming theory points out the unique one-to-one mapping between load and LMP vectors. Such one-to-one mapping is depicted by the concept of system pattern region (SPR) and identifying SPRs is the key to understanding the LMP-load coupling. Built upon the characteristics of SPRs, the SPR identification problem is modeled as a classification problem from a market participant's viewpoint, and a Support Vector Machine based data-driven approach is proposed. It is shown that even without the knowledge of system topology and parameters, the SPRs can be estimated by learning from historical load and price data. Visualization and illustration of the proposed datadriven approach are performed on a 3-bus system as well as the IEEE 118-bus system."
     },
     {
+        "title": "Flame detection using HSI color space",
+        "conferenceTitle": "2017 International Artificial Intelligence and Data Processing Symposium (IDAP)",
+        "data": "16-17 Sept. 2017",
+        "authors": [
+            "Buket Toptaş",
+            "Davut Hanbay"
+        ],
+        "DOI": "10.1109/IDAP.2017.8090322",
+        "citation": 1,
+        "abstract": "Image processing based systems take important place in systems used to detect fires in open spaces. Vision-based systems can detect fires in open spaces from distances and detect the fire at an early stage. In this study, a fire/flame detection method based on the color analysis of the fire image is presented. The proposed method consists of three steps. First, the image in RGB space is converted to the HSI color space. Then a color filter is applied to determine the fire/flame candidate zone. In the second stage, fake fire zones within the candidate zone identified as fire are eliminated. In this phase, image difference and gauss mixture model is used to recover the fake fire areas. In the third step, the result of the two methods is subjected to AND processing. The AND operation ensures to detect the exact flame zone. As a result, the proposed algorithm has been tested using fire video images. The highest calculated accuracy is 96%."
+    },
+    {
         "title": "Notice of Removal: Design of multi-frequency acoustic kinoforms",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Michael Brown",
             "Ben Cox",
@@ -1023,25 +1012,9 @@
         "abstract": "Removed."
     },
     {
-        "title": "Notice of Removal: Fast and background free super-resolution ultrasound angiography",
-        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
-        "authors": [
-            "Oren Solomon",
-            "Avinoam Bar-Zion",
-            "Dan Adam",
-            "Yonina C. Eldar"
-        ],
-        "DOI": "10.1109/ULTSYM.2017.8092179",
-        "citation": 1,
-        "abstract": "Removed."
-    },
-    {
         "title": "Notice of Removal: Real-time intra-operative guidance using combined photoacoustic and pulsed fluorescence imaging for robot-assisted surgical operation",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Jeeun Kang",
             "Hanh Le",
@@ -1055,8 +1028,7 @@
     {
         "title": "Notice of Removal: Photoacoustic visual servoing of needle tips to improve biopsy on obese patients",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Joshua Shubert",
             "Muyinatu Bell"
@@ -1068,8 +1040,7 @@
     {
         "title": "Analysis of Brain Wave Oscillations During Interictal Period in Epileptic Patients Using Wavelet Transform",
         "conferenceTitle": "2017 21st National Biomedical Engineering Meeting (BIYOMUT)",
-        "Content Type": "Conferences",
-        "date": "24 Nov.-26 Dec. 2017",
+        "data": "24 Nov.-26 Dec. 2017",
         "authors": [
             "Ozge Cekirge",
             "Zulal Kizilaslan",
@@ -1085,8 +1056,7 @@
     {
         "title": "Tutorial 2: Developing Virtual Reality applications with the Visualization Toolkit (VTK)",
         "conferenceTitle": "2017 IEEE International Symposium on Mixed and Augmented Reality (ISMAR-Adjunct)",
-        "Content Type": "Conferences",
-        "date": "9-13 Oct. 2017",
+        "data": "9-13 Oct. 2017",
         "authors": [
             "Lucas Gandel",
             "Julien Jomier"
@@ -1098,8 +1068,7 @@
     {
         "title": "Notice of Removal: Tomographic shear wave imaging: Feasibility study",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Yung-Shao Yang",
             "Pei-Yu Chao",
@@ -1112,8 +1081,7 @@
     {
         "title": "Deep learning based recommender systems",
         "conferenceTitle": "2017 International Conference on Computer Science and Engineering (UBMK)",
-        "Content Type": "Conferences",
-        "date": "5-8 Oct. 2017",
+        "data": "5-8 Oct. 2017",
         "authors": [
             "Bahriye Akay",
             "Oğuz Kaynar",
@@ -1126,8 +1094,7 @@
     {
         "title": "Keynote Addresses",
         "conferenceTitle": "2017 International Conference on Cyberworlds (CW)",
-        "Content Type": "Conferences",
-        "date": "20-22 Sept. 2017",
+        "data": "20-22 Sept. 2017",
         "authors": [],
         "DOI": "10.1109/CW.2017.9",
         "citation": 1,
@@ -1136,8 +1103,7 @@
     {
         "title": "Using Matlab to build simulations and learn from them in the classroom",
         "conferenceTitle": "2017 Winter Simulation Conference (WSC)",
-        "Content Type": "Conferences",
-        "date": "3-6 Dec. 2017",
+        "data": "3-6 Dec. 2017",
         "authors": [
             "Teresa Hubscher-Younger",
             "Mary Fenelon"
@@ -1149,8 +1115,7 @@
     {
         "title": "Notice of Removal: Observation of band gaps in chirped interdigital transducers",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Anurupa Shaw",
             "Damien Teyssieux",
@@ -1163,8 +1128,7 @@
     {
         "title": "Self-driving cars and lidar",
         "conferenceTitle": "2017 Conference on Lasers and Electro-Optics (CLEO)",
-        "Content Type": "Conferences",
-        "date": "14-19 May 2017",
+        "data": "14-19 May 2017",
         "authors": [
             "S. Verghese"
         ],
@@ -1175,8 +1139,7 @@
     {
         "title": "Notice of Removal: Design guidelines for isolated DC-DC converter selection based on — Cost, reliability, and compatibility",
         "conferenceTitle": "2017 IEEE Energy Conversion Congress and Exposition (ECCE)",
-        "Content Type": "Conferences",
-        "date": "1-5 Oct. 2017",
+        "data": "1-5 Oct. 2017",
         "authors": [
             "Alexander Isurin",
             "Mark J. Scott"
@@ -1188,8 +1151,7 @@
     {
         "title": "Notice of Removal: Feasibility of thermal strain imaging in noninvasive monitoring of HIFU-mediated local drug delivery",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Xiaolong Liang",
             "Qiong He",
@@ -1203,8 +1165,7 @@
     {
         "title": "Text mining, patent retrieval and its evaluation: Finding paths in the Labyrinth between legal and technical challenges",
         "conferenceTitle": "2017 9th International Conference on Knowledge and Smart Technology (KST)",
-        "Content Type": "Conferences",
-        "date": "1-4 Feb. 2017",
+        "data": "1-4 Feb. 2017",
         "authors": [
             "Thomas Mandl"
         ],
@@ -1215,8 +1176,7 @@
     {
         "title": "Actively calibrated line mountable capacitive voltage transducer for power systems applications",
         "conferenceTitle": "2017 IEEE Power & Energy Society General Meeting",
-        "Content Type": "Conferences",
-        "date": "16-20 July 2017",
+        "data": "16-20 July 2017",
         "authors": [
             "Raffi Sevlian",
             "Ram Rajagopal"
@@ -1228,8 +1188,7 @@
     {
         "title": "Detection of Exudates from Digital Fundus Images of Diabetic Retinopathy Patients",
         "conferenceTitle": "2017 21st National Biomedical Engineering Meeting (BIYOMUT)",
-        "Content Type": "Conferences",
-        "date": "24 Nov.-26 Dec. 2017",
+        "data": "24 Nov.-26 Dec. 2017",
         "authors": [
             "Aydin Incedere",
             "Sami Arica"
@@ -1241,8 +1200,7 @@
     {
         "title": "Notice of Removal: Low loss delay lines based on suspended thin film of X-cut lithium niobate",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Gabriel Vidal-Álvarez",
             "Abhay Kochhar",
@@ -1255,8 +1213,7 @@
     {
         "title": "A novel power efficient MAC protocol design for MANETs",
         "conferenceTitle": "2017 IEEE International Conference on Power, Control, Signals and Instrumentation Engineering (ICPCSI)",
-        "Content Type": "Conferences",
-        "date": "21-22 Sept. 2017",
+        "data": "21-22 Sept. 2017",
         "authors": [
             "Y. Neeraja",
             "V. Sumalatha"
@@ -1268,8 +1225,7 @@
     {
         "title": "Feasibility of Compound Chained Network Functions for Flexible Packet Processing",
         "conferenceTitle": "European Wireless 2017; 23th European Wireless Conference",
-        "Content Type": "Conferences",
-        "date": "17-19 May 2017",
+        "data": "17-19 May 2017",
         "authors": [
             "Wolfgang Hahn",
             "Borislava Gajic",
@@ -1286,8 +1242,7 @@
     {
         "title": "Notice of Removal: New insights in the role of reactive oxygen species in mechanisms of sonoporation: In-vitro validation and molecular dynamic simulations",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Jean-Michel Escoffre",
             "Pablo Campomanes",
@@ -1301,8 +1256,7 @@
     {
         "title": "Keynote lecture IV: Grid code requirements for connecting solar power plants to electricity networks in Egypt",
         "conferenceTitle": "2017 Nineteenth International Middle East Power Systems Conference (MEPCON)",
-        "Content Type": "Conferences",
-        "date": "19-21 Dec. 2017",
+        "data": "19-21 Dec. 2017",
         "authors": [
             "Omar H. Abdalla"
         ],
@@ -1313,8 +1267,7 @@
     {
         "title": "2nd International Workshop on Metamorphic Testing (MET 2017)",
         "conferenceTitle": "2017 IEEE/ACM 2nd International Workshop on Metamorphic Testing (MET)",
-        "Content Type": "Conferences",
-        "date": "22-22 May 2017",
+        "data": "22-22 May 2017",
         "authors": [
             "Laura L. Pullum",
             "Dave Towey",
@@ -1329,8 +1282,7 @@
     {
         "title": "Gate Driver IC for GaN GIT for High Slew Rate and Cross Conduction Protection",
         "conferenceTitle": "PCIM Europe 2017; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "16-18 May 2017",
+        "data": "16-18 May 2017",
         "authors": [
             "Aaron Qingwei Cai",
             "Herreria Arnel Carrera",
@@ -1344,8 +1296,7 @@
     {
         "title": "Notice of Removal: In vivo contractile properties measurement of the biceps brachii muscle using high frame rate plane waves and k-space transverse oscillation",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Rémi Rouffaud",
             "Steve Beuve",
@@ -1357,22 +1308,9 @@
         "abstract": "Removed."
     },
     {
-        "title": "Evolution of technology and users requirements of factorycommunication systems from the 3rd to the 4th Industrial Revolution",
-        "conferenceTitle": "2017 2nd International Conference on Telecommunication and Networks (TEL-NET)",
-        "Content Type": "Conferences",
-        "date": "10-11 Aug. 2017",
-        "authors": [
-            "Géza Haidegger"
-        ],
-        "DOI": "10.1109/TEL-NET.2017.8343494",
-        "citation": 1,
-        "abstract": "The last 40 to 50 years' history of factory automation based on electronics and computer technology had given experiences on successes and failures. The author's personal carrier has touched several areas of technology and networking aspects of this progress domain. On contrast to the steady progress of communication technology, the networking among experts and scientific entities show alternating trends."
-    },
-    {
         "title": "Soft electronics for the human body",
         "conferenceTitle": "2017 International Symposium on VLSI Technology, Systems and Application (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "24-27 April 2017",
+        "data": "24-27 April 2017",
         "authors": [
             "John A. Rogers"
         ],
@@ -1383,8 +1321,7 @@
     {
         "title": "Probabilistic shaping benefits and practicality for higher-order QAM",
         "conferenceTitle": "2017 IEEE Photonics Conference (IPC)",
-        "Content Type": "Conferences",
-        "date": "1-5 Oct. 2017",
+        "data": "1-5 Oct. 2017",
         "authors": [
             "Georg Böcherer",
             "Patrick Schulte",
@@ -1397,8 +1334,7 @@
     {
         "title": "Supervised generalized canonical correlation analysis of soft biometrie fusion for recognition at a distance",
         "conferenceTitle": "8th International Conference on Imaging for Crime Detection and Prevention (ICDP 2017)",
-        "Content Type": "Conferences",
-        "date": "13-15 Dec. 2017",
+        "data": "13-15 Dec. 2017",
         "authors": [
             "Bingchen H. Guo",
             "Mark S. Nixon",
@@ -1411,8 +1347,7 @@
     {
         "title": "Formal methods in industrial dependable systems design — The TTTech example",
         "conferenceTitle": "2017 Formal Methods in Computer Aided Design (FMCAD)",
-        "Content Type": "Conferences",
-        "date": "2-6 Oct. 2017",
+        "data": "2-6 Oct. 2017",
         "authors": [
             "Wilfried Steiner"
         ],
@@ -1423,8 +1358,7 @@
     {
         "title": "Notice of Removal: Conventional and micro-focused Brillouin light scattering for the elastic characterization and the acoustic field mapping in SAW and BAW resonators",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Giovanni Carlotti"
         ],
@@ -1435,8 +1369,7 @@
     {
         "title": "Notice of Removal: Intravascular Ultrasound (IVUS) imaging reaching 100 MHz",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Xiang Li",
             "Qifa Zhou",
@@ -1450,8 +1383,7 @@
     {
         "title": "Modeling, simulation and comparison of control techniques for energy storage systems",
         "conferenceTitle": "2017 IEEE Manchester PowerTech",
-        "Content Type": "Conferences",
-        "date": "18-22 June 2017",
+        "data": "18-22 June 2017",
         "authors": [
             "Álvaro Ortega",
             "Federico Milano"
@@ -1463,8 +1395,7 @@
     {
         "title": "Semi-implicit formulation of differential-algebraic equations for transient stability analysis",
         "conferenceTitle": "2017 IEEE Power & Energy Society General Meeting",
-        "Content Type": "Conferences",
-        "date": "16-20 July 2017",
+        "data": "16-20 July 2017",
         "authors": [
             "Federico Milano"
         ],
@@ -1475,8 +1406,7 @@
     {
         "title": "Notice of Removal: Tuning waves in soft phononic rods via large deformation and electromechanical coupling",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Bin Wu",
             "Weiqiu Chen"
@@ -1488,8 +1418,7 @@
     {
         "title": "Simulation of startup sequence of an offshore wind farm with MMC-HVDC grid connection",
         "conferenceTitle": "2017 IEEE Power & Energy Society General Meeting",
-        "Content Type": "Conferences",
-        "date": "16-20 July 2017",
+        "data": "16-20 July 2017",
         "authors": [
             "Ulas Karaagac",
             "Lijun Cai",
@@ -1500,27 +1429,9 @@
         "abstract": "This paper proposes a startup sequence for a modular multilevel converter (MMC) HVDC connected offshore wind farm (OWF) and demonstrates how it can be simulated using an electromagnetic transient type tool. The objective is to analyze inrush currents of transformers and cables (HVAC and HVDC). Modeling accuracies and computational performances are examined using three existing modeling methods for the MMCs."
     },
     {
-        "title": "Notice of Removal: Full 4D functional ultrasound imaging in rodents using a matrix array",
-        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
-        "authors": [
-            "Claire Rabut",
-            "Victor Finel",
-            "Mafalda Correia",
-            "Mathieu Pernot",
-            "Thomas Deffieux",
-            "Mickaël Tanter"
-        ],
-        "DOI": "10.1109/ULTSYM.2017.8091658",
-        "citation": 1,
-        "abstract": "Removed."
-    },
-    {
         "title": "STT-MRAM memories for IoT applications: Challenges and opportunities at circuit level and above",
         "conferenceTitle": "2017 International Symposium on VLSI Technology, Systems and Application (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "24-27 April 2017",
+        "data": "24-27 April 2017",
         "authors": [
             "Massimo Alioto"
         ],
@@ -1531,8 +1442,7 @@
     {
         "title": "Notice of Removal: Performance analysis of deep learning architectures for ultrasonic NDE applications",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Kushal Virupakshappa",
             "Erdal Oruklu"
@@ -1544,8 +1454,7 @@
     {
         "title": "Hybrid Energy Storage System Control for the Provision of Ancillary Services",
         "conferenceTitle": "International ETG Congress 2017",
-        "Content Type": "Conferences",
-        "date": "28-29 Nov. 2017",
+        "data": "28-29 Nov. 2017",
         "authors": [
             "Bernd Bohnet",
             "Sebastian Kochanneck",
@@ -1562,8 +1471,7 @@
     {
         "title": "Semantic computing and cognitive computing/informatics",
         "conferenceTitle": "2017 IEEE 16th International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)",
-        "Content Type": "Conferences",
-        "date": "26-28 July 2017",
+        "data": "26-28 July 2017",
         "authors": [
             "Phillip Sheu"
         ],
@@ -1574,8 +1482,7 @@
     {
         "title": "300-GHz-band CMOS transceiver",
         "conferenceTitle": "2017 IEEE MTT-S International Microwave and RF Conference (IMaRC)",
-        "Content Type": "Conferences",
-        "date": "11-13 Dec. 2017",
+        "data": "11-13 Dec. 2017",
         "authors": [
             "Minoru Fujishima"
         ],
@@ -1586,8 +1493,7 @@
     {
         "title": "Fuzzy logic approach to predictive risk analysis in distribution outage management",
         "conferenceTitle": "2017 IEEE Power & Energy Society General Meeting",
-        "Content Type": "Conferences",
-        "date": "16-20 July 2017",
+        "data": "16-20 July 2017",
         "authors": [
             "Po-Chen Chen",
             "Mladen Kezunovic"
@@ -1599,8 +1505,7 @@
     {
         "title": "Notice of Removal: Determining a cavitation threshold for focused ultrasound enhanced intranasal drug delivery",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Robin Ji",
             "Elisa Konofagou"
@@ -1612,8 +1517,7 @@
     {
         "title": "Control Challenges in Power Systems Dominated by Converter Interfaced Generation and Transmission Technologies",
         "conferenceTitle": "NEIS 2017; Conference on Sustainable Energy Supply and Energy Storage Systems",
-        "Content Type": "Conferences",
-        "date": "21-22 Sept. 2017",
+        "data": "21-22 Sept. 2017",
         "authors": [
             "Istvan Erlich"
         ],
@@ -1624,8 +1528,7 @@
     {
         "title": "Spatial Modulation and Spatial Multiplexing Capacity Analysis over 3D mmWave Communications",
         "conferenceTitle": "European Wireless 2017; 23th European Wireless Conference",
-        "Content Type": "Conferences",
-        "date": "17-19 May 2017",
+        "data": "17-19 May 2017",
         "authors": [
             "Salma Elkawafi",
             "Abdelhamid Younis",
@@ -1641,8 +1544,7 @@
     {
         "title": "Tutorial 3: SOFA, an Open-Source Framework for Physics Simulation in Augmented Reality",
         "conferenceTitle": "2017 IEEE International Symposium on Mixed and Augmented Reality (ISMAR-Adjunct)",
-        "Content Type": "Conferences",
-        "date": "9-13 Oct. 2017",
+        "data": "9-13 Oct. 2017",
         "authors": [],
         "DOI": "10.1109/ISMAR-Adjunct.2017.18",
         "citation": 1,
@@ -1651,8 +1553,7 @@
     {
         "title": "Impact of Raaga Malkauns on Blood Pressure Measurement",
         "conferenceTitle": "2017 International Conference on Computing, Communication, Control and Automation (ICCUBEA)",
-        "Content Type": "Conferences",
-        "date": "17-18 Aug. 2017",
+        "data": "17-18 Aug. 2017",
         "authors": [
             "Pooja Kulkarni",
             "Rajesh Jalnekar"
@@ -1664,8 +1565,7 @@
     {
         "title": "Notice of Removal: Low-complexity compressive beamforming for portable ultrasound imaging",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Swetha George",
             "Ajay Anand",
@@ -1679,8 +1579,7 @@
     {
         "title": "Matlab/Simulink Based Comparative Analysis of the Effect of Ion Concentration on Action Potantial by Using Hodgkin-Huxley and Morris-Lecar Neuron Models",
         "conferenceTitle": "2017 21st National Biomedical Engineering Meeting (BIYOMUT)",
-        "Content Type": "Conferences",
-        "date": "24 Nov.-26 Dec. 2017",
+        "data": "24 Nov.-26 Dec. 2017",
         "authors": [
             "Fikret Yalcinkaya",
             "Hamza Unsal"
@@ -1692,8 +1591,7 @@
     {
         "title": "A tunable flickermeter to account for different lamp technologies",
         "conferenceTitle": "2017 IEEE Manchester PowerTech",
-        "Content Type": "Conferences",
-        "date": "18-22 June 2017",
+        "data": "18-22 June 2017",
         "authors": [
             "Jiri Drapela",
             "Roberto Langella",
@@ -1707,8 +1605,7 @@
     {
         "title": "Soft electronics for the human body",
         "conferenceTitle": "2017 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "24-27 April 2017",
+        "data": "24-27 April 2017",
         "authors": [
             "John A. Rogers"
         ],
@@ -1719,8 +1616,7 @@
     {
         "title": "PseudoRandom: A proposal of educational material for pseudorandom number generators learning",
         "conferenceTitle": "2017 Twelfth Latin American Conference on Learning Technologies (LACLO)",
-        "Content Type": "Conferences",
-        "date": "9-13 Oct. 2017",
+        "data": "9-13 Oct. 2017",
         "authors": [
             "Verónica Laura Vanoli",
             "Maria Paula Dieser"
@@ -1732,8 +1628,7 @@
     {
         "title": "Study on the total harmonic distortion of a 5-MW wind turbine with modular multilevel converter and development of a demonstrator",
         "conferenceTitle": "NEIS 2017; Conference on Sustainable Energy Supply and Energy Storage Systems",
-        "Content Type": "Conferences",
-        "date": "21-22 Sept. 2017",
+        "data": "21-22 Sept. 2017",
         "authors": [
             "Jan-Henrik Fey",
             "Frank Hinrichsen",
@@ -1746,8 +1641,7 @@
     {
         "title": "Notice of Removal: High frame rate multi-plane echocardiography using multi-line transmit beamforming: First experimental findings",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Pedro Santos",
             "João Pedrosa",
@@ -1760,8 +1654,7 @@
     {
         "title": "Arena and industry 4.0",
         "conferenceTitle": "2017 Winter Simulation Conference (WSC)",
-        "Content Type": "Conferences",
-        "date": "3-6 Dec. 2017",
+        "data": "3-6 Dec. 2017",
         "authors": [
             "Robert Kranz",
             "Nancy Zupick"
@@ -1773,8 +1666,7 @@
     {
         "title": "Ultra-broadband uniplanar passive X2 multipliers covering the Ku to W band using slotline and CPS based balun topologies",
         "conferenceTitle": "2017 IEEE MTT-S International Microwave and RF Conference (IMaRC)",
-        "Content Type": "Conferences",
-        "date": "11-13 Dec. 2017",
+        "data": "11-13 Dec. 2017",
         "authors": [
             "Utkarsh Unnikrishna",
             "Amarpal Khanna"
@@ -1786,8 +1678,7 @@
     {
         "title": "Notice of Removal: EMI issues and solutions in PWM converters",
         "conferenceTitle": "2017 IEEE Energy Conversion Congress and Exposition (ECCE)",
-        "Content Type": "Conferences",
-        "date": "1-5 Oct. 2017",
+        "data": "1-5 Oct. 2017",
         "authors": [
             "Rudy Ruxi Wang",
             "Dong Jiang"
@@ -1799,8 +1690,7 @@
     {
         "title": "Plane wave diffraction by a large rectangular aperture in a thick conducting screen",
         "conferenceTitle": "2017 International Conference on Electromagnetics in Advanced Applications (ICEAA)",
-        "Content Type": "Conferences",
-        "date": "11-15 Sept. 2017",
+        "data": "11-15 Sept. 2017",
         "authors": [
             "H. Serizawa"
         ],
@@ -1811,8 +1701,7 @@
     {
         "title": "Notice of Removal: Nanoparticles generation system using an ultrasonic torsional transducer",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Nozomu Fujimoto",
             "Takefumi Kanda"
@@ -1824,8 +1713,7 @@
     {
         "title": "Energy efficient VLSI circuits for machine learning on-chip",
         "conferenceTitle": "2017 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "24-27 April 2017",
+        "data": "24-27 April 2017",
         "authors": [
             "Hao Yu"
         ],
@@ -1836,8 +1724,7 @@
     {
         "title": "Notice of Removal: Temperature behavior of sound velocity of SiON thin films studied by picosecond ultrasound",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Seiya Tsuboi",
             "Hirotsugu Ogi",
@@ -1853,8 +1740,7 @@
     {
         "title": "Notice of Removal: Fast scanning wide-field clutter elimination in epi-optoacoustic imaging using comb-LOVIT",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Tigran Petrosyan",
             "Maria Theodorou",
@@ -1869,8 +1755,7 @@
     {
         "title": "Future improvements to HVDC cables through new cable insulation materials",
         "conferenceTitle": "13th IET International Conference on AC and DC Power Transmission (ACDC 2017)",
-        "Content Type": "Conferences",
-        "date": "14-16 Feb. 2017",
+        "data": "14-16 Feb. 2017",
         "authors": [
             "R.L. Sellick",
             "J.S. Sullivan",
@@ -1884,8 +1769,7 @@
     {
         "title": "Utilizing NVDIMM to alleviate the I/O performance gap for big data workloads",
         "conferenceTitle": "2017 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "24-27 April 2017",
+        "data": "24-27 April 2017",
         "authors": [
             "Zili Shao"
         ],
@@ -1896,8 +1780,7 @@
     {
         "title": "Notice of Removal: Acoustic cavitation emission feedback to monitor tissue fractionation during histotripsy therapy",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Jonathan Macoskey",
             "Jonathan Sukovich",
@@ -1912,8 +1795,7 @@
     {
         "title": "Notice of Removal: Background-free visualization of microvasculature networks",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Mahdi Bayat",
             "Mostafa Fatemi",
@@ -1926,8 +1808,7 @@
     {
         "title": "Notice of Removal: Multispectral ultrafast ultrasound imaging: A versatile tool probing dynamic phase-change contrast agents",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Heechul Yoon",
             "Stanislav Emelianov"
@@ -1939,8 +1820,7 @@
     {
         "title": "Optical antennas; LED's faster than lasers",
         "conferenceTitle": "2017 IEEE Photonics Society Summer Topical Meeting Series (SUM)",
-        "Content Type": "Conferences",
-        "date": "10-12 July 2017",
+        "data": "10-12 July 2017",
         "authors": [
             "Eli Yablonovitch"
         ],
@@ -1951,8 +1831,7 @@
     {
         "title": "AXIOM: A 64-bit reconfigurable hardware/software platform for scalable embedded computing",
         "conferenceTitle": "2017 6th Mediterranean Conference on Embedded Computing (MECO)",
-        "Content Type": "Conferences",
-        "date": "11-15 June 2017",
+        "data": "11-15 June 2017",
         "authors": [
             "Roberto Giorgi"
         ],
@@ -1963,8 +1842,7 @@
     {
         "title": "Intraday Redispatch - Optimal Scheduling of industrial processes at day-ahead and continuous intraday market",
         "conferenceTitle": "International ETG Congress 2017",
-        "Content Type": "Conferences",
-        "date": "28-29 Nov. 2017",
+        "data": "28-29 Nov. 2017",
         "authors": [
             "Jan Meese",
             "Benedikt Dahlmann",
@@ -1978,8 +1856,7 @@
     {
         "title": "Automated formal reasoning about AWS systems",
         "conferenceTitle": "2017 Formal Methods in Computer Aided Design (FMCAD)",
-        "Content Type": "Conferences",
-        "date": "2-6 Oct. 2017",
+        "data": "2-6 Oct. 2017",
         "authors": [
             "Byron Cook"
         ],
@@ -1990,8 +1867,7 @@
     {
         "title": "Nonlinear control of a quadrotor for attitude stabilization",
         "conferenceTitle": "2017 IEEE 3rd Colombian Conference on Automatic Control (CCAC)",
-        "Content Type": "Conferences",
-        "date": "18-20 Oct. 2017",
+        "data": "18-20 Oct. 2017",
         "authors": [
             "Andrés Pantoja",
             "Jaime Ernesto García Yela"
@@ -2003,8 +1879,7 @@
     {
         "title": "Detecting blacklisted URLs from unmodified and non-rooted Android devices",
         "conferenceTitle": "2017 IEEE 37th Central America and Panama Convention (CONCAPAN XXXVII)",
-        "Content Type": "Conferences",
-        "date": "15-17 Nov. 2017",
+        "data": "15-17 Nov. 2017",
         "authors": [
             "Oscar Somarriba"
         ],
@@ -2015,8 +1890,7 @@
     {
         "title": "Design of information value determination method for information-sharing systems during large-scale disasters",
         "conferenceTitle": "2017 IEEE 16th International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)",
-        "Content Type": "Conferences",
-        "date": "26-28 July 2017",
+        "data": "26-28 July 2017",
         "authors": [
             "Tatsuya Sonobe",
             "Akiko Takahashi",
@@ -2029,8 +1903,7 @@
     {
         "title": "Flip-chip external-cavity lasers in Si",
         "conferenceTitle": "2017 Optical Fiber Communications Conference and Exhibition (OFC)",
-        "Content Type": "Conferences",
-        "date": "19-23 March 2017",
+        "data": "19-23 March 2017",
         "authors": [],
         "DOI": "",
         "citation": 0,
@@ -2039,8 +1912,7 @@
     {
         "title": "Notice of Removal: Weekly ultrasound induced blood-brain barrier openings seem to restore memory in APP/PS1dE9 amyloid mice model",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Matthieu Gerstenmayer",
             "Erwan Selingue",
@@ -2055,8 +1927,7 @@
     {
         "title": "p-Type Layer Engineering of Hybrid Metal halide Perovskite Photovoltiacs",
         "conferenceTitle": "2017 Asia Communications and Photonics Conference (ACP)",
-        "Content Type": "Conferences",
-        "date": "10-13 Nov. 2017",
+        "data": "10-13 Nov. 2017",
         "authors": [
             "Jacek J. Jasieniak"
         ],
@@ -2067,8 +1938,7 @@
     {
         "title": "[Various Forums - 4 abstracts]",
         "conferenceTitle": "TENCON 2017 - 2017 IEEE Region 10 Conference",
-        "Content Type": "Conferences",
-        "date": "5-8 Nov. 2017",
+        "data": "5-8 Nov. 2017",
         "authors": [],
         "DOI": "10.1109/TENCON.2017.8227824",
         "citation": 0,
@@ -2077,8 +1947,7 @@
     {
         "title": "Tech-talk sessions",
         "conferenceTitle": "2017 16th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm)",
-        "Content Type": "Conferences",
-        "date": "30 May-2 June 2017",
+        "data": "30 May-2 June 2017",
         "authors": [],
         "DOI": "10.1109/ITHERM.2017.7991843",
         "citation": 0,
@@ -2087,8 +1956,7 @@
     {
         "title": "IFSA-SCIS summer school",
         "conferenceTitle": "2017 Joint 17th World Congress of International Fuzzy Systems Association and 9th International Conference on Soft Computing and Intelligent Systems (IFSA-SCIS)",
-        "Content Type": "Conferences",
-        "date": "27-30 June 2017",
+        "data": "27-30 June 2017",
         "authors": [],
         "DOI": "10.1109/IFSA-SCIS.2017.8023376",
         "citation": 0,
@@ -2097,8 +1965,7 @@
     {
         "title": "Energy Efficient Relay Selection Method for Clustered Wireless Sensor Network",
         "conferenceTitle": "European Wireless 2017; 23th European Wireless Conference",
-        "Content Type": "Conferences",
-        "date": "17-19 May 2017",
+        "data": "17-19 May 2017",
         "authors": [
             "Mohamad Cheikh",
             "Oluyomi Simpson",
@@ -2111,8 +1978,7 @@
     {
         "title": "Blank page",
         "conferenceTitle": "2017 IEEE 19th Conference on Business Informatics (CBI)",
-        "Content Type": "Conferences",
-        "date": "24-27 July 2017",
+        "data": "24-27 July 2017",
         "authors": [],
         "DOI": "10.1109/CBI.2017.8038903",
         "citation": 0,
@@ -2121,8 +1987,7 @@
     {
         "title": "Notice of Removal: In-vivo quantitative assessment of pulmonary edema and fibrosis using ultrasound multiple scattering",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Kaustav Mohanty",
             "Marie Muller",
@@ -2136,8 +2001,7 @@
     {
         "title": "Notice of Removal: Estimation of the thickness of refractory ceramics by the impact-echo method",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Seongmin Lee",
             "Namho Shin",
@@ -2150,8 +2014,7 @@
     {
         "title": "Cyber-physical virtual platforms: Techniques for sensors integration",
         "conferenceTitle": "2017 7th IEEE International Workshop on Advances in Sensors and Interfaces (IWASI)",
-        "Content Type": "Conferences",
-        "date": "15-16 June 2017",
+        "data": "15-16 June 2017",
         "authors": [
             "Franco Fummi"
         ],
@@ -2162,8 +2025,7 @@
     {
         "title": "Notice of Removal: High contrast-to-tissue ratio imaging technique using the unique vaporization signature from phase-change contrast agents",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Juan Rojas",
             "Paul Dayton"
@@ -2175,8 +2037,7 @@
     {
         "title": "On prime distance labeling of graphs",
         "conferenceTitle": "2017 International Conference On Smart Technologies For Smart Nation (SmartTechCon)",
-        "Content Type": "Conferences",
-        "date": "17-19 Aug. 2017",
+        "data": "17-19 Aug. 2017",
         "authors": [
             "V. Yegnanarayanan"
         ],
@@ -2187,8 +2048,7 @@
     {
         "title": "Delivery delay analysis for large-size multimedia messages in V2I/V2V networks",
         "conferenceTitle": "7th IET International Conference on Wireless, Mobile & Multimedia Networks (ICWMMN 2017)",
-        "Content Type": "Conferences",
-        "date": "17-20 Nov. 2017",
+        "data": "17-20 Nov. 2017",
         "authors": [
             "Bin Pan",
             "Hao Wu",
@@ -2201,8 +2061,7 @@
     {
         "title": "Plenary invited speakers",
         "conferenceTitle": "2017 Symposium on Design, Test, Integration and Packaging of MEMS/MOEMS (DTIP)",
-        "Content Type": "Conferences",
-        "date": "29 May-1 June 2017",
+        "data": "29 May-1 June 2017",
         "authors": [],
         "DOI": "10.1109/DTIP.2017.7984431",
         "citation": 0,
@@ -2211,8 +2070,7 @@
     {
         "title": "Notice of Removal: LightProbe: A fully-digital 64-channel ultrasound probe with high-bandwidth optical interface",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Pascal Alexander Hager",
             "Daniel Speicher",
@@ -2226,8 +2084,7 @@
     {
         "title": "English Mu Class Analysis and Design Based on Grey Correlation",
         "conferenceTitle": "2017 9th International Conference on Measuring Technology and Mechatronics Automation (ICMTMA)",
-        "Content Type": "Conferences",
-        "date": "14-15 Jan. 2017",
+        "data": "14-15 Jan. 2017",
         "authors": [
             "Wenhua Wang"
         ],
@@ -2238,8 +2095,7 @@
     {
         "title": "Localization of macular edema region from color retinal images for detection of diabetic retinopathy",
         "conferenceTitle": "2017 International Artificial Intelligence and Data Processing Symposium (IDAP)",
-        "Content Type": "Conferences",
-        "date": "16-17 Sept. 2017",
+        "data": "16-17 Sept. 2017",
         "authors": [
             "Ümit Budak",
             "Abdulkadir Şengür",
@@ -2252,8 +2108,7 @@
     {
         "title": "Notice of Removal: Prediction of thermal coagulation by short-pulse pre-exposure for cavitation-enhanced ultrasonic heating",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Ryosuke Iwasaki",
             "Ryo Takagi",
@@ -2267,8 +2122,7 @@
     {
         "title": "Notice of Removal: Imaging performance analysis of a foldable large aperture 2-D ICE array",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Bernard Shieh",
             "Karim Sabra",
@@ -2281,8 +2135,7 @@
     {
         "title": "Women in engineering special session",
         "conferenceTitle": "2017 IEEE AFRICON",
-        "Content Type": "Conferences",
-        "date": "18-20 Sept. 2017",
+        "data": "18-20 Sept. 2017",
         "authors": [],
         "DOI": "10.1109/AFRCON.2017.8095445",
         "citation": 0,
@@ -2291,8 +2144,7 @@
     {
         "title": "Quantum nano-photonic devices based on rare-earth ions",
         "conferenceTitle": "2017 Conference on Lasers and Electro-Optics (CLEO)",
-        "Content Type": "Conferences",
-        "date": "14-19 May 2017",
+        "data": "14-19 May 2017",
         "authors": [
             "A. Faraon"
         ],
@@ -2303,8 +2155,7 @@
     {
         "title": "Chemical microscopy: Seeing the invisible using intrinsic molecular spectroscopic signatures",
         "conferenceTitle": "2017 Conference on Lasers and Electro-Optics (CLEO)",
-        "Content Type": "Conferences",
-        "date": "14-19 May 2017",
+        "data": "14-19 May 2017",
         "authors": [
             "J. Cheng"
         ],
@@ -2315,8 +2166,7 @@
     {
         "title": "[Keynote speakers - 2 abstracts]",
         "conferenceTitle": "2017 4th International Conference on Computer Applications and Information Processing Technology (CAIPT)",
-        "Content Type": "Conferences",
-        "date": "8-10 Aug. 2017",
+        "data": "8-10 Aug. 2017",
         "authors": [],
         "DOI": "10.1109/CAIPT.2017.8320652",
         "citation": 0,
@@ -2325,8 +2175,7 @@
     {
         "title": "Next generation CMOS temperature sensors",
         "conferenceTitle": "2017 7th IEEE International Workshop on Advances in Sensors and Interfaces (IWASI)",
-        "Content Type": "Conferences",
-        "date": "15-16 June 2017",
+        "data": "15-16 June 2017",
         "authors": [
             "Kofi Makinwa"
         ],
@@ -2337,8 +2186,7 @@
     {
         "title": "Plenary speakers",
         "conferenceTitle": "2017 IEEE 14th International Symposium on Biomedical Imaging (ISBI 2017)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2017",
+        "data": "18-21 April 2017",
         "authors": [],
         "DOI": "10.1109/ISBI.2017.7950448",
         "citation": 0,
@@ -2347,8 +2195,7 @@
     {
         "title": "Notice of Removal: Optimal clutter filtering for improved perfusion sensitivity",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "MinWoo Kim",
             "Jamila Hedhli",
@@ -2363,8 +2210,7 @@
     {
         "title": "Industry 4.0: Open as well as closed",
         "conferenceTitle": "2017 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "24-27 April 2017",
+        "data": "24-27 April 2017",
         "authors": [
             "Clement Lin"
         ],
@@ -2375,8 +2221,7 @@
     {
         "title": "Laser-based soft X-ray FEL seeding: Recent advances and outlook at FERMI",
         "conferenceTitle": "2017 Conference on Lasers and Electro-Optics (CLEO)",
-        "Content Type": "Conferences",
-        "date": "14-19 May 2017",
+        "data": "14-19 May 2017",
         "authors": [
             "M. B. Danailov",
             "P. Cinquegrana",
@@ -2392,8 +2237,7 @@
     {
         "title": "Performance and computational trade analysis for low-SWaP synthetic aperture radar application",
         "conferenceTitle": "International Conference on Radar Systems (Radar 2017)",
-        "Content Type": "Conferences",
-        "date": "23-26 Oct. 2017",
+        "data": "23-26 Oct. 2017",
         "authors": [
             "A. S. Paulus",
             "M. S. Davis",
@@ -2408,8 +2252,7 @@
     {
         "title": "Notice of Removal: A high-sensitivity and wide dynamic range acoustic sensor using multiple mzis micro-opto-mechanical technology",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Hang Gao",
             "Chih-Hsien Huang",
@@ -2423,8 +2266,7 @@
     {
         "title": "Calculation of Model Parameters by EMG During Dynamic Motion of Human Arm",
         "conferenceTitle": "2017 21st National Biomedical Engineering Meeting (BIYOMUT)",
-        "Content Type": "Conferences",
-        "date": "24 Nov.-26 Dec. 2017",
+        "data": "24 Nov.-26 Dec. 2017",
         "authors": [
             "Nurhan Gursel Ozmen",
             "Frans C.T. Van Der Helm",
@@ -2437,8 +2279,7 @@
     {
         "title": "Research on safety distance in live operation with helicopter and hanging basket on 500kV transmission line",
         "conferenceTitle": "2017 EPTC Power Transmission and Transformation Technology Conference",
-        "Content Type": "Conferences",
-        "date": "15-16 March 2017",
+        "data": "15-16 March 2017",
         "authors": [
             "Yi Wu",
             "Weidong Liu",
@@ -2452,8 +2293,7 @@
     {
         "title": "Special sessions: Controls teaching made easier with MATLAB and Simulink",
         "conferenceTitle": "2017 IEEE 56th Annual Conference on Decision and Control (CDC)",
-        "Content Type": "Conferences",
-        "date": "12-15 Dec. 2017",
+        "data": "12-15 Dec. 2017",
         "authors": [
             "Craig Buhr"
         ],
@@ -2464,8 +2304,7 @@
     {
         "title": "Notice of Removal: Shaping acoustofluidic landscapes to profile and separate cells and sub-micron particles",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Per Augustsson"
         ],
@@ -2476,8 +2315,7 @@
     {
         "title": "Notice of Removal: Development of wide dynamic range receiver for intravascular ultrasound imaging",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Ju-Young Moon",
             "Junsu Lee",
@@ -2490,8 +2328,7 @@
     {
         "title": "Notice of Removal: Film growth of c-axis parallel oriented ZnO on entire surface of silica glass pipe for SH-SAW pipe sensor",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Yuta Takamura",
             "Shinji Takayanagi",
@@ -2506,8 +2343,7 @@
     {
         "title": "In vivo cellular imaging with spectrally encoded confocal microscopy",
         "conferenceTitle": "2017 Conference on Lasers and Electro-Optics (CLEO)",
-        "Content Type": "Conferences",
-        "date": "14-19 May 2017",
+        "data": "14-19 May 2017",
         "authors": [
             "D. Kang"
         ],
@@ -2518,8 +2354,7 @@
     {
         "title": "The ALPHET project: A new approach to improve the lifing methodology for thermocouple probes used in gas turbines",
         "conferenceTitle": "EVI-GTI Conference on Gas Turbine Instrumentation (GTI 2017)",
-        "Content Type": "Conferences",
-        "date": "28-30 Nov. 2017",
+        "data": "28-30 Nov. 2017",
         "authors": [
             "M. Scervini",
             "C. Rae",
@@ -2536,8 +2371,7 @@
     {
         "title": "Integrated Optomechanical Devices and Their Applications",
         "conferenceTitle": "2017 Asia Communications and Photonics Conference (ACP)",
-        "Content Type": "Conferences",
-        "date": "10-13 Nov. 2017",
+        "data": "10-13 Nov. 2017",
         "authors": [
             "Lei Shi",
             "L. Shi"
@@ -2549,8 +2383,7 @@
     {
         "title": "Seven Reasons why Power Designers Should Implement 48 V to 1 V Direct Conversion",
         "conferenceTitle": "PCIM Europe 2017; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "16-18 May 2017",
+        "data": "16-18 May 2017",
         "authors": [
             "Bob Cantrell",
             "Martin Haegerdal"
@@ -2562,8 +2395,7 @@
     {
         "title": "Terahertz quantum cascade laser frequency combs",
         "conferenceTitle": "2017 Conference on Lasers and Electro-Optics (CLEO)",
-        "Content Type": "Conferences",
-        "date": "14-19 May 2017",
+        "data": "14-19 May 2017",
         "authors": [
             "D. P. Burghoff"
         ],
@@ -2574,8 +2406,7 @@
     {
         "title": "Dynamics, control, and metastability in correlated oxides",
         "conferenceTitle": "2017 Conference on Lasers and Electro-Optics (CLEO)",
-        "Content Type": "Conferences",
-        "date": "14-19 May 2017",
+        "data": "14-19 May 2017",
         "authors": [
             "R. D. Averitt"
         ],
@@ -2586,8 +2417,7 @@
     {
         "title": "A Double-Sided Cooling Package Design with Pinfin",
         "conferenceTitle": "PCIM Asia 2017; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "27-29 June 2017",
+        "data": "27-29 June 2017",
         "authors": [
             "Puqi Ning",
             "Xuhui Wen"
@@ -2599,8 +2429,7 @@
     {
         "title": "Photovoltaics as a branch of opto-electronics: solar cells, heat engines, electroluminescent refrigerators",
         "conferenceTitle": "2017 Conference on Lasers and Electro-Optics (CLEO)",
-        "Content Type": "Conferences",
-        "date": "14-19 May 2017",
+        "data": "14-19 May 2017",
         "authors": [
             "E. Yablonovitch",
             "T. Xiao"
@@ -2612,8 +2441,7 @@
     {
         "title": "Keynote - 3: Beyond Big Data Scalability: Bringing High-Performance Analytics to Processing Hardware by Dr. Zaid Al-Ars",
         "conferenceTitle": "2017 European Modelling Symposium (EMS)",
-        "Content Type": "Conferences",
-        "date": "20-21 Nov. 2017",
+        "data": "20-21 Nov. 2017",
         "authors": [
             "Zaid Al-Ars"
         ],
@@ -2624,8 +2452,7 @@
     {
         "title": "Notice of Removal: Transcranial dual frequency ultrasound for contrast enhanced ultrafast brain functional imaging — An in vitro feasibility study",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Thomas Robins",
             "Mengxing Tang"
@@ -2637,8 +2464,7 @@
     {
         "title": "Notice of Removal: The effect of in-plane and out-of-plane fiber waviness on guided waves",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2017",
+        "data": "6-9 Sept. 2017",
         "authors": [
             "Peter Juarez",
             "Cara Leckey"
@@ -2646,28 +2472,5 @@
         "DOI": "10.1109/ULTSYM.2017.8091588",
         "citation": 0,
         "abstract": "Removed."
-    },
-    {
-        "title": "Design and Realization of a 100 kHz - 100 kW Series Resonant Inverter with SiC-MOSFETs Connected in Parallel for a High Frequency Induction Heating",
-        "conferenceTitle": "PCIM Europe 2017; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "16-18 May 2017",
-        "authors": [
-            "Yildiray Baskurt",
-            "Haldun Karaca"
-        ],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "With the development of recent technologies on semiconductor industry, SiC-MOSFETs are becoming more and more popular in today's power electronic era. As their operating voltages are getting higher, they have started to replace IGBTs in many applications due to their much less power dissipation and more availability of using in high frequency applications. In this article an induction surface hardening system which operates at around 100 kHz frequency and up to 100 kW output power level has been studied. In order to fulfill these requirements SiC-MOSEFT Power Modules were chosen and two of them per one switch were connected in parallel in order to build-up a full bridge structure for a series resonant inverter. In order to minimize the parasitic inductance effects, a careful study was held on during the parallelization of the SiC-MOSFET modules. Beside this a new and reliable control technique to follow the resonant frequency has also been introduced and realized."
-    },
-    {
-        "title": "Keynote abstracts",
-        "conferenceTitle": "2017 IEEE 14th International Conference on e-Business Engineering (ICEBE)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2017",
-        "authors": [],
-        "DOI": "10.1109/ICEBE.2017.10",
-        "citation": 0,
-        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
     }
 ]

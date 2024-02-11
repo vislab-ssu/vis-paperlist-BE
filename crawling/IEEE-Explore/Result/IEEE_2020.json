@@ -2,8 +2,7 @@
     {
         "title": "NVIDIA A100 GPU: Performance & Innovation for GPU Computing",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Jack Choquette",
             "Wish Gandhi"
@@ -15,20 +14,18 @@
     {
         "title": "Silicon Photonics for Artificial Intelligence Acceleration : HotChips 32",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Carl Ramey"
         ],
         "DOI": "10.1109/HCS49909.2020.9220525",
-        "citation": 24,
+        "citation": 25,
         "abstract": "This article consists only of a collection of slides from the author's conference presentation."
     },
     {
         "title": "Google's Training Chips Revealed: TPUv2 and TPUv3",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Thomas Norrie",
             "Nishant Patil",
@@ -41,14 +38,13 @@
             "David Patterson"
         ],
         "DOI": "10.1109/HCS49909.2020.9220735",
-        "citation": 20,
+        "citation": 24,
         "abstract": "This article consists only of a collection of slides from the author's conference presentation."
     },
     {
         "title": "New 3rd Gen Intel® Xeon® Scalable Processor (Codename: Ice Lake-SP)",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Irma Esmer Papazian"
         ],
@@ -59,8 +55,7 @@
     {
         "title": "5G Evolution and 6G",
         "conferenceTitle": "2020 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "10-13 Aug. 2020",
+        "data": "10-13 Aug. 2020",
         "authors": [
             "Takehiro Nakamura"
         ],
@@ -71,21 +66,34 @@
     {
         "title": "Intel Tofino2 – A 12.9Tbps P4-Programmable Ethernet Switch",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Anurag Agrawal",
             "Changhoon Kim"
         ],
         "DOI": "10.1109/HCS49909.2020.9220636",
-        "citation": 13,
+        "citation": 14,
         "abstract": "This article consists only of a collection of slides from the author's conference presentation."
+    },
+    {
+        "title": "Multipath propagation analysis and ghost target removal for FMCW automotive radars",
+        "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
+        "data": "4-6 Nov. 2020",
+        "authors": [
+            "C. Liu",
+            "S. Liu",
+            "C. Zhang",
+            "Y. Huang",
+            "H. Wang"
+        ],
+        "DOI": "10.1049/icp.2021.0554",
+        "citation": 12,
+        "abstract": "Multipath propagation induced by large number of reflec-tions from complex environments has been a long-standing challenge that affects automotive radar target detection. This unwanted effect gives rise to power fading and ghost targets, which leads to degraded estimation performance and increased false alarms. In this paper, we present mathematical formulations for multipath propagation model and the corrupted echoes, where frequency modulated continuous wave as a commonly adopted transmit waveform in automotive radars is considered. The impact of the multipath propagation on target detection is then analyzed. Additionally, a simple but effective algorithm is proposed to remove the ghost targets. Numerical simulations are provided to demonstrate the satisfactory performance."
     },
     {
         "title": "Hanguang 800 NPU – The Ultimate AI Inference Solution for Data Centers",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Yang Jiao",
             "Liang Han",
@@ -96,26 +104,9 @@
         "abstract": "This article consists only of a collection of slides from the author's conference presentation."
     },
     {
-        "title": "Multipath propagation analysis and ghost target removal for FMCW automotive radars",
-        "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
-        "authors": [
-            "C. Liu",
-            "S. Liu",
-            "C. Zhang",
-            "Y. Huang",
-            "H. Wang"
-        ],
-        "DOI": "10.1049/icp.2021.0554",
-        "citation": 11,
-        "abstract": "Multipath propagation induced by large number of reflec-tions from complex environments has been a long-standing challenge that affects automotive radar target detection. This unwanted effect gives rise to power fading and ghost targets, which leads to degraded estimation performance and increased false alarms. In this paper, we present mathematical formulations for multipath propagation model and the corrupted echoes, where frequency modulated continuous wave as a commonly adopted transmit waveform in automotive radars is considered. The impact of the multipath propagation on target detection is then analyzed. Additionally, a simple but effective algorithm is proposed to remove the ghost targets. Numerical simulations are provided to demonstrate the satisfactory performance."
-    },
-    {
         "title": "Agilex™ Generation of Intel® FPGAs",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Ilya K. Ganusov",
             "Mahesh A. Iyer",
@@ -129,21 +120,19 @@
     {
         "title": "A Technical Overview of Cortex-M55 and Ethos-U55: Arm’s Most Capable Processors for Endpoint AI",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Allan Skillman",
             "Tomas Edsö"
         ],
         "DOI": "10.1109/HCS49909.2020.9220415",
-        "citation": 8,
+        "citation": 9,
         "abstract": "This article consists only of a collection of slides from the author's conference presentation."
     },
     {
         "title": "The application of line protection relays in high voltage AC transmission grids considering the capabilities and limitations of connected MMCs",
         "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 March 2020",
+        "data": "9-12 March 2020",
         "authors": [
             "Christina Brantl",
             "Philipp Ruffing",
@@ -154,10 +143,23 @@
         "abstract": "The simultaneous increase of grid connected converters and decommissioning of conventional power generation integrated via synchronous generators will lead to a change of the transmission system behaviour under faults. This paper reviews the possible behaviour of Modular Multilevel Converters (MMCs) under AC faults considering different grid conditions and control objectives as well as the resulting impact on the line protection functionality. One main result is that typical distance protection relays will mal-operate when installed at radial line ends terminated by MMCs due to the different short circuit powers of the MMC and the grid, the flexible phase angle of the MMCs AC side voltage and the changed current profiles under asymmetrical faults compared to HVAC systems fed by synchronous generators. For cases in which the MMCs is connected at busbars with multiple outgoing lines, the impact of the MMC depends on the short circuit power of the connected nodes. However, even for low short circuit powers of the surrounding grid, both distance and differential protection work reliably as the MMC does not significantly change the characteristic behaviour of the AC transmission grid."
     },
     {
+        "title": "Adaptive dead time in high frequency GaN-Inverters with LC output filter",
+        "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
+        "data": "15-17 Dec. 2020",
+        "authors": [
+            "B. Kohlhepp",
+            "D. Kübrich",
+            "M. Tannhäuser",
+            "T. Dürbaum"
+        ],
+        "DOI": "10.1049/icp.2021.0977",
+        "citation": 6,
+        "abstract": "GaN-HEMTs offer new possibilities for the development of advanced power electronics. Due to lower parasitics, GaN devices enable higher switching frequencies and thus higher power densities. However, in comparison to silicon MOSFETs the higher voltage drop during reverse conduction causes more losses during dead time. Therefore, it is essential to adjust the dead time to the actual operation point. This paper proposes a novel method to determine the optimal dead times of the transitions within the half-bridges of an inverter with LC output filter. The dead time is adapted in every switching cycle using variables, which are typically present in the control unit of the inverter. This allows an efficient implementation of the method on microprocessors. The study reveals, based on a 48 V GaN inverter, that the optimal dead time varies in a large range and thus indicates the necessity of an adaptive dead time."
+    },
+    {
         "title": "The Xe GPU Architecture",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "David Blythe"
         ],
@@ -168,8 +170,7 @@
     {
         "title": "COMPARATIVE ANALYSIS BETWEEN AXIAL AND COAXIAL MAGNETIC COUPLINGS",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "Y. Akcay",
             "P. Giangrande",
@@ -181,37 +182,9 @@
         "abstract": "The adoption of magnetic couplings enables the transmission of mechanical power relying on the magnetic fields interaction rather than a physical mechanical connection. Hence, the contactless speed/torque transmission leads to improvements in terms of efficiency and reliability, due to the absence of wear out between moving parts. For a specific application, the most appropriate magnetic coupling configuration (i.e. axial or coaxial) is usually identified through a trade-off study. In this paper, a comparative analysis between axial and coaxial magnetic couplings is presented using a two-dimensional subdomain approach. Based on a full-parametric geometry, two 2D analytical tools are developed for each magnetic coupling configuration. These analytical tools are validated against finite element results in order to prove their effectiveness. Finally, the implemented models are used to investigate the impact of parameters, such as permanent magnet span, airgap thickness and number of pole-pairs, on the maximum static torque."
     },
     {
-        "title": "Performance Analysis of NOMA Systems in Relay-Assisted Cognitive Radio Networks",
-        "conferenceTitle": "2020 28th Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "5-7 Oct. 2020",
-        "authors": [
-            "Fatma Kebire Bardak",
-            "Mustafa Namdar",
-            "Arif Basgumus"
-        ],
-        "DOI": "10.1109/SIU49456.2020.9302392",
-        "citation": 5,
-        "abstract": "In this study, the performance of non-orthogonal multiple access systems (NOMA) in relay assisted cognitive radio (CR) networks is investigated. Mathematical inferences in the proposed system model are obtained by deriving the closed-form equations of the outage probability for the far and near users by considering exponentially distributed channels. The outage probability performances of the relay and cognitive users are analyzed with 106 repeated Monte Carlo simulations, considering the distance between nodes, power allocation coefficient, interference power, and exponential distribution parameters."
-    },
-    {
-        "title": "Radar Target Detection via Deep Learning",
-        "conferenceTitle": "2020 28th Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "5-7 Oct. 2020",
-        "authors": [
-            "Faruk Yavuz",
-            "Mert Kalfa·"
-        ],
-        "DOI": "10.1109/SIU49456.2020.9302316",
-        "citation": 5,
-        "abstract": "This work proposes a Deep Learning based technique for radar target detection to replace standard radar signal processing techniques. The proposed technique comprises a Convolutional Neural Network (CNN) with the range-Doppler ambiguity function serving as its input. A radar simulator is developed to generate range-Doppler data for a single target with an isotropic antenna. The method is compared with the classical Cell-Averaging Constant False Alarm Rate (CA-CFAR) detector, and it is demonstrated that the proposed method outperforms CFAR approximately by a factor of 2 terms of probability of detection (PD) and by a factor of 100 in terms of probability of false alarm (PFA), at a minor cost of computational complexity."
-    },
-    {
         "title": "Xilinx Versal™ Premium",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Martin Voogel",
             "Yohan Frans",
@@ -227,14 +200,78 @@
             "Gaurav Singh"
         ],
         "DOI": "10.1109/HCS49909.2020.9220682",
-        "citation": 4,
+        "citation": 5,
         "abstract": "This article consists only of a collection of slides from the author's conference presentation."
+    },
+    {
+        "title": "A 4096-core RISC-V Chiplet Architecture for Ultra-efficient Floating-point Computing",
+        "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
+        "data": "16-18 Aug. 2020",
+        "authors": [
+            "Florian Zaruba",
+            "Fabian Schuiki",
+            "Luca Benini"
+        ],
+        "DOI": "10.1109/HCS49909.2020.9220474",
+        "citation": 5,
+        "abstract": "This article consists only of a collection of slides from the author's conference presentation."
+    },
+    {
+        "title": "A survey of IoT-based smart parking systems in smart cities",
+        "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
+        "data": "21-23 Sept. 2020",
+        "authors": [
+            "M. Assim",
+            "A. Al-Omary"
+        ],
+        "DOI": "10.1049/icp.2021.0911",
+        "citation": 5,
+        "abstract": "Smart cities are becoming more popular with the increasing demand for applying the Internet of Things (IoT) technology. The objective of smart cities is to increase the use of resources efficiently and to preserve data security, integrity, and controlling network infrastructure management. IoT concept can solve many problems related to smart cities, and car parking is one of these problems as with the increase in vehicles' numbers and traffic congestion, the need for a smart parking system has been raised. The parking system will not solve only the driver's problem looking for an available parking space but also will enhance the parking monitoring and management problem. In this research, a detailed and comprehensive literature survey of the previous studies and project implementations will be reviewed to explore the best practices done and to find the gaps in previous studies. Implementation and development of a smart parking system based on IoT technology have been proposed using the simulation method. The system will monitor the parking spaces and enable the drivers to check the available parking slots and reserve it for a specific time. The reservation of the parking slot can save the drivers' time and reduce the consumption of fuel, and this will even lead to the reduction of the emission of Carbon Monoxide (CO) gas to the air by the vehicles."
+    },
+    {
+        "title": "Performance Analysis of NOMA Systems in Relay-Assisted Cognitive Radio Networks",
+        "conferenceTitle": "2020 28th Signal Processing and Communications Applications Conference (SIU)",
+        "data": "5-7 Oct. 2020",
+        "authors": [
+            "Fatma Kebire Bardak",
+            "Mustafa Namdar",
+            "Arif Basgumus"
+        ],
+        "DOI": "10.1109/SIU49456.2020.9302392",
+        "citation": 5,
+        "abstract": "In this study, the performance of non-orthogonal multiple access systems (NOMA) in relay assisted cognitive radio (CR) networks is investigated. Mathematical inferences in the proposed system model are obtained by deriving the closed-form equations of the outage probability for the far and near users by considering exponentially distributed channels. The outage probability performances of the relay and cognitive users are analyzed with 106 repeated Monte Carlo simulations, considering the distance between nodes, power allocation coefficient, interference power, and exponential distribution parameters."
+    },
+    {
+        "title": "Radar Target Detection via Deep Learning",
+        "conferenceTitle": "2020 28th Signal Processing and Communications Applications Conference (SIU)",
+        "data": "5-7 Oct. 2020",
+        "authors": [
+            "Faruk Yavuz",
+            "Mert Kalfa·"
+        ],
+        "DOI": "10.1109/SIU49456.2020.9302316",
+        "citation": 5,
+        "abstract": "This work proposes a Deep Learning based technique for radar target detection to replace standard radar signal processing techniques. The proposed technique comprises a Convolutional Neural Network (CNN) with the range-Doppler ambiguity function serving as its input. A radar simulator is developed to generate range-Doppler data for a single target with an isotropic antenna. The method is compared with the classical Cell-Averaging Constant False Alarm Rate (CA-CFAR) detector, and it is demonstrated that the proposed method outperforms CFAR approximately by a factor of 2 terms of probability of detection (PD) and by a factor of 100 in terms of probability of false alarm (PFA), at a minor cost of computational complexity."
+    },
+    {
+        "title": "An improved droop control strategy for accurate current sharing and DC-BUS voltage compensation in DC microgrid",
+        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
+        "data": "2-3 July 2020",
+        "authors": [
+            "X. Tian",
+            "Y. Wang",
+            "F. Wang",
+            "Z. Guo",
+            "Y. Dong"
+        ],
+        "DOI": "10.1049/icp.2020.0285",
+        "citation": 4,
+        "abstract": "This paper addresses load current sharing among parallel-connected DC-DC converters and bus voltage drop issues caused by traditional droop method in low-voltage DC microgrid. Conventionally, I-V droop control is an effective way to parallel converter modules due to its high reliability, extendibility and economy. However, when the effect of mismatching line resistances is considered, the traditional droop control has limitations on the voltage regulation while the load current sharing accuracy is maintained. In this paper, an improved nonlinear droop control method is adopted to realize both accurate load current sharing and local output voltage improvement, which is achieved by adaptively adjusting nonlinear I-V droop curve with the information of DC bus voltage. Meanwhile, a secondary controller of DC bus voltage restoration is introduced to realize voltage drop compensation through the secondary regulation of I-V curve. The simulation model with two source converters and a single Constant Power Load (CPL) was built in Matlab-Simulink, which can be extended to multiple sources and multiple loads connected to the DC bus. Compared with the simulation results of the traditional droop control method and another improved droop control method, the better performance of the adopted control strategy is validated."
     },
     {
         "title": "Review of the recent blackouts and the enlightenment",
         "conferenceTitle": "CIRED 2020 Berlin Workshop (CIRED 2020)",
-        "Content Type": "Conferences",
-        "date": "22-23 Sept. 2020",
+        "data": "22-23 Sept. 2020",
         "authors": [
             "Qi Zhao",
             "Xiaoman Qi",
@@ -247,24 +284,9 @@
         "abstract": "With the development of technology, the connection between the power system and the social economy has grown to a high level. To avoid the massive damage caused by power blackouts, in this study, several large-scale blackouts that happened around the world recently have been reviewed and analysed. First, the backgrounds, processes and causes of the blackouts are elaborately illustrated. The causes are summarised into some main points, and coping strategy for each point is discussed. Finally, some enlightenments are concluded to cope with the blackouts and guarantee the security of the power system."
     },
     {
-        "title": "A 4096-core RISC-V Chiplet Architecture for Ultra-efficient Floating-point Computing",
-        "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
-        "authors": [
-            "Florian Zaruba",
-            "Fabian Schuiki",
-            "Luca Benini"
-        ],
-        "DOI": "10.1109/HCS49909.2020.9220474",
-        "citation": 4,
-        "abstract": "This article consists only of a collection of slides from the author's conference presentation."
-    },
-    {
         "title": "Automatic Generation of Matching Clothes Design Using Generative Adversarial Networks",
         "conferenceTitle": "2020 28th Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "5-7 Oct. 2020",
+        "data": "5-7 Oct. 2020",
         "authors": [
             "Mehmet Önder",
             "Yusuf Sinan Akgül"
@@ -274,38 +296,9 @@
         "abstract": "This paper introduces a new automated system for designing new clothes. Given sample clothes, this system generates matching cloth designs in a few seconds. Optimizing the new cloth design times and decreasing the cost of such designs are some of the main desires of the textile industry, which can be achieved with the help of the system proposed. Our system employs Generative Adversarial Networks of deep learning techniques, which became very popular for many applications. The proposed system has also some valuable properties for the consumers, such as having a completely original design that no other clothing brand offers. We validated the proposed system by performing experiments on volunteers by showing the produced designs and getting their opinions. We are very encouraged by the initial results and we think that the system may be applicable for practical employment."
     },
     {
-        "title": "A survey of IoT-based smart parking systems in smart cities",
-        "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
-        "authors": [
-            "M. Assim",
-            "A. Al-Omary"
-        ],
-        "DOI": "10.1049/icp.2021.0911",
-        "citation": 4,
-        "abstract": "Smart cities are becoming more popular with the increasing demand for applying the Internet of Things (IoT) technology. The objective of smart cities is to increase the use of resources efficiently and to preserve data security, integrity, and controlling network infrastructure management. IoT concept can solve many problems related to smart cities, and car parking is one of these problems as with the increase in vehicles' numbers and traffic congestion, the need for a smart parking system has been raised. The parking system will not solve only the driver's problem looking for an available parking space but also will enhance the parking monitoring and management problem. In this research, a detailed and comprehensive literature survey of the previous studies and project implementations will be reviewed to explore the best practices done and to find the gaps in previous studies. Implementation and development of a smart parking system based on IoT technology have been proposed using the simulation method. The system will monitor the parking spaces and enable the drivers to check the available parking slots and reserve it for a specific time. The reservation of the parking slot can save the drivers' time and reduce the consumption of fuel, and this will even lead to the reduction of the emission of Carbon Monoxide (CO) gas to the air by the vehicles."
-    },
-    {
-        "title": "Adaptive dead time in high frequency GaN-Inverters with LC output filter",
-        "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
-        "authors": [
-            "B. Kohlhepp",
-            "D. Kübrich",
-            "M. Tannhäuser",
-            "T. Dürbaum"
-        ],
-        "DOI": "10.1049/icp.2021.0977",
-        "citation": 4,
-        "abstract": "GaN-HEMTs offer new possibilities for the development of advanced power electronics. Due to lower parasitics, GaN devices enable higher switching frequencies and thus higher power densities. However, in comparison to silicon MOSFETs the higher voltage drop during reverse conduction causes more losses during dead time. Therefore, it is essential to adjust the dead time to the actual operation point. This paper proposes a novel method to determine the optimal dead times of the transitions within the half-bridges of an inverter with LC output filter. The dead time is adapted in every switching cycle using variables, which are typically present in the control unit of the inverter. This allows an efficient implementation of the method on microprocessors. The study reveals, based on a 48 V GaN inverter, that the optimal dead time varies in a large range and thus indicates the necessity of an adaptive dead time."
-    },
-    {
         "title": "IBM’s POWER10 Processor",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "William Starke",
             "Brian Thompto"
@@ -317,8 +310,7 @@
     {
         "title": "Design, analysis and comparative study of Hub motor for an electric bike",
         "conferenceTitle": "Michael Faraday IET International Summit 2020 (MFIIS 2020)",
-        "Content Type": "Conferences",
-        "date": "3-4 Oct. 2020",
+        "data": "3-4 Oct. 2020",
         "authors": [
             "S. K. Chawrasia",
             "A. Das",
@@ -332,8 +324,7 @@
     {
         "title": "Time and cost-effective recovery mechanism for unhealthy resources in proactive fault tolerance framework",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "T. Tamilvizhi",
             "R. Surendran"
@@ -345,8 +336,7 @@
     {
         "title": "PERMANENT MAGNET SYNCHRONOUS MACHINE TEMPERATURE ESTIMATION USING LOW-ORDER LUMPED-PARAMETER THERMAL NETWORK WITH EXTENDED IRON LOSS MODEL",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "E. G. Gedlu",
             "O. Wallscheid",
@@ -359,8 +349,7 @@
     {
         "title": "SPEEDING UP CONVERTER DESIGN BY ANALYTICAL MODELING AND GENETIC OPTIMIZATION A MORE ELECTRIC AIRCRAFT EXAMPLE",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "N. Fritz",
             "X. Pan",
@@ -373,8 +362,7 @@
     {
         "title": "COORDINATION BETWEEN TSOs AND DSOs: FLEXIBILITY DOMAIN IDENTIFICATION",
         "conferenceTitle": "The 12th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 Nov. 2020",
+        "data": "9-12 Nov. 2020",
         "authors": [
             "L. Ageeva",
             "M. Majidi",
@@ -387,8 +375,7 @@
     {
         "title": "Mobile-based pressure sore prediction and prevention system (PSPPs)",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "A. Ali",
             "B. Alshurooqi",
@@ -401,8 +388,7 @@
     {
         "title": "EVALUATION OF INVERTER TOPOLOGIES FOR HIGH POWER/MEDIUM VOLTAGE AIRCRAFT APPLICATIONS",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "C. Klumpner",
             "F. Khera"
@@ -414,8 +400,7 @@
     {
         "title": "Finite Element Analysis of a Passive Magnetic Fault Current Limiter using Adaptive Meshing",
         "conferenceTitle": "Michael Faraday IET International Summit 2020 (MFIIS 2020)",
-        "Content Type": "Conferences",
-        "date": "3-4 Oct. 2020",
+        "data": "3-4 Oct. 2020",
         "authors": [
             "S. Das",
             "A. B. Choudhury",
@@ -429,8 +414,7 @@
     {
         "title": "HIGH RESOLUTION GENERATION EXPANSION PLANNING CONSIDERING FLEXIBILITY NEEDS: THE CASE OF SWITZERLAND IN 2030",
         "conferenceTitle": "The 12th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 Nov. 2020",
+        "data": "9-12 Nov. 2020",
         "authors": [
             "E. Raycheva",
             "J. Garrison",
@@ -444,8 +428,7 @@
     {
         "title": "The IBM z15 processor chip set",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Anthony Saporito"
         ],
@@ -456,8 +439,7 @@
     {
         "title": "Recognition of radar deception jamming based on convolutional neural network",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "J. Qian",
             "X. Teng",
@@ -470,8 +452,7 @@
     {
         "title": "Pancreas Segmentation in Abdominal CT Images with U-Net Model",
         "conferenceTitle": "2020 28th Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "5-7 Oct. 2020",
+        "data": "5-7 Oct. 2020",
         "authors": [
             "Ender Kurnaz",
             "Rahime Ceylan"
@@ -483,8 +464,7 @@
     {
         "title": "AMD Next Generation 7NM Ryzen™ 4000 APU \"Renoir\"",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Sonu Arora",
             "Dan Bouvier",
@@ -497,8 +477,7 @@
     {
         "title": "PMD-Tolerant 20 krad/s Endless Polarization and Phase Control for BB84-Based QKD with TDM Pilot Signals",
         "conferenceTitle": "Photonic Networks; 21th ITG-Symposium",
-        "Content Type": "Conferences",
-        "date": "24-25 Nov. 2020",
+        "data": "24-25 Nov. 2020",
         "authors": [
             "Benjamin Koch",
             "Reinhold Noe"
@@ -510,8 +489,7 @@
     {
         "title": "A novel ship detection method based on gabor feature",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "J. Chang",
             "Z. Fu",
@@ -523,10 +501,24 @@
         "abstract": "Synthetic Aperture Radar (SAR) Systems can be used for discovery and surveillance. According to the current requirements, accurate ship detection is becoming more and more important. However, the accuracy of traditional ship detection algorithm is not satisfying in complex scene. As a consequence, this paper proposes a novel method for detecting ships within SAR imagery using Gabor feature and Two Parameter Constant False Alarm Rate (2P-CFAR) detection technique. First, feature extraction was performed by using Gabor filter. Then, combined with the extracted orientation feature, the ship recognition of SAR image is obtained by 2P-CFAR detector. Finally, false alarms among the candidate targets were removed by geometric features of the ships. To prove the rationality of this method, experiments were carried with two high-resolution Gaofen-3 satellite SAR images in open sea background. The experimental results show that the presented method has preferable performance in the accuracy of ship identification."
     },
     {
+        "title": "Unmanned aerial vehicle (UAV) vision-based detection and location of power towers for transmission line maintenance",
+        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
+        "data": "2-3 July 2020",
+        "authors": [
+            "R. Wang",
+            "S. Zhang",
+            "B. Chen",
+            "J. Xu",
+            "L. Zhong"
+        ],
+        "DOI": "10.1049/icp.2020.0328",
+        "citation": 3,
+        "abstract": "With the rapid development of technology in unmanned aerial vehicles (UAV), more and more UAVs are used by power supply companies for power line inspection and maintenance. However, a large quantity of aerial images captured by UAVs are processed manually at present, which relies on prior knowledge of power towers and is not only time-consuming but also inefficient. Worse still, the geographical positions of abnormal power towers are difficult to be obtained so that the maintenance team has no direction to proceed. In this work, we propose a deep learning-based method for detecting and locating abnormal power towers from the aerial images captured by UAVs. In this method, an objection detection algorithm based on deep convolutional neural network (CNN) is firstly designed to identify and detect abnormal power towers from aerial images. Secondly, the geographical positions of the detected abnormal power towers are approximated by UAV metadata recorded in aerial images (e.g. pixel size, altitude, pitch angle, roll angle, yaw angle, et al.) and several coordinate transformations. Compared with the classical image processing methods, the present method is automatic and end-to-end, and can be easily applied in the UAV based inspection of power transmission lines."
+    },
+    {
         "title": "Cloud of medical things (CoMT) based smart healthcare framework for resource allocation",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "R. Surendran",
             "T. Tamilvizhi"
@@ -538,8 +530,7 @@
     {
         "title": "Reliability improvement of ferroelectric Hf0.5Zr0.5O2 thin films by Lanthanum doping for FeRAM applications",
         "conferenceTitle": "2020 Device Research Conference (DRC)",
-        "Content Type": "Conferences",
-        "date": "21-24 June 2020",
+        "data": "21-24 June 2020",
         "authors": [
             "Furqan Mehmood",
             "Thomas Mikolajick",
@@ -552,8 +543,7 @@
     {
         "title": "AN EVALUATION OF EXCITERLESS TOPOLOGIES FOR MEDIUM POWER WOUND-FIELD SYNCHRONOUS GENERATORS",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "D. Fallows",
             "S. Nuzzo",
@@ -566,8 +556,7 @@
     {
         "title": "Design of Bearingless Permanent Magnet Motors Using No Voltage CombinedWindings",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "J. Chen",
             "A. Farhan",
@@ -581,8 +570,7 @@
     {
         "title": "Communication requirements for future secondary substations to enable DSO functions",
         "conferenceTitle": "CIRED 2020 Berlin Workshop (CIRED 2020)",
-        "Content Type": "Conferences",
-        "date": "22-23 Sept. 2020",
+        "data": "22-23 Sept. 2020",
         "authors": [
             "Kinan Ghanem",
             "Ibrahim Abdulhadi",
@@ -596,8 +584,7 @@
     {
         "title": "Human activity classification using radar signal and RNN networks",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "H. Jiang",
             "F. Fioranelli",
@@ -612,8 +599,7 @@
     {
         "title": "Output voltage regulation for piezoelectric transformer-based resonant power supplies using phase-locked loop",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "Z. Yang",
             "J. N. Davidson",
@@ -624,25 +610,23 @@
         "abstract": "This study proposes an output regulation method for a piezoelectric transformer (PT)-based power converter that employs an inductorless half-bridge topology for achieving zero-voltage switching (ZVS). The resonant current is first estimated at the input section of the PT. These data are used to indicate the effective signs for zero-voltage switching, applied to a phase-locked loop (PLL) as a reference input, to generate the in-phase gate drive signals with an adequate deadtime. Practical results show successful operation of the PLL controller. This technique is extended to achieve output regulation by a burst-mode hysteresis control. Experimental results demonstrate good agreement with the SPICE-based simulation for output regulation while achieving zero-voltage switching."
     },
     {
-        "title": "Preventing line faults with continuous monitoring based on current traveling waves",
-        "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 March 2020",
+        "title": "A Scalable Platform for QEMU Based Fault Effect Analysis for RISC-V Hardware Architectures",
+        "conferenceTitle": "MBMV 2020 - Methods and Description Languages for Modelling and Verification of Circuits and Systems; GMM/ITG/GI-Workshop",
+        "data": "19-20 March 2020",
         "authors": [
-            "Bogdan Kasztenny",
-            "Mangapathirao V. Mynam",
-            "Titiksha Joshi",
-            "Dennis Holmbo"
+            "Peer Adelt",
+            "Bastian Koppelmann",
+            "Wolfgang Mueller",
+            "Christoph Scheytt"
         ],
-        "DOI": "10.1049/cp.2020.0067",
+        "DOI": "",
         "citation": 3,
-        "abstract": "This paper presents a novel method to continuously monitor a power line for fault precursors. Based on a double-ended traveling-wave fault-locating method to locate disturbances, the monitoring logic triggers on current traveling waves as small as a few tens of primary amperes. The logic tabulates locations of the detected internal events and alarms if the event count exceeds a user-defined threshold for any location along the line. We expect the line-monitoring logic to detect organic and chemical contamination of insulators, cracked insulators, encroaching vegetation, and other events with accuracy of about 300 m. This paper describes the logic, shares key implementation details, and reports on selected field events captured from the prototype version of a line protective relay with an embedded line-monitoring logic."
+        "abstract": "Fault effect simulation is a well-established technique for the qualification of robust embedded software and hardware as required by different safety standards. Our article introduces a Virtual Prototype based approach for the fault analysis and fast simulation of a set of automatically generated and target compiled software programs. The approach scales to different RISC-V ISA standard subset configurations and is based on an instruction and hardware register coverage for automatic fault injections of permanent and transient bitflips. The analysis of each software binary evaluates its opcode type and register access coverage including the addressed memory space. Based on this information dedicated sets of fault injected hardware models, i.e., mutants, are generated. The simulation of all mutants conducted with the different binaries finally identifies the cases with a normal termination though executed on a faulty hardware model. They are identified as a subject for further investigations and improvements by the implementation of additional hardware or software safety countermeasures. Our final evaluation results with automatic C code generation, compilation, analysis, and simulation show that QEMU provides an adequate efficient platform, which also scales to more complex scenarios."
     },
     {
         "title": "A source code summarization technique for object oriented classes",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "A. Yusuf",
             "M. Hammad"
@@ -654,8 +638,7 @@
     {
         "title": "Retrieval of ice cloud properties with a dual frequency optimal estimation algorithm for terahertz and millimeter wave cloud radar",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "X. Ding",
             "J. Xu",
@@ -668,26 +651,9 @@
         "abstract": "In this paper, we explore the potential of terahertz (238 GHz) and millimeter (94 GHz) wave radar to retrieval ice cloud properties based on dual frequency optimal estimation algorithm. The relationship between radar reflectivity factor and ice cloud microphysical parameters is established through forward physical model with different a prior value and crystal habits. The results suggest that: (1) The terahertz and millimeter radar measurements contain enough information to constrain the retrieval of ice cloud properties regardless of a priori value and habits; (2) The retrieval error decreases as the accuracy of a priori increases. The error of spherical particle is basically smaller than that of the mixed particles; (3) Quantitative estimates of the retrieval error are provided. The effective radius is retrieved with errors varying between 0-7% and 0-13% for sphere and mixed habits, respectively. The ice water content is retrieved with errors varying between 2-12% and 2-25% for sphere and mixed habits, respectively."
     },
     {
-        "title": "An improved droop control strategy for accurate current sharing and DC-BUS voltage compensation in DC microgrid",
-        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
-        "authors": [
-            "X. Tian",
-            "Y. Wang",
-            "F. Wang",
-            "Z. Guo",
-            "Y. Dong"
-        ],
-        "DOI": "10.1049/icp.2020.0285",
-        "citation": 2,
-        "abstract": "This paper addresses load current sharing among parallel-connected DC-DC converters and bus voltage drop issues caused by traditional droop method in low-voltage DC microgrid. Conventionally, I-V droop control is an effective way to parallel converter modules due to its high reliability, extendibility and economy. However, when the effect of mismatching line resistances is considered, the traditional droop control has limitations on the voltage regulation while the load current sharing accuracy is maintained. In this paper, an improved nonlinear droop control method is adopted to realize both accurate load current sharing and local output voltage improvement, which is achieved by adaptively adjusting nonlinear I-V droop curve with the information of DC bus voltage. Meanwhile, a secondary controller of DC bus voltage restoration is introduced to realize voltage drop compensation through the secondary regulation of I-V curve. The simulation model with two source converters and a single Constant Power Load (CPL) was built in Matlab-Simulink, which can be extended to multiple sources and multiple loads connected to the DC bus. Compared with the simulation results of the traditional droop control method and another improved droop control method, the better performance of the adopted control strategy is validated."
-    },
-    {
         "title": "Voice assisted smart home automation system",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "R. Garg",
             "P. Kumar",
@@ -700,10 +666,26 @@
         "abstract": "In this busy schedule, everyone needs a bit of comfort and a protected life. The development and transformation of standard homes into smart homes has increased dramatically in recent times. This is due to innovations such as the Internet of Things, Sensors, Mobile Phones, Sophisticated Gadgets, Distributed Computing and PDAs like Amazon Alexa, Google Home, Google Assistant, Apple Siri and Microsoft Cortana. Home automation Framework for remote control of household appliances to relieve stress. This paper represents the general structure of the Home Automation Framework with minimal remote control. This framework gives more control over the well-being of the switches with the low-voltage, Arduino board, Bluetooth module, smartphone, relay, and temperature sensor. The state of the switches is synchronized throughout the control structure, with each user interface constantly displaying the state of the current switches. The framework has been designed to control the family unit's electrical appliances with a general operating convenience plan, a user-friendly interface and easy installation. The remote and smart home environment performs important work in human life and extends its ubiquity due to its adaptability, compactness and little set-up costs. The smart system of home automation is useful in everyday life as it decreases the extraordinary tasks of the users and reduces the worries about the safety of the houses. The main purpose of house automation is to remotely control the ON / OFF status of the light, the speed of the fan automatically using temperature sensor and other household appliances. This framework is beneficial for elderly and disabled people and workers."
     },
     {
+        "title": "Characterization of the Junction Temperature of SiC Power Devices via Quasi-Threshold Voltage as Temperature Sensitive Electrical Parameter",
+        "conferenceTitle": "CIPS 2020; 11th International Conference on Integrated Power Electronics Systems",
+        "data": "24-26 March 2020",
+        "authors": [
+            "Kanuj Sharma",
+            "Kevin Munoz Baron",
+            "Johannes Ruthardt",
+            "Jan Hueckelheim",
+            "Dominik Koch",
+            "Florian Muenzenmayer",
+            "Ingmar Kallfass"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "This paper presents a robust and easy-to-implement approach to measure the junction temperature of SiC power devices using quasi-threshold voltage as temperature sensitive electrical parameter with adjustable temperature sensitivity. The voltage drop across the parasitic inductance between Kelvin and power source is used to trigger the data acquisition circuit. The novelty of the proposed method lies in the concept of variable temperature sensitivity where the robustness decreases with the increase in the sensitivity. This concept proposes a trade-off between temperature sensitivity and robustness. A D flip-flop is used to make the acquisition circuit more robust to prevent false triggering while keeping fast switching speed and low noise susceptibility. Basic simulations, static and dynamic measurements are performed successfully on a commercially available 1.2 kV/120 A power module in a buck converter topology. The effect of DC-link voltage and load current invariance is also verified in this paper."
+    },
+    {
         "title": "COOPERATIVE GAME THEORY BASED PEER TO PEER ENERGY TRADING ALGORITHM",
         "conferenceTitle": "The 12th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 Nov. 2020",
+        "data": "9-12 Nov. 2020",
         "authors": [
             "S. Malik",
             "M. Duffy",
@@ -718,8 +700,7 @@
     {
         "title": "Study of cooperative control for electrical energy of more electric aircraft",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2020)",
-        "Content Type": "Conferences",
-        "date": "18-21 Sept. 2020",
+        "data": "18-21 Sept. 2020",
         "authors": [
             "F. Ai",
             "S. Wu",
@@ -732,8 +713,7 @@
     {
         "title": "COMPARISON OF OPTIMAL POWER FLOW FORMULATIONS IN ACTIVE DISTRIBUTION GRIDS",
         "conferenceTitle": "The 12th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 Nov. 2020",
+        "data": "9-12 Nov. 2020",
         "authors": [
             "C. Mylonas",
             "S. Karagiannopoulos",
@@ -748,8 +728,7 @@
     {
         "title": "Error Analysis of Dual-Branch SIMO Systems Over λ-μ Fading Channels",
         "conferenceTitle": "2020 28th Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "5-7 Oct. 2020",
+        "data": "5-7 Oct. 2020",
         "authors": [
             "Mehmet Bilim",
             "Nuri Kapucu"
@@ -761,8 +740,7 @@
     {
         "title": "Complex Network Theory Based Analysis of Cascading Failure of Electrical Power Transmission Network against Intentional Attacks and Outages",
         "conferenceTitle": "Michael Faraday IET International Summit 2020 (MFIIS 2020)",
-        "Content Type": "Conferences",
-        "date": "3-4 Oct. 2020",
+        "data": "3-4 Oct. 2020",
         "authors": [
             "D. Bose",
             "C. Kumar Chanda",
@@ -775,8 +753,7 @@
     {
         "title": "Distribution system congestion management through local flexibility market",
         "conferenceTitle": "CIRED 2020 Berlin Workshop (CIRED 2020)",
-        "Content Type": "Conferences",
-        "date": "22-23 Sept. 2020",
+        "data": "22-23 Sept. 2020",
         "authors": [
             "Mehdi Attar",
             "Antti Supponen",
@@ -789,8 +766,7 @@
     {
         "title": "OPTIMAL CAPACITOR SIZING AND PLACEMENT USING DRAGONFLY ALGORITHM: A CASE STUDY IN KAZAKHSTAN",
         "conferenceTitle": "The 12th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 Nov. 2020",
+        "data": "9-12 Nov. 2020",
         "authors": [
             "O. Baimakhan",
             "H. Şenyüz",
@@ -804,8 +780,7 @@
     {
         "title": "A new digital filter using window resizing for protective relay applications",
         "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 March 2020",
+        "data": "9-12 March 2020",
         "authors": [
             "Bogdan Kasztenny",
             "Mangapathirao V. Mynam",
@@ -819,8 +794,7 @@
     {
         "title": "A proposed prototype design of a student attendance system based on a combined RFID -WSN technology",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "A. A. Radhi",
             "F. M. Al-Naima"
@@ -832,8 +806,7 @@
     {
         "title": "SAR ship detection based on improved YOLOv3",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "D. Chen",
             "Y. Ju"
@@ -845,8 +818,7 @@
     {
         "title": "Comprehensive compensation method and control strategy of negative sequence and harmonic for electrified railway with Dd transformer and SVG",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "H. Wang",
             "Q. Li",
@@ -860,10 +832,39 @@
         "abstract": "A comprehensive compensation method of negative sequence and harmonic for co-phase traction power supply system in electrified railway with Dd transformer and static var generator (SVG) is presented in this paper. With this method, not only can the comprehensive compensation of negative sequence and harmonic be realized, but also the potential safety hazards can be reduced when a locomotive passes through the neutral section. Taking Dd0 transformer as an example of Dd transformer, topologies of the comprehensive compensation schemes are presented in detail, which are divided into compensation mode I and compensation mode II. From the perspective of mathematical analysis, mathematical model of the comprehensive compensation is deduced in detail, and the basic principle of comprehensive compensation is revealed. Based on the mathematical model, the method to determine the compensation scheme is given. Aiming at the comprehensive compensation methods of mode I and mode II, the closed-loop control strategies for compensation mode I and mode II are proposed respectively. Finally, effectiveness and accuracy of the method and control strategies proposed in this paper are verified by the simulation models."
     },
     {
+        "title": "Email text analysis for fraud detection through machine learning techniques",
+        "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
+        "data": "21-23 Sept. 2020",
+        "authors": [
+            "R. Al-Haddad",
+            "F. Sahwan",
+            "A. Aboalmakarem",
+            "G. Latif",
+            "Y. M. Alufaisan"
+        ],
+        "DOI": "10.1049/icp.2021.0909",
+        "citation": 2,
+        "abstract": "Technology is improving and developing every day, new techniques and tools are releasing daily. Due to the development of technology, the number of new software and websites are growing every day. As the number of software is increasing the number of users using them is increasing as well. Hackers and malicious people will take this chance to do fraud, hack or trick especially the naïve users. Email has been the best way for communication for several fields such as education, business, and entertainment. Most companies rely on email for communication with customers or with other companies, due to this malicious people focus more on sending fraud emails or phishing emails. Even though people have become more aware of spam and fraud emails, still hackers are improving their email format and content to look like a legitimate email. In this research paper, four machine learning techniques are applied to detect illegitimate fraud email from legitimate email. Decision Tree, Random Forest, Naïve Bayes and Support Vector Machine classifiers are used for the experiments. These classification algorithms are applied on a new Fraud emails dataset consist of 11926 emails, where 5183 are Fraud (spam) emails and the rest are normal (ham) emails for their classification. The results show SVM has the best performance where the achieved accuracy is more than 98%."
+    },
+    {
+        "title": "Comparative study of electrical characteristics between conventional and SBD-embedded MOSFETs for next generation 3.3kV SiC modules",
+        "conferenceTitle": "PCIM Europe digital days 2020; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
+        "data": "7-8 July 2020",
+        "authors": [
+            "Takeshi Murakami",
+            "Koji Sadamatsu",
+            "Masayuki Imaizumi",
+            "Eisuke Suekawa",
+            "Shiro Hino"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "Mitsubishi Electric has been developing SBD-embedded SiC-MOSFETs which allow high power SiC modules to eliminate freewheeling SBDs and to be free from bipolar-current-induced degradation. This paper investigates electrical characteristics of 3.3kV SBD-embedded SiC-MOSFETs in comparison with conventional 3.3kV SiC-MOSFETs. Main electrical characteristics, such as JDS-VDS, breakdown, and switching waveforms, have no significant difference between them. This means that technical barrier is small in use of SBD-embedded SiC-MOSFETs. The obtained results show that SBD-embedded SiC-MOSFETs are very promising for next generation high voltage SiC power modules."
+    },
+    {
         "title": "A Comparative Study of Additively Manufactured Low-Power-Loss Windings for PM Machines",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "R. Wrobel",
             "N. Chiodetto"
@@ -875,8 +876,7 @@
     {
         "title": "Perfect storm for monopoly grids II: the dual disruptive impact of distributed generation and local competition",
         "conferenceTitle": "CIRED 2020 Berlin Workshop (CIRED 2020)",
-        "Content Type": "Conferences",
-        "date": "22-23 Sept. 2020",
+        "data": "22-23 Sept. 2020",
         "authors": [
             "Age J. Van Der Mei",
             "Jan-Peter Doomernik"
@@ -888,8 +888,7 @@
     {
         "title": "Sign Language Video Synthesis using Skeleton Sequence",
         "conferenceTitle": "2020 28th Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "5-7 Oct. 2020",
+        "data": "5-7 Oct. 2020",
         "authors": [
             "Sinan Gencoglu",
             "Hacer Yalim Keles"
@@ -899,10 +898,22 @@
         "abstract": "Generative Adversarial Networks (GANs) enable generating realistic synthetic images. However, majority of the research in this domain focus on image-to-image synthesis problem. The aim of this study is to develop a model that encodes high quality video frames, with true motion dynamics, using only a reference image frame and a skeleton sequence. In this context, Ankara University Turkish Sign Language dataset is used to synthesize new sign videos using a given signer frame as a reference and a skeleton stream. To solve this challenging problem, a conditional generative adversarial network (GAN) is designed, where skeletal data is used as a condition. Using the trained model, we are able to generate sign video streams with the given signer, where the motion dynamics are successfully and fluently encoded in the video. Moreover, we evaluated the quality of the generated images using Fréchet Inception Distance (FID) metric; the FID score is 26."
     },
     {
+        "title": "COMPARATIVE EVALUATION OF Si MOSFET-BASED SOFT-SWITCHED DC-DC CONVERTERS AND GaN HEMT-BASED HARD-SWITCHED DC-DC CONVERTERS",
+        "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
+        "data": "15-17 Dec. 2020",
+        "authors": [
+            "S. A. Ansari",
+            "J. N. Davidson",
+            "M. P. Foster"
+        ],
+        "DOI": "10.1049/icp.2021.1195",
+        "citation": 2,
+        "abstract": "Switching losses of DC-DC converters such as the boost converter can be reduced using soft switching techniques. However, the auxiliary circuits required for the switches increase the complexity and cost of the converters. Switching devices based on wide bandgap (WBG) materials such as gallium nitride (GaN) have low switching losses compared to silicon (Si) devices hence they can be an alternative to decrease the switching losses while keeping the simple structure of the conventional converters. The high cost of WBG devices together with their high level of electromagnetic interference (EMI) cause concern. This paper aims to evaluate the performance of these two methods in DC-DC converters in terms of efficiency, power density, reliability, EMI and cost. Therefore, two soft and hard switching boost converters using Si and GaN power switches, respectively, are simulated and compared theoretically. It is shown that the Si-based soft switching topology causes less EMI, while GaN-based hard switching topology provides better power density, efficiency, cost, and reliability. Finally, the simulation results of both converters are presented to confirm that they operate properly."
+    },
+    {
         "title": "SMART SOP ARCHITECTURES AND POWER CONTROL MANAGEMENTS BETWEEN LIGHT DC RAILWAY AND LV DISTRIBUTION NETWORK",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "T. Kamel",
             "Z. Tian",
@@ -915,8 +926,7 @@
     {
         "title": "FAULT TOLERANT CONTROL OF 3PH PMSM WITH INTER-TURN FAULTS",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "S. Foitzik",
             "M. Doppelbauer"
@@ -928,8 +938,7 @@
     {
         "title": "ThunderX3 Next-Generation Arm-Based Server",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Rabin Sugumar"
         ],
@@ -940,8 +949,7 @@
     {
         "title": "Sensorless control for a synchronous reluctance motor based on current oversampling using standard PWM excitation",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "M. Giuliato",
             "L. Peretti",
@@ -955,8 +963,7 @@
     {
         "title": "A Method for Optimal Pulse Detector Design in Digital Receivers",
         "conferenceTitle": "2020 28th Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "5-7 Oct. 2020",
+        "data": "5-7 Oct. 2020",
         "authors": [
             "Mustafa Kucuk",
             "Yasar Kemal Alp",
@@ -969,8 +976,7 @@
     {
         "title": "Research and Application of Solid State DC Circuit Breaker Based on SiC Series and Parallel",
         "conferenceTitle": "PCIM Asia 2020; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "16-18 Nov. 2020",
+        "data": "16-18 Nov. 2020",
         "authors": [
             "Lifeng Qiao",
             "Teng Liu",
@@ -982,10 +988,25 @@
         "abstract": "Recently, the demand for application of DC transmission is growing fast due to the diversity of DC loads, such as large-scale data centers, electric propulsion ships and PV. Therefore, DC circuit breaker should play an indispensable role to make sure the safety of system. This paper is intended to expound on the different DC breaker characteristics and Solid State Circuit Breaker(SSCB) is chosen as the research target after comparisons between different DC Breaker. Delta’s latest research results of SSCB are introduced and the final experimental results are showcased."
     },
     {
+        "title": "Research on the application of flexible direct-current transmission technology in the system planning integrated with large scale of offshore wind farms",
+        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
+        "data": "2-3 July 2020",
+        "authors": [
+            "H. Cai",
+            "G. Wang",
+            "Z. Xie",
+            "J. Huang",
+            "J. Zhang",
+            "Z. Xu"
+        ],
+        "DOI": "10.1049/icp.2020.0073",
+        "citation": 2,
+        "abstract": "For offshore wind power there has characteristics of abundant resources, high generating equipment utilization hours, no occupation of lands and suitable for widely extension. During these years, development of offshore wind power has become the hot and cutting-edge trend in China and the word. There has two common system-integrated technologies for offshore wind farms, as high voltage alternating-current (AC) and flexible direct-current (DC) transmission technologies. Because of its advantages such as small occupied area, modular structure, flexible power flow control and suitable for long transmission distance, flexible DC transmission technology has become the main one for deep-sea wind farms which are far away from the seashore to integrate into the onshore transmission power system. Currently there has the national wind power basement with 10 million kilowatts in Jiangsu. How to economic and safety to make large-scale wind farms accessible, especially the deep-sea wind farms, has become a prominent problem for onshore transmission system planning. In this paper the necessity for the offshore wind farms integrated with the flexible DC transmission technology are discussed. After that on the premise of ensuring the stability of the onshore power grid, the application scheme using flexible DC transmission technology in the integration planning of offshore wind farms in Jiangsu is proposed, by means of wind-power optimization distribution method."
+    },
+    {
         "title": "Source Camera Identification Using WLBP Descriptor",
         "conferenceTitle": "2020 International Conference on Machine Vision and Image Processing (MVIP)",
-        "Content Type": "Conferences",
-        "date": "18-20 Feb. 2020",
+        "data": "18-20 Feb. 2020",
         "authors": [
             "Nasme Zandi",
             "Farbod Razzazi"
@@ -997,8 +1018,7 @@
     {
         "title": "IMPACT ASSESSMENT FRAMEWORK OF PV-BES SYSTEMS TO ACTIVE DISTRIBUTION NETWORKS",
         "conferenceTitle": "The 12th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 Nov. 2020",
+        "data": "9-12 Nov. 2020",
         "authors": [
             "K. D. Pippi",
             "T. A. Papadopoulos",
@@ -1011,8 +1031,7 @@
     {
         "title": "Impact of inverter-based resources on impedance-based protection functions",
         "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 March 2020",
+        "data": "9-12 March 2020",
         "authors": [
             "Mohammad R. Dadash Zadeh",
             "Prashanth Kumar Mansani",
@@ -1025,8 +1044,7 @@
     {
         "title": "RESEARCH ON REAL-TIME DETECTION METHOD OF FACE WEARING MASK WITH LARGE TRAFFIC BASED ON DEEP LEARNING",
         "conferenceTitle": "The 8th International Symposium on Test Automation & Instrumentation (ISTAI 2020)",
-        "Content Type": "Conferences",
-        "date": "28-29 Nov. 2020",
+        "data": "28-29 Nov. 2020",
         "authors": [
             "Y. Meng",
             "N. Liu",
@@ -1041,8 +1059,7 @@
     {
         "title": "Enhanced Flux Weakening Control of PMM-Based Starter-Generator System in More Electric Aircraft",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "M. A. A. Mohamed",
             "M. Rashed",
@@ -1055,8 +1072,7 @@
     {
         "title": "Outage Performance of Antenna Selection Schemes in NOMA Networks using Amplify-and-Forward Energy Harvesting Relay",
         "conferenceTitle": "2020 28th Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "5-7 Oct. 2020",
+        "data": "5-7 Oct. 2020",
         "authors": [
             "Büşra Demirkol",
             "Oğuz Kucur"
@@ -1068,8 +1084,7 @@
     {
         "title": "AC Copper Losses in Edge-Wound Coils in a YASA Motor",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "R. Phillips",
             "Dr T. Woolmer"
@@ -1079,26 +1094,9 @@
         "abstract": "When carrying an alternating current, the windings in an electrical machine experience increased losses, due to proximity and skin effects. Quantifying these is necessary to fully understand the impact of motor efficiency, requiring the use of finite element analysis of the winding. For an axial flux machine with a three-dimensional flux path, this usually requires the use of threedimensional finite element analysis (FEA). This work presents a method of using simplified 2D FEA as an alternative to full 3D FEA, a dimensionless analysis argument to account for changing winding conductivities and a frequency-scaling is verified with FEA. The time required to characterise a windings AC losses is reduced by a factor of three orders of magnitude."
     },
     {
-        "title": "Unmanned aerial vehicle (UAV) vision-based detection and location of power towers for transmission line maintenance",
-        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
-        "authors": [
-            "R. Wang",
-            "S. Zhang",
-            "B. Chen",
-            "J. Xu",
-            "L. Zhong"
-        ],
-        "DOI": "10.1049/icp.2020.0328",
-        "citation": 2,
-        "abstract": "With the rapid development of technology in unmanned aerial vehicles (UAV), more and more UAVs are used by power supply companies for power line inspection and maintenance. However, a large quantity of aerial images captured by UAVs are processed manually at present, which relies on prior knowledge of power towers and is not only time-consuming but also inefficient. Worse still, the geographical positions of abnormal power towers are difficult to be obtained so that the maintenance team has no direction to proceed. In this work, we propose a deep learning-based method for detecting and locating abnormal power towers from the aerial images captured by UAVs. In this method, an objection detection algorithm based on deep convolutional neural network (CNN) is firstly designed to identify and detect abnormal power towers from aerial images. Secondly, the geographical positions of the detected abnormal power towers are approximated by UAV metadata recorded in aerial images (e.g. pixel size, altitude, pitch angle, roll angle, yaw angle, et al.) and several coordinate transformations. Compared with the classical image processing methods, the present method is automatic and end-to-end, and can be easily applied in the UAV based inspection of power transmission lines."
-    },
-    {
         "title": "A lightweight network model for human activity classifiction based on pre-trained mobilenetv2",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "Z. Xiaolong",
             "J. Tian",
@@ -1111,8 +1109,7 @@
     {
         "title": "Human activity classification with neural network using radar micro-doppler and range signatures",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "Z. Chen",
             "G. Li"
@@ -1124,8 +1121,7 @@
     {
         "title": "ENERGY STORAGE SYSTEM: A POTENTIAL “FLEXIBILITY RESOURCES” TO ACCELERATE THE DECARBONISATION OF SMART GRID NETWORK",
         "conferenceTitle": "The 12th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 Nov. 2020",
+        "data": "9-12 Nov. 2020",
         "authors": [
             "M. Bahloul",
             "A. Majumdar",
@@ -1139,8 +1135,7 @@
     {
         "title": "An active protection scheme For islanded microgrids",
         "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 March 2020",
+        "data": "9-12 March 2020",
         "authors": [
             "Md Asif Uddin Khan",
             "Qiteng Hong",
@@ -1154,8 +1149,7 @@
     {
         "title": "Signal classification against repeat radar jammers with optimized MIMO radar waveforms",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "G. Dou",
             "S. Zhou",
@@ -1172,8 +1166,7 @@
     {
         "title": "A method for predictive out-of-step tripping based on synchrophasors",
         "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 March 2020",
+        "data": "9-12 March 2020",
         "authors": [
             "Thuc D. Duong",
             "Salvatore D'Arco",
@@ -1184,10 +1177,25 @@
         "abstract": "This paper presents a method for predictive out-of-step (OOS) tripping based on synchrophasors. The OOS condition is predicted based on information of the ongoing power oscillation, where the input signal can be either the phase angle between two nodes in the power grid or the current magnitude of a line. The proposed algorithm first detects power swing by comparing the oscillation magnitude with a set threshold. Once a power swing is detected, a damping coefficient associated to the power oscillation is estimated to assess its stability. The oscillation is predicted unstable and eventually will lead to OOS condition when both the damping coefficient and the input signal are larger than set thresholds. The tuning of these thresholds is relatively simple and straightforward. Results from simulations in the Kundur system and the Nordic 44 model demonstrate that the proposed algorithm is able to correctly predict coming OOS conditions from the analysis of power swings in the power grid."
     },
     {
+        "title": "Development and test assessment scheme of vacuum type on-load tap-changer of converter transformer",
+        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
+        "data": "2-3 July 2020",
+        "authors": [
+            "L. Bao",
+            "Q. Zhu",
+            "W. Zhang",
+            "Y. Yuan",
+            "S. Wang",
+            "X. Li"
+        ],
+        "DOI": "10.1049/icp.2020.0342",
+        "citation": 2,
+        "abstract": "Since 2018, a number of vacuum type on-load tap-changer (OLTC) failures have occurred in HVDC projects, indicating that the operation reliability of OLTC of converter transformer still needs to be further improved. In this paper, a diverter switch insert with symmetrical arrangement of vacuum type OLTC was development based on the characteristics of two columns of converter transformer. At the same time, based on the problems exposed in OLTC failures in recent years, the test assessment scheme of OLTC used in converter transformer was put forward in this paper, which is helpful to further improve the operation reliability of OLTC."
+    },
+    {
         "title": "Remote Controlling Distributed Parallel Computing System over the Cloud (RCDPCSC)",
         "conferenceTitle": "2020 3rd International Conference on Engineering Technology and its Applications (IICETA)",
-        "Content Type": "Conferences",
-        "date": "6-7 Sept. 2020",
+        "data": "6-7 Sept. 2020",
         "authors": [
             "Subhi R. M. Zeebaree"
         ],
@@ -1198,8 +1206,7 @@
     {
         "title": "Design of motor control driver based on arm and freertos",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2020)",
-        "Content Type": "Conferences",
-        "date": "18-21 Sept. 2020",
+        "data": "18-21 Sept. 2020",
         "authors": [
             "P. Li",
             "G. Yuan",
@@ -1215,8 +1222,7 @@
     {
         "title": "Range-angle two-dimensional anti jamming against dense false targets",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "X. Yin",
             "X. Fu",
@@ -1231,8 +1237,7 @@
     {
         "title": "Research and simulation on voltage stability control strategy for AC port of power electronic transformer",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "Y. Shen",
             "H. Nie",
@@ -1248,8 +1253,7 @@
     {
         "title": "EXPERIMENTAL CHARACTERISATION OF RADIAL OIL SPRAY COOLING ON A STATOR WITH HAIRPIN WINDINGS",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "Y. C. Chong",
             "J. Goss",
@@ -1267,8 +1271,7 @@
     {
         "title": "Model Predictive Control for A Dual Three-Phase Two-Sector Permanent Magnet Synchronous Machine",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "Y. Chen",
             "T. Yang",
@@ -1284,8 +1287,7 @@
     {
         "title": "Small target detection in sea-clutter based on time-doppler spectrum",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2020)",
-        "Content Type": "Conferences",
-        "date": "18-21 Sept. 2020",
+        "data": "18-21 Sept. 2020",
         "authors": [
             "Y. Zhang",
             "T. Yue",
@@ -1297,25 +1299,23 @@
         "abstract": "In this paper, a small target detection method on sea-surface based on Time Doppler spectrum (TDS) is proposed. Under HH polarization, the TDS of clutter bin and clutter with target bin reflects different frequency shift energy distribution. Each energy distribution patch can be a feature of clutter and clutter with target classification. The convolutional neural network (CNN) has the function of automatically extracting image features to avoid the incomplete description of patches by manual features. As a result, a detector using CNN to extract TDS features is designed. The samples of bin under test (BUT) is the unknow-classification data set of inputting the detector to test its performance. The experimental results obtained from measured data of IPIX radar show that the detector can achieve more than 90% accuracy of small target detection in sea-clutter."
     },
     {
-        "title": "A Scalable Platform for QEMU Based Fault Effect Analysis for RISC-V Hardware Architectures",
-        "conferenceTitle": "MBMV 2020 - Methods and Description Languages for Modelling and Verification of Circuits and Systems; GMM/ITG/GI-Workshop",
-        "Content Type": "Conferences",
-        "date": "19-20 March 2020",
+        "title": "Preventing line faults with continuous monitoring based on current traveling waves",
+        "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
+        "data": "9-12 March 2020",
         "authors": [
-            "Peer Adelt",
-            "Bastian Koppelmann",
-            "Wolfgang Mueller",
-            "Christoph Scheytt"
+            "Bogdan Kasztenny",
+            "Mangapathirao V. Mynam",
+            "Titiksha Joshi",
+            "Dennis Holmbo"
         ],
-        "DOI": "",
+        "DOI": "10.1049/cp.2020.0067",
         "citation": 2,
-        "abstract": "Fault effect simulation is a well-established technique for the qualification of robust embedded software and hardware as required by different safety standards. Our article introduces a Virtual Prototype based approach for the fault analysis and fast simulation of a set of automatically generated and target compiled software programs. The approach scales to different RISC-V ISA standard subset configurations and is based on an instruction and hardware register coverage for automatic fault injections of permanent and transient bitflips. The analysis of each software binary evaluates its opcode type and register access coverage including the addressed memory space. Based on this information dedicated sets of fault injected hardware models, i.e., mutants, are generated. The simulation of all mutants conducted with the different binaries finally identifies the cases with a normal termination though executed on a faulty hardware model. They are identified as a subject for further investigations and improvements by the implementation of additional hardware or software safety countermeasures. Our final evaluation results with automatic C code generation, compilation, analysis, and simulation show that QEMU provides an adequate efficient platform, which also scales to more complex scenarios."
+        "abstract": "This paper presents a novel method to continuously monitor a power line for fault precursors. Based on a double-ended traveling-wave fault-locating method to locate disturbances, the monitoring logic triggers on current traveling waves as small as a few tens of primary amperes. The logic tabulates locations of the detected internal events and alarms if the event count exceeds a user-defined threshold for any location along the line. We expect the line-monitoring logic to detect organic and chemical contamination of insulators, cracked insulators, encroaching vegetation, and other events with accuracy of about 300 m. This paper describes the logic, shares key implementation details, and reports on selected field events captured from the prototype version of a line protective relay with an embedded line-monitoring logic."
     },
     {
         "title": "An adaptive interference cancellation method for automotive FMCW radar based on waveform optimization",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "Y. Li",
             "C. Wang",
@@ -1330,8 +1330,7 @@
     {
         "title": "Analysis and experimental verification of the high voltage DC bus current and voltage ripple in electric vehicles",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "M. Gentejohann",
             "M. Schlüter",
@@ -1344,8 +1343,7 @@
     {
         "title": "SiC Power Module with integrated RC-Snubber Design for Voltage Overshoot and Power Loss Reduction",
         "conferenceTitle": "CIPS 2020; 11th International Conference on Integrated Power Electronics Systems",
-        "Content Type": "Conferences",
-        "date": "24-26 March 2020",
+        "data": "24-26 March 2020",
         "authors": [
             "Cornelius Rettner",
             "Maximilian Schiedermeier",
@@ -1363,8 +1361,7 @@
     {
         "title": "A GMTI algorithm based on novel channel equalization method for multi-channel imaging radar",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "B. Pang",
             "S. Xing",
@@ -1379,8 +1376,7 @@
     {
         "title": "System Identification and Control of Wheeled Mobile Robot",
         "conferenceTitle": "Michael Faraday IET International Summit 2020 (MFIIS 2020)",
-        "Content Type": "Conferences",
-        "date": "3-4 Oct. 2020",
+        "data": "3-4 Oct. 2020",
         "authors": [
             "S. Bandyopadhyay",
             "T. Roy"
@@ -1392,8 +1388,7 @@
     {
         "title": "Renewable energy sources for smart city applications: A review",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "K. Sravya",
             "M. Himaja",
@@ -1407,8 +1402,7 @@
     {
         "title": "[iSAI-NLP 2020 Keynote Speakers - 3 abstracts]",
         "conferenceTitle": "2020 15th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP)",
-        "Content Type": "Conferences",
-        "date": "18-20 Nov. 2020",
+        "data": "18-20 Nov. 2020",
         "authors": [],
         "DOI": "10.1109/iSAI-NLP51646.2020.9376827",
         "citation": 1,
@@ -1417,8 +1411,7 @@
     {
         "title": "Weighted detector for distributed target detection in the presence of signal mismatch",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "D. Zhao",
             "W. Gu",
@@ -1432,8 +1425,7 @@
     {
         "title": "A multi-zone differential protection scheme for MV distribution systems with distributed generation",
         "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 March 2020",
+        "data": "9-12 March 2020",
         "authors": [
             "Vassilis C. Nikolaidis",
             "George Michaloudis",
@@ -1448,8 +1440,7 @@
     {
         "title": "Radar-based hierarchical human activity classification",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "X. Li",
             "F. Fioranelli",
@@ -1464,8 +1455,7 @@
     {
         "title": "Accurate slant range model in ground-based radar imaging of the lunar",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "S. Liu",
             "Z. Ding",
@@ -1478,8 +1468,7 @@
     {
         "title": "ANFIS based single line to ground fault location estimation for transmission lines",
         "conferenceTitle": "Michael Faraday IET International Summit 2020 (MFIIS 2020)",
-        "Content Type": "Conferences",
-        "date": "3-4 Oct. 2020",
+        "data": "3-4 Oct. 2020",
         "authors": [
             "M. Paul",
             "S. Debnath"
@@ -1491,8 +1480,7 @@
     {
         "title": "A HARDWARE IMPLEMENTATION OF 6DOF QUADCOPTER MATLAB/SIMULINK CONTROLLER ALGORITHM TO AN AUTOPILOT",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "A. Fareha",
             "A. Bousbaine",
@@ -1505,8 +1493,7 @@
     {
         "title": "Influence of high temperature on surface flashover characteristics of the insulating blanket used in live working of distribution line",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "P. Li",
             "C. Liu",
@@ -1521,8 +1508,7 @@
     {
         "title": "Overview of the OpenROAD Digital Design Flow from RTL to GDS",
         "conferenceTitle": "2020 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "10-13 Aug. 2020",
+        "data": "10-13 Aug. 2020",
         "authors": [
             "Sherief Reda"
         ],
@@ -1533,8 +1519,7 @@
     {
         "title": "The effects of channel imbalances on the azimuth multi-channel SAR",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "M. Shang",
             "X. Qiu",
@@ -1551,8 +1536,7 @@
     {
         "title": "Modelling Time Statistics for Customer Churn Prediction",
         "conferenceTitle": "2020 28th Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "5-7 Oct. 2020",
+        "data": "5-7 Oct. 2020",
         "authors": [
             "Bora Bardük"
         ],
@@ -1563,8 +1547,7 @@
     {
         "title": "97.4%-Efficient All-GaN Dual-Active-Bridge Converter with High Step-up High-Frequency Matrix Transformer",
         "conferenceTitle": "PCIM Europe digital days 2020; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "7-8 July 2020",
+        "data": "7-8 July 2020",
         "authors": [
             "Armin Jafari",
             "Mohammad Samizadeh Nikoo",
@@ -1579,8 +1562,7 @@
     {
         "title": "Review on virtual synchronous generator technologies",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "W. Zhou",
             "Z. Xiaosong",
@@ -1594,8 +1576,7 @@
     {
         "title": "Waveform design of cognitive radar based on deep learning in the presence of clutter",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "J. Zhao",
             "W. Li",
@@ -1610,8 +1591,7 @@
     {
         "title": "Classification in C-band of doppler signatures of human activities in indoor environments",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "P. Cadart",
             "M. Merlin",
@@ -1628,8 +1608,7 @@
     {
         "title": "Research on distributed wind farm reactive power optimization method considering voltage quality",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "M. Teng",
             "Z. Aijun",
@@ -1645,8 +1624,7 @@
     {
         "title": "Radar working mode recognition based on hierarchical feature representation and clustering",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "Y. Ma",
             "Y. Li",
@@ -1660,8 +1638,7 @@
     {
         "title": "Universal earth-fault protection method for high impedance grounded power system",
         "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 March 2020",
+        "data": "9-12 March 2020",
         "authors": [
             "Zoran Gajić",
             "Samir Aganović",
@@ -1675,8 +1652,7 @@
     {
         "title": "A modified observer based fault-tolerant control for aircraft with multi-actuator closed-loop system faults",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2020)",
-        "Content Type": "Conferences",
-        "date": "18-21 Sept. 2020",
+        "data": "18-21 Sept. 2020",
         "authors": [
             "J. Wang",
             "X. Zhang",
@@ -1690,10 +1666,22 @@
         "abstract": "In this paper, a modified observer-based reconfigurable fault-tolerant control (FTC) strategy for the aircraft model with multi-actuator closed-loop system faults was presented. The aircraft hybrid states, including the obtained observer states and the remaining normal states, are used to reconfigure the optimal FTC gain under specific fault condition by linear quadratic regulator (LQR) technique. The switching mechanism is designed to realize smooth switching between different control gains. The convergence of the modified observer, and the proposed FTC controller are verified by using numerical simulation finally."
     },
     {
+        "title": "High-speed protection method for DC transmission lines using fault current initial traveling wave",
+        "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
+        "data": "9-12 March 2020",
+        "authors": [
+            "Chenhao Zhang",
+            "Guobing Song",
+            "Xinzhou Dong"
+        ],
+        "DOI": "10.1049/cp.2020.0131",
+        "citation": 1,
+        "abstract": "Voltage source converter-based high voltage DC transmission raises high demand for high-speed operation of relay. The derivative-based traveling wave protection method exposes the problem of low-sensitivity when high-impedance faults occur. In this paper, the influence factors of the fault initial traveling wave are analysed and the analytic expressions of the fault initial traveling wave are derived. In the expression, the physical meaning of the exponent coefficients is the distortion degree of the fault initial traveling wave, which is related to the location of the fault. The exponent coefficients will not be influenced by the fault impedance. According to the formation of the expression, a basic fitting function is selected to extract fault location information from the zero-mode fault current initial traveling wave by Levenberg-Marquart fitting method. Then a high-speed protection scheme is proposed using the obtained fitting coefficients. The simulation results show that the fitting coefficients b can directly correspond to the fault location, the proposed method can reliably and fast identify faults and has high sensitivity when high-impedance faults occur."
+    },
+    {
         "title": "OPTIMAL DISTRIBUTION NETWORK RECONFIGURATION FOR RELIABILITY IMPROVEMENT IN PRESENCE OF DG",
         "conferenceTitle": "The 12th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 Nov. 2020",
+        "data": "9-12 Nov. 2020",
         "authors": [
             "P. A. Karafotis",
             "I. K. Bazionis",
@@ -1706,8 +1694,7 @@
     {
         "title": "REAL-TIME SIMULATION PLATFORM OF AN EMA LANDING GEAR BASED ON MULTIPHASE BLDC",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "A. Sierra-Gonzalez",
             "E. Ibarra",
@@ -1722,8 +1709,7 @@
     {
         "title": "Study on Gas-tightness detection analysis and leak test of UHV AC GIL",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "Y. Hao",
             "S. Jin",
@@ -1740,8 +1726,7 @@
     {
         "title": "EXTENDED LAYER APPROACH FOR THERMAL MODELING OF A TOOTH-COIL WINDING IN ELECTRICAL MACHINES",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "F. Hoffmann",
             "M. Doppelbauer"
@@ -1753,8 +1738,7 @@
     {
         "title": "A Strategy to Parameterize Q(U) Control to Enhance Voltage Stability using a Centralized Based Method",
         "conferenceTitle": "NEIS 2020; Conference on Sustainable Energy Supply and Energy Storage Systems",
-        "Content Type": "Conferences",
-        "date": "14-15 Sept. 2020",
+        "data": "14-15 Sept. 2020",
         "authors": [
             "Desmond Okwabi Ampofo",
             "Ahmed Abdelsamad",
@@ -1768,8 +1752,7 @@
     {
         "title": "Demand Side management in Renewable sources powered Station for Electric Vehicles Charging",
         "conferenceTitle": "2020 28th Telecommunications Forum (TELFOR)",
-        "Content Type": "Conferences",
-        "date": "24-25 Nov. 2020",
+        "data": "24-25 Nov. 2020",
         "authors": [
             "Jovan N. Vujasinović",
             "Goran S. Savić",
@@ -1782,8 +1765,7 @@
     {
         "title": "Intermittent fault detection and diagnosis for aircraft fuel system based on SVM",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2020)",
-        "Content Type": "Conferences",
-        "date": "18-21 Sept. 2020",
+        "data": "18-21 Sept. 2020",
         "authors": [
             "Y. Jiang",
             "Y. Miao",
@@ -1799,8 +1781,7 @@
     {
         "title": "Coherent accumulation detection for a maneuvering target with doppler ambiguity and doppler aliasing",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "M. Zhan",
             "P. Huang",
@@ -1816,8 +1797,7 @@
     {
         "title": "COMPARING DYNAMIC AND STATIC MODELLING OF CASCADING FAILURES IN POWER SYSTEMS",
         "conferenceTitle": "The 12th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 Nov. 2020",
+        "data": "9-12 Nov. 2020",
         "authors": [
             "Y. Dai",
             "M. Noebels",
@@ -1831,8 +1811,7 @@
     {
         "title": "Combined spectrogram structure and intensity for human activity recognition using modified DTW",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "J. Zhang",
             "H. Liang",
@@ -1845,8 +1824,7 @@
     {
         "title": "Comprehensive Analysis of Filter Inductor Topology on Common-Mode Conducted Emissions in Buck and Boost Converters",
         "conferenceTitle": "PCIM Europe digital days 2020; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "7-8 July 2020",
+        "data": "7-8 July 2020",
         "authors": [
             "Jared Helton",
             "Aaron Brovont",
@@ -1859,8 +1837,7 @@
     {
         "title": "A novel 650 V SiC Technology for high efficiency Totem Pole PFC topologies",
         "conferenceTitle": "PCIM Europe digital days 2020; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "7-8 July 2020",
+        "data": "7-8 July 2020",
         "authors": [
             "Rene Mente",
             "Ralf Siemieniec",
@@ -1876,8 +1853,7 @@
     {
         "title": "A PSCAD PROCESSOR-IN-THE-LOOP SYSTEM FOR HARDWARE EVALUATION OF POWER CONVERTER CONTROL ALGORITHMS",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "J. Andrews",
             "P. R. Green",
@@ -1890,8 +1866,7 @@
     {
         "title": "Differentiable neural architecture search for sar image ship object detection",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "Z. Li",
             "L. Chen",
@@ -1906,8 +1881,7 @@
     {
         "title": "Assessing the viability and requirements of black start from DER",
         "conferenceTitle": "CIRED 2020 Berlin Workshop (CIRED 2020)",
-        "Content Type": "Conferences",
-        "date": "22-23 Sept. 2020",
+        "data": "22-23 Sept. 2020",
         "authors": [
             "Colin Foote",
             "Daniel Auty",
@@ -1922,28 +1896,34 @@
         "abstract": "The Distributed ReStart project is exploring how distributed energy resources (DERs) can be used to restore power in the highly unlikely event of a total or partial shutdown. Current approaches rely on large power stations but as the industry moves to cleaner and more decentralised energy, new options must be developed. The expansion of DER and network flexibility presents an opportunity to develop a radically different approach to system restoration. Greater diversity in black start provision will improve resilience and increase competition leading to reductions in both cost and carbon emissions. However, there are significant technical, organisational and commercial challenges to address. The first stage of the project assessed the viability and requirements of delivering black start using DER."
     },
     {
-        "title": "Characterization of the Junction Temperature of SiC Power Devices via Quasi-Threshold Voltage as Temperature Sensitive Electrical Parameter",
-        "conferenceTitle": "CIPS 2020; 11th International Conference on Integrated Power Electronics Systems",
-        "Content Type": "Conferences",
-        "date": "24-26 March 2020",
+        "title": "IMPACT OF INTER-TURN FAULT ONTO THE TRANSIENT THERMAL MACHINE BEHAVIOUR AND FAULT DEVELOPMENT",
+        "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
+        "data": "15-17 Dec. 2020",
         "authors": [
-            "Kanuj Sharma",
-            "Kevin Munoz Baron",
-            "Johannes Ruthardt",
-            "Jan Hueckelheim",
-            "Dominik Koch",
-            "Florian Muenzenmayer",
-            "Ingmar Kallfass"
+            "B. Jux",
+            "M. Doppelbauer"
         ],
-        "DOI": "",
+        "DOI": "10.1049/icp.2021.1062",
         "citation": 1,
-        "abstract": "This paper presents a robust and easy-to-implement approach to measure the junction temperature of SiC power devices using quasi-threshold voltage as temperature sensitive electrical parameter with adjustable temperature sensitivity. The voltage drop across the parasitic inductance between Kelvin and power source is used to trigger the data acquisition circuit. The novelty of the proposed method lies in the concept of variable temperature sensitivity where the robustness decreases with the increase in the sensitivity. This concept proposes a trade-off between temperature sensitivity and robustness. A D flip-flop is used to make the acquisition circuit more robust to prevent false triggering while keeping fast switching speed and low noise susceptibility. Basic simulations, static and dynamic measurements are performed successfully on a commercially available 1.2 kV/120 A power module in a buck converter topology. The effect of DC-link voltage and load current invariance is also verified in this paper."
+        "abstract": "Safety critical applications like electric aircraft are in demand of high power densities and high reliabilities for electrical machines. These two design goals oppose each other. To keep the propulsion system available faults need to be detected early enough to limit the fault impact and keep the system operating. Electrical machines have plenty of fault possibilities. Such as a fault in the winding system. The winding systems fault with the highest probability for machines driven by a voltage source inverter is an inter-turn fault. This fault itself is not critical but the effect it causes usually leads to a phase to phase fault or phase to ground fault which then leads to a shut-down of the machine in any case. This paper focuses on temperature development caused by an inter-turn fault as it determines the requirements for fault management systems. We show that a small fault power of less then 10% of the overall losses leads to a critical situation of the machine, starting from the nominal operating point. Additional losses of 25W reduce the lifetime from more than 20000 h to 100 h. A fault power of 1:25W reduces the life-time by a half. Further we show that the location of the fault has a limited impact on the machine."
+    },
+    {
+        "title": "UNSUPERVISED DISAGGREGATION OF WATER HEATER LOAD FROM SMART METER DATA PROCESSING",
+        "conferenceTitle": "The 12th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2020)",
+        "data": "9-12 Nov. 2020",
+        "authors": [
+            "T. Zufferey",
+            "G. Valverde",
+            "G. Hug"
+        ],
+        "DOI": "10.1049/icp.2021.1269",
+        "citation": 1,
+        "abstract": "In the residential sector, electric water heaters are appliances with a relatively high power consumption and a significant thermal inertia, which is particularly suitable for Demand Response (DR) schemes. The success of efficient DR schemes via the control of water heaters presupposes an accurate estimate of their power demand at each instant. Although the load of water heaters is rarely directly measured, a large penetration of Smart Meters (SMs) in distribution grids enables to indirectly infer this information on a large scale via load disaggregation. For that purpose, a considerable number of Non-Intrusive Load Monitoring (NILM) approaches are suggested in the literature. However, they require data streams at a time resolution in the range of one second or higher, which is not realistic for standard SMs. Hence, this paper proposes an unsupervised approach to detect and disaggregate the load profile of water heaters from standard SM data with a time resolution in the minute range. Evaluated on multiple real loads with sub-metering, the proposed approach achieves a Normalized Mean Absolute Error (NMAE) lower than 2% and a precision generally higher than 92% with time resolutions between 5 and 15 minutes."
     },
     {
         "title": "300 A Solid State Circuit Breaker using Parallel Connected GaN Bidirectional Switch",
         "conferenceTitle": "PCIM Europe digital days 2020; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "7-8 July 2020",
+        "data": "7-8 July 2020",
         "authors": [
             "Asamira Suzuki",
             "Takashi Ichiryu",
@@ -1959,8 +1939,7 @@
     {
         "title": "Pulse Density Modulation Control to Achieve Constant Output Voltage for Multi-load Magnetically Coupled Resonant Wireless Power Transfer System",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "W. Ye",
             "X. Chen",
@@ -1973,8 +1952,7 @@
     {
         "title": "Numerical material design for reliable power electronics with cement-based encapsulation",
         "conferenceTitle": "CIPS 2020; 11th International Conference on Integrated Power Electronics Systems",
-        "Content Type": "Conferences",
-        "date": "24-26 March 2020",
+        "data": "24-26 March 2020",
         "authors": [
             "Falk Naumann",
             "Bianca Boettge",
@@ -1989,8 +1967,7 @@
     {
         "title": "Investigation of transient overvoltage issues due to commutation failure at inverter side of parallel ±660kv LCC HVDC transmission lines in pakistan",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "M. U. Mustafa",
             "C. Guo",
@@ -2003,8 +1980,7 @@
     {
         "title": "Advances in OpenDSS smart inverter modelling for quasi-static time-series simulations",
         "conferenceTitle": "CIRED 2020 Berlin Workshop (CIRED 2020)",
-        "Content Type": "Conferences",
-        "date": "22-23 Sept. 2020",
+        "data": "22-23 Sept. 2020",
         "authors": [
             "Paulo Radatz",
             "Celso H.S. Rocha",
@@ -2018,8 +1994,7 @@
     {
         "title": "High Frequency Investigation of Wide Bandgap-based PFC and LLC Converters in PSU",
         "conferenceTitle": "PCIM Europe digital days 2020; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "7-8 July 2020",
+        "data": "7-8 July 2020",
         "authors": [
             "Jimmy Xuechao Liu",
             "Lyubov Yushyna"
@@ -2031,8 +2006,7 @@
     {
         "title": "Radar target detection method based on improved YOLOv3",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "L. Zhongwei",
             "G. Hongwei",
@@ -2049,8 +2023,7 @@
     {
         "title": "Enhanced features of smart parking system",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "A. Mubarak",
             "K. Showaiter",
@@ -2064,8 +2037,7 @@
     {
         "title": "Expert System for Assistance in Decision Making of Students in Practice of a Psychological Care Center in Clinical Cases of Suicidal Risk",
         "conferenceTitle": "2020 XLVI Latin American Computing Conference (CLEI)",
-        "Content Type": "Conferences",
-        "date": "19-23 Oct. 2020",
+        "data": "19-23 Oct. 2020",
         "authors": [
             "Mario Orlando Soto Monárdez",
             "Diego Alberto Aracena Pizarro"
@@ -2077,8 +2049,7 @@
     {
         "title": "Research on the control strategy of five-phase fault-tolerant servo system for aerospace",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2020)",
-        "Content Type": "Conferences",
-        "date": "18-21 Sept. 2020",
+        "data": "18-21 Sept. 2020",
         "authors": [
             "X. Zhang",
             "C. Wang",
@@ -2094,8 +2065,7 @@
     {
         "title": "A coherent detection algorithm for the high-speed targets based on radon inverse fourier transform",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "K. Xiong",
             "G. Zhao",
@@ -2109,8 +2079,7 @@
     {
         "title": "AI Acceleration with RISC-V for Edge Computing",
         "conferenceTitle": "2020 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "10-13 Aug. 2020",
+        "data": "10-13 Aug. 2020",
         "authors": [
             "Chia-Hsiang Yang"
         ],
@@ -2121,8 +2090,7 @@
     {
         "title": "Experimental Analysis of High Resolution Indoor THz SAR Imaging",
         "conferenceTitle": "WSA 2020; 24th International ITG Workshop on Smart Antennas",
-        "Content Type": "Conferences",
-        "date": "18-20 Feb. 2020",
+        "data": "18-20 Feb. 2020",
         "authors": [
             "Aman Batra",
             "Yamen Zantah",
@@ -2139,8 +2107,7 @@
     {
         "title": "An undervoltage protection function for distributed generators complying with the low-voltage-ride-through requirements",
         "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 March 2020",
+        "data": "9-12 March 2020",
         "authors": [
             "Aristotelis M. Tsimtsios",
             "Angelos Patsidis",
@@ -2151,10 +2118,24 @@
         "abstract": "This paper implements an undervoltage protection function for distributed generators connected to distribution systems, which complies with the recent low-voltage-ride-through requirements. This function takes account of the adopted low-voltage-ride-through curve, as well as the relevant requirements concerning consecutive low-voltage disturbances. In this regard, it can preserve low-voltage-ride through operation, concurrently preventing an excessive network energization by the generator. The designed function is described in detail, while, it is modelled using MATLAB/Simulink. Furthermore, it is tested by simulating different kinds of consecutive low-voltage disturbance events."
     },
     {
+        "title": "Clutter classification for cognitive radar with a deep convolutional neural network",
+        "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
+        "data": "4-6 Nov. 2020",
+        "authors": [
+            "X. Peng",
+            "Y. Tian",
+            "P. Wang",
+            "J. Yu",
+            "W. Ren"
+        ],
+        "DOI": "10.1049/icp.2021.0744",
+        "citation": 1,
+        "abstract": "Nowadays, the electromagnetic environment of radar is complex and changeable, and the traditional algorithm is no longer effective to the situation. Hence, it is difficult for radar to have better performance. In this paper, a clutter classification method for cognitive radar with a deep convolution neural network is proposed to solve the problems. Firstly, the dynamic environment information and static environment information are processed. The VGG-16 network and Bi-LSTM are used to realize the feature extraction and fusion of comprehensive environmental information. Finally, the clutter classification is achieved, so that the detection and tracking performance of cognitive radar can be improved with knowledge assistance."
+    },
+    {
         "title": "Impact of high permeability EV charging load on distribution network and its layout planning method",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "H. Yibo",
             "R. DongHong",
@@ -2168,8 +2149,7 @@
     {
         "title": "High Density Cascaded ZVS Switched Capacitor Converter for 48-V Data-Center Application",
         "conferenceTitle": "PCIM Europe digital days 2020; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "7-8 July 2020",
+        "data": "7-8 July 2020",
         "authors": [
             "Christian Rainer",
             "Roberto Rizzolatti",
@@ -2182,8 +2162,7 @@
     {
         "title": "MANUFACTURE AND TESTING OF AN IN-WHEEL HALBACH ARRAY MOTOR FOR AUTOMOTIVE TRACTION",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "I. Martinez-Ocaña",
             "N. J. Baker",
@@ -2199,8 +2178,7 @@
     {
         "title": "Smart fuel pump station controlled by IoT and WSN deployment",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "A. O. Al Janaby"
         ],
@@ -2211,8 +2189,7 @@
     {
         "title": "ENGAGEMENT PREDICTION AND VISUALIZATION IN ONLINELEARNING",
         "conferenceTitle": "Jiangsu Annual Conference on Automation (JACA 2020)",
-        "Content Type": "Conferences",
-        "date": "13-15 Nov. 2020",
+        "data": "13-15 Nov. 2020",
         "authors": [
             "S. Tu"
         ],
@@ -2223,8 +2200,7 @@
     {
         "title": "SAR target recognition based on texture feature and contour feature fusion",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "H. Liu",
             "W. Chen",
@@ -2238,8 +2214,7 @@
     {
         "title": "Model Based Transient Stability Assessment for Power Systems",
         "conferenceTitle": "2020 European Control Conference (ECC)",
-        "Content Type": "Conferences",
-        "date": "12-15 May 2020",
+        "data": "12-15 May 2020",
         "authors": [
             "Matteo Tacchi"
         ],
@@ -2250,8 +2225,7 @@
     {
         "title": "Design of series resonant high voltage capacitor charging power supply",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "Q. Wang",
             "Y. Gao",
@@ -2265,8 +2239,7 @@
     {
         "title": "National Access Point for Providing Multimodal Travel Information",
         "conferenceTitle": "2020 28th Telecommunications Forum (TELFOR)",
-        "Content Type": "Conferences",
-        "date": "24-25 Nov. 2020",
+        "data": "24-25 Nov. 2020",
         "authors": [
             "Sadko Mandžuka",
             "Krešimir Vidović",
@@ -2280,8 +2253,7 @@
     {
         "title": "A novel turning-off circuit design for IGCT gate unit",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "H. Zeng",
             "D. Yang",
@@ -2297,8 +2269,7 @@
     {
         "title": "Analysis of the gate driver stray inductance in a Vienna rectifier through parametric Electromagnetic simulations",
         "conferenceTitle": "CIPS 2020; 11th International Conference on Integrated Power Electronics Systems",
-        "Content Type": "Conferences",
-        "date": "24-26 March 2020",
+        "data": "24-26 March 2020",
         "authors": [
             "Francesco Palomba",
             "Francesco Gennaro",
@@ -2315,8 +2286,7 @@
     {
         "title": "THERMAL DC TEST AND ANALYSIS OF A STATOR MADE WITH RESIN TRICKLE IMPREGNATION",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "Y. Guo",
             "J. Soulard",
@@ -2329,8 +2299,7 @@
     {
         "title": "Slow-moving target detection with MIMO radar based on time-domain frequency diversity",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "Y. Guo",
             "J. Gong",
@@ -2344,8 +2313,7 @@
     {
         "title": "Off-grid DOA estimation for passive radar",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "J. Wen",
             "J. Yi",
@@ -2358,8 +2326,7 @@
     {
         "title": "TORQUE SEPARATION FOR DUAL THREE-PHASE PM MACHINES USING FROZEN PERMEABILITY METHOD",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "S. Wang",
             "Z.-Q. Zhu",
@@ -2374,8 +2341,7 @@
     {
         "title": "One-bit SAR imaging and moving target detection based on frequency shift of dechirp echo",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "T. Pan",
             "B. Zhao",
@@ -2387,10 +2353,24 @@
         "abstract": "SAR imaging and moving target detection are hot research topics in the radar literature. SAR involved one-bit sampling is a promising technology for many civilian applications due to its low-cost and low-power consumptions. This paper presents a novel one-bit method for detecting moving targets in SAR images. The proposed method is applied to the signal after dechirp processing. Based on the one-bit quantization, the method introduces a static frequency offset to the original signal, which decreases the spectrum interference of the higher harmonics. In addition, combined with displaced phase center antenna (DPCA) technique, the moving targets are effectively detected after compensation of the two channel one-bit SAR images. Finally, compared with the straightforward one-bit sampling scheme, the efficiency of the proposed method and the relevant conclusion are verified by the simulation results."
     },
     {
+        "title": "Multi-User Digital Beamforming Based on Path Angle Information for mm-Wave MIMO Systems",
+        "conferenceTitle": "WSA 2020; 24th International ITG Workshop on Smart Antennas",
+        "data": "18-20 Feb. 2020",
+        "authors": [
+            "Israa Khaled",
+            "Ammar El Falou",
+            "Charlotte Langlais",
+            "Bachar El Hassan",
+            "Michel Jezequel"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "In millimeter-wave wireless communications, beamforming, also known as beamsteering is a promising technique that enables the base station, with a large number of antennas, to mitigate the tremendous path loss. This paper aims to assess the performance of two digital beamformers, namely, conjugate beamforming (CB) and digital beamsteering (DBS) in a millimeter-wave environment based on geometric aspects, such as the antenna array topology or the location of the user in the cell. The realistic channel model NYUSIM, from New York University, reproduces a mono- and multi-path urban scenario. We show that DBS, with only line-of-sight path angle information at the transmitter, outperforms CB, with full channel state information at the transmitter, in mono-path environment. However, in multipath scenario, DBS is not able to exploit the diversity of nonline-of-sight paths and CB outperforms DBS."
+    },
+    {
         "title": "Exploration of Computational Intelligence Strategies for Increasing the Degree of Self-Sufficiency of Microgrids",
         "conferenceTitle": "NEIS 2020; Conference on Sustainable Energy Supply and Energy Storage Systems",
-        "Content Type": "Conferences",
-        "date": "14-15 Sept. 2020",
+        "data": "14-15 Sept. 2020",
         "authors": [
             "Stefan Raedle",
             "Johannes Mast",
@@ -2404,8 +2384,7 @@
     {
         "title": "Pulse-agile waveform design for nonlinear FM pulses based on spectrum modulation",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "R. Zhuang",
             "H. Fan",
@@ -2418,10 +2397,22 @@
         "abstract": "The transmission of pulses with different intra-pulse modulations within a coherent processing interval (CPI), also known as pulse-agile radar, has several potential applications. For the detection of small targets with long range and slow velocity in the background of strong clutter, the conventional pulse-Doppler (PD) radar is limited by range ambiguity and folded clutter. It is feasible to solve this problem through the agility between pulses. In this paper, a non-repeating, spectrum modulated nonlinear frequency modulation (NLFM) waveform applicable for pulse agility radar is described. Based on the spectrum structure of linear frequency modulation (LFM) signal, the waveform modulates its power spectral density by a random sinusoid to achieve good cross-correlation properties, which can suppress the range ambiguity and folded clutter. Simulation results are provided to demonstrate the effectiveness of the proposed approach."
     },
     {
+        "title": "Multi-false-target deceptive jamming aganist SAR based on 1-bit quantization",
+        "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
+        "data": "4-6 Nov. 2020",
+        "authors": [
+            "C. Kuai",
+            "B. Zhao",
+            "L. Huang"
+        ],
+        "DOI": "10.1049/icp.2021.0702",
+        "citation": 1,
+        "abstract": "This paper proposes a multi-false-target deceptive jamming method based on 1-bit sampling assisted with a single-frequency threshold. The jammer generates a specific single frequency time-varying signal according to the offset of predesigned false points. By comparing the echo data with the time-varying threshold signal, it is quantized into 1-bit sampling data. The 1-bit data is modulated by the false target template, and then retransmitted to the radar, so as to achieve multi-false-target deceptive jamming. Compared with the conventional deceptive jamming, the proposed method can simplify the calculation complexity and improve the efficiency of the jammer. Through the simulation experiment, the focusing quality of the false target is analysed and the effectiveness of the algorithm is verified."
+    },
+    {
         "title": "A compact human activity classification model based on transfer learned network pruning",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "D. Hao",
             "J. Tian",
@@ -2435,8 +2426,7 @@
     {
         "title": "A novel protection scheme for inverter-dominated microgrid",
         "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 March 2020",
+        "data": "9-12 March 2020",
         "authors": [
             "Di Liu",
             "Dimitrios Tzelepis",
@@ -2450,8 +2440,7 @@
     {
         "title": "Overcurrent relays coordination optimisation methods in distribution systems for microgrids: A review",
         "conferenceTitle": "15th International Conference on Developments in Power System Protection (DPSP 2020)",
-        "Content Type": "Conferences",
-        "date": "9-12 March 2020",
+        "data": "9-12 March 2020",
         "authors": [
             "Salima Abeid",
             "Yanting Hu"
@@ -2463,8 +2452,7 @@
     {
         "title": "K-mean and HSV model based segmentation of unhealthy plant leaves and classification using machine learning approach",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "V. K. Trivedi",
             "P. K. Shukla",
@@ -2477,8 +2465,7 @@
     {
         "title": "Intelligent wastewater treatment system with IOT based monitoring for smart cities",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "M. A. Samma",
             "S. Vagrecha",
@@ -2492,8 +2479,7 @@
     {
         "title": "Value of derms for flexible interconnection of solar photovoltaics",
         "conferenceTitle": "CIRED 2020 Berlin Workshop (CIRED 2020)",
-        "Content Type": "Conferences",
-        "date": "22-23 Sept. 2020",
+        "data": "22-23 Sept. 2020",
         "authors": [
             "Jouni Peppanen",
             "Jeremiah Deboever",
@@ -2507,8 +2493,7 @@
     {
         "title": "Low-Inductance DC-link Design dedicated to SiC-based Highly Integrated Inverters",
         "conferenceTitle": "CIPS 2020; 11th International Conference on Integrated Power Electronics Systems",
-        "Content Type": "Conferences",
-        "date": "24-26 March 2020",
+        "data": "24-26 March 2020",
         "authors": [
             "Jasper Schnack",
             "Victor Golev",
@@ -2524,8 +2509,7 @@
     {
         "title": "A framework of integrating VR and IoT technology to test users’ preferences of artificial lighting variations in hotel guest room",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "S. M. Elwageeh",
             "H. F. Karoui"
@@ -2537,8 +2521,7 @@
     {
         "title": "Smart autonomous thermometer system to assist COVID-19 pandemic monitoring in smart campuses",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "M. Rizk"
         ],
@@ -2549,8 +2532,7 @@
     {
         "title": "TEXT CLASSIFICATION METHOD OF DONGBA CLASSICS BASED ON CATBOOST ALGORITHM",
         "conferenceTitle": "The 8th International Symposium on Test Automation & Instrumentation (ISTAI 2020)",
-        "Content Type": "Conferences",
-        "date": "28-29 Nov. 2020",
+        "data": "28-29 Nov. 2020",
         "authors": [
             "X. Zhang",
             "G. X. Wu"
@@ -2562,8 +2544,7 @@
     {
         "title": "Load forecasting in different scale and horizon - a review",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2020",
+        "data": "21-23 Sept. 2020",
         "authors": [
             "E. Iskandarnia",
             "H. Al-Amal",
@@ -2576,8 +2557,7 @@
     {
         "title": "Migration through resolution cell correction of bistatic ISAR imaging with sparse aperture",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "W. Chen",
             "M. Lv",
@@ -2592,8 +2572,7 @@
     {
         "title": "Comparative Analysis of Bidirectional DC-DC Converters for Fuel Cell Hybrid Vehicles",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "N. Hasimi",
             "H. Hinz",
@@ -2604,10 +2583,25 @@
         "abstract": "Fuel cell hybrid vehicles use an electric energy storage system such as a battery that can provide additional traction power. This is needed to improve vehicle operation during acceleration and to avoid dynamic current stress of the fuel cell stack. The battery is used for regenerative braking and is connected to the DC-bus of the drive train via a bidirectional DC-DC converter. This paper investigates non-isolated hard-switched bidirectional DC-DC converters with voltage and current ratings which are common in fuel cell hybrid vehicles. The focus is on the comparative analysis of converters regarding the current and voltage stress as well as on the passive component design. Furthermore, a general evaluation for the use in fuel cell hybrid vehicles is discussed."
     },
     {
+        "title": "PMU error analyses and effects on linear state estimation based on SVM",
+        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
+        "data": "2-3 July 2020",
+        "authors": [
+            "H. Ye",
+            "W. Song",
+            "Y. Cui",
+            "W. Wang",
+            "C. Lu",
+            "J. Lin"
+        ],
+        "DOI": "10.1049/icp.2020.0185",
+        "citation": 1,
+        "abstract": "With the large amount of renewable energy grid-connected, the complicated transmission network, and the diversification of load, power system operation mode changes rapidly. Linear state estimation based on PMU can better reflect the current state of the system. However, PMU error is a key issue for the accurate linear state estimation. While, the true values of PMU measurements and the real states of power system are all unavailable. Therefore, it is difficult to evaluate performances of the state estimation results in a practical power system. This article proposes a method of applying nonparametric estimation to the measurement error analysis of PMU. Through the PMU measurement data from the power system simulation platform, the unimodal PMU voltage measurement error and the bimodal PMU current measurement error are obtained. For dealing with evaluating power system state estimation, an approach of evaluating state estimation results by support vector machine (SVM) without the real value is presented. The feasibility of this method is verified in a simulation of IEEE 14 and 118 node system."
+    },
+    {
         "title": "Waveform design of LFM pulse train based on pulse width agility",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "Z. Liu",
             "L. Ren",
@@ -2622,8 +2616,7 @@
     {
         "title": "Design and Application of Distributed Energy Dissipation Device in LCC-MMC Transmission System",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "H. Dingwen",
             "W. Li",
@@ -2637,8 +2630,7 @@
     {
         "title": "Research on fault diagnosis and position synthesize technology of resolver suitable for servo motor control",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2020)",
-        "Content Type": "Conferences",
-        "date": "18-21 Sept. 2020",
+        "data": "18-21 Sept. 2020",
         "authors": [
             "L. Ren",
             "S. Sun",
@@ -2653,8 +2645,7 @@
     {
         "title": "A novel Sensorless Control Strategy Based on Sliding Mode Observer for Non-Sinusoidal Seven-phase PMSM",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "Y. Mini",
             "N. K. Nguyen",
@@ -2667,8 +2658,7 @@
     {
         "title": "Discrete side-lobe clutter suppression by designing orthogonal projection filter in space-based radar systems",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "W. Wang",
             "Y. Liu",
@@ -2683,8 +2673,7 @@
     {
         "title": "Characterisation of the Junction Temperature of Gallium-Nitride Power Devices via Quasi-Threshold Voltage as Temperature Sensitive Electrical Parameter",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
+        "data": "15-17 Dec. 2020",
         "authors": [
             "K. Sharma",
             "K. Muñoz Barón1",
@@ -2698,8 +2687,7 @@
     {
         "title": "Inside Tiger Lake: Intel’s Next Generation Mobile Client CPU",
         "conferenceTitle": "2020 IEEE Hot Chips 32 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "16-18 Aug. 2020",
+        "data": "16-18 Aug. 2020",
         "authors": [
             "Xavier Vera"
         ],
@@ -2708,10 +2696,24 @@
         "abstract": "This article consists only of a collection of slides from the author's conference presentation."
     },
     {
+        "title": "A multi-objective joint planning of transmission channel and energy storage system considering economy and flexibility",
+        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
+        "data": "2-3 July 2020",
+        "authors": [
+            "Z. Chen",
+            "N. Tai",
+            "Y. Hu",
+            "W. Huang",
+            "L. Li"
+        ],
+        "DOI": "10.1049/icp.2020.0146",
+        "citation": 1,
+        "abstract": "The uncertain output of renewable energy requires the power system to have flexible adjustment ability, which is called as flexibility. However, current research on power system flexibility planning mainly focuses on power supply configuration and rarely considers the flexibility of line planning. Because of it, this paper proposes a joint planning method of transmission channel and energy storage system considering the dual objectives of economy and flexibility. The model adopts a two-layer optimization model. The upper layer takes the optimal economy and flexibility as the goal, which decides the line planning scheme; while the lower layer is optimized for operational economy, determining the power system scheduling strategy, and returns the results to the upper layer. The model is solved by the NSGA2 optimization algorithm, so the multi-objective optimization is achieved. On this basis, a method of constructing renewable energy output scenes according to fluctuation randomness is proposed, which provides data basis for the planning optimization model. Finally, the method is simulated in the power grid with high proportion of renewable energy to verify the effectiveness."
+    },
+    {
         "title": "LPI-based joint node selection and power allocation for target localization in non-coherent distributed MIMO radar with low complexity",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "W. Zhang",
             "C. Shi",
@@ -2724,8 +2726,7 @@
     {
         "title": "Overvoltage simulation and analysis of resonant switch in VSC-MTDC system",
         "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
+        "data": "2-3 July 2020",
         "authors": [
             "Y. Zheng",
             "L. Xu",
@@ -2742,8 +2743,7 @@
     {
         "title": "Specific Emitter Identification based on empirical mode decomposition and convolutional neural network",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
+        "data": "4-6 Nov. 2020",
         "authors": [
             "Y. Zhong",
             "D. Chen",
@@ -2755,188 +2755,5 @@
         "DOI": "10.1049/icp.2021.0694",
         "citation": 1,
         "abstract": "Specific emitter identification (SEI) is an approach that discriminates different emitters by studying the association between the received signals and corresponding emitters, to help realizing advanced military and civil spectrum managing applications. The performance of traditional SEI technique based on expert knowledge and hand-crafted emitter features is limited in engineering, since the designing of features is essentially subject to a certain application scenario and radio environment. To provide a universal SEI method, this paper proposes a novel strategy using adaptive feature generation and deep learning architecture. In particular, the technique of empirical mode decomposition is performed on the non-stationary received signal, and further converted into a grey-scale image. Then a convolutional neural network is applied for feature extraction and emitter identification. In the experiment, we first build a dataset with same intermediate frequency tone signals from four identical Keysight E8267D signal sources with different output power. Then the performance of the proposed method is studied on this dataset, the results indicate that our method is effective for emitter identification."
-    },
-    {
-        "title": "A Fault Tolerant Control Strategy for Dual Three-Phase PMSM under Single-Phase Open Circuit Fault Considering Inductance Asymmetry",
-        "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
-        "authors": [
-            "Z. Li",
-            "L. Wu",
-            "J. Liu"
-        ],
-        "DOI": "10.1049/icp.2021.1034",
-        "citation": 1,
-        "abstract": "This paper proposes a fault-tolerant control strategy to suppress the second harmonic current and torque ripple in dual threephase PMSMs with inductance asymmetry due to single-phase open circuit. The mathematical model of the dual three-phase PMSM is established based on a proposed vector decoupling method which can be used in both pre-fault and post-fault models. Reference stator currents relationship in fault condition is also analyzed and deduced in this paper. Based on the developed model, PIR controllers are introduced to suppress the second harmonic currents. The experimental results validate the effectiveness of the proposed fault tolerant control strategy in fault condition."
-    },
-    {
-        "title": "A COST-EFFECTIVE BUS-CURRENT DETECTION TECHNIQUE FOR CURRENT CONTROL AND FAULT DIAGNOSIS OF POWER DIODES IN SRM DRIVES",
-        "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
-        "authors": [
-            "N. Ali",
-            "Q. Gao",
-            "K. Ma"
-        ],
-        "DOI": "10.1049/icp.2021.0979",
-        "citation": 1,
-        "abstract": "This paper investigates a simple and cost-effective phase current measurement technique for a three-phase switched reluctance motor (SRM), considering its independent phase current control and fault diagnosis of power converter. Unlike conventional current measurement methods, only two current sensors are utilized in such a way that one is installed in the upper bus, and the other is placed in the lower dc-bus to measure the bus currents. In order to extract the phase currents from the measured bus currents, switching functions are rearranged such that during single active region the upper switches chop, while the lower switches remain closed during the phase turn-on region. During commutation region, the upper switches of the incoming phase will remain closed, while the lower switches will perform the chopping function. However, the outgoing phase will observe the same switching function as that of single active region. Furthermore, utilizing the same two sensors without additional devices, the typical open-and short-circuit faults of power diodes are analyzed. Thorough simulations are carried out on a three-phase 12/8 SRM to validate the effectiveness of the proposed technique."
-    },
-    {
-        "title": "Holistic view of needs and requirements of multi-market flexibility trading",
-        "conferenceTitle": "CIRED 2020 Berlin Workshop (CIRED 2020)",
-        "Content Type": "Conferences",
-        "date": "22-23 Sept. 2020",
-        "authors": [
-            "Sami Repo",
-            "Mehdi Attar",
-            "Sirpa Repo",
-            "Erkki Sapp",
-            "Heidi Uimonen",
-            "Antti Mutanen",
-            "Paulius Butkus"
-        ],
-        "DOI": "10.1049/oap-cired.2021.0232",
-        "citation": 1,
-        "abstract": "The key idea of the proposed study is to provide a holistic top-down understanding of flexibility trading in a multi-market environment. The objective of the proposed study is to analyse the needs and requirements of existing and emerging electricity markets for flexibility to work as a bridge between flexibility providers and users. The proposed study focuses on issues like coordination between stakeholders, data exchange, interoperability, liquidity and rules and structures essential for an accessible and viable flexibility trade. More often, flexibility will be located in distribution grids and distribution system operator might require flexibility themselves. The coordination of flexibility trading becomes more complicated when an aggregated prosumer flexibility impacts multiple stakeholders. The particular focus of the proposed study is to describe and analyse the needs and requirements of flexibility in markets and how they could be integrated as a part of the overall electricity market environment."
-    },
-    {
-        "title": "A state estimation algorithm for the monitoring of distribution grids in absence of pseudo-measurements",
-        "conferenceTitle": "NEIS 2020; Conference on Sustainable Energy Supply and Energy Storage Systems",
-        "Content Type": "Conferences",
-        "date": "14-15 Sept. 2020",
-        "authors": [
-            "Marco Pau",
-            "Jan Dinkelbach",
-            "Ferdinanda Ponci",
-            "Antonello Monti"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "Real-time monitoring and situational awareness are often a prerequisite to enable the intelligent management of distribution grids and to step into the smart grid paradigm. Despite the research efforts to design state estimation tools tailored to the distribution system, achieving real-time monitoring at distribution level is still a major challenge. One of the main problems is the scarce number of measurement devices available in the field. Pseudo-measurements, namely forecasts of power consumption or generation, are usually introduced to deal with this issue. Nonetheless, defining meaningful pseudo-measurements is not a trivial task and it can represent a barrier, from a practical perspective, for the deployment of the monitoring system. This paper presents a new formulation of the distribution system state estimation problem that avoids defining pseudo measurements and allows running state estimation using only few real-time measurements in combination with the nominal data of the connected loads or generators. Performed tests prove that the proposed algorithm can be an effective solution to easily deploy state estimation in poorly instrumented grids, avoiding the complexities and potential issues associated to the use of pseudo-measurements."
-    },
-    {
-        "title": "Research on virtual inertia control of the DC microgrid",
-        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
-        "authors": [
-            "Y. Fu",
-            "X. Shao",
-            "X. Zhang"
-        ],
-        "DOI": "10.1049/icp.2020.0134",
-        "citation": 1,
-        "abstract": "The inertia support of DC microgrid system is less, the instability of output power of distributed generation and the sudden change of load cause the sharp fluctuation of DC voltage, which endangers the safe and stable operation of DC microgrid. In order to solve the problem of small inertia of DC microgrid, a virtual inertial control strategy with exponential change is proposed based on U-I droop control to slow down the voltage shock caused by disturbance of the system. The DC microgrid system is built in MATLAB/Simulink. The simulation results show that the proposed strategy can increase the inertia of DC system for a short time, suppress DC voltage oscillation, effectively improve the transient response of DC voltage disturbance and improve the operation stability of the system when the power shortage suddenly occurs."
-    },
-    {
-        "title": "Unified voltage droop control strategy for VSC-MTDC in HVDC system",
-        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
-        "authors": [
-            "S. A. Khan",
-            "C. Liu",
-            "J. A. Ansari"
-        ],
-        "DOI": "10.1049/icp.2020.0184",
-        "citation": 1,
-        "abstract": "Grid stability is directly proportional to the voltage control, which becomes complex when multiple grids are involved. Due to the increasing trend of renewable energy integration and smart grid systems, a multi-terminal direct current (MTDC) grid system is the trending approach in the power system. Voltage control strategies like voltage margin control, master-slave control, etc. have some drawbacks associated with them. Such as the generation of oscillations, delayed time response, etc. A new centralized Voltage droop control strategy for voltage source converter (VSC) is proposed. The aspiration of this strategy comes from the frequency control in the AC system. Voltage control in the DC system is the counterpart of frequency control in the AC system. The unified voltage droop control strategy balances the instantaneous power amongst all converters in case of any disturbance. All the converters automatically adjust themselves to maintain the balance of power within the DC grid based on the measurement of terminal voltage. Resulting in minimum overshoot, minimum undershoot, instantaneous fault clearing, and fast settling time. A four-terminal VSC-MTDC system is simulated in the PSCAD environment to test the performance of the unified or centralized voltage droop control strategy."
-    },
-    {
-        "title": "Data exchange platform for enabling DSO–TSO knowledge exchange in the smart grid",
-        "conferenceTitle": "CIRED 2020 Berlin Workshop (CIRED 2020)",
-        "Content Type": "Conferences",
-        "date": "22-23 Sept. 2020",
-        "authors": [
-            "Julia P. Köhlke"
-        ],
-        "DOI": "10.1049/oap-cired.2021.0210",
-        "citation": 1,
-        "abstract": "In the existing research, it is evident that cooperation is essential for the development of new innovations. Organisations in the energy sector are undergoing fundamental changes as a cleaner and more efficient energy supply is demanded. To this end, distribution system operators (DSOs) and transmission system operators (TSOs) increasingly need to cooperate, share knowledge and jointly develop new innovative products. Within this innovation process, knowledge from DSOs and TSOs is required, which has to be recombined and exchanged between both actors. This research paper aims to determine what knowledge needs to be exchanged between DSOs and TSOs in order to develop new innovative ways of exchanging data and thus shape joint cooperation in the future energy system. To answer this question, 13 interviews with experts from the distribution, transmission and research field have been conducted. The interviews were realised with project partners from the EU Horizon 2020 project TDX-ASSIST that aims to develop a data exchange platform. For the future energy system, communication via data exchange platforms will play an increasingly important role as more information and communication technology (ICT) related and distributed knowledge will be exchanged."
-    },
-    {
-        "title": "A PANORAMIC LIGHT FIELD RECONSTRUCTION METHOD FOR VERY SHARP IMAGES WITH NO LOSS OF FIELD OF VIEW",
-        "conferenceTitle": "The 8th International Symposium on Test Automation & Instrumentation (ISTAI 2020)",
-        "Content Type": "Conferences",
-        "date": "28-29 Nov. 2020",
-        "authors": [
-            "F. Duan",
-            "W. Su",
-            "H. Guan"
-        ],
-        "DOI": "10.1049/icp.2021.1296",
-        "citation": 1,
-        "abstract": "A light field image can achieve a realistic visualization of a complex scene because it contains directional information and intensity information of light; however, its advantages cannot be fully realized due to the limited angular range of a light field camera. For this reason, we processed a light field focal stack with a masked back projection algorithm to reconstruct the panoramic light field sub-aperture image and thereby achieved the goal of expanding the angular field of view of the light field. The method described in this paper consists of two main parts: focal stack stitching and panoramic light field reconstruction. To stitch a focal stack, two depth cues were fused to extract high-precision index maps for generating high-quality all-in-focus images and for calculating the transformation relationship between light fields. To generate a panoramic light field, we use a masked back projection algorithm to process the panoramic focal stack and to reconstruct a sharp panoramic light field sub-aperture-images. Finally, we demonstrate the generation of high-quality, all-in-focus images and sharp panoramic light-field sub-aperture-images with no loss of the field of view."
-    },
-    {
-        "title": "FPGA-based resource-aware solutions for sparse matrice in real-time EMT simulation",
-        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "Content Type": "Conferences",
-        "date": "2-3 July 2020",
-        "authors": [
-            "G. Xiong",
-            "J. Zhang",
-            "G. He"
-        ],
-        "DOI": "10.1049/icp.2020.0035",
-        "citation": 1,
-        "abstract": "This paper proposed and compared two FPGA (field programmable gate array)-based solutions to the inversion of sparse matrices. The solutions leveraged the sparseness of extremely large matrices in real-time electromagnetic transient (EMT) simulation. The FPGA implementation of sparse LU decomposition and modified Sherman-Morrison-Woodbury(SMW) formula in matrix inversion is presented. This resource-aware implementation tackled the resource bottleneck on FPGA-based sparse matrix inversion. Through a novel one matrix structure storage scheme, we finally achieved resource-reduced on the premise of maintaining speed and accuracy. Although the solutions are tailored for power electronics simulation systems, they can also be universalized in many other sparse-matrix-led fields due to its versatility. The resource consumption, performance, and accuracy are evaluated and compared. Our solution is proven to perform excellently."
-    },
-    {
-        "title": "A method for wind turbine clutter recognition and mitigation",
-        "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2020",
-        "authors": [
-            "B. Xing",
-            "J. Mu"
-        ],
-        "DOI": "10.1049/icp.2021.0713",
-        "citation": 1,
-        "abstract": "In this paper, a method for wind turbine clutter (WTC) recognition and mitigation based on support vector machine (SVM) and sparse reconstruction is proposed. First, the wavelet transform is performed on the signal to construct a feature vector based on the WTC radar echo model, and a support vector machine is utilized to recognize whether a WTC is exist. Second, a dictionary will be constructed for strong interference components of WTC, before utilizing sparse reconstruction to separate WTC signal. As a result the target signal will be reserved, achieving the mitigation of WTC. The effectiveness of this proposed method is demonstrated through simulation results."
-    },
-    {
-        "title": "GATE THRESHOLD VOLTAGE MEASUREMENT METHOD FOR SIC MOSFET WITH CURRENT-SOURCE GATE DRIVER",
-        "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "Content Type": "Conferences",
-        "date": "15-17 Dec. 2020",
-        "authors": [
-            "X. Wang",
-            "H. Wu",
-            "V. Pickert"
-        ],
-        "DOI": "10.1049/icp.2021.0972",
-        "citation": 1,
-        "abstract": "Gate threshold voltage is a classic thermo-sensitive electrical parameter (TSEP) for the junction temperature estimation and the gate oxide degradation, which is considered as a promising precursor for the online condition monitoring of power MOSFET. However, due to the fast switching transient, the gate threshold voltage of SiC MOSFET is much more difficult to measure than its Si counterpart. More specifically, the conventional measurement method mentioned in the datasheet obtains the gate threshold voltage during the turn-on transient, which requires the measurement to be completed within tens of nanoseconds. This paper presents a new approach to evaluate the gate threshold voltage with the assistance of a current-source gate driver. The advantage of the proposed measurement method is its lower requirement for the bandwidth of the measurement circuit, compared with the conventional method. The principle of the proposed method is demonstrated, followed by the simulation validation. A current-source gate driver is designed and constructed to assess the proposed method in experiment which shows that the measurement results can be used to evaluate the junction temperature effectively."
-    },
-    {
-        "title": "Research on stator structure optimization design of the RVDT",
-        "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2020)",
-        "Content Type": "Conferences",
-        "date": "18-21 Sept. 2020",
-        "authors": [
-            "H. Xu"
-        ],
-        "DOI": "10.1049/icp.2021.0156",
-        "citation": 1,
-        "abstract": "Featuring high sensitivity, good linearity and compact structure, rotary variable differential transformer (RVDT) is widely used in automatic control systems in aerospace such as the aircraft nose-wheel steering system, the rudder control system and the inlet control system. In the RVDT design process, both the uniformity of the internal magnetic field and the rationality of structural process shall be addressed to optimize the structural parameters on the precondition of meeting performance requirements. This paper selects a typical RVDT structure as the research subject, and identifies that the selection of the slot width of the stator core is key to improve process rationality and manufacturing efficiency. A structure optimization scheme is put forward by simulation based on different structural parameters and verified by tests. This optimized structure greatly improves the manufacturing efficiency, and the research findings can be applied to the development of redundant RVDT, which provides strong support for accelerating R&D of such products"
-    },
-    {
-        "title": "Static Frequency Converters for Railway Power Supply based on IGCT High Power Semiconductors",
-        "conferenceTitle": "PCIM Europe digital days 2020; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "7-8 July 2020",
-        "authors": [
-            "Tobias Thurnherr",
-            "Philippe Maibach",
-            "Beat Buchmann",
-            "Eugen Baerlocher"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "This paper presents different aspects of static frequency converters for railway power supplies: As an introduction, an overview of specific requirements is given. A 3-level converter based on IGCT technology that was introduced 20 years ago is presented, and corresponding operating experiences are shown. Besides that, also a newly introduced converter based on MMC topology with IGCT semiconductors is presented, together with measurement results from a real converter."
     }
 ]

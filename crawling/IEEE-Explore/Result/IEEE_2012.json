@@ -2,8 +2,7 @@
     {
         "title": "The design of AC permanent magnet motors for electric vehicles: A computationally efficient model of the operational envelope",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "J. Goss",
             "P. H. Mellor",
@@ -12,14 +11,13 @@
             "M. Popescu"
         ],
         "DOI": "10.1049/cp.2012.0251",
-        "citation": 51,
+        "citation": 52,
         "abstract": "Salient brushless AC (BLAC) permanent magnet (PM) motors are a preferred topology in the rapidly growing area of electric vehicle traction due to their inherent high efficiencies and excellent power densities. In the design of these systems it is important to appraise the motor performance across the entire torque-speed envelope. This paper presents computationally efficient techniques that allow rapid and accurate modelling of the entire operational envelope of any BLAC PM motor, enabling the generation of torque/speed characteristics and loss maps that can be used in an iterative design process. The proposed techniques are validated against test data from an in-house 35kW interior PM motor design and a comparison between a measured and computed efficiency map for the 2004 Toyota Prius motor is undertaken."
     },
     {
         "title": "Novel rotor design optimization of synchronous reluctance machine for high torque density",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Reza R. Moghaddam",
             "F. Magnussen",
@@ -32,21 +30,19 @@
     {
         "title": "VSC transmission limitations imposed by AC system strength and AC impedance characteristics",
         "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
-        "Content Type": "Conferences",
-        "date": "4-5 Dec. 2012",
+        "data": "4-5 Dec. 2012",
         "authors": [
             "Jenny Z. Zhou",
             "Aniruddha M. Gole"
         ],
         "DOI": "10.1049/cp.2012.1986",
-        "citation": 44,
+        "citation": 45,
         "abstract": "The paper investigates power transmission limitations in a VSC-HVDC system imposed by the ac system's impedance characteristics. An important observation from the study is that the operation of the converter is affected, not only by the magnitude of this impedance (quantified by the Short Circuit Ratio or SCR), but also significantly by its angle. An interesting result is that the larger the resistive component (i.e. impedance angle less than 90°), the larger is the minimum SCR required at the rectifier. The trend at the inverter end is the opposite, and the inverter is able to operate into systems with smaller SCR. Although operation is theoretically possible at the analytically calculated minimum SCRs, the paper shows that as the ac system approaches this value, the gains of the phase locked loop (PLL) used for angle reference generation must be reduced."
     },
     {
         "title": "Evaluation of perturb and observe MPPT algorithm implementation techniques",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "M. A. Elgendy",
             "B. Zahawi",
@@ -59,8 +55,7 @@
     {
         "title": "DC fault analysis of VSC based multi-terminal HVDC systems",
         "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
-        "Content Type": "Conferences",
-        "date": "4-5 Dec. 2012",
+        "data": "4-5 Dec. 2012",
         "authors": [
             "J. Rafferty",
             "L. Xu",
@@ -73,8 +68,7 @@
     {
         "title": "Comparison of DC-DC converter topologies for offshore wind-farm application",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Y. Zhou",
             "D. E. Macpherson",
@@ -88,8 +82,7 @@
     {
         "title": "Capacitor voltage balancing in modular multilevel converters",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "A. J. Korn",
             "M. Winkelnkemper",
@@ -103,8 +96,7 @@
     {
         "title": "Droop control modelling and analysis of multi-terminal VSC-HVDC for offshore wind farms",
         "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
-        "Content Type": "Conferences",
-        "date": "4-5 Dec. 2012",
+        "data": "4-5 Dec. 2012",
         "authors": [
             "W. Wang",
             "M. Barnes",
@@ -117,8 +109,7 @@
     {
         "title": "Performance of a DC/AC/DC VSC system to interconnect HVDC systems",
         "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
-        "Content Type": "Conferences",
-        "date": "4-5 Dec. 2012",
+        "data": "4-5 Dec. 2012",
         "authors": [
             "T Lüth",
             "M M C Merlin",
@@ -130,14 +121,13 @@
             "K Dyke"
         ],
         "DOI": "10.1049/cp.2012.1971",
-        "citation": 22,
+        "citation": 23,
         "abstract": "Interconnection of High Voltage Direct Current (HVDC) links into networks is key to a future HVDC grid spanning large regions. Various factors including the evolution of cable technology will lead to a variety of DC voltages and a need to provide a DC/DC step up/down at high power ratings (beyond 500 MW). This paper analyses a High Voltage (HV) DC/DC converter utilising an intermediate AC link between two modular multi-level converters (MMC) based on the Alternate Arm Converter (AAC) topology. System operation is demonstrated using a detailed Simulink simulation. Power loss estimates derived from the simulation are used to illustrate the dependence of efficiency on design choices and operating point. Furthermore, the system is shown to block a DC-side fault and prevent its affect propagation through the system."
     },
     {
         "title": "Control strategies for smart low voltage grids — The project DG DemoNet — Smart LV Grid",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Alfred Einfalt",
             "Andreas Lugmaier",
@@ -151,8 +141,7 @@
     {
         "title": "Conservation voltage reduction and voltage optimisation on Irish distribution networks",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Ellen Diskin",
             "Teresa Fallon",
@@ -166,8 +155,7 @@
     {
         "title": "Use of a 3 phase full bridge converter to drive a 6 phase switched reluctance machine",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "J. D. Widmer",
             "B. C. Mecrow",
@@ -182,8 +170,7 @@
     {
         "title": "An overview of the present grid codes for integration of distributed generation",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Traian-Nicolae Preda",
             "Kjetil Uhlen",
@@ -196,8 +183,7 @@
     {
         "title": "A six-phase multilevel space vector PWM algorithm for a dual-inverter supplied drive",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "F. Patkar",
             "E. Levi",
@@ -208,10 +194,24 @@
         "abstract": "Multilevel drive supply can be realised in two different ways, by using either a conventional multilevel single-sided supply configuration or with a dual-inverter supply topology. The second structure is simpler for practical realisation, since the problem of capacitor voltage balancing does not arise. This paper develops a space vector PWM (SVPWM) algorithm for the dual-inverter six-phase supply, based on two two-level six-phase voltage source inverters (VSIs), feeding a symmetrical six-phase load. In the algorithm, each inverter is controlled using SVPWM technique that was previously developed for a single-sided supply configuration. A multilevel output voltage is produced for a certain range of modulation index. The performance of the algorithm is verified through simulations and experiments."
     },
     {
+        "title": "The comparison and analysis for loss of excitation protection schemes in generator protection",
+        "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
+        "data": "23-26 April 2012",
+        "authors": [
+            "Z. P. Shi",
+            "J. P. Wang",
+            "Z. Gajic",
+            "C. Sao",
+            "M. Ghandhari"
+        ],
+        "DOI": "10.1049/cp.2012.0071",
+        "citation": 20,
+        "abstract": "Loss-Of-Excitation (LOE) condition of a generator may cause severe damages on both generator and the interconnected systems. This paper analyses the behaviours of different LOE protection schemes, such as R-X, G-B, P-Q and U-I schemes, for a hydro generator, which is connected to an infinite bus. Based on the simulation results, the reliability and stability of existing LOE protection schemes are compared and a preferred scheme is selected. An improvement to the scheme is also proposed to prevent the LOE relay incorrect operation during external faults, such as short-circuit faults on busbar or transmission lines."
+    },
+    {
         "title": "A novel universal control scheme for multilevel inverters",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Krishna Kumar Gupta",
             "Shailendra Jain"
@@ -221,26 +221,9 @@
         "abstract": "This paper presents a universal control scheme for multilevel inverters to implement popular modulation strategies for any given topology. Moreover, it can also be used for charge balance control amongst the multiple input DC sources in a given topology. The concept is mathematically modelled and the scheme is demonstrated for three different topologies. Charge balance control is also demonstrated."
     },
     {
-        "title": "The comparison and analysis for loss of excitation protection schemes in generator protection",
-        "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
-        "authors": [
-            "Z. P. Shi",
-            "J. P. Wang",
-            "Z. Gajic",
-            "C. Sao",
-            "M. Ghandhari"
-        ],
-        "DOI": "10.1049/cp.2012.0071",
-        "citation": 19,
-        "abstract": "Loss-Of-Excitation (LOE) condition of a generator may cause severe damages on both generator and the interconnected systems. This paper analyses the behaviours of different LOE protection schemes, such as R-X, G-B, P-Q and U-I schemes, for a hydro generator, which is connected to an infinite bus. Based on the simulation results, the reliability and stability of existing LOE protection schemes are compared and a preferred scheme is selected. An improvement to the scheme is also proposed to prevent the LOE relay incorrect operation during external faults, such as short-circuit faults on busbar or transmission lines."
-    },
-    {
         "title": "Design and testing of a 250 kW medium-speed Brushless DFIG",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "R. A. McMahon",
             "E. Abdi",
@@ -250,14 +233,13 @@
             "P. J. Tavner"
         ],
         "DOI": "10.1049/cp.2012.0320",
-        "citation": 18,
+        "citation": 19,
         "abstract": "This paper presents the design and testing of a 250 kW medium-speed Brushless Doubly-Fed Induction Generator (Brushless DFIG), and its associated power electronics and control systems. The experimental tests confirm the design, and show the system's steady-state and dynamic performance. The medium-speed Brushless DFIG in combination with a simplified two-stage gearbox promises a low-cost low-maintenance and reliable drive train for wind turbine applications."
     },
     {
         "title": "A newton quadratic interpolation based control strategy for photovoltaic system",
         "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
-        "Content Type": "Conferences",
-        "date": "8-9 Sept. 2012",
+        "data": "8-9 Sept. 2012",
         "authors": [
             "Yun Liu",
             "Liyuan Chen",
@@ -272,8 +254,7 @@
     {
         "title": "Long range FM-based passive radar",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "M. Malanowski",
             "K.S. Kulpa",
@@ -288,8 +269,7 @@
     {
         "title": "Using feeder reconfiguration for congestion management of smart distribution network with high DG penetration",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Mohammad Hosein Shariatkhah",
             "Mahmoud Reza Haghifam"
@@ -301,8 +281,7 @@
     {
         "title": "Empiric analysis of zero voltage switching in piezoelectric transformer based resonant converters",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "M. S. Rßdgaard",
             "T. Andersen",
@@ -315,8 +294,7 @@
     {
         "title": "Systematic literature reviews in global software development: A tertiary study",
         "conferenceTitle": "16th International Conference on Evaluation & Assessment in Software Engineering (EASE 2012)",
-        "Content Type": "Conferences",
-        "date": "14-15 May 2012",
+        "data": "14-15 May 2012",
         "authors": [
             "J. M. Verner",
             "O. P. Brereton",
@@ -331,8 +309,7 @@
     {
         "title": "Operating region extension for multilevel converters in HVDC applications by optimisation methods",
         "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
-        "Content Type": "Conferences",
-        "date": "4-5 Dec. 2012",
+        "data": "4-5 Dec. 2012",
         "authors": [
             "Staffan Norrga",
             "Lennart Ängquist",
@@ -345,8 +322,7 @@
     {
         "title": "Comparative study of torque-speed characteristics of alternate switched-flux permanent magnet machine topologies",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Z. Q. Zhu",
             "M. M. J. Al-Ani",
@@ -362,8 +338,7 @@
     {
         "title": "Further developments in autonomous converter control in a multi-terminal HVDC system",
         "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
-        "Content Type": "Conferences",
-        "date": "4-5 Dec. 2012",
+        "data": "4-5 Dec. 2012",
         "authors": [
             "C D Barker",
             "R S Whitehouse"
@@ -375,8 +350,7 @@
     {
         "title": "A fast synchronously rotating reference frame-based voltage sag detection under practical grid voltages for voltage sag compensation systems",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Y. Kumsuwan",
             "Y. Sillapawicharn"
@@ -388,8 +362,7 @@
     {
         "title": "Extended Stable Election Protocol (SEP) for three-level hierarchical clustered heterogeneous WSN",
         "conferenceTitle": "IET Conference on Wireless Sensor Systems (WSS 2012)",
-        "Content Type": "Conferences",
-        "date": "18-19 June 2012",
+        "data": "18-19 June 2012",
         "authors": [
             "M M Islam",
             "M A Matin",
@@ -402,8 +375,7 @@
     {
         "title": "A flux focusing ferrite magnetic gear",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "K. Uppalapati",
             "J. Bird"
@@ -415,8 +387,7 @@
     {
         "title": "CFD modelling of an entire synchronous generator for improved thermal management",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "P. H. Connor",
             "S. J. Pickering",
@@ -431,8 +402,7 @@
     {
         "title": "Assessment of DC/DC converters for use in DC nodes for offshore grids",
         "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
-        "Content Type": "Conferences",
-        "date": "4-5 Dec. 2012",
+        "data": "4-5 Dec. 2012",
         "authors": [
             "C. E. Sheridan",
             "M.M.C. Merlin",
@@ -445,8 +415,7 @@
     {
         "title": "Application of data mining in intelligent power consumption",
         "conferenceTitle": "International Conference on Automatic Control and Artificial Intelligence (ACAI 2012)",
-        "Content Type": "Conferences",
-        "date": "3-5 March 2012",
+        "data": "3-5 March 2012",
         "authors": [
             "N. Jia",
             "J.S. Wang",
@@ -459,8 +428,7 @@
     {
         "title": "Phase-locked loop for AC systems: Analyses and comparisons",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Siyu Gao",
             "Mike Barnes"
@@ -472,8 +440,7 @@
     {
         "title": "Reliability estimation of second life battery system power electronic topologies for grid frequency response applications",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "N. Mukherjee",
             "D. Strickland",
@@ -487,8 +454,7 @@
     {
         "title": "ATLANTIDE — Digital archive of the Italian electric distribution reference networks",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Fabrizio Pilo",
             "Giuditta Pisano",
@@ -504,10 +470,24 @@
         "abstract": "ATLANTIDE is a three years research project, funded by the Italian Research Fund for the Power System development. Its aims are: i) developing a digital archive containing reference models of passive and active distribution networks; ii) simulating predictive scenarios for the development of the Italian distribution system according to the load profile evolution and to the challenges caused by the envisaged widespread diffusion and integration of distributed generation, renewable generation, and distribution storage devices. In this paper, general architecture, main objectives and expected results of the ATLANTIDE project are described."
     },
     {
+        "title": "Trajectory modification considering dynamic constraints of autonomous robots",
+        "conferenceTitle": "ROBOTIK 2012; 7th German Conference on Robotics",
+        "data": "21-22 May 2012",
+        "authors": [
+            "Christoph Roesmann",
+            "Wendelin Feiten",
+            "Thomas Woesch",
+            "Frank Hoffmann",
+            "Torsten Bertram"
+        ],
+        "DOI": "",
+        "citation": 13,
+        "abstract": "The classic \"elastic band\" deforms a path generated by a global planner with respect to the shortest path length while avoiding contact with obstacles. It does not take any dynamic constraints of the underlying robot into account directly. This contribution introduces a new approach called \"timed elastic band\" which explicitly considers temporal aspects of the motion in terms of dynamic constraints such as limited robot velocities and accelerations. The \"timed elastic band\" problem is formulated in a weighted multi-objective optimization framework. Most objectives are local as they depend on a few neighboring intermediate configurations. This results in a sparse system matrix for which efficient large-scale constrained least squares optimization methods exist. Results from simulations and experiments with a real robot demonstrate that the approach is robust and computationally efficient to generate optimal robot trajectories in real time. The \"timed elastic band\" converts an initial path composed of a sequence of way points into a trajectory with explicit dependence on time which enables the control of the robot in real time. Due to its modular formulation the approach is easily extended to incorporate additional objectives and constraints."
+    },
+    {
         "title": "A high torque density, direct drive in-wheel motor for electric vehicles",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "C. J. Ifedi",
             "B. C. Mecrow",
@@ -523,8 +503,7 @@
     {
         "title": "Nonlinear control strategy insuring contribution of PV generator to voltage and frequency regulation",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "A. F. Okou",
             "O. Akhri",
@@ -538,8 +517,7 @@
     {
         "title": "The role of fast charging stations for electric vehicles in the integration and optimization of distribution grid with renewable energy sources",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Giuseppe Mauri",
             "Antonio Valsecchi"
@@ -551,8 +529,7 @@
     {
         "title": "Investigation into the temperature profile of a liquid cooled YASA© AFPM machine",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "R. Camilleri",
             "T. Woolmer",
@@ -566,8 +543,7 @@
     {
         "title": "Torque distribution strategy for a front and rear wheel driven electric vehicle",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "X. Yuan",
             "J. Wang",
@@ -580,8 +556,7 @@
     {
         "title": "Self-sensing control of PM synchronous machines for the entire speed range with reduced computational effort based on a novel MRAS approach",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "K. Wiedmann",
             "A. Mertens"
@@ -593,8 +568,7 @@
     {
         "title": "Electric railway traction systems and techniques for energy saving",
         "conferenceTitle": "IET Professional Development Course on Electric Traction Systems (2012)",
-        "Content Type": "Conferences",
-        "date": "5-8 Nov. 2012",
+        "data": "5-8 Nov. 2012",
         "authors": [
             "S. Hillmansen"
         ],
@@ -605,8 +579,7 @@
     {
         "title": "Cell capacitor voltage control in a parallel hybrid modular multilevel voltage source converter for HVDC applications",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "E. K. Amankwah",
             "J. C. Clare",
@@ -620,8 +593,7 @@
     {
         "title": "Vocal separation using nearest neighbours and median filtering",
         "conferenceTitle": "IET Irish Signals and Systems Conference (ISSC 2012)",
-        "Content Type": "Conferences",
-        "date": "28-29 June 2012",
+        "data": "28-29 June 2012",
         "authors": [
             "Derry FitzGerald"
         ],
@@ -632,8 +604,7 @@
     {
         "title": "Performance analysis and simulation of three phase voltage source inverter using basic PWM techniques",
         "conferenceTitle": "IET Chennai 3rd International on Sustainable Energy and Intelligent Systems (SEISCON 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 Dec. 2012",
+        "data": "27-29 Dec. 2012",
         "authors": [
             "Sarat Kumar Sahoo",
             "A. Ramulu",
@@ -647,8 +618,7 @@
     {
         "title": "Comprehensive and quantitative analysis of protection problems associated with increasing penetration of inverter-interfaced DG",
         "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
+        "data": "23-26 April 2012",
         "authors": [
             "K. Jennett",
             "F. Coffele",
@@ -661,8 +631,7 @@
     {
         "title": "Staggered-SAR for high-resolution wide-swath imaging",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "M. Villano",
             "G. Krieger",
@@ -675,8 +644,7 @@
     {
         "title": "DC-arc blowing under pulsed magnetic field",
         "conferenceTitle": "26th International Conference on Electrical Contacts (ICEC 2012)",
-        "Content Type": "Conferences",
-        "date": "14-17 May 2012",
+        "data": "14-17 May 2012",
         "authors": [
             "A. Vassa",
             "E. Carvou",
@@ -693,8 +661,7 @@
     {
         "title": "Optimal magnet shaping with third order harmonic for maximum torque in brushless AC machines",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Z. Q. Zhu",
             "K. Wang",
@@ -707,8 +674,7 @@
     {
         "title": "Overview of electric railway systems and the calculation of train performance",
         "conferenceTitle": "IET Professional Development Course on Electric Traction Systems (2012)",
-        "Content Type": "Conferences",
-        "date": "5-8 Nov. 2012",
+        "data": "5-8 Nov. 2012",
         "authors": [
             "M. Chymera",
             "C.J. Goodman"
@@ -720,8 +686,7 @@
     {
         "title": "Characterization and comparison of commercially available silicon carbide (SIC) power switches",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "K. Haehre",
             "M. Meisser",
@@ -733,26 +698,9 @@
         "abstract": "In this paper the electrical and thermal characteristics of commercially available SiC devices, normally-on and -off JFETs as well as a MOSFET, and of a high-voltage Si- MOSFET are presented. The mentioned characteristics are compared and it is shown which characteristics are the limiting factors when designing power electronics devices based on SiC power switches."
     },
     {
-        "title": "Trajectory modification considering dynamic constraints of autonomous robots",
-        "conferenceTitle": "ROBOTIK 2012; 7th German Conference on Robotics",
-        "Content Type": "Conferences",
-        "date": "21-22 May 2012",
-        "authors": [
-            "Christoph Roesmann",
-            "Wendelin Feiten",
-            "Thomas Woesch",
-            "Frank Hoffmann",
-            "Torsten Bertram"
-        ],
-        "DOI": "",
-        "citation": 11,
-        "abstract": "The classic \"elastic band\" deforms a path generated by a global planner with respect to the shortest path length while avoiding contact with obstacles. It does not take any dynamic constraints of the underlying robot into account directly. This contribution introduces a new approach called \"timed elastic band\" which explicitly considers temporal aspects of the motion in terms of dynamic constraints such as limited robot velocities and accelerations. The \"timed elastic band\" problem is formulated in a weighted multi-objective optimization framework. Most objectives are local as they depend on a few neighboring intermediate configurations. This results in a sparse system matrix for which efficient large-scale constrained least squares optimization methods exist. Results from simulations and experiments with a real robot demonstrate that the approach is robust and computationally efficient to generate optimal robot trajectories in real time. The \"timed elastic band\" converts an initial path composed of a sequence of way points into a trajectory with explicit dependence on time which enables the control of the robot in real time. Due to its modular formulation the approach is easily extended to incorporate additional objectives and constraints."
-    },
-    {
         "title": "Current driven synchronous rectifier for LLC resonant converter with a novel integrated current transformer",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Godwin Kwun Yuan Ho",
             "Ruiyang Yu",
@@ -765,8 +713,7 @@
     {
         "title": "Signals and data fusion in a deployable multiband passive-active radar (DMPAR)",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "Tadeusz Brenner",
             "Georg Weiss",
@@ -780,8 +727,7 @@
     {
         "title": "Research on control and protection system for Shanghai Nanhui MMC VSC-HVDC demonstration project",
         "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
-        "Content Type": "Conferences",
-        "date": "4-5 Dec. 2012",
+        "data": "4-5 Dec. 2012",
         "authors": [
             "Yang Yuefeng",
             "Yang Jie",
@@ -795,8 +741,7 @@
     {
         "title": "Extended soft switching operation of the triple active bridge convereter",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Ruchira Yapa",
             "Andrew Forsyth"
@@ -808,8 +753,7 @@
     {
         "title": "Trans-Z-source Neutral Point Clamped inverter",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "W. Mo",
             "P. C. Loh",
@@ -823,8 +767,7 @@
     {
         "title": "Design of a compact RF energy harvester for wireless sensor networks",
         "conferenceTitle": "IET Conference on Wireless Sensor Systems (WSS 2012)",
-        "Content Type": "Conferences",
-        "date": "18-19 June 2012",
+        "data": "18-19 June 2012",
         "authors": [
             "T. Ajmal",
             "D. Jazani",
@@ -837,8 +780,7 @@
     {
         "title": "Impact of ICT on the reliability of active distribution networks",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Gianni Celli",
             "Emilio Ghiani",
@@ -852,8 +794,7 @@
     {
         "title": "Research on application and security protection of Internet of Things in Smart Grid",
         "conferenceTitle": "IET International Conference on Information Science and Control Engineering 2012 (ICISCE 2012)",
-        "Content Type": "Conferences",
-        "date": "7-9 Dec. 2012",
+        "data": "7-9 Dec. 2012",
         "authors": [
             "Y.F. Wang",
             "W.M. Lin",
@@ -867,8 +808,7 @@
     {
         "title": "A novel concurrent error detection technique for the Fast Fourier Transform",
         "conferenceTitle": "IET Irish Signals and Systems Conference (ISSC 2012)",
-        "Content Type": "Conferences",
-        "date": "28-29 June 2012",
+        "data": "28-29 June 2012",
         "authors": [
             "Pedro Reviriego",
             "Chris J. Bleakley",
@@ -881,8 +821,7 @@
     {
         "title": "Multi-objective optimization of a PM Assisted Synchronous Reluctance Machine, including torque and sensorless detection capability",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Nicola Bianchi",
             "Dario Durello",
@@ -895,8 +834,7 @@
     {
         "title": "Motion control strategy and operational behaviour of a high speed bearingless disc drive",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "H. Mitterhofer",
             "W. Amrhein"
@@ -908,8 +846,7 @@
     {
         "title": "Design of high torque traction motors for automotive applications using modulated pole SMC machines",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "N. J. Baker",
             "G. J. Atkinson",
@@ -925,8 +862,7 @@
     {
         "title": "Track-to-track fusion schemes for a radar network",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "Alexander Charlish",
             "Felix Govaers",
@@ -939,8 +875,7 @@
     {
         "title": "Primary-side sensing for a flyback converter in both continuous and discontinuous conduction mode",
         "conferenceTitle": "IET Irish Signals and Systems Conference (ISSC 2012)",
-        "Content Type": "Conferences",
-        "date": "28-29 June 2012",
+        "data": "28-29 June 2012",
         "authors": [
             "Tue T. Vu",
             "Seamus O'Driscoll",
@@ -953,8 +888,7 @@
     {
         "title": "Modelling and analysis of DFIG wind turbine system in PSCAD/EMTDC",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "T. Lei",
             "M. Ozakturk",
@@ -967,8 +901,7 @@
     {
         "title": "Comprehensive electromagnetic design procedure for switched reluctance machines",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "H. J. Brauer",
             "B. Burkhart",
@@ -981,8 +914,7 @@
     {
         "title": "Contact spot temperature and the temperature of external surfaces in an electrical connection",
         "conferenceTitle": "26th International Conference on Electrical Contacts (ICEC 2012)",
-        "Content Type": "Conferences",
-        "date": "14-17 May 2012",
+        "data": "14-17 May 2012",
         "authors": [
             "C. Wilson",
             "G. McIntosh",
@@ -993,10 +925,22 @@
         "abstract": "Infrared thermography is widely used to monitor the health of electrical power connections in live electrical lines. Although thermal imaging is helpful in locating faulty connections, surface temperature measurement alone is a poor indicator for fault severity assessment. Furthermore, under low load or other adverse environmental situations, the technique may not provide sufficient information to identify electrical connections in the initial or even advanced phases of electrical failure. This limitation stems from the large difference between the temperature of overheated electrical contact spots in a failing electrical interface and the temperature of the external surfaces of the electrical joint. This paper reports the results of calculations, based on a simple computer model, that illustrate the differences between the temperature of an electrical interface and the external surface temperature of the connection."
     },
     {
+        "title": "Torque-speed performance analysis of fractional slot PM machines having concentrated windings using alternate methods",
+        "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
+        "data": "27-29 March 2012",
+        "authors": [
+            "Z. Aza",
+            "Z. Q. Zhu",
+            "G. Ombach"
+        ],
+        "DOI": "10.1049/cp.2012.0273",
+        "citation": 9,
+        "abstract": "Due to high torque density and efficiency, permanent magnet (PM) machines are widely utilized in industrial and commercial applications for all power ranges. When they are operated at high electric loading, the influence of magnetic saturation is usually large. Furthermore, due to the geometric structure of some PM machine topologies, e.g. interior PM machines, such influence can be even more significant. The partial cross-coupling model, which considers that the PM flux is a function of q-axis current and the d- and q-axis inductances are functions of d- and q-axis currents, respectively, is simple but neglects the saturation to some extent. However, as shown by the frozen permeability method in this paper, it can accurately predict the torque-speed characteristics of fractional-slot PM machines having concentrated windings. The analysis is confirmed by experimental results."
+    },
+    {
         "title": "Facts for distribution grid integration of large scale wind generation",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Rolf Grünbaum",
             "Niklas Willemsen"
@@ -1008,8 +952,7 @@
     {
         "title": "Development of a Fuzzy Logic based, Photovoltaic Maximum Power Point tracking control system using boost converter",
         "conferenceTitle": "IET Chennai 3rd International on Sustainable Energy and Intelligent Systems (SEISCON 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 Dec. 2012",
+        "data": "27-29 Dec. 2012",
         "authors": [
             "S. Vasantharaj",
             "G. Vinodhkumar",
@@ -1022,8 +965,7 @@
     {
         "title": "Monitoring and control of Active distribution Grid",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Chiara Baldi",
             "Franco Corti",
@@ -1037,8 +979,7 @@
     {
         "title": "Mitigating interference via spatial and spectral nulls",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "T. Higgins",
             "T. Webster",
@@ -1051,8 +992,7 @@
     {
         "title": "Simulation research for LVRT of DFIG based on rotor active crowbar protection",
         "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
-        "Content Type": "Conferences",
-        "date": "8-9 Sept. 2012",
+        "data": "8-9 Sept. 2012",
         "authors": [
             "Sun Li-ling",
             "Yang Pu",
@@ -1065,8 +1005,7 @@
     {
         "title": "Acoustic noise and vibration of direct-torque-controlled permanent magnet brushless DC drives",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "J. H. Leong",
             "Z. Q. Zhu"
@@ -1078,8 +1017,7 @@
     {
         "title": "Predictive control of a direct AC/AC matrix converter for power supply applications",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Siti Yusoff",
             "L. De Lillo",
@@ -1095,8 +1033,7 @@
     {
         "title": "A modified P&O MPPT algorithm for single-phase PV systems based on deadbeat control",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Yongheng Yang",
             "Frede Blaabjerg"
@@ -1108,8 +1045,7 @@
     {
         "title": "Modelling and simulation in commensal radar system design",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "M.R. Inggs",
             "C.A. Tong",
@@ -1121,10 +1057,21 @@
         "abstract": "Air traffic control using FM Band broadcast emissions to implement air traffic control Radar is attractive to developing nations since it utilises existing, well supported infrastructure, such as FM Broadcast and Mobile Telephony, providing emissions and data connectivity respectively. In the current work we present a multistatic, multi frequency band, commensal, Radar system architecture and a suite of tools to design and implement such a system. The system we describe consists of spatially distributed transmitters and receivers, operating at different frequencies. The receivers do not process the direct signal, which is recorded independently, and shared by network. We outline the simulation tools we have developed to assist in the deployment of this technology in the most operationally effective way. These tools include multisite radar simulation and modelling of multistatic radar cross section and propagation using terrain elevation models."
     },
     {
+        "title": "A power dense DC-DC converter for a small electric vehicle",
+        "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
+        "data": "27-29 March 2012",
+        "authors": [
+            "F. J. Bryan",
+            "A. J. Forsyth"
+        ],
+        "DOI": "10.1049/cp.2012.0203",
+        "citation": 9,
+        "abstract": "A power dense DC-DC converter is required to interface a supercapacitor energy buffer with a higher voltage traction drive in a small electric vehicle application. A converter design and component selection process is described for a bidirectional, 18 kW, dual interleaved boost converter with interphase transformer. The physical construction of the converter is optimised to increase volumetric and gravimetric power density and simplify assembly. The prototype converter achieves a power density of 6.5 kW/kg and 7.9 kW/l. Converter efficiency and thermal results are presented and component mass and loss audits are included."
+    },
+    {
         "title": "IGBT gate voltage profiling as a means of realising an improved trade-off between EMI generation and turn-on switching losses",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "N. F. Oswald",
             "B. H. Stark",
@@ -1137,8 +1084,7 @@
     {
         "title": "A comparison of cage and nested-loop BDFM rotors",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "T. G. Logan",
             "R. A. McMahon",
@@ -1152,8 +1098,7 @@
     {
         "title": "Design concepts for a wideband HF ale capability",
         "conferenceTitle": "12th IET International Conference on Ionospheric Radio Systems and Techniques (IRST 2012)",
-        "Content Type": "Conferences",
-        "date": "15-17 May 2012",
+        "data": "15-17 May 2012",
         "authors": [
             "W.N. Furman",
             "E. Koski",
@@ -1166,8 +1111,7 @@
     {
         "title": "Comparison of predictive control strategies for direct resonant High Voltage DC power supply",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "E. F. Reyes",
             "A. J. Watson",
@@ -1179,24 +1123,9 @@
         "abstract": "This paper presents a comparison between two predictive control strategies for a HVDC power supply based on a direct resonant power converter: Input Predictive Control (IPC) and Output Predictive Control (OPC). IPC regulates the input filter capacitor voltage and OPC, the tank capacitor voltage. The resonant converter corresponds to a three phase to single phase matrix converter which feeds a resonant tank (SRPL). Both predictive strategies allow soft commutations, thus, minimizing the switching losses. Previous work has analysed the effects of the control choice on an AC voltage power supply only. The main contribution of this paper is the consideration of the effect of the control choice on the input current as well HVDC quality produced by the power supply."
     },
     {
-        "title": "Torque-speed performance analysis of fractional slot PM machines having concentrated windings using alternate methods",
-        "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
-        "authors": [
-            "Z. Aza",
-            "Z. Q. Zhu",
-            "G. Ombach"
-        ],
-        "DOI": "10.1049/cp.2012.0273",
-        "citation": 8,
-        "abstract": "Due to high torque density and efficiency, permanent magnet (PM) machines are widely utilized in industrial and commercial applications for all power ranges. When they are operated at high electric loading, the influence of magnetic saturation is usually large. Furthermore, due to the geometric structure of some PM machine topologies, e.g. interior PM machines, such influence can be even more significant. The partial cross-coupling model, which considers that the PM flux is a function of q-axis current and the d- and q-axis inductances are functions of d- and q-axis currents, respectively, is simple but neglects the saturation to some extent. However, as shown by the frozen permeability method in this paper, it can accurately predict the torque-speed characteristics of fractional-slot PM machines having concentrated windings. The analysis is confirmed by experimental results."
-    },
-    {
         "title": "Short-term traffic prediction under normal and incident conditions using singular spectrum analysis and the k-nearest neighbour method",
         "conferenceTitle": "IET and ITS Conference on Road Transport Information and Control (RTIC 2012)",
-        "Content Type": "Conferences",
-        "date": "25-26 Sept. 2012",
+        "data": "25-26 Sept. 2012",
         "authors": [
             "F Guo",
             "R Krishnan",
@@ -1209,8 +1138,7 @@
     {
         "title": "Fault ride-through capability enhancement based on flywheel energy storage system for wind farms connected via VSC high voltage DC transmission",
         "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
-        "Content Type": "Conferences",
-        "date": "4-5 Dec. 2012",
+        "data": "4-5 Dec. 2012",
         "authors": [
             "K. H. Ahmed",
             "A. S. Abdel-Khalik",
@@ -1225,8 +1153,7 @@
     {
         "title": "Fault-tolerant electrical machine design within a Rotorcraft Actuation Drive System optimisation",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "M. Rottach",
             "C. Gerada",
@@ -1240,8 +1167,7 @@
     {
         "title": "Method for calculation of contact resistance and finite element simulation of contact temperature rise based on rough surface contact model",
         "conferenceTitle": "26th International Conference on Electrical Contacts (ICEC 2012)",
-        "Content Type": "Conferences",
-        "date": "14-17 May 2012",
+        "data": "14-17 May 2012",
         "authors": [
             "Wang Shujuan",
             "Hu Fang",
@@ -1255,8 +1181,7 @@
     {
         "title": "Digital Synthetic Ripple Modulator for point-of-load converters",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "R. K. Singh",
             "Makarand Mijar",
@@ -1270,8 +1195,7 @@
     {
         "title": "A reliability-oriented outlook on the critical components of power distribution systems",
         "conferenceTitle": "9th IET International Conference on Advances in Power System Control, Operation and Management (APSCOM 2012)",
-        "Content Type": "Conferences",
-        "date": "18-21 Nov. 2012",
+        "data": "18-21 Nov. 2012",
         "authors": [
             "Payman Dehghanian",
             "Mahmud Fotuhi-Firuzabad"
@@ -1283,8 +1207,7 @@
     {
         "title": "A 56Gb/s PAM-4 VCSEL driver circuit",
         "conferenceTitle": "IET Irish Signals and Systems Conference (ISSC 2012)",
-        "Content Type": "Conferences",
-        "date": "28-29 June 2012",
+        "data": "28-29 June 2012",
         "authors": [
             "N. Quadir",
             "P. Ossieur",
@@ -1297,8 +1220,7 @@
     {
         "title": "Measurement of heat generation rate in the permanent magnets of rotating electrical machines",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "A. C. Malloy",
             "R. F. Martinez-Botas",
@@ -1312,8 +1234,7 @@
     {
         "title": "Effect of MPP-tracking dc/dc converter on VSI-based photovoltaic inverter dynamics",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "T. Messo",
             "J. Puukko",
@@ -1326,8 +1247,7 @@
     {
         "title": "Optimal split ratio and torque comparison of surface-mounted permanent magnet machines having inner or outer rotor",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "W. Q. Chu",
             "Z. Q. Zhu"
@@ -1339,8 +1259,7 @@
     {
         "title": "Optimal allocation of ess in distribution systems considering wind power uncertainties",
         "conferenceTitle": "9th IET International Conference on Advances in Power System Control, Operation and Management (APSCOM 2012)",
-        "Content Type": "Conferences",
-        "date": "18-21 Nov. 2012",
+        "data": "18-21 Nov. 2012",
         "authors": [
             "Ke Meng",
             "Zhao Yang Dong",
@@ -1352,23 +1271,9 @@
         "abstract": "Along with the increasing penetration of renewable energy, network power flow will be significantly altered in terms of direction and magnitude. Therefore, with the advent of wind power, distribution systems would have locally looped networks with bi-directional power flow, which may impose serious implications for network power quality, protection settings, and etc. Storage facilities can provide a number of benefits that will help with the integration of large amounts of wind power, such as capacity firming and load shifting. In this paper, an optimal allocating scheme for battery energy storage device in distribution system is proposed. The energy storage system can be used to absorb the curtailed wind power in order to avoid violating system constraints, to alter the energy usage patterns, and to reduce the system power losses. Detailed case study is given to demonstrate the feasibility of the proposed scheme."
     },
     {
-        "title": "A power dense DC-DC converter for a small electric vehicle",
-        "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
-        "authors": [
-            "F. J. Bryan",
-            "A. J. Forsyth"
-        ],
-        "DOI": "10.1049/cp.2012.0203",
-        "citation": 8,
-        "abstract": "A power dense DC-DC converter is required to interface a supercapacitor energy buffer with a higher voltage traction drive in a small electric vehicle application. A converter design and component selection process is described for a bidirectional, 18 kW, dual interleaved boost converter with interphase transformer. The physical construction of the converter is optimised to increase volumetric and gravimetric power density and simplify assembly. The prototype converter achieves a power density of 6.5 kW/kg and 7.9 kW/l. Converter efficiency and thermal results are presented and component mass and loss audits are included."
-    },
-    {
         "title": "Passive WLAN radar network using compressed sensing",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "Matthias Weiß"
         ],
@@ -1379,8 +1284,7 @@
     {
         "title": "Precision agriculture monitoring system based on wireless sensor networks",
         "conferenceTitle": "IET International Conference on Wireless Communications and Applications (ICWCA 2012)",
-        "Content Type": "Conferences",
-        "date": "8-10 Oct. 2012",
+        "data": "8-10 Oct. 2012",
         "authors": [
             "Zhenyu Liao",
             "Sheng Dai",
@@ -1391,10 +1295,23 @@
         "abstract": "Wireless sensor network (WSN) is a new technology that can provide processed real-time field data from sensors physically distributed in the field. Based on investigation and applications in precision agriculture, a wireless agricultural and environmental sensing system for crop monitoring is presented in the paper. The setup of smart crop monitoring system is based on TinyOS while system test is implemented using real-time agricultural data and historical data. The results indicate that the application scenarios are correct and reasonable, which enables users precisely acquire information from environment."
     },
     {
+        "title": "Optimal charging of battery using solar pv in standalone dc system",
+        "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
+        "data": "27-29 March 2012",
+        "authors": [
+            "Sandeep Anand",
+            "Rajesh Singh Farswan",
+            "Bhukya Mangu",
+            "B. G. Fernandes"
+        ],
+        "DOI": "10.1049/cp.2012.0339",
+        "citation": 7,
+        "abstract": "In standalone dc system, dc-dc converter is used to interconnect solar photovoltaic (pv) and battery. To utilize solar pv to fullest, maximum power point tracking (MPPT) is incorporated in controller. However, in case when the state of charge (SoC) of battery is high and system is partially loaded, excess power flows into the battery, thereby reducing the life of battery. Technique suggested in literature use output (battery) voltage controllers. However, it is shown in this paper that output voltage controlled dc-dc converter fed by solar pv may lead to instability. To address these limitations, a charge controller scheme is proposed in this paper. This scheme ensures that the battery voltage remains below its gassing voltage. Salient features of the proposed scheme are optimal utilization of solar pv and battery capacities without effecting life of battery. The effectiveness of the scheme is verified through detailed simulation study. To confirm the viability of the scheme, experimental studies are carried out on a scaled-down laboratory prototype developed for the purpose."
+    },
+    {
         "title": "Thermal modelling of a low speed air-cooled Axial Flux Permanent Magnet generator",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Y. C. Chong",
             "J. Chick",
@@ -1409,8 +1326,7 @@
     {
         "title": "Breaking performance of a circuit breaker influenced by a permanent magnetic field at DC voltages up to 450 V",
         "conferenceTitle": "26th International Conference on Electrical Contacts (ICEC 2012)",
-        "Content Type": "Conferences",
-        "date": "14-17 May 2012",
+        "data": "14-17 May 2012",
         "authors": [
             "Thorsten Schrank",
             "Ernst-Dieter Wilkening",
@@ -1425,8 +1341,7 @@
     {
         "title": "Zero-speed sensorless drive capability of fractional-slot inset PM machine",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Nicola Bianchi",
             "Silverio Bolognani",
@@ -1439,10 +1354,21 @@
         "abstract": "This paper investigates the capability of an inset PM motor with concentrated coils fractional-slot winding to be controlled by means of sensorless techniques using high frequency signal injection. The inset PM motor considered is a 12-slot 10-pole motor, whose performance has been obtained by means of both finite elements simulations and experimental measurements. It will be shown that the motor presents good performance to be controlled by sensorless techniques, and the expected performance agree with the experimental results."
     },
     {
+        "title": "Aspects of power system restoration considering wind farms",
+        "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
+        "data": "8-9 Sept. 2012",
+        "authors": [
+            "Hainan Zhu",
+            "Yutian Liu"
+        ],
+        "DOI": "10.1049/cp.2012.1788",
+        "citation": 7,
+        "abstract": "As wind farms integrated into the grid become more and more massive and output power of wind farms is of fluctuation and uncertainty, the risk of power system blackouts has increased significantly. Wind farms need to participate in power system restoration after blackouts. Several aspects of power system restoration considering wind farms are presented in this paper, including the development of wind power technology, the target and constraints of wind farm restoration and the influence on load restoration. The output power of wind farms and the opportune moment to restore wind farms are the key factors to decide whether wind farms should be restored."
+    },
+    {
         "title": "Availability analysis of VSC-HVDC schemes for offshore windfarms",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "A. Beddard",
             "M. Barnes"
@@ -1454,8 +1380,7 @@
     {
         "title": "Half-bridge SiC inverter for hybrid electric vehicles: Design, development and testing at higher operating temperature",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "S. K. Singh",
             "F. Guédon",
@@ -1469,8 +1394,7 @@
     {
         "title": "Design and use of a mobile, X-band, high range resolution, radar research facility",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "J.J. de Witt",
             "M.S. Alahmadi",
@@ -1483,8 +1407,7 @@
     {
         "title": "Probabilistic short circuit analysis in electric power distribution systems including distributed generation",
         "conferenceTitle": "8th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2012)",
-        "Content Type": "Conferences",
-        "date": "1-3 Oct. 2012",
+        "data": "1-3 Oct. 2012",
         "authors": [
             "A. Bracale",
             "P. Caramia",
@@ -1498,8 +1421,7 @@
     {
         "title": "Fine transfer in electrical switching contacts using gold coated carbon-nanotubes",
         "conferenceTitle": "26th International Conference on Electrical Contacts (ICEC 2012)",
-        "Content Type": "Conferences",
-        "date": "14-17 May 2012",
+        "data": "14-17 May 2012",
         "authors": [
             "J.W. McBride",
             "L Jiang",
@@ -1512,8 +1434,7 @@
     {
         "title": "Performance comparison of cascade and feed forward neural network for face recognition system",
         "conferenceTitle": "International Conference on Software Engineering and Mobile Application Modelling and Development (ICSEMA 2012)",
-        "Content Type": "Conferences",
-        "date": "19-21 Dec. 2012",
+        "data": "19-21 Dec. 2012",
         "authors": [
             "A. John Dhanaseely",
             "S. Himavathi",
@@ -1526,8 +1447,7 @@
     {
         "title": "Does the use of Fibonacci numbers in planning poker affect effort estimates?",
         "conferenceTitle": "16th International Conference on Evaluation & Assessment in Software Engineering (EASE 2012)",
-        "Content Type": "Conferences",
-        "date": "14-15 May 2012",
+        "data": "14-15 May 2012",
         "authors": [
             "Ritesh Tamrakar",
             "Magne Jørgensen"
@@ -1537,10 +1457,21 @@
         "abstract": "Background: The estimation technique Planning Poker is common in agile software development. The cards used to propose an estimate in Planning Poker do not include all numbers, but for example only the numbers 0, ½, 1, 2, 3, 5, 8, 13, 20, 40 and 100. We denote this, somewhat inaccurately, a Fibonacci scale in this paper. In spite of the widespread use of the Fibonacci scale in agile estimation, we do not know much about how this scale influences the estimation process. Aim: Better understanding of the effect of going from a linear scale to a Fibonacci scale in effort estimation. Method: We conducted two empirical studies. In the first study, we gave computer science students the same estimation task. Half of the students estimated the task using the Fibonacci scale and the other half a linear scale. The second study included four estimation teams, each composed of four software professionals, estimating the effort to complete the same ten tasks. Two of the teams estimated the first five tasks using the Fibonacci scale and the last five using the linear scale. The two other teams used the scales in the opposite sequence. Results: We found a median decrease in the effort estimates of 60% (first study) and 26% (second study) when using a Fibonacci scale instead of the traditional linear scale. The scale difference in the effort estimates decreased as the developers' skill increased. Conclusion: The use of a Fibonacci scale, and possibly other non-linear scales, is likely to affect the effort estimates towards lower values compared to linear scales. A possible explanation for this scale-induced effect is that people tend to be biased towards toward the middle of the provided scale, especially when the uncertainty is substantial. The middle value is likely to be perceived as lower for the Fibonacci than for the line"
     },
     {
+        "title": "Scheduling strategy of hybrid Wind-Photovoltaic-Hydro power generation system",
+        "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
+        "data": "8-9 Sept. 2012",
+        "authors": [
+            "Liyuan Chen",
+            "Yun Liu"
+        ],
+        "DOI": "10.1049/cp.2012.1783",
+        "citation": 7,
+        "abstract": "Wind-Photovoltaic-Hydro hybrid generation is a new multi-energy hybrid system combined with respective advantages of wind energy, solar energy and hydropower. This paper builds the lowest-cost optimization model, considering investment, operating costs of system and environmental governance as well as two operation modes, isolated and grid-connected operation, and proposes the scheduling strategy of the hybrid generation, with the aim to realize the best configuration of output power of the three resources. Simulation results indicate that the optimal operation and scheduling strategy can assess the economical performance of the system in different operation modes, thus improve the reliability and flexibility of the hybrid system."
+    },
+    {
         "title": "Estimation of coordinates of ground targets in multi-static forward scattering radar",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "A.G. Ryndyk",
             "A.V. Myakinkov",
@@ -1554,8 +1485,7 @@
     {
         "title": "Design aspects and characterised performance of a wideband DRFM for radar test and evaluation",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "K. Olivier",
             "J.E. Cilliers"
@@ -1567,8 +1497,7 @@
     {
         "title": "Detection of blackouts by using K-means clustering in a power system",
         "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
+        "data": "23-26 April 2012",
         "authors": [
             "O. Ozgonenel",
             "D. W. P. Thomas",
@@ -1582,8 +1511,7 @@
     {
         "title": "Color based Urban and Agricultural Land classification by GLCM Texture Features",
         "conferenceTitle": "IET Chennai 3rd International on Sustainable Energy and Intelligent Systems (SEISCON 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 Dec. 2012",
+        "data": "27-29 Dec. 2012",
         "authors": [
             "M. Umaselvi",
             "S. Suresh Kumar",
@@ -1596,8 +1524,7 @@
     {
         "title": "Enhanced protection for inverter dominated microgrid using transient fault information",
         "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
+        "data": "23-26 April 2012",
         "authors": [
             "X. Li",
             "A. Dyśko",
@@ -1610,8 +1537,7 @@
     {
         "title": "The best of both worlds: Fibonacci and binary Switched Capacitor Converters combined",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Alexander Kushnerov",
             "Sam Ben-Yaakov"
@@ -1623,8 +1549,7 @@
     {
         "title": "Coherent analysis of horizontally-polarized monostatic and bistatic sea clutter",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "M.A. Ritchie",
             "W.A. Al-Ashwal",
@@ -1639,8 +1564,7 @@
     {
         "title": "Social Networks analysis: Trends, techniques and future prospects",
         "conferenceTitle": "Fourth International Conference on Advances in Recent Technologies in Communication and Computing (ARTCom2012)",
-        "Content Type": "Conferences",
-        "date": "19-20 Oct. 2012",
+        "data": "19-20 Oct. 2012",
         "authors": [
             "Pooja Wadhwa",
             "M.P.S Bhatia"
@@ -1652,8 +1576,7 @@
     {
         "title": "Neural network integrated with regression methods to forecast electrical load",
         "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
+        "data": "23-26 April 2012",
         "authors": [
             "Saeed M. Badran"
         ],
@@ -1662,25 +1585,9 @@
         "abstract": "Since electrical load forecasting plays significant role in effective and economic operation of power utilities, it has long been of interest to researchers and academics. This paper combined artificial neural network and regression modelling methods to predict electrical load. We propose an approach for specific day, week and/or month load forecasting for electrical companies taking into account the historical load. Therefore, a modified technique, based on artificial neural network (ANN) combined with linear regression, is applied on the KSA electrical network dependent on its historical data to predict the electrical load demand forecasting up to year 2020. This technique was compared with extrapolation of trend curves as a traditional method (Linear regression models). Application results show that the proposed method is feasible and effective. The application of neural networks prediction shows the capability and the efficiently of the proposed techniques to obtain the predicting load demand up to year 2020."
     },
     {
-        "title": "Optimal charging of battery using solar pv in standalone dc system",
-        "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
-        "authors": [
-            "Sandeep Anand",
-            "Rajesh Singh Farswan",
-            "Bhukya Mangu",
-            "B. G. Fernandes"
-        ],
-        "DOI": "10.1049/cp.2012.0339",
-        "citation": 6,
-        "abstract": "In standalone dc system, dc-dc converter is used to interconnect solar photovoltaic (pv) and battery. To utilize solar pv to fullest, maximum power point tracking (MPPT) is incorporated in controller. However, in case when the state of charge (SoC) of battery is high and system is partially loaded, excess power flows into the battery, thereby reducing the life of battery. Technique suggested in literature use output (battery) voltage controllers. However, it is shown in this paper that output voltage controlled dc-dc converter fed by solar pv may lead to instability. To address these limitations, a charge controller scheme is proposed in this paper. This scheme ensures that the battery voltage remains below its gassing voltage. Salient features of the proposed scheme are optimal utilization of solar pv and battery capacities without effecting life of battery. The effectiveness of the scheme is verified through detailed simulation study. To confirm the viability of the scheme, experimental studies are carried out on a scaled-down laboratory prototype developed for the purpose."
-    },
-    {
         "title": "RF current produced from DC electrical arcing",
         "conferenceTitle": "26th International Conference on Electrical Contacts (ICEC 2012)",
-        "Content Type": "Conferences",
-        "date": "14-17 May 2012",
+        "data": "14-17 May 2012",
         "authors": [
             "John J. Shea",
             "Charles J. Luebke",
@@ -1693,8 +1600,7 @@
     {
         "title": "The importance of a DC side harmonic study for a DC distribution system",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "A. David Graham"
         ],
@@ -1705,8 +1611,7 @@
     {
         "title": "Low voltage ride through capability enhancement of PMSG-based wind turbine",
         "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
-        "Content Type": "Conferences",
-        "date": "8-9 Sept. 2012",
+        "data": "8-9 Sept. 2012",
         "authors": [
             "Shuhui Dong",
             "Heming Li",
@@ -1719,8 +1624,7 @@
     {
         "title": "Intuitive teleoperation of nonholonomic mobile robot with a manipulator based on virtual reality and WiFi",
         "conferenceTitle": "IET International Conference on Information Science and Control Engineering 2012 (ICISCE 2012)",
-        "Content Type": "Conferences",
-        "date": "7-9 Dec. 2012",
+        "data": "7-9 Dec. 2012",
         "authors": [
             "Guoliang Zhong",
             "Yukinori Kobayashi",
@@ -1734,8 +1638,7 @@
     {
         "title": "High-resistance grounding fault detection and location in DC railway system",
         "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
+        "data": "23-26 April 2012",
         "authors": [
             "C. Y. Dong",
             "J. H. He",
@@ -1751,8 +1654,7 @@
     {
         "title": "The GPRI multi-mode differential interferometric radar for ground-based observations",
         "conferenceTitle": "EUSAR 2012; 9th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
+        "data": "23-26 April 2012",
         "authors": [
             "Charles Werner",
             "Andreas Wiesmann",
@@ -1768,8 +1670,7 @@
     {
         "title": "Modelling and simulation of a quad-rotor helicopter",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "A. Bousbaine",
             "M. H. Wu",
@@ -1782,8 +1683,7 @@
     {
         "title": "Clipping-Based Iterative PAPR-Reduction Techniques for FBMC",
         "conferenceTitle": "OFDM 2012; 17th International OFDM Workshop 2012 (InOWo'12)",
-        "Content Type": "Conferences",
-        "date": "29-30 Aug. 2012",
+        "data": "29-30 Aug. 2012",
         "authors": [
             "Zs. Kollar",
             "L. Varga",
@@ -1794,10 +1694,22 @@
         "abstract": "Orthogonal Frequency Division Multiplexing (OFDM) is the most favored modulation technique in multicarrier wireless communications. Recently, the Filter Bank Multicarrier (FBMC) modulation scheme has drawn attention due its low Adjacent Channel Leakage Ratio (ACLR), which makes it especially suitable for Cognitive Radio (CR) applications. In multicarrier schemes the large dynamic range of the signal is a common problem, both FBMC and OFDM signals have high Peak-to-Average Power Ratio (PAPR). If nonlinear distortions are present, this large PAPR can lead to spectral regrowth causing harmful interference in the neighboring frequency bands. In this paper clipping-based PAPR-reduction schemes aided to reduce the PAPR of FBMC signal are presented. A comparison is given for both transmitter and receiver oriented methods."
     },
     {
+        "title": "Incorporating harmonic limits into assessment of the hosting capacity of active networks",
+        "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
+        "data": "29-30 May 2012",
+        "authors": [
+            "Wei Sun",
+            "Gareth P. Harrison",
+            "Sasa Z. Djokic"
+        ],
+        "DOI": "10.1049/cp.2012.0869",
+        "citation": 6,
+        "abstract": "Harmonic emissions from converter-interfaced distributed generation connection can potentially lead to voltage distortion levels that are above applicable standards. The risk increases as greater connection volumes are facilitated by Active Network Management schemes. By incorporating harmonic limits into assessment of the hosting capacity of active networks, this paper demonstrates that by incorporating harmonic levels at the planning stage can prevent inadvertent restrictions on the integration of renewables. Other aspects considered include: the impact of active network controls on harmonic propagation and hosting capacity and the role of active harmonic mitigation methods."
+    },
+    {
         "title": "A Multi-Agent System for protection coordination of radial systems in the presence of distributed generation",
         "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
+        "data": "23-26 April 2012",
         "authors": [
             "P. C. Maiola",
             "J. G. Rolim"
@@ -1809,8 +1721,7 @@
     {
         "title": "Human echolocation waveform analysis",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "Graeme E. Smith",
             "Christopher J. Baker"
@@ -1820,10 +1731,21 @@
         "abstract": "All humans have the ability to exploit acoustic echoes for cognitive sensing of the environment. There are blind people who use active versions of the technique as an augmentation to the long stick and can even perform remarkable tasks such as riding a bicycle. Those who are expert in this practise can evaluate range, location, size, shape and texture of objects. This provides a very powerful basis for perception and cognition and is somewhat beyond that which is routinely achieved by radar systems. This example of “sight by sound” makes an ideal candidate to study in order to understand and articulate the cognitive methods used. Subsequently artificial forms of cognition can be synthesised and applied to radar and sonar sensing. In this paper we report on an initial examination of human echolocation by presenting and analysing transmitted and received waveforms generated via “tongue-clicking”."
     },
     {
+        "title": "Protection and stability assessment in future distribution networks using PMUs",
+        "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
+        "data": "23-26 April 2012",
+        "authors": [
+            "Feng Ding",
+            "C. D. Booth"
+        ],
+        "DOI": "10.1049/cp.2012.0094",
+        "citation": 6,
+        "abstract": "Phasor Measurement Units (PMUs) have the potential to play an essential role in power system monitoring and operation in the future, particularly for power systems incorporating increasing amounts of distributed generation (DG) and possibly systems operating in islanded mode in the future [1]. Their ability to directly measure and provide the voltage and current phasors at the PMU location offers numerous possibilities for ascertaining information relating to the state and health of the power system. Typical applications of PMUs in distribution networks include: state estimation, dynamic stability supervision, instability prediction and control, protection and fault location, and power quality monitoring [2]. This paper presents a brief overview of the applications of PMU-enabled distribution network functions, with a focus on loss of mains (LOM) protection using a model that is representative of a distribution network incorporating DG. The paper reports on extensive simulations that have been carried out in order to develop a PMU-based system that can detect (very quickly) loss-of mains conditions under situations where local (i.e. potentially islanded) load and DG output is very closely balanced. Furthermore, it is demonstrated that the developed PMU-based LOM system can identify and differentiate between load transients, local short circuits and true loss of mains conditions under a variety of different scenarios. Future activities in the project are also presented."
+    },
+    {
         "title": "Transactive control: A technique for widespread coordination of responsive Smart Grid assets",
         "conferenceTitle": "2012 IEEE PES Innovative Smart Grid Technologies (ISGT)",
-        "Content Type": "Conferences",
-        "date": "16-20 Jan. 2012",
+        "data": "16-20 Jan. 2012",
         "authors": [
             "R. B. Melton",
             "D.J. Hammerstrom"
@@ -1835,8 +1757,7 @@
     {
         "title": "Advanced cloud computing in smart power grid",
         "conferenceTitle": "IET Chennai 3rd International on Sustainable Energy and Intelligent Systems (SEISCON 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 Dec. 2012",
+        "data": "27-29 Dec. 2012",
         "authors": [
             "C. Sivapragash",
             "S.R. Thilaga",
@@ -1847,23 +1768,37 @@
         "abstract": "Increasing complexity of power grid and its management, increase in demand and service quality expectations such as greater grid reliability, efficiency and security concerns have stimulated to Smart Grids that use bi-directional communication with the consumer to enable an information-driven approach to distributed energy management. Smart metering is one of the smart grid applications. The main problem with \"smart meter\" adoption is that trust is lacking in the actual \"smart meters\". Clouds computing offer features well suited for Smart Grid software platforms in computation storage, combining of information, analysis, and applications, such as elastic resources and shared services. However, the security and privacy concerns inherent in an information rich Smart Grid environment are further exacerbated by their deployment on Clouds. This paper focuses on proposing the Trustworthy Clouds or TCLOUDS on the smart power grid that will prove the simplest way such energy-preserving systems could be migrated to a cloud infrastructure while enhancing their resistance, privacy protection and tolerance, from both hackers and hardware issues."
     },
     {
-        "title": "Scheduling strategy of hybrid Wind-Photovoltaic-Hydro power generation system",
-        "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
-        "Content Type": "Conferences",
-        "date": "8-9 Sept. 2012",
+        "title": "The FPGA verification of USB to RS-232 bridge controller",
+        "conferenceTitle": "International Conference on Automatic Control and Artificial Intelligence (ACAI 2012)",
+        "data": "3-5 March 2012",
         "authors": [
-            "Liyuan Chen",
-            "Yun Liu"
+            "Fengdong Sun",
+            "Shufan Hou",
+            "Hongwei Zhao",
+            "Jianguo Liang"
         ],
-        "DOI": "10.1049/cp.2012.1783",
+        "DOI": "10.1049/cp.2012.1418",
         "citation": 6,
-        "abstract": "Wind-Photovoltaic-Hydro hybrid generation is a new multi-energy hybrid system combined with respective advantages of wind energy, solar energy and hydropower. This paper builds the lowest-cost optimization model, considering investment, operating costs of system and environmental governance as well as two operation modes, isolated and grid-connected operation, and proposes the scheduling strategy of the hybrid generation, with the aim to realize the best configuration of output power of the three resources. Simulation results indicate that the optimal operation and scheduling strategy can assess the economical performance of the system in different operation modes, thus improve the reliability and flexibility of the hybrid system."
+        "abstract": "The digital circuit of USB to RS-232 bridge controller is designed; HDL procedure of digital circuit module is downloaded to the FPGA verification board. A driver of the controller which works under the Windows XP is developed using softwares such as DDK, VC6.0, and the virtual COM is realized. Under driver and relevant cooperation of hardware environment, expected the function succeed of the controller is realized in the FPGA. This bridge graft device can be used in the data transmission between serial interface of the mobile phone and USB interface of the computer, reaching the effect of verification."
+    },
+    {
+        "title": "Apparent increase in Short Circuit Ratio (AISCR) as a measure of the impact of VSC converters on LCC converters in multi-infeed HVDC systems with VSC and LCC infeeds",
+        "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
+        "data": "4-5 Dec. 2012",
+        "authors": [
+            "Chunyi Guo",
+            "Chengyong Zhao",
+            "Ani Gole",
+            "Xiuyu Chen"
+        ],
+        "DOI": "10.1049/cp.2012.1944",
+        "citation": 6,
+        "abstract": "A hybrid multi-infeed HVDC system, in which Voltage Sourced Converter based HVDC (VSC-HVDC) and linecommutated converter based HVDC (LCC-HVDC) interconnected by transmission tie line, is investigated. The “Apparent Increase in Short Circuit Ratio” or AISCR index is employed to quantify the impact of VSC converters on LCC converters. Then, steady state and transient aspects, such as the maximum available power (MAP), temporary overvoltage (TOV) and \"Commutation Failure Immunity Index\" (CFII), are considered to further analyze the performance improvement of LCC converters. The results show that VSCHVDC has the ability to improve the maximum available power, regulate the ac voltage, make the LCC-HVDC less susceptible to commutation failure and enhance the system strength. However, the longer the tie line, the less improvement for LCC-HVDC link."
     },
     {
         "title": "Frequency control improvement within a microgrid, using enhanced STATCOM with energy storage",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Alex Agbedahunsi",
             "Mark Sumner",
@@ -1879,8 +1814,7 @@
     {
         "title": "Ultrasound image segmentation based on multi-scale fuzzy c-means and particle swarm optimization",
         "conferenceTitle": "IET International Conference on Information Science and Control Engineering 2012 (ICISCE 2012)",
-        "Content Type": "Conferences",
-        "date": "7-9 Dec. 2012",
+        "data": "7-9 Dec. 2012",
         "authors": [
             "Qi Zhang",
             "Chunchun Huang",
@@ -1895,8 +1829,7 @@
     {
         "title": "A new single phase transformerless photovoltaic inverter topology with coupled inductor",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "M. Kazanbas",
             "C. Nöding",
@@ -1911,8 +1844,7 @@
     {
         "title": "Designing and implementation of MPPT controller for varying radiance in solar PV system",
         "conferenceTitle": "IET Chennai 3rd International on Sustainable Energy and Intelligent Systems (SEISCON 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 Dec. 2012",
+        "data": "27-29 Dec. 2012",
         "authors": [
             "S. Kalika",
             "L. Rajaji",
@@ -1925,8 +1857,7 @@
     {
         "title": "DC transmission grids with fault tolerant LCL VSC converters and mechanical DC circuit breakers",
         "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
-        "Content Type": "Conferences",
-        "date": "4-5 Dec. 2012",
+        "data": "4-5 Dec. 2012",
         "authors": [
             "D. Jovcic",
             "M. Hajian",
@@ -1939,8 +1870,7 @@
     {
         "title": "Optimal placement of sectionalizing switches in distribution network with presence of renewable energy resources",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Eishan Jalilzadeh",
             "Seyyed Majid Miri-Larimi",
@@ -1953,8 +1883,7 @@
     {
         "title": "Implementation of time-varying observers used in direct field orientation of motor drives by trapezoidal integration",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Mihai Comanescu"
         ],
@@ -1965,8 +1894,7 @@
     {
         "title": "Thermal modelling of a tubular linear machine for marine renewable generation",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "A. N. Ridge",
             "M. E. Mathekga",
@@ -1981,8 +1909,7 @@
     {
         "title": "Doppler-only tracking with the recursive Gauss-Newton filter",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "Roaldje Nadjiasngar",
             "Stephen Middleton",
@@ -1995,8 +1922,7 @@
     {
         "title": "Phenomenology of signals in FSR for surface targets detection",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "M. Gashinova",
             "L. Daniel",
@@ -2012,8 +1938,7 @@
     {
         "title": "Control strategies of BESS for compensating renewable energy fluctuations",
         "conferenceTitle": "9th IET International Conference on Advances in Power System Control, Operation and Management (APSCOM 2012)",
-        "Content Type": "Conferences",
-        "date": "18-21 Nov. 2012",
+        "data": "18-21 Nov. 2012",
         "authors": [
             "N. Z. Xu",
             "Ming Ding",
@@ -2026,8 +1951,7 @@
     {
         "title": "Real-Time Visual SLAM Using FastSLAM and the Microsoft Kinect Camera",
         "conferenceTitle": "ROBOTIK 2012; 7th German Conference on Robotics",
-        "Content Type": "Conferences",
-        "date": "21-22 May 2012",
+        "data": "21-22 May 2012",
         "authors": [
             "Jan Hartmann",
             "Dariush Forouher",
@@ -2042,8 +1966,7 @@
     {
         "title": "Design and simulation of a power management unit in a solar based Electric Propulsion System",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "G. Gruosso",
             "F. Bizzarri",
@@ -2058,8 +1981,7 @@
     {
         "title": "Feature selection using visual saliency for content-based image retrieval",
         "conferenceTitle": "IET Irish Signals and Systems Conference (ISSC 2012)",
-        "Content Type": "Conferences",
-        "date": "28-29 June 2012",
+        "data": "28-29 June 2012",
         "authors": [
             "Zbigniew Zdziarski",
             "Rozenn Dahyot"
@@ -2071,8 +1993,7 @@
     {
         "title": "UAV flight control system modeling and simulation based on flightGear",
         "conferenceTitle": "International Conference on Automatic Control and Artificial Intelligence (ACAI 2012)",
-        "Content Type": "Conferences",
-        "date": "3-5 March 2012",
+        "data": "3-5 March 2012",
         "authors": [
             "Jingsha Zhang",
             "Qingbo Geng",
@@ -2085,8 +2006,7 @@
     {
         "title": "Opportunistic forwarding in multi-hop OFDMA networks with local CSI",
         "conferenceTitle": "OFDM 2012; 17th International OFDM Workshop 2012 (InOWo'12)",
-        "Content Type": "Conferences",
-        "date": "29-30 Aug. 2012",
+        "data": "29-30 Aug. 2012",
         "authors": [
             "Alexander Kuehne",
             "Anja Klein",
@@ -2098,37 +2018,9 @@
         "abstract": "In multi-hop networks, conventional unipath routing approaches force the data transmission to follow a fixed sequence of nodes. In this paper, we widen this path to create a corridor of forwarding nodes. Within this corridor, data can be split and joined at different nodes as the data travels through the corridor towards the destination node. To split data, decode-and-forward OFDMA is used since with OFDMA, one can exploit the benefits of opportunistically allocating different subcarriers to different nodes according to their channel conditions. To avoid interference, each subcarrier is only allocated once per hop. It is assumed that only local channel state information (CSI) for the next hop towards the destination is available at the nodes, i.e. it can not be guaranteed that a certain node is able to forward its received data in the next hop. This leads to additional transmission phases decreasing the overall network throughput. In this paper, different opportunistic forwarding algorithms are presented which differ in the resource allocation strategy and in the amount of cooperation required between the nodes. Simulations show that in multihop networks, corridor-based routing using opportunistic forwarding with a proper resource allocation strategy outperforms conventional unipath routing approaches in terms of achievable throughput, especially in case of a node drop out."
     },
     {
-        "title": "Incorporating harmonic limits into assessment of the hosting capacity of active networks",
-        "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
-        "authors": [
-            "Wei Sun",
-            "Gareth P. Harrison",
-            "Sasa Z. Djokic"
-        ],
-        "DOI": "10.1049/cp.2012.0869",
-        "citation": 5,
-        "abstract": "Harmonic emissions from converter-interfaced distributed generation connection can potentially lead to voltage distortion levels that are above applicable standards. The risk increases as greater connection volumes are facilitated by Active Network Management schemes. By incorporating harmonic limits into assessment of the hosting capacity of active networks, this paper demonstrates that by incorporating harmonic levels at the planning stage can prevent inadvertent restrictions on the integration of renewables. Other aspects considered include: the impact of active network controls on harmonic propagation and hosting capacity and the role of active harmonic mitigation methods."
-    },
-    {
-        "title": "Protection and stability assessment in future distribution networks using PMUs",
-        "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
-        "authors": [
-            "Feng Ding",
-            "C. D. Booth"
-        ],
-        "DOI": "10.1049/cp.2012.0094",
-        "citation": 5,
-        "abstract": "Phasor Measurement Units (PMUs) have the potential to play an essential role in power system monitoring and operation in the future, particularly for power systems incorporating increasing amounts of distributed generation (DG) and possibly systems operating in islanded mode in the future [1]. Their ability to directly measure and provide the voltage and current phasors at the PMU location offers numerous possibilities for ascertaining information relating to the state and health of the power system. Typical applications of PMUs in distribution networks include: state estimation, dynamic stability supervision, instability prediction and control, protection and fault location, and power quality monitoring [2]. This paper presents a brief overview of the applications of PMU-enabled distribution network functions, with a focus on loss of mains (LOM) protection using a model that is representative of a distribution network incorporating DG. The paper reports on extensive simulations that have been carried out in order to develop a PMU-based system that can detect (very quickly) loss-of mains conditions under situations where local (i.e. potentially islanded) load and DG output is very closely balanced. Furthermore, it is demonstrated that the developed PMU-based LOM system can identify and differentiate between load transients, local short circuits and true loss of mains conditions under a variety of different scenarios. Future activities in the project are also presented."
-    },
-    {
         "title": "Kernel least-mean mixed-norm algorithm",
         "conferenceTitle": "International Conference on Automatic Control and Artificial Intelligence (ACAI 2012)",
-        "Content Type": "Conferences",
-        "date": "3-5 March 2012",
+        "data": "3-5 March 2012",
         "authors": [
             "Q.Y. Miao",
             "C.G. Li"
@@ -2140,8 +2032,7 @@
     {
         "title": "Multikernel least squares estimation",
         "conferenceTitle": "Sensor Signal Processing for Defence (SSPD 2012)",
-        "Content Type": "Conferences",
-        "date": "25-27 Sept. 2012",
+        "data": "25-27 Sept. 2012",
         "authors": [
             "Felipe A. Tobar",
             "Danilo P. Mandic"
@@ -2153,8 +2044,7 @@
     {
         "title": "Reliability Assessment of Natural Gas Transmission Systems and their Impact on the Operational Performance of Electric Power Systems",
         "conferenceTitle": "8th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2012)",
-        "Content Type": "Conferences",
-        "date": "1-3 Oct. 2012",
+        "data": "1-3 Oct. 2012",
         "authors": [
             "T. D. Diagoupis",
             "E. N. Dialynas",
@@ -2165,10 +2055,33 @@
         "abstract": "During the recent years, a significant number of modern thermal power plants use natural gas as fuel in order to achieve reduction of their environmental impact from greenhouse gas emissions and increase their efficiency. The new plants are connected to the existing natural gas transmission network leading to a high interdependence between it and the respective electric power system. Therefore, the failure events occurring in the natural gas network can cause interruption of gas supply to one or more power generating units connected to it. This means that there will be a significant impact on the secure and the reliable operation of the power system. For this reason, an additional reliability analysis is required in order to examine the impact of the natural gas network on the operation of the respective power system. The purpose of this paper is to describe an efficient methodology that is based on the Monte - Carlo sequential simulation approach in order to realistically simulate the annual operation of the natural gas transmission systems and calculate the relevant reliability indices of connection nodes for the electric power plants using natural gas. The analysis of a combined system based on the Hellenic electric power system and the natural gas transmission system is presented assuming alternative case studies while the impact of their interdependence is determined. These results are compared and useful conclusions are obtained."
     },
     {
+        "title": "Next generation HVDC network for offshore renewable energy industry",
+        "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
+        "data": "4-5 Dec. 2012",
+        "authors": [
+            "Chong Ng",
+            "Paul McKeever"
+        ],
+        "DOI": "10.1049/cp.2012.1959",
+        "citation": 5,
+        "abstract": "The growing demand on non-fossil fuel energy has escalated the desire for mega-scale renewable energy power generation. This demand can no longer be satisfied by solely relying on onshore renewable energy power plants (i.e. onshore wind farms, PV farms, etc.). Outcomes from a recent project funded by the Sixth European Union Framework Programme (FP6), “Project Upwind” concluded that larger offshore wind turbines (i.e. >10MW) are feasible and offer an opportunity for a strategically important area. It will be beneficial for such future large scale renewable energy power generators (i.e. large offshore turbines) and plant (i.e. large offshore wind farms) to have a dedicated high efficiency, robust, flexible and low cost power collection, transmission and distribution technology. Proposed in this paper is a compact and effective hybrid HVDC transformer. The aim is to realise a highly robust and financially rewarding next generation multi-terminal HVDC power collection, transmission and distribution system for future offshore renewable energy power plant. This concept potentially allows the elimination or minimisation of the need for a centralised local offshore HVDC platform or substation in each wind farm, solar farm, tidal farm or wave farm. By not using the line frequency components, it is possible for the proposed power collection system (i.e. the hybrid HVDC transformer) to be designed in such a way that, at the generator site, it is compact enough to fit within the nacelle or tower of an individual turbine. This paper discusses the study outcome of the proposed hybrid HVDC transformer and the application of a multiterminal HVDC system in the renewable energy industry, compared to the existing HVAC and VSC type HVDC systems."
+    },
+    {
+        "title": "A chance-constrained programming based energy storage system sizing model considering uncertainty of wind power",
+        "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
+        "data": "8-9 Sept. 2012",
+        "authors": [
+            "Lina Li",
+            "Li Yang"
+        ],
+        "DOI": "10.1049/cp.2012.1772",
+        "citation": 5,
+        "abstract": "The uncertainty and intermittence of wind power brings challenges to power systems, especially at high levels of penetration. In order to increase the acceptable grid-connected capacity for wind power, the output fluctuation is requested to be limited by improving forecast precision or using energy storage. This paper is focused on sizing battery energy storage system (BESS) for wind farm applications, so as to keep the differences between the combined wind/BESS output and the predefined profile within a required limit. Mathematical model for seeking the optimal size is developed based on chance-constrained programming. Genetic algorithm is used to solve the optimization problem, and Monte-Carlo method is applied to deal with the chance-constrained question."
+    },
+    {
         "title": "Virtual SIMO radar modelling in arrayed MIMO radar",
         "conferenceTitle": "Sensor Signal Processing for Defence (SSPD 2012)",
-        "Content Type": "Conferences",
-        "date": "25-27 Sept. 2012",
+        "data": "25-27 Sept. 2012",
         "authors": [
             "Harry Commin",
             "Athanassios Manikas"
@@ -2180,8 +2093,7 @@
     {
         "title": "A Neural Network based MPPT controller for variable speed Wind Energy Conversion Systems",
         "conferenceTitle": "8th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2012)",
-        "Content Type": "Conferences",
-        "date": "1-3 Oct. 2012",
+        "data": "1-3 Oct. 2012",
         "authors": [
             "Athanasios Mesemanolis",
             "Christos Mademlis"
@@ -2193,8 +2105,7 @@
     {
         "title": "Implementation of a PI phase angle controller for finite element analysis of the BDFM",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "M. E. Mathekga",
             "S. Shiyi",
@@ -2208,8 +2119,7 @@
     {
         "title": "Regulatory and financial hurdles for the installation of energy storage in UK distribution networks",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Oghenetejiri Anuta",
             "Andrew Crossland",
@@ -2223,8 +2133,7 @@
     {
         "title": "Selective harmonics elimination PWM with sel-balancing capacitors in three-level inverter",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "K. Imarazene",
             "E. M. Berkouk",
@@ -2237,8 +2146,7 @@
     {
         "title": "Characterising LV networks on the basis of smart meter data and accurate network models",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Benoît Bletterie",
             "Andreas Abart",
@@ -2254,8 +2162,7 @@
     {
         "title": "Magnetic coupling effect of a PM synchronous machine having concentrated windings",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "M. Ayaz",
             "M. Tezcan",
@@ -2269,8 +2176,7 @@
     {
         "title": "Optimized controller design of a FESS for power fluctuation smoothing of a wind farm",
         "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
-        "Content Type": "Conferences",
-        "date": "8-9 Sept. 2012",
+        "data": "8-9 Sept. 2012",
         "authors": [
             "S. L. Liu",
             "Y. Liu",
@@ -2283,8 +2189,7 @@
     {
         "title": "State estimation in electric distribution networks in presence of distributed generation using the PMUs",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Mahdi Haghifam",
             "Mahmoud-Reza Haghifam",
@@ -2297,8 +2202,7 @@
     {
         "title": "60-GHz transceivers in nano-scale CMOS technology for WirelessHD standard applications",
         "conferenceTitle": "IET Irish Signals and Systems Conference (ISSC 2012)",
-        "Content Type": "Conferences",
-        "date": "28-29 June 2012",
+        "data": "28-29 June 2012",
         "authors": [
             "Domenico Pepe",
             "Domenico Zito"
@@ -2310,8 +2214,7 @@
     {
         "title": "Protection issue discussion of DC network development: Circuit breaker or fault-tolerant converter",
         "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
+        "data": "23-26 April 2012",
         "authors": [
             "J. Yang"
         ],
@@ -2322,8 +2225,7 @@
     {
         "title": "Computer vision for improved single-sensor spectrum sensing",
         "conferenceTitle": "Sensor Signal Processing for Defence (SSPD 2012)",
-        "Content Type": "Conferences",
-        "date": "25-27 Sept. 2012",
+        "data": "25-27 Sept. 2012",
         "authors": [
             "Chris Smith",
             "Q. Robert Black",
@@ -2336,8 +2238,7 @@
     {
         "title": "An improved enhancement of degraded binary text document images using morphological and single scale retinex operations",
         "conferenceTitle": "IET Conference on Image Processing (IPR 2012)",
-        "Content Type": "Conferences",
-        "date": "3-4 July 2012",
+        "data": "3-4 July 2012",
         "authors": [
             "Henry Kiragu",
             "Elijah Mwangi"
@@ -2349,8 +2250,7 @@
     {
         "title": "Rotor losses in laminated magnets and an anisotropic carbon fiber sleeve",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "M. van der Geest",
             "J. J. Wolmarans",
@@ -2365,8 +2265,7 @@
     {
         "title": "Echoic flow for autonomous navigation",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "Graeme E. Smith",
             "Christopher J. Baker"
@@ -2378,8 +2277,7 @@
     {
         "title": "ViSQOL: The Virtual Speech Quality Objective Listener",
         "conferenceTitle": "IWAENC 2012; International Workshop on Acoustic Signal Enhancement",
-        "Content Type": "Conferences",
-        "date": "4-6 Sept. 2012",
+        "data": "4-6 Sept. 2012",
         "authors": [
             "Andrew Hines",
             "Jan Skoglund",
@@ -2393,8 +2291,7 @@
     {
         "title": "Power quality and standards",
         "conferenceTitle": "IET Seminar on Power Quality",
-        "Content Type": "Conferences",
-        "date": "6-6 Nov. 2012",
+        "data": "6-6 Nov. 2012",
         "authors": [
             "Zia Emin"
         ],
@@ -2405,8 +2302,7 @@
     {
         "title": "Simple control method for parallel connected three-phase PWM converters",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Bassim M. H. Jassim",
             "Bashar Zahawi",
@@ -2419,8 +2315,7 @@
     {
         "title": "Effect of fault resistance and grid short circuit MVA on impedance seen by distance relays on lines fed from wind turbine generating units (WTGU)",
         "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
+        "data": "23-26 April 2012",
         "authors": [
             "Sachin Srivastava",
             "U. J. Shenoy",
@@ -2434,8 +2329,7 @@
     {
         "title": "Localization of moving targets with a passive radar system based on WiFi transmissions",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "P. Falcone",
             "F. Colone",
@@ -2448,8 +2342,7 @@
     {
         "title": "Performance and robustness testing of SiC power devices",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Asad Fayyaz",
             "Alberto Castellazzi"
@@ -2461,8 +2354,7 @@
     {
         "title": "Optimal planning of battery swap stations",
         "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
-        "Content Type": "Conferences",
-        "date": "8-9 Sept. 2012",
+        "data": "8-9 Sept. 2012",
         "authors": [
             "Dan Zheng",
             "Fushuan Wen",
@@ -2475,8 +2367,7 @@
     {
         "title": "STATCOM and UPQC: Options to enhance fault-ride-through capability of a fixed speed wind generator",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "N. G. Jayanti",
             "Malabika Basu",
@@ -2490,8 +2381,7 @@
     {
         "title": "New four component scattering power decomposition method",
         "conferenceTitle": "EUSAR 2012; 9th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
+        "data": "23-26 April 2012",
         "authors": [
             "Gulab Singh",
             "Yoshio Yamaguchi",
@@ -2506,8 +2396,7 @@
     {
         "title": "On the performance of full-duplex relaying under fading loop interference channel",
         "conferenceTitle": "IET International Conference on Information Science and Control Engineering 2012 (ICISCE 2012)",
-        "Content Type": "Conferences",
-        "date": "7-9 Dec. 2012",
+        "data": "7-9 Dec. 2012",
         "authors": [
             "Q. Chen",
             "X. Rui"
@@ -2519,8 +2408,7 @@
     {
         "title": "Genetic Algorithms: Basic principles and applications",
         "conferenceTitle": "2012 2nd National Conference on Computational Intelligence and Signal Processing (CISP)",
-        "Content Type": "Conferences",
-        "date": "2-3 March 2012",
+        "data": "2-3 March 2012",
         "authors": [
             "C. A. Murthy"
         ],
@@ -2531,8 +2419,7 @@
     {
         "title": "Quantification of the electrical contact endurance of thin platted silver coatings subjected to fretting wear: Influence of coating thickness",
         "conferenceTitle": "26th International Conference on Electrical Contacts (ICEC 2012)",
-        "Content Type": "Conferences",
-        "date": "14-17 May 2012",
+        "data": "14-17 May 2012",
         "authors": [
             "P. Jedrzejczyk",
             "S. Fouvry",
@@ -2545,8 +2432,7 @@
     {
         "title": "Triangle and centroid localization algorithm based on distance compensation",
         "conferenceTitle": "IET International Conference on Information Science and Control Engineering 2012 (ICISCE 2012)",
-        "Content Type": "Conferences",
-        "date": "7-9 Dec. 2012",
+        "data": "7-9 Dec. 2012",
         "authors": [
             "Ye Shang",
             "Zhigang Liu",
@@ -2560,8 +2446,7 @@
     {
         "title": "A three-dimensional localization algorithm for wireless sensor networks using artificial neural networks",
         "conferenceTitle": "2012 IEEE 9th International Conference on Mobile Ad-Hoc and Sensor Systems (MASS 2012)",
-        "Content Type": "Conferences",
-        "date": "8-11 Oct. 2012",
+        "data": "8-11 Oct. 2012",
         "authors": [
             "Mohammad Abdelhadi",
             "Muhammad Anan"
@@ -2573,8 +2458,7 @@
     {
         "title": "Soft switching for power factor correction for server power supply unit",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Hiroshi Nakao",
             "Yu Yonezawa",
@@ -2589,8 +2473,7 @@
     {
         "title": "Statistical analysis of a mimo vehicle-to-vehicle channel model based on the geometrical scattering environments",
         "conferenceTitle": "IET International Conference on Information Science and Control Engineering 2012 (ICISCE 2012)",
-        "Content Type": "Conferences",
-        "date": "7-9 Dec. 2012",
+        "data": "7-9 Dec. 2012",
         "authors": [
             "Q. Fu",
             "W. Zhou"
@@ -2602,8 +2485,7 @@
     {
         "title": "Application of Hybrid A* to an Autonomous Mobile Robot for Path Planning in Unstructured Outdoor Environments",
         "conferenceTitle": "ROBOTIK 2012; 7th German Conference on Robotics",
-        "Content Type": "Conferences",
-        "date": "21-22 May 2012",
+        "data": "21-22 May 2012",
         "authors": [
             "Janko Petereit",
             "Thomas Emter",
@@ -2616,23 +2498,9 @@
         "abstract": "Efficient path planning is one of the main prerequisites for robust navigation of autonomous robots. Especially driving in complex environments containing both streets and unstructured regions is a challenging problem. In this paper we present the application of the Hybrid A* algorithm to a nonholonomic mobile outdoor robot in order to plan near optimal paths in mostly unknown and potentially intricate environments. The implemented algorithm is capable of generating paths with a rate of at least 10 Hz to guarantee real-time behavior."
     },
     {
-        "title": "Aspects of power system restoration considering wind farms",
-        "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
-        "Content Type": "Conferences",
-        "date": "8-9 Sept. 2012",
-        "authors": [
-            "Hainan Zhu",
-            "Yutian Liu"
-        ],
-        "DOI": "10.1049/cp.2012.1788",
-        "citation": 4,
-        "abstract": "As wind farms integrated into the grid become more and more massive and output power of wind farms is of fluctuation and uncertainty, the risk of power system blackouts has increased significantly. Wind farms need to participate in power system restoration after blackouts. Several aspects of power system restoration considering wind farms are presented in this paper, including the development of wind power technology, the target and constraints of wind farm restoration and the influence on load restoration. The output power of wind farms and the opportune moment to restore wind farms are the key factors to decide whether wind farms should be restored."
-    },
-    {
         "title": "Consideration of inertia for design of reactive power compensation devices for HVDC transmission systems",
         "conferenceTitle": "10th IET International Conference on AC and DC Power Transmission (ACDC 2012)",
-        "Content Type": "Conferences",
-        "date": "4-5 Dec. 2012",
+        "data": "4-5 Dec. 2012",
         "authors": [
             "Yi Zhang",
             "Aniruddha M. Gole"
@@ -2644,8 +2512,7 @@
     {
         "title": "Simultaneous target and multipath positioning with MIMO radar",
         "conferenceTitle": "IET International Conference on Radar Systems (Radar 2012)",
-        "Content Type": "Conferences",
-        "date": "22-25 Oct. 2012",
+        "data": "22-25 Oct. 2012",
         "authors": [
             "Li Li",
             "Jeffrey L. Krolik"
@@ -2657,8 +2524,7 @@
     {
         "title": "Techno-economical evaluation of EVs parking lot construction by distribution companies",
         "conferenceTitle": "CIRED 2012 Workshop: Integration of Renewables into the Distribution Grid",
-        "Content Type": "Conferences",
-        "date": "29-30 May 2012",
+        "data": "29-30 May 2012",
         "authors": [
             "Hamid Reza Esmaeilian",
             "Masoud Rashidinejad",
@@ -2672,8 +2538,7 @@
     {
         "title": "Control active and reactive power flow with UPFC connected in transmission line",
         "conferenceTitle": "8th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2012)",
-        "Content Type": "Conferences",
-        "date": "1-3 Oct. 2012",
+        "data": "1-3 Oct. 2012",
         "authors": [
             "Vjollca Komoni",
             "Isuf Krasniqi",
@@ -2687,8 +2552,7 @@
     {
         "title": "Source voltage, frequency and impedance variation effects on the harmonics generated from a Personal Computer",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "M. J. H. Rawa",
             "D. W. P. Thomas",
@@ -2702,8 +2566,7 @@
     {
         "title": "Efficient maximum-likelihood period estimation from incomplete timing data",
         "conferenceTitle": "International Conference on Automatic Control and Artificial Intelligence (ACAI 2012)",
-        "Content Type": "Conferences",
-        "date": "3-5 March 2012",
+        "data": "3-5 March 2012",
         "authors": [
             "H. Ye",
             "Z. Liu",
@@ -2716,8 +2579,7 @@
     {
         "title": "Thermal simulation of small capacity AC contactor based on ANSYS",
         "conferenceTitle": "26th International Conference on Electrical Contacts (ICEC 2012)",
-        "Content Type": "Conferences",
-        "date": "14-17 May 2012",
+        "data": "14-17 May 2012",
         "authors": [
             "Liu Guojin",
             "Liu Haiqiang",
@@ -2728,23 +2590,9 @@
         "abstract": "Based on ANSYS, the thermal analysis on the small capacity AC contactor is put forward in this paper. After the model of contactor with 9A rated current is established, the temperature field of the contactor is simulated considering the heating and heat-dissipating calculation. The heating calculation includes the heating of electrical-magnetic system and the resistances of circuit and contact. The heat-dissipation calculation includes the inner conduction, the convection and radiation of surfaces."
     },
     {
-        "title": "A chance-constrained programming based energy storage system sizing model considering uncertainty of wind power",
-        "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
-        "Content Type": "Conferences",
-        "date": "8-9 Sept. 2012",
-        "authors": [
-            "Lina Li",
-            "Li Yang"
-        ],
-        "DOI": "10.1049/cp.2012.1772",
-        "citation": 4,
-        "abstract": "The uncertainty and intermittence of wind power brings challenges to power systems, especially at high levels of penetration. In order to increase the acceptable grid-connected capacity for wind power, the output fluctuation is requested to be limited by improving forecast precision or using energy storage. This paper is focused on sizing battery energy storage system (BESS) for wind farm applications, so as to keep the differences between the combined wind/BESS output and the predefined profile within a required limit. Mathematical model for seeking the optimal size is developed based on chance-constrained programming. Genetic algorithm is used to solve the optimization problem, and Monte-Carlo method is applied to deal with the chance-constrained question."
-    },
-    {
         "title": "Predicted and experimental anisotropy of a dual three-phase interior permanent magnet motor for sensorless rotor position control",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Massimo Barcaro",
             "Adriano Faggion",
@@ -2758,8 +2606,7 @@
     {
         "title": "Modeling study of the amount of wear in sliding electric contact",
         "conferenceTitle": "26th International Conference on Electrical Contacts (ICEC 2012)",
-        "Content Type": "Conferences",
-        "date": "14-17 May 2012",
+        "data": "14-17 May 2012",
         "authors": [
             "Chen Zhonghua",
             "Hui Lichuan",
@@ -2773,8 +2620,7 @@
     {
         "title": "Out of step detection using synchronized swing impedance and resistance measurement",
         "conferenceTitle": "11th IET International Conference on Developments in Power Systems Protection (DPSP 2012)",
-        "Content Type": "Conferences",
-        "date": "23-26 April 2012",
+        "data": "23-26 April 2012",
         "authors": [
             "Vinaya. A. Ambekar",
             "Sanjay. S. Dambhare"
@@ -2786,8 +2632,7 @@
     {
         "title": "Optimization methodology for efficient LLC resonant converter with power factor correction circuit",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "Ruiyang Yu",
             "Godwin Kwun Yuan Ho",
@@ -2800,8 +2645,7 @@
     {
         "title": "Modelling and simulating the operation of RTG container cranes",
         "conferenceTitle": "6th IET International Conference on Power Electronics, Machines and Drives (PEMD 2012)",
-        "Content Type": "Conferences",
-        "date": "27-29 March 2012",
+        "data": "27-29 March 2012",
         "authors": [
             "C. E. Knight",
             "V. Becerra",
@@ -2815,8 +2659,7 @@
     {
         "title": "Feasibility and challenges of a 95-GHz SoC radiometer for W-band passive imaging",
         "conferenceTitle": "IET Irish Signals and Systems Conference (ISSC 2012)",
-        "Content Type": "Conferences",
-        "date": "28-29 June 2012",
+        "data": "28-29 June 2012",
         "authors": [
             "Lorenzo O. Mereni",
             "Domenico Pepe",
@@ -2826,45 +2669,5 @@
         "DOI": "10.1049/ic.2012.0206",
         "citation": 4,
         "abstract": "Passive radiometry is a health-safe alternative to other imaging techniques conceived to be used on human beings for security or medical purposes. In this paper we discuss the advantages and show the results of a feasibility study of a W-Band radiometer onto a single chip in standard CMOS technology."
-    },
-    {
-        "title": "Microgrid emergency control based on the stratified controllable load shedding optimization",
-        "conferenceTitle": "International Conference on Sustainable Power Generation and Supply (SUPERGEN 2012)",
-        "Content Type": "Conferences",
-        "date": "8-9 Sept. 2012",
-        "authors": [
-            "Shengli Xing"
-        ],
-        "DOI": "10.1049/cp.2012.1778",
-        "citation": 4,
-        "abstract": "This paper proposes a microgrid emergency control strategy-the stratified controllable load shedding optimization. Firstly the method stratifies controllable load into different levels based on the degree of load importance and load frequency regulation effect coefficient (KL). Then the optimization model is put forward. It is difficult to deal with since it is a nonlinear mixed integer programming problem. This paper proposes a new step-by-step solution and its principle is described in detail. The feasibility of the method is verified by carrying out with Matlab. The modified IEEE 9-bus distribution system is used to simulate a microgrid. The emergency controllable load stratification is put forward, and the results are listed. By comparing with the traditional method of load shedding and analysing the results, we can conclude that the proposed method is reasonable and effective."
-    },
-    {
-        "title": "An effective evaluation approach of demand response programs for residential side",
-        "conferenceTitle": "9th IET International Conference on Advances in Power System Control, Operation and Management (APSCOM 2012)",
-        "Content Type": "Conferences",
-        "date": "18-21 Nov. 2012",
-        "authors": [
-            "K. Kuroda",
-            "T. Ichimura",
-            "R. Yokoyama"
-        ],
-        "DOI": "10.1049/cp.2012.2175",
-        "citation": 4,
-        "abstract": "Effective utilization of electricity is one of global objectives for realization of sustainable societies. In order to utilize electricity supply systems efficiently, it is necessary to level our electricity demand by shifting peak time electricity demand to non-peak time. Demand response (DR) is expected as the key technology to level electricity demand by demand peak cut or shift, and it is necessary to expand the amount of the peak cut and shift capacity. In the US and some regions, various demand response programs have been implemented and the amount of peak load reduction has increased in the US. However, most of demand reduction resources are from “Commercial and Industrial” and “Wholesale” sectors and expansion of DR program utilization in residential sector is one of the important challenges to increase effectiveness of demand response programs. This paper reorganizes current existing demand response programs systematically and clarifies their characters. And using the result, an evaluation approach of demand response programs are proposed by focusing on the benefit of these programs for expansion of peak load reduction amount in residential side."
-    },
-    {
-        "title": "Spectrum occupancy of Malaysia radio environment for cognitive radio application",
-        "conferenceTitle": "IET International Conference on Wireless Communications and Applications (ICWCA 2012)",
-        "Content Type": "Conferences",
-        "date": "8-10 Oct. 2012",
-        "authors": [
-            "M. R. Dzulkifli",
-            "M. R. Kamarudin",
-            "T. A Rahman"
-        ],
-        "DOI": "10.1049/cp.2012.2071",
-        "citation": 4,
-        "abstract": "Dynamic spectrum access technologies such as cognitive radio aim to improve the current spectrum utilisation by allowing opportunistic spectrum access to the licensed frequency bands without causing interference. However, in order to this, better understanding of the spectrum usage pattern is important. In this context, this paper presents the 24-hour spectrum survey of an outdoor radio environment in a suburban area in Johor Bahru, Malaysia in the frequency bands from 30-3000 MHz. The objectives are to investigate how the different services being allocated are utilised and identify bands that have low or no active utilisation. The result of the spectrum measurement reveals that the utilisation is 11.29% with a significant amount of spectrum underutilized is at frequencies above 1 GHz. The outcome of the study suggests that cognitive radio could indeed improve the spectrum utilisation and become the platform to provide for future wireless services. However, these studies are preliminary and future long term spectrum survey is required in better understanding and modelling of the actual spectrum usage pattern for cognitive radio applications."
     }
 ]

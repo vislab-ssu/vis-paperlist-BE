@@ -2,8 +2,7 @@
     {
         "title": "Comparative assessment of polarimetric features estimation in fully polarimetric 3D-ISAR imaging system",
         "conferenceTitle": "International Conference on Radar Systems (RADAR 2022)",
-        "Content Type": "Conferences",
-        "date": "24-27 Oct. 2022",
+        "data": "24-27 Oct. 2022",
         "authors": [
             "F. Mancuso",
             "E. Giusti",
@@ -18,8 +17,7 @@
     {
         "title": "The Supercomputer “Fugaku”",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Mitsuhisa Sato"
         ],
@@ -30,8 +28,7 @@
     {
         "title": "Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems",
         "conferenceTitle": "2022 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
-        "Content Type": "Conferences",
-        "date": "14-23 March 2022",
+        "data": "14-23 March 2022",
         "authors": [
             "Haoyu Yang",
             "Kit Fung",
@@ -46,8 +43,7 @@
     {
         "title": "Video Action Detection: Analysing Limitations and Challenges",
         "conferenceTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
-        "Content Type": "Conferences",
-        "date": "19-20 June 2022",
+        "data": "19-20 June 2022",
         "authors": [],
         "DOI": "10.1109/CVPRW56347.2022.00538",
         "citation": 1,
@@ -56,8 +52,7 @@
     {
         "title": "Semiconductor Evolution for Chip and System Design- From 2D Scaling to 3D Heterogeneous Integration",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "L.C. Lu"
         ],
@@ -68,8 +63,7 @@
     {
         "title": "Advanced Packaging Ecosystem: Challenges and Solutions",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9771035",
         "citation": 1,
@@ -78,8 +72,7 @@
     {
         "title": "Keynote Speaker: The Hitchhiker's Guide to the Metaverse",
         "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
-        "Content Type": "Conferences",
-        "date": "12-16 March 2022",
+        "data": "12-16 March 2022",
         "authors": [
             "Pan Hui"
         ],
@@ -90,8 +83,7 @@
     {
         "title": "A Survey for Using AI Techniques for Predicting COVID-19",
         "conferenceTitle": "2022 International Conference on Computer Science and Software Engineering (CSASE)",
-        "Content Type": "Conferences",
-        "date": "15-17 March 2022",
+        "data": "15-17 March 2022",
         "authors": [
             "Hanan A. Aldabagh",
             "Ghayda A. Altalib"
@@ -103,8 +95,7 @@
     {
         "title": "Workshop on Dependable Safety System - ANSHIN & Safety for Robots & Intelligent Systems",
         "conferenceTitle": "2022 IEEE/SICE International Symposium on System Integration (SII)",
-        "Content Type": "Conferences",
-        "date": "9-12 Jan. 2022",
+        "data": "9-12 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/SII52469.2022.9708818",
         "citation": 1,
@@ -113,8 +104,7 @@
     {
         "title": "New Technologies for Next-Generation MRAM",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9770999",
         "citation": 0,
@@ -123,8 +113,7 @@
     {
         "title": "Development of Intelligent Tunnel Boring Machines",
         "conferenceTitle": "2022 IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
-        "Content Type": "Conferences",
-        "date": "4-6 May 2022",
+        "data": "4-6 May 2022",
         "authors": [],
         "DOI": "10.1109/CSCWD54268.2022.9776075",
         "citation": 0,
@@ -133,8 +122,7 @@
     {
         "title": "PDF Not Yet Available In IEEE Xplore®",
         "conferenceTitle": "2022 IEEE Radar Conference (RadarConf22)",
-        "Content Type": "Conferences",
-        "date": "21-25 March 2022",
+        "data": "21-25 March 2022",
         "authors": [],
         "DOI": "10.1109/RadarConf2248738.2022.9764180",
         "citation": 0,
@@ -143,8 +131,7 @@
     {
         "title": "Scope of ICCCI 2022",
         "conferenceTitle": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
-        "Content Type": "Conferences",
-        "date": "25-27 Jan. 2022",
+        "data": "25-27 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/ICCCI54379.2022.9741038",
         "citation": 0,
@@ -153,8 +140,7 @@
     {
         "title": "Is remote patient monitoring the future of healthcare?",
         "conferenceTitle": "2022 IEEE Zooming Innovation in Consumer Technologies Conference (ZINC)",
-        "Content Type": "Conferences",
-        "date": "25-26 May 2022",
+        "data": "25-26 May 2022",
         "authors": [
             "Margarita Anastassova"
         ],
@@ -165,8 +151,7 @@
     {
         "title": "Front Matter",
         "conferenceTitle": "2022 10th International Conference on Cyber and IT Service Management (CITSM)",
-        "Content Type": "Conferences",
-        "date": "20-21 Sept. 2022",
+        "data": "20-21 Sept. 2022",
         "authors": [],
         "DOI": "10.1109/CITSM56380.2022.9935986",
         "citation": 0,
@@ -175,8 +160,7 @@
     {
         "title": "Keynote Address: WBG-Devices on Modern Power Electronics and Electric Drives",
         "conferenceTitle": "2022 29th International Workshop on Electric Drives: Advances in Power Electronics for Electric Drives (IWED)",
-        "Content Type": "Conferences",
-        "date": "26-29 Jan. 2022",
+        "data": "26-29 Jan. 2022",
         "authors": [
             "Moumita Das"
         ],
@@ -187,8 +171,7 @@
     {
         "title": "Characterization of Thermal Interface Materials for Power Electronics Applications",
         "conferenceTitle": "2022 38th Semiconductor Thermal Measurement, Modeling & Management Symposium (SEMI-THERM)",
-        "Content Type": "Conferences",
-        "date": "21-25 March 2022",
+        "data": "21-25 March 2022",
         "authors": [],
         "DOI": "",
         "citation": 0,
@@ -197,8 +180,7 @@
     {
         "title": "Poster Paper Placeholder",
         "conferenceTitle": "2022 American Control Conference (ACC)",
-        "Content Type": "Conferences",
-        "date": "8-10 June 2022",
+        "data": "8-10 June 2022",
         "authors": [
             "Zhiyuan Zhang"
         ],
@@ -209,8 +191,7 @@
     {
         "title": "International Conference on Energy and Power Engineering",
         "conferenceTitle": "2022 International Conference on Energy and Power Engineering (ICEPE)",
-        "Content Type": "Conferences",
-        "date": "24-26 Nov. 2022",
+        "data": "24-26 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/ICEPE56629.2022.10044911",
         "citation": 0,
@@ -219,8 +200,7 @@
     {
         "title": "2022 IEEE International Workshop on Metrology for Agriculture and Forestry",
         "conferenceTitle": "2022 IEEE Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)",
-        "Content Type": "Conferences",
-        "date": "3-5 Nov. 2022",
+        "data": "3-5 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/MetroAgriFor55389.2022.9964549",
         "citation": 0,
@@ -229,8 +209,7 @@
     {
         "title": "Cover",
         "conferenceTitle": "2022 15th International Conference Management of large-scale system development (MLSD)",
-        "Content Type": "Conferences",
-        "date": "26-28 Sept. 2022",
+        "data": "26-28 Sept. 2022",
         "authors": [],
         "DOI": "10.1109/MLSD55143.2022.9934716",
         "citation": 0,
@@ -239,8 +218,7 @@
     {
         "title": "Hybrid Thin-film In-plane III-V/Si-related Photonic Integration",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9771021",
         "citation": 0,
@@ -249,8 +227,7 @@
     {
         "title": "2022 IEEE Congress on Evolutionary Computation (CEC)",
         "conferenceTitle": "2022 IEEE Congress on Evolutionary Computation (CEC)",
-        "Content Type": "Conferences",
-        "date": "18-23 July 2022",
+        "data": "18-23 July 2022",
         "authors": [],
         "DOI": "10.1109/CEC55065.2022.9870418",
         "citation": 0,
@@ -259,8 +236,7 @@
     {
         "title": "Copyright Notice",
         "conferenceTitle": "2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD)",
-        "Content Type": "Conferences",
-        "date": "30 Nov.-2 Dec. 2022",
+        "data": "30 Nov.-2 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/ICSMD57530.2022.10058058",
         "citation": 0,
@@ -269,8 +245,7 @@
     {
         "title": "Map",
         "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
-        "Content Type": "Conferences",
-        "date": "20-22 Dec. 2022",
+        "data": "20-22 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/IKT57960.2022.10039034",
         "citation": 0,
@@ -279,8 +254,7 @@
     {
         "title": "Copyright and Reprint Permission",
         "conferenceTitle": "2022 8th International Conference on Nanomanufacturing & 4th AET Symposium on ACSM and Digital Manufacturing (Nanoman-AETS)",
-        "Content Type": "Conferences",
-        "date": "30 Aug.-1 Sept. 2022",
+        "data": "30 Aug.-1 Sept. 2022",
         "authors": [],
         "DOI": "10.1109/Nanoman-AETS56035.2022.10119479",
         "citation": 0,
@@ -289,8 +263,7 @@
     {
         "title": "About this Publication",
         "conferenceTitle": "2022 14th International Conference on Knowledge and Systems Engineering (KSE)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2022",
+        "data": "19-21 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/KSE56063.2022.9953779",
         "citation": 0,
@@ -299,8 +272,7 @@
     {
         "title": "A multi-agent framework for scheduling fully electrified public transport",
         "conferenceTitle": "13th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2022)",
-        "Content Type": "Conferences",
-        "date": "7-9 Nov. 2022",
+        "data": "7-9 Nov. 2022",
         "authors": [
             "S. Sharma",
             "S. Bhattacharya",
@@ -316,8 +288,7 @@
     {
         "title": "Workshop Committees",
         "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2022",
+        "data": "3-4 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/SMAP56125.2022.9941884",
         "citation": 0,
@@ -326,8 +297,7 @@
     {
         "title": "Speaker [2 abstracts]",
         "conferenceTitle": "2022 International Conference for Advancement in Technology (ICONAT)",
-        "Content Type": "Conferences",
-        "date": "21-22 Jan. 2022",
+        "data": "21-22 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/ICONAT53423.2022.9725971",
         "citation": 0,
@@ -336,8 +306,7 @@
     {
         "title": "Keynote Speakers",
         "conferenceTitle": "2022 Fifth International Conference of Women in Data Science at Prince Sultan University (WiDS PSU)",
-        "Content Type": "Conferences",
-        "date": "28-29 March 2022",
+        "data": "28-29 March 2022",
         "authors": [],
         "DOI": "10.1109/WiDS-PSU54548.2022.00011",
         "citation": 0,
@@ -346,8 +315,7 @@
     {
         "title": "Back Cover",
         "conferenceTitle": "2022 10th International Conference on Cyber and IT Service Management (CITSM)",
-        "Content Type": "Conferences",
-        "date": "20-21 Sept. 2022",
+        "data": "20-21 Sept. 2022",
         "authors": [],
         "DOI": "10.1109/CITSM56380.2022.9935988",
         "citation": 0,
@@ -356,8 +324,7 @@
     {
         "title": "Keynote Address: Impedance-Source Networks: Features, Benefits and Challenges for Industrial Application",
         "conferenceTitle": "2022 29th International Workshop on Electric Drives: Advances in Power Electronics for Electric Drives (IWED)",
-        "Content Type": "Conferences",
-        "date": "26-29 Jan. 2022",
+        "data": "26-29 Jan. 2022",
         "authors": [
             "Oleksandr Husev"
         ],
@@ -368,8 +335,7 @@
     {
         "title": "A64FX: 52 Core Processor Designed for the Supercomputer Fugak",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Takekazu Tabata"
         ],
@@ -380,8 +346,7 @@
     {
         "title": "What Are 2D Materials Good For?",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Eric Pop"
         ],
@@ -392,8 +357,7 @@
     {
         "title": "Keynote Address by Dr. Nalin Asanka Gamagedara Arachchilage",
         "conferenceTitle": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
-        "Content Type": "Conferences",
-        "date": "23-24 Feb. 2022",
+        "data": "23-24 Feb. 2022",
         "authors": [],
         "DOI": "10.1109/ICARC54489.2022.9754072",
         "citation": 0,
@@ -402,8 +366,7 @@
     {
         "title": "RFIC Plenary Speaker 1",
         "conferenceTitle": "2022 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
-        "Content Type": "Conferences",
-        "date": "19-21 June 2022",
+        "data": "19-21 June 2022",
         "authors": [],
         "DOI": "10.1109/RFIC54546.2022.9863188",
         "citation": 0,
@@ -412,8 +375,7 @@
     {
         "title": "COVID-19 AI & Simulation Project: Overview and Lessons Learned",
         "conferenceTitle": "2022 IEEE International Conference on Big Data (Big Data)",
-        "Content Type": "Conferences",
-        "date": "17-20 Dec. 2022",
+        "data": "17-20 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/BigData55660.2022.10020219",
         "citation": 0,
@@ -422,8 +384,7 @@
     {
         "title": "Keynotes [6 abstracts]",
         "conferenceTitle": "2022 IEEE 16th International Conference on Semantic Computing (ICSC)",
-        "Content Type": "Conferences",
-        "date": "26-28 Jan. 2022",
+        "data": "26-28 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/ICSC52841.2022.00008",
         "citation": 0,
@@ -432,8 +393,7 @@
     {
         "title": "2022 IEEE International Symposium on Olfaction and Electronic Nose (ISOEN) Proceedings",
         "conferenceTitle": "2022 IEEE International Symposium on Olfaction and Electronic Nose (ISOEN)",
-        "Content Type": "Conferences",
-        "date": "29 May-1 June 2022",
+        "data": "29 May-1 June 2022",
         "authors": [],
         "DOI": "10.1109/ISOEN54820.2022.9789681",
         "citation": 0,
@@ -442,8 +402,7 @@
     {
         "title": "Additive Manufacturing in Electronics – Filament Overview and Special Focus on Carbon Black Filament Properties Investigation",
         "conferenceTitle": "PCIM Europe 2022; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "10-12 May 2022",
+        "data": "10-12 May 2022",
         "authors": [
             "Andre Schuhl",
             "Katharina J. Schiffhauer",
@@ -457,8 +416,7 @@
     {
         "title": "Abstract of Presentations on March 7th",
         "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
-        "Content Type": "Conferences",
-        "date": "7-9 March 2022",
+        "data": "7-9 March 2022",
         "authors": [],
         "DOI": "10.1109/LifeTech53646.2022.9754823",
         "citation": 0,
@@ -467,8 +425,7 @@
     {
         "title": "Papers by title",
         "conferenceTitle": "2022 IEEE International Conference on Consumer Electronics (ICCE)",
-        "Content Type": "Conferences",
-        "date": "7-9 Jan. 2022",
+        "data": "7-9 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/ICCE53296.2022.9730241",
         "citation": 0,
@@ -477,8 +434,7 @@
     {
         "title": "Introduction to Continuous Variable Quantum Key Distribution",
         "conferenceTitle": "2022 Optical Fiber Communications Conference and Exhibition (OFC)",
-        "Content Type": "Conferences",
-        "date": "6-10 March 2022",
+        "data": "6-10 March 2022",
         "authors": [
             "Takuya Hirano"
         ],
@@ -489,8 +445,7 @@
     {
         "title": "The Road to Fuse With and Beyond Silicon Circuits for 2D Materials",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9770974",
         "citation": 0,
@@ -499,8 +454,7 @@
     {
         "title": "Complex Frequency",
         "conferenceTitle": "2022 IEEE Power & Energy Society General Meeting (PESGM)",
-        "Content Type": "Conferences",
-        "date": "17-21 July 2022",
+        "data": "17-21 July 2022",
         "authors": [
             "Federico Milano"
         ],
@@ -511,8 +465,7 @@
     {
         "title": "Blockchain networks' energy consumption and environmental impact: Economic, political, and social discourses and key argumentations",
         "conferenceTitle": "2022 IEEE Zooming Innovation in Consumer Technologies Conference (ZINC)",
-        "Content Type": "Conferences",
-        "date": "25-26 May 2022",
+        "data": "25-26 May 2022",
         "authors": [
             "Nir Kshetri"
         ],
@@ -523,8 +476,7 @@
     {
         "title": "Proceedings 2022 8th International Conference on Big Data and Information Analytics",
         "conferenceTitle": "2022 8th International Conference on Big Data and Information Analytics (BigDIA)",
-        "Content Type": "Conferences",
-        "date": "24-25 Aug. 2022",
+        "data": "24-25 Aug. 2022",
         "authors": [],
         "DOI": "10.1109/BigDIA56350.2022.9874145",
         "citation": 0,
@@ -533,8 +485,7 @@
     {
         "title": "Author index",
         "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
-        "Content Type": "Conferences",
-        "date": "20-22 Dec. 2022",
+        "data": "20-22 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/IKT57960.2022.10039005",
         "citation": 0,
@@ -543,8 +494,7 @@
     {
         "title": "Keynote Speakers [4 abstracts]",
         "conferenceTitle": "2022 5th International Conference on Computing and Informatics (ICCI)",
-        "Content Type": "Conferences",
-        "date": "9-10 March 2022",
+        "data": "9-10 March 2022",
         "authors": [],
         "DOI": "10.1109/ICCI54321.2022.9756113",
         "citation": 0,
@@ -553,8 +503,7 @@
     {
         "title": "2D Materials for Memory, Computing and 6G Applications",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9770976",
         "citation": 0,
@@ -563,8 +512,7 @@
     {
         "title": "Copyright Page",
         "conferenceTitle": "2022 International Conference on System Science and Engineering (ICSSE)",
-        "Content Type": "Conferences",
-        "date": "26-29 May 2022",
+        "data": "26-29 May 2022",
         "authors": [],
         "DOI": "10.1109/ICSSE55923.2022.9947357",
         "citation": 0,
@@ -573,8 +521,7 @@
     {
         "title": "Keynotes",
         "conferenceTitle": "2022 30th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)",
-        "Content Type": "Conferences",
-        "date": "9-11 March 2022",
+        "data": "9-11 March 2022",
         "authors": [],
         "DOI": "10.1109/PDP55904.2022.00009",
         "citation": 0,
@@ -583,8 +530,7 @@
     {
         "title": "2022 IEEE International Conference on Connected Vehicles and Expo (ICCVE) Proceedings",
         "conferenceTitle": "2022 International Conference on Connected Vehicle and Expo (ICCVE)",
-        "Content Type": "Conferences",
-        "date": "7-9 March 2022",
+        "data": "7-9 March 2022",
         "authors": [],
         "DOI": "10.1109/ICCVE52871.2022.9742790",
         "citation": 0,
@@ -593,8 +539,7 @@
     {
         "title": "IEEE WMED 2022 Keynote Address [8 abstracts]",
         "conferenceTitle": "2022 IEEE 19th Annual Workshop on Microelectronics and Electron Devices (WMED)",
-        "Content Type": "Conferences",
-        "date": "8-8 April 2022",
+        "data": "8-8 April 2022",
         "authors": [],
         "DOI": "10.1109/WMED55302.2022.9758006",
         "citation": 0,
@@ -603,8 +548,7 @@
     {
         "title": "Cover Page",
         "conferenceTitle": "2022 Fourth International Conference on Cognitive Computing and Information Processing (CCIP)",
-        "Content Type": "Conferences",
-        "date": "23-24 Dec. 2022",
+        "data": "23-24 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/CCIP57447.2022.10058677",
         "citation": 0,
@@ -613,8 +557,7 @@
     {
         "title": "Keynote Address: Exploring Inverter Topologies for Machine-tool Drives",
         "conferenceTitle": "2022 29th International Workshop on Electric Drives: Advances in Power Electronics for Electric Drives (IWED)",
-        "Content Type": "Conferences",
-        "date": "26-29 Jan. 2022",
+        "data": "26-29 Jan. 2022",
         "authors": [
             "Alecksey Anuchin"
         ],
@@ -625,8 +568,7 @@
     {
         "title": "Silicon Photonics for Scaling the Cloud and Enabling AI",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Yoojin Ban"
         ],
@@ -637,8 +579,7 @@
     {
         "title": "Executive Committee",
         "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
-        "Content Type": "Conferences",
-        "date": "20-22 Dec. 2022",
+        "data": "20-22 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/IKT57960.2022.10039007",
         "citation": 0,
@@ -647,8 +588,7 @@
     {
         "title": "Title Page",
         "conferenceTitle": "2021 International Conference on Biomedical Innovations and Applications (BIA)",
-        "Content Type": "Conferences",
-        "date": "2-4 June 2022",
+        "data": "2-4 June 2022",
         "authors": [],
         "DOI": "10.1109/BIA52594.2022.9831221",
         "citation": 0,
@@ -657,8 +597,7 @@
     {
         "title": "Silicon Photonics for Next Generation Computing Systems",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9771029",
         "citation": 0,
@@ -667,8 +606,7 @@
     {
         "title": "Reviewers",
         "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
-        "Content Type": "Conferences",
-        "date": "20-22 Dec. 2022",
+        "data": "20-22 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/IKT57960.2022.10038995",
         "citation": 0,
@@ -677,8 +615,7 @@
     {
         "title": "SE2: Morning Session: Next Generation Circuit Designer 2022 Workshop",
         "conferenceTitle": "2022 IEEE International Solid-State Circuits Conference (ISSCC)",
-        "Content Type": "Conferences",
-        "date": "20-26 Feb. 2022",
+        "data": "20-26 Feb. 2022",
         "authors": [],
         "DOI": "10.1109/ISSCC42614.2022.9731553",
         "citation": 0,
@@ -687,8 +624,7 @@
     {
         "title": "Copyright",
         "conferenceTitle": "2022 15th International Conference on Security of Information and Networks (SIN)",
-        "Content Type": "Conferences",
-        "date": "11-13 Nov. 2022",
+        "data": "11-13 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/SIN56466.2022.9970496",
         "citation": 0,
@@ -697,8 +633,7 @@
     {
         "title": "Non-Uniform Sampling Data Converters: A Journey to Uncharted Circuits and Systems",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Shuo-Wei Chen"
         ],
@@ -709,8 +644,7 @@
     {
         "title": "[Keynotes - 2 abstracts]",
         "conferenceTitle": "2022 14th International Conference on Knowledge and Smart Technology (KST)",
-        "Content Type": "Conferences",
-        "date": "26-29 Jan. 2022",
+        "data": "26-29 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/KST53302.2022.9727232",
         "citation": 0,
@@ -719,8 +653,7 @@
     {
         "title": "Copyright Page",
         "conferenceTitle": "2022 14th International Conference on Knowledge and Systems Engineering (KSE)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2022",
+        "data": "19-21 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/KSE56063.2022.9953795",
         "citation": 0,
@@ -729,8 +662,7 @@
     {
         "title": "Thermal challenges in advanced 3D System Integration: “Keeping cool while turning up the heat”",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9771000",
         "citation": 0,
@@ -739,8 +671,7 @@
     {
         "title": "Low-power Continuous-time Delta-sigma ADCs",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Youngcheol Chae"
         ],
@@ -751,8 +682,7 @@
     {
         "title": "Bridging the Physical and Digital Worlds in Data-Driven Systems",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Boris Murmann"
         ],
@@ -763,8 +693,7 @@
     {
         "title": "2022 International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE) - 54957",
         "conferenceTitle": "2022 International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE)",
-        "Content Type": "Conferences",
-        "date": "24-26 Feb. 2022",
+        "data": "24-26 Feb. 2022",
         "authors": [],
         "DOI": "10.1109/ICAEEE54957.2022.9836423",
         "citation": 0,
@@ -773,8 +702,7 @@
     {
         "title": "2022 International Conference on Energy and Power Engineering (ICEPE)",
         "conferenceTitle": "2022 International Conference on Energy and Power Engineering (ICEPE)",
-        "Content Type": "Conferences",
-        "date": "24-26 Nov. 2022",
+        "data": "24-26 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/ICEPE56629.2022.10044893",
         "citation": 0,
@@ -783,8 +711,7 @@
     {
         "title": "Potential Capacity and Targeted Costs for Floating Photovoltaics in North America",
         "conferenceTitle": "2022 IEEE 49th Photovoltaics Specialists Conference (PVSC)",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2022",
+        "data": "5-10 June 2022",
         "authors": [
             "Leonardo Micheli"
         ],
@@ -795,8 +722,7 @@
     {
         "title": "IEEE VR 2022 Keynote Speaker: Tim Dwyer",
         "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)",
-        "Content Type": "Conferences",
-        "date": "12-16 March 2022",
+        "data": "12-16 March 2022",
         "authors": [],
         "DOI": "10.1109/VR51125.2022.00013",
         "citation": 0,
@@ -805,8 +731,7 @@
     {
         "title": "Special Event: Student Research Preview (SRP)",
         "conferenceTitle": "2022 IEEE International Solid-State Circuits Conference (ISSCC)",
-        "Content Type": "Conferences",
-        "date": "20-26 Feb. 2022",
+        "data": "20-26 Feb. 2022",
         "authors": [],
         "DOI": "10.1109/ISSCC42614.2022.9731555",
         "citation": 0,
@@ -815,8 +740,7 @@
     {
         "title": "Workshops",
         "conferenceTitle": "2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)",
-        "Content Type": "Conferences",
-        "date": "21-25 March 2022",
+        "data": "21-25 March 2022",
         "authors": [],
         "DOI": "10.1109/PerComWorkshops53856.2022.9767323",
         "citation": 0,
@@ -825,8 +749,7 @@
     {
         "title": "Awards",
         "conferenceTitle": "2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD)",
-        "Content Type": "Conferences",
-        "date": "30 Nov.-2 Dec. 2022",
+        "data": "30 Nov.-2 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/ICSMD57530.2022.10058398",
         "citation": 0,
@@ -835,8 +758,7 @@
     {
         "title": "Faster and Longer",
         "conferenceTitle": "2022 28th International Semiconductor Laser Conference (ISLC)",
-        "Content Type": "Conferences",
-        "date": "16-19 Oct. 2022",
+        "data": "16-19 Oct. 2022",
         "authors": [
             "Yuzo Yoshikuni"
         ],
@@ -847,8 +769,7 @@
     {
         "title": "The First Japan Long Haul Fiber Network was Completed in 1985",
         "conferenceTitle": "2022 28th International Semiconductor Laser Conference (ISLC)",
-        "Content Type": "Conferences",
-        "date": "16-19 Oct. 2022",
+        "data": "16-19 Oct. 2022",
         "authors": [
             "Kazuo Hagimoto"
         ],
@@ -859,8 +780,7 @@
     {
         "title": "IEEE VR 2022 Keynote Speaker: Aliesha Staples",
         "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)",
-        "Content Type": "Conferences",
-        "date": "12-16 March 2022",
+        "data": "12-16 March 2022",
         "authors": [],
         "DOI": "10.1109/VR51125.2022.00014",
         "citation": 0,
@@ -869,8 +789,7 @@
     {
         "title": "Proceedings of the 13th Nternational Conference on Information and Knowledge Technology",
         "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
-        "Content Type": "Conferences",
-        "date": "20-22 Dec. 2022",
+        "data": "20-22 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/IKT57960.2022.10039015",
         "citation": 0,
@@ -879,8 +798,7 @@
     {
         "title": "Powertrain trends in electric trucks",
         "conferenceTitle": "2022 24th European Conference on Power Electronics and Applications (EPE'22 ECCE Europe)",
-        "Content Type": "Conferences",
-        "date": "5-9 Sept. 2022",
+        "data": "5-9 Sept. 2022",
         "authors": [
             "Luciana C. Afonso"
         ],
@@ -891,8 +809,7 @@
     {
         "title": "Cryo-CMOS for Quantum Computing: the road ahead",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9770986",
         "citation": 0,
@@ -901,8 +818,7 @@
     {
         "title": "The Manipulations of Electronic Structure and Interface Chemistry of Functionalized 2D Materials for Advanced Nanoelectronics",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9770990",
         "citation": 0,
@@ -911,8 +827,7 @@
     {
         "title": "Cover",
         "conferenceTitle": "2022 IEEE 20th Jubilee International Symposium on Intelligent Systems and Informatics (SISY)",
-        "Content Type": "Conferences",
-        "date": "15-17 Sept. 2022",
+        "data": "15-17 Sept. 2022",
         "authors": [],
         "DOI": "10.1109/SISY56759.2022.10036250",
         "citation": 0,
@@ -921,8 +836,7 @@
     {
         "title": "Challenges and Opportunities in AI Hardware Design",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9771037",
         "citation": 0,
@@ -931,8 +845,7 @@
     {
         "title": "An Illustrative Sketch of a Superconducting Device",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9771041",
         "citation": 0,
@@ -941,8 +854,7 @@
     {
         "title": "Copyrights",
         "conferenceTitle": "2022 15th International Conference on Information Security and Cryptography (ISCTURKEY)",
-        "Content Type": "Conferences",
-        "date": "19-20 Oct. 2022",
+        "data": "19-20 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/ISCTURKEY56345.2022.9931792",
         "citation": 0,
@@ -951,8 +863,7 @@
     {
         "title": "Front Cover",
         "conferenceTitle": "2022 10th International Conference on Cyber and IT Service Management (CITSM)",
-        "Content Type": "Conferences",
-        "date": "20-21 Sept. 2022",
+        "data": "20-21 Sept. 2022",
         "authors": [],
         "DOI": "10.1109/CITSM56380.2022.9935969",
         "citation": 0,
@@ -961,8 +872,7 @@
     {
         "title": "About Institution",
         "conferenceTitle": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
-        "Content Type": "Conferences",
-        "date": "25-27 Jan. 2022",
+        "data": "25-27 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/ICCCI54379.2022.9740866",
         "citation": 0,
@@ -971,8 +881,7 @@
     {
         "title": "Practical Considerations of In-Memory Computing in the Deep Learning Accelerator Applications",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Jen-Wei Liang"
         ],
@@ -983,8 +892,7 @@
     {
         "title": "Atomic-layer-deposited Atomically Thin In2O3 Channel for BEOL Logic and Memory Applications",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Peide Ye"
         ],
@@ -995,8 +903,7 @@
     {
         "title": "8th International Conference on Advanced Computing & Communication Systems (ICACCS 2022)",
         "conferenceTitle": "2022 8th International Conference on Advanced Computing and Communication Systems (ICACCS)",
-        "Content Type": "Conferences",
-        "date": "25-26 March 2022",
+        "data": "25-26 March 2022",
         "authors": [],
         "DOI": "10.1109/ICACCS54159.2022.9785122",
         "citation": 0,
@@ -1005,8 +912,7 @@
     {
         "title": "Organizing Committee",
         "conferenceTitle": "2022 IEEE International Conference on Consumer Electronics (ICCE)",
-        "Content Type": "Conferences",
-        "date": "7-9 Jan. 2022",
+        "data": "7-9 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/ICCE53296.2022.9730222",
         "citation": 0,
@@ -1015,8 +921,7 @@
     {
         "title": "Keynote Speakers [2 abstracts]",
         "conferenceTitle": "2022 IEEE International Conference on Big Data and Smart Computing (BigComp)",
-        "Content Type": "Conferences",
-        "date": "17-20 Jan. 2022",
+        "data": "17-20 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/BigComp54360.2022.00009",
         "citation": 0,
@@ -1025,8 +930,7 @@
     {
         "title": "The Applications of SiC Power Devices in Renewable Energy and EV",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Kung-Yen Lee"
         ],
@@ -1037,8 +941,7 @@
     {
         "title": "Copyright Page",
         "conferenceTitle": "2022 IEEE Biennial Congress of Argentina (ARGENCON)",
-        "Content Type": "Conferences",
-        "date": "7-9 Sept. 2022",
+        "data": "7-9 Sept. 2022",
         "authors": [],
         "DOI": "10.1109/ARGENCON55245.2022.9939977",
         "citation": 0,
@@ -1047,8 +950,7 @@
     {
         "title": "Simulation of hot-carrier filtering in InAs-InP nanowire heterostructures",
         "conferenceTitle": "2022 IEEE 49th Photovoltaics Specialists Conference (PVSC)",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2022",
+        "data": "5-10 June 2022",
         "authors": [
             "Urs Aeberhard"
         ],
@@ -1059,8 +961,7 @@
     {
         "title": "Keynotes",
         "conferenceTitle": "2022 IEEE International Conference on Pervasive Computing and Communications (PerCom)",
-        "Content Type": "Conferences",
-        "date": "21-25 March 2022",
+        "data": "21-25 March 2022",
         "authors": [],
         "DOI": "10.1109/PerCom53586.2022.9762382",
         "citation": 0,
@@ -1069,8 +970,7 @@
     {
         "title": "Compute-in-memristor: A System and Technology Co-Optimization (STCO) Approach",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9771006",
         "citation": 0,
@@ -1079,8 +979,7 @@
     {
         "title": "Conference sponsers",
         "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
-        "Content Type": "Conferences",
-        "date": "20-22 Dec. 2022",
+        "data": "20-22 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/IKT57960.2022.10039023",
         "citation": 0,
@@ -1089,8 +988,7 @@
     {
         "title": "IEEE VR 2022 Workshops [21 abstracts]",
         "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
-        "Content Type": "Conferences",
-        "date": "12-16 March 2022",
+        "data": "12-16 March 2022",
         "authors": [],
         "DOI": "10.1109/VRW55335.2022.00005",
         "citation": 0,
@@ -1099,8 +997,7 @@
     {
         "title": "Keynote Lectures 2: Current Status of Artificial Intelligence Related Research",
         "conferenceTitle": "2022 International Seminar on Intelligent Technology and Its Applications (ISITIA)",
-        "Content Type": "Conferences",
-        "date": "20-21 July 2022",
+        "data": "20-21 July 2022",
         "authors": [],
         "DOI": "10.1109/ISITIA56226.2022.9855349",
         "citation": 0,
@@ -1109,8 +1006,7 @@
     {
         "title": "Latest Quantum Transport Models for Atomistic Material and Device Performance Predictions",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9771045",
         "citation": 0,
@@ -1119,8 +1015,7 @@
     {
         "title": "Authors Index",
         "conferenceTitle": "2022 26th International Electrical Power Distribution Conference (EPDC)",
-        "Content Type": "Conferences",
-        "date": "11-12 May 2022",
+        "data": "11-12 May 2022",
         "authors": [],
         "DOI": "10.1109/EPDC56235.2022.9817301",
         "citation": 0,
@@ -1129,8 +1024,7 @@
     {
         "title": "IEEE VR 2022 Tutorials",
         "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
-        "Content Type": "Conferences",
-        "date": "12-16 March 2022",
+        "data": "12-16 March 2022",
         "authors": [],
         "DOI": "10.1109/VRW55335.2022.00006",
         "citation": 0,
@@ -1139,8 +1033,7 @@
     {
         "title": "The implementation and demonstration of secured EVCI backend systems based on the public key infrastructure",
         "conferenceTitle": "CIRED Porto Workshop 2022: E-mobility and power distribution systems",
-        "Content Type": "Conferences",
-        "date": "2-3 June 2022",
+        "data": "2-3 June 2022",
         "authors": [
             "Y. Lim",
             "S. Yu",
@@ -1155,8 +1048,7 @@
     {
         "title": "Surface Dynamics of Bi2Te3 Measured by High Energy Resolution Photoemission Spectroscopy using a Time- and Angle-resolved Time-of-Flight Analyzer",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Junji Yumoto"
         ],
@@ -1167,8 +1059,7 @@
     {
         "title": "Implemention of LQR controller for HVAC systems and investigating effect of gains on improving performance",
         "conferenceTitle": "2022 8th International Conference on Control, Instrumentation and Automation (ICCIA)",
-        "Content Type": "Conferences",
-        "date": "2-3 March 2022",
+        "data": "2-3 March 2022",
         "authors": [
             "A. Parsaei Kia",
             "P. Moradi"
@@ -1180,8 +1071,7 @@
     {
         "title": "Tutorial Session",
         "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
-        "Content Type": "Conferences",
-        "date": "7-9 March 2022",
+        "data": "7-9 March 2022",
         "authors": [],
         "DOI": "10.1109/LifeTech53646.2022.9754737",
         "citation": 0,
@@ -1190,8 +1080,7 @@
     {
         "title": "How-To Presentation: Consumer Electronics Thermal Design with Leakage Power",
         "conferenceTitle": "2022 38th Semiconductor Thermal Measurement, Modeling & Management Symposium (SEMI-THERM)",
-        "Content Type": "Conferences",
-        "date": "21-25 March 2022",
+        "data": "21-25 March 2022",
         "authors": [],
         "DOI": "",
         "citation": 0,
@@ -1200,8 +1089,7 @@
     {
         "title": "[Plenary keynotes & tutorials]",
         "conferenceTitle": "2022 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE)",
-        "Content Type": "Conferences",
-        "date": "2-5 Jan. 2022",
+        "data": "2-5 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/PESGRE52268.2022.9715885",
         "citation": 0,
@@ -1210,8 +1098,7 @@
     {
         "title": "DFB lasers: From Research to Development, and Further",
         "conferenceTitle": "2022 28th International Semiconductor Laser Conference (ISLC)",
-        "Content Type": "Conferences",
-        "date": "16-19 Oct. 2022",
+        "data": "16-19 Oct. 2022",
         "authors": [
             "Katsuyuki Utaka"
         ],
@@ -1222,8 +1109,7 @@
     {
         "title": "Spin-Transfer-Torque MRAM: The Next Revolution in Memory",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9770963",
         "citation": 0,
@@ -1232,8 +1118,7 @@
     {
         "title": "Adaptable AI-enabled Robots to Create a Vibrant Society [Plenary Talk]",
         "conferenceTitle": "2022 IEEE/SICE International Symposium on System Integration (SII)",
-        "Content Type": "Conferences",
-        "date": "9-12 Jan. 2022",
+        "data": "9-12 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/SII52469.2022.9708795",
         "citation": 0,
@@ -1242,8 +1127,7 @@
     {
         "title": "Keynote Address by Assoc. Prof. (Dr) Supavadee Aramvit: AI based Video Analytics",
         "conferenceTitle": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
-        "Content Type": "Conferences",
-        "date": "23-24 Feb. 2022",
+        "data": "23-24 Feb. 2022",
         "authors": [],
         "DOI": "10.1109/ICARC54489.2022.9754030",
         "citation": 0,
@@ -1252,8 +1136,7 @@
     {
         "title": "Generative Design and Experimental Validation of a Two-phase Heat Sink",
         "conferenceTitle": "2022 38th Semiconductor Thermal Measurement, Modeling & Management Symposium (SEMI-THERM)",
-        "Content Type": "Conferences",
-        "date": "21-25 March 2022",
+        "data": "21-25 March 2022",
         "authors": [
             "Lieven Vervecken",
             "Joris Coddé",
@@ -1267,8 +1150,7 @@
     {
         "title": "Author Index",
         "conferenceTitle": "2022 International Conference on Energy and Power Engineering (ICEPE)",
-        "Content Type": "Conferences",
-        "date": "24-26 Nov. 2022",
+        "data": "24-26 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/ICEPE56629.2022.10044906",
         "citation": 0,
@@ -1277,8 +1159,7 @@
     {
         "title": "Notice of Removal: 2D fluorescence of QDs-Co2+ assembly for the discrimination of nucleotides",
         "conferenceTitle": "2022 IEEE International Symposium on Olfaction and Electronic Nose (ISOEN)",
-        "Content Type": "Conferences",
-        "date": "29 May-1 June 2022",
+        "data": "29 May-1 June 2022",
         "authors": [
             "Klaudia Glowacz",
             "Marta Domanska",
@@ -1291,8 +1172,7 @@
     {
         "title": "Ferroelectric Field-effect Transistors as High-density, Ultra-fast, Embedded Non-volatile Memories",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9770965",
         "citation": 0,
@@ -1301,8 +1181,7 @@
     {
         "title": "Advanced Packaging for HPC Platform Level Integration",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9771016",
         "citation": 0,
@@ -1311,8 +1190,7 @@
     {
         "title": "Keynote Speakers [3 abstracts]",
         "conferenceTitle": "2022 International Conference on Computer Science and Software Engineering (CSASE)",
-        "Content Type": "Conferences",
-        "date": "15-17 March 2022",
+        "data": "15-17 March 2022",
         "authors": [],
         "DOI": "10.1109/CSASE51777.2022.9759591",
         "citation": 0,
@@ -1321,8 +1199,7 @@
     {
         "title": "Keynote Speakers",
         "conferenceTitle": "2022 IEEE International Conference on Consumer Electronics (ICCE)",
-        "Content Type": "Conferences",
-        "date": "7-9 Jan. 2022",
+        "data": "7-9 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/ICCE53296.2022.9730271",
         "citation": 0,
@@ -1331,8 +1208,7 @@
     {
         "title": "The Future of Optical Transport: Architectures and Technologies from an Operator Perspective",
         "conferenceTitle": "2022 Optical Fiber Communications Conference and Exhibition (OFC)",
-        "Content Type": "Conferences",
-        "date": "6-10 March 2022",
+        "data": "6-10 March 2022",
         "authors": [
             "Andrew Lord"
         ],
@@ -1343,8 +1219,7 @@
     {
         "title": "Keynote 2",
         "conferenceTitle": "2022 Austrochip Workshop on Microelectronics (Austrochip)",
-        "Content Type": "Conferences",
-        "date": "11-11 Oct. 2022",
+        "data": "11-11 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/Austrochip56145.2022.9940897",
         "citation": 0,
@@ -1353,8 +1228,7 @@
     {
         "title": "Keynote Address: GaN MHz Power Conversion: Faster, Smaller and Tougher",
         "conferenceTitle": "2022 29th International Workshop on Electric Drives: Advances in Power Electronics for Electric Drives (IWED)",
-        "Content Type": "Conferences",
-        "date": "26-29 Jan. 2022",
+        "data": "26-29 Jan. 2022",
         "authors": [
             "Miroslav Vasić"
         ],
@@ -1365,8 +1239,7 @@
     {
         "title": "Back",
         "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
-        "Content Type": "Conferences",
-        "date": "20-22 Dec. 2022",
+        "data": "20-22 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/IKT57960.2022.10039029",
         "citation": 0,
@@ -1375,8 +1248,7 @@
     {
         "title": "Copyright",
         "conferenceTitle": "2022 2nd International Conference on Technological Advancements in Computational Sciences (ICTACS)",
-        "Content Type": "Conferences",
-        "date": "10-12 Oct. 2022",
+        "data": "10-12 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/ICTACS56270.2022.9988743",
         "citation": 0,
@@ -1385,8 +1257,7 @@
     {
         "title": "Copyright and Reprint Permission",
         "conferenceTitle": "2022 3rd International Conference on Information Science, Parallel and Distributed Systems (ISPDS)",
-        "Content Type": "Conferences",
-        "date": "22-24 July 2022",
+        "data": "22-24 July 2022",
         "authors": [],
         "DOI": "10.1109/ISPDS56360.2022.9874244",
         "citation": 0,
@@ -1395,8 +1266,7 @@
     {
         "title": "Keynote Speech: 6G, revolution or continuity?",
         "conferenceTitle": "2022 Seventh International Conference On Mobile And Secure Services (MobiSecServ)",
-        "Content Type": "Conferences",
-        "date": "26-27 Feb. 2022",
+        "data": "26-27 Feb. 2022",
         "authors": [],
         "DOI": "10.1109/MobiSecServ50855.2022.9727215",
         "citation": 0,
@@ -1405,8 +1275,7 @@
     {
         "title": "Authors Index",
         "conferenceTitle": "2022 15th International Conference on Information Security and Cryptography (ISCTURKEY)",
-        "Content Type": "Conferences",
-        "date": "19-20 Oct. 2022",
+        "data": "19-20 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/ISCTURKEY56345.2022.9931842",
         "citation": 0,
@@ -1415,8 +1284,7 @@
     {
         "title": "Cloud Architecture Principles",
         "conferenceTitle": "2022 IEEE Zooming Innovation in Consumer Technologies Conference (ZINC)",
-        "Content Type": "Conferences",
-        "date": "25-26 May 2022",
+        "data": "25-26 May 2022",
         "authors": [
             "Oleg Tsal-Tsalko"
         ],
@@ -1427,8 +1295,7 @@
     {
         "title": "Optimized Dispensing of Thermal Interface Materials: Issues and Progress",
         "conferenceTitle": "2022 38th Semiconductor Thermal Measurement, Modeling & Management Symposium (SEMI-THERM)",
-        "Content Type": "Conferences",
-        "date": "21-25 March 2022",
+        "data": "21-25 March 2022",
         "authors": [],
         "DOI": "",
         "citation": 0,
@@ -1437,8 +1304,7 @@
     {
         "title": "Author Index",
         "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2022",
+        "data": "3-4 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/SMAP56125.2022.9942109",
         "citation": 0,
@@ -1447,8 +1313,7 @@
     {
         "title": "IEEE 2022 RAEE & CS Copyright",
         "conferenceTitle": "2022 International Conference on Recent Advances in Electrical Engineering & Computer Sciences (RAEE & CS)",
-        "Content Type": "Conferences",
-        "date": "18-20 Oct. 2022",
+        "data": "18-20 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/RAEECS56511.2022.9954513",
         "citation": 0,
@@ -1457,8 +1322,7 @@
     {
         "title": "15th International Conference on Information Security and Cryptology",
         "conferenceTitle": "2022 15th International Conference on Information Security and Cryptography (ISCTURKEY)",
-        "Content Type": "Conferences",
-        "date": "19-20 Oct. 2022",
+        "data": "19-20 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/ISCTURKEY56345.2022.9931805",
         "citation": 0,
@@ -1467,8 +1331,7 @@
     {
         "title": "2022 26th International Electrical Power Distribution Conference (EPDC)",
         "conferenceTitle": "2022 26th International Electrical Power Distribution Conference (EPDC)",
-        "Content Type": "Conferences",
-        "date": "11-12 May 2022",
+        "data": "11-12 May 2022",
         "authors": [],
         "DOI": "10.1109/EPDC56235.2022.9817346",
         "citation": 0,
@@ -1477,8 +1340,7 @@
     {
         "title": "Thirty-Seventh Annual IEEE Applied Power Electronics Conference and Exposition",
         "conferenceTitle": "2022 IEEE Applied Power Electronics Conference and Exposition (APEC)",
-        "Content Type": "Conferences",
-        "date": "20-24 March 2022",
+        "data": "20-24 March 2022",
         "authors": [],
         "DOI": "10.1109/APEC43599.2022.9773596",
         "citation": 0,
@@ -1487,8 +1349,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "2022 IEEE Delhi Section Conference (DELCON)",
-        "Content Type": "Conferences",
-        "date": "11-13 Feb. 2022",
+        "data": "11-13 Feb. 2022",
         "authors": [],
         "DOI": "10.1109/DELCON54057.2022.9753266",
         "citation": 0,
@@ -1497,8 +1358,7 @@
     {
         "title": "AIoT Security - from the Perspective of a Microcontroller",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Ming-Nan Cheng"
         ],
@@ -1509,8 +1369,7 @@
     {
         "title": "Keynote speakers [2 abstracts]",
         "conferenceTitle": "2022 30th Southern African Universities Power Engineering Conference (SAUPEC)",
-        "Content Type": "Conferences",
-        "date": "25-27 Jan. 2022",
+        "data": "25-27 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/SAUPEC55179.2022.9730737",
         "citation": 0,
@@ -1519,8 +1378,7 @@
     {
         "title": "Authors Index",
         "conferenceTitle": "2022 International Conference on System Science and Engineering (ICSSE)",
-        "Content Type": "Conferences",
-        "date": "26-29 May 2022",
+        "data": "26-29 May 2022",
         "authors": [],
         "DOI": "10.1109/ICSSE55923.2022.9947354",
         "citation": 0,
@@ -1529,8 +1387,7 @@
     {
         "title": "Birth of Single-Mode Diode Laser at Minimal Loss Band",
         "conferenceTitle": "2022 28th International Semiconductor Laser Conference (ISLC)",
-        "Content Type": "Conferences",
-        "date": "16-19 Oct. 2022",
+        "data": "16-19 Oct. 2022",
         "authors": [
             "Yasuharu Suematsu"
         ],
@@ -1541,8 +1398,7 @@
     {
         "title": "Scientific Committee",
         "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
-        "Content Type": "Conferences",
-        "date": "20-22 Dec. 2022",
+        "data": "20-22 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/IKT57960.2022.10039037",
         "citation": 0,
@@ -1551,8 +1407,7 @@
     {
         "title": "Student Heat Sink Design Challenge",
         "conferenceTitle": "2022 21st IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (iTherm)",
-        "Content Type": "Conferences",
-        "date": "31 May-3 June 2022",
+        "data": "31 May-3 June 2022",
         "authors": [],
         "DOI": "10.1109/iTherm54085.2022.9899570",
         "citation": 0,
@@ -1561,8 +1416,7 @@
     {
         "title": "The Balance of Thermodynamic Potentials in Solar Cells Investigated by Numerical Device Simulations",
         "conferenceTitle": "2022 IEEE 49th Photovoltaics Specialists Conference (PVSC)",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2022",
+        "data": "5-10 June 2022",
         "authors": [
             "Felix Komoll",
             "Uwe Rau"
@@ -1574,8 +1428,7 @@
     {
         "title": "SMAP 2022 Blank Page",
         "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2022",
+        "data": "3-4 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/SMAP56125.2022.9942050",
         "citation": 0,
@@ -1584,8 +1437,7 @@
     {
         "title": "Preface",
         "conferenceTitle": "2022 IEEE 5th International Conference on Image Processing Applications and Systems (IPAS)",
-        "Content Type": "Conferences",
-        "date": "5-7 Dec. 2022",
+        "data": "5-7 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/IPAS55744.2022.10052885",
         "citation": 0,
@@ -1594,8 +1446,7 @@
     {
         "title": "WS10 IEEE ICC 2022 Workshop on Scalable, Secure and Intelligent Blockchain for Future Networking and Communications",
         "conferenceTitle": "2022 IEEE International Conference on Communications Workshops (ICC Workshops)",
-        "Content Type": "Conferences",
-        "date": "16-20 May 2022",
+        "data": "16-20 May 2022",
         "authors": [],
         "DOI": "10.1109/ICCWorkshops53468.2022.9814546",
         "citation": 0,
@@ -1604,8 +1455,7 @@
     {
         "title": "Hardware Root-of-Trust Design Based on on-chip PUF for AIoT Applications",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Meng-Yi Wu"
         ],
@@ -1616,8 +1466,7 @@
     {
         "title": "Index",
         "conferenceTitle": "2022 International Conference on Computer and Applications (ICCA)",
-        "Content Type": "Conferences",
-        "date": "20-22 Dec. 2022",
+        "data": "20-22 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/ICCA56443.2022.10039609",
         "citation": 0,
@@ -1626,8 +1475,7 @@
     {
         "title": "ICSSE 2022 Cover Page",
         "conferenceTitle": "2022 International Conference on System Science and Engineering (ICSSE)",
-        "Content Type": "Conferences",
-        "date": "26-29 May 2022",
+        "data": "26-29 May 2022",
         "authors": [],
         "DOI": "10.1109/ICSSE55923.2022.9947356",
         "citation": 0,
@@ -1636,8 +1484,7 @@
     {
         "title": "Cover Page",
         "conferenceTitle": "2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)",
-        "Content Type": "Conferences",
-        "date": "12-15 Oct. 2022",
+        "data": "12-15 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/IEMCON56893.2022.9946588",
         "citation": 0,
@@ -1646,8 +1493,7 @@
     {
         "title": "Keyword Speaker 2",
         "conferenceTitle": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean Association of Automatic Control (ICA-ACCA)",
-        "Content Type": "Conferences",
-        "date": "24-28 Oct. 2022",
+        "data": "24-28 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/ICA-ACCA56767.2022.10006329",
         "citation": 0,
@@ -1656,8 +1502,7 @@
     {
         "title": "Development of a Novel Soiling Chamber for Testing Antisoiling Coatings",
         "conferenceTitle": "2022 IEEE 49th Photovoltaics Specialists Conference (PVSC)",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2022",
+        "data": "5-10 June 2022",
         "authors": [
             "Matthew T Muller"
         ],
@@ -1668,8 +1513,7 @@
     {
         "title": "Author Index",
         "conferenceTitle": "2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)",
-        "Content Type": "Conferences",
-        "date": "16-16 Oct. 2022",
+        "data": "16-16 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/LDAV57265.2022.9966390",
         "citation": 0,
@@ -1678,8 +1522,7 @@
     {
         "title": "Important Dates",
         "conferenceTitle": "2022 International Conference on Smart Applications, Communications and Networking (SmartNets)",
-        "Content Type": "Conferences",
-        "date": "29 Nov.-1 Dec. 2022",
+        "data": "29 Nov.-1 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/SmartNets55823.2022.9993987",
         "citation": 0,
@@ -1688,8 +1531,7 @@
     {
         "title": "Keynote Address: Benefits of SiC Semiconductor Devices for Traction Applications",
         "conferenceTitle": "2022 29th International Workshop on Electric Drives: Advances in Power Electronics for Electric Drives (IWED)",
-        "Content Type": "Conferences",
-        "date": "26-29 Jan. 2022",
+        "data": "26-29 Jan. 2022",
         "authors": [
             "Mikhail Chervinsky"
         ],
@@ -1700,8 +1542,7 @@
     {
         "title": "Image",
         "conferenceTitle": "2022 China Semiconductor Technology International Conference (CSTIC)",
-        "Content Type": "Conferences",
-        "date": "20-21 June 2022",
+        "data": "20-21 June 2022",
         "authors": [],
         "DOI": "10.1109/CSTIC55103.2022.9856927",
         "citation": 0,
@@ -1710,8 +1551,7 @@
     {
         "title": "Local Organizers",
         "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2022",
+        "data": "3-4 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/SMAP56125.2022.9941752",
         "citation": 0,
@@ -1720,8 +1560,7 @@
     {
         "title": "SMAP 2022 Blank Page",
         "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2022",
+        "data": "3-4 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/SMAP56125.2022.9942054",
         "citation": 0,
@@ -1730,8 +1569,7 @@
     {
         "title": "Design of ultra-high-speed Transmitters Beyond 100Gb/s in CMOS Technology",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Pen-Jui Peng"
         ],
@@ -1742,8 +1580,7 @@
     {
         "title": "SMAP 2022 Blank Page",
         "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2022",
+        "data": "3-4 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/SMAP56125.2022.9942093",
         "citation": 0,
@@ -1752,8 +1589,7 @@
     {
         "title": "Introduction of Noise-Shaping SAR ADCs",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Yun-Shiang Shu"
         ],
@@ -1764,8 +1600,7 @@
     {
         "title": "Short Course: High Speed/High Performance Data Converters: Metrics, Architectures, and Emerging Topics",
         "conferenceTitle": "2022 IEEE International Solid-State Circuits Conference (ISSCC)",
-        "Content Type": "Conferences",
-        "date": "20-26 Feb. 2022",
+        "data": "20-26 Feb. 2022",
         "authors": [],
         "DOI": "10.1109/ISSCC42614.2022.9731697",
         "citation": 0,
@@ -1774,8 +1609,7 @@
     {
         "title": "Proceedings 2022 Innovations in Intelligent Systems and Applications Conference (ASYU)",
         "conferenceTitle": "2022 Innovations in Intelligent Systems and Applications Conference (ASYU)",
-        "Content Type": "Conferences",
-        "date": "7-9 Sept. 2022",
+        "data": "7-9 Sept. 2022",
         "authors": [],
         "DOI": "10.1109/ASYU56188.2022.9925459",
         "citation": 0,
@@ -1784,8 +1618,7 @@
     {
         "title": "Welcome Message from the General Chair",
         "conferenceTitle": "2022 IEEE 20th Jubilee International Symposium on Intelligent Systems and Informatics (SISY)",
-        "Content Type": "Conferences",
-        "date": "15-17 Sept. 2022",
+        "data": "15-17 Sept. 2022",
         "authors": [],
         "DOI": "10.1109/SISY56759.2022.10036282",
         "citation": 0,
@@ -1794,8 +1627,7 @@
     {
         "title": "IEEE VR 2022 Keynote Speaker: Paul Debevec",
         "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)",
-        "Content Type": "Conferences",
-        "date": "12-16 March 2022",
+        "data": "12-16 March 2022",
         "authors": [],
         "DOI": "10.1109/VR51125.2022.00012",
         "citation": 0,
@@ -1804,8 +1636,7 @@
     {
         "title": "Technology Challenges to IC Industry for Next Decade",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "K. Lawrence Loh"
         ],
@@ -1816,8 +1647,7 @@
     {
         "title": "A Silicon Photonics Technology for 400 Gbit/s Applications",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Ming-Wei Lin"
         ],
@@ -1828,8 +1658,7 @@
     {
         "title": "Keynotes [3 abstracts]",
         "conferenceTitle": "2022 26th International Conference on Engineering of Complex Computer Systems (ICECCS)",
-        "Content Type": "Conferences",
-        "date": "26-30 March 2022",
+        "data": "26-30 March 2022",
         "authors": [],
         "DOI": "10.1109/ICECCS54210.2022.00008",
         "citation": 0,
@@ -1838,8 +1667,7 @@
     {
         "title": "pHRI and its Potential Applications in Our Life",
         "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
-        "Content Type": "Conferences",
-        "date": "7-9 March 2022",
+        "data": "7-9 March 2022",
         "authors": [],
         "DOI": "10.1109/LifeTech53646.2022.9754836",
         "citation": 0,
@@ -1848,8 +1676,7 @@
     {
         "title": "Quantum Information Processing with Semiconductor Technology: from Qubits to Integrated Quantum Circuits",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9770991",
         "citation": 0,
@@ -1858,8 +1685,7 @@
     {
         "title": "Semiconductors Run the World : Hot Chips 2022",
         "conferenceTitle": "2022 IEEE Hot Chips 34 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "21-23 Aug. 2022",
+        "data": "21-23 Aug. 2022",
         "authors": [
             "Pat Gelsinger"
         ],
@@ -1870,8 +1696,7 @@
     {
         "title": "Front Cover",
         "conferenceTitle": "2022 15th International Conference on Information Security and Cryptography (ISCTURKEY)",
-        "Content Type": "Conferences",
-        "date": "19-20 Oct. 2022",
+        "data": "19-20 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/ISCTURKEY56345.2022.9931789",
         "citation": 0,
@@ -1880,8 +1705,7 @@
     {
         "title": "Frontcover",
         "conferenceTitle": "2022 IEEE World AI IoT Congress (AIIoT)",
-        "Content Type": "Conferences",
-        "date": "6-9 June 2022",
+        "data": "6-9 June 2022",
         "authors": [],
         "DOI": "10.1109/AIIoT54504.2022.9817262",
         "citation": 0,
@@ -1890,8 +1714,7 @@
     {
         "title": "Optimising transient earth fault protection in peterson coil and ungrounded systems",
         "conferenceTitle": "16th International Conference on Developments in Power System Protection (DPSP 2022)",
-        "Content Type": "Conferences",
-        "date": "7-10 March 2022",
+        "data": "7-10 March 2022",
         "authors": [
             "A. Wixon",
             "P. Newman",
@@ -1904,8 +1727,7 @@
     {
         "title": "2022 IEEE Radar Conference (RadarConf22) Proceedings",
         "conferenceTitle": "2022 IEEE Radar Conference (RadarConf22)",
-        "Content Type": "Conferences",
-        "date": "21-25 March 2022",
+        "data": "21-25 March 2022",
         "authors": [],
         "DOI": "10.1109/RadarConf2248738.2022.9764199",
         "citation": 0,
@@ -1914,8 +1736,7 @@
     {
         "title": "Keynotes",
         "conferenceTitle": "2022 IEEE International Conference on Assured Autonomy (ICAA)",
-        "Content Type": "Conferences",
-        "date": "22-24 March 2022",
+        "data": "22-24 March 2022",
         "authors": [],
         "DOI": "10.1109/ICAA52185.2022.00008",
         "citation": 0,
@@ -1924,8 +1745,7 @@
     {
         "title": "Keynotes [2 abstracts]",
         "conferenceTitle": "2022 Open Source Modelling and Simulation of Energy Systems (OSMSES)",
-        "Content Type": "Conferences",
-        "date": "4-5 April 2022",
+        "data": "4-5 April 2022",
         "authors": [],
         "DOI": "10.1109/OSMSES54027.2022.9768993",
         "citation": 0,
@@ -1934,8 +1754,7 @@
     {
         "title": "Proceedings ICCA 2022",
         "conferenceTitle": "2022 International Conference on Computer and Applications (ICCA)",
-        "Content Type": "Conferences",
-        "date": "20-22 Dec. 2022",
+        "data": "20-22 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/ICCA56443.2022.10039556",
         "citation": 0,
@@ -1944,8 +1763,7 @@
     {
         "title": "Proceedings",
         "conferenceTitle": "2022 5th Information Technology for Education and Development (ITED)",
-        "Content Type": "Conferences",
-        "date": "1-3 Nov. 2022",
+        "data": "1-3 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/ITED56637.2022.10051558",
         "citation": 0,
@@ -1954,8 +1772,7 @@
     {
         "title": "Keynote: Innovations in Thermal Management of Electronic Devices",
         "conferenceTitle": "2022 38th Semiconductor Thermal Measurement, Modeling & Management Symposium (SEMI-THERM)",
-        "Content Type": "Conferences",
-        "date": "21-25 March 2022",
+        "data": "21-25 March 2022",
         "authors": [],
         "DOI": "",
         "citation": 0,
@@ -1964,8 +1781,7 @@
     {
         "title": "Keynote Talk 1: Efficient DNN Training at Scale: from Algorithms to Hardware",
         "conferenceTitle": "2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)",
-        "Content Type": "Conferences",
-        "date": "30 May-3 June 2022",
+        "data": "30 May-3 June 2022",
         "authors": [
             "Gennady Pekhimenko"
         ],
@@ -1976,8 +1792,7 @@
     {
         "title": "Bio-Chips for Fast Medial Tests Networks",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Chen-Yi Lee"
         ],
@@ -1988,8 +1803,7 @@
     {
         "title": "Future robotics - How to speed up the technology up-take among European SMEs [Plenary Talk]",
         "conferenceTitle": "2022 IEEE/SICE International Symposium on System Integration (SII)",
-        "Content Type": "Conferences",
-        "date": "9-12 Jan. 2022",
+        "data": "9-12 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/SII52469.2022.9708857",
         "citation": 0,
@@ -1998,8 +1812,7 @@
     {
         "title": "Keynote Lectures 3: Development in Wireless Communications and Radars for Relevant Applications in Indonesia",
         "conferenceTitle": "2022 International Seminar on Intelligent Technology and Its Applications (ISITIA)",
-        "Content Type": "Conferences",
-        "date": "20-21 July 2022",
+        "data": "20-21 July 2022",
         "authors": [],
         "DOI": "10.1109/ISITIA56226.2022.9855205",
         "citation": 0,
@@ -2008,8 +1821,7 @@
     {
         "title": "Sponsors",
         "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2022",
+        "data": "3-4 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/SMAP56125.2022.9942027",
         "citation": 0,
@@ -2018,8 +1830,7 @@
     {
         "title": "Abstract of Presentations on March 8th",
         "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
-        "Content Type": "Conferences",
-        "date": "7-9 March 2022",
+        "data": "7-9 March 2022",
         "authors": [],
         "DOI": "10.1109/LifeTech53646.2022.9754881",
         "citation": 0,
@@ -2028,8 +1839,7 @@
     {
         "title": "Challenges and Opportunities in Building Secure IoT Platforms",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [
             "Tung-Yi Chan"
         ],
@@ -2040,8 +1850,7 @@
     {
         "title": "Design and analysis of air pressure reducer for aviation",
         "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2022)",
-        "Content Type": "Conferences",
-        "date": "17-20 Aug. 2022",
+        "data": "17-20 Aug. 2022",
         "authors": [
             "D. Jiang",
             "X. Fang",
@@ -2056,8 +1865,7 @@
     {
         "title": "Abstract of Presentations on March 9th",
         "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
-        "Content Type": "Conferences",
-        "date": "7-9 March 2022",
+        "data": "7-9 March 2022",
         "authors": [],
         "DOI": "10.1109/LifeTech53646.2022.9754844",
         "citation": 0,
@@ -2066,8 +1874,7 @@
     {
         "title": "Technical Sponsors",
         "conferenceTitle": "2022 International Interdisciplinary Humanitarian Conference for Sustainability (IIHC)",
-        "Content Type": "Conferences",
-        "date": "18-19 Nov. 2022",
+        "data": "18-19 Nov. 2022",
         "authors": [],
         "DOI": "10.1109/IIHC55949.2022.10059680",
         "citation": 0,
@@ -2076,8 +1883,7 @@
     {
         "title": "CGRA4HPC 2022 Invited Speaker: Practical, scalable, and easy-to-use CGRA for HPC",
         "conferenceTitle": "2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)",
-        "Content Type": "Conferences",
-        "date": "30 May-3 June 2022",
+        "data": "30 May-3 June 2022",
         "authors": [
             "Ilan Tayari"
         ],
@@ -2088,8 +1894,7 @@
     {
         "title": "Latest SiC Technology and the Application Examples of Mitsubishi Electrics",
         "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "18-21 April 2022",
+        "data": "18-21 April 2022",
         "authors": [],
         "DOI": "10.1109/VLSI-TSA54299.2022.9770995",
         "citation": 0,
@@ -2098,8 +1903,7 @@
     {
         "title": "2022 8th International Conference on Nanomanufacturing & 4th AET Symposium on ACSM and Digital Manufacturing",
         "conferenceTitle": "2022 8th International Conference on Nanomanufacturing & 4th AET Symposium on ACSM and Digital Manufacturing (Nanoman-AETS)",
-        "Content Type": "Conferences",
-        "date": "30 Aug.-1 Sept. 2022",
+        "data": "30 Aug.-1 Sept. 2022",
         "authors": [],
         "DOI": "10.1109/Nanoman-AETS56035.2022.10119473",
         "citation": 0,
@@ -2108,8 +1912,7 @@
     {
         "title": "Proceedings of IEEE CENTCON 2022",
         "conferenceTitle": "2022 International Conference on Disruptive Technologies for Multi-Disciplinary Research and Applications (CENTCON)",
-        "Content Type": "Conferences",
-        "date": "22-24 Dec. 2022",
+        "data": "22-24 Dec. 2022",
         "authors": [],
         "DOI": "10.1109/CENTCON56610.2022.10051348",
         "citation": 0,
@@ -2118,8 +1921,7 @@
     {
         "title": "Back Cover",
         "conferenceTitle": "2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)",
-        "Content Type": "Conferences",
-        "date": "12-15 Oct. 2022",
+        "data": "12-15 Oct. 2022",
         "authors": [],
         "DOI": "10.1109/IEMCON56893.2022.9946607",
         "citation": 0,
@@ -2128,8 +1930,7 @@
     {
         "title": "INFOCOM 2022 Workshops",
         "conferenceTitle": "IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)",
-        "Content Type": "Conferences",
-        "date": "2-5 May 2022",
+        "data": "2-5 May 2022",
         "authors": [],
         "DOI": "10.1109/INFOCOMWKSHPS54753.2022.9798332",
         "citation": 0,
@@ -2138,8 +1939,7 @@
     {
         "title": "Session Plan",
         "conferenceTitle": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
-        "Content Type": "Conferences",
-        "date": "25-27 Jan. 2022",
+        "data": "25-27 Jan. 2022",
         "authors": [],
         "DOI": "10.1109/ICCCI54379.2022.9741069",
         "citation": 0,

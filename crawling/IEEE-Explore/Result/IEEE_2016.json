@@ -2,8 +2,7 @@
     {
         "title": "Continuous Fuzzing with libFuzzer and AddressSanitizer",
         "conferenceTitle": "2016 IEEE Cybersecurity Development (SecDev)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2016",
+        "data": "3-4 Nov. 2016",
         "authors": [
             "Kosta Serebryany"
         ],
@@ -14,8 +13,7 @@
     {
         "title": "Unsupervised Learning of Discriminative Attributes and Visual Representations",
         "conferenceTitle": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
-        "Content Type": "Conferences",
-        "date": "27-30 June 2016",
+        "data": "27-30 June 2016",
         "authors": [
             "Chen Huang",
             "Chen Change Loy",
@@ -28,8 +26,7 @@
     {
         "title": "Comparison of lead-acid and lithium ion batteries for stationary storage in off-grid energy systems",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "Hardik Keshan",
             "Jesse Thornburg",
@@ -42,8 +39,7 @@
     {
         "title": "A Method for Verifying Privacy-Type Properties: The Unbounded Case",
         "conferenceTitle": "2016 IEEE Symposium on Security and Privacy (SP)",
-        "Content Type": "Conferences",
-        "date": "22-26 May 2016",
+        "data": "22-26 May 2016",
         "authors": [
             "Lucca Hirschi",
             "David Baelde",
@@ -56,8 +52,7 @@
     {
         "title": "An improved bat algorithm with variable neighborhood search for global optimization",
         "conferenceTitle": "2016 IEEE Congress on Evolutionary Computation (CEC)",
-        "Content Type": "Conferences",
-        "date": "24-29 July 2016",
+        "data": "24-29 July 2016",
         "authors": [
             "Gai-Ge Wang",
             "Mei Lu",
@@ -70,8 +65,7 @@
     {
         "title": "Forearm movements classification of EMG signals using Hilbert Huang transform and artificial neural networks",
         "conferenceTitle": "2016 IEEE 7th Power India International Conference (PIICON)",
-        "Content Type": "Conferences",
-        "date": "25-27 Nov. 2016",
+        "data": "25-27 Nov. 2016",
         "authors": [
             "Amit Kukker",
             "Rajneesh Sharma",
@@ -84,8 +78,7 @@
     {
         "title": "A gateway based fog computing architecture for wireless sensors and actuator networks",
         "conferenceTitle": "2016 18th International Conference on Advanced Communication Technology (ICACT)",
-        "Content Type": "Conferences",
-        "date": "31 Jan.-3 Feb. 2016",
+        "data": "31 Jan.-3 Feb. 2016",
         "authors": [
             "Wangbong Lee",
             "Kidong Nam",
@@ -99,8 +92,7 @@
     {
         "title": "Design and implementation of a smart irrigation system for improved water-energy efficiency",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "Kizito Masaba",
             "Amini Ntakirutimana",
@@ -113,8 +105,7 @@
     {
         "title": "An energy aware distributed clustering routing protocol for energy harvesting wireless sensor networks",
         "conferenceTitle": "2016 IEEE/CIC International Conference on Communications in China (ICCC)",
-        "Content Type": "Conferences",
-        "date": "27-29 July 2016",
+        "data": "27-29 July 2016",
         "authors": [
             "Junling Li",
             "Danpu Liu"
@@ -126,8 +117,7 @@
     {
         "title": "Greenwash and green brand equity",
         "conferenceTitle": "2016 Portland International Conference on Management of Engineering and Technology (PICMET)",
-        "Content Type": "Conferences",
-        "date": "4-8 Sept. 2016",
+        "data": "4-8 Sept. 2016",
         "authors": [
             "Yu-Shan Chen",
             "Wen-Pin Tien",
@@ -141,8 +131,7 @@
     {
         "title": "E-Tourism: Mobile Dynamic Trip Planner",
         "conferenceTitle": "2016 IEEE International Symposium on Multimedia (ISM)",
-        "Content Type": "Conferences",
-        "date": "11-13 Dec. 2016",
+        "data": "11-13 Dec. 2016",
         "authors": [
             "Hamzah Alghamdi",
             "Shiai Zhu",
@@ -153,10 +142,22 @@
         "abstract": "In this paper, we propose an algorithm called the Balanced Orienteering Problem, to design trips for tourists. This algorithm, combined with a recommender system for tourism suggestions, create the infrastructure for the mobile application of the tourism guide we developed. A comparison study between some of the current algorithms and our proposed one were performed and the initial results illustrate that our proposed algorithm yields comparable results to existing system, yet it outperforms them in the average execution time."
     },
     {
+        "title": "Development of Rotating Pendulum stabilization algorithm and research of system properties with the controller",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "G.V. Sablina",
+            "I.V. Stazhilov",
+            "V.A. Zhmud"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806996",
+        "citation": 9,
+        "abstract": "In this paper the possibility of stabilization problem decision of Rotating Pendulum electromechanical system is discussed. The schematic representation of observable system is pictured and the nonlinear differential equations which describe this system behavior are presented. The transition to reductive model is realized and the research of its main qualitative properties is executed. Modeling the closed-loop system by a controller in Matlab Simulink program environment is spent."
+    },
+    {
         "title": "Direct data domain based adaptive beamforming for FDA-MIMO radar",
         "conferenceTitle": "2016 IEEE Statistical Signal Processing Workshop (SSP)",
-        "Content Type": "Conferences",
-        "date": "26-29 June 2016",
+        "data": "26-29 June 2016",
         "authors": [
             "Jingwei Xu",
             "Yanhong Xu",
@@ -169,8 +170,7 @@
     {
         "title": "Research overview of sub-synchronous oscillation in DFIG-BASED wind farms connected to grid",
         "conferenceTitle": "12th IET International Conference on AC and DC Power Transmission (ACDC 2016)",
-        "Content Type": "Conferences",
-        "date": "28-29 May 2016",
+        "data": "28-29 May 2016",
         "authors": [
             "M.L. Zhang",
             "H.T. Liu",
@@ -183,8 +183,7 @@
     {
         "title": "iTrace: Overcoming the Limitations of Short Code Examples in Eye Tracking Experiments",
         "conferenceTitle": "2016 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
-        "Content Type": "Conferences",
-        "date": "2-7 Oct. 2016",
+        "data": "2-7 Oct. 2016",
         "authors": [
             "Bonita Sharif",
             "Jonathan I. Maletic"
@@ -196,8 +195,7 @@
     {
         "title": "Evolution of cloud computing and related security concerns",
         "conferenceTitle": "2016 Symposium on Colossal Data Analysis and Networking (CDAN)",
-        "Content Type": "Conferences",
-        "date": "18-19 March 2016",
+        "data": "18-19 March 2016",
         "authors": [
             "Ayush Agarwal",
             "Siddhant Siddharth",
@@ -210,8 +208,7 @@
     {
         "title": "A Study on Association Algorithm of Smart Campus Mining Platform Based on Big Data",
         "conferenceTitle": "2016 International Conference on Intelligent Transportation, Big Data & Smart City (ICITBS)",
-        "Content Type": "Conferences",
-        "date": "17-18 Dec. 2016",
+        "data": "17-18 Dec. 2016",
         "authors": [
             "Hui Yan",
             "Haiyan Hu"
@@ -221,24 +218,9 @@
         "abstract": "In this thesis, jumping out of the traditional data statistic analysis method, the author constructs smart campus data platform and uses Apriori algorithm to make the association analysis on the learning and living data of students in campus in order to excavate their marks, basic information, attendance and states of internet use. In this way, the university can better guide the students to study based on the results of association analysis."
     },
     {
-        "title": "Development of Rotating Pendulum stabilization algorithm and research of system properties with the controller",
-        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
-        "authors": [
-            "G.V. Sablina",
-            "I.V. Stazhilov",
-            "V.A. Zhmud"
-        ],
-        "DOI": "10.1109/APEIE.2016.7806996",
-        "citation": 7,
-        "abstract": "In this paper the possibility of stabilization problem decision of Rotating Pendulum electromechanical system is discussed. The schematic representation of observable system is pictured and the nonlinear differential equations which describe this system behavior are presented. The transition to reductive model is realized and the research of its main qualitative properties is executed. Modeling the closed-loop system by a controller in Matlab Simulink program environment is spent."
-    },
-    {
         "title": "Effect of power converter on condition monitoring and fault detection for wind turbine",
         "conferenceTitle": "8th IET International Conference on Power Electronics, Machines and Drives (PEMD 2016)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2016",
+        "data": "19-21 April 2016",
         "authors": [
             "Raed Khalaf Ibrahim",
             "Simon Watson"
@@ -250,8 +232,7 @@
     {
         "title": "Performance evaluation and expected challenges of silicon carbide power MOSFETs for high voltage applications",
         "conferenceTitle": "2016 European Conference on Silicon Carbide & Related Materials (ECSCRM)",
-        "Content Type": "Conferences",
-        "date": "25-29 Sept. 2016",
+        "data": "25-29 Sept. 2016",
         "authors": [
             "Munaf Rahimo"
         ],
@@ -262,8 +243,7 @@
     {
         "title": "SDA: Software-defined accelerator for large-scale deep learning system",
         "conferenceTitle": "2016 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "25-27 April 2016",
+        "data": "25-27 April 2016",
         "authors": [
             "Jian Ouyang"
         ],
@@ -272,10 +252,22 @@
         "abstract": "Deep learning or deep neural network (DNN) has become an increasingly powerful and popular technique to significantly improve quality of many important Internet applications and services, such as speech recognition, image search, web search, and advertisements. The large-scale DNN with big training data and a diverse set of parameters is facing challenges on insufficient computation power on traditional computing platform. To address these challenges, industry and academia are looking at the approaches for large-scale DNN training and on-line services at algorithms level, system level, and architecture level. We, at Baidu, the largest Internet search company in China, have designed a production-quality PCIe-based FPGA accelerator for large-scale DNN systems. The FPGA DNN accelerator is able to enable efficient large-scale DNN training and on-line services in a low-cost and low-power manner environment."
     },
     {
+        "title": "Ontological-semantic text analysis and the question answering system using data from ontology",
+        "conferenceTitle": "2016 18th International Conference on Advanced Communication Technology (ICACT)",
+        "data": "31 Jan.-3 Feb. 2016",
+        "authors": [
+            "V. A. Kuznetsov",
+            "V. A. Mochalov",
+            "A. V. Mochalova"
+        ],
+        "DOI": "10.1109/ICACT.2016.7423588",
+        "citation": 6,
+        "abstract": "Today, with an avalanching increase in information, the task of developing the systems that allow user to quickly search desired information in large text volumes is becoming more and more urgent. An example of such system is the question answering one. In the work we describe an architecture of such system which work is based on utilizing data from an ontology. We propose an algorithm for automatic update of the ontology basing on use of an expert system and ontological rules for logical inference. We also describe an ontology with the structure based on object-oriented model and describe the functions that are used to update the ontology and extract data from it. We describe the way to update the ontology and to modify the stored data using the rules stored in the ontology. For writing ontological-semantic rules we use the Drools expert system that utilizes the PHREK algorithm for fast pattern matching. We analyze the issues of using Apache Spark system for distributed implementation of the algorithm."
+    },
+    {
         "title": "Efficient multicast authentication in internet of things",
         "conferenceTitle": "2016 International Conference on Information and Communication Technology Convergence (ICTC)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2016",
+        "data": "19-21 Oct. 2016",
         "authors": [
             "Omaimah Bamasag",
             "Kamal Youcef Toumi"
@@ -287,8 +279,7 @@
     {
         "title": "Grid impedance estimation for islanding detection and adaptive control of converters",
         "conferenceTitle": "8th IET International Conference on Power Electronics, Machines and Drives (PEMD 2016)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2016",
+        "data": "19-21 April 2016",
         "authors": [
             "Abdelhady Ghanem",
             "Mohamed Rashed",
@@ -303,8 +294,7 @@
     {
         "title": "Impact of short circuit ratio and phase locked loop parameters on the small-signal behaviour of a VSC-HVdc converter",
         "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
-        "Content Type": "Conferences",
-        "date": "17-21 July 2016",
+        "data": "17-21 July 2016",
         "authors": [
             "Jenny Z. Zhou"
         ],
@@ -315,8 +305,7 @@
     {
         "title": "PWM methods evolution",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "I.A. Bakhovtsev",
             "G.S. Zinovev"
@@ -326,24 +315,22 @@
         "abstract": "The article deals with the experience of the first descriptions of the methods of pulse width modulation in the power electronics from the start of its use to the present day. Development of PWM in the 20th century made mainly from publications of the USSR period and the development of multi-level PWM inverters made available by the publications of foreign authors. The analysis allowed at this process to identify four time stages each of which has its own characteristics."
     },
     {
-        "title": "Ontological-semantic text analysis and the question answering system using data from ontology",
-        "conferenceTitle": "2016 18th International Conference on Advanced Communication Technology (ICACT)",
-        "Content Type": "Conferences",
-        "date": "31 Jan.-3 Feb. 2016",
+        "title": "Remarks on coupled tanks apparatus as a control teaching tool",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
         "authors": [
-            "V. A. Kuznetsov",
-            "V. A. Mochalov",
-            "A. V. Mochalova"
+            "Rafal Grygiel",
+            "Robert Bieda",
+            "Marian Blachuta"
         ],
-        "DOI": "10.1109/ICACT.2016.7423588",
+        "DOI": "10.1109/APEIE.2016.7806976",
         "citation": 5,
-        "abstract": "Today, with an avalanching increase in information, the task of developing the systems that allow user to quickly search desired information in large text volumes is becoming more and more urgent. An example of such system is the question answering one. In the work we describe an architecture of such system which work is based on utilizing data from an ontology. We propose an algorithm for automatic update of the ontology basing on use of an expert system and ontological rules for logical inference. We also describe an ontology with the structure based on object-oriented model and describe the functions that are used to update the ontology and extract data from it. We describe the way to update the ontology and to modify the stored data using the rules stored in the ontology. For writing ontological-semantic rules we use the Drools expert system that utilizes the PHREK algorithm for fast pattern matching. We analyze the issues of using Apache Spark system for distributed implementation of the algorithm."
+        "abstract": "Dynamic properties of a coupled tanks apparatus are analyzed in the context of control teaching. The main issue detected is that although it is a second order system, its dynamics are very similar to that of a first order one. The paper highlights the problems which should be discussed when the coupled tanks experiment is used for control teaching."
     },
     {
         "title": "Simulation of electric field properties for air breakdown using COMSOL multiphysics",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "M. S. Kamarudin",
             "N. H. Radzi",
@@ -357,8 +344,7 @@
     {
         "title": "Protection coordination in multi-terminal HVDC networks for DC fault clearance",
         "conferenceTitle": "13th International Conference on Development in Power System Protection 2016 (DPSP)",
-        "Content Type": "Conferences",
-        "date": "7-10 March 2016",
+        "data": "7-10 March 2016",
         "authors": [
             "R. Gupta",
             "C D Barker",
@@ -373,8 +359,7 @@
     {
         "title": "Modeling of bio-inspired algorithms AntHocNet and BeeAdHoc for Flying Ad Hoc Networks (FANETS)",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "A.V. Leonov"
         ],
@@ -385,8 +370,7 @@
     {
         "title": "Mitigation of switch-Dos in software defined network",
         "conferenceTitle": "2016 International Conference on Information Communication and Embedded Systems (ICICES)",
-        "Content Type": "Conferences",
-        "date": "25-26 Feb. 2016",
+        "data": "25-26 Feb. 2016",
         "authors": [
             "S. Padmaja",
             "V. Vetriselvi"
@@ -396,24 +380,9 @@
         "abstract": "OpenFlow is the standard Software Defined Networking (SDN) protocol that is deployed in many network systems. Although SDN provides promising solutions to many security problems, it is also exposed to new attacks targeting the data plane, the control plane, or the links connecting the two planes. Race conditions exist between the data plane and control plane which increases the packet forwarding delay. This paves the way for switch DOS attack. The race condition is mitigated and switch DOS attack is provented. Evaluuation results show that the performance of the network is enhanced and significantly SDN is prevented from switch Dos attack."
     },
     {
-        "title": "Remarks on coupled tanks apparatus as a control teaching tool",
-        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
-        "authors": [
-            "Rafal Grygiel",
-            "Robert Bieda",
-            "Marian Blachuta"
-        ],
-        "DOI": "10.1109/APEIE.2016.7806976",
-        "citation": 4,
-        "abstract": "Dynamic properties of a coupled tanks apparatus are analyzed in the context of control teaching. The main issue detected is that although it is a second order system, its dynamics are very similar to that of a first order one. The paper highlights the problems which should be discussed when the coupled tanks experiment is used for control teaching."
-    },
-    {
         "title": "A Performance Case-Study on Memristive Computing-in-Memory Versus Von Neumann Architecture",
         "conferenceTitle": "2016 Data Compression Conference (DCC)",
-        "Content Type": "Conferences",
-        "date": "30 March-1 April 2016",
+        "data": "30 March-1 April 2016",
         "authors": [
             "Lauri Koskinen",
             "Jari Tissari",
@@ -427,10 +396,22 @@
         "abstract": "Summary form only given. The Von Neumann bottleneck originates from the low bandwidth between processing and memory. One paradigm that could ease the bottleneck is Computing-in-Memory (CiM), where the same elements store logic values and perform logical operations on them in the same physical location. Here, presented are implementations of the K-means clustering algorithm on a Memristive Logic Array-based CiM implementation and a Machine Learning specific Transport-Triggered Architecture (TTA) processor implemented on 28nm FDSOI technology and operating at 0.35V. While running K-means, the Memristive CiM is 5,7 times faster and uses 2,3 times less energy than the TTA processor. However, the average power consumption of the MLA is 2,5 times the power of the TTA."
     },
     {
+        "title": "Performance evaluation of multi-carrier PWM methods for solar cells powered multi-level inverters",
+        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
+        "data": "14-15 Nov. 2016",
+        "authors": [
+            "S. Hr. Aghay Kaboli",
+            "Jeyraj Selvaraj",
+            "N.A. Rahim"
+        ],
+        "DOI": "10.1049/cp.2016.1313",
+        "citation": 4,
+        "abstract": "The performance of several multicarrier PWM methods which have been used for solar powered multilevel inverters are evaluated in this paper. The nine commonly use multi carrier PWM methods are described to purpose of better understanding about the role of PWM methods in multilevel inverter and finally Variable Frequency Carrier Bands PWM (VFCB PWM) is simulated and applied in 9 level cascade topology. According to hinted description and analyses, the variety of the modulation can be applied to control of multilevel inverter topologies, while the PWM method can affect on the all aspects of output wave and switching devices therefore each PWM method provide the suitability for certain multilevel topology to reduce the switching losses, THD and EMI."
+    },
+    {
         "title": "Research on Multi-source Data Fusion Method Based on Bayesian Estimation",
         "conferenceTitle": "2016 9th International Symposium on Computational Intelligence and Design (ISCID)",
-        "Content Type": "Conferences",
-        "date": "10-11 Dec. 2016",
+        "data": "10-11 Dec. 2016",
         "authors": [
             "Tao Sun",
             "Min Yu"
@@ -440,10 +421,21 @@
         "abstract": "As a framework for data fusion, it is a source of information through a combination of appropriate methods to get a more satisfactory result, mainly detection, estimation of multiple sources of data, and the combination treatment. Because the measurement data from multiple sources always have some degree of uncertainty and inconsistency, using multi-source data fusion algorithm for the measurement data of multiple nodes for data fusion, using data redundancy to reduce this uncertainty, high reliability data. In this paper, the Bayesian estimation method is used to deal with multi-source data. It is proved by experiments that the algorithm is effective for the fusion of multi-source data and the inconsistency of the data."
     },
     {
+        "title": "A hierarchical electricity market structure for the smart grid paradigm",
+        "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
+        "data": "17-21 July 2016",
+        "authors": [
+            "Saeed Dehghan Manshadi",
+            "Mohammad Khodayar"
+        ],
+        "DOI": "10.1109/PESGM.2016.7741852",
+        "citation": 4,
+        "abstract": "Summary form only given. This paper proposed a hierarchical structure for the electricity market to facilitate the coordination of energy markets in distribution and transmission networks. The proposed market structure enables the integration of microgrids, which provide energy and ancillary services in distribution networks. In the proposed hierarchical structure, microgrids participate in the energy market at the distribution networks settled by the distribution network operator (DNO), and load aggregators (LAs) interact with microgrids and generation companies (GENCOs) to import/export energy to/from the distribution network electricity markets from/to the wholesale electricity market. The proposed approach addressed the synergy of energy markets by introducing dynamic game with complete information for GENCOs, microgrids, and LAs. The proposed hierarchical competition is composed of bi-level optimization problems in which the respective upper-level problems maximize the individual market participants' payoff, and the lower-level problems represent the market settlement accomplished by the DNO or the independent system operator. The bi-level problems are solved by developing sensitivity functions for market participants' payoff with respect to their bidding strategies. A case study is employed to illustrate the effectiveness of the proposed approach."
+    },
+    {
         "title": "3-D modeling of statistical dependencies using Copulas for Wireless Sensor Network",
         "conferenceTitle": "2016 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET)",
-        "Content Type": "Conferences",
-        "date": "23-25 March 2016",
+        "data": "23-25 March 2016",
         "authors": [
             "Sunayana Jadhav",
             "Rohin Daruwala"
@@ -453,10 +445,21 @@
         "abstract": "Modeling Statistically Dependent observations in a Wireless Sensor Network (WSN) environment is considered by Copula approach. Copulas model dependence of several random variables. Multivariate distribution function with arbitrary marginal distributions can be constructed using copulas. This paper extends the copula approach for three sensor design with reference to 3-D model. Also mathematical model is developed for evaluating their joint distribution functions with copulas."
     },
     {
+        "title": "Brain tumor detection based on watershed transformation",
+        "conferenceTitle": "2016 International Conference on Communication and Signal Processing (ICCSP)",
+        "data": "6-8 April 2016",
+        "authors": [
+            "K. Ramya",
+            "L. K. Joshila Grace"
+        ],
+        "DOI": "10.1109/ICCSP.2016.7754379",
+        "citation": 4,
+        "abstract": "In this paper, a watershed transformation technique is used with gradient magnitude with morphological open image and two important features is used as foreground and background to identify the tumor. First the Magnetic Resonance imaging (MRI) Scan of tumor is given as an input and it undergoes into watershed technique which is a topological boundary dividing into two adjacent brain cells. With the gradient magnitude for segmentation technique the rate of inclination or declination of a tumor will be identified. To identify the foreground of the tumor, open the image morphological, thus it acquires clear idea about how the particular tumor will be closer to normal cells. With the background marker, the invisible tumor will be identified using threshold value. In the segmentation output finally, the intensity, size, shape of the tumor in the brain is displayed and can be analysis."
+    },
+    {
         "title": "Optimal coordination and scheduling of demand response via monetary incentives",
         "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
-        "Content Type": "Conferences",
-        "date": "17-21 July 2016",
+        "data": "17-21 July 2016",
         "authors": [
             "Mushfiqur Sarker",
             "Miguel Ortega-Vazquez",
@@ -467,10 +470,22 @@
         "abstract": "Summary form only given. Without demand-side management, an increase in the number of electric vehicles (EVs) could result in overloads on distribution feeders. Aggregators could optimally manage the charging/discharging of the EVs, to not only maximize the consumers' welfare in response to real-time prices and accommodate their needs for transportation, but also to keep the distribution network within its operating limits. This paper proposes a decentralized framework in which the aggregator seeks to maximize its profits while the consumers minimize their costs in response to time-varying prices, and additional incentives provided to mitigate potential overloads in the distribution system. Test results show that a large penetration of EV penetration can then be managed without violating the capacity of the distribution network."
     },
     {
+        "title": "Model of transport SDN and MPLS-TP for T-SDN controller",
+        "conferenceTitle": "2016 18th International Conference on Advanced Communication Technology (ICACT)",
+        "data": "31 Jan.-3 Feb. 2016",
+        "authors": [
+            "Chang-Gyu Lim",
+            "Soo-Myung Pahk",
+            "Young-Hwa Kim"
+        ],
+        "DOI": "10.1109/ICACT.2016.7423455",
+        "citation": 4,
+        "abstract": "SDN (Software Defined Networking) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality. It has attracted attentions for even transport networks. For the management of transport network service: especially MPLS-TP(Multiprotocol Label Switching — Transport Profile), we use T-SDN(Transport SDN) controller which manages network services and resources between NBI(North Bound Interface) and SBI(South Bound Interface), based on OpenDaylight. This paper proposes the model of transport SDN and MPSL-TP. With using proposed model, T-SDN controller can make an intra/inter-domain network service easily."
+    },
+    {
         "title": "Multi-agent reinforcement learning",
         "conferenceTitle": "2016 13th Symposium on Neural Networks and Applications (NEUREL)",
-        "Content Type": "Conferences",
-        "date": "22-24 Nov. 2016",
+        "data": "22-24 Nov. 2016",
         "authors": [
             "Milos Stankovic"
         ],
@@ -481,8 +496,7 @@
     {
         "title": "A survey of empirical studies in software product maintainability prediction models",
         "conferenceTitle": "2016 11th International Conference on Intelligent Systems: Theories and Applications (SITA)",
-        "Content Type": "Conferences",
-        "date": "19-20 Oct. 2016",
+        "data": "19-20 Oct. 2016",
         "authors": [
             "Sara Elmidaoui",
             "Laila Cheikhi",
@@ -495,8 +509,7 @@
     {
         "title": "Localization in wireless sensor network for forest fire detection",
         "conferenceTitle": "2016 IEEE 3rd International Symposium on Telecommunication Technologies (ISTT)",
-        "Content Type": "Conferences",
-        "date": "28-30 Nov. 2016",
+        "data": "28-30 Nov. 2016",
         "authors": [
             "Nurul H. Noordin",
             "Heh W. Ney"
@@ -508,8 +521,7 @@
     {
         "title": "Performance analysis of python based openflow controllers",
         "conferenceTitle": "3rd International Conference on Electrical, Electronics, Engineering Trends, Communication, Optimization and Sciences (EEECOS 2016)",
-        "Content Type": "Conferences",
-        "date": "1-2 June 2016",
+        "data": "1-2 June 2016",
         "authors": [
             "Karamjeet Kaur",
             "Sukhveer Kaur",
@@ -522,8 +534,7 @@
     {
         "title": "Silicon quantum photonics",
         "conferenceTitle": "2016 18th International Conference on Transparent Optical Networks (ICTON)",
-        "Content Type": "Conferences",
-        "date": "10-14 July 2016",
+        "data": "10-14 July 2016",
         "authors": [
             "Damien Bonneau"
         ],
@@ -534,8 +545,7 @@
     {
         "title": "Polymer-based Integrated Tuneable Laser with On-Chip Wavelength Locker",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "David de Felipe",
             "Magnus Happach",
@@ -555,8 +565,7 @@
     {
         "title": "Improving Nepali OCR performance by using hybrid recognition approaches",
         "conferenceTitle": "2016 7th International Conference on Information, Intelligence, Systems & Applications (IISA)",
-        "Content Type": "Conferences",
-        "date": "13-15 July 2016",
+        "data": "13-15 July 2016",
         "authors": [
             "Nirajan Pant",
             "Bal Krishna Bal"
@@ -566,24 +575,9 @@
         "abstract": "One of the major reasons for the poor recognition rate of Devanagari OCR is the inadequate handling of dika, vowel modifiers and half forms of consonants, conjuncts, and touching characters during segmentation. We attempted to minimize the segmentation errors by reducing the segmentation tasks. In this work, we propose a hybrid OCR system for printed Nepali text using the Random Forest (RF) Machine Learning technique. It incorporates two different approaches of OCR - the Holistic and the Character level recognition. The system first tries to recognize word as a whole; if it is not confident about the word being recognized, then the character level recognition is performed. Histogram Oriented Gradients (HOG) descriptors are used to define a feature vector of a word or character. The recognition rates of approximately 78.87% and 94.80% are achieved for character level recognition method and the Hybrid method respectively."
     },
     {
-        "title": "Performance evaluation of multi-carrier PWM methods for solar cells powered multi-level inverters",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
-        "authors": [
-            "S. Hr. Aghay Kaboli",
-            "Jeyraj Selvaraj",
-            "N.A. Rahim"
-        ],
-        "DOI": "10.1049/cp.2016.1313",
-        "citation": 3,
-        "abstract": "The performance of several multicarrier PWM methods which have been used for solar powered multilevel inverters are evaluated in this paper. The nine commonly use multi carrier PWM methods are described to purpose of better understanding about the role of PWM methods in multilevel inverter and finally Variable Frequency Carrier Bands PWM (VFCB PWM) is simulated and applied in 9 level cascade topology. According to hinted description and analyses, the variety of the modulation can be applied to control of multilevel inverter topologies, while the PWM method can affect on the all aspects of output wave and switching devices therefore each PWM method provide the suitability for certain multilevel topology to reduce the switching losses, THD and EMI."
-    },
-    {
         "title": "Cluster based fault tolerance using genetic algorithm in wireless sensor network",
         "conferenceTitle": "2016 International Conference on Information Communication and Embedded Systems (ICICES)",
-        "Content Type": "Conferences",
-        "date": "25-26 Feb. 2016",
+        "data": "25-26 Feb. 2016",
         "authors": [
             "K. Rajeswari",
             "S. Neduncheliyan"
@@ -595,8 +589,7 @@
     {
         "title": "Calculation of power losses in the transformer substation",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "V.I. Biryulin",
             "A.N. Gorlov",
@@ -610,8 +603,7 @@
     {
         "title": "Keynote talk #1: 5G: From MIMO to massive MIMO",
         "conferenceTitle": "2016 3rd National Foundation for Science and Technology Development Conference on Information and Computer Science (NICS)",
-        "Content Type": "Conferences",
-        "date": "14-16 Sept. 2016",
+        "data": "14-16 Sept. 2016",
         "authors": [
             "Tho Le-Ngoc"
         ],
@@ -622,8 +614,7 @@
     {
         "title": "Joint examinations of optical pulse reflectometers of various kinds for early diagnostics and detection of “problem” sections in optical fibers",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "Igor V. Bogachkov",
             "Nicolay I. Gorlov"
@@ -633,36 +624,9 @@
         "abstract": "The results of experimental examinations of optical fibers sections which were exposed to longitudinal stretching loadings or changes of temperature, by means of usual (OTDR - optical time-domain reflectometer) and Brillouin optical pulse reflectometers (BOTDR - Brillouin optical time-domain reflectometer) are presented in this work. OTDR-graphs of “problem” sections of optical fibers and BOTDR-graphs (3D-reflectogrammas and optical fiber strain dependence) for heated and for cooled sections of optical fibers are shown. Results of tests confirmed advantage of the Brillouin reflectometry method for early diagnostics and detection of “problem” sections of fiber-optical communication lines."
     },
     {
-        "title": "A hierarchical electricity market structure for the smart grid paradigm",
-        "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
-        "Content Type": "Conferences",
-        "date": "17-21 July 2016",
-        "authors": [
-            "Saeed Dehghan Manshadi",
-            "Mohammad Khodayar"
-        ],
-        "DOI": "10.1109/PESGM.2016.7741852",
-        "citation": 3,
-        "abstract": "Summary form only given. This paper proposed a hierarchical structure for the electricity market to facilitate the coordination of energy markets in distribution and transmission networks. The proposed market structure enables the integration of microgrids, which provide energy and ancillary services in distribution networks. In the proposed hierarchical structure, microgrids participate in the energy market at the distribution networks settled by the distribution network operator (DNO), and load aggregators (LAs) interact with microgrids and generation companies (GENCOs) to import/export energy to/from the distribution network electricity markets from/to the wholesale electricity market. The proposed approach addressed the synergy of energy markets by introducing dynamic game with complete information for GENCOs, microgrids, and LAs. The proposed hierarchical competition is composed of bi-level optimization problems in which the respective upper-level problems maximize the individual market participants' payoff, and the lower-level problems represent the market settlement accomplished by the DNO or the independent system operator. The bi-level problems are solved by developing sensitivity functions for market participants' payoff with respect to their bidding strategies. A case study is employed to illustrate the effectiveness of the proposed approach."
-    },
-    {
-        "title": "Brain tumor detection based on watershed transformation",
-        "conferenceTitle": "2016 International Conference on Communication and Signal Processing (ICCSP)",
-        "Content Type": "Conferences",
-        "date": "6-8 April 2016",
-        "authors": [
-            "K. Ramya",
-            "L. K. Joshila Grace"
-        ],
-        "DOI": "10.1109/ICCSP.2016.7754379",
-        "citation": 3,
-        "abstract": "In this paper, a watershed transformation technique is used with gradient magnitude with morphological open image and two important features is used as foreground and background to identify the tumor. First the Magnetic Resonance imaging (MRI) Scan of tumor is given as an input and it undergoes into watershed technique which is a topological boundary dividing into two adjacent brain cells. With the gradient magnitude for segmentation technique the rate of inclination or declination of a tumor will be identified. To identify the foreground of the tumor, open the image morphological, thus it acquires clear idea about how the particular tumor will be closer to normal cells. With the background marker, the invisible tumor will be identified using threshold value. In the segmentation output finally, the intensity, size, shape of the tumor in the brain is displayed and can be analysis."
-    },
-    {
         "title": "Mathematical models of the system of measurement and analysis of temperature parameters of radio electronic modules",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "A.K. Grishko",
             "N.V. Goryachev",
@@ -676,8 +640,7 @@
     {
         "title": "An improved CFAR for life detection of UWB radar",
         "conferenceTitle": "2016 IEEE 11th Conference on Industrial Electronics and Applications (ICIEA)",
-        "Content Type": "Conferences",
-        "date": "5-7 June 2016",
+        "data": "5-7 June 2016",
         "authors": [
             "Hui Wang",
             "Guohua Wei",
@@ -691,8 +654,7 @@
     {
         "title": "A Study on Discovery Method of Hot Topics Based on Smart Campus Big Data Platform",
         "conferenceTitle": "2016 International Conference on Intelligent Transportation, Big Data & Smart City (ICITBS)",
-        "Content Type": "Conferences",
-        "date": "17-18 Dec. 2016",
+        "data": "17-18 Dec. 2016",
         "authors": [
             "Haiyan Hu",
             "Hui Yan"
@@ -704,8 +666,7 @@
     {
         "title": "Categorization based on sparse coding for SAR patch categorization",
         "conferenceTitle": "Proceedings of EUSAR 2016: 11th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "6-9 June 2016",
+        "data": "6-9 June 2016",
         "authors": [
             "Dusan Gleich",
             "Danijel Sipos"
@@ -717,8 +678,7 @@
     {
         "title": "Probe with absorbing materials",
         "conferenceTitle": "2016 IEEE International Symposium on Electromagnetic Compatibility (EMC)",
-        "Content Type": "Conferences",
-        "date": "25-29 July 2016",
+        "data": "25-29 July 2016",
         "authors": [
             "Shaowu Huang",
             "Xiaoning Ye",
@@ -731,8 +691,7 @@
     {
         "title": "Design and fabrication of 1400V 4H-SiC accumulation mode MOSFETs (ACCUFETs)",
         "conferenceTitle": "2016 European Conference on Silicon Carbide & Related Materials (ECSCRM)",
-        "Content Type": "Conferences",
-        "date": "25-29 Sept. 2016",
+        "data": "25-29 Sept. 2016",
         "authors": [
             "Woongje Sung",
             "B. J. Baliga"
@@ -744,8 +703,7 @@
     {
         "title": "Models and algorithms for Vehicle Routing Problem with Time Windows and other conditions",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "M.B. Guzairov",
             "N.I. Yusupova",
@@ -759,8 +717,7 @@
     {
         "title": "Development of wireless electricity transmission through resonant coupling",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "F. N. Ibrahim",
             "N. A. M. Jamail",
@@ -773,8 +730,7 @@
     {
         "title": "Overall Frequency Response Measurement of DSP-based Optical Transmitter Using Built-in Monitor Photodiode",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "Yangyang Fan",
             "Zhenning Tao",
@@ -793,8 +749,7 @@
     {
         "title": "Predicting and Visualizing Consumer Sentiments in Online Social Media",
         "conferenceTitle": "2016 IEEE 13th International Conference on e-Business Engineering (ICEBE)",
-        "Content Type": "Conferences",
-        "date": "4-6 Nov. 2016",
+        "data": "4-6 Nov. 2016",
         "authors": [
             "Liqiao Zhang",
             "Hui Yuan",
@@ -807,8 +762,7 @@
     {
         "title": "An energy management framework for smart factory based on context-awareness",
         "conferenceTitle": "2016 18th International Conference on Advanced Communication Technology (ICACT)",
-        "Content Type": "Conferences",
-        "date": "31 Jan.-3 Feb. 2016",
+        "data": "31 Jan.-3 Feb. 2016",
         "authors": [
             "Hyunjeong Lee",
             "Sangkeun Yoo",
@@ -821,8 +775,7 @@
     {
         "title": "The Neurorobotic Platform: A simulation environment for brain-inspired robotics",
         "conferenceTitle": "Proceedings of ISR 2016: 47st International Symposium on Robotics",
-        "Content Type": "Conferences",
-        "date": "21-22 June 2016",
+        "data": "21-22 June 2016",
         "authors": [
             "Florian Roehrbein",
             "Marc-Oliver Gewaltig",
@@ -836,10 +789,21 @@
         "abstract": "The aim of the neurorobotic platform of the Human Brain Project is to offer scientists and technology developers a software and hardware infrastructure that allows them to connect prevalidated brain models to detailed simulations of robot bodies and environments, and to use the resulting neurorobotic systems in insilico experiments and technology development. The first version of this platform has been released in March 2016 and is described in this contribution."
     },
     {
+        "title": "Empowering the formation of wireless sensor network based on nRF24",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "I.S. Kryukov",
+            "A.I. Maksimkin"
+        ],
+        "DOI": "10.1109/APEIE.2016.7807021",
+        "citation": 2,
+        "abstract": "The use of wireless sensor networks to monitoring the state of different large objects such as warehouses, manufacturing facilities, etc. is increasing. The most effective solution is the use of radio modules nRF24 in virtue of their low cost, low power consumption, addressing the problem of miniaturization of devices and data transmission capabilities at high speed. Enhanced Shock Burst technology is provided for addressing of the devices during the formation of wireless network. However, it allows to connect on the same frequency only a small number of devices, which complicates the creation of a large-scale multi-user network. In this regard, an algorithm that allows to enlarge capabilities of these transceivers and, consequently, capabilities of wireless sensor network was developed. This algorithm uses a special commands embedded in data packets of measurement information, and it allows to increase the network opportunities at the software level. Thus the algorithm does not exclude checking the integrity of packages on the physical level."
+    },
+    {
         "title": "Fault detection and diagnosis for sensor in an aero-engine system",
         "conferenceTitle": "2016 Chinese Control and Decision Conference (CCDC)",
-        "Content Type": "Conferences",
-        "date": "28-30 May 2016",
+        "data": "28-30 May 2016",
         "authors": [
             "Zhen Zhao",
             "Yi-gang Sun",
@@ -852,8 +816,7 @@
     {
         "title": "Avalanche Robustness of SiC MPS Diodes",
         "conferenceTitle": "PCIM Europe 2016; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "10-12 May 2016",
+        "data": "10-12 May 2016",
         "authors": [
             "Thomas Basler",
             "Roland Rupp",
@@ -868,8 +831,7 @@
     {
         "title": "Monotone operator approach to power flow solutions",
         "conferenceTitle": "2016 American Control Conference (ACC)",
-        "Content Type": "Conferences",
-        "date": "6-8 July 2016",
+        "data": "6-8 July 2016",
         "authors": [
             "Krishnamurthy Dvijotham",
             "Michael Chertkov",
@@ -882,8 +844,7 @@
     {
         "title": "High voltage characteristics of kraft paper insulator with effect of palm oil and coconut oil",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "N. A. M. Ishak",
             "N. A. M. Jamail",
@@ -896,8 +857,7 @@
     {
         "title": "Exploring OOV Words from Myanmar Text Using Maximal Substrings",
         "conferenceTitle": "2016 5th IIAI International Congress on Advanced Applied Informatics (IIAI-AAI)",
-        "Content Type": "Conferences",
-        "date": "10-14 July 2016",
+        "data": "10-14 July 2016",
         "authors": [
             "Yuzana Win",
             "Tomonari Masada"
@@ -909,8 +869,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "2016 XXI Symposium on Signal Processing, Images and Artificial Vision (STSIVA)",
-        "Content Type": "Conferences",
-        "date": "31 Aug.-2 Sept. 2016",
+        "data": "31 Aug.-2 Sept. 2016",
         "authors": [],
         "DOI": "10.1109/STSIVA.2016.7743307",
         "citation": 2,
@@ -919,8 +878,7 @@
     {
         "title": "Mixed CNT bundle interconnects for subthreshold circuits",
         "conferenceTitle": "2016 International Conference on Information Communication and Embedded Systems (ICICES)",
-        "Content Type": "Conferences",
-        "date": "25-26 Feb. 2016",
+        "data": "25-26 Feb. 2016",
         "authors": [
             "P. Uma Sathyakam",
             "Dipanjan Choudhary",
@@ -933,8 +891,7 @@
     {
         "title": "Emotion classification on image using Hidden Markov Models",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "N. A. Gorlova",
             "T. A. Gultyaeva"
@@ -946,8 +903,7 @@
     {
         "title": "Auditing Code for Security Vulnerabilities with CodeSonar",
         "conferenceTitle": "2016 IEEE Cybersecurity Development (SecDev)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2016",
+        "data": "3-4 Nov. 2016",
         "authors": [
             "David Vitek"
         ],
@@ -958,8 +914,7 @@
     {
         "title": "Dynamic voltage stability impact oflarge-scale photovoltaic system on electric power grids",
         "conferenceTitle": "5th IET International Conference on Renewable Power Generation (RPG) 2016",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2016",
+        "data": "21-23 Sept. 2016",
         "authors": [
             "Shady S. Refaat",
             "Haitham Abu-Rub",
@@ -972,8 +927,7 @@
     {
         "title": "Development of single phase active power filter for rapid control prototyping using low cost microcontroller",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "Shamsul Aizam Zulkifli",
             "Abdul Khairi Abd Rahman"
@@ -985,8 +939,7 @@
     {
         "title": "Novel Intelligent Technologies for Industrial Robot in Manufacturing - Architectures and Applications",
         "conferenceTitle": "Proceedings of ISR 2016: 47st International Symposium on Robotics",
-        "Content Type": "Conferences",
-        "date": "21-22 June 2016",
+        "data": "21-22 June 2016",
         "authors": [
             "Haruhisa Okuda",
             "Rintaro Haraguchi",
@@ -998,10 +951,21 @@
         "abstract": "Same as design concept of the Industrie 4.0, for meeting various consumer demands recent production systems have been switched from high volume production of single type to variant volume production of multiple types. To achieve highly productivity and quality of machinery line together with highly flexibility in human cell production, we developed intelligent robotic technologies. In this paper, we describe four intelligent technologies (a. Force control and inspection, b. 3-D vision sensor, c. Real-time collision avoidance d. Cooperative operation) which are used for adding flexible adaptability to variable situations in the production equipment. After that, in order to show the effectiveness of proposed technologies the prototype robotic cell production system and other different types of practical cell production systems are described."
     },
     {
+        "title": "Research of the satellite transponder beams interference impact",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "M.S. Krasikov",
+            "V. I. Nosov"
+        ],
+        "DOI": "10.1109/APEIE.2016.7807118",
+        "citation": 2,
+        "abstract": "In this article investigated the effect of the directivity pattern side-lobe level of digital concentric circular antenna array on frequency planning mobile satellite systems using the geostationary satellite transponder. The implementation of the optimal frequency-spatial planning carried out based on the method of coordination rings allows for electromagnetic compatibility by taking into account the multiplicity of interference from the side-lobe antenna multipath rays."
+    },
+    {
         "title": "Wideband planar slot antenna with a pair of E-shaped parasitic patches for wireless applications",
         "conferenceTitle": "2016 3rd International Conference on Signal Processing and Integrated Networks (SPIN)",
-        "Content Type": "Conferences",
-        "date": "11-12 Feb. 2016",
+        "data": "11-12 Feb. 2016",
         "authors": [
             "R. Devi",
             "Dipak Kr. Neog"
@@ -1013,8 +977,7 @@
     {
         "title": "Comparative performance of multilevel inverter for harmonic reduction based on Newton Raphson",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "Mohammed Rasheed",
             "Rosli Omar",
@@ -1027,8 +990,7 @@
     {
         "title": "A Machine Learning Approach for Dynamic Optical Channel Add/Drop Strategies that Minimize EDFA Power Excursions",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "Yishen Huang",
             "Wiem Samoud",
@@ -1046,8 +1008,7 @@
     {
         "title": "A distributed Gauss-Newton method for power system state estimation",
         "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
-        "Content Type": "Conferences",
-        "date": "17-21 July 2016",
+        "data": "17-21 July 2016",
         "authors": [
             "Ariana Minot",
             "Yue Lu",
@@ -1058,24 +1019,9 @@
         "abstract": "We propose a fully distributed Gauss-Newton algorithm for state estimation of electric power systems. At each Gauss-Newton iteration, matrix-splitting techniques are utilized to carry out the matrix inversion needed for calculating the Gauss-Newton step in a distributed fashion. In order to reduce the communication burden as well as increase robustness of state estimation, the proposed distributed scheme relies only on local information and a limited amount of information from neighboring areas. The matrix-splitting scheme is designed to calculate the Gauss Newton step with exponential convergence speed. The effectiveness of the method is demonstrated in various numerical experiments."
     },
     {
-        "title": "Model of transport SDN and MPLS-TP for T-SDN controller",
-        "conferenceTitle": "2016 18th International Conference on Advanced Communication Technology (ICACT)",
-        "Content Type": "Conferences",
-        "date": "31 Jan.-3 Feb. 2016",
-        "authors": [
-            "Chang-Gyu Lim",
-            "Soo-Myung Pahk",
-            "Young-Hwa Kim"
-        ],
-        "DOI": "10.1109/ICACT.2016.7423455",
-        "citation": 2,
-        "abstract": "SDN (Software Defined Networking) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality. It has attracted attentions for even transport networks. For the management of transport network service: especially MPLS-TP(Multiprotocol Label Switching — Transport Profile), we use T-SDN(Transport SDN) controller which manages network services and resources between NBI(North Bound Interface) and SBI(South Bound Interface), based on OpenDaylight. This paper proposes the model of transport SDN and MPSL-TP. With using proposed model, T-SDN controller can make an intra/inter-domain network service easily."
-    },
-    {
         "title": "Secure DevOps Process and Implementation",
         "conferenceTitle": "2016 IEEE Cybersecurity Development (SecDev)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2016",
+        "data": "3-4 Nov. 2016",
         "authors": [
             "Hasan Yasar",
             "Kiriakos Kontostathis"
@@ -1087,8 +1033,7 @@
     {
         "title": "An Improved Image Fusion Method of Infrared Image and SAR Image via Shearlet and Sparse Representation",
         "conferenceTitle": "2016 8th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)",
-        "Content Type": "Conferences",
-        "date": "27-28 Aug. 2016",
+        "data": "27-28 Aug. 2016",
         "authors": [
             "XiuXia Ji"
         ],
@@ -1099,8 +1044,7 @@
     {
         "title": "First demonstration of SDN-controlled Multi-Layer Restoration and its advantage over Optical Restoration",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "Itay Maor",
             "Ori Gerstel",
@@ -1120,8 +1064,7 @@
     {
         "title": "Control strategies in energy storage system for standalone power systems",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "Chok Eu-Tjin",
             "Chua Kein Huat",
@@ -1134,8 +1077,7 @@
     {
         "title": "Development of a double-octave (7-34 GHz), highly linear single balanced resistive HEMT mixer using device linearization techniques",
         "conferenceTitle": "2016 IEEE MTT-S International Microwave Symposium (IMS)",
-        "Content Type": "Conferences",
-        "date": "22-27 May 2016",
+        "data": "22-27 May 2016",
         "authors": [
             "Thuy Nguyen",
             "Anh-Vu Pham",
@@ -1149,8 +1091,7 @@
     {
         "title": "Educational final year DBIT project management portal",
         "conferenceTitle": "2016 International Conference on Signal Processing, Communication, Power and Embedded System (SCOPES)",
-        "Content Type": "Conferences",
-        "date": "3-5 Oct. 2016",
+        "data": "3-5 Oct. 2016",
         "authors": [
             "Sunantha Krishnan",
             "Viraj V. Harmalkar"
@@ -1162,8 +1103,7 @@
     {
         "title": "IOT: Intelligent Bio-tank system for smart home",
         "conferenceTitle": "2016 International Conference on Applied System Innovation (ICASI)",
-        "Content Type": "Conferences",
-        "date": "26-30 May 2016",
+        "data": "26-30 May 2016",
         "authors": [
             "Pohsiang Tsai"
         ],
@@ -1174,8 +1114,7 @@
     {
         "title": "Loss optimization of IEEE 12 bus radial distribution system integration with wind weibull distribution function using PSO technique",
         "conferenceTitle": "2016 IEEE 7th Power India International Conference (PIICON)",
-        "Content Type": "Conferences",
-        "date": "25-27 Nov. 2016",
+        "data": "25-27 Nov. 2016",
         "authors": [
             "Ajay Bansal",
             "Anil Kumar",
@@ -1188,8 +1127,7 @@
     {
         "title": "Circuit Breakers for Fault Current Interruption in HVDC Grids",
         "conferenceTitle": "VDE High Voltage Technology 2016; ETG-Symposium",
-        "Content Type": "Conferences",
-        "date": "14-16 Nov. 2016",
+        "data": "14-16 Nov. 2016",
         "authors": [
             "Tim Schultz",
             "Viktor Lenz",
@@ -1202,8 +1140,7 @@
     {
         "title": "Design of power system stabilizer by frequency response and state-space methods",
         "conferenceTitle": "2016 10th International Conference on Intelligent Systems and Control (ISCO)",
-        "Content Type": "Conferences",
-        "date": "7-8 Jan. 2016",
+        "data": "7-8 Jan. 2016",
         "authors": [
             "Sragdhara Bhattacharya",
             "Munji Lalitha Kumari",
@@ -1216,8 +1153,7 @@
     {
         "title": "An Improved Network Simulator for EV / V2G studies",
         "conferenceTitle": "CIRED Workshop 2016",
-        "Content Type": "Conferences",
-        "date": "14-15 June 2016",
+        "data": "14-15 June 2016",
         "authors": [
             "Stephen Broderick",
             "Andrew Cruden",
@@ -1231,8 +1167,7 @@
     {
         "title": "Bridge circuit with two extended properties",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "G.I. Peredelskiy"
         ],
@@ -1243,8 +1178,7 @@
     {
         "title": "Tutorial",
         "conferenceTitle": "2016 22nd Annual International Conference on Advanced Computing and Communication (ADCOM)",
-        "Content Type": "Conferences",
-        "date": "8-10 Sept. 2016",
+        "data": "8-10 Sept. 2016",
         "authors": [
             "Vineeth N. Balasubramanian"
         ],
@@ -1255,8 +1189,7 @@
     {
         "title": "Ultra-low power SoC for wearable & loT",
         "conferenceTitle": "2016 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "25-27 April 2016",
+        "data": "25-27 April 2016",
         "authors": [
             "Uming Ko"
         ],
@@ -1267,8 +1200,7 @@
     {
         "title": "Innovations in radio frequency breakdown detection methods",
         "conferenceTitle": "2016 IEEE International Conference on Plasma Science (ICOPS)",
-        "Content Type": "Conferences",
-        "date": "19-23 June 2016",
+        "data": "19-23 June 2016",
         "authors": [
             "James T. Farrell",
             "Thomas E. Musselman",
@@ -1281,8 +1213,7 @@
     {
         "title": "Choreography synthesis from tango dance",
         "conferenceTitle": "2016 24th Signal Processing and Communication Application Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "16-19 May 2016",
+        "data": "16-19 May 2016",
         "authors": [
             "Anıl Özen",
             "Sanem Sarıel",
@@ -1295,8 +1226,7 @@
     {
         "title": "Concepts for flexibility use — Interaction of market and grid on DSO level",
         "conferenceTitle": "CIRED Workshop 2016",
-        "Content Type": "Conferences",
-        "date": "14-15 June 2016",
+        "data": "14-15 June 2016",
         "authors": [
             "Simon Ohrem",
             "Daniel Telöken"
@@ -1308,8 +1238,7 @@
     {
         "title": "Network segregation in the digital substation",
         "conferenceTitle": "13th International Conference on Development in Power System Protection 2016 (DPSP)",
-        "Content Type": "Conferences",
-        "date": "7-10 March 2016",
+        "data": "7-10 March 2016",
         "authors": [
             "J Arnaud",
             "J W Wright"
@@ -1321,8 +1250,7 @@
     {
         "title": "Performance analysis of fuzzy logic controllers having Mamdani and Takagi-Sugeno inference methods by using unique software and toolbox",
         "conferenceTitle": "2016 National Conference on Electrical, Electronics and Biomedical Engineering (ELECO)",
-        "Content Type": "Conferences",
-        "date": "1-3 Dec. 2016",
+        "data": "1-3 Dec. 2016",
         "authors": [
             "Sinan Ünsal",
             "İbrahim Alişkan"
@@ -1334,8 +1262,7 @@
     {
         "title": "The method for calculating magnetic field induced by current coils",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "I.M. Stupakov",
             "M.E. Royak",
@@ -1348,8 +1275,7 @@
     {
         "title": "For your eyes only? UAV and DJI",
         "conferenceTitle": "2016 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "25-27 April 2016",
+        "data": "25-27 April 2016",
         "authors": [
             "Zexiang Li"
         ],
@@ -1360,8 +1286,7 @@
     {
         "title": "Multi-channel Product Recovery and Coordination Strategy in Dual Channel Supply Chain",
         "conferenceTitle": "2016 International Conference on Intelligent Transportation, Big Data & Smart City (ICITBS)",
-        "Content Type": "Conferences",
-        "date": "17-18 Dec. 2016",
+        "data": "17-18 Dec. 2016",
         "authors": [
             "Sun Mingqi",
             "Li Hongxing"
@@ -1373,8 +1298,7 @@
     {
         "title": "Foudnry technology and service",
         "conferenceTitle": "2016 International Symposium on VLSI Technology, Systems and Application (VLSI-TSA)",
-        "Content Type": "Conferences",
-        "date": "25-27 April 2016",
+        "data": "25-27 April 2016",
         "authors": [
             "Jerry C. Hu"
         ],
@@ -1385,8 +1309,7 @@
     {
         "title": "A preliminary model for operant conditioning of rats in a detection task",
         "conferenceTitle": "2016 20th National Biomedical Engineering Meeting (BIYOMUT)",
-        "Content Type": "Conferences",
-        "date": "3-5 Nov. 2016",
+        "data": "3-5 Nov. 2016",
         "authors": [
             "İsmail Devecioğlu",
             "Burak Güçlü"
@@ -1398,8 +1321,7 @@
     {
         "title": "A review on real time face tracking and identification for surveillance system",
         "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "Content Type": "Conferences",
-        "date": "25-27 Oct. 2016",
+        "data": "25-27 Oct. 2016",
         "authors": [
             "Sheshang Degadwala",
             "Sagar Pandya",
@@ -1414,8 +1336,7 @@
     {
         "title": "A Novel NoC-Architecture for Fault Tolerance and Power Saving",
         "conferenceTitle": "ARCS 2016; 29th International Conference on Architecture of Computing Systems",
-        "Content Type": "Conferences",
-        "date": "4-7 April 2016",
+        "data": "4-7 April 2016",
         "authors": [
             "Jan Heisswolf",
             "Stephanie Friederich",
@@ -1435,8 +1356,7 @@
     {
         "title": "Voltage stability monitoring by different ANN architectures using PCA based feature selection",
         "conferenceTitle": "2016 IEEE 7th Power India International Conference (PIICON)",
-        "Content Type": "Conferences",
-        "date": "25-27 Nov. 2016",
+        "data": "25-27 Nov. 2016",
         "authors": [
             "Harita Shah",
             "Kusum Verma"
@@ -1448,8 +1368,7 @@
     {
         "title": "Dissipativity-based fault detection for Markov jump systems with mode-dependent time-varying delays",
         "conferenceTitle": "2016 Chinese Control and Decision Conference (CCDC)",
-        "Content Type": "Conferences",
-        "date": "28-30 May 2016",
+        "data": "28-30 May 2016",
         "authors": [
             "Bo Liu",
             "Tao Liao"
@@ -1461,8 +1380,7 @@
     {
         "title": "The control unit of the recording equipment and transmitters for paintings of skin glow the acupuncture areas and compliance points",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "L.G. Navrotsky",
             "A.E. Kamardin"
@@ -1474,8 +1392,7 @@
     {
         "title": "Hardware-efficient Precise and Flexible Soft-demapping for Multi-Dimensional Complementary APSK Signals",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "Tsuyoshi Yoshida",
             "Keisuke Matsuda",
@@ -1495,8 +1412,7 @@
     {
         "title": "Band-stop filter based on magnetostatic surface waves, exciting by symmetric coplanar line",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "R.K. Babichev",
             "I.I. Natkhin",
@@ -1510,8 +1426,7 @@
     {
         "title": "On the popularity of GitHub software",
         "conferenceTitle": "2016 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
-        "Content Type": "Conferences",
-        "date": "2-7 Oct. 2016",
+        "data": "2-7 Oct. 2016",
         "authors": [
             "Hudson Borges"
         ],
@@ -1522,8 +1437,7 @@
     {
         "title": "Wind power prediction using enhanced parametric wind power curve modeling",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "Ehsan Taslimi Renani",
             "Mohamad Fathi Mohamad Elias",
@@ -1536,8 +1450,7 @@
     {
         "title": "Laboratory evaluation of a deterministic optimal power flow algorithm using power hardware in the loop",
         "conferenceTitle": "CIRED Workshop 2016",
-        "Content Type": "Conferences",
-        "date": "14-15 June 2016",
+        "data": "14-15 June 2016",
         "authors": [
             "Timur Sayfutdinov",
             "Pádraig Lyons",
@@ -1550,8 +1463,7 @@
     {
         "title": "Protection relay behaviour during power system restoration — A boundary based state classification approach",
         "conferenceTitle": "13th International Conference on Development in Power System Protection 2016 (DPSP)",
-        "Content Type": "Conferences",
-        "date": "7-10 March 2016",
+        "data": "7-10 March 2016",
         "authors": [
             "M. Jaworski",
             "J. Jaeger"
@@ -1563,8 +1475,7 @@
     {
         "title": "Making faults to protect power networks",
         "conferenceTitle": "CIRED Workshop 2016",
-        "Content Type": "Conferences",
-        "date": "14-15 June 2016",
+        "data": "14-15 June 2016",
         "authors": [
             "Iñaki Orue",
             "Ian Gilbert",
@@ -1578,8 +1489,7 @@
     {
         "title": "Assessing cement plant thermal performance",
         "conferenceTitle": "2016 IEEE-IAS/PCA Cement Industry Technical Conference",
-        "Content Type": "Conferences",
-        "date": "13-20 May 2016",
+        "data": "13-20 May 2016",
         "authors": [
             "John Kline",
             "Charles Kline"
@@ -1591,8 +1501,7 @@
     {
         "title": "Pretreatment of biomass for power generation",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "M. Hasanuzzaman",
             "F. M. Hossain",
@@ -1606,8 +1515,7 @@
     {
         "title": "10-Gbaud OOK / PAM4 Digital Mobile Fronthaul based on One-Bit / Two-bit Delta-Sigma Modulation Supporting Carrier Aggregation of 32 LTE-A Signals",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "Jing Wang",
             "Zhenhua Yu",
@@ -1626,8 +1534,7 @@
     {
         "title": "A study on information security attack based side-channel attacks",
         "conferenceTitle": "2016 18th International Conference on Advanced Communication Technology (ICACT)",
-        "Content Type": "Conferences",
-        "date": "31 Jan.-3 Feb. 2016",
+        "data": "31 Jan.-3 Feb. 2016",
         "authors": [
             "Young-Jin Kang",
             "Ndibanje Bruce",
@@ -1641,8 +1548,7 @@
     {
         "title": "Standards in aviation safety (AVS)",
         "conferenceTitle": "2016 Integrated Communications Navigation and Surveillance (ICNS)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2016",
+        "data": "19-21 April 2016",
         "authors": [
             "Lou Volchansky"
         ],
@@ -1653,8 +1559,7 @@
     {
         "title": "Software Vulnerabilities, Defects, and Design Flaws: A Technical Debt Perspective",
         "conferenceTitle": "2016 IEEE Cybersecurity Development (SecDev)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2016",
+        "data": "3-4 Nov. 2016",
         "authors": [
             "Robert L. Nord",
             "Ipek Ozkaya"
@@ -1666,8 +1571,7 @@
     {
         "title": "Modern spectrometer equipment in educational laboratory of department of physics",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "A.I. Andreev",
             "V.A. Nikitenko",
@@ -1680,8 +1584,7 @@
     {
         "title": "Full-Duplex Mobile Backhaul Transportation based on Fiber-Wireless Integrated FSO and MMW Hybrid Links with Adaptive Signal Processing to Combat",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "Junwen Zhang",
             "Jing Wang",
@@ -1698,8 +1601,7 @@
     {
         "title": "Large-scale millimeter-wave phased arrays for 5G systems",
         "conferenceTitle": "2016 IEEE 16th Topical Meeting on Silicon Monolithic Integrated Circuits in RF Systems (SiRF)",
-        "Content Type": "Conferences",
-        "date": "24-27 Jan. 2016",
+        "data": "24-27 Jan. 2016",
         "authors": [
             "G. Rebeiz"
         ],
@@ -1710,8 +1612,7 @@
     {
         "title": "190-Gb/s CPRI-Equivalent Rate Fiber-Wireless Mobile Fronthaul for Simultaneous Transmission of LTE-A and F-OFDM Signals",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "Pham Tien Dat",
             "Atsushi Kanno",
@@ -1725,8 +1626,7 @@
     {
         "title": "Power equipment state diagnosis based on multi-source monitoring data mining",
         "conferenceTitle": "12th IET International Conference on AC and DC Power Transmission (ACDC 2016)",
-        "Content Type": "Conferences",
-        "date": "28-29 May 2016",
+        "data": "28-29 May 2016",
         "authors": [
             "Zheng Yiming",
             "Sun Xiang"
@@ -1738,8 +1638,7 @@
     {
         "title": "Evolutionary Algorithm for Segmentation of Medical Images by Region Rrowing",
         "conferenceTitle": "2016 13th International Conference on Computer Graphics, Imaging and Visualization (CGiV)",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2016",
+        "data": "29 March-1 April 2016",
         "authors": [
             "Ahmad EL Allaoui",
             "Mbarek Nasri",
@@ -1753,8 +1652,7 @@
     {
         "title": "IGBT Online-Temperature Monitoring using Turn-Off Delay as a Temperature Sensitive Electrical Parameter",
         "conferenceTitle": "CIPS 2016; 9th International Conference on Integrated Power Electronics Systems",
-        "Content Type": "Conferences",
-        "date": "8-10 March 2016",
+        "data": "8-10 March 2016",
         "authors": [
             "Christian Felgemacher",
             "Benjamin Dombert",
@@ -1766,23 +1664,9 @@
         "abstract": "Condition monitoring and remaining life prognosis are valuable techniques to detect situations that may lead to failures before equipment fails and allow maintenance to be scheduled before downtime occurs. In the case of power electronic converters the monitoring of the temperatures of the semiconductor chips within the power electronic modules is desirable for condition monitoring. An implementation of IGBT Online-Temperature sensing using the turn-off delay as a temperature sensitive electrical parameter is presented in this paper. Only few additional components are required for this solution. Experimental results show that with the implemented measuring circuitry the device temperature can be measured during switching operation of the converter."
     },
     {
-        "title": "Empowering the formation of wireless sensor network based on nRF24",
-        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
-        "authors": [
-            "I.S. Kryukov",
-            "A.I. Maksimkin"
-        ],
-        "DOI": "10.1109/APEIE.2016.7807021",
-        "citation": 1,
-        "abstract": "The use of wireless sensor networks to monitoring the state of different large objects such as warehouses, manufacturing facilities, etc. is increasing. The most effective solution is the use of radio modules nRF24 in virtue of their low cost, low power consumption, addressing the problem of miniaturization of devices and data transmission capabilities at high speed. Enhanced Shock Burst technology is provided for addressing of the devices during the formation of wireless network. However, it allows to connect on the same frequency only a small number of devices, which complicates the creation of a large-scale multi-user network. In this regard, an algorithm that allows to enlarge capabilities of these transceivers and, consequently, capabilities of wireless sensor network was developed. This algorithm uses a special commands embedded in data packets of measurement information, and it allows to increase the network opportunities at the software level. Thus the algorithm does not exclude checking the integrity of packages on the physical level."
-    },
-    {
         "title": "Research on distributed emergency resource scheduling system based on Internet of Things",
         "conferenceTitle": "2016 Chinese Control and Decision Conference (CCDC)",
-        "Content Type": "Conferences",
-        "date": "28-30 May 2016",
+        "data": "28-30 May 2016",
         "authors": [
             "Lei Wang"
         ],
@@ -1793,8 +1677,7 @@
     {
         "title": "Session 1: HEVC in embedded systems",
         "conferenceTitle": "2016 Conference on Design and Architectures for Signal and Image Processing (DASIP)",
-        "Content Type": "Conferences",
-        "date": "12-14 Oct. 2016",
+        "data": "12-14 Oct. 2016",
         "authors": [
             "Eduardo Juarez"
         ],
@@ -1805,8 +1688,7 @@
     {
         "title": "Keynotes",
         "conferenceTitle": "2016 16th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)",
-        "Content Type": "Conferences",
-        "date": "16-19 May 2016",
+        "data": "16-19 May 2016",
         "authors": [
             "Sartaj Sahni",
             "Walfredo Cirne",
@@ -1819,8 +1701,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
-        "Content Type": "Conferences",
-        "date": "17-21 July 2016",
+        "data": "17-21 July 2016",
         "authors": [],
         "DOI": "10.1109/PESGM.2016.7741584",
         "citation": 1,
@@ -1829,8 +1710,7 @@
     {
         "title": "ICNS - interactive workshop \"How drones are changing the world we live in\"",
         "conferenceTitle": "2016 Integrated Communications Navigation and Surveillance (ICNS)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2016",
+        "data": "19-21 April 2016",
         "authors": [
             "Uwe-Carsten Fiebig"
         ],
@@ -1841,8 +1721,7 @@
     {
         "title": "Modular training complexes for technical disciplines",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "Arseny V. Morozov",
             "Alexei A. Shevchenko",
@@ -1856,8 +1735,7 @@
     {
         "title": "Technical profiles for mexican internet user to improve informatics security",
         "conferenceTitle": "2016 8th Euro American Conference on Telematics and Information Systems (EATIS)",
-        "Content Type": "Conferences",
-        "date": "28-29 April 2016",
+        "data": "28-29 April 2016",
         "authors": [
             "F. D. Felipe",
             "F. Ch. Noya",
@@ -1870,8 +1748,7 @@
     {
         "title": "Too big to fail?",
         "conferenceTitle": "2016 IEEE-IAS/PCA Cement Industry Technical Conference",
-        "Content Type": "Conferences",
-        "date": "13-20 May 2016",
+        "data": "13-20 May 2016",
         "authors": [
             "Gerard Lynskey"
         ],
@@ -1882,8 +1759,7 @@
     {
         "title": "Training hidden Markov models on incomplete sequences",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "Alexander A. Popov",
             "Tatyana A. Gultyaeva",
@@ -1896,8 +1772,7 @@
     {
         "title": "The present and future of Moore's law",
         "conferenceTitle": "2016 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "25-27 April 2016",
+        "data": "25-27 April 2016",
         "authors": [
             "Peng Bai"
         ],
@@ -1908,8 +1783,7 @@
     {
         "title": "A comparative study of optical fiber sensors for refractive index measurement",
         "conferenceTitle": "2016 National Conference on Electrical, Electronics and Biomedical Engineering (ELECO)",
-        "Content Type": "Conferences",
-        "date": "1-3 Dec. 2016",
+        "data": "1-3 Dec. 2016",
         "authors": [
             "Cansu İde",
             "Kivilcim Yüksel"
@@ -1921,8 +1795,7 @@
     {
         "title": "Design and construction of LVDC distribution site",
         "conferenceTitle": "CIRED Workshop 2016",
-        "Content Type": "Conferences",
-        "date": "14-15 June 2016",
+        "data": "14-15 June 2016",
         "authors": [
             "Youngpyo Cho",
             "Jaehan Kim",
@@ -1936,8 +1809,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "2016 IEEE Colombian Conference on Communications and Computing (COLCOM)",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2016",
+        "data": "27-29 April 2016",
         "authors": [],
         "DOI": "10.1109/ColComCon.2016.7516402",
         "citation": 1,
@@ -1946,8 +1818,7 @@
     {
         "title": "Experience in the application of modular teaching complexes in working with deaf students",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "V.V. Khristoforov"
         ],
@@ -1958,8 +1829,7 @@
     {
         "title": "Study of Image Enhancement Algorithms in Coal Mine",
         "conferenceTitle": "2016 8th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)",
-        "Content Type": "Conferences",
-        "date": "27-28 Aug. 2016",
+        "data": "27-28 Aug. 2016",
         "authors": [
             "Chai Yu",
             "Gao Rui",
@@ -1972,8 +1842,7 @@
     {
         "title": "Underground low voltage loop system of KEPCO",
         "conferenceTitle": "CIRED Workshop 2016",
-        "Content Type": "Conferences",
-        "date": "14-15 June 2016",
+        "data": "14-15 June 2016",
         "authors": [
             "Young-Soo Jeon",
             "Dong-Yeol Shin",
@@ -1989,8 +1858,7 @@
     {
         "title": "Application of AHP in location selection of wave power plant",
         "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "Content Type": "Conferences",
-        "date": "25-27 Oct. 2016",
+        "data": "25-27 Oct. 2016",
         "authors": [
             "Tilottama Chakraborty",
             "Mrinmoy Majumder"
@@ -2002,8 +1870,7 @@
     {
         "title": "A particle filtering approach for noisy seismic events tracking",
         "conferenceTitle": "2016 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)",
-        "Content Type": "Conferences",
-        "date": "24-27 Oct. 2016",
+        "data": "24-27 Oct. 2016",
         "authors": [
             "Nattapol Aunsri"
         ],
@@ -2014,8 +1881,7 @@
     {
         "title": "Recent Progress on 25G EPON and beyond",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "Vincent Houtsma",
             "Doutje van Veen",
@@ -2028,8 +1894,7 @@
     {
         "title": "Polarization holographic gratings in liquid crystal composites doped nanoparticles",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "G.M. Zharkova",
             "S.A. Streltsov"
@@ -2041,8 +1906,7 @@
     {
         "title": "Coupled vector FEM and scalar BEM formulation for eddy current problems",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "M.E. Royak",
             "I.M. Stupakov",
@@ -2055,8 +1919,7 @@
     {
         "title": "Hybrid Electric Car Fuel Consumption Optimization Research Based on Improved Genetic Algorithm",
         "conferenceTitle": "2016 International Conference on Intelligent Transportation, Big Data & Smart City (ICITBS)",
-        "Content Type": "Conferences",
-        "date": "17-18 Dec. 2016",
+        "data": "17-18 Dec. 2016",
         "authors": [
             "Yuanpeng Zhu"
         ],
@@ -2067,8 +1930,7 @@
     {
         "title": "Crosstalk-aware Virtual Optical Network Embedding (VONE) in Spatial Division Multiplexing Enabled Elastic Optical Networks with Multi-core Fibers",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "Ruijie Zhu",
             "Yongli Zhao",
@@ -2087,8 +1949,7 @@
     {
         "title": "Fast intra-beam switching scheme using common contention channels in millimeter-wave based cellular systems",
         "conferenceTitle": "2016 18th International Conference on Advanced Communication Technology (ICACT)",
-        "Content Type": "Conferences",
-        "date": "31 Jan.-3 Feb. 2016",
+        "data": "31 Jan.-3 Feb. 2016",
         "authors": [
             "Nak Woon Sung",
             "Yong Seouk Choi"
@@ -2098,10 +1959,21 @@
         "abstract": "Millimeter wave (mmWave) cellular system has recently been introduced as an attractive approach for 5G mobile broadband communications. In the mmWave beamforming cellular systems, the user equipment (UE) can experience frequent service disruptions due to frequent switching among a plurality of beams if the UE follows the network controlled LTE handover procedures. In this paper, we shows how the mmWave beamforming cellular system can operate and which kind of new handovers UEs can experience. And we propose UE controlled beam switching mechanism based on contention based uplink channels. In this mechanism, UEs switch the serving beam to the target beam without random access delay using the pre-acquired contention based channels."
     },
     {
+        "title": "The analysis of distribute inter-cell interference control efficiency algorithms of in LTE",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "V. G. Drozdova",
+            "R. V. Akhpashev"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806880",
+        "citation": 1,
+        "abstract": "This article covers some key approaches to solve the problem of reducing inter-cell interference in wireless networks, such as LTE, caused by lack of frequency reuse principle. On the basis of the author's simulation model it was done a comparative analysis of the existing solution in terms of achievable throughput and the probability of blocking the traffic channel PUSCH and PDSCH. The simulation results demonstrate the inefficient usage of time domain resources at the cell edges between subscribers served by different stations, as part of any inter-cell interference coordination procedures."
+    },
+    {
         "title": "Intelligence Extraction Method of Domain Terms for Chinese Web Documents Based on Hierarchical Combination Strategy",
         "conferenceTitle": "2016 International Conference on Intelligent Transportation, Big Data & Smart City (ICITBS)",
-        "Content Type": "Conferences",
-        "date": "17-18 Dec. 2016",
+        "data": "17-18 Dec. 2016",
         "authors": [
             "Yangyi Dong",
             "Weihua Li",
@@ -2114,8 +1986,7 @@
     {
         "title": "Research of electromagnetic forces electromagnetic actuator at fluctuations of anchor",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "V.A. Kondratyev",
             "A.L. Solovyev"
@@ -2127,8 +1998,7 @@
     {
         "title": "A computational modelling of wind turbine mechanical power and its improve factor determination",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "Matthew Y. W. Teow",
             "H. K. Chiu",
@@ -2141,8 +2011,7 @@
     {
         "title": "Geographically weighted regression: Fitting to spatial location",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "V.S. Timofeev",
             "V.Yu. Shchekoldin",
@@ -2155,8 +2024,7 @@
     {
         "title": "Research on Bi-satellite Ka-band FMCW SAR Design and Imaging",
         "conferenceTitle": "Proceedings of EUSAR 2016: 11th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "6-9 June 2016",
+        "data": "6-9 June 2016",
         "authors": [
             "Hui Wang",
             "Man Jiang",
@@ -2169,8 +2037,7 @@
     {
         "title": "Experimental Verification of High-ResolutionWide-Swath Moving Target Indication",
         "conferenceTitle": "Proceedings of EUSAR 2016: 11th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "6-9 June 2016",
+        "data": "6-9 June 2016",
         "authors": [
             "Stefan V. Baumgartner",
             "Gerhard Krieger"
@@ -2180,10 +2047,21 @@
         "abstract": "In [1, 2] we have introduced a set of novel low pulse repetition frequency (PRF) algorithms, which allow for simultaneous high-resolution wide-swath (HRWS) SAR imaging and moving target indication (MTI) without the need of changing the system operation mode and the pulse repetition frequency (PRF). The core of these novel HRWS-MTI algorithms is the so called Matched Reconstruction Filter Bank (MRFB). By applying the MRFB, low PRF moving target signals can be reconstructed and refocused. Additionally, accurate estimates of the target motion parameters are obtained. In this paper the experimental verification of the MRFB principle is presented for the first time. For the verification real multi-channel airborne data acquired with DLR's F-SAR sensor over a maritime scenario are used."
     },
     {
+        "title": "The numerical criterion of the compementary pair of bipolar transistors",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "S. V. Kalinin",
+            "M. O. Hrapov"
+        ],
+        "DOI": "10.1109/APEIE.2016.7807080",
+        "citation": 1,
+        "abstract": "In this work, we introduced a new numeric, multi-parameter criterion of the complementary pair of bipolar transistors. Graphical form of the criterion is simple and clear. This criterion applies to all modern structures vertical bipolar transistors: classical planar-epitaxial, self - alignment with polysilicon layers, heterojunction bipolar transistors with Si-Ge epitaxial base."
+    },
+    {
         "title": "An effective RNTI allocation scheme for user equipment in LTE systems",
         "conferenceTitle": "2016 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET)",
-        "Content Type": "Conferences",
-        "date": "23-25 March 2016",
+        "data": "23-25 March 2016",
         "authors": [
             "Ramesh C",
             "Abdul Jafar",
@@ -2196,8 +2074,7 @@
     {
         "title": "Artificial vs. natural neural networks",
         "conferenceTitle": "2016 13th Symposium on Neural Networks and Applications (NEUREL)",
-        "Content Type": "Conferences",
-        "date": "22-24 Nov. 2016",
+        "data": "22-24 Nov. 2016",
         "authors": [
             "Dan L. Lacrama",
             "Loredana Ileana Viscu",
@@ -2210,8 +2087,7 @@
     {
         "title": "Keynote speech",
         "conferenceTitle": "2016 Second International Conference on Mobile and Secure Services (MobiSecServ)",
-        "Content Type": "Conferences",
-        "date": "26-27 Feb. 2016",
+        "data": "26-27 Feb. 2016",
         "authors": [],
         "DOI": "10.1109/MOBISECSERV.2016.7440221",
         "citation": 1,
@@ -2220,8 +2096,7 @@
     {
         "title": "UHF PD Measurements on Power Transformers - Sensitivity Investigations",
         "conferenceTitle": "VDE High Voltage Technology 2016; ETG-Symposium",
-        "Content Type": "Conferences",
-        "date": "14-16 Nov. 2016",
+        "data": "14-16 Nov. 2016",
         "authors": [
             "Hamid Jahangir",
             "Asghar Akbari",
@@ -2236,8 +2111,7 @@
     {
         "title": "Single-fiber optical transmission system with DWDM channels. Effect OA four-wave mixing products",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "V.A. Vardanyan"
         ],
@@ -2248,8 +2122,7 @@
     {
         "title": "Dental caries detection using NIR imaging technique",
         "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "Content Type": "Conferences",
-        "date": "25-27 Oct. 2016",
+        "data": "25-27 Oct. 2016",
         "authors": [
             "Christina R. Renee",
             "R Vanithamani",
@@ -2262,8 +2135,7 @@
     {
         "title": "Application method of barrier functions in the problem of estimating the probability density of the parameterized approximations",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "Y.A. Kropotov",
             "A.A. Belov"
@@ -2275,8 +2147,7 @@
     {
         "title": "Vehicle detection and warning system using radar technology",
         "conferenceTitle": "3rd International Conference on Electrical, Electronics, Engineering Trends, Communication, Optimization and Sciences (EEECOS 2016)",
-        "Content Type": "Conferences",
-        "date": "1-2 June 2016",
+        "data": "1-2 June 2016",
         "authors": [
             "Neeraj Kumar Agarwal",
             "Sumit Thakur",
@@ -2291,8 +2162,7 @@
     {
         "title": "The design of shunts in light triggered power thyristor with integrated protection function from the effect of dV/dt",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
+        "data": "3-6 Oct. 2016",
         "authors": [
             "D.S. Silkin",
             "V.P. Paderov"
@@ -2304,8 +2174,7 @@
     {
         "title": "Using Dr. Fuzz, Dr. Memory, and Custom Dynamic Tools for Secure Development",
         "conferenceTitle": "2016 IEEE Cybersecurity Development (SecDev)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2016",
+        "data": "3-4 Nov. 2016",
         "authors": [
             "Derek Bruening",
             "Qin Zhao"
@@ -2315,10 +2184,20 @@
         "abstract": "This tutorial will present two tools that can be integrated into a secure software development approach, as well as describing how custom tools can be built utilizing the same underlying tool platform."
     },
     {
+        "title": "On finding zero dynamics for descriptor systems",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "Ivan K. Asmykovich"
+        ],
+        "DOI": "10.1109/APEIE.2016.7807008",
+        "citation": 1,
+        "abstract": "A brief overview of the latest results for the problems of quality control theory for the ordinary linear systems as well as the new problems for the above. A link has been noted between the problems in modal control by output feedback and the zero dynamics problem. Descriptor systems reduced to the canonical form and the related problems of zero dynamics were considered."
+    },
+    {
         "title": "An approach to analysis of malware using supervised learning classification",
         "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "Content Type": "Conferences",
-        "date": "25-27 Oct. 2016",
+        "data": "25-27 Oct. 2016",
         "authors": [
             "Aziz Makandar",
             "Anita Patrot"
@@ -2330,8 +2209,7 @@
     {
         "title": "Impact of second generation plug-in battery electric vehicles on the aging of distribution transformers considering TOU prices",
         "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
-        "Content Type": "Conferences",
-        "date": "17-21 July 2016",
+        "data": "17-21 July 2016",
         "authors": [
             "Yasser Assolami",
             "Walid Morsi"
@@ -2341,23 +2219,9 @@
         "abstract": "Summary form only given: This paper investigates the impact of secondgeneration (SG) plug-in battery electric vehicles (PBEVs) on distribution transformer's insulation life considering the time-of-use (TOU) prices. The effect of dual Level 2 charging, 3.7 kW, and 6.6 kW on the loss of life (LOL) of a distribution transformer is also studied. The LOL results demonstrating the effectiveness of SG PBEVs charging as two clusters versus one cluster are discussed and conclusions are drawn."
     },
     {
-        "title": "Research of the satellite transponder beams interference impact",
-        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
-        "authors": [
-            "M.S. Krasikov",
-            "V. I. Nosov"
-        ],
-        "DOI": "10.1109/APEIE.2016.7807118",
-        "citation": 1,
-        "abstract": "In this article investigated the effect of the directivity pattern side-lobe level of digital concentric circular antenna array on frequency planning mobile satellite systems using the geostationary satellite transponder. The implementation of the optimal frequency-spatial planning carried out based on the method of coordination rings allows for electromagnetic compatibility by taking into account the multiplicity of interference from the side-lobe antenna multipath rays."
-    },
-    {
         "title": "Current Sensorless Direct Predictive Control for Permanent-Magnet Synchronous Motor Drives",
         "conferenceTitle": "PCIM Asia 2016; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "28-30 June 2016",
+        "data": "28-30 June 2016",
         "authors": [
             "Zhemin Hu",
             "Ming Yang",
@@ -2371,8 +2235,7 @@
     {
         "title": "Simulation of the Lifetime of Wire Bonds Modified through Wedge Trenches for Higher Reliability",
         "conferenceTitle": "CIPS 2016; 9th International Conference on Integrated Power Electronics Systems",
-        "Content Type": "Conferences",
-        "date": "8-10 March 2016",
+        "data": "8-10 March 2016",
         "authors": [
             "Arian Grams",
             "Christian Ehrhardt",
@@ -2388,8 +2251,7 @@
     {
         "title": "A CMOS buck converter with PFM / hysteretic mode",
         "conferenceTitle": "2016 International SoC Design Conference (ISOCC)",
-        "Content Type": "Conferences",
-        "date": "23-26 Oct. 2016",
+        "data": "23-26 Oct. 2016",
         "authors": [
             "Tae-Heon Lee",
             "Jong-Gu Kim",
@@ -2402,8 +2264,7 @@
     {
         "title": "Do you trust your chip?",
         "conferenceTitle": "2016 International Conference on Design and Technology of Integrated Systems in Nanoscale Era (DTIS)",
-        "Content Type": "Conferences",
-        "date": "12-14 April 2016",
+        "data": "12-14 April 2016",
         "authors": [
             "Ozgur Sinanoglu"
         ],
@@ -2414,8 +2275,7 @@
     {
         "title": "Polarization Controller for Si photonic integrated circuits with an active closed loop control",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "V. Sorianello",
             "G. De Angelis",
@@ -2433,8 +2293,7 @@
     {
         "title": "Search the optimal combination of the geometric parameters of the ring magnet with a trapezoidal cross-section",
         "conferenceTitle": "2016 International Conference on Actual Problems of Electron Devices Engineering (APEDE)",
-        "Content Type": "Conferences",
-        "date": "22-23 Sept. 2016",
+        "data": "22-23 Sept. 2016",
         "authors": [
             "A. A. Shvachko",
             "A. A. Zaharov",
@@ -2447,8 +2306,7 @@
     {
         "title": "Classification and diagnosis of the parkinson disease by stacked autoencoder",
         "conferenceTitle": "2016 National Conference on Electrical, Electronics and Biomedical Engineering (ELECO)",
-        "Content Type": "Conferences",
-        "date": "1-3 Dec. 2016",
+        "data": "1-3 Dec. 2016",
         "authors": [
             "Hasan Badem",
             "Abdullah Caliskan",
@@ -2462,8 +2320,7 @@
     {
         "title": "High-frequency and high-efficiency bidirectional DC-DC converter for electric vehicle supercapacitor systems",
         "conferenceTitle": "6th Hybrid and Electric Vehicles Conference (HEVC 2016)",
-        "Content Type": "Conferences",
-        "date": "2-3 Nov. 2016",
+        "data": "2-3 Nov. 2016",
         "authors": [
             "M. Rana",
             "N. Mcneill"
@@ -2475,8 +2332,7 @@
     {
         "title": "40 dB-Rejection Sharp-Edge Integrated SOI Phase-Shifted Bragg Grating Filter for Microwave Photonics",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "G. Serafino",
             "C. Porzi",
@@ -2492,8 +2348,7 @@
     {
         "title": "NATO Cooperative Cyber Defence Centre of Excellence",
         "conferenceTitle": "2016 8th International Conference on Cyber Conflict (CyCon)",
-        "Content Type": "Conferences",
-        "date": "31 May-3 June 2016",
+        "data": "31 May-3 June 2016",
         "authors": [],
         "DOI": "10.1109/CYCON.2016.7529417",
         "citation": 1,
@@ -2502,8 +2357,7 @@
     {
         "title": "DE optimized TIDF controller for LFC of interconnected power system",
         "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "Content Type": "Conferences",
-        "date": "25-27 Oct. 2016",
+        "data": "25-27 Oct. 2016",
         "authors": [
             "Tulasichandra Sekhar Gorripotu",
             "Sonali Priyadarshani",
@@ -2516,8 +2370,7 @@
     {
         "title": "Three-level hybrid boost converter with high voltage gain",
         "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "Content Type": "Conferences",
-        "date": "14-15 Nov. 2016",
+        "data": "14-15 Nov. 2016",
         "authors": [
             "Norhassanah Osman",
             "Mohamad Fathi Mohamad Elias",
@@ -2530,8 +2383,7 @@
     {
         "title": "Application of local autonomous protection against voltage instability to IEEE test system",
         "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
-        "Content Type": "Conferences",
-        "date": "17-21 July 2016",
+        "data": "17-21 July 2016",
         "authors": [
             "Costas Vournas",
             "Charalambos Lambrou",
@@ -2544,8 +2396,7 @@
     {
         "title": "Building the quietest space on earth: Precision optical systems for advanced LIGO",
         "conferenceTitle": "2016 Conference on Lasers and Electro-Optics (CLEO)",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2016",
+        "data": "5-10 June 2016",
         "authors": [
             "Brian Lantz"
         ],
@@ -2556,8 +2407,7 @@
     {
         "title": "Application of ANP in selection of converters for wave farm systems",
         "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "Content Type": "Conferences",
-        "date": "25-27 Oct. 2016",
+        "data": "25-27 Oct. 2016",
         "authors": [
             "Soumya Ghosh",
             "Mrinmoy Majumder",
@@ -2570,8 +2420,7 @@
     {
         "title": "Keynotes",
         "conferenceTitle": "2016 25th International Conference on Computer Communication and Networks (ICCCN)",
-        "Content Type": "Conferences",
-        "date": "1-4 Aug. 2016",
+        "data": "1-4 Aug. 2016",
         "authors": [
             "Patrick McDaniel",
             "Edward Knightly",
@@ -2584,8 +2433,7 @@
     {
         "title": "PDM-QPSK WDM Signal Amplification Using PPLN-Based Polarization-Independent In-Line Phase-Sensitive Amplifier",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "Masashi Abe",
             "Takushi Kazama",
@@ -2601,8 +2449,7 @@
     {
         "title": "Full-Channel Parallel Measurement of 4x20-Gb/s All-Optical OFDM Signals by Using Loop-Assisted Coherent Matched Detector",
         "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "Content Type": "Conferences",
-        "date": "18-22 Sept. 2016",
+        "data": "18-22 Sept. 2016",
         "authors": [
             "Takahide Sakamoto",
             "Guo-Wei Lu",
@@ -2615,8 +2462,7 @@
     {
         "title": "Plenary lectures",
         "conferenceTitle": "2016 International Conference on Signals and Electronic Systems (ICSES)",
-        "Content Type": "Conferences",
-        "date": "5-7 Sept. 2016",
+        "data": "5-7 Sept. 2016",
         "authors": [],
         "DOI": "10.1109/ICSES.2016.7593808",
         "citation": 0,
@@ -2625,8 +2471,7 @@
     {
         "title": "Rhythmic spontaneous UPE in seedlings — overview",
         "conferenceTitle": "2016 Progress in Electromagnetic Research Symposium (PIERS)",
-        "Content Type": "Conferences",
-        "date": "8-11 Aug. 2016",
+        "data": "8-11 Aug. 2016",
         "authors": [
             "Cristiano M. Gallep"
         ],
@@ -2637,8 +2482,7 @@
     {
         "title": "Study of information integration architecture based on the extensibility of smart gird CIM model",
         "conferenceTitle": "CIRED Workshop 2016",
-        "Content Type": "Conferences",
-        "date": "14-15 June 2016",
+        "data": "14-15 June 2016",
         "authors": [
             "Lei Zhao",
             "Jinsong Liu"
@@ -2650,8 +2494,7 @@
     {
         "title": "Keynotes",
         "conferenceTitle": "2016 International Conference on Networking and Network Applications (NaNA)",
-        "Content Type": "Conferences",
-        "date": "23-25 July 2016",
+        "data": "23-25 July 2016",
         "authors": [],
         "DOI": "10.1109/NaNA.2016.7",
         "citation": 0,
@@ -2660,8 +2503,7 @@
     {
         "title": "PhD and doctorate consortium",
         "conferenceTitle": "2016 11th International Conference for Internet Technology and Secured Transactions (ICITST)",
-        "Content Type": "Conferences",
-        "date": "5-7 Dec. 2016",
+        "data": "5-7 Dec. 2016",
         "authors": [],
         "DOI": "10.1109/ICITST.2016.7856677",
         "citation": 0,
@@ -2670,8 +2512,7 @@
     {
         "title": "Spectroscopic study of impurity ion radial distribution in an advanced beam-driven field reversed configuration",
         "conferenceTitle": "2016 IEEE International Conference on Plasma Science (ICOPS)",
-        "Content Type": "Conferences",
-        "date": "19-23 June 2016",
+        "data": "19-23 June 2016",
         "authors": [
             "Dmitry Osin",
             "Kan Zhai",
@@ -2686,8 +2527,7 @@
     {
         "title": "High-Q photonic crystal nanobeam cavities on silicon",
         "conferenceTitle": "2016 Progress in Electromagnetic Research Symposium (PIERS)",
-        "Content Type": "Conferences",
-        "date": "8-11 Aug. 2016",
+        "data": "8-11 Aug. 2016",
         "authors": [
             "Yaocheng Shi"
         ],
@@ -2698,8 +2538,7 @@
     {
         "title": "New bibliometric analysis of research institutions network",
         "conferenceTitle": "2016 Portland International Conference on Management of Engineering and Technology (PICMET)",
-        "Content Type": "Conferences",
-        "date": "4-8 Sept. 2016",
+        "data": "4-8 Sept. 2016",
         "authors": [
             "Kazuya Tanaka",
             "Ichiro Sakata"
@@ -2711,52 +2550,10 @@
     {
         "title": "Key note address details",
         "conferenceTitle": "2016 International Conference on Emerging Technological Trends (ICETT)",
-        "Content Type": "Conferences",
-        "date": "21-22 Oct. 2016",
+        "data": "21-22 Oct. 2016",
         "authors": [],
         "DOI": "10.1109/ICETT.2016.7873632",
         "citation": 0,
         "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
-    },
-    {
-        "title": "Oscillistor RF-converter resistance to frequency",
-        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2016",
-        "authors": [
-            "P.N. Drobot"
-        ],
-        "DOI": "10.1109/APEIE.2016.7807032",
-        "citation": 0,
-        "abstract": "The characteristics of silicon oscillistor sensors with frequency output and oscillistor resistance-tofrequency converter (RF-converter) are discussed. The prospects oscillistor RF-converter for producing on its basis the various sensors with frequency output when the sensing element is a photo-, magnetic-, tenso-, thermo-, or variable resistor (linear and angular motion sensor), and converter resistance-to-frequency will be oscillistor."
-    },
-    {
-        "title": "Improvement of bodipy-based bulk heterojunction solar cell using 1,8-diodooctane",
-        "conferenceTitle": "2016 Progress in Electromagnetic Research Symposium (PIERS)",
-        "Content Type": "Conferences",
-        "date": "8-11 Aug. 2016",
-        "authors": [
-            "Hung-Lu Tsai",
-            "Li-Yin Chen"
-        ],
-        "DOI": "10.1109/PIERS.2016.7734285",
-        "citation": 0,
-        "abstract": "In this work, we investigate the effect of a solvent additive, 1,8-diodooctane (DIO), in a bodipy-based bulk-heterojunction solar cells. By using 0.2 vol% DIO, the power conversion efficiency (PCE) increased from 1.97% to 2.49%. This improvement was mostly due to the increase in the fill factor. The effect of solvent additive on photophysical property and microscopic morphology of the device is also discussed."
-    },
-    {
-        "title": "A flexible, ethernet fronthaul for 5th generation mobile and beyond",
-        "conferenceTitle": "2016 Optical Fiber Communications Conference and Exhibition (OFC)",
-        "Content Type": "Conferences",
-        "date": "20-24 March 2016",
-        "authors": [
-            "Nathan J. Gomes",
-            "Volker Jungnickel",
-            "Philippe Chanclou",
-            "Joerg-Peter Elbers",
-            "Peter Turnbull"
-        ],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "Using Ethernet in the fronthaul can deliver the statistical multiplexing gains offered by the new functional splits proposed for the radio access network, but latency and delay variations are challenges that must be overcome."
     }
 ]

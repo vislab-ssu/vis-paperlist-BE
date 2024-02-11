@@ -26,8 +26,7 @@ def save_data(year, papers):
         formatted_paper = {
             "title": paper.get("title", ""),
             "conferenceTitle": paper.get("publication_title", ""),
-            "Content Type": paper.get("content_type", ""),
-            "date": paper.get("publication_date", ""),
+            "data": paper.get("publication_date", ""),
             "authors": authors,
             "DOI": paper.get("doi", ""),
             "citation": paper.get("citing_paper_count", 0),

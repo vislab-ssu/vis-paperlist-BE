@@ -2,8 +2,7 @@
     {
         "title": "Invited address",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [],
         "DOI": "10.1049/cp.2010.0002",
         "citation": 0,
@@ -12,20 +11,18 @@
     {
         "title": "Approximate multisensor CPHD and PHD filters",
         "conferenceTitle": "2010 13th International Conference on Information Fusion",
-        "Content Type": "Conferences",
-        "date": "26-29 July 2010",
+        "data": "26-29 July 2010",
         "authors": [
             "Ronald Mahler"
         ],
         "DOI": "10.1109/ICIF.2010.5711984",
-        "citation": 67,
+        "citation": 68,
         "abstract": "The probability hypothesis density (PHD) filter and cardinalized probability hypothesis density (CPHD) filter are principled approximations of the general multitarget Bayes recursive filter. Both filters are single-sensor filters. Since their multisensor generalizations are computationally intractable, a further approximation - iterating their corrector equations, once for each sensor - has been used instead. This approach is theoretically unpleasing because it is not invariant under reordering of the sensors, and because it is implicitly based on strong simplifying assumptions. The purpose of this paper is to derive multisensor PHD and CPHD filters that (1) are invariant under sensor reordering, (2) require much weaker simplifying assumptions, and (3) are potentially computationally tractable (at least in the case of the multisensor CPHD filter)."
     },
     {
         "title": "Design of on-board charger for plug-in hybrid electric vehicle",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "M. Grenier",
             "M. G. Hosseini Aghdam",
@@ -38,8 +35,7 @@
     {
         "title": "Distance determination for an automobile environment using Inverse Perspective Mapping in OpenCV",
         "conferenceTitle": "IET Irish Signals and Systems Conference (ISSC 2010)",
-        "Content Type": "Conferences",
-        "date": "23-24 June 2010",
+        "data": "23-24 June 2010",
         "authors": [
             "S. Tuohy",
             "D. O'Cualain",
@@ -53,8 +49,7 @@
     {
         "title": "Comparative study of current vector control performance of alternate fault tolerant inverter topologies for three-phase PM brushless ac machine with one phase open - circuit fault",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "K. D. Hoang",
             "Z. Q. Zhu",
@@ -66,10 +61,22 @@
         "abstract": "Reliability and fault tolerance of drive systems has received renewed research interest over last decade with several fault tolerant drive topologies and control schemes having been proposed and investigated. In this paper, the performance of hysteresis current vector control methodologies when applied to three common fault tolerant drive topologies has been investigated and compared theoretically and experimentally. Their advantages and limitations in terms of current value, current and torque ripples, and operating speed range etc. are considered and verified by both simulated and measured results. It is proven that by simply modifying the hysteresis current control methodology, the maximum torque per ampere (MTPA) can still be achieved in post-fault operation, albeit with potentially increased current value, low frequency current and torque ripples, and compromised speed operating range."
     },
     {
+        "title": "Enclosure design for a high-speed permanent magnet rotor",
+        "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
+        "data": "19-21 April 2010",
+        "authors": [
+            "A. Borisavljevic",
+            "H. Polinder",
+            "J.A. Ferreira"
+        ],
+        "DOI": "10.1049/cp.2010.0141",
+        "citation": 24,
+        "abstract": "High-speed permanent magnet rotors need a non-magnetic enclosure so as to ensure structural integrity of the rotor at elevated speeds. Optimal design of the enclosure is the focus of this paper. Analytical modelling of mechanical stress in the rotor is presented. The model distinguishes between influences of enclosure geometry and fitting on the stress, while also considering rotational speed and operating temperature. Through analytical modelling, a relatively simple approach of optimizing the enclosure is achieved. This optimization approach was used in the design of a carbon fibre enclosure of an unconventional high-speed rotor with a disc shape. It is shown that a planar analytical model of stress with isotropic material assumption is sufficiently good for structural optimization of a permanent magnet rotor."
+    },
+    {
         "title": "Comparison of supercapacitor and lithium-ion capacitor technologies for power electronics applications",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "S.M. Lambert",
             "V. Pickert",
@@ -84,8 +91,7 @@
     {
         "title": "Design of 12-slot 10-pole Permanant Magnet Flux-Switching Machine with hybrid excitation for hybrid electric vehicle",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "E. Sulaiman",
             "T. Kosaka",
@@ -97,24 +103,9 @@
         "abstract": "Permanent Magnet Flux Switching Machine (PMFSM) is an interesting machine for electric propulsion system application because of its high power density and robust rotor structure. This paper presents some design optimization studies on PMFSM with hybrid excitation applied to a hybrid electric vehicle, which have all active parts in the stator. A reduction of permanent magnet material for a constant torque and an extension in speed and torque ranges are chosen for the optimization aims. For this purpose, the original PMFSM, which has been already proposed by other researchers, is firstly just transformed to the target machine size and then, the design problem is made clear. To obtain the necessary drive performances, some design optimization are executed by means of FEA-based trial and error. As a result, it shows the proposed design is suitable for high speed HEV."
     },
     {
-        "title": "Enclosure design for a high-speed permanent magnet rotor",
-        "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
-        "authors": [
-            "A. Borisavljevic",
-            "H. Polinder",
-            "J.A. Ferreira"
-        ],
-        "DOI": "10.1049/cp.2010.0141",
-        "citation": 23,
-        "abstract": "High-speed permanent magnet rotors need a non-magnetic enclosure so as to ensure structural integrity of the rotor at elevated speeds. Optimal design of the enclosure is the focus of this paper. Analytical modelling of mechanical stress in the rotor is presented. The model distinguishes between influences of enclosure geometry and fitting on the stress, while also considering rotational speed and operating temperature. Through analytical modelling, a relatively simple approach of optimizing the enclosure is achieved. This optimization approach was used in the design of a carbon fibre enclosure of an unconventional high-speed rotor with a disc shape. It is shown that a planar analytical model of stress with isotropic material assumption is sufficiently good for structural optimization of a permanent magnet rotor."
-    },
-    {
         "title": "Analysis of a combined radial-axial magnetic bearing for a high-speed drive system",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "Philipp Imoberdorf",
             "Thomas Nussbaumer",
@@ -127,8 +118,7 @@
     {
         "title": "Loss comparison of two and three-level inverter topologies",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "G. I. Orfanoudakis",
             "S. M. Sharkh",
@@ -142,8 +132,7 @@
     {
         "title": "Modelling of AC feeding systems of electric railways based on a uniform multi-conductor chain circuit topology",
         "conferenceTitle": "IET Conference on Railway Traction Systems (RTS 2010)",
-        "Content Type": "Conferences",
-        "date": "13-15 April 2010",
+        "data": "13-15 April 2010",
         "authors": [
             "W. Mingli",
             "C. Roberts",
@@ -156,8 +145,7 @@
     {
         "title": "Voltage source converter in high voltage applications: Multilevel versus two-level converters",
         "conferenceTitle": "9th IET International Conference on AC and DC Power Transmission (ACDC 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2010",
+        "data": "19-21 Oct. 2010",
         "authors": [
             "Yushu Zhang",
             "G.P. Adam",
@@ -172,8 +160,7 @@
     {
         "title": "Design and analysis of a Pseudo Direct-Drive propulsion motor",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "D.J. Powell",
             "S.D Calverley",
@@ -187,8 +174,7 @@
     {
         "title": "Sonic audio watermarking algorithm for cable-transmission",
         "conferenceTitle": "The 2nd International Conference on Information Science and Engineering",
-        "Content Type": "Conferences",
-        "date": "4-6 Dec. 2010",
+        "data": "4-6 Dec. 2010",
         "authors": [
             "Zhang Xia",
             "Chang Di"
@@ -200,8 +186,7 @@
     {
         "title": "Steady-state analysis of full-bridge series resonant converter with phase-shift and frequency control",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "A.A. Aboushady",
             "K.H. Ahmed",
@@ -215,8 +200,7 @@
     {
         "title": "Fast functional modelling of the aircraft power system including line fault scenarios",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "T. Wu",
             "S.V. Bozhko",
@@ -230,8 +214,7 @@
     {
         "title": "A theoretical and experimental review of SystemC front-ends",
         "conferenceTitle": "2010 Forum on Specification & Design Languages (FDL 2010)",
-        "Content Type": "Conferences",
-        "date": "14-16 Sept. 2010",
+        "data": "14-16 Sept. 2010",
         "authors": [
             "Kevin Marquet",
             "Matthieu Moy",
@@ -244,8 +227,7 @@
     {
         "title": "Five-phase permanent magnet machines, advantages and applications",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "M.T. Mohammad",
             "J.E. Fletcher"
@@ -257,8 +239,7 @@
     {
         "title": "Robust sensor fusion in real maritime surveillance scenarios",
         "conferenceTitle": "2010 13th International Conference on Information Fusion",
-        "Content Type": "Conferences",
-        "date": "26-29 July 2010",
+        "data": "26-29 July 2010",
         "authors": [
             "Jesús García",
             "José Luis Guerrero",
@@ -272,8 +253,7 @@
     {
         "title": "Automated AC winding design",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "A.C. Smith",
             "D. Delgado"
@@ -285,8 +265,7 @@
     {
         "title": "Single stage grid converters for battery energy storage",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "I. Trintis",
             "S. Munk-Nielsen",
@@ -299,8 +278,7 @@
     {
         "title": "Description of the Choquet Integral for tactical knowledge representation",
         "conferenceTitle": "2010 13th International Conference on Information Fusion",
-        "Content Type": "Conferences",
-        "date": "26-29 July 2010",
+        "data": "26-29 July 2010",
         "authors": [
             "Tod Schuck",
             "Erik Blasch"
@@ -312,8 +290,7 @@
     {
         "title": "A novel power divider with enhanced physical and electrical port isolation",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "C. J. Trantanella"
         ],
@@ -324,8 +301,7 @@
     {
         "title": "The Cramer-Rao Lower Bound for 3-D state estimation from rectified stereo cameras",
         "conferenceTitle": "2010 13th International Conference on Information Fusion",
-        "Content Type": "Conferences",
-        "date": "26-29 July 2010",
+        "data": "26-29 July 2010",
         "authors": [
             "Daniel E. Clark",
             "Spela Ivekovič"
@@ -337,8 +313,7 @@
     {
         "title": "Dealing with operational constraints in energy efficient driving",
         "conferenceTitle": "IET Conference on Railway Traction Systems (RTS 2010)",
-        "Content Type": "Conferences",
-        "date": "13-15 April 2010",
+        "data": "13-15 April 2010",
         "authors": [
             "T. Albrecht",
             "C. Gassel",
@@ -352,8 +327,7 @@
     {
         "title": "Design and commissioning of a 30 kW direct drive wave generator",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "P. C. J. Clifton",
             "R. A. McMahon",
@@ -366,8 +340,7 @@
     {
         "title": "Keynote speech",
         "conferenceTitle": "2010 IEEE Fifth International Conference on Networking, Architecture, and Storage",
-        "Content Type": "Conferences",
-        "date": "15-17 July 2010",
+        "data": "15-17 July 2010",
         "authors": [
             "Peter Braam"
         ],
@@ -378,8 +351,7 @@
     {
         "title": "Narrowband frequency scanning array antenna at 5.8 GHz for short range imaging",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "A. Fackelmeier",
             "E. Biebl"
@@ -391,8 +363,7 @@
     {
         "title": "Design aspects on magnet placement in permanent-magnet assisted synchronous reluctance machines",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "Kashif Khan",
             "Mats Leksell",
@@ -405,8 +376,7 @@
     {
         "title": "Real-time synchrophasor applications in power system control and protection",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "E. O. Schweitzer",
             "A. Guzmán",
@@ -421,8 +391,7 @@
     {
         "title": "Influence of rotor configuration on iron and magnet losses of fractional-slot IPM machines",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "Z. Azar",
             "L.J. Wu",
@@ -436,8 +405,7 @@
     {
         "title": "Comparison of flux switching and surface mounted permanent magnet generators for aerospace applications",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "A. S. Thomas",
             "Z. Q. Zhu",
@@ -450,8 +418,7 @@
     {
         "title": "User Centric Coordinated Multi Point Transmission",
         "conferenceTitle": "2010 IEEE 72nd Vehicular Technology Conference - Fall",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2010",
+        "data": "6-9 Sept. 2010",
         "authors": [
             "Wolfgang Mennerich",
             "Wolfgang Zirwas"
@@ -463,8 +430,7 @@
     {
         "title": "Analysis and comparison on the control strategies of multiple voltage source converters in autonomous microgrid",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "Yang Wang",
             "Zongxiang Lu",
@@ -477,8 +443,7 @@
     {
         "title": "Wireless communication in process automation: A survey of opportunities, requirements, concerns and challenges",
         "conferenceTitle": "UKACC International Conference on Control 2010",
-        "Content Type": "Conferences",
-        "date": "7-10 Sept. 2010",
+        "data": "7-10 Sept. 2010",
         "authors": [
             "Waqas Ikram",
             "Nina F. Thornhill"
@@ -490,8 +455,7 @@
     {
         "title": "BioRob-Arm: A Quickly Deployable and Intrinsically Safe, Light- Weight Robot Arm for Service Robotics Applications",
         "conferenceTitle": "ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)",
-        "Content Type": "Conferences",
-        "date": "7-9 June 2010",
+        "data": "7-9 June 2010",
         "authors": [
             "Thomas Lens",
             "Juergen Kunz",
@@ -506,8 +470,7 @@
     {
         "title": "Harmonic studies for offshore windfarms",
         "conferenceTitle": "9th IET International Conference on AC and DC Power Transmission (ACDC 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2010",
+        "data": "19-21 Oct. 2010",
         "authors": [
             "A. Shafiu",
             "A. Hernandez",
@@ -522,8 +485,7 @@
     {
         "title": "Optimal transmission switching with contingency analysis",
         "conferenceTitle": "IEEE PES General Meeting",
-        "Content Type": "Conferences",
-        "date": "25-29 July 2010",
+        "data": "25-29 July 2010",
         "authors": [
             "Kory Hedman",
             "Richard O'Neill",
@@ -537,8 +499,7 @@
     {
         "title": "α-Discounting Method for Multi-Criteria Decision Making (α-D MCDM)",
         "conferenceTitle": "2010 13th International Conference on Information Fusion",
-        "Content Type": "Conferences",
-        "date": "26-29 July 2010",
+        "data": "26-29 July 2010",
         "authors": [
             "Florentin Smarandache"
         ],
@@ -549,8 +510,7 @@
     {
         "title": "Robust repetitive feedback control of a three-phase grid connected inverter",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "M. Jamil",
             "S. M. Sharkh",
@@ -564,8 +524,7 @@
     {
         "title": "3D integration technologies for emerging microsystems",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "D. Choudhury"
         ],
@@ -576,8 +535,7 @@
     {
         "title": "Linear-complexity CPHD filters",
         "conferenceTitle": "2010 13th International Conference on Information Fusion",
-        "Content Type": "Conferences",
-        "date": "26-29 July 2010",
+        "data": "26-29 July 2010",
         "authors": [
             "Ronald Mahler"
         ],
@@ -586,10 +544,24 @@
         "abstract": "The probability hypothesis density (PHD) filter and cardinalized probability hypothesis density (CPHD) filter are principled approximations of the general multitarget Bayes recursive filter. If n is the current number of tracks and m the current number of measurements, then the former has computational complexity O(mn) and the latter O(m3 n). Although the CPHD filter has better target detection and tracking performance than the PHD filter, its cubic complexity in m will limit its practicality in many applications. The primary purpose of this paper is to derive a CPHD filter that, because of a simplified clutter model, has computational complexity O(mn). I also show how to extend this new CPHD filter to the multisensor case."
     },
     {
+        "title": "New designs of switched reluctance motors with segmental rotors",
+        "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
+        "data": "19-21 April 2010",
+        "authors": [
+            "Xiaoyuan Chen",
+            "Zhiquan Deng",
+            "Xiaolin Wang",
+            "Jingjing Peng",
+            "Xiangsheng Li"
+        ],
+        "DOI": "10.1049/cp.2010.0179",
+        "citation": 8,
+        "abstract": "In this paper the existing SSRMs are reviewed. Four novel SSRMs which are 8/6 SSRM with bipolar excitation, SSRM with toroidal windings, SSRM with C-shaped modular stators and SSRM with E-shaped modular stators respectively are proposed. The structures and the basic working principles of four novel SSRMs are introduced and the virtues and demerits of them are analyzed and compared. The concept of four novel SSRMs will provide a useful reference for SSRM's applications."
+    },
+    {
         "title": "Particle swarm optimization with dynamically changing inertia weight",
         "conferenceTitle": "Proceedings of the 29th Chinese Control Conference",
-        "Content Type": "Conferences",
-        "date": "29-31 July 2010",
+        "data": "29-31 July 2010",
         "authors": [
             "Dingxue Zhang",
             "Yinghui Zhu",
@@ -602,8 +574,7 @@
     {
         "title": "Recent additions to the ARMv7-A architecture",
         "conferenceTitle": "2010 IEEE International Conference on Computer Design",
-        "Content Type": "Conferences",
-        "date": "3-6 Oct. 2010",
+        "data": "3-6 Oct. 2010",
         "authors": [
             "David Brash"
         ],
@@ -614,8 +585,7 @@
     {
         "title": "Notice of Retraction: Application of PageRank Algorithm in Computer Forensics",
         "conferenceTitle": "2010 Second International Conference on Information Technology and Computer Science",
-        "Content Type": "Conferences",
-        "date": "24-25 July 2010",
+        "data": "24-25 July 2010",
         "authors": [
             "Deguang Wang",
             "Zhigang Zhou",
@@ -628,8 +598,7 @@
     {
         "title": "Frequency sensitivity analysis of ac grids connected to MTDC grid",
         "conferenceTitle": "9th IET International Conference on AC and DC Power Transmission (ACDC 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2010",
+        "data": "19-21 Oct. 2010",
         "authors": [
             "Temesgen M. Haileselassie",
             "Kjetil Uhlen"
@@ -641,8 +610,7 @@
     {
         "title": "Indian sign language recognition system to aid deaf-dumb people",
         "conferenceTitle": "2010 Second International conference on Computing, Communication and Networking Technologies",
-        "Content Type": "Conferences",
-        "date": "29-31 July 2010",
+        "data": "29-31 July 2010",
         "authors": [
             "P. Subha Rajam",
             "G. Balakrishnan"
@@ -652,26 +620,9 @@
         "abstract": "The work described in this paper is with an aim of developing a system to aid deaf-dumb people which translate the sign language recognition into text with static palm side of right hand images. The proposed work consist of a set of 32 combinations of binary number of sign and its identification with the help of image processing techniques which in turn is converted into text. The proposed method is implemented by using 320 samples of right hand palm sign images with 10 images for each sign. Experiments revealed that the system is able to recognize Indian Sign Language with 96.87% better accuracy."
     },
     {
-        "title": "New designs of switched reluctance motors with segmental rotors",
-        "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
-        "authors": [
-            "Xiaoyuan Chen",
-            "Zhiquan Deng",
-            "Xiaolin Wang",
-            "Jingjing Peng",
-            "Xiangsheng Li"
-        ],
-        "DOI": "10.1049/cp.2010.0179",
-        "citation": 7,
-        "abstract": "In this paper the existing SSRMs are reviewed. Four novel SSRMs which are 8/6 SSRM with bipolar excitation, SSRM with toroidal windings, SSRM with C-shaped modular stators and SSRM with E-shaped modular stators respectively are proposed. The structures and the basic working principles of four novel SSRMs are introduced and the virtues and demerits of them are analyzed and compared. The concept of four novel SSRMs will provide a useful reference for SSRM's applications."
-    },
-    {
         "title": "A new streetlight monitoring system based on wireless sensor networks",
         "conferenceTitle": "The 2nd International Conference on Information Science and Engineering",
-        "Content Type": "Conferences",
-        "date": "4-6 Dec. 2010",
+        "data": "4-6 Dec. 2010",
         "authors": [
             "Xudan Shentu",
             "Wenjun Li",
@@ -685,8 +636,7 @@
     {
         "title": "Wind farm protection using an IEC 61850 process bus architecture",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "J. Cardenas",
             "V. Muthukrishnan",
@@ -700,8 +650,7 @@
     {
         "title": "Design and assembly of a permanent magnet gyrotron for active denial systems",
         "conferenceTitle": "35th International Conference on Infrared, Millimeter, and Terahertz Waves",
-        "Content Type": "Conferences",
-        "date": "5-10 Sept. 2010",
+        "data": "5-10 Sept. 2010",
         "authors": [
             "Jeffrey M. Neilson",
             "Mike Read",
@@ -714,8 +663,7 @@
     {
         "title": "Sliding Mode Observation of capacitor voltage in multilevel power converters",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "Masoud Almaleki",
             "Pat Wheeler",
@@ -726,10 +674,23 @@
         "abstract": "In this paper a sliding mode observer is designed and applied to a two-port multi-cellular power converter topology in order to observe the DC-link capacitor voltages. Among different sliding mode observers, the Sliding Mode Observer (SMO) using equivalent control approach has been selected for use because of its robustness against uncertainties in system equations. Simulation is carried out using SABER software. For practical results the controller is implemented on a TMS320C6713 DSP and two ACTEL FPGAs. The observer equations are implemented on an FPGA using a fixed-point system programmed in VHDL."
     },
     {
+        "title": "Nanocrystalline cored transformer design and implementation for a high current low voltage dc/dc converter",
+        "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
+        "data": "19-21 April 2010",
+        "authors": [
+            "Z. M. Shafik",
+            "K. H. Ahmed",
+            "S. J. Finney",
+            "B. W. Williams"
+        ],
+        "DOI": "10.1049/cp.2010.0008",
+        "citation": 7,
+        "abstract": "Transformers are considered critical components that influence high power converter dynamic response, efficiency, and size. High permeability nanocrystalline cores are being increasingly utilized in designs due to their high saturation flux density, high power density, and lower power loss, for a given volume. This paper presents the design and implementation of a high frequency nanocrystalline cored transformer operating at 14 kHz, and used in a high current low voltage dc-dc converter with a 600 V input, and an 8 V, 1000 A output requirement. Power loss analysis and leakage inductance calculation are derived to evaluate the transformer performance. Simulation and experimental results are also presented to validate the design."
+    },
+    {
         "title": "Fuel cell-supercapacitor system for telecommunications",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "E. Ribeiro",
             "A. J. Marques Cardoso",
@@ -742,8 +703,7 @@
     {
         "title": "Effects of different shading devices on building energy saving in hot summer and cold winter zone",
         "conferenceTitle": "2010 International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "26-28 June 2010",
+        "data": "26-28 June 2010",
         "authors": [
             "Jian Yao",
             "Jin Xu"
@@ -755,8 +715,7 @@
     {
         "title": "Immune system based redeployment scheme for wireless sensor networks",
         "conferenceTitle": "IET International Conference on Wireless Sensor Network 2010 (IET-WSN 2010)",
-        "Content Type": "Conferences",
-        "date": "15-17 Nov. 2010",
+        "data": "15-17 Nov. 2010",
         "authors": [
             "Linai Kuang",
             "Zixing Cai"
@@ -768,8 +727,7 @@
     {
         "title": "Evaluation of protection coordination with distributed generation in distribution networks",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "Seongchul Kwon",
             "Changhoon Shin",
@@ -782,8 +740,7 @@
     {
         "title": "Decentralized adaptive iterative learning control for uncertain interconnected systems with state delay",
         "conferenceTitle": "2010 8th World Congress on Intelligent Control and Automation",
-        "Content Type": "Conferences",
-        "date": "7-9 July 2010",
+        "data": "7-9 July 2010",
         "authors": [
             "Lili Sun",
             "Tiejun Wu"
@@ -795,8 +752,7 @@
     {
         "title": "System advantages in conversion of AC transmission lines to DC",
         "conferenceTitle": "9th IET International Conference on AC and DC Power Transmission (ACDC 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2010",
+        "data": "19-21 Oct. 2010",
         "authors": [
             "Lionel Barthold",
             "R. Adapa",
@@ -810,8 +766,7 @@
     {
         "title": "An environmental-adaptive RSSI based indoor positioning approach using RFID",
         "conferenceTitle": "2010 International Conference on Advanced Intelligence and Awarenss Internet (AIAI 2010)",
-        "Content Type": "Conferences",
-        "date": "23-25 Oct. 2010",
+        "data": "23-25 Oct. 2010",
         "authors": [
             "Xin Xiao",
             "Xiaojun Jing",
@@ -825,8 +780,7 @@
     {
         "title": "Modeling and analyzing of an H-drive precision XY stage",
         "conferenceTitle": "2010 International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "26-28 June 2010",
+        "data": "26-28 June 2010",
         "authors": [
             "Ye Zhao",
             "Kaiming Yang",
@@ -840,8 +794,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "2010 IEEE International Conference on Software Engineering and Service Sciences",
-        "Content Type": "Conferences",
-        "date": "16-18 July 2010",
+        "data": "16-18 July 2010",
         "authors": [],
         "DOI": "10.1109/ICSESS.2010.5552404",
         "citation": 6,
@@ -850,8 +803,7 @@
     {
         "title": "Remanufacturing - an American perspective",
         "conferenceTitle": "5th International Conference on Responsive Manufacturing - Green Manufacturing (ICRM 2010)",
-        "Content Type": "Conferences",
-        "date": "11-13 Jan. 2010",
+        "data": "11-13 Jan. 2010",
         "authors": [
             "Robert T. Lund",
             "William M. Hauser"
@@ -861,25 +813,9 @@
         "abstract": "Remanufacturing is the process of restoring non-functioning, discarded, or traded-in products (cores) to like-new performance. Over a period of thirty years, the authors have studied remanufacturing and have issued reports on various aspects of the industry. This paper will describe some of what we have learned during three decades of research on the topic: industry structure and scope, patterns in inputs and costs, forms of organization of remanufacturing enterprises, beneficial aspects of remanufacturing, and implications for other countries. Remanufacturing provides a number of important benefits: greater availability of products and lower prices to customers, employment and industrial skills training to workers, and conservation of material and energy resources to society. Remanufacturers tend to enter remanufacturing, however, in the same pursuit of profits that motivates other entrepreneurs."
     },
     {
-        "title": "Nanocrystalline cored transformer design and implementation for a high current low voltage dc/dc converter",
-        "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
-        "authors": [
-            "Z. M. Shafik",
-            "K. H. Ahmed",
-            "S. J. Finney",
-            "B. W. Williams"
-        ],
-        "DOI": "10.1049/cp.2010.0008",
-        "citation": 6,
-        "abstract": "Transformers are considered critical components that influence high power converter dynamic response, efficiency, and size. High permeability nanocrystalline cores are being increasingly utilized in designs due to their high saturation flux density, high power density, and lower power loss, for a given volume. This paper presents the design and implementation of a high frequency nanocrystalline cored transformer operating at 14 kHz, and used in a high current low voltage dc-dc converter with a 600 V input, and an 8 V, 1000 A output requirement. Power loss analysis and leakage inductance calculation are derived to evaluate the transformer performance. Simulation and experimental results are also presented to validate the design."
-    },
-    {
         "title": "Multi-agent based fault location algorithm for smart distribution grid",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "Qingle Pang",
             "Houlei Gao",
@@ -892,8 +828,7 @@
     {
         "title": "A fault tolerant modulation strategy for matrix converters",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "P. Potamianos",
             "E. Mitronikas",
@@ -906,8 +841,7 @@
     {
         "title": "A new duty cycle based efficiency estimation method for a supercapacitor stack under constant power operation",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "P. Kulsangcharoen",
             "C. Klumpner",
@@ -921,8 +855,7 @@
     {
         "title": "Faulty operation analysis of permanent magnet synchronous generator drives for wind turbine applications",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "Jorge O. Estima",
             "José L. J. Fernandes",
@@ -935,8 +868,7 @@
     {
         "title": "Fusion of soft information using TBM",
         "conferenceTitle": "2010 13th International Conference on Information Fusion",
-        "Content Type": "Conferences",
-        "date": "26-29 July 2010",
+        "data": "26-29 July 2010",
         "authors": [
             "Dafni Stampouli",
             "Martin Brown",
@@ -949,8 +881,7 @@
     {
         "title": "Simplified models of forward conduction for SiC power pin and schottky diodes with temperature dependency",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "Ibrahim Abuishmais",
             "Tore M. Undeland"
@@ -962,8 +893,7 @@
     {
         "title": "Intravenous infusion monitoring system based on WSN",
         "conferenceTitle": "IET International Conference on Wireless Sensor Network 2010 (IET-WSN 2010)",
-        "Content Type": "Conferences",
-        "date": "15-17 Nov. 2010",
+        "data": "15-17 Nov. 2010",
         "authors": [
             "Yang Zhang",
             "Sanfeng Zhang",
@@ -977,8 +907,7 @@
     {
         "title": "Modelling and control of offshore wind farm with VSC-HVDC transmission system",
         "conferenceTitle": "9th IET International Conference on AC and DC Power Transmission (ACDC 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2010",
+        "data": "19-21 Oct. 2010",
         "authors": [
             "D.C. Kong",
             "X.-P. Zhang"
@@ -990,8 +919,7 @@
     {
         "title": "Fuzzy control of micro hydro power plants",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "I. Salhi",
             "S. Doubabi",
@@ -1004,8 +932,7 @@
     {
         "title": "Novel bearingless brushless motor in exterior rotor construction for stirred bioreactors",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "T. Reichert",
             "T. Nussbaumer",
@@ -1018,8 +945,7 @@
     {
         "title": "Smart ROVLATIS: Control architecture",
         "conferenceTitle": "UKACC International Conference on Control 2010",
-        "Content Type": "Conferences",
-        "date": "7-10 Sept. 2010",
+        "data": "7-10 Sept. 2010",
         "authors": [
             "Edin Omerdic",
             "Daniel Toal",
@@ -1033,8 +959,7 @@
     {
         "title": "Optimal flux loss model based of speed sensorless vector control induction motor",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "Emad Hussein",
             "Peter Mutschler"
@@ -1046,8 +971,7 @@
     {
         "title": "Comparison of two switched reluctance motors with bipolar excitation",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "Xiaoyuan Chen",
             "Zhiquan Deng",
@@ -1061,8 +985,7 @@
     {
         "title": "An integrated approach to offshore electricity transmission",
         "conferenceTitle": "9th IET International Conference on AC and DC Power Transmission (ACDC 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2010",
+        "data": "19-21 Oct. 2010",
         "authors": [
             "A. Hiorns",
             "R. Smith",
@@ -1075,8 +998,7 @@
     {
         "title": "Cloud Loading Balance algorithm",
         "conferenceTitle": "The 2nd International Conference on Information Science and Engineering",
-        "Content Type": "Conferences",
-        "date": "4-6 Dec. 2010",
+        "data": "4-6 Dec. 2010",
         "authors": [
             "Zhang Bo",
             "Gao Ji",
@@ -1089,8 +1011,7 @@
     {
         "title": "On-board autodyne velocity sensors for aeroballistic inspections",
         "conferenceTitle": "2010 20th International Crimean Conference \"Microwave & Telecommunication Technology\"",
-        "Content Type": "Conferences",
-        "date": "13-17 Sept. 2010",
+        "data": "13-17 Sept. 2010",
         "authors": [
             "N. M. Zakarluk",
             "V. Ya. Noskov",
@@ -1103,8 +1024,7 @@
     {
         "title": "Study on stability control for single link rotary inverted pendulum",
         "conferenceTitle": "2010 International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "26-28 June 2010",
+        "data": "26-28 June 2010",
         "authors": [
             "Huang Mei",
             "Zhang He"
@@ -1116,8 +1036,7 @@
     {
         "title": "Islanding detection using an accumulated phase angle drift measurement",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "H.T. Yip",
             "G. Millar",
@@ -1133,8 +1052,7 @@
     {
         "title": "Modeling switched capacitor sigma delta modulator nonidealities in SystemC-AMS",
         "conferenceTitle": "2010 Forum on Specification & Design Languages (FDL 2010)",
-        "Content Type": "Conferences",
-        "date": "14-16 Sept. 2010",
+        "data": "14-16 Sept. 2010",
         "authors": [
             "Sumit Adhikari",
             "Christoph Grimm"
@@ -1146,8 +1064,7 @@
     {
         "title": "The Linear Delta: Developments and Applications",
         "conferenceTitle": "ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)",
-        "Content Type": "Conferences",
-        "date": "7-9 June 2010",
+        "data": "7-9 June 2010",
         "authors": [
             "M. Bouri",
             "R. Clavel"
@@ -1159,8 +1076,7 @@
     {
         "title": "Tunable BaxSr1-xTiO3 FBARs based on SiO2/W Bragg reflectors",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "A. Vorobiev",
             "S. Gevorgian"
@@ -1172,8 +1088,7 @@
     {
         "title": "Analysis on qualities of bio-etching processing micro-gear part",
         "conferenceTitle": "2010 International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "26-28 June 2010",
+        "data": "26-28 June 2010",
         "authors": [
             "Yude Liu",
             "Wentian Shi",
@@ -1187,8 +1102,7 @@
     {
         "title": "Modeling wind generators with full-scale frequency converters: Stability and passivity properties",
         "conferenceTitle": "7th Mediterranean Conference and Exhibition on Power Generation, Transmission, Distribution and Energy Conversion (MedPower 2010)",
-        "Content Type": "Conferences",
-        "date": "7-10 Nov. 2010",
+        "data": "7-10 Nov. 2010",
         "authors": [
             "Antonio T. Alexandridis",
             "Grigorios E. Marmidis"
@@ -1200,8 +1114,7 @@
     {
         "title": "A novel power divider design with enhanced harmonic suppression and simple layout",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "W. IP",
             "K. M. Cheng"
@@ -1213,8 +1126,7 @@
     {
         "title": "Wideband high power GaN on SiC SPDT switch MMICs",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "C. F. Campbell",
             "D. C. Dumka"
@@ -1226,8 +1138,7 @@
     {
         "title": "Inverter control using a simpilied Fuzzy PI controller",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "S. M. Ayob",
             "Z. Salam",
@@ -1240,8 +1151,7 @@
     {
         "title": "Voltage control of three-stage hybrid multilevel inverter using vector transformation",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "M. N. Abdul Kadir",
             "S. Mekhilef",
@@ -1254,8 +1164,7 @@
     {
         "title": "Development Internet resources in Uzbekistan: Empirical investigation",
         "conferenceTitle": "2010 4th International Conference on Application of Information and Communication Technologies",
-        "Content Type": "Conferences",
-        "date": "12-14 Oct. 2010",
+        "data": "12-14 Oct. 2010",
         "authors": [
             "A. E. Kuvnakov",
             "S. S. Kasimov"
@@ -1267,8 +1176,7 @@
     {
         "title": "An experimental and computational study of water cooled heatsinks for HEV's",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "V. Pickert",
             "H. Cheng",
@@ -1282,8 +1190,7 @@
     {
         "title": "Adaptive control scheme for a practical bidirectional DC-DC converter with a 80 kHz switching and a 10 kHz sampling frequency",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "S. De Breucker",
             "K. Engelen",
@@ -1297,8 +1204,7 @@
     {
         "title": "Power boost unit for automotive Electric Power Steering systems",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "Edward Christopher",
             "Mark Sumner",
@@ -1312,8 +1218,7 @@
     {
         "title": "Application of synchrophasors to adaptive protection of transmission lines compensated by UPFC",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "Mojtaba Khederzadeh"
         ],
@@ -1324,8 +1229,7 @@
     {
         "title": "Customer Segmentation Study of College Students Based on the RFM",
         "conferenceTitle": "2010 International Conference on E-Business and E-Government",
-        "Content Type": "Conferences",
-        "date": "7-9 May 2010",
+        "data": "7-9 May 2010",
         "authors": [
             "Ma Haiying",
             "Guo Yu"
@@ -1337,8 +1241,7 @@
     {
         "title": "Shape-preserving response prediction for microwave circuit modeling",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "S. Koziel"
         ],
@@ -1349,8 +1252,7 @@
     {
         "title": "Design concept of short-circuit fault-tolerance permanent magnet machine",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "Y. Pang",
             "Z.Q. Zhu",
@@ -1364,8 +1266,7 @@
     {
         "title": "The evolutionary algorithm EPSO to coordinate directional overcurrent relays",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "H Leite",
             "J Barros",
@@ -1378,8 +1279,7 @@
     {
         "title": "Parameter estimation of an induction machine using a chaos particle swarm optimization algorithm",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "D. C. Huynh",
             "M. W. Dunnigan"
@@ -1391,8 +1291,7 @@
     {
         "title": "A simple predictive control technique of power electronic transformers with high dynamic features",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "G. Brando",
             "A. Dannier",
@@ -1405,8 +1304,7 @@
     {
         "title": "Open-circuit fault mitigation for multiphase induction motors with a unified control structure",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "J.M. Apsley"
         ],
@@ -1417,8 +1315,7 @@
     {
         "title": "Dynamic load modelling of electric locomotive for power quality assessment of utilities",
         "conferenceTitle": "IET Conference on Railway Traction Systems (RTS 2010)",
-        "Content Type": "Conferences",
-        "date": "13-15 April 2010",
+        "data": "13-15 April 2010",
         "authors": [
             "Y. Shaobing",
             "W. Mingli"
@@ -1430,8 +1327,7 @@
     {
         "title": "A novel slot antenna for UHF RFID tag",
         "conferenceTitle": "IET 3rd International Conference on Wireless, Mobile and Multimedia Networks (ICWMNN 2010)",
-        "Content Type": "Conferences",
-        "date": "26-29 Sept. 2010",
+        "data": "26-29 Sept. 2010",
         "authors": [
             "Yongming Zhou"
         ],
@@ -1442,8 +1338,7 @@
     {
         "title": "Distance protection under extreme conditions",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "H. Kang",
             "S. Subramanian",
@@ -1457,8 +1352,7 @@
     {
         "title": "A new approach to design low cost, low complexity phased arrays",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "D. Ehyaie",
             "A. Mortazawi"
@@ -1470,8 +1364,7 @@
     {
         "title": "Investigating the cooling performance of the end region of a small Totally Enclosed Fan Cooled (tefc) induction motor",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "A. Saliba",
             "C. Micallef"
@@ -1483,8 +1376,7 @@
     {
         "title": "Measurement methods of complex permittivity and permeability of sheet samples in free space in microwave range",
         "conferenceTitle": "2010 20th International Crimean Conference \"Microwave & Telecommunication Technology\"",
-        "Content Type": "Conferences",
-        "date": "13-17 Sept. 2010",
+        "data": "13-17 Sept. 2010",
         "authors": [
             "V. N. Semenenko",
             "V. A. Chistyaev"
@@ -1496,8 +1388,7 @@
     {
         "title": "Notice of Retraction: Bilingual Teaching Practice of Undergraduate Computer Graphics",
         "conferenceTitle": "2010 Second International Workshop on Education Technology and Computer Science",
-        "Content Type": "Conferences",
-        "date": "6-7 March 2010",
+        "data": "6-7 March 2010",
         "authors": [
             "Jinshu Han"
         ],
@@ -1508,8 +1399,7 @@
     {
         "title": "Supermarket shopping guide system based on Internet of things",
         "conferenceTitle": "IET International Conference on Wireless Sensor Network 2010 (IET-WSN 2010)",
-        "Content Type": "Conferences",
-        "date": "15-17 Nov. 2010",
+        "data": "15-17 Nov. 2010",
         "authors": [
             "Rong Chen",
             "Li Peng",
@@ -1522,8 +1412,7 @@
     {
         "title": "A heuristic bidirectional search algorithm for automatic Web service composition",
         "conferenceTitle": "2010 International Conference on Advanced Intelligence and Awarenss Internet (AIAI 2010)",
-        "Content Type": "Conferences",
-        "date": "23-25 Oct. 2010",
+        "data": "23-25 Oct. 2010",
         "authors": [
             "Bo Zhang"
         ],
@@ -1534,8 +1423,7 @@
     {
         "title": "Notice of Retraction: Analyzing the relationship between managers' leadership competencies and leadership styles in design industries",
         "conferenceTitle": "2010 IEEE International Conference on Advanced Management Science(ICAMS 2010)",
-        "Content Type": "Conferences",
-        "date": "9-11 July 2010",
+        "data": "9-11 July 2010",
         "authors": [
             "I-Jun Chen"
         ],
@@ -1546,8 +1434,7 @@
     {
         "title": "Protection and voltage control of DFIG wind turbines during grid faults",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "Milton Kumar Das",
             "S. Chowdhury",
@@ -1560,8 +1447,7 @@
     {
         "title": "Adaptive data aggregation mechanism based on leach protocol",
         "conferenceTitle": "2010 International Conference on Advanced Intelligence and Awarenss Internet (AIAI 2010)",
-        "Content Type": "Conferences",
-        "date": "23-25 Oct. 2010",
+        "data": "23-25 Oct. 2010",
         "authors": [
             "Nan Li",
             "Shangru Li",
@@ -1572,10 +1458,21 @@
         "abstract": "In wireless sensor networks (WSNs), where the battery supply is extremely limited, reduction in transmission is necessary for lengthening the life span of the networks. However, the QoS of transmission is always impaired when data aggregation mechanisms are applied. In this article, we put forward a new approach-Adaptive Data Aggregation Mechanism (ADAM) to solve this dilemma, based on a unique characteristic in WSNs on LEACH protocol: the resemblance of data sent from neighboring nodes. Adopting ADAM, the cluster head examines the statistical characters of packets received from surrounding nodes to achieve the optimal aggregation parameters, breaks the data into blocks and then use a shorter data pattern to represent repeating blocks in transmission so as to minimize inter-node level redundancy. At the sink, applying the inverse-operation, the original information can be totally recovered. The specific message formats, the algorithm and the parameters such as frame size and block size are devised and tested in the following passages. And from the simulation, we prove the effectiveness of ADAM in realizing data fusion with remarkable compression ratio and thus expanding the lift-time of the networks."
     },
     {
+        "title": "An efficient stopping criterion of LDPC decoding for optical transmission",
+        "conferenceTitle": "9th International Conference on Optical Communications and Networks (ICOCN 2010)",
+        "data": "24-27 Oct. 2010",
+        "authors": [
+            "Ming Jiang",
+            "Jinfang Dou"
+        ],
+        "DOI": "10.1049/cp.2010.1204",
+        "citation": 3,
+        "abstract": "The stopping criterion based on parity-check constraints is an inherent advantage of low-density parity-check (LDPC) codes. However, the parity-check computation with signs of the posterior information costs additional hardware or decoding delays, which may be a particular problem for the full-parallel LDPC decoding in optical transmission. Furthermore, the performance degradation caused by using simplified stopping criterions should also be considered, where the maximum number of the iterations is usually limited by the very high decoding speed in optical transmission. In this paper, we propose an efficient early stopping criterion with the consideration of the complexity/performance tradeoffs. The new method is based an intelligent combination of check equations and temporary hard decisions, and can be pipelined with check-node updating, thus leading to lower complexity and power consumption, which are desirable for both optical and wireless communications. Simulation results show that the hybrid criterion not only achieves the same performance as the conventional stopping criterions, but also provides a noticeable gain for the other simplified stopping criterions."
+    },
+    {
         "title": "Power Generation by using point absorber wave energy converter coupled with linear permanent magnet generator",
         "conferenceTitle": "7th Mediterranean Conference and Exhibition on Power Generation, Transmission, Distribution and Energy Conversion (MedPower 2010)",
-        "Content Type": "Conferences",
-        "date": "7-10 Nov. 2010",
+        "data": "7-10 Nov. 2010",
         "authors": [
             "Nikolaos M. Kimoulakis",
             "Panagiotis E. Kakosimos",
@@ -1588,8 +1485,7 @@
     {
         "title": "UAV path planning for maximum visibility of ground targets in an urban area",
         "conferenceTitle": "2010 13th International Conference on Information Fusion",
-        "Content Type": "Conferences",
-        "date": "26-29 July 2010",
+        "data": "26-29 July 2010",
         "authors": [
             "Jongrae Kim",
             "John L. Crassidis"
@@ -1601,8 +1497,7 @@
     {
         "title": "Simplified power quality conditioner for dynamic voltage restoration and fault current limitation",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "M. Hojo",
             "Y. Fukuoka",
@@ -1616,8 +1511,7 @@
     {
         "title": "A cognitive spatial multiplexing scheme for MIMO-CDMA networks",
         "conferenceTitle": "IET 3rd International Conference on Wireless, Mobile and Multimedia Networks (ICWMNN 2010)",
-        "Content Type": "Conferences",
-        "date": "26-29 Sept. 2010",
+        "data": "26-29 Sept. 2010",
         "authors": [
             "Yang Xiao",
             "Kiseon Kim",
@@ -1628,10 +1522,21 @@
         "abstract": "The existing cognitive schemes have not considered cognitive spatial multiplexing (CSM) for MIMO-CDMA network, there are three vital problems to hinder CSM's application: spatial channels' estimation for mobile stations(MSs), space-time coding and decoding for base station (BS) and MSs, the implementation complexity of BS and MSs. To solve the problems, a simplified cognitive spatial multiplexing scheme is proposed, including BS and MS systems, where MIMO BS in a cell has two antennas and each MS of lower moving speed has one antenna only. To ensure communication quality of the network, the scheme applies LDPC as the channel coding instead of space-time coding for BSs and MSs. BS assigns the same CDMA channels for MSs to have larger space interval. Simulations show that good spatial multiplexing capacity and BER performance have been achieved by the proposed scheme."
     },
     {
+        "title": "Curvature and density based feature point detection for point cloud data",
+        "conferenceTitle": "IET 3rd International Conference on Wireless, Mobile and Multimedia Networks (ICWMNN 2010)",
+        "data": "26-29 Sept. 2010",
+        "authors": [
+            "Lihui Wang",
+            "Baozong Yuan"
+        ],
+        "DOI": "10.1049/cp.2010.0694",
+        "citation": 3,
+        "abstract": "Information of unordered point cloud is limited because of no direct topologic relation between points or triangular facets. So it will be difficult to obtain the feature points of 3D point cloud data. In this article, we use the geometry properties, such as normal, curvature and density of the points' information to detect features of the 3D point cloud data and propose a curvature and density based feature point detection method for unordered 3D point cloud data. Firstly, we define a feature parameter of 3D point cloud data, which includes the distance with its neighboring points, the sum of the normal angle between the point and neighboring points, and point cloud data curvature. Secondly, the density of data points is calculated by using Octree and is used as the features of points by a threshold of their feature parameter. The experimental results show that our new approach might detect feature points accurately for the given 3D point cloud data."
+    },
+    {
         "title": "Usage of power electronics to enhance the flexibility and stability of power systems",
         "conferenceTitle": "IET Seminar on Power Electronics 2010: Improving the Efficiency of the Power Grid",
-        "Content Type": "Conferences",
-        "date": "9-9 June 2010",
+        "data": "9-9 June 2010",
         "authors": [
             "Sarath B Tennakoon"
         ],
@@ -1642,8 +1547,7 @@
     {
         "title": "Control block diagram representation of an HVDC system for sub-synchronous frequency interaction studies",
         "conferenceTitle": "9th IET International Conference on AC and DC Power Transmission (ACDC 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2010",
+        "data": "19-21 Oct. 2010",
         "authors": [
             "C. Karawita",
             "U.D. Annakkage"
@@ -1655,8 +1559,7 @@
     {
         "title": "Adaptive error control in Wireless Sensor Networks",
         "conferenceTitle": "IET International Conference on Wireless Sensor Network 2010 (IET-WSN 2010)",
-        "Content Type": "Conferences",
-        "date": "15-17 Nov. 2010",
+        "data": "15-17 Nov. 2010",
         "authors": [
             "Zhang Liankuan",
             "Xiao Deqin",
@@ -1670,8 +1573,7 @@
     {
         "title": "Intelligent traffic control central system of Beijing-SCOOT",
         "conferenceTitle": "2010 International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "26-28 June 2010",
+        "data": "26-28 June 2010",
         "authors": [
             "Chen Zhaomeng"
         ],
@@ -1682,8 +1584,7 @@
     {
         "title": "Bond graph analysis of power flow in series-parallel hybrid electric vehicle transmissions",
         "conferenceTitle": "UKACC International Conference on Control 2010",
-        "Content Type": "Conferences",
-        "date": "7-10 Sept. 2010",
+        "data": "7-10 Sept. 2010",
         "authors": [
             "Mihael Cipek",
             "Joško Deur",
@@ -1696,8 +1597,7 @@
     {
         "title": "Simulation of landslide based on physical engine",
         "conferenceTitle": "The 2nd International Conference on Information Science and Engineering",
-        "Content Type": "Conferences",
-        "date": "4-6 Dec. 2010",
+        "data": "4-6 Dec. 2010",
         "authors": [
             "Fang Chao",
             "Xiao-Jing Yao"
@@ -1709,8 +1609,7 @@
     {
         "title": "A revised AODV routing protocol based on the relative mobility of nodes",
         "conferenceTitle": "IET 3rd International Conference on Wireless, Mobile and Multimedia Networks (ICWMNN 2010)",
-        "Content Type": "Conferences",
-        "date": "26-29 Sept. 2010",
+        "data": "26-29 Sept. 2010",
         "authors": [
             "Dongxia Li",
             "Xinan Fu"
@@ -1722,8 +1621,7 @@
     {
         "title": "Novel parameter-free fault location algorithm for transmission lines with series compensation",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "G. Preston",
             "Z. Radojević",
@@ -1736,8 +1634,7 @@
     {
         "title": "Lightning model for HVDC transmission lines",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "M. You",
             "B. H. Zhang",
@@ -1752,8 +1649,7 @@
     {
         "title": "Combinatorial double auctions based on subgradient algorithm",
         "conferenceTitle": "IET International Conference on Frontier Computing. Theory, Technologies and Applications",
-        "Content Type": "Conferences",
-        "date": "4-6 Aug. 2010",
+        "data": "4-6 Aug. 2010",
         "authors": [
             "Fu-Shiung Hsieh",
             "Chung-Wei Huang"
@@ -1765,8 +1661,7 @@
     {
         "title": "Tunable microwave photonic filter with programmable apodization based on optical comb",
         "conferenceTitle": "2010 Conference on Optical Fiber Communication (OFC/NFOEC), collocated National Fiber Optic Engineers Conference",
-        "Content Type": "Conferences",
-        "date": "21-25 March 2010",
+        "data": "21-25 March 2010",
         "authors": [
             "Ehsan Hamidi",
             "Daniel E. Leaird",
@@ -1779,8 +1674,7 @@
     {
         "title": "An improved algorithm of fast motion estimation based on H.264",
         "conferenceTitle": "2010 5th International Conference on Computer Science & Education",
-        "Content Type": "Conferences",
-        "date": "24-27 Aug. 2010",
+        "data": "24-27 Aug. 2010",
         "authors": [
             "Qiu Xiao-bin",
             "Huang Chun-qing"
@@ -1792,8 +1686,7 @@
     {
         "title": "Control engineering challenges for railway trains of the future",
         "conferenceTitle": "UKACC International Conference on Control 2010",
-        "Content Type": "Conferences",
-        "date": "7-10 Sept. 2010",
+        "data": "7-10 Sept. 2010",
         "authors": [
             "Roger M Goodall"
         ],
@@ -1804,8 +1697,7 @@
     {
         "title": "Research on the complexity in Internet of Things",
         "conferenceTitle": "2010 International Conference on Advanced Intelligence and Awarenss Internet (AIAI 2010)",
-        "Content Type": "Conferences",
-        "date": "23-25 Oct. 2010",
+        "data": "23-25 Oct. 2010",
         "authors": [
             "Kai Zhang",
             "Dahai Han",
@@ -1818,8 +1710,7 @@
     {
         "title": "A concentrically corrugated near-field plate",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "M. F. Imani",
             "A. Grbic"
@@ -1831,8 +1722,7 @@
     {
         "title": "Thermal isolation in 3D chip stacks using vacuum gaps and capacitive or inductive communications",
         "conferenceTitle": "2010 IEEE International 3D Systems Integration Conference (3DIC)",
-        "Content Type": "Conferences",
-        "date": "16-18 Nov. 2010",
+        "data": "16-18 Nov. 2010",
         "authors": [
             "Paul Franzon",
             "John Wilson",
@@ -1845,8 +1735,7 @@
     {
         "title": "Control of wheel motors for the provision of light rail traction and steering",
         "conferenceTitle": "UKACC International Conference on Control 2010",
-        "Content Type": "Conferences",
-        "date": "7-10 Sept. 2010",
+        "data": "7-10 Sept. 2010",
         "authors": [
             "T. X. Mei",
             "K. W. Qu",
@@ -1859,8 +1748,7 @@
     {
         "title": "Wideband power amplifier MMICs utilizing GaN on SiC",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "E. Reese",
             "D. Allen",
@@ -1874,8 +1762,7 @@
     {
         "title": "Fault tolerant design of a high speed permanent magnet machine",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "T. Raminosoa",
             "D. Gerada",
@@ -1888,8 +1775,7 @@
     {
         "title": "Development of a Multi-fingered Robot Hand with Softness-changeable Skin Mechanism",
         "conferenceTitle": "ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)",
-        "Content Type": "Conferences",
-        "date": "7-9 June 2010",
+        "data": "7-9 June 2010",
         "authors": [
             "Hiroki Takeuchi",
             "Tetsuyou Watanabe"
@@ -1901,8 +1787,7 @@
     {
         "title": "Fuzzy logic control of brushless doubly fed induction generator",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "Sayed O. Madbouly",
             "Hussein F. Soliman",
@@ -1916,8 +1801,7 @@
     {
         "title": "Hardware-in-the-loop evaluation of electric vehicle drives",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "J.M. Apsley",
             "E. Varrone",
@@ -1930,8 +1814,7 @@
     {
         "title": "Simulation and Result Analysis of AMEsim for the Relief Valve Dynamic Characteristics Experiment",
         "conferenceTitle": "2010 International Conference on Electrical and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "25-27 June 2010",
+        "data": "25-27 June 2010",
         "authors": [
             "Xiu Lei",
             "Yajun Wu"
@@ -1943,8 +1826,7 @@
     {
         "title": "Research on affective computing application in E-learning system",
         "conferenceTitle": "The 2nd International Conference on Information Science and Engineering",
-        "Content Type": "Conferences",
-        "date": "4-6 Dec. 2010",
+        "data": "4-6 Dec. 2010",
         "authors": [
             "Liu Fanghua",
             "Ni Hao"
@@ -1956,8 +1838,7 @@
     {
         "title": "Performance of VFT when connecting two power grids operating under different frequencies",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "E. T. Raslan",
             "A. S. Abdel-Khalik",
@@ -1971,8 +1852,7 @@
     {
         "title": "Notice of Retraction: The Research of AMR in Smart Meter",
         "conferenceTitle": "2010 Asia-Pacific Power and Energy Engineering Conference",
-        "Content Type": "Conferences",
-        "date": "28-31 March 2010",
+        "data": "28-31 March 2010",
         "authors": [
             "Wei-xuan Li",
             "Xin-yi Wang"
@@ -1984,8 +1864,7 @@
     {
         "title": "Reversible data hiding with affine invariance for 3D models",
         "conferenceTitle": "IET International Conference on Frontier Computing. Theory, Technologies and Applications",
-        "Content Type": "Conferences",
-        "date": "4-6 Aug. 2010",
+        "data": "4-6 Aug. 2010",
         "authors": [
             "Cheng-Hung Chuang",
             "Chin-Wei Cheng",
@@ -1998,8 +1877,7 @@
     {
         "title": "When to assist? - Modelling human behaviour for hybrid assembly systems",
         "conferenceTitle": "ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)",
-        "Content Type": "Conferences",
-        "date": "7-9 June 2010",
+        "data": "7-9 June 2010",
         "authors": [
             "Markus Huber",
             "Alois Knoll",
@@ -2013,8 +1891,7 @@
     {
         "title": "Finite element analysis of Locomotive Traction Gear",
         "conferenceTitle": "2010 International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "26-28 June 2010",
+        "data": "26-28 June 2010",
         "authors": [
             "Junhua Bao",
             "Weidong He",
@@ -2027,8 +1904,7 @@
     {
         "title": "Analysis of measured impedance by distance relay in presence of SSSC",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "A. Shojaei",
             "S. M. Madani"
@@ -2040,8 +1916,7 @@
     {
         "title": "A configurable FFT processor",
         "conferenceTitle": "IET 3rd International Conference on Wireless, Mobile and Multimedia Networks (ICWMNN 2010)",
-        "Content Type": "Conferences",
-        "date": "26-29 Sept. 2010",
+        "data": "26-29 Sept. 2010",
         "authors": [
             "Jing He",
             "Lanjuan Ma",
@@ -2054,8 +1929,7 @@
     {
         "title": "Experimental demonstration of optical processor-memory interconnection",
         "conferenceTitle": "2010 International Conference on Advanced Intelligence and Awarenss Internet (AIAI 2010)",
-        "Content Type": "Conferences",
-        "date": "23-25 Oct. 2010",
+        "data": "23-25 Oct. 2010",
         "authors": [
             "Yawei Yin",
             "Roberto Proietti",
@@ -2070,8 +1944,7 @@
     {
         "title": "Efficient EEG compression using JPEG2000 with coefficient thresholding",
         "conferenceTitle": "IET Irish Signals and Systems Conference (ISSC 2010)",
-        "Content Type": "Conferences",
-        "date": "23-24 June 2010",
+        "data": "23-24 June 2010",
         "authors": [
             "Garry Higgins",
             "Brian McGinley",
@@ -2085,8 +1958,7 @@
     {
         "title": "Notice of Retraction: How to improve the undergraduate accounting education",
         "conferenceTitle": "2010 International Conference on Optics, Photonics and Energy Engineering (OPEE)",
-        "Content Type": "Conferences",
-        "date": "10-11 May 2010",
+        "data": "10-11 May 2010",
         "authors": [
             "Weidong Jiang"
         ],
@@ -2097,8 +1969,7 @@
     {
         "title": "Enhancing the transmission capability using FACTS: The Finnish experience",
         "conferenceTitle": "9th IET International Conference on AC and DC Power Transmission (ACDC 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2010",
+        "data": "19-21 Oct. 2010",
         "authors": [
             "T. Rauhala",
             "J. Jyrinsalo",
@@ -2111,8 +1982,7 @@
     {
         "title": "Combined complex permeance and sub-domain model for analytical predicting electromagnetic performance of surface-mounted PM machines",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "L.J. Wu",
             "Z.Q. Zhu",
@@ -2127,8 +1997,7 @@
     {
         "title": "A low-power wireless ECG processing node and remote monitoring system",
         "conferenceTitle": "IET Irish Signals and Systems Conference (ISSC 2010)",
-        "Content Type": "Conferences",
-        "date": "23-24 June 2010",
+        "data": "23-24 June 2010",
         "authors": [
             "Eoin O'Connell",
             "Seán O'Connell",
@@ -2142,8 +2011,7 @@
     {
         "title": "Bus arrival time prediction model based on APC data",
         "conferenceTitle": "6th Advanced Forum on Transportation of China (AFTC 2010)",
-        "Content Type": "Conferences",
-        "date": "16-16 Oct. 2010",
+        "data": "16-16 Oct. 2010",
         "authors": [
             "Shaowu Cheng",
             "Baoyi Liu",
@@ -2156,8 +2024,7 @@
     {
         "title": "Simulation and implement of traditional Chinese finger-kneading based on hybrid force position control",
         "conferenceTitle": "The 2nd International Conference on Information Science and Engineering",
-        "Content Type": "Conferences",
-        "date": "4-6 Dec. 2010",
+        "data": "4-6 Dec. 2010",
         "authors": [
             "Xu Ying",
             "Yao Tengzhou"
@@ -2169,8 +2036,7 @@
     {
         "title": "A novel nonlinear multisensor multitarget tracking algorithm",
         "conferenceTitle": "IET 3rd International Conference on Wireless, Mobile and Multimedia Networks (ICWMNN 2010)",
-        "Content Type": "Conferences",
-        "date": "26-29 Sept. 2010",
+        "data": "26-29 Sept. 2010",
         "authors": [
             "Lin-lin Zhang",
             "Ri-jie Yang",
@@ -2183,8 +2049,7 @@
     {
         "title": "Breaker failure protection with fault-type-dependent operating time and CT subsidence current detection",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "H. J. Altuve",
             "M. J. Thompson",
@@ -2198,8 +2063,7 @@
     {
         "title": "Comparative analysis of vehicle to pole collision models established using analytical methods and neural networks",
         "conferenceTitle": "5th IET International Conference on System Safety 2010",
-        "Content Type": "Conferences",
-        "date": "18-20 Oct. 2010",
+        "data": "18-20 Oct. 2010",
         "authors": [
             "W. Pawlus",
             "J. E. Nielsen",
@@ -2213,8 +2077,7 @@
     {
         "title": "Parameter estimation of K distribution based on second-kind statistics",
         "conferenceTitle": "2010 13th International Conference on Information Fusion",
-        "Content Type": "Conferences",
-        "date": "26-29 July 2010",
+        "data": "26-29 July 2010",
         "authors": [
             "Zengguo Sun",
             "Chongzhao Han",
@@ -2227,8 +2090,7 @@
     {
         "title": "Power management strategy study for a multiple unit train",
         "conferenceTitle": "IET Conference on Railway Traction Systems (RTS 2010)",
-        "Content Type": "Conferences",
-        "date": "13-15 April 2010",
+        "data": "13-15 April 2010",
         "authors": [
             "S. Lu",
             "S. Hillmansen",
@@ -2241,8 +2103,7 @@
     {
         "title": "Analysis of multi-infeed HVDC systems with inverter and rectifier connected to the same AC network",
         "conferenceTitle": "9th IET International Conference on AC and DC Power Transmission (ACDC 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2010",
+        "data": "19-21 Oct. 2010",
         "authors": [
             "E. Rahimi",
             "A.M. Gole",
@@ -2255,8 +2116,7 @@
     {
         "title": "A Real-TimeWearable Projector-Wiimote-System for Augmented Reality Interaction Scenarios on Plane Objects",
         "conferenceTitle": "ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)",
-        "Content Type": "Conferences",
-        "date": "7-9 June 2010",
+        "data": "7-9 June 2010",
         "authors": [
             "Alexander Steiger",
             "Bjoern Hein",
@@ -2269,8 +2129,7 @@
     {
         "title": "Multiprotocol communication for mobile devices",
         "conferenceTitle": "International Conference on Next Generation Networks",
-        "Content Type": "Conferences",
-        "date": "24-25 Sept. 2010",
+        "data": "24-25 Sept. 2010",
         "authors": [
             "R. Nagaraja",
             "G T Raju"
@@ -2282,8 +2141,7 @@
     {
         "title": "A versatile and cryogenic mHEMT-model including noise",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "M. Seelmann-Eggebert",
             "F. Schäfer",
@@ -2297,8 +2155,7 @@
     {
         "title": "Notice of Retraction: The calculation of main parameters of the gasoline engine fuel injection system",
         "conferenceTitle": "2010 International Conference on Computer Application and System Modeling (ICCASM 2010)",
-        "Content Type": "Conferences",
-        "date": "22-24 Oct. 2010",
+        "data": "22-24 Oct. 2010",
         "authors": [
             "Haiping Yu",
             "Xianyi Qian"
@@ -2310,8 +2167,7 @@
     {
         "title": "Development of Collaborative Robots (COBOTS) for Flexible Human-Integrated Assembly Automation",
         "conferenceTitle": "ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)",
-        "Content Type": "Conferences",
-        "date": "7-9 June 2010",
+        "data": "7-9 June 2010",
         "authors": [
             "Dragoljub Surdilovic",
             "Gerhard Schreck",
@@ -2322,23 +2178,9 @@
         "abstract": "This paper addresses the stability and safety issues in powered human-robot-environment interactive systems. It presents the extension of the robust control design framework, initially established for the interaction between an industrial robot and stiff environment, to novel human-robot-environment and human-robot-human-environment interactive systems with physical interfaces. This theoretical framework has been utilized for the control design of novel collaborative robot supporting complex assembly process in automotive industry developed in the PISA project. The practical design and initial application tests with a novel power collaborative developed in the PISA project are also presented in the paper."
     },
     {
-        "title": "An efficient stopping criterion of LDPC decoding for optical transmission",
-        "conferenceTitle": "9th International Conference on Optical Communications and Networks (ICOCN 2010)",
-        "Content Type": "Conferences",
-        "date": "24-27 Oct. 2010",
-        "authors": [
-            "Ming Jiang",
-            "Jinfang Dou"
-        ],
-        "DOI": "10.1049/cp.2010.1204",
-        "citation": 2,
-        "abstract": "The stopping criterion based on parity-check constraints is an inherent advantage of low-density parity-check (LDPC) codes. However, the parity-check computation with signs of the posterior information costs additional hardware or decoding delays, which may be a particular problem for the full-parallel LDPC decoding in optical transmission. Furthermore, the performance degradation caused by using simplified stopping criterions should also be considered, where the maximum number of the iterations is usually limited by the very high decoding speed in optical transmission. In this paper, we propose an efficient early stopping criterion with the consideration of the complexity/performance tradeoffs. The new method is based an intelligent combination of check equations and temporary hard decisions, and can be pipelined with check-node updating, thus leading to lower complexity and power consumption, which are desirable for both optical and wireless communications. Simulation results show that the hybrid criterion not only achieves the same performance as the conventional stopping criterions, but also provides a noticeable gain for the other simplified stopping criterions."
-    },
-    {
         "title": "Introducing control using little mathematics",
         "conferenceTitle": "UKACC International Conference on Control 2010",
-        "Content Type": "Conferences",
-        "date": "7-10 Sept. 2010",
+        "data": "7-10 Sept. 2010",
         "authors": [
             "Richard J Mitchell"
         ],
@@ -2349,8 +2191,7 @@
     {
         "title": "Notice of Retraction: Risk analysis and assessment of wind power project",
         "conferenceTitle": "2010 IEEE International Conference on Emergency Management and Management Sciences",
-        "Content Type": "Conferences",
-        "date": "8-10 Aug. 2010",
+        "data": "8-10 Aug. 2010",
         "authors": [
             "Chongming Liu",
             "Yirong Jiang"
@@ -2362,8 +2203,7 @@
     {
         "title": "Notice of Retraction: Research on enterprise human resource competitiveness based on BP ANN",
         "conferenceTitle": "2010 3rd International Conference on Computer Science and Information Technology",
-        "Content Type": "Conferences",
-        "date": "9-11 July 2010",
+        "data": "9-11 July 2010",
         "authors": [
             "Gao Xiang",
             "Wu Bo"
@@ -2375,8 +2215,7 @@
     {
         "title": "Mobile Manipulation in Service Robotics: Scene and Object Recognition with Manipulator-Mounted Laser Ranger",
         "conferenceTitle": "ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)",
-        "Content Type": "Conferences",
-        "date": "7-9 June 2010",
+        "data": "7-9 June 2010",
         "authors": [
             "Manuel Wopfner",
             "Jonas Brich",
@@ -2390,8 +2229,7 @@
     {
         "title": "Notice of Retraction: Study on efficiency and flow characteristics of two kinds of pneumatic booster valves",
         "conferenceTitle": "2010 International Conference on Computer, Mechatronics, Control and Electronic Engineering",
-        "Content Type": "Conferences",
-        "date": "24-26 Aug. 2010",
+        "data": "24-26 Aug. 2010",
         "authors": [
             "Yan Shi",
             "Mao-lin Cai"
@@ -2403,8 +2241,7 @@
     {
         "title": "A new nonlinear dynamic output voltage controller for power dc/dc boost converters",
         "conferenceTitle": "7th Mediterranean Conference and Exhibition on Power Generation, Transmission, Distribution and Energy Conversion (MedPower 2010)",
-        "Content Type": "Conferences",
-        "date": "7-10 Nov. 2010",
+        "data": "7-10 Nov. 2010",
         "authors": [
             "George C. Konstantopoulos",
             "Antonio T. Alexandridis"
@@ -2416,8 +2253,7 @@
     {
         "title": "A Robust Routing Protocol in wireless sensor network",
         "conferenceTitle": "IET International Conference on Wireless Sensor Network 2010 (IET-WSN 2010)",
-        "Content Type": "Conferences",
-        "date": "15-17 Nov. 2010",
+        "data": "15-17 Nov. 2010",
         "authors": [
             "Zhe Zang",
             "Jian-Dong Qi",
@@ -2430,8 +2266,7 @@
     {
         "title": "A Flexible Real-Time Control System for Autonomous Vehicles",
         "conferenceTitle": "ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)",
-        "Content Type": "Conferences",
-        "date": "7-9 June 2010",
+        "data": "7-9 June 2010",
         "authors": [
             "Johannes Meyer",
             "Armin Strobel"
@@ -2443,8 +2278,7 @@
     {
         "title": "Application of neural network PID controller to elevator control system",
         "conferenceTitle": "Proceedings of the 29th Chinese Control Conference",
-        "Content Type": "Conferences",
-        "date": "29-31 July 2010",
+        "data": "29-31 July 2010",
         "authors": [
             "Chunwen Li",
             "Lingzhi Cao",
@@ -2457,8 +2291,7 @@
     {
         "title": "Adatpive single phase fault identification and selection technique for maintaining continued operaton of distributed generation",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "S. K. Salman",
             "S.F. Tan"
@@ -2470,8 +2303,7 @@
     {
         "title": "Pneumatic Rehabilitation Robot: Modeling and Control",
         "conferenceTitle": "ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)",
-        "Content Type": "Conferences",
-        "date": "7-9 June 2010",
+        "data": "7-9 June 2010",
         "authors": [
             "R. Morales",
             "F. J. Badesa",
@@ -2490,8 +2322,7 @@
     {
         "title": "Notice of Removal: Pulse wave transit time and its relationship with systolic blood pressure",
         "conferenceTitle": "2010 2nd International Conference on Mechanical and Electronics Engineering",
-        "Content Type": "Conferences",
-        "date": "1-3 Aug. 2010",
+        "data": "1-3 Aug. 2010",
         "authors": [
             "N.H. Mahmood",
             "N.A. Zakaria",
@@ -2505,8 +2336,7 @@
     {
         "title": "A contribution to the amoeboid locomotion of mobile robots",
         "conferenceTitle": "ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)",
-        "Content Type": "Conferences",
-        "date": "7-9 June 2010",
+        "data": "7-9 June 2010",
         "authors": [
             "Klaus Zimmermann",
             "Valter Boehm"
@@ -2518,8 +2348,7 @@
     {
         "title": "The new generation of European E-scan fighter radars",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "W. Holpp"
         ],
@@ -2530,8 +2359,7 @@
     {
         "title": "Agile manufacturing resource integration based on RIA and service grid",
         "conferenceTitle": "2010 International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "26-28 June 2010",
+        "data": "26-28 June 2010",
         "authors": [
             "Cai-feng Cao"
         ],
@@ -2542,8 +2370,7 @@
     {
         "title": "A signal processing method for improving the accuracy of MEMS gyroscopes",
         "conferenceTitle": "UKACC International Conference on Control 2010",
-        "Content Type": "Conferences",
-        "date": "7-10 Sept. 2010",
+        "data": "7-10 Sept. 2010",
         "authors": [
             "Peter A. Stubberud",
             "Allen R. Stubberud"
@@ -2555,8 +2382,7 @@
     {
         "title": "Balanced wide frequency range quadrature phase shifter",
         "conferenceTitle": "CPEM 2010",
-        "Content Type": "Conferences",
-        "date": "13-18 June 2010",
+        "data": "13-18 June 2010",
         "authors": [
             "M. Surdu",
             "A. Lameko",
@@ -2570,8 +2396,7 @@
     {
         "title": "Photovoltaic module reliability: Enduring a storm",
         "conferenceTitle": "2010 IEEE International Integrated Reliability Workshop Final Report",
-        "Content Type": "Conferences",
-        "date": "17-21 Oct. 2010",
+        "data": "17-21 Oct. 2010",
         "authors": [
             "Glenn Alers"
         ],
@@ -2582,8 +2407,7 @@
     {
         "title": "Investigation of regenerating properties of UHF active oscillator on basis of bipolar tranzistor",
         "conferenceTitle": "2010 20th International Crimean Conference \"Microwave & Telecommunication Technology\"",
-        "Content Type": "Conferences",
-        "date": "13-17 Sept. 2010",
+        "data": "13-17 Sept. 2010",
         "authors": [
             "V. Ivanov",
             "S. Kudinov"
@@ -2595,8 +2419,7 @@
     {
         "title": "Status and trends in AESA-based radar",
         "conferenceTitle": "2010 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "23-28 May 2010",
+        "data": "23-28 May 2010",
         "authors": [
             "W. Holpp"
         ],
@@ -2605,23 +2428,9 @@
         "abstract": "Radar technology, predominantly in the area of defence applications, is in a continuous process of extending its present capabilities. Especially Active Electronically Scanned Array (AESA) radars, with their unprecedented degree of operational flexibility, are currently about to revolutionise the performance of air- and spaceborne, naval and ground radars. The current status of AESA radar and the trends in system and technology advances are discussed. Trends on system level will be the use of MIMO-architectures and shared antenna apertures."
     },
     {
-        "title": "Curvature and density based feature point detection for point cloud data",
-        "conferenceTitle": "IET 3rd International Conference on Wireless, Mobile and Multimedia Networks (ICWMNN 2010)",
-        "Content Type": "Conferences",
-        "date": "26-29 Sept. 2010",
-        "authors": [
-            "Lihui Wang",
-            "Baozong Yuan"
-        ],
-        "DOI": "10.1049/cp.2010.0694",
-        "citation": 2,
-        "abstract": "Information of unordered point cloud is limited because of no direct topologic relation between points or triangular facets. So it will be difficult to obtain the feature points of 3D point cloud data. In this article, we use the geometry properties, such as normal, curvature and density of the points' information to detect features of the 3D point cloud data and propose a curvature and density based feature point detection method for unordered 3D point cloud data. Firstly, we define a feature parameter of 3D point cloud data, which includes the distance with its neighboring points, the sum of the normal angle between the point and neighboring points, and point cloud data curvature. Secondly, the density of data points is calculated by using Octree and is used as the features of points by a threshold of their feature parameter. The experimental results show that our new approach might detect feature points accurately for the given 3D point cloud data."
-    },
-    {
         "title": "Kalman filter based sensorless control of a tubular permament magnet machine for active vehicle suspension",
         "conferenceTitle": "5th IET International Conference on Power Electronics, Machines and Drives (PEMD 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 April 2010",
+        "data": "19-21 April 2010",
         "authors": [
             "J. Wang",
             "W. Wang",
@@ -2634,8 +2443,7 @@
     {
         "title": "Testing methodology for LOM protection performance assessment",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "A. Dyśko",
             "C. Booth",
@@ -2649,8 +2457,7 @@
     {
         "title": "Test and reliability concerns for 3D-ICs",
         "conferenceTitle": "2010 IEEE 16th International On-Line Testing Symposium",
-        "Content Type": "Conferences",
-        "date": "5-7 July 2010",
+        "data": "5-7 July 2010",
         "authors": [
             "Y. Zorian"
         ],
@@ -2661,8 +2468,7 @@
     {
         "title": "Study on technology of traveling wave method fault location in traction power supply system",
         "conferenceTitle": "10th IET International Conference on Developments in Power System Protection (DPSP 2010). Managing the Change",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2010",
+        "data": "29 March-1 April 2010",
         "authors": [
             "Jing-jing Duan",
             "Yong-duan Xue",
@@ -2676,8 +2482,7 @@
     {
         "title": "Improved iterative Water-Filling algorithm in MUMIMO system",
         "conferenceTitle": "IET 3rd International Conference on Wireless, Mobile and Multimedia Networks (ICWMNN 2010)",
-        "Content Type": "Conferences",
-        "date": "26-29 Sept. 2010",
+        "data": "26-29 Sept. 2010",
         "authors": [
             "Dongyan Zhao",
             "Zesong Fei",
@@ -2691,8 +2496,7 @@
     {
         "title": "Optimization for the parallel test task scheduling based on GA",
         "conferenceTitle": "The 2nd International Conference on Information Science and Engineering",
-        "Content Type": "Conferences",
-        "date": "4-6 Dec. 2010",
+        "data": "4-6 Dec. 2010",
         "authors": [
             "Zhiqiang Li"
         ],
@@ -2703,8 +2507,7 @@
     {
         "title": "A robust second order sliding mode controller for Buck converter",
         "conferenceTitle": "2010 International Conference on Electrical Machines and Systems",
-        "Content Type": "Conferences",
-        "date": "10-13 Oct. 2010",
+        "data": "10-13 Oct. 2010",
         "authors": [
             "Huangfu Yigeng",
             "Ma Ruiqing",
@@ -2718,8 +2521,7 @@
     {
         "title": "Evaluation of Capacitor Commutated Converter HVDC for Qinghai-Xizhang Interconnection Project",
         "conferenceTitle": "9th IET International Conference on AC and DC Power Transmission (ACDC 2010)",
-        "Content Type": "Conferences",
-        "date": "19-21 Oct. 2010",
+        "data": "19-21 Oct. 2010",
         "authors": [
             "Jun Wen",
             "Jun Wang",
@@ -2734,8 +2536,7 @@
     {
         "title": "On the process parameter of laser tube bending",
         "conferenceTitle": "2010 International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "26-28 June 2010",
+        "data": "26-28 June 2010",
         "authors": [
             "Nanhai Hao"
         ],
@@ -2746,8 +2547,7 @@
     {
         "title": "Survey of resource-searching algorithms in structured P2P network",
         "conferenceTitle": "The 2nd International Conference on Information Science and Engineering",
-        "Content Type": "Conferences",
-        "date": "4-6 Dec. 2010",
+        "data": "4-6 Dec. 2010",
         "authors": [
             "Yuping Zhao",
             "Chunlin He"

@@ -1,50 +1,35 @@
 [
     {
-        "title": "Decade bandwidth 2 to 20 GHz GaN HEMT power amplifier MMICs in DFP and no FP technology",
-        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "title": "A self-optimizing load balancing scheme for fixed relay cellular networks",
+        "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
+        "data": "14-16 Oct. 2011",
         "authors": [
-            "J. J. Komiak",
-            "K. Chu",
-            "P. C. Chao"
+            "Lexi Xu",
+            "Yue Chen",
+            "Yue Gao",
+            "Laurie Cuthbert"
         ],
-        "DOI": "10.1109/MWSYM.2011.5973509",
-        "citation": 28,
-        "abstract": "Summary form only given, as follows. Design and performance of power amplifiers that have established new benchmarks for 2 to 20 GHz power are reported. The Dual Field Plate amplifier achieved P3dB of 26.3 Watts max., 15.4 Watts average, with 38.3% max 19.8% average PAE. Using an improved device, the No FP amplifier achieved P3dB of 21.6 Watts max., 16.0 Watts average, with 35.7% max 25.9% average PAE. This output power, bandwidth, and efficiency is superior to the best previously reported results for GaN HEMT power amplifiers."
-    },
-    {
-        "title": "An efficient method for computer aided analysis of noisy electromagnetic fields",
-        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
-        "authors": [
-            "J. A. Russer",
-            "P. Russer"
-        ],
-        "DOI": "10.1109/MWSYM.2011.5973219",
-        "citation": 25,
-        "abstract": "Summary form only given, as follows. This work presents an efficient method for the numerical simulation of noisy electromagnetic fields, accounting for arbitrary correlations between the noise radiation sources. It allows us to compute the spatial distribution of the spectral energy density. Method of moments is applied to model noisy electromagnetic fields by network methods using correlation matrix techniques. The method can be combined with available electromagnetic modeling tools."
+        "DOI": "10.1049/cp.2011.0680",
+        "citation": 27,
+        "abstract": "Load balancing (LB) aims at tackling the hot-spot cell problem caused by uneven load distribution and resources shortage. Traditional LB schemes mainly focus on the load reduction of the hot-spot cell, while some partner cells might suffer from aggravating load after receiving inappropriate traffic, which triggers ripple LB and reduces the LB efficiency. To deal with this problem, a self- optimizing LB scheme in fixed relay station (RS) cellular networks is proposed. In the scheme, partner cells share the load jointly to guarantee each partner has similar load after LB. Meanwhile, the partner response mechanism considers the resources usage of partner's RSs to further reduce the ripple LB. Simulation results show that the proposed scheme can effectively reduce the number of ripple LB and reduce the call blocking rate."
     },
     {
         "title": "A brief introduction to IoT gateway",
         "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2011",
+        "data": "14-16 Oct. 2011",
         "authors": [
             "Hao Chen",
             "Xueqin Jia",
             "Heng Li"
         ],
         "DOI": "10.1049/cp.2011.0740",
-        "citation": 24,
+        "citation": 25,
         "abstract": "Internet of Things (IoT) attracts many attentions recently and paints a beautiful picture of future life for us. This paper firstly introduces three typical networks residing in sensing domain, one of three domains of IoT architecture. Then the common features of IoT gateway, an important component bridging sensing domain and network domain, are summarized in three points, finally a reference model of IoT gateway is proposed."
     },
     {
         "title": "Comparative analysis between voltage and current source inverters in grid-connected application",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "S. A. Azmi",
             "K. H. Ahmed",
@@ -56,10 +41,46 @@
         "abstract": "The voltage source inverter is mainly used for grid interfacing of distributed generation systems. In order to boost the voltage of a renewable energy source to the required dc voltage level, a dc-dc converter is necessary even though the cost and complexity of the system are increased. Thus, in improving the cost and life expectancy of the power electronic interface, a current source inverter is an alternative which offers short-circuit protection capabilities, implicit voltage boosting and a simple ac-side filter structure. However, it has attracted less research attention since it is purported to have drawbacks in term of high conduction losses and inefficient inductive energy storage on its dc-side. With reference to advantages and disadvantages of both inverter types, this paper presents a comprehensive comparative analysis with respect to the topological and operational features of the inverters. The comparison includes the power circuit, semiconductor constraints, cost, dc input filtering, steady-state, transient performance and power semiconductor losses. The analytical expectations of the systems are verified using MATLAB/ Simulink software package."
     },
     {
+        "title": "An efficient method for computer aided analysis of noisy electromagnetic fields",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
+        "authors": [
+            "J. A. Russer",
+            "P. Russer"
+        ],
+        "DOI": "10.1109/MWSYM.2011.5973219",
+        "citation": 23,
+        "abstract": "Summary form only given, as follows. This work presents an efficient method for the numerical simulation of noisy electromagnetic fields, accounting for arbitrary correlations between the noise radiation sources. It allows us to compute the spatial distribution of the spectral energy density. Method of moments is applied to model noisy electromagnetic fields by network methods using correlation matrix techniques. The method can be combined with available electromagnetic modeling tools."
+    },
+    {
+        "title": "Decade bandwidth 2 to 20 GHz GaN HEMT power amplifier MMICs in DFP and no FP technology",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
+        "authors": [
+            "J. J. Komiak",
+            "K. Chu",
+            "P. C. Chao"
+        ],
+        "DOI": "10.1109/MWSYM.2011.5973509",
+        "citation": 23,
+        "abstract": "Summary form only given, as follows. Design and performance of power amplifiers that have established new benchmarks for 2 to 20 GHz power are reported. The Dual Field Plate amplifier achieved P3dB of 26.3 Watts max., 15.4 Watts average, with 38.3% max 19.8% average PAE. Using an improved device, the No FP amplifier achieved P3dB of 21.6 Watts max., 16.0 Watts average, with 35.7% max 25.9% average PAE. This output power, bandwidth, and efficiency is superior to the best previously reported results for GaN HEMT power amplifiers."
+    },
+    {
+        "title": "A 12–18 GHz electrostatically tunable liquid metal RF MEMS resonator with quality factor of 1400–1840",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
+        "authors": [
+            "W. Irshad",
+            "D. Peroulis"
+        ],
+        "DOI": "10.1109/MWSYM.2011.5973368",
+        "citation": 21,
+        "abstract": "Summary form only given, as follows. In this paper we present a novel tunable RF MEMS resonator that is based upon electrostatic control over the morphology of a liquid metal droplet (LMD). We demonstrate a LMD evanescent-mode cavity resonator that simultaneously achieves wide analog tuning from 12 to 18 GHz with a measured quality factor of 1400–1840. A droplet of 250-um diameter is utilized and the applied bias is limited to 100V. This device operates on a principle called Electro-Wetting On Dielectric (EWOD)."
+    },
+    {
         "title": "Investigation on Cell Selection Methods Associated with Inter-cell Interference Coordination in Heterogeneous Networks for LTE-Advanced Downlink",
         "conferenceTitle": "17th European Wireless 2011 - Sustainable Wireless Technologies",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2011",
+        "data": "27-29 April 2011",
         "authors": [
             "Jaturong Sangiamwong",
             "Yuya Saito",
@@ -73,37 +94,9 @@
         "abstract": "In LTE-Advanced, a heterogeneous network where femtocells and picocells overlaid onto macrocells is extensively discussed in addition to traditional well-planned macrocell deployment to improve further the system throughput. In heterogeneous network deployment, cell selection as well as intercell interference coordination (ICIC) is very important to improve the system and cell-edge throughput. Therefore, this paper investigates three cell selection methods associated with ICIC in heterogeneous networks in the LTE-Advanced downlink: signal-to-interference plus noise power ratio (SINR)-based cell selection, reference signal received power (RSRP)-based cell selection, and reference signal received quality (RSRQ)-based cell selection. Simulation results (4 pico eNodeBs and 25 set of user equipment are uniformly located within 1 macro eNodeB) assuming full buffer model show that the downlink cell and cell-edge user throughput levels of RSRP-based cell selection are degraded by approximately 3% and 10% compared to those of SINR-based cell selection under the condition of the maximizing the cell-edge user throughput due to the impairment of the interference level. Furthermore, it is shown that the downlink cell-edge user throughput of RSRQ-based cell selection is improved approximately 5%, although the cell throughput is degraded approximately 5% compared to that for SINR-based cell selection under the condition of the maximizing the cell-edge user throughput."
     },
     {
-        "title": "A high-efficiency 100-W four-stage doherty GaN HEMT power amplifier module for WCDMA systems",
-        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
-        "authors": [
-            "A. Grebennikov"
-        ],
-        "DOI": "10.1109/MWSYM.2011.5973479",
-        "citation": 21,
-        "abstract": "Summary form only given, as follows. In this paper, a novel high-efficiency four-stage Doherty power amplifier architecture for base station applications has been proposed and fabricated. Each power amplifier is based on a 25-W Cree GaN HEMT device with the transmission-line load network corresponding to an inverse class F mode approximation. In a single-carrier WCDMA operation mode with PAR of 6.5 dB, a high drain efficiency of 61% was achieved at an average output power of 43 dBm, with ACLR1 measured at -31 dBc level."
-    },
-    {
-        "title": "A self-optimizing load balancing scheme for fixed relay cellular networks",
-        "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2011",
-        "authors": [
-            "Lexi Xu",
-            "Yue Chen",
-            "Yue Gao",
-            "Laurie Cuthbert"
-        ],
-        "DOI": "10.1049/cp.2011.0680",
-        "citation": 20,
-        "abstract": "Load balancing (LB) aims at tackling the hot-spot cell problem caused by uneven load distribution and resources shortage. Traditional LB schemes mainly focus on the load reduction of the hot-spot cell, while some partner cells might suffer from aggravating load after receiving inappropriate traffic, which triggers ripple LB and reduces the LB efficiency. To deal with this problem, a self- optimizing LB scheme in fixed relay station (RS) cellular networks is proposed. In the scheme, partner cells share the load jointly to guarantee each partner has similar load after LB. Meanwhile, the partner response mechanism considers the resources usage of partner's RSs to further reduce the ripple LB. Simulation results show that the proposed scheme can effectively reduce the number of ripple LB and reduce the call blocking rate."
-    },
-    {
         "title": "Hand-Held Monocular SLAM Based on Line Segments",
         "conferenceTitle": "2011 Irish Machine Vision and Image Processing Conference",
-        "Content Type": "Conferences",
-        "date": "7-9 Sept. 2011",
+        "data": "7-9 Sept. 2011",
         "authors": [
             "Lilian Zhang",
             "Reinhard Koch"
@@ -115,8 +108,7 @@
     {
         "title": "High performance tuners for handsets",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "A. S. Morris",
             "Q. Gu",
@@ -128,23 +120,9 @@
         "abstract": "Summary form only given, as follows. Impedance tuners are in evaluation within mobile handsets to improve performance, compensate for environmental influences, shrink antenna volumes and shorten design cycles. As a new component in the handset rf front-end designer's toolkit, tuner specifications and value propositions are subjects of heated debate. This paper proposes a unified specification for a tuner component and then details the design and measured performance of an integrated tuner module against the specification."
     },
     {
-        "title": "A 12–18 GHz electrostatically tunable liquid metal RF MEMS resonator with quality factor of 1400–1840",
-        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
-        "authors": [
-            "W. Irshad",
-            "D. Peroulis"
-        ],
-        "DOI": "10.1109/MWSYM.2011.5973368",
-        "citation": 19,
-        "abstract": "Summary form only given, as follows. In this paper we present a novel tunable RF MEMS resonator that is based upon electrostatic control over the morphology of a liquid metal droplet (LMD). We demonstrate a LMD evanescent-mode cavity resonator that simultaneously achieves wide analog tuning from 12 to 18 GHz with a measured quality factor of 1400–1840. A droplet of 250-um diameter is utilized and the applied bias is limited to 100V. This device operates on a principle called Electro-Wetting On Dielectric (EWOD)."
-    },
-    {
         "title": "Class-J RF power amplifier with wideband harmonic suppression",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "N. Tuffy",
             "A. Zhu",
@@ -155,10 +133,37 @@
         "abstract": "Summary form only given, as follows. This work involves the design and fabrication of a Class-J power amplifier over a bandwidth of 2.3–2.7 GHz. A design procedure is discussed for wideband amplifier operation with complete 2nd and 3rd harmonic band rejection at the load. Measurements justify the methodology and results indicate 60% efficiency over the band of interest and 2nd and 3rd harmonic load suppression in excess of −39 dBc."
     },
     {
+        "title": "Motivation in software engineering: A systematic review update",
+        "conferenceTitle": "15th Annual Conference on Evaluation & Assessment in Software Engineering (EASE 2011)",
+        "data": "11-12 April 2011",
+        "authors": [
+            "A. César C. França",
+            "Tatiana B. Gouveia",
+            "Pedro C. F. Santos",
+            "Celio A. Santana",
+            "Fabio Q. B. da Silva"
+        ],
+        "DOI": "10.1049/ic.2011.0019",
+        "citation": 17,
+        "abstract": "Background/Aim - Given the relevance and importance that the understanding of motivation has gained in the field of software engineering, this work was carried out in order to update the results of a literature review carried out in 2006 on motivation in software engineering. Method - Based on guidelines for this specific type of study, we replicated the original study protocol. Results - The combination of manual and automatic searches retrieved 6,534 papers, of which 53 relevant papers were selected for data extraction and analysis. Conclusions - Studies address motivation using several viewpoints and approaches and, even though the number of researches increased in this area, the overall understanding of what actually motivates software engineers does not seem to have significantly advanced in the last five years."
+    },
+    {
+        "title": "An abstract to calculate big o factors of time and space complexity of machine code",
+        "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
+        "data": "20-22 July 2011",
+        "authors": [
+            "S. Gayathri Devi",
+            "K. Selvam",
+            "S. P. Rajagopalan"
+        ],
+        "DOI": "10.1049/cp.2011.0483",
+        "citation": 17,
+        "abstract": "Algorithms are generally written for solving some problems or mechanism through machines, the algorithms may be several in numbers, further to these the efficiency of the produced algorithms for the said issue need to be quantified: the factors which are to be quantified are time complexity, space complexity, administrative cost and faster implementation etc.,..One of the effective methods for studying the efficiency of algorithms is Big-O notations, though the Big-O notation is containing mathematical functions and their comparison step by step, it illustrates the methodology of measuring the complexity facto. The output is always expected as a smooth line or curve with a smaller and static slope."
+    },
+    {
         "title": "Effect of photovoltaic generator on a typical VSI-based three-phase grid-connected photovoltaic inverter dynamics",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "J. Puukko",
             "T. Messo",
@@ -169,53 +174,9 @@
         "abstract": "The input source whether voltage or current type determines the dynamics of a converter. A common practice in the VSI-based inverter analysis is the assumption of a constant voltage type input source even in case of renewable energy sources. An input-voltage-controlled converter, as usually in PV applications, is always a current-fed topology. This paper reveals that in order to analyse the dynamic properties of three-phase inverters with scientific accuracy, the true nature of the input source is of utmost importance to be taken into account."
     },
     {
-        "title": "Motivation in software engineering: A systematic review update",
-        "conferenceTitle": "15th Annual Conference on Evaluation & Assessment in Software Engineering (EASE 2011)",
-        "Content Type": "Conferences",
-        "date": "11-12 April 2011",
-        "authors": [
-            "A. César C. França",
-            "Tatiana B. Gouveia",
-            "Pedro C. F. Santos",
-            "Celio A. Santana",
-            "Fabio Q. B. da Silva"
-        ],
-        "DOI": "10.1049/ic.2011.0019",
-        "citation": 16,
-        "abstract": "Background/Aim - Given the relevance and importance that the understanding of motivation has gained in the field of software engineering, this work was carried out in order to update the results of a literature review carried out in 2006 on motivation in software engineering. Method - Based on guidelines for this specific type of study, we replicated the original study protocol. Results - The combination of manual and automatic searches retrieved 6,534 papers, of which 53 relevant papers were selected for data extraction and analysis. Conclusions - Studies address motivation using several viewpoints and approaches and, even though the number of researches increased in this area, the overall understanding of what actually motivates software engineers does not seem to have significantly advanced in the last five years."
-    },
-    {
-        "title": "CAD of efficient wireless power transmission systems",
-        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
-        "authors": [
-            "M. Dionigi",
-            "M. Mongiardo"
-        ],
-        "DOI": "10.1109/MWSYM.2011.5973372",
-        "citation": 16,
-        "abstract": "Summary form only given, as follows. Electromagnetic Wireless Power Transmission (WREL) can be achieved by using resonant coils coupled via their magnetic fields; these resonant coils must be properly coupled to the source and load. By using an equivalent network, we introduce a computer-aided design procedure to reach the maximum efficiency for a given value of the resonators quality factor and for a specified value of the coupling. The proposed design procedure provides matching network values for the input and output sections."
-    },
-    {
-        "title": "An abstract to calculate big o factors of time and space complexity of machine code",
-        "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
-        "authors": [
-            "S. Gayathri Devi",
-            "K. Selvam",
-            "S. P. Rajagopalan"
-        ],
-        "DOI": "10.1049/cp.2011.0483",
-        "citation": 16,
-        "abstract": "Algorithms are generally written for solving some problems or mechanism through machines, the algorithms may be several in numbers, further to these the efficiency of the produced algorithms for the said issue need to be quantified: the factors which are to be quantified are time complexity, space complexity, administrative cost and faster implementation etc.,..One of the effective methods for studying the efficiency of algorithms is Big-O notations, though the Big-O notation is containing mathematical functions and their comparison step by step, it illustrates the methodology of measuring the complexity facto. The output is always expected as a smooth line or curve with a smaller and static slope."
-    },
-    {
         "title": "Short-circuit current contribution from large scale PV power plant in the context of distribution power system protection performance",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "T. S. Sidhu",
             "D. Bejmert"
@@ -225,10 +186,45 @@
         "abstract": "The interconnection of distributed generators (DG) to existing network may give rise to many technical problems. To ensure appropriate power quality and stability of the grid these problems should be recognized and solved. For this purpose, behaviour of such energy sources, under various disturbances, must be studied and known to the distribution grid operators. In this paper fault current contribution from large scale photovoltaic (PV) power plant as well as protection issues concerning such DGs are discussed. The mentioned problems were investigated in PSCAD model of 50 MW grid-connected PV power plant where various operating condition of the network and penetration levels of PV were considered."
     },
     {
+        "title": "CAD of efficient wireless power transmission systems",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
+        "authors": [
+            "M. Dionigi",
+            "M. Mongiardo"
+        ],
+        "DOI": "10.1109/MWSYM.2011.5973372",
+        "citation": 15,
+        "abstract": "Summary form only given, as follows. Electromagnetic Wireless Power Transmission (WREL) can be achieved by using resonant coils coupled via their magnetic fields; these resonant coils must be properly coupled to the source and load. By using an equivalent network, we introduce a computer-aided design procedure to reach the maximum efficiency for a given value of the resonators quality factor and for a specified value of the coupling. The proposed design procedure provides matching network values for the input and output sections."
+    },
+    {
+        "title": "RFID chipless tag based on multiple phase shifters",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
+        "authors": [
+            "A. Vena",
+            "E. Perret",
+            "S. Tedjini"
+        ],
+        "DOI": "10.1109/MWSYM.2011.5973288",
+        "citation": 15,
+        "abstract": "Summary form only given, as follows. The RFID chipless tag presented in this article uses a new technique for data encoding. It is based on changing the phase of multiple resonators that behave as phase shifter. This technique brings a much higher reliability than for the actual absence/presence of resonance encoding way. The design proposed is based on 5 reflective strip resonators having resonant frequency starting from 2.5 GHz to 6.5 GHz. A capacity of 10 bits is reached within a reduced size of 20 × 40 mm2."
+    },
+    {
+        "title": "A high-efficiency 100-W four-stage doherty GaN HEMT power amplifier module for WCDMA systems",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
+        "authors": [
+            "A. Grebennikov"
+        ],
+        "DOI": "10.1109/MWSYM.2011.5973479",
+        "citation": 15,
+        "abstract": "Summary form only given, as follows. In this paper, a novel high-efficiency four-stage Doherty power amplifier architecture for base station applications has been proposed and fabricated. Each power amplifier is based on a 25-W Cree GaN HEMT device with the transmission-line load network corresponding to an inverse class F mode approximation. In a single-carrier WCDMA operation mode with PAR of 6.5 dB, a high drain efficiency of 61% was achieved at an average output power of 43 dBm, with ACLR1 measured at -31 dBc level."
+    },
+    {
         "title": "Medical application on internet of things",
         "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2011",
+        "data": "14-16 Oct. 2011",
         "authors": [
             "Wei Zhao",
             "Chaowei Wang",
@@ -239,10 +235,21 @@
         "abstract": "Internet technology provides various services via network. With the diversification of terminals and development of internet technology, internet technology has come into the stage of Next Generation Network(NGN) technology. Comparing with the current Internet technology that provides services in the imaginary space, the technology on Internet of Things (IOT) is based on real word. It links things together via sensors and wireless communication technology to collect a variety of information on the condition of people and their surrounding space in the real world. The combination of Internet technology and Technology on IOT integrates physical world and imaginary space on a shared platform to eliminate the constraints of imaginary space and provide intricate, diverse, and advanced services focusing on people, which have not been achieved [1]. The future direction for the integration of Internet technology and technology on IOT, the technology of body sensor network and information services are suggested. This paper analyze the possibility and related issues of providing advanced services for human health management in the real world and research direction of medical technology on IOT."
     },
     {
+        "title": "DC microgrid with variable generations and energy storage",
+        "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
+        "data": "6-8 Sept. 2011",
+        "authors": [
+            "Dong Chen",
+            "Lie Xu"
+        ],
+        "DOI": "10.1049/cp.2011.0167",
+        "citation": 14,
+        "abstract": "DC microgrid operation with variable sources is studied in this paper. A 3-level hierarchical DC voltage control is proposed which corresponds to grid connected operation, islanding operation, and load shedding/generation curtailment operation. The system operational status is verified according to voltage levels and corresponding control strategies are used according to voltage levels to secure system stability. A 4-terminal prototype microgrid comprising a grid connected VSC, a wind generator, an energy storage system, and DC loads is established to demonstrate the excellent operation performance of the proposed control system during various operating conditions such as load step, islanding, grid reconnection, and load shedding."
+    },
+    {
         "title": "Analysis of the effectiveness of non-unit protection methods within DC microgrids",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "S. D. A. Fletcher",
             "P. J. Norman",
@@ -254,50 +261,21 @@
         "abstract": "The characteristic behaviour of physically compact, multi terminal DC networks under electrical fault conditions can produce particularly demanding protection requirements. This represents a significant barrier to more widespread adoption of DC power distribution for microgrid applications. Whilst a number of methods have been proposed in the literature for such networks, which are based around the use of non-unit protection, there are limitations to the levels of fault discrimination which can be achieved. To illustrate the challenges in effectively implementing non-unit protection, this paper analytically describes the current, voltage, di/dt, dv/dt and impedance profiles of a representative network, with particular emphasis on the response for varying fault resistances. The paper highlights that the non-unit methods analysed are sub-optimal where fault location is required to be discriminated over the transient period after fault inception. Therefore, it is concluded that to achieve high levels of fault discrimination within future DC microgrid systems, more robust protection approaches are required."
     },
     {
-        "title": "RFID chipless tag based on multiple phase shifters",
-        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
-        "authors": [
-            "A. Vena",
-            "E. Perret",
-            "S. Tedjini"
-        ],
-        "DOI": "10.1109/MWSYM.2011.5973288",
-        "citation": 13,
-        "abstract": "Summary form only given, as follows. The RFID chipless tag presented in this article uses a new technique for data encoding. It is based on changing the phase of multiple resonators that behave as phase shifter. This technique brings a much higher reliability than for the actual absence/presence of resonance encoding way. The design proposed is based on 5 reflective strip resonators having resonant frequency starting from 2.5 GHz to 6.5 GHz. A capacity of 10 bits is reached within a reduced size of 20 × 40 mm2."
-    },
-    {
-        "title": "DC microgrid with variable generations and energy storage",
-        "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
-        "authors": [
-            "Dong Chen",
-            "Lie Xu"
-        ],
-        "DOI": "10.1049/cp.2011.0167",
-        "citation": 13,
-        "abstract": "DC microgrid operation with variable sources is studied in this paper. A 3-level hierarchical DC voltage control is proposed which corresponds to grid connected operation, islanding operation, and load shedding/generation curtailment operation. The system operational status is verified according to voltage levels and corresponding control strategies are used according to voltage levels to secure system stability. A 4-terminal prototype microgrid comprising a grid connected VSC, a wind generator, an energy storage system, and DC loads is established to demonstrate the excellent operation performance of the proposed control system during various operating conditions such as load step, islanding, grid reconnection, and load shedding."
-    },
-    {
         "title": "Miniaturized dual-band substrate integrated waveguide filters using complementary split-ring resonators",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "Y. Dong",
             "T. Itoh"
         ],
         "DOI": "10.1109/MWSYM.2011.5973189",
-        "citation": 12,
+        "citation": 13,
         "abstract": "Summary form only given, as follows. A novel design concept for compact dual-band substrate integrated waveguide (SIW) filters using the complementary split-ring resonators (CSRRs) is presented. The proposed structure allows relatively independent control over the center frequencies and the coupling coefficients. Two two-pole filters with dual-band operation are demonstrated, showing advantages in terms of the compact size, good selectivity and stopband rejection, easy fabrication and integration with other circuits."
     },
     {
         "title": "K-band CMOS power amplifier with adaptive bias for enhancement in back-off efficiency",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "N. Kuo",
             "J. Kao",
@@ -311,8 +289,7 @@
     {
         "title": "Flexible hybrid solar/EM energy harvester for autonomous sensors",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "A. Georgiadis",
             "A. Collado",
@@ -326,8 +303,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "IEEE/IAS Pulp & Paper Industry Technical Paper Conference",
-        "Content Type": "Conferences",
-        "date": "19-23 June 2011",
+        "data": "19-23 June 2011",
         "authors": [],
         "DOI": "10.1109/PPIC.2011.5982880",
         "citation": 11,
@@ -336,8 +312,7 @@
     {
         "title": "Dynamic behaviour of hill-climbing MPPT algorithms at low perturbation rates",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "M. A. Elgendy",
             "B. Zahawi",
@@ -350,8 +325,7 @@
     {
         "title": "Voltage stability assessment for radial distribution power system with wind power penetration",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "Mohamed M. Aly",
             "Mamdouh Abdel-Akher"
@@ -363,8 +337,7 @@
     {
         "title": "One image segmentation method based on Otsu and fuzzy theory seeking image segment threshold",
         "conferenceTitle": "2011 International Conference on Electronics, Communications and Control (ICECC)",
-        "Content Type": "Conferences",
-        "date": "9-11 Sept. 2011",
+        "data": "9-11 Sept. 2011",
         "authors": [
             "Zhiwei Tang",
             "Yixuan Wu"
@@ -376,8 +349,7 @@
     {
         "title": "Negative output impedance in three-phase grid-connected renewable energy source inverters based on reduced-order model",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "J. Puukko",
             "T. Messo",
@@ -392,8 +364,7 @@
     {
         "title": "Optimal placement of wind-based generation in distribution networks",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "Satish Kansal",
             "B. B. R. Sai",
@@ -407,8 +378,7 @@
     {
         "title": "2D Simulator of Obstacle Avoidance Using LRF for Mobile Robots Participated in Tsukuba Challenge",
         "conferenceTitle": "2011 Second International Conference on Intelligent Systems, Modelling and Simulation",
-        "Content Type": "Conferences",
-        "date": "25-27 Jan. 2011",
+        "data": "25-27 Jan. 2011",
         "authors": [
             "Sam Ann Rahok",
             "Koichi Ozaki"
@@ -418,10 +388,21 @@
         "abstract": "This paper describes a 2D simulator of obstacle avoidance using LRF for mobile robots. In this work, the 2D map of environment is built based on two colors, red and black, where the red represents the obstacles and the black represent the free spaces. The obstacle avoidance is performed when the RLF detects the red areas with the measured distance is less than 1m. The simulator can be used as offline and online tool for mobile robots. In 2009, it was used to offline test obstacle avoidance algorithms in some areas of 1km course of robot challenge named \"Tsukuba Challenge\" and online predict the robot trajectory in the next few meters during the autonomous navigation. As the results, our mobile robot completed the 1km course with the total time of 51m07s."
     },
     {
+        "title": "Impact of fixed and variable speed wind turbine systems on power system voltage stability enhancement",
+        "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
+        "data": "6-8 Sept. 2011",
+        "authors": [
+            "D. Devaraj",
+            "R. Jeevajyothi"
+        ],
+        "DOI": "10.1049/cp.2011.0199",
+        "citation": 10,
+        "abstract": "This paper investigates the effect of fixed speed and variable speed grid-connected wind generators on the voltage stability of a power system network. The wind generators considered are the squirrel cage induction generator (SCIG), which is fixed speed, the doubly-fed induction generator (DFIG) and the direct driven synchronous generator (DDSG) which are variable speed. Studies were conducted on a standard five machine, 14-bus system augmented by a radially connected wind power plant (WPP), which contains 215 wind turbine generators (WTG).The studies include examining the voltage magnitude, loading margin and voltage collapse of the system. These studies are conducted for the normal state as well as for line contingencies. It is found that large scale integration of WTG (direct drive synchronous generator) at the transmission level has the potential to improve the long term voltage stability of the grid by injecting reactive power."
+    },
+    {
         "title": "Latency for Real-Time Machine-to-Machine Communication in LTE-Based System Architecture",
         "conferenceTitle": "17th European Wireless 2011 - Sustainable Wireless Technologies",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2011",
+        "data": "27-29 April 2011",
         "authors": [
             "Navid Nikaein",
             "Srdjan Krea"
@@ -433,8 +414,7 @@
     {
         "title": "Generic modelling framework for economic analysis of Battery Systems",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "S. You",
             "C. N. Rasmussen"
@@ -444,10 +424,21 @@
         "abstract": "Deregulated electricity markets provide opportunities for Battery Systems (BS) to participate in energy arbitrage and ancillary services (regulation, operating reserves, contingency reserves, voltage regulation, power quality etc.)To evaluate the economic viability of BS with different business opportunities, a generic modelling framework is proposed to handle this task. This framework outlines a set of building blocks which are necessary for carrying out the economic analysis of various BS applications. Further, special focus is given on describing how to use the rainflow cycle counting algorithm for battery cycle life estimation, since the cycle life plays a central role in the economic analysis of BS. To illustrate the modelling framework, a case study using a Sodium Sulfur Battery (NAS) system with 5-minute regulating service is performed. The economic performances of two dispatch scenarios, a so called naive scenario and a risk-averse scenario, are evaluated in this case study."
     },
     {
+        "title": "Integrated antenna/electro-optic modulator for RF photonic front-ends",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
+        "authors": [
+            "R. B. Waterhouse",
+            "D. Novak"
+        ],
+        "DOI": "10.1109/MWSYM.2011.5973434",
+        "citation": 9,
+        "abstract": "Summary form only given, as follows. We present an efficient, integrated antenna/electro-optic modulator assembly for RF photonic front-ends in phased array applications. The integrated radiator/photonic device incorporates a non-contact fed stacked patch antenna that has been designed to radiate efficiently between 9 – 11 GHz and is easily coupled to the Lithium Niobate Mach-Zehnder modulator, requiring minimal modification to the electrode structure of this photonic device."
+    },
+    {
         "title": "Artificial bee colony optimization for combined economic load and emission dispatch",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "Gaurav Prasad Dixit",
             "Hari Mohan Dubey",
@@ -459,23 +450,9 @@
         "abstract": "This paper presents an application of artificial bee colony (ABC) algorithm for multi-objective optimization problem in power system. Considering the environmental impacts that grow from the emissions produced by fossil-fuelled power plant, the economic dispatch that minimizes only the total fuel cost can no longer be considered as single objective. Artificial bee colony algorithm strategy based on mathematical modeling to solve economic, emission and combined economic and emissions dispatch problems by a single equivalent objective function. Artificial bee colony algorithm has been applied to two realistic systems at different load condition. Results obtained with proposed method are compared with other techniques presented in literature. ABC algorithm is easy to implement and capable of searching near global optimum solution at fast convergence and efficiency."
     },
     {
-        "title": "Impact of fixed and variable speed wind turbine systems on power system voltage stability enhancement",
-        "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
-        "authors": [
-            "D. Devaraj",
-            "R. Jeevajyothi"
-        ],
-        "DOI": "10.1049/cp.2011.0199",
-        "citation": 9,
-        "abstract": "This paper investigates the effect of fixed speed and variable speed grid-connected wind generators on the voltage stability of a power system network. The wind generators considered are the squirrel cage induction generator (SCIG), which is fixed speed, the doubly-fed induction generator (DFIG) and the direct driven synchronous generator (DDSG) which are variable speed. Studies were conducted on a standard five machine, 14-bus system augmented by a radially connected wind power plant (WPP), which contains 215 wind turbine generators (WTG).The studies include examining the voltage magnitude, loading margin and voltage collapse of the system. These studies are conducted for the normal state as well as for line contingencies. It is found that large scale integration of WTG (direct drive synchronous generator) at the transmission level has the potential to improve the long term voltage stability of the grid by injecting reactive power."
-    },
-    {
         "title": "Wind turbine SCADA alarm pattern recognition",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "B. Chen",
             "Y. N. Qiu",
@@ -490,8 +467,7 @@
     {
         "title": "Determining object geometry with compliance and simple sensors",
         "conferenceTitle": "2011 IEEE/RSJ International Conference on Intelligent Robots and Systems",
-        "Content Type": "Conferences",
-        "date": "25-30 Sept. 2011",
+        "data": "25-30 Sept. 2011",
         "authors": [
             "Leif P. Jentoft",
             "Robert D. Howe"
@@ -503,8 +479,7 @@
     {
         "title": "Field weakening control of PM generator used for small wind turbine aplication",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "T. V. Milivojevic",
             "N. Schofield",
@@ -518,8 +493,7 @@
     {
         "title": "A 79-GHz LTCC RF front-end for short-range applications",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "X. Wang",
             "A. Stelzer"
@@ -529,10 +503,32 @@
         "abstract": "Summary form only given, as follows. An FMCW radar front-end based on low temperature co-fired ceramic (LTCC) technology is presented. It operates in the 76–81 GHz band with a 4-channel single-chip transceiver in SiGe technology. A laminated waveguide (LWG) is used as transmission line in LTCC and fed via a differential microstrip line to LWG transition. An LWG-fed patch array antenna acts as transmit and receive antenna. The radar-frontend was tested with distance measurements and is suitable for low-cost short-range applications."
     },
     {
+        "title": "Estimation of 3D head region using gait motion for surveillance video",
+        "conferenceTitle": "4th International Conference on Imaging for Crime Detection and Prevention 2011 (ICDP 2011)",
+        "data": "3-4 Nov. 2011",
+        "authors": [
+            "Sung-Uk Jung",
+            "Mark S. Nixon"
+        ],
+        "DOI": "10.1049/ic.2011.0105",
+        "citation": 8,
+        "abstract": "Detecting and recognizing people is important in surveillance. Many detection approaches use local information, such as pattern and colour, which can lead to constraints on application such as changes in illumination, low resolution, and camera view point. In this paper we propose a novel method for estimating the 3D head region based on analysing the gait motion derived from the video provided by a single camera. Generally, when a person walks there is known head movement in the vertical direction, regardless of the walking direction. Using this characteristic the gait period is detected using wavelet decomposition and the heel strike position is calculated in 3D space. Then, a 3D gait trajectory model is constructed by non-linear optimization. We evaluate our new approach using the CAVIAR database and show that we can indeed determine the head region to good effect. The contributions of this research include the first use of detecting a face region by using human gait and which has fewer application constraints than many previous approaches."
+    },
+    {
+        "title": "Electronically tuned UHF power amplifier",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
+        "authors": [
+            "F. H. Raab"
+        ],
+        "DOI": "10.1109/MWSYM.2011.5973144",
+        "citation": 8,
+        "abstract": "Summary form only given, as follows. This electronically tunable UHF power amplifier (PA) is based upon a Gallium-Nitride (GaN) HEMT operated in class C. The gate input is tuned by two arrays of varactor diodes. The drain output is tuned by a three-stub tuner whose stub lengths are controlled by pin diodes. From 325 to 800 MHz (factor of 2.5∶1), the PA delivers an output of 34 to 50 W with an overall efficiency of 47 to 65 percent."
+    },
+    {
         "title": "Photonics for simultaneous transmit and receive",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "C. H. Cox",
             "E. I. Ackerman"
@@ -544,8 +540,7 @@
     {
         "title": "On the performance of an IEEE 802.15.6 Wireless Body Area Network",
         "conferenceTitle": "17th European Wireless 2011 - Sustainable Wireless Technologies",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2011",
+        "data": "27-29 April 2011",
         "authors": [
             "Flavia Martelli",
             "Chiara Buratti",
@@ -558,8 +553,7 @@
     {
         "title": "A broadband high-dynamic-range voltage-controlled attenuator MMIC with an IIP3 > +47 dBm over entire 30-dB analog control range",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "M. Granger-Jones",
             "B. Nelson",
@@ -570,23 +564,9 @@
         "abstract": "Summary form only given, as follows. In this paper we introduce a novel design technique for broadband high dynamic range absorptive voltage controlled attenuators (VCA) on SOI CMOS. The VCA design is based on the classical passive FET ‘Pi’ and ‘Tee’ attenuator structures but uses stacked FET techniques to dramatically improve the signal handling capability. The VCA has 30 dB attenuation range over a frequency range from DC to 5GHz and achieves an IIP3 of greater than +47 dBm over the entire analog control range."
     },
     {
-        "title": "Integrated antenna/electro-optic modulator for RF photonic front-ends",
-        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
-        "authors": [
-            "R. B. Waterhouse",
-            "D. Novak"
-        ],
-        "DOI": "10.1109/MWSYM.2011.5973434",
-        "citation": 8,
-        "abstract": "Summary form only given, as follows. We present an efficient, integrated antenna/electro-optic modulator assembly for RF photonic front-ends in phased array applications. The integrated radiator/photonic device incorporates a non-contact fed stacked patch antenna that has been designed to radiate efficiently between 9 – 11 GHz and is easily coupled to the Lithium Niobate Mach-Zehnder modulator, requiring minimal modification to the electrode structure of this photonic device."
-    },
-    {
         "title": "Quality-assured fingerprint image enhancement and extraction using hyperspectral imaging",
         "conferenceTitle": "4th International Conference on Imaging for Crime Detection and Prevention 2011 (ICDP 2011)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2011",
+        "data": "3-4 Nov. 2011",
         "authors": [
             "Kevin Gill",
             "Jinchang Ren",
@@ -601,8 +581,7 @@
     {
         "title": "A three level neutral point clamped inverter with buck-boost capability for renewable energy sources",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "R. Liju Mathew",
             "K. S. Jiji"
@@ -614,8 +593,7 @@
     {
         "title": "Design and control of novel power electronics interface for battery-ultracapacitor Hybrid Energy Storage System",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "Sumit Kumar",
             "H.P. Ikkurti"
@@ -627,8 +605,7 @@
     {
         "title": "Bandwidth-optimal single-tunable-element matching network for antenna tuning in mobile handsets",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "W. N. Allen",
             "D. Peroulis"
@@ -638,22 +615,21 @@
         "abstract": "Summary form only given, as follows. This paper presents a single-tunable-element matching network optimized for the GSM850 and GSM900 bands. A simple model for antenna detuning based on extensive measurements from literature is first presented. Single tunable element implementations for a planar inverted-F antenna as well as a proof-of-concept for the iPhone 4TM antenna are shown. Measured results indicate transducer gain improvements of up to 3.5 dB (53%) and 5.6 dB (57%) can be obtained for the two implementations, respectively."
     },
     {
-        "title": "Electronically tuned UHF power amplifier",
-        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "title": "An improved RSSI-based centroid localization algorithm in wireless sensor networks",
+        "conferenceTitle": "2011 International Conference on Computer Science and Service System (CSSS)",
+        "data": "27-29 June 2011",
         "authors": [
-            "F. H. Raab"
+            "Zhonghua Zhang",
+            "Di Chen"
         ],
-        "DOI": "10.1109/MWSYM.2011.5973144",
+        "DOI": "10.1109/CSSS.2011.5972162",
         "citation": 7,
-        "abstract": "Summary form only given, as follows. This electronically tunable UHF power amplifier (PA) is based upon a Gallium-Nitride (GaN) HEMT operated in class C. The gate input is tuned by two arrays of varactor diodes. The drain output is tuned by a three-stub tuner whose stub lengths are controlled by pin diodes. From 325 to 800 MHz (factor of 2.5∶1), the PA delivers an output of 34 to 50 W with an overall efficiency of 47 to 65 percent."
+        "abstract": "RSSI-based localization is one of the hot spots in wireless sensor networks nowadays. For improving the locating accuracy, an improved RSSI-based centroid localization algorithm by using a new method to reduce the error of RSSI measurement is presented in this paper. The simulation experiment results prove that this algorithm can obviously improve the locating accuracy compared to other RSSI-based triangle and centroid localization algorithms."
     },
     {
         "title": "Wireless M2M Communication Networks for Smart Grid Applications",
         "conferenceTitle": "17th European Wireless 2011 - Sustainable Wireless Technologies",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2011",
+        "data": "27-29 April 2011",
         "authors": [
             "C. Wietfeld",
             "H. Georg",
@@ -669,8 +645,7 @@
     {
         "title": "Challenges in high voltage and Ultra High voltage AC and DC field testing",
         "conferenceTitle": "IET Conference on Reliability of Transmission and Distribution Networks (RTDN 2011)",
-        "Content Type": "Conferences",
-        "date": "22-24 Nov. 2011",
+        "data": "22-24 Nov. 2011",
         "authors": [
             "Peter Mohaupt",
             "Peter Derks"
@@ -680,10 +655,34 @@
         "abstract": "One of the challenging issues with high voltage network connections, be it for off-shore windfarms, inter-network HVDC connections, or simply overhead line replacement is to test the complete connections before bringing them into service. Even if all components are individually tested before being brought onto the construction site the final assembly needs to tested as a complete system before it is put in service. There are currently several challenges in the area of testing 150KV and higher voltages: First for short length cables the cost of measurement is prohibitive due to the fact that most current testing equipment is designed for laboratory use, requires specialized and time consuming setup and is therefore uneconomical to use. Another challenging area is the testing of long cables completely assembled: Current testing technology requires multiple test systems to be interconnected, resulting in severe logistics and technical challenges and even then most time testing is done in sections. Furthermore for HVDC and voltages above 400kV testing is limited to laboratory tests mainly by lack of appropriate testing equipment and standards. A new technology development has promising capacities for these field testing needs: Differential Resonance Technology (DRT) is developed based on long years of experience in VLF field testing and before that specialised laboratory test equipment. Differential resonance technology, as the name describes uses the differential of 2 resonance circuits to create a high-voltage low frequency signal in the range from 0,1 Hz to 10Hz. In this way compact and powerful testing equipment for High and Ultra High voltage and DC can be constructed. Current status: the first prototype systems have been build, currently tested up to 200kV RMS, and the current product range goes from 100KV up to 400"
     },
     {
+        "title": "A MMIC double balanced diode ring mixer in GaAs",
+        "conferenceTitle": "Active RF Devices, Circuits and Systems Seminar",
+        "data": "12-12 Sept. 2011",
+        "authors": [
+            "Wong Wei Hwee",
+            "David Linton",
+            "Jonathan Leckey"
+        ],
+        "DOI": "10.1049/ic.2011.0218",
+        "citation": 7,
+        "abstract": "This paper presents a monolithic microwave integrated circuit (MMIC) double balanced diode ring mixer. This chip fabricated in the 0.15 μm pHEMT GaAs process which is offered by WIN Semiconductor. Spiral structure of Marchand balun is used to minimize the chip's size. This mixer design achieves a low conversion loss of 5 to 6 dB and high LO-RF isolation of average 45 dB over the RF/LO bandwidth which is 15-25 GHz and a DC-2 GHz IF. This mixer also obtains good linearity with IIP3 of more than 20 dBm. The chip's size included build in Marchand balun is around 0.75 mm2."
+    },
+    {
+        "title": "An investigation of alternating impedance microstrip transceiver coil arrays for MRI at 7T",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
+        "authors": [
+            "I. A. Elabyad",
+            "A. Omar"
+        ],
+        "DOI": "10.1109/MWSYM.2011.5973286",
+        "citation": 7,
+        "abstract": "Summary form only given, as follows. The magnetic field generated by a conventional MSR is inhomogeneous along the resonator axis. It is strong at the center and weak at the terminating ends. To homogenize the B1+ field, it is required to modify the traditional MSR. Recently, an approach based on alternating impedance MSR has been presented. Another configuration of alternating impedance MSR is proposed. Results indicate that, the alternating impedance MSR with circular elements is the best coil in terms of B1+ field homogeneity."
+    },
+    {
         "title": "The internet of things for resident health information service platform research",
         "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2011",
+        "data": "14-16 Oct. 2011",
         "authors": [
             "Weihua Wang",
             "Jiangong Li",
@@ -695,22 +694,21 @@
         "abstract": "Based on Medicaland Health Information technology applications in internet of things, this paper deeply researches the electronic health records standards of residents, the model of accessing electronic health records and the mode of archiving, displaying treatment data shared by the organization. On this basis, building general framework of resident health information service platform, clearing platform functional requirements, designing the interface between medical establishments and platform, as well as solution for building network among data center medical establishments community hospital are the main purposes of the essay."
     },
     {
-        "title": "Antennas and propagation for body centric wireless communications",
-        "conferenceTitle": "2011 IEEE International Conference on Microwave Technology & Computational Electromagnetics",
-        "Content Type": "Conferences",
-        "date": "22-25 May 2011",
+        "title": "The Lagrange interpolation polynomial algorithm error analysis",
+        "conferenceTitle": "2011 International Conference on Computer Science and Service System (CSSS)",
+        "data": "27-29 June 2011",
         "authors": [
-            "Yang Hao"
+            "Qiang Cai",
+            "Laizhong Song"
         ],
-        "DOI": "10.1109/ICMTCE.2011.5915576",
-        "citation": 6,
-        "abstract": "Body-centric wireless communications refer to human-self and human-to-human networking with the use of wearable and implantable wireless sensors. It is a subject area combining wireless body-area networks (WBANs), Wireless Sensor Networks (WSNs) and Wireless Personal Area Networks (WPANs). Body-centric wireless communications has abundant applications in personal healthcare, smart home, personal entertainment and identification systems, space exploration and military. The human body is an uninviting and often hostile environment for a wireless signal. In general, antennas suffer from reduced efficiency due to electromagnetic absorption in human tissues, radiation pattern fragmentation and variations in impedance at the feed. Typical geometries of wireless wearable and implantable devices, vary from millimetric to centimetric sizes and, hence, compact yet efficient antennas need to be fully characterized and integrated with the RF transceiver. As well as size there are other significant challenges in the design of antennas for body-centric wireless communications. The objective of this talk is to highlight current and emerging research in antennas and propagation for body-centric wireless communications, as well as applications of this technology."
+        "DOI": "10.1109/CSSS.2011.5972217",
+        "citation": 7,
+        "abstract": "Base on the Lagrange interpolation polynomial algorithm, the error analysis is discussed in this paper. Firstly, we derive the Lagrange interpolation polynomial algorithm and introduce the shape function with the usage of related data figures. Secondly, how to derive the Lagrange interpolation function is also simply introduced. At last, some examples have been given to display the error analysis of the Lagrange interpolation polynomial algorithm and two conclusions are suggested to minimize the errors in Lagrange interpolation."
     },
     {
         "title": "An extended systematic review of software process improvement in small and medium Web companies",
         "conferenceTitle": "15th Annual Conference on Evaluation & Assessment in Software Engineering (EASE 2011)",
-        "Content Type": "Conferences",
-        "date": "11-12 April 2011",
+        "data": "11-12 April 2011",
         "authors": [
             "Muhammad Sulayman",
             "Emilia Mendes"
@@ -722,8 +720,7 @@
     {
         "title": "Multilayer interdigital ultra-wideband filter",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "Z. Hao",
             "J. Hong"
@@ -733,36 +730,9 @@
         "abstract": "Summary form only given, as follows. A miniature ultra wideband (UWB) bandpass filter that uses a multilayer interdigital structure is presented. The quarter-wavelength resonators including microstrip line resonator and coplanar waveguide (CPW) resonator are vertically stacked to achieve a strong coupling for the designed UWB filter. By adopting multilayer configurations, a miniature footprint is achieved. A seven-pole UWB bandpass filter is designed and fabricated using the multilayer liquid crystal polymer (LCP) technology."
     },
     {
-        "title": "Estimation of 3D head region using gait motion for surveillance video",
-        "conferenceTitle": "4th International Conference on Imaging for Crime Detection and Prevention 2011 (ICDP 2011)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2011",
-        "authors": [
-            "Sung-Uk Jung",
-            "Mark S. Nixon"
-        ],
-        "DOI": "10.1049/ic.2011.0105",
-        "citation": 6,
-        "abstract": "Detecting and recognizing people is important in surveillance. Many detection approaches use local information, such as pattern and colour, which can lead to constraints on application such as changes in illumination, low resolution, and camera view point. In this paper we propose a novel method for estimating the 3D head region based on analysing the gait motion derived from the video provided by a single camera. Generally, when a person walks there is known head movement in the vertical direction, regardless of the walking direction. Using this characteristic the gait period is detected using wavelet decomposition and the heel strike position is calculated in 3D space. Then, a 3D gait trajectory model is constructed by non-linear optimization. We evaluate our new approach using the CAVIAR database and show that we can indeed determine the head region to good effect. The contributions of this research include the first use of detecting a face region by using human gait and which has fewer application constraints than many previous approaches."
-    },
-    {
-        "title": "An improved RSSI-based centroid localization algorithm in wireless sensor networks",
-        "conferenceTitle": "2011 International Conference on Computer Science and Service System (CSSS)",
-        "Content Type": "Conferences",
-        "date": "27-29 June 2011",
-        "authors": [
-            "Zhonghua Zhang",
-            "Di Chen"
-        ],
-        "DOI": "10.1109/CSSS.2011.5972162",
-        "citation": 6,
-        "abstract": "RSSI-based localization is one of the hot spots in wireless sensor networks nowadays. For improving the locating accuracy, an improved RSSI-based centroid localization algorithm by using a new method to reduce the error of RSSI measurement is presented in this paper. The simulation experiment results prove that this algorithm can obviously improve the locating accuracy compared to other RSSI-based triangle and centroid localization algorithms."
-    },
-    {
         "title": "Novel Maximum Power Point Tracking with classical cascaded voltage and current loops for photovoltaic systems",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "M. Fazeli",
             "P. Igic",
@@ -777,8 +747,7 @@
     {
         "title": "Regulating DC link voltage fluctuations on a grid connected wave power system using energy storage",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "C. E. Jones",
             "S. J. Finney",
@@ -791,8 +760,7 @@
     {
         "title": "Small wind turbine emulator with separately excited DC motor using analog electronic circuit",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "A. Mahdy",
             "S. M. El-Hakim",
@@ -805,8 +773,7 @@
     {
         "title": "Overview of voltage control strategies in medium voltage networks with implementation of distributed generation",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "M. Jacxsens",
             "B. Meersman",
@@ -821,8 +788,7 @@
     {
         "title": "Polynomial chaos-based tolerance analysis of microwave planar guiding structures",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "P. Manfredi",
             "F. G. Canavero"
@@ -834,8 +800,7 @@
     {
         "title": "Bandwidth reconfigurable microwave bandpass filter",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "J. Chen",
             "H. Tsai",
@@ -848,8 +813,7 @@
     {
         "title": "On space mapping optimization with coarsely-discretized EM coarse models",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "S. Koziel"
         ],
@@ -860,8 +824,7 @@
     {
         "title": "On Circularity of Receiver Front-end Signals Under RF Impairments",
         "conferenceTitle": "17th European Wireless 2011 - Sustainable Wireless Technologies",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2011",
+        "data": "27-29 April 2011",
         "authors": [
             "Lauri Anttila",
             "Mikko Valkama"
@@ -873,8 +836,7 @@
     {
         "title": "Concurrent planar multiharmonic dual-band load-coupling network for switching-mode power amplifiers",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "D. Kalim",
             "R. Negra"
@@ -886,8 +848,7 @@
     {
         "title": "The use of binary particle swarm optimization to obtain a demand side management system",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "J. Agneessens",
             "T. Vandoorn",
@@ -899,37 +860,9 @@
         "abstract": "The increasing presence of wind, solar and other intrinsically intermittent sources of energy into the grid will lead to an erratic change of voltage along a distribution feeder. This phenomenon can lead to over- and undervoltages in some nodes of the line. In this paper, consumers will be considered as partially interruptible loads. By curtailing opportune loads, a smoother voltage profile can be obtained. The aim of this paper is to create a curtailment schedule that takes into account both the voltage profile along the line as well as the demands of the consumers. The use of binary particle swarm optimization will be investigated to obtain this demand side management (DSM) system."
     },
     {
-        "title": "A MMIC double balanced diode ring mixer in GaAs",
-        "conferenceTitle": "Active RF Devices, Circuits and Systems Seminar",
-        "Content Type": "Conferences",
-        "date": "12-12 Sept. 2011",
-        "authors": [
-            "Wong Wei Hwee",
-            "David Linton",
-            "Jonathan Leckey"
-        ],
-        "DOI": "10.1049/ic.2011.0218",
-        "citation": 6,
-        "abstract": "This paper presents a monolithic microwave integrated circuit (MMIC) double balanced diode ring mixer. This chip fabricated in the 0.15 μm pHEMT GaAs process which is offered by WIN Semiconductor. Spiral structure of Marchand balun is used to minimize the chip's size. This mixer design achieves a low conversion loss of 5 to 6 dB and high LO-RF isolation of average 45 dB over the RF/LO bandwidth which is 15-25 GHz and a DC-2 GHz IF. This mixer also obtains good linearity with IIP3 of more than 20 dBm. The chip's size included build in Marchand balun is around 0.75 mm2."
-    },
-    {
-        "title": "An investigation of alternating impedance microstrip transceiver coil arrays for MRI at 7T",
-        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
-        "authors": [
-            "I. A. Elabyad",
-            "A. Omar"
-        ],
-        "DOI": "10.1109/MWSYM.2011.5973286",
-        "citation": 6,
-        "abstract": "Summary form only given, as follows. The magnetic field generated by a conventional MSR is inhomogeneous along the resonator axis. It is strong at the center and weak at the terminating ends. To homogenize the B1+ field, it is required to modify the traditional MSR. Recently, an approach based on alternating impedance MSR has been presented. Another configuration of alternating impedance MSR is proposed. Results indicate that, the alternating impedance MSR with circular elements is the best coil in terms of B1+ field homogeneity."
-    },
-    {
         "title": "Facial blood vessels activity in drunk persons using thermal infrared",
         "conferenceTitle": "4th International Conference on Imaging for Crime Detection and Prevention 2011 (ICDP 2011)",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2011",
+        "data": "3-4 Nov. 2011",
         "authors": [
             "G. Koukiou",
             "V. Anastassopoulos"
@@ -941,8 +874,7 @@
     {
         "title": "Gain-enhanced distributed amplifier-based CRLH-leaky wave antenna for quasi-resonant power recycling scheme",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "C. M. Wu",
             "T. Itoh"
@@ -954,8 +886,7 @@
     {
         "title": "Stochastic optimal power flow approach considering correlated probabilistic load and wind farm generation",
         "conferenceTitle": "IET Conference on Reliability of Transmission and Distribution Networks (RTDN 2011)",
-        "Content Type": "Conferences",
-        "date": "22-24 Nov. 2011",
+        "data": "22-24 Nov. 2011",
         "authors": [
             "G. Li",
             "X. P. Zhang"
@@ -967,8 +898,7 @@
     {
         "title": "Varactor-tuned substrate integrated waveguide phase shifter",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "Y. Ding",
             "K. Wu"
@@ -980,8 +910,7 @@
     {
         "title": "Fixed speed wind generator model parameter estimation using improved particle swarm optimization and system frequency disturbances",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "F. González-Longatt",
             "P. Regulski",
@@ -995,8 +924,7 @@
     {
         "title": "Effective and efficient circuit breaker analysis",
         "conferenceTitle": "IET Conference on Reliability of Transmission and Distribution Networks (RTDN 2011)",
-        "Content Type": "Conferences",
-        "date": "22-24 Nov. 2011",
+        "data": "22-24 Nov. 2011",
         "authors": [
             "Simanand Gandhi Jeyaraj",
             "Yehdego Habtay"
@@ -1006,10 +934,20 @@
         "abstract": "Worldwide utilities and industries have seen various technological advancements in circuit breaker (CB) testing and analysing. Yet most of the owners underperform the maintenance activity when it comes to circuit breaker maintenance and many limit themselves to an operating time test or a static contact resistance test using inappropriate test equipment. The reasons cited for this were 'complicated test procedures which involve longer outage time on the feeder', 'lack of availability of the feeder for maintenance' and 'lack of permission to remove the earth rod or earth switch while the breaker was in shutdown condition'. Also the decision making process and pin pointing the fault in a breaker after performing a basic circuit breaker test will often be a challenge. Though the basic tests like timing test on a circuit breaker provides preliminary information about the breaker condition, actual condition of a deteriorating breaker becomes obvious in a well matured state and often revealed only by a catastrophic failure while in service. Different utilities, switch gear manufacturers, researchers and test equipment manufacturers have stressed the importance of various advanced test methodologies to save time and money. Those tests include coil current analysis, dynamic resistance measurement, testing on dual ground conditions, vibration testing, first trip analysis, online testing and so on. These circuit breaker testing technologies often provide critical information of the circuit breaker and make the decision making process simple. Pinpointing the fault in a circuit breaker and attempting the maintenance activity in a very short time will be complicated if the directions guided by the test methodologies or equipments are not clear enough or easy enough. Also one particular method, tool or technology will never provide"
     },
     {
+        "title": "Antennas and propagation for body centric wireless communications",
+        "conferenceTitle": "2011 IEEE International Conference on Microwave Technology & Computational Electromagnetics",
+        "data": "22-25 May 2011",
+        "authors": [
+            "Yang Hao"
+        ],
+        "DOI": "10.1109/ICMTCE.2011.5915576",
+        "citation": 5,
+        "abstract": "Body-centric wireless communications refer to human-self and human-to-human networking with the use of wearable and implantable wireless sensors. It is a subject area combining wireless body-area networks (WBANs), Wireless Sensor Networks (WSNs) and Wireless Personal Area Networks (WPANs). Body-centric wireless communications has abundant applications in personal healthcare, smart home, personal entertainment and identification systems, space exploration and military. The human body is an uninviting and often hostile environment for a wireless signal. In general, antennas suffer from reduced efficiency due to electromagnetic absorption in human tissues, radiation pattern fragmentation and variations in impedance at the feed. Typical geometries of wireless wearable and implantable devices, vary from millimetric to centimetric sizes and, hence, compact yet efficient antennas need to be fully characterized and integrated with the RF transceiver. As well as size there are other significant challenges in the design of antennas for body-centric wireless communications. The objective of this talk is to highlight current and emerging research in antennas and propagation for body-centric wireless communications, as well as applications of this technology."
+    },
+    {
         "title": "24-GHz joint radar and radio system capable of time-agile wireless sensing and communication",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "L. Han",
             "K. Wu"
@@ -1021,8 +959,7 @@
     {
         "title": "Modelling and optimization of renewable energy integration in buildings",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "P. Gopi",
             "I. Prabhakara Reddy"
@@ -1032,23 +969,9 @@
         "abstract": "The sustainable security of energy supply, led both developed and developing countries to make and implement new policies to improve efficiency in energy consumption, to adopt new alternatives like renewable energy systems. To face the economic, social, technological and environmental challenges, the need for energy conservation as well as for developing renewable technologies has become even more critical. Hybrid systems can be considered as a reasonable solution, capable to support systems that cover the energy demands of both stand-alone and grid connected consumers. Commonly, it consists of a mix of two or more energy sources used jointly to provide increased system efficiency as well as greater balance in energy supply. The aim of this paper is to present the architecture of a Decision Support System (DSS) that can be used for the hourly energy management of a mix of renewable energy systems. Specifically, an integrated model representing a hybrid energy generation system (characterized by solar plate collector, PV, wind and battery storage) connected to the grid is developed. The approach is based on mathematical modelling of each component, then an optimization problem is solved in order to better manage and control the energy flow so to ensure reliable supply of demand."
     },
     {
-        "title": "A novel compact dual-band half-mode substrate integrated waveguide bandpass filter",
-        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
-        "authors": [
-            "V. Sekar",
-            "K. Entesari"
-        ],
-        "DOI": "10.1109/MWSYM.2011.5973150",
-        "citation": 5,
-        "abstract": "Summary form only given, as follows. This paper presents a novel dual-band bandpass filter (BPF) using half-mode substrate integrated waveguide (HMSIW) technology for the first time. The proposed filter is at least six times smaller than its conventional substrate integrated waveguide (SIW) counterpart. A three-pole dual-band Chebyshev BPF with center frequencies of 1.05 GHz and 1.3 GHz is implemented on RT/Duroid 6010LM substrate. To our knowledge, this filter is the state-of-the-art in dual-band BPFs using SIW technology."
-    },
-    {
         "title": "Comparison of PSO models for optimal placement and sizing of Statcom",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "Sarika Varshney",
             "Laxmi Srivastava",
@@ -1061,8 +984,7 @@
     {
         "title": "Internet of things technology application in the food supply chain management",
         "conferenceTitle": "2011 International Conference on E-Business and E-Government (ICEE)",
-        "Content Type": "Conferences",
-        "date": "6-8 May 2011",
+        "data": "6-8 May 2011",
         "authors": [
             "Teng Yue"
         ],
@@ -1073,8 +995,7 @@
     {
         "title": "Fuzzy-PI control system for speeding of paper cutting machine Based on PLC",
         "conferenceTitle": "2011 International Conference on Electric Information and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 April 2011",
+        "data": "15-17 April 2011",
         "authors": [
             "Zhiming Yang",
             "Lepeng Song"
@@ -1086,8 +1007,7 @@
     {
         "title": "Contrast study on power quality detection using EMD and EEMD",
         "conferenceTitle": "2011 International Conference on Consumer Electronics, Communications and Networks (CECNet)",
-        "Content Type": "Conferences",
-        "date": "16-18 April 2011",
+        "data": "16-18 April 2011",
         "authors": [
             "Yuqing Bao",
             "Jihua Xie"
@@ -1099,8 +1019,7 @@
     {
         "title": "Notice of Retraction: Empirical study on the correlation between the financial management structure and the performance of listed manufacturing companies",
         "conferenceTitle": "2011 International Conference on E-Business and E-Government (ICEE)",
-        "Content Type": "Conferences",
-        "date": "6-8 May 2011",
+        "data": "6-8 May 2011",
         "authors": [
             "Sun Wei",
             "Du Wenxue"
@@ -1112,8 +1031,7 @@
     {
         "title": "Research of OFDM power line carrier communication based on AMI",
         "conferenceTitle": "IET International Communication Conference on Wireless Mobile and Computing (CCWMC 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Nov. 2011",
+        "data": "14-16 Nov. 2011",
         "authors": [
             "Chen Xiang",
             "Wu Runze",
@@ -1126,8 +1044,7 @@
     {
         "title": "Insulator String Flashover Modeling with the aid of an ATPDraw Object",
         "conferenceTitle": "2011 46th International Universities' Power Engineering Conference (UPEC)",
-        "Content Type": "Conferences",
-        "date": "5-8 Sept. 2011",
+        "data": "5-8 Sept. 2011",
         "authors": [
             "Zacharias G. Datsios",
             "Pantelis N. Mikropoulos",
@@ -1140,8 +1057,7 @@
     {
         "title": "Schedule risk management method of construction project based on critical chain",
         "conferenceTitle": "2011 International Conference on Electric Technology and Civil Engineering (ICETCE)",
-        "Content Type": "Conferences",
-        "date": "22-24 April 2011",
+        "data": "22-24 April 2011",
         "authors": [
             "Liu Hong-bo"
         ],
@@ -1152,8 +1068,7 @@
     {
         "title": "Wind turbine control design to enhance the fault ride-through capability",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "F. Zhang",
             "W. E. Leithead",
@@ -1166,8 +1081,7 @@
     {
         "title": "Broadband Gm-boosted differential HBT doublers with transformer balun",
         "conferenceTitle": "Active RF Devices, Circuits and Systems Seminar",
-        "Content Type": "Conferences",
-        "date": "12-12 Sept. 2011",
+        "data": "12-12 Sept. 2011",
         "authors": [
             "Jian Zhang",
             "Herbert Zirath"
@@ -1179,8 +1093,7 @@
     {
         "title": "Development of Novel State Estimation Algorithms for Active Distribution Networks",
         "conferenceTitle": "2011 46th International Universities' Power Engineering Conference (UPEC)",
-        "Content Type": "Conferences",
-        "date": "5-8 Sept. 2011",
+        "data": "5-8 Sept. 2011",
         "authors": [
             "Nazia Nusrat",
             "Malcolm Irving",
@@ -1193,8 +1106,7 @@
     {
         "title": "A wide-band forward coupler with balanced composite right-/left-handed transmission lines",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "A. Hirota",
             "Y. Tahara",
@@ -1207,8 +1119,7 @@
     {
         "title": "Design and analysis of an intelligent collision avoidance system for locomotives",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "C. Chellaswamy",
             "S. Arul",
@@ -1221,8 +1132,7 @@
     {
         "title": "Comparision of the evaluation method for building energy consumption in Taiwan-EEWH with USGBC-LEED Green Building Rating System",
         "conferenceTitle": "2011 International Conference on Consumer Electronics, Communications and Networks (CECNet)",
-        "Content Type": "Conferences",
-        "date": "16-18 April 2011",
+        "data": "16-18 April 2011",
         "authors": [
             "Ruey-lung Hwang",
             "Hsiu-ya Hsu"
@@ -1234,8 +1144,7 @@
     {
         "title": "Optimal reactive power dispatch by an improved real coded genetic algorithm with PCA mutation",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "Amit Saraswat",
             "Ashish Saini"
@@ -1247,8 +1156,7 @@
     {
         "title": "System-level performance study of a multistandard outphasing transmitter using optimised multilevels",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "J. Guan",
             "A. F. Aref",
@@ -1261,8 +1169,7 @@
     {
         "title": "Generalized dual-frequency Wilkinson power dividers with a series/parallel RLC circuit",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "X. Wang",
             "I. Sakagami"
@@ -1274,8 +1181,7 @@
     {
         "title": "Research on energy detection algorithm in cognitive radio systems",
         "conferenceTitle": "2011 International Conference on Computer Science and Service System (CSSS)",
-        "Content Type": "Conferences",
-        "date": "27-29 June 2011",
+        "data": "27-29 June 2011",
         "authors": [
             "Guicai Yu",
             "Chengzhi Long"
@@ -1287,8 +1193,7 @@
     {
         "title": "Linearity enhancement of CMOS device using a modified third-order transconductance cancellation technique for microwave amplifier",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "Y. Yeh",
             "H. Chang"
@@ -1300,8 +1205,7 @@
     {
         "title": "Optimal Charging Schedule of an Electric Vehicle Fleet",
         "conferenceTitle": "2011 46th International Universities' Power Engineering Conference (UPEC)",
-        "Content Type": "Conferences",
-        "date": "5-8 Sept. 2011",
+        "data": "5-8 Sept. 2011",
         "authors": [
             "Junjie Hu",
             "Shi You",
@@ -1316,8 +1220,7 @@
     {
         "title": "Simple VSI-based single-phase inverter: Dynamical effect of photovoltaic generator and multiplier-based grid synchronization",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "L. Nousiainen",
             "J. Puukko",
@@ -1330,8 +1233,7 @@
     {
         "title": "Reconfigurable broadband mixer with variable conversion gain",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "M. Wang",
             "C. E. Saavedra"
@@ -1343,8 +1245,7 @@
     {
         "title": "Voltage control areas for reactive power management using clustering approach in deregulated power system",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "Saran Satsangi",
             "Ashish Saini",
@@ -1357,8 +1258,7 @@
     {
         "title": "Effect of fractional-order controller on automatic generation control of a multi-area thermal system",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "Sanjoy Debbarma",
             "Lalit Chandra Saikia"
@@ -1370,8 +1270,7 @@
     {
         "title": "Design of high charging power supply for Electric Vehicle based on BUCK circuit",
         "conferenceTitle": "2011 International Conference on Electric Information and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 April 2011",
+        "data": "15-17 April 2011",
         "authors": [
             "Liu Baifen",
             "Zhan Chunjuan"
@@ -1381,10 +1280,35 @@
         "abstract": "For the limitations of big volume, high energy consumption and low efficiency of current high power battery, developed the 16KW intelligent charger supply based on BUCK circuit by using single IGBT module. This design is efficient at low costs for charging strong Lithium-Ion batteries for Electric Vehicles. Analyzing the working status of preferred BUCK converter, this research showed designs of main parameters and main waveforms of prototype testing."
     },
     {
+        "title": "Frequency spectrum access mechanism of Cognitive Radio based on spectrum prediction",
+        "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
+        "data": "14-16 Oct. 2011",
+        "authors": [
+            "Shuiping Ni",
+            "Shuqun Shen"
+        ],
+        "DOI": "10.1049/cp.2011.0730",
+        "citation": 4,
+        "abstract": "In this thesis, a frequency spectrum access mechanism, in which future frequency spectrum state is predicted, is brought forward according to the fact that frequency spectrum detection error of Cognitive Radio is inevitable. That mechanism on support vector machine (SVM) method could evaluate the probability density of idle state duration and occupied state duration of authorized users in given channel. Therefore, it could assess and amend the result of frequency spectrum real-time detection , and could decrease the impact of false alarm probability and misjudgment probability on cognition system and authorized system. The result of simulation shows that the mechanism could obviously decrease the interference of detection error to authorized system, and could apparently reduce the lost of frequency spectrum access chances of cognition system caused by detection error."
+    },
+    {
+        "title": "Low voltage ride-through control strategy of a large capacity DFIG with grid-side thyristor controlled voltage regulator",
+        "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
+        "data": "6-8 Sept. 2011",
+        "authors": [
+            "Chun Wei",
+            "Minxiao Han",
+            "Shaobo Lin",
+            "Xiang Li"
+        ],
+        "DOI": "10.1049/cp.2011.0215",
+        "citation": 4,
+        "abstract": "With the rapidly increasing capacity of grid-connected wind power and the development of offshore wind power, the operating characteristics of wind turbine during the fault have drawn more concern. This paper adopts a relatively simple method to achieve low voltage ride-through (LVRT) of doubly-fed induction generator (DFIG) based wind turbine. A thyristor controlled voltage regulator (TCVR) is installed in the low-voltage side of the wind farm substation. When voltage dip occurs, the grid-side voltage is reasonably compensated according to the degree it drops to improve the stator voltage of DFIG, thereby reducing the flux changes in amplitude, so that the rotor current is restricted under the limit and at the same time the over-voltage of DC bus during the fault is suppressed. A 5MW DFIG wind power system model with the proposed control strategy is established in PSCAD/EMTDC to simulate the operating characteristics of the wind turbine under severe symmetrical fault to verify the validity of the proposed method."
+    },
+    {
         "title": "A graph approach for coordinated channel allocation in downlink multi-cell OFDMA networks",
         "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2011",
+        "data": "14-16 Oct. 2011",
         "authors": [
             "Mingxi Zhang",
             "Yuan Liu",
@@ -1398,8 +1322,7 @@
     {
         "title": "On interference management for uncoordinated LTE-Femto cell deployments",
         "conferenceTitle": "17th European Wireless 2011 - Sustainable Wireless Technologies",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2011",
+        "data": "27-29 April 2011",
         "authors": [
             "Klaus Doppler",
             "Martti Moisio",
@@ -1412,8 +1335,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "CVPR 2011 WORKSHOPS",
-        "Content Type": "Conferences",
-        "date": "20-25 June 2011",
+        "data": "20-25 June 2011",
         "authors": [],
         "DOI": "10.1109/CVPRW.2011.5981752",
         "citation": 4,
@@ -1422,8 +1344,7 @@
     {
         "title": "Impact of Dynamic Line Rating on Power Systems",
         "conferenceTitle": "2011 46th International Universities' Power Engineering Conference (UPEC)",
-        "Content Type": "Conferences",
-        "date": "5-8 Sept. 2011",
+        "data": "5-8 Sept. 2011",
         "authors": [
             "Jiao Fu",
             "D. John Morrow",
@@ -1437,8 +1358,7 @@
     {
         "title": "Simulation of Switched Reluctance motor/generator with optimum turn-on and turn-off control for the application of variable speed drives",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "V. Vasan Prabhu",
             "K.S. Mahesh",
@@ -1451,8 +1371,7 @@
     {
         "title": "Fiber-optic links with all-photonic RF gain and low RF noise figure",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "V. J. Urick",
             "J. D. McKinney",
@@ -1466,8 +1385,7 @@
     {
         "title": "Application of Internet of Things for electric fire control",
         "conferenceTitle": "2011 International Conference on Electrical and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "16-18 Sept. 2011",
+        "data": "16-18 Sept. 2011",
         "authors": [
             "Wei Chen"
         ],
@@ -1476,20 +1394,42 @@
         "abstract": "With the development of information and communication technology to a certain stage, it is inevitable that internet of things is used in electrical fire monitor. Internet of things technology is helpful to effectively integrate the infrastructure resources for electrical fire monitoring system. It is also helpful to improve the information level of electrical fire monitoring system and increase the use frequency of infrastructure resources. Developing status of internet of things and monitoring system for electrical fire is reviewed. A set of basic system of internet of things for electrical fire monitoring system and its application is introduced."
     },
     {
+        "title": "A novel compact dual-band half-mode substrate integrated waveguide bandpass filter",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
+        "authors": [
+            "V. Sekar",
+            "K. Entesari"
+        ],
+        "DOI": "10.1109/MWSYM.2011.5973150",
+        "citation": 4,
+        "abstract": "Summary form only given, as follows. This paper presents a novel dual-band bandpass filter (BPF) using half-mode substrate integrated waveguide (HMSIW) technology for the first time. The proposed filter is at least six times smaller than its conventional substrate integrated waveguide (SIW) counterpart. A three-pole dual-band Chebyshev BPF with center frequencies of 1.05 GHz and 1.3 GHz is implemented on RT/Duroid 6010LM substrate. To our knowledge, this filter is the state-of-the-art in dual-band BPFs using SIW technology."
+    },
+    {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [],
         "DOI": "10.1109/MWSYM.2011.5972995",
         "citation": 4,
         "abstract": "The document that should appear here is not currently available."
     },
     {
+        "title": "A face detection method based on corner verifying",
+        "conferenceTitle": "2011 International Conference on Computer Science and Service System (CSSS)",
+        "data": "27-29 June 2011",
+        "authors": [
+            "Quanyou Zhao",
+            "Shujun Zhang"
+        ],
+        "DOI": "10.1109/CSSS.2011.5974784",
+        "citation": 4,
+        "abstract": "Face detection is the first step for automatic face recognition system and many surveillance systems, it has been widely applied in many fields. A face detection method based on corner verifying is presented. Firstly, most of the background area is quickly filtered out by skin color detection. Then faces are detected by AdaBoost face detection algorithm combination with skin color detection, but there are some non-faces to be detected. Finally, the faces are verified by corner distribution of human face after Harris corner detection to further reduce the error rate. Experimental results show that this method can efficiently and accurately detect the faces with multi-feature fusion."
+    },
+    {
         "title": "Demand response scheduling in SCUC problem for solar integrated thermal system using firefly algorithm",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "K. Chandrasekaran",
             "Sishaj P Simon"
@@ -1501,8 +1441,7 @@
     {
         "title": "HEV powertrain fundamentals",
         "conferenceTitle": "2011 IEEE Vehicle Power and Propulsion Conference",
-        "Content Type": "Conferences",
-        "date": "6-9 Sept. 2011",
+        "data": "6-9 Sept. 2011",
         "authors": [
             "Mengyang Zhang"
         ],
@@ -1513,8 +1452,7 @@
     {
         "title": "Optimal management of microgrid using particle swarm optimization algorithm",
         "conferenceTitle": "2011 International Conference on Electrical and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "16-18 Sept. 2011",
+        "data": "16-18 Sept. 2011",
         "authors": [
             "Xiong Wu",
             "Xiuli Wang"
@@ -1524,10 +1462,22 @@
         "abstract": "This paper establishes an economic operation model of microgrid including photovoltaic, wind energy, heat recovery boiler and battery. The emission of pollutant and greenhouse gases is taken into account and the minimum operation cost of microgrid is taken as objective function. The proposed model is solved by particle swarm optimization algorithm. Besides, the feature of battery is also studied, Test results indicate that scheduling battery according to the proposed model can effectively reduce operating cost."
     },
     {
+        "title": "Overvoltage investigation of wind farm under lightning strokes",
+        "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
+        "data": "6-8 Sept. 2011",
+        "authors": [
+            "Amr M. Abd_Elhady",
+            "Nehmdoh A. Sabiha",
+            "Mohamed A. Izzularab"
+        ],
+        "DOI": "10.1049/cp.2011.0236",
+        "citation": 4,
+        "abstract": "Wind turbine generators are frequently subjected to lightning due to their locations and height. So, the performance of wind farm under such events is worthy investigated. This paper studies the surge propagation through wind farm when a lightning hits blade of one of the wind turbines. This study includes the problem of ground potential rise on the surge arrester operation. To carry out such analysis a reliable model of wind turbine is essential. For getting appropriate wind turbine model, a high frequency model of surge arrester protecting the boost transformer is used as well as high frequency model of this transformer is implemented. The impact of surge arrester and transformer model on back flow current-overvoltages are highly investigated in the time domain as well as frequency domain using Fast Fourier Transform (FFT) and considering simple wind farm consisting of two wind turbines. Identification parameters of the low voltage (LV) arrester model are introduced including all voltage values of LV levels. The simulation is carried out using ATP/EMTP and MATLAB software. This study provides accurate modelling of wind farms under transients due to lightning."
+    },
+    {
         "title": "The analyse of examples on sustainable development and building energy saving in Sweden",
         "conferenceTitle": "2011 Second International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 July 2011",
+        "data": "15-17 July 2011",
         "authors": [
             "Wang Bo"
         ],
@@ -1538,8 +1488,7 @@
     {
         "title": "Demonstration of an OLA-based Cooperative Routing Protocol in an Indoor Environment",
         "conferenceTitle": "17th European Wireless 2011 - Sustainable Wireless Technologies",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2011",
+        "data": "27-29 April 2011",
         "authors": [
             "Yong Jun Chang",
             "Haejoon Jung",
@@ -1552,8 +1501,7 @@
     {
         "title": "Research on motion characteristic of omnidirectional device based on Mecanum wheel",
         "conferenceTitle": "2011 International Conference on Electric Information and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 April 2011",
+        "data": "15-17 April 2011",
         "authors": [
             "Zhang Yunan",
             "Wang Shuangshuang",
@@ -1567,8 +1515,7 @@
     {
         "title": "Research on the method of evaluating risks of hydropower project",
         "conferenceTitle": "2011 International Conference on Computer Science and Service System (CSSS)",
-        "Content Type": "Conferences",
-        "date": "27-29 June 2011",
+        "data": "27-29 June 2011",
         "authors": [
             "Erping Zhao",
             "Xiaobing Jia"
@@ -1580,8 +1527,7 @@
     {
         "title": "Electromagnetic time domain modeling using an improved meshless method",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "H. Razmjoo",
             "M. Movahhedi",
@@ -1595,8 +1541,7 @@
     {
         "title": "Transient stability analysis and optimal coordinated control of multi-terminal VSC-HVDC based offshore wind farms",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "D. C. Kong",
             "X.-P. Zhang"
@@ -1608,8 +1553,7 @@
     {
         "title": "The design of array CCD data acquisition system based on FPGA control",
         "conferenceTitle": "2011 International Conference on Electric Information and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 April 2011",
+        "data": "15-17 April 2011",
         "authors": [
             "Fei Zhang",
             "Huan-yu Wang",
@@ -1623,8 +1567,7 @@
     {
         "title": "A new improved DV-Hop localization algorithm",
         "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2011",
+        "data": "14-16 Oct. 2011",
         "authors": [
             "Yunqi Wang",
             "Wo Tian",
@@ -1638,8 +1581,7 @@
     {
         "title": "Resource Sharing in Relay-enhanced 4G Networks",
         "conferenceTitle": "17th European Wireless 2011 - Sustainable Wireless Technologies",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2011",
+        "data": "27-29 April 2011",
         "authors": [
             "Abdallah Bou Bou Saleh",
             "Omer Bulakci",
@@ -1653,10 +1595,22 @@
         "abstract": "Type 1 inband relay nodes and time-division transmit and receive advanced relay stations are to be supported by 3GPP LTE-Advanced and IEEE 802.16m, respectively. Both classifications support a similar relaying mode where the relay link transmission is time- division multiplexed with the access link transmission, whereas macro users share the same resources with the relays. Hence, system performance depends strongly on the resource partitioning strategy among and within the links as well as how well the competition on resources is managed at the donor eNB. In this paper, we present performance evaluation of different schemes for resource sharing among relay nodes and prioritization techniques of relay users on the relay link coupled with the corresponding scheduling on the access link. In particular, we propose a combination of resource sharing based on the number of relay users and relay link prioritization and scheduling of relay users achieving max-min fairness. A comprehensive system-level simulation campaign is carried out in 3GPP urban and suburban models considering 4 and 10 relays per cell. Results show that the proposed scheme achieves high system fairness and significant throughput gains at the low and mid throughput regime at no or negligible loss in cell throughput."
     },
     {
+        "title": "IoT business models and extended technical requirements",
+        "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
+        "data": "14-16 Oct. 2011",
+        "authors": [
+            "Xueqin Jia",
+            "Jing Wang",
+            "Qing He"
+        ],
+        "DOI": "10.1049/cp.2011.0743",
+        "citation": 4,
+        "abstract": "Internet of Things (IoT) is just in the primary stage for the concept of it is still in debate now. Authors think IoT is a cluster of infrastructure and communication infrastructure is one of most important basis. So, this paper discussed three types of IoT communication infrastructure and derived three kinds of IoT business model from them. Extended requirements of communication infrastructure for IoT are also proposed."
+    },
+    {
         "title": "A times series model for the aggregate GB wind output circa 2030",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "A. Sturt",
             "G. Strbac"
@@ -1668,8 +1622,7 @@
     {
         "title": "Modeling high speed MRI coil switching using PIN diodes",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "R. H. Caverly",
             "W. E. Doherty",
@@ -1680,10 +1633,36 @@
         "abstract": "Summary form only given, as follows. A dynamic time-domain model with improved reverse bias modeling performance suitable of modeling high speed switching in MRI coils with PIN diodes is presented. The model is verified with experimental data and good agreement was obtained. The model is then used in determining the coil dynamic switching characteristics."
     },
     {
+        "title": "Technology of smart noise jamming based on multiplication modulation",
+        "conferenceTitle": "2011 International Conference on Electric Information and Control Engineering",
+        "data": "15-17 April 2011",
+        "authors": [
+            "Zhang Yanbin"
+        ],
+        "DOI": "10.1109/ICEICE.2011.5777633",
+        "citation": 4,
+        "abstract": "To implement effective jamming on the linear frequency radar, this paper proposes one smart noise jamming realization scheme based on multiplication modulation. This kind of jamming not only could avoid the process of coherent radar for blanket jamming to improve the utility of jamming power, but also own better jamming effect than pure deception jamming. The jamming principle is discussed. The jamming effectiveness is analyzed. The design of the jamming parameters is discussed. The paper also gives the simulation results."
+    },
+    {
+        "title": "A new power control algorithm based on game theory in Cognitive Radio system",
+        "conferenceTitle": "International Conference on Advanced Infocom Technology 2011 (ICAIT 2011)",
+        "data": "11-14 July 2011",
+        "authors": [
+            "Jianguo Fu",
+            "Songsong Xiong",
+            "Weiping Liu",
+            "Liang Yang",
+            "Xuchang Ding",
+            "Yongqing Liao"
+        ],
+        "DOI": "10.1049/cp.2011.1089",
+        "citation": 4,
+        "abstract": "Power control is the key technology in Cognitive Radio (CR) systems. In this paper, we introduce the emergence of the problem for power control, analysis the theory of power control design problem basing on the cost function, redesign the cost function, put a new power control algorithm basing on game theory in cognitive radio networks, it can greatly improve the power control performance in the cognitive radio systems."
+    },
+    {
         "title": "Modelling the provision of inertial response from variable speed wind turbines",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "L. Wu",
             "D. Infield"
@@ -1695,8 +1674,7 @@
     {
         "title": "Maximising revenue for non-firm distributed wind generation with energy storage in an active management scheme",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "S. Gill",
             "E. Barbour",
@@ -1710,8 +1688,7 @@
     {
         "title": "Development and Testing of a Branch Current Based Distribution System State Estimator",
         "conferenceTitle": "2011 46th International Universities' Power Engineering Conference (UPEC)",
-        "Content Type": "Conferences",
-        "date": "5-8 Sept. 2011",
+        "data": "5-8 Sept. 2011",
         "authors": [
             "Antti Mutanen",
             "Antti Koto",
@@ -1725,8 +1702,7 @@
     {
         "title": "Problems and solutions of educational game development",
         "conferenceTitle": "2011 International Conference on Consumer Electronics, Communications and Networks (CECNet)",
-        "Content Type": "Conferences",
-        "date": "16-18 April 2011",
+        "data": "16-18 April 2011",
         "authors": [
             "Tingyan Bi",
             "Shihua Song"
@@ -1738,8 +1714,7 @@
     {
         "title": "Thermocouple sensor non-linearity compensation based on orthogonal polynomial basis functions neural network",
         "conferenceTitle": "2011 Second International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 July 2011",
+        "data": "15-17 July 2011",
         "authors": [
             "Yu A-Long"
         ],
@@ -1750,8 +1725,7 @@
     {
         "title": "Power handling and intermodulation distortion of contour-mode AlN MEMS resonators and filters",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "C. D. Nordquist",
             "R. H. Olsson"
@@ -1763,8 +1737,7 @@
     {
         "title": "Millimeter wave and THz communications in China",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "W. Hong"
         ],
@@ -1775,8 +1748,7 @@
     {
         "title": "Study on the step voltage caused by lightning current with postured voxel-based human body models",
         "conferenceTitle": "IET 8th International Conference on Computation in Electromagnetics (CEM 2011)",
-        "Content Type": "Conferences",
-        "date": "11-14 April 2011",
+        "data": "11-14 April 2011",
         "authors": [
             "J. Gao",
             "I. Munteanu",
@@ -1792,8 +1764,7 @@
     {
         "title": "Notice of Retraction: On the licensing strategy of remanufacturing patented product under compulsory licensing",
         "conferenceTitle": "2011 International Conference on E-Business and E-Government (ICEE)",
-        "Content Type": "Conferences",
-        "date": "6-8 May 2011",
+        "data": "6-8 May 2011",
         "authors": [
             "Zhi-Qiang Peng",
             "Ping Su"
@@ -1805,8 +1776,7 @@
     {
         "title": "Effect of mining educational data to improve adaptation of learning in e-learning system",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "T Chellatamilan",
             "M. Ravichandran",
@@ -1820,8 +1790,7 @@
     {
         "title": "A low-power temperature and humidity monitoring system base on WSN",
         "conferenceTitle": "IET International Communication Conference on Wireless Mobile and Computing (CCWMC 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Nov. 2011",
+        "data": "14-16 Nov. 2011",
         "authors": [
             "J.J. Li",
             "F. Wang"
@@ -1833,8 +1802,7 @@
     {
         "title": "Learning from success and failure in transformer fault gas analysis and interpretation",
         "conferenceTitle": "IET Conference on Reliability of Transmission and Distribution Networks (RTDN 2011)",
-        "Content Type": "Conferences",
-        "date": "22-24 Nov. 2011",
+        "data": "22-24 Nov. 2011",
         "authors": [
             "Hongzhi Ding",
             "Richard Heywood",
@@ -1848,8 +1816,7 @@
     {
         "title": "Electric railway systems in common use",
         "conferenceTitle": "5th IET Professional Development Course on Railway Electrification Infrastructure and Systems (REIS 2011)",
-        "Content Type": "Conferences",
-        "date": "6-9 June 2011",
+        "data": "6-9 June 2011",
         "authors": [
             "F. Schmid",
             "C.J. Goodman"
@@ -1861,8 +1828,7 @@
     {
         "title": "Dynamic analysis of PI controllers applied on AC/DC grid-side converters used in wind power generation",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "Michael K. Bourdoulis",
             "Antonio T. Alexandridis"
@@ -1874,8 +1840,7 @@
     {
         "title": "A software system for determining the semantic similarity of short texts in Serbian",
         "conferenceTitle": "2011 19thTelecommunications Forum (TELFOR) Proceedings of Papers",
-        "Content Type": "Conferences",
-        "date": "22-24 Nov. 2011",
+        "data": "22-24 Nov. 2011",
         "authors": [
             "Vuk Batanović",
             "Bojan Furlan",
@@ -1886,23 +1851,9 @@
         "abstract": "This paper describes a software system for determining the degree of semantic similarity of two short texts written in Serbian. Its basic working principles are presented, as well as the phases of its functioning and evaluation. It also describes the process of generating a paraphrase corpus, which was used for evaluation purposes. Finally, evaluation results are discussed and further improvements of the system's precision are considered."
     },
     {
-        "title": "The Lagrange interpolation polynomial algorithm error analysis",
-        "conferenceTitle": "2011 International Conference on Computer Science and Service System (CSSS)",
-        "Content Type": "Conferences",
-        "date": "27-29 June 2011",
-        "authors": [
-            "Qiang Cai",
-            "Laizhong Song"
-        ],
-        "DOI": "10.1109/CSSS.2011.5972217",
-        "citation": 4,
-        "abstract": "Base on the Lagrange interpolation polynomial algorithm, the error analysis is discussed in this paper. Firstly, we derive the Lagrange interpolation polynomial algorithm and introduce the shape function with the usage of related data figures. Secondly, how to derive the Lagrange interpolation function is also simply introduced. At last, some examples have been given to display the error analysis of the Lagrange interpolation polynomial algorithm and two conclusions are suggested to minimize the errors in Lagrange interpolation."
-    },
-    {
         "title": "A 28GS/s 6b pseudo segmented current steering DAC in 90nm CMOS",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "T. Alpert",
             "F. Lang",
@@ -1916,8 +1867,7 @@
     {
         "title": "QoS aware Packet Scheduling with adaptive resource allocation for OFDMA based LTE-advanced networks",
         "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2011",
+        "data": "14-16 Oct. 2011",
         "authors": [
             "R. Kausar",
             "Y. Chen",
@@ -1930,8 +1880,7 @@
     {
         "title": "AC 25kV 50 Hz electrification supply design",
         "conferenceTitle": "5th IET Professional Development Course on Railway Electrification Infrastructure and Systems (REIS 2011)",
-        "Content Type": "Conferences",
-        "date": "6-9 June 2011",
+        "data": "6-9 June 2011",
         "authors": [
             "Roger D White"
         ],
@@ -1942,8 +1891,7 @@
     {
         "title": "The Application and system design for RFID technology in China urban public traffic management",
         "conferenceTitle": "2011 International Conference on E-Business and E-Government (ICEE)",
-        "Content Type": "Conferences",
-        "date": "6-8 May 2011",
+        "data": "6-8 May 2011",
         "authors": [
             "Zhang Helin",
             "Li Dawei"
@@ -1955,8 +1903,7 @@
     {
         "title": "Notice of Retraction: Discussions on the reform of higher vocational education from training the IT students' occupational ability",
         "conferenceTitle": "2011 International Conference on E-Business and E-Government (ICEE)",
-        "Content Type": "Conferences",
-        "date": "6-8 May 2011",
+        "data": "6-8 May 2011",
         "authors": [
             "Hong Dong",
             "Chuanyin Zhang"
@@ -1968,8 +1915,7 @@
     {
         "title": "Mitigation of EMI in DC-DC converter using analogue chaotic PWM technique",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "N. Sudhakar",
             "N. Rajasekar",
@@ -1983,8 +1929,7 @@
     {
         "title": "Gyrotropy and non-reciprocity of Graphene for microwave applications",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "D. L. Sounas",
             "C. Caloz"
@@ -1994,25 +1939,9 @@
         "abstract": "Summary form only given, as follows. The polarization properties of magnetically-biased Graphene are investigated. It is shown that Graphene rotates the polarization of a perpendicularly-incident, linearly-polarized plane wave. The rotation angle dependence on the chemical potential and on the magnetic bias field is analyzed. Substantial rotation is found to exist in an extremely large microwave frequency range. A new circular waveguide Graphene Faraday rotator with enhanced bandwidth and thermal characteristics is proposed."
     },
     {
-        "title": "Low voltage ride-through control strategy of a large capacity DFIG with grid-side thyristor controlled voltage regulator",
-        "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
-        "authors": [
-            "Chun Wei",
-            "Minxiao Han",
-            "Shaobo Lin",
-            "Xiang Li"
-        ],
-        "DOI": "10.1049/cp.2011.0215",
-        "citation": 3,
-        "abstract": "With the rapidly increasing capacity of grid-connected wind power and the development of offshore wind power, the operating characteristics of wind turbine during the fault have drawn more concern. This paper adopts a relatively simple method to achieve low voltage ride-through (LVRT) of doubly-fed induction generator (DFIG) based wind turbine. A thyristor controlled voltage regulator (TCVR) is installed in the low-voltage side of the wind farm substation. When voltage dip occurs, the grid-side voltage is reasonably compensated according to the degree it drops to improve the stator voltage of DFIG, thereby reducing the flux changes in amplitude, so that the rotor current is restricted under the limit and at the same time the over-voltage of DC bus during the fault is suppressed. A 5MW DFIG wind power system model with the proposed control strategy is established in PSCAD/EMTDC to simulate the operating characteristics of the wind turbine under severe symmetrical fault to verify the validity of the proposed method."
-    },
-    {
         "title": "3D finite element analysis of the turbogenerator rotor electromagnetic field",
         "conferenceTitle": "IET 8th International Conference on Computation in Electromagnetics (CEM 2011)",
-        "Content Type": "Conferences",
-        "date": "11-14 April 2011",
+        "data": "11-14 April 2011",
         "authors": [
             "M.G. Pantelyat",
             "A.N. Saphonov",
@@ -2025,8 +1954,7 @@
     {
         "title": "Recent development in stereoscopic display technology",
         "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2011",
+        "data": "14-16 Oct. 2011",
         "authors": [
             "Lina Zhao",
             "Fei Wang",
@@ -2039,8 +1967,7 @@
     {
         "title": "Effect of heat treatment on thermal conductivity of 6063 aluminum alloy",
         "conferenceTitle": "2011 Second International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 July 2011",
+        "data": "15-17 July 2011",
         "authors": [
             "Jianxin Zhang",
             "Aihua Gao"
@@ -2052,8 +1979,7 @@
     {
         "title": "Simulation of car driving based on SolidWorks and Simulink",
         "conferenceTitle": "2011 International Conference on Electric Information and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 April 2011",
+        "data": "15-17 April 2011",
         "authors": [
             "Song Jian-guo",
             "Xu Ping-ping"
@@ -2065,8 +1991,7 @@
     {
         "title": "New blade profile for Darrieus wind turbines capable to self-start",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "N. C. Batista",
             "R. Melício",
@@ -2080,8 +2005,7 @@
     {
         "title": "An overview of Robot SLAM problem",
         "conferenceTitle": "2011 International Conference on Consumer Electronics, Communications and Networks (CECNet)",
-        "Content Type": "Conferences",
-        "date": "16-18 April 2011",
+        "data": "16-18 April 2011",
         "authors": [
             "Liping Qu",
             "Hongjian Wang"
@@ -2093,8 +2017,7 @@
     {
         "title": "13 Years of SOA at Credit Suisse: Lessons Learned-Remaining Challenges",
         "conferenceTitle": "2011 IEEE Ninth European Conference on Web Services",
-        "Content Type": "Conferences",
-        "date": "14-16 Sept. 2011",
+        "data": "14-16 Sept. 2011",
         "authors": [
             "Stephan Murer"
         ],
@@ -2103,10 +2026,23 @@
         "abstract": "Credit Suisse has been active in the field of service oriented architecture over many years. I chose the birth date of the \"Credit Suisse Information Bus\" 13 years ago as the starting point of a long journey towards an enterprise SOA at Credit Suisse. I have chosen a number of case studies, marking major steps in the SOA progress. Each case study starts with a strategic business need, continues with the chosen solution, and concludes with a discussion of the achievements and the remaining gaps. Putting these case studies into a historic perspective, shows a continuous evolution, where each step expands the business value, closes gaps of previous solutions, and last but not least leads to new challenges. I will illustrate each case study with examples and data."
     },
     {
+        "title": "Electromagnetic source synthesis by reversed-TLM method",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
+        "authors": [
+            "A. Ungureanu",
+            "Y. Fu",
+            "T. Vuong",
+            "F. Ndagijimana"
+        ],
+        "DOI": "10.1109/MWSYM.2011.5973179",
+        "citation": 3,
+        "abstract": "Summary form only given, as follows. Classical methods for source and antenna synthesis are iterative and not always adapted to the desired problem. We propose a new approach for synthesize electromagnetic sources from their far-field radiation pattern. The Reversed-TLM method is employed. A super-resolution reconstruction of a point-like source is obtained. Monopole antenna synthesis results, in terms of orientation and localization of the current distributions along the antenna, are also presented."
+    },
+    {
         "title": "Simulation for vehicle pulse input based on rigid ring tire model",
         "conferenceTitle": "2011 International Conference on Electric Information and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 April 2011",
+        "data": "15-17 April 2011",
         "authors": [
             "Zhang Wei",
             "Duan Xiang",
@@ -2119,8 +2055,7 @@
     {
         "title": "Notice of Retraction: Sustainable development and utilization of Water Resources: Case study of Zhejiang province",
         "conferenceTitle": "2011 International Conference on E-Business and E-Government (ICEE)",
-        "Content Type": "Conferences",
-        "date": "6-8 May 2011",
+        "data": "6-8 May 2011",
         "authors": [
             "Bin Li",
             "Huaguo Yang"
@@ -2132,8 +2067,7 @@
     {
         "title": "The study on 3D contact-friction pounding model based on OpenSEES",
         "conferenceTitle": "2011 Second International Conference on Mechanic Automation and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 July 2011",
+        "data": "15-17 July 2011",
         "authors": [
             "Qingli Meng",
             "Yin Xia"
@@ -2145,8 +2079,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "2011 IEEE 37th Annual Northeast Bioengineering Conference (NEBEC)",
-        "Content Type": "Conferences",
-        "date": "1-3 April 2011",
+        "data": "1-3 April 2011",
         "authors": [],
         "DOI": "10.1109/NEBC.2011.5778657",
         "citation": 3,
@@ -2155,8 +2088,7 @@
     {
         "title": "Notice of Retraction: Design of the time driving and image signal processing for linear CCD based on FPGA",
         "conferenceTitle": "2011 International Conference on Consumer Electronics, Communications and Networks (CECNet)",
-        "Content Type": "Conferences",
-        "date": "16-18 April 2011",
+        "data": "16-18 April 2011",
         "authors": [
             "Zhao Yuan"
         ],
@@ -2167,8 +2099,7 @@
     {
         "title": "An adaptive extended Kalman filter for attitude estimation of Self-Balancing Two-Wheeled Robot",
         "conferenceTitle": "2011 International Conference on Electric Information and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 April 2011",
+        "data": "15-17 April 2011",
         "authors": [
             "Xiao-gang Ruan",
             "Ke-ke Song"
@@ -2180,8 +2111,7 @@
     {
         "title": "A fall detection algorithm based on pattern recognition and human posture analysis",
         "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2011",
+        "data": "14-16 Oct. 2011",
         "authors": [
             "Huang Cheng",
             "Haiyong Luo",
@@ -2194,8 +2124,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "29th VLSI Test Symposium",
-        "Content Type": "Conferences",
-        "date": "1-5 May 2011",
+        "data": "1-5 May 2011",
         "authors": [],
         "DOI": "10.1109/VTS.2011.5783791",
         "citation": 3,
@@ -2204,8 +2133,7 @@
     {
         "title": "Investigation of grid-support capabilities of Doubly Fed Induction Generators during grid faults",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "Tamer A. Kawady",
             "Hassan Shaaban",
@@ -2218,8 +2146,7 @@
     {
         "title": "Application of bifurcation analysis on active unbalanced distribution system",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "Mamdouh Abdel-Akher",
             "Ahmed Bedawy",
@@ -2230,23 +2157,9 @@
         "abstract": "This paper presents the application of bifurcation method on the steady state three-phase load-flow Jacobian method to study the voltage stability of unbalanced distribution systems. The eigenvalue analysis is used to study distribution system behaviour under different operating conditions. Two-bus connected by asymmetrical line is used as the study system. The effects of both unbalance and extreme loading conditions are investigated. Also, the impact of distributed energy resources is studied. Different case studies and loading scenarios are presented to trace the eigenvalues of the Jacobian matrix. The results exhibit the existence of a new bifurcation point which may not be related to the voltage stability."
     },
     {
-        "title": "A face detection method based on corner verifying",
-        "conferenceTitle": "2011 International Conference on Computer Science and Service System (CSSS)",
-        "Content Type": "Conferences",
-        "date": "27-29 June 2011",
-        "authors": [
-            "Quanyou Zhao",
-            "Shujun Zhang"
-        ],
-        "DOI": "10.1109/CSSS.2011.5974784",
-        "citation": 3,
-        "abstract": "Face detection is the first step for automatic face recognition system and many surveillance systems, it has been widely applied in many fields. A face detection method based on corner verifying is presented. Firstly, most of the background area is quickly filtered out by skin color detection. Then faces are detected by AdaBoost face detection algorithm combination with skin color detection, but there are some non-faces to be detected. Finally, the faces are verified by corner distribution of human face after Harris corner detection to further reduce the error rate. Experimental results show that this method can efficiently and accurately detect the faces with multi-feature fusion."
-    },
-    {
         "title": "Minimum vertex cover problem based on Ant Colony Algorithm",
         "conferenceTitle": "7th Advanced Forum on Transportation of China (AFTC 2011)",
-        "Content Type": "Conferences",
-        "date": "22-22 Oct. 2011",
+        "data": "22-22 Oct. 2011",
         "authors": [
             "Jingrong Chen",
             "Ruihua Xu"
@@ -2256,24 +2169,9 @@
         "abstract": "By applying Ant-Cycle model of Ant Colony Algorithm, and modifying the state transition probability, an approximation algorithm is obtained for the minimum vertex cover problem. The time complex of the algorithm is O(n2) , where n is the number of vertices in a network. In the end, an example is given to illustrate the process of the algorithm."
     },
     {
-        "title": "Overvoltage investigation of wind farm under lightning strokes",
-        "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
-        "authors": [
-            "Amr M. Abd_Elhady",
-            "Nehmdoh A. Sabiha",
-            "Mohamed A. Izzularab"
-        ],
-        "DOI": "10.1049/cp.2011.0236",
-        "citation": 3,
-        "abstract": "Wind turbine generators are frequently subjected to lightning due to their locations and height. So, the performance of wind farm under such events is worthy investigated. This paper studies the surge propagation through wind farm when a lightning hits blade of one of the wind turbines. This study includes the problem of ground potential rise on the surge arrester operation. To carry out such analysis a reliable model of wind turbine is essential. For getting appropriate wind turbine model, a high frequency model of surge arrester protecting the boost transformer is used as well as high frequency model of this transformer is implemented. The impact of surge arrester and transformer model on back flow current-overvoltages are highly investigated in the time domain as well as frequency domain using Fast Fourier Transform (FFT) and considering simple wind farm consisting of two wind turbines. Identification parameters of the low voltage (LV) arrester model are introduced including all voltage values of LV levels. The simulation is carried out using ATP/EMTP and MATLAB software. This study provides accurate modelling of wind farms under transients due to lightning."
-    },
-    {
         "title": "An adaptive synchronization algorithm for Non-Contiguous OFDM cognitive radio systems",
         "conferenceTitle": "IET International Communication Conference on Wireless Mobile and Computing (CCWMC 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Nov. 2011",
+        "data": "14-16 Nov. 2011",
         "authors": [
             "Xiao Zhou",
             "Runhe Qiu"
@@ -2285,8 +2183,7 @@
     {
         "title": "Compact sharp-rejection broadband microstrip bandpass filter with wide stopband",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "J. Wu",
             "W. Tu"
@@ -2298,8 +2195,7 @@
     {
         "title": "MetroB: Evaluation and simulation of public transport system",
         "conferenceTitle": "IET International Conference on Smart and Sustainable City (ICSSC 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 July 2011",
+        "data": "6-8 July 2011",
         "authors": [
             "S. Galland",
             "O. Lamotte",
@@ -2312,8 +2208,7 @@
     {
         "title": "Energy capacity and economic viability assessment of the renewable hydrogen energy storage as a balancing mechanism in addressing the electric system integration issues inherent with variable renewable energy resources",
         "conferenceTitle": "IET Conference on Reliability of Transmission and Distribution Networks (RTDN 2011)",
-        "Content Type": "Conferences",
-        "date": "22-24 Nov. 2011",
+        "data": "22-24 Nov. 2011",
         "authors": [
             "Dallia Morsi Ali"
         ],
@@ -2324,8 +2219,7 @@
     {
         "title": "Analysis of the factors that affect QPSK",
         "conferenceTitle": "2011 International Conference on Consumer Electronics, Communications and Networks (CECNet)",
-        "Content Type": "Conferences",
-        "date": "16-18 April 2011",
+        "data": "16-18 April 2011",
         "authors": [
             "Gu Yue"
         ],
@@ -2336,8 +2230,7 @@
     {
         "title": "Statistical life data analysis for electricity distribution cable assets — An Asset Management approach",
         "conferenceTitle": "IET and IAM Asset Management Conference 2011",
-        "Content Type": "Conferences",
-        "date": "30 Nov.-1 Dec. 2011",
+        "data": "30 Nov.-1 Dec. 2011",
         "authors": [
             "R. P. Y. Mehairjan",
             "D. Djairam",
@@ -2352,8 +2245,7 @@
     {
         "title": "An innovated nonlinear voltage regulator for DC/DC converters: Theoretical and experimental results on PV appplications",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "George C. Konstantopoulos",
             "Antonio T. Alexandridis"
@@ -2365,8 +2257,7 @@
     {
         "title": "Notice of Retraction: Evaluation for flight delay based on rough set theory and grey theory",
         "conferenceTitle": "2011 International Conference on Electric Technology and Civil Engineering (ICETCE)",
-        "Content Type": "Conferences",
-        "date": "22-24 April 2011",
+        "data": "22-24 April 2011",
         "authors": [
             "Xin Zhang",
             "Hua-pu Lu"
@@ -2378,8 +2269,7 @@
     {
         "title": "Neuro-fuzzy approach in microwave filter tuning",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "T. Kacmajor",
             "J. J. Michalski"
@@ -2391,8 +2281,7 @@
     {
         "title": "Simplified structure - A mapped space vector pulse width modulation for three level neutral point diode clamped multilevel inverter",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "C. Bharatiraja",
             "S. Jeevananthan",
@@ -2406,8 +2295,7 @@
     {
         "title": "A Simple Multiuser MIMO-SDMA System in the Downlink Using Statistical Precoding",
         "conferenceTitle": "17th European Wireless 2011 - Sustainable Wireless Technologies",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2011",
+        "data": "27-29 April 2011",
         "authors": [
             "Jue Wang",
             "Shi Jin",
@@ -2421,8 +2309,7 @@
     {
         "title": "Comparison of various mutation schemes of Differential Evolution algorithm for the design of low-pass FIR filter",
         "conferenceTitle": "International Conference on Sustainable Energy and Intelligent Systems (SEISCON 2011)",
-        "Content Type": "Conferences",
-        "date": "20-22 July 2011",
+        "data": "20-22 July 2011",
         "authors": [
             "Sudipta Chattopadhyay",
             "Salil Kumar Sanyal",
@@ -2435,8 +2322,7 @@
     {
         "title": "A system-on-package analog synchronous QPSK demodulator for ultra-high rate 60 GHz wireless communications",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "C. A. Ulusoy",
             "H. Schumacher"
@@ -2448,8 +2334,7 @@
     {
         "title": "Research on the Self-excitation Characteristics and Practical Criterion in Isolated Hydropower Group",
         "conferenceTitle": "2011 46th International Universities' Power Engineering Conference (UPEC)",
-        "Content Type": "Conferences",
-        "date": "5-8 Sept. 2011",
+        "data": "5-8 Sept. 2011",
         "authors": [
             "Yang Huang",
             "Wei Hu",
@@ -2464,8 +2349,7 @@
     {
         "title": "New resonator arrangement for reduced size E-plane filters",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "P. Kozakowski",
             "A. Deleniv"
@@ -2477,8 +2361,7 @@
     {
         "title": "Field Oriented Control of a Permanent Magnet Synchronous Generator for use in a Variable Speed Tidal Stream Turbine",
         "conferenceTitle": "2011 46th International Universities' Power Engineering Conference (UPEC)",
-        "Content Type": "Conferences",
-        "date": "5-8 Sept. 2011",
+        "data": "5-8 Sept. 2011",
         "authors": [
             "Jun Liang",
             "Ben Whitby"
@@ -2490,8 +2373,7 @@
     {
         "title": "Coverage and networking analysis of TD-LTE system",
         "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2011",
+        "data": "14-16 Oct. 2011",
         "authors": [
             "Sheng Zhou"
         ],
@@ -2502,8 +2384,7 @@
     {
         "title": "Intrinsically switchable, BST-on-silicon composite FBARs",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
-        "Content Type": "Conferences",
-        "date": "5-10 June 2011",
+        "data": "5-10 June 2011",
         "authors": [
             "S. A. Sis",
             "V. C. Lee",
@@ -2514,24 +2395,21 @@
         "abstract": "Summary form only given, as follows. This paper presents a DC voltage dependent switchable, composite thin film bulk acoustic wave (FBAR) resonator at 1.82 GHz. The resonator consists of barium stronium titanate-on-silicon in which barium stronium titanate (BST) is primarily used for transduction. The electrostrictive property of BST is exploited to turn the resonator on and off by applying a DC voltage. The device exhibits a quality factor of 157 and 301 at its series and parallel resonance frequencies, respectively."
     },
     {
-        "title": "IoT business models and extended technical requirements",
-        "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2011",
+        "title": "A spatial filter-enabled high-resolution subgridding scheme for stable FDTD modeling of multiscale geometries",
+        "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
+        "data": "5-10 June 2011",
         "authors": [
-            "Xueqin Jia",
-            "Jing Wang",
-            "Qing He"
+            "C. Chang",
+            "C. D. Sarris"
         ],
-        "DOI": "10.1049/cp.2011.0743",
+        "DOI": "10.1109/MWSYM.2011.5973180",
         "citation": 3,
-        "abstract": "Internet of Things (IoT) is just in the primary stage for the concept of it is still in debate now. Authors think IoT is a cluster of infrastructure and communication infrastructure is one of most important basis. So, this paper discussed three types of IoT communication infrastructure and derived three kinds of IoT business model from them. Extended requirements of communication infrastructure for IoT are also proposed."
+        "abstract": "Summary form only given, as follows. As many real-life microwave structures include multiple space and time scales, research on stable subgridding schemes is as timely as ever. This paper presents a new approach to this old problem, based on a spatial filtering method that enables dense and coarse grids to be run at the timestep of the coarse grid. A spatial filter is used to stabilize very high aspect ratio subgrids, maintaining late-time stability over millions of time steps."
     },
     {
         "title": "Semi-blind channel estimation of MIMO-OFDM systems based on RBF network",
         "conferenceTitle": "IET International Communication Conference on Wireless Mobile and Computing (CCWMC 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Nov. 2011",
+        "data": "14-16 Nov. 2011",
         "authors": [
             "jie Hao",
             "ling Yang"
@@ -2543,8 +2421,7 @@
     {
         "title": "Finite element analysis of displacement of composite wall cladding under wind loading",
         "conferenceTitle": "2011 International Conference on Electric Technology and Civil Engineering (ICETCE)",
-        "Content Type": "Conferences",
-        "date": "22-24 April 2011",
+        "data": "22-24 April 2011",
         "authors": [
             "Jiuyang Li",
             "Lijun Dou"
@@ -2556,8 +2433,7 @@
     {
         "title": "Analysis of a Ratio between Delta V10 and Pst Flicker Criteria",
         "conferenceTitle": "2011 46th International Universities' Power Engineering Conference (UPEC)",
-        "Content Type": "Conferences",
-        "date": "5-8 Sept. 2011",
+        "data": "5-8 Sept. 2011",
         "authors": [
             "Alexander Novitskiy",
             "Holger Schau"
@@ -2567,22 +2443,22 @@
         "abstract": "Nowadays the short-term flicker severity value Pst and the long-term flicker severity value Plt are the common-used quantities for the characterization of flicker level in an electrical network in the majority countries in the world. But in some areas of Far East (Japan, Taiwan) power companies use other criterion for the assessment of voltage fluctuation - the voltage flicker index Delta V10 which characterizes the actual flicker with respect to an equivalent value of the voltage modulation component with the frequency of 10 Hz. There are a lot of attempts to find a simple and reliable approach for the converting from one index to other by multiplying the index with a factor, but no universal method was developed. In the paper is shown that the ratio between both flicker assessment criteria is dependent on signal parameters."
     },
     {
-        "title": "Technology of smart noise jamming based on multiplication modulation",
-        "conferenceTitle": "2011 International Conference on Electric Information and Control Engineering",
-        "Content Type": "Conferences",
-        "date": "15-17 April 2011",
+        "title": "Internet of Things technology for energy saving of telecom operators",
+        "conferenceTitle": "IET International Conference on Communication Technology and Application (ICCTA 2011)",
+        "data": "14-16 Oct. 2011",
         "authors": [
-            "Zhang Yanbin"
+            "Chen Lin",
+            "Jing Wang",
+            "Qing He"
         ],
-        "DOI": "10.1109/ICEICE.2011.5777633",
+        "DOI": "10.1049/cp.2011.0741",
         "citation": 3,
-        "abstract": "To implement effective jamming on the linear frequency radar, this paper proposes one smart noise jamming realization scheme based on multiplication modulation. This kind of jamming not only could avoid the process of coherent radar for blanket jamming to improve the utility of jamming power, but also own better jamming effect than pure deception jamming. The jamming principle is discussed. The jamming effectiveness is analyzed. The design of the jamming parameters is discussed. The paper also gives the simulation results."
+        "abstract": "Telecom operators are equipment-intensive enter prise with various types of huge energy consumption equipment, which occupy a large part of the operating costs of production. With the process of social modernization, the state increase emphasis on resource conservation and environment protection. As an emerging technology, Internet of Things technology using for energy conservation of telecom operators can improve the company's own service and operational efficiency. This paper analyzes the energy consumption problems telecom operators equipments faced and give the appropriate IOT solutions which achieves the purpose of equipment energy saving."
     },
     {
         "title": "Development of an effective condition monitoring system for AC point machines",
         "conferenceTitle": "5th IET Conference on Railway Condition Monitoring and Non-Destructive Testing (RCM 2011)",
-        "Content Type": "Conferences",
-        "date": "29-30 Nov. 2011",
+        "data": "29-30 Nov. 2011",
         "authors": [
             "T. Asada",
             "C. Roberts"
@@ -2594,8 +2470,7 @@
     {
         "title": "Modeling and simulation of new territories projects using agencements theory, mereological principles and simplicial complex tool",
         "conferenceTitle": "IET International Conference on Smart and Sustainable City (ICSSC 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 July 2011",
+        "data": "6-8 July 2011",
         "authors": [
             "Eddie Soulier",
             "Francis Rousseaux",
@@ -2610,8 +2485,7 @@
     {
         "title": "Reliability assessment of offshore networks for connection of offshore windfarms",
         "conferenceTitle": "IET Conference on Reliability of Transmission and Distribution Networks (RTDN 2011)",
-        "Content Type": "Conferences",
-        "date": "22-24 Nov. 2011",
+        "data": "22-24 Nov. 2011",
         "authors": [
             "Vandad Hamidi"
         ],
@@ -2620,27 +2494,9 @@
         "abstract": "This paper discusses the reliability assessment for offshore windfarms which is applicable for various offshore network design configurations. The takes into account the overall risk associated with the offshore network and aims to calculate the availability level of the offshore network at one or multiple points of connections."
     },
     {
-        "title": "A new power control algorithm based on game theory in Cognitive Radio system",
-        "conferenceTitle": "International Conference on Advanced Infocom Technology 2011 (ICAIT 2011)",
-        "Content Type": "Conferences",
-        "date": "11-14 July 2011",
-        "authors": [
-            "Jianguo Fu",
-            "Songsong Xiong",
-            "Weiping Liu",
-            "Liang Yang",
-            "Xuchang Ding",
-            "Yongqing Liao"
-        ],
-        "DOI": "10.1049/cp.2011.1089",
-        "citation": 3,
-        "abstract": "Power control is the key technology in Cognitive Radio (CR) systems. In this paper, we introduce the emergence of the problem for power control, analysis the theory of power control design problem basing on the cost function, redesign the cost function, put a new power control algorithm basing on game theory in cognitive radio networks, it can greatly improve the power control performance in the cognitive radio systems."
-    },
-    {
         "title": "A wireless approach to device-free localisation (DFL) for indoor environments",
         "conferenceTitle": "IET Seminar on Assisted Living 2011",
-        "Content Type": "Conferences",
-        "date": "6-6 April 2011",
+        "data": "6-6 April 2011",
         "authors": [
             "P. J. Vance",
             "G. Prasad",
@@ -2654,8 +2510,7 @@
     {
         "title": "Single converter interface for a cluster of offshore wind turbines",
         "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
+        "data": "6-8 Sept. 2011",
         "authors": [
             "D. W. Elliott",
             "S. J. Finney",
@@ -2664,60 +2519,5 @@
         "DOI": "10.1049/cp.2011.0195",
         "citation": 3,
         "abstract": "In this paper, a study of alternative inter-wind farm electrical collection network technologies is presented. The present technologies are discussed and areas where improvements should be made for application to offshore wind farms are identified. Alternative options based around interconnected clusters of turbines controlled by a single power converter using both AC and DC technologies are discussed. A control strategy based on power flow regulation for an AC based cluster is also outlined, and the impact of collectively varying the rotational speed of a cluster of wind turbines on predictions of annual energy production for a cluster is investigated."
-    },
-    {
-        "title": "Improved UWB pulse shaping method based on Gaussian derivatives",
-        "conferenceTitle": "IET International Communication Conference on Wireless Mobile and Computing (CCWMC 2011)",
-        "Content Type": "Conferences",
-        "date": "14-16 Nov. 2011",
-        "authors": [
-            "Li Li",
-            "Pei Wang",
-            "Xiao-dong Wu",
-            "Jiakai Zhang"
-        ],
-        "DOI": "10.1049/cp.2011.0925",
-        "citation": 3,
-        "abstract": "In order to maximize the power spectrum utilization (PSU) while satisfying the Federal Communications Commission (FCC) emission mask, an improved two-stage ultra-wideband (UWB) pulse shaping method based on Gaussian derivatives is presented. Firstly, sub-pulses are designed by optimal combination of Gaussian derivatives over specific sub bands with the condition of maximizing the PSU allowed by emission mask. Secondly, the full band UWB pulse is shaped by the combination of the outputs of parallel band-pass filters (BPFs) bank with the sub pulses as inputs to these BPFs. Simulation results show that the UWB pulse shaped not only meets the FCC emission mask in full band, but also uses the limited power capacity more effectively, improving the PSU rate to enhance the performance of received UWB signal processing possibly. The proposed idea of sub band pulse design may be useful in narrow band interference mitigation as well in application of UWB technology."
-    },
-    {
-        "title": "A survey of researches on the application of natural language processing in internet public opinion monitor",
-        "conferenceTitle": "2011 International Conference on Computer Science and Service System (CSSS)",
-        "Content Type": "Conferences",
-        "date": "27-29 June 2011",
-        "authors": [
-            "Chang Wu",
-            "Yidong Chen"
-        ],
-        "DOI": "10.1109/CSSS.2011.5972059",
-        "citation": 3,
-        "abstract": "In this paper, a survey of researches on the application of natural language processing (NLP) in internet public opinion monitor (IPOM) was proposed. Key NLP technologies used in all stages of IPOM were introduced in detail. Two main difficulties that IPOM faces were also addressed. They are the problem of semantic understanding and the problem of sentiment analysis."
-    },
-    {
-        "title": "Improved Time-Domain Modeling of Underground Cables",
-        "conferenceTitle": "2011 46th International Universities' Power Engineering Conference (UPEC)",
-        "Content Type": "Conferences",
-        "date": "5-8 Sept. 2011",
-        "authors": [
-            "A. I. Chrysochos",
-            "T. A. Papadopoulos",
-            "G. K. Papagiannis"
-        ],
-        "DOI": "",
-        "citation": 3,
-        "abstract": "The accurate modeling of transients in underground cables requires the use of proper time domain models, as no reliable and efficient frequency dependent model exists. Proper frequency selection is crucial for the calculation of underground parameters in time domain modeling, especially when studying transient phenomena. In this paper, the spectrum context of various transient responses in underground cables is analyzed in order to calculate the dominant frequency. A thorough investigation on the source type, cable length, cable terminations and representation of the imperfect earth is implemented so as to determine their influence on the dominant frequency. The validity of empirical rules for the determination of the dominant frequency is also investigated. Results obtained in the time domain, using the proposed frequency, are compared with those obtained from a recently developed frequency domain model, leading to significant remarks."
-    },
-    {
-        "title": "Improvement of current performance for grid connected converter under distorted grid condition",
-        "conferenceTitle": "IET Conference on Renewable Power Generation (RPG 2011)",
-        "Content Type": "Conferences",
-        "date": "6-8 Sept. 2011",
-        "authors": [
-            "Quoc-Nam Trinh",
-            "Hong-Hee Lee"
-        ],
-        "DOI": "10.1049/cp.2011.0192",
-        "citation": 3,
-        "abstract": "This paper proposes an improved current controller to achieve a high current performance in grid connected converter under distorted grid voltage condition. The proposed control scheme is employed in synchronously rotating reference frame that consists of a conventional proportional-integral (PI) controller plus a resonant (R) controller tuned at six times of grid frequency. The complexity of the proposed control algorithm is greatly reduced because a single resonant controller is enough to eliminate effectively both negative fifth and positive seventh harmonic components in current, which are caused by distorted grid voltage. The control strategy is analyzed and design of resonant controller in discrete form will also be presented. Simulation and experimental results are presented to validate the feasibility of the proposed control algorithm."
     }
 ]

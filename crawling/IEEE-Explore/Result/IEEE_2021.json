@@ -2,8 +2,7 @@
     {
         "title": "Nvidia Data Center Processing Unit (DPU) Architecture",
         "conferenceTitle": "2021 IEEE Hot Chips 33 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2021",
+        "data": "22-24 Aug. 2021",
         "authors": [
             "Idan Burstein"
         ],
@@ -14,18 +13,16 @@
     {
         "title": "Gait Recognition in the Wild: A Benchmark",
         "conferenceTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
-        "Content Type": "Conferences",
-        "date": "10-17 Oct. 2021",
+        "data": "10-17 Oct. 2021",
         "authors": [],
         "DOI": "10.1109/ICCV48922.2021.01452",
-        "citation": 13,
+        "citation": 17,
         "abstract": "Gait benchmarks empower the research community to train and evaluate high-performance gait recognition systems. Even though growing efforts have been devoted to cross-view recognition, academia is restricted by current existing databases captured in the controlled environment. In this paper, we contribute a new benchmark for Gait REcognition in the Wild (GREW). The GREW dataset is constructed from natural videos, which contains hundreds of cameras and thousands of hours streams in open systems. With tremendous manual annotations, the GREW consists of 26K identities and 128K sequences with rich attributes for unconstrained gait recognition. Moreover, we add a distractor set of over 233K sequences, making it more suitable for real-world applications. Compared with prevailing predefined cross-view datasets, the GREW has diverse and practical view variations, as well as more natural challenging factors. To the best of our knowledge, this is the first large-scale dataset for gait recognition in the wild. Equipped with this benchmark, we dissect the unconstrained gait recognition problem. Representative appearance-based and model-based methods are explored, and comprehensive baselines are established. Experimental results show (1) The proposed GREW benchmark is necessary for training and evaluating gait recognizer in the wild. (2) For state-of-the-art gait recognition approaches, there is a lot of room for improvement. (3) The GREW benchmark can be used as effective pre-training for controlled gait recognition. Benchmark website is https://www.grew-benchmark.org/."
     },
     {
         "title": "Graphcore",
         "conferenceTitle": "2021 IEEE Hot Chips 33 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2021",
+        "data": "22-24 Aug. 2021",
         "authors": [
             "Simon Knowles"
         ],
@@ -36,8 +33,7 @@
     {
         "title": "Cotton disease detection based on deep learning techniques",
         "conferenceTitle": "4th Smart Cities Symposium (SCS 2021)",
-        "Content Type": "Conferences",
-        "date": "21-23 Nov. 2021",
+        "data": "21-23 Nov. 2021",
         "authors": [
             "G. Harshitha",
             "S. Kumar",
@@ -51,8 +47,7 @@
     {
         "title": "Impact of the Feed-Forward Compensation on the Synchronization Stability",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "J. Chen",
             "C. Ge",
@@ -65,8 +60,7 @@
     {
         "title": "SambaNova SN10 RDU:Accelerating Software 2.0 with Dataflow",
         "conferenceTitle": "2021 IEEE Hot Chips 33 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2021",
+        "data": "22-24 Aug. 2021",
         "authors": [
             "Raghu Prabhakar",
             "Sumti Jairath"
@@ -78,8 +72,7 @@
     {
         "title": "PLANNING OF LOW VOLTAGE AC/DC MICROGRID FOR UN-ELECTRIFIED AREAS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "K. Khon",
             "V. Vai",
@@ -94,8 +87,7 @@
     {
         "title": "Alder Lake Architecture",
         "conferenceTitle": "2021 IEEE Hot Chips 33 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2021",
+        "data": "22-24 Aug. 2021",
         "authors": [
             "Efraim Rotem",
             "Yuli Mandelblat",
@@ -113,8 +105,7 @@
     {
         "title": "Development of an AC/DC impedance matrix measurement toolbox for MTDC system",
         "conferenceTitle": "20th International Workshop on Large-Scale Integration of Wind Power into Power Systems as well as on Transmission Networks for Offshore Wind Power Plants (WIW 2021)",
-        "Content Type": "Conferences",
-        "date": "29-30 Sept. 2021",
+        "data": "29-30 Sept. 2021",
         "authors": [
             "H. Wu",
             "X. Wang",
@@ -130,8 +121,7 @@
     {
         "title": "Expanding EV Charging Capacity in Distribution Networks: A Case Study for Charging EVs at Work",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "O. Alatise",
             "A. Karlsson",
@@ -146,8 +136,7 @@
     {
         "title": "Skydio Autonomy Engine: Enabling The Next Generation Of Autonomous Flight",
         "conferenceTitle": "2021 IEEE Hot Chips 33 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2021",
+        "data": "22-24 Aug. 2021",
         "authors": [
             "Abraham Bachrach"
         ],
@@ -158,8 +147,7 @@
     {
         "title": "ONLINE AGGREGATION OF THE FLEXIBILITY POTENTIAL IN DISTRIBUTION GRIDS USING STATE ESTIMATION",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "S. Müller",
             "D. A. Contreras",
@@ -175,8 +163,7 @@
     {
         "title": "Technical limitations of generic wind power plants electrical simulation models, used in power system dynamic studies for grid code compliance",
         "conferenceTitle": "20th International Workshop on Large-Scale Integration of Wind Power into Power Systems as well as on Transmission Networks for Offshore Wind Power Plants (WIW 2021)",
-        "Content Type": "Conferences",
-        "date": "29-30 Sept. 2021",
+        "data": "29-30 Sept. 2021",
         "authors": [
             "M. A. Cova Acosta",
             "P. Gupta",
@@ -192,8 +179,7 @@
     {
         "title": "Multi-Million Core, Multi-Wafer AI Cluster",
         "conferenceTitle": "2021 IEEE Hot Chips 33 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2021",
+        "data": "22-24 Aug. 2021",
         "authors": [
             "Sean Lie"
         ],
@@ -202,10 +188,21 @@
         "abstract": "Building and deploying a new class of computer system Designed for the purpose of accelerating AI and changing the future of AI work"
     },
     {
+        "title": "ESTIMATION OF ELECTRIC VEHICLE HOSTING CAPACITY OF A DISTRIBUTION NETWORK INCLUDING AMBIENT TEMPERATURE",
+        "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
+        "data": "20-23 Sept. 2021",
+        "authors": [
+            "S. S. Letha",
+            "M. Bollen"
+        ],
+        "DOI": "10.1049/icp.2021.1766",
+        "citation": 4,
+        "abstract": "Massive charging of electric vehicles will have adverse impacts on the distribution grid, including overloading of distribution transformers and un-acceptable voltage drops. The hosting-capacity is a proven measure to quantify the ability of the grid to accept EV charging. The need for charging based on the driving pattern of the vehicle is included in many studies of grid impact and hosting capacity. The impact of ambient temperature is however not included in such studies. The main objective of this work is to estimate the hosting capacity of a MV/LV grid considering ambient temperature variation during the EVs fleet and charging. For this purpose, a deterministic approach for hosting capacity estimation is used and the calculations are done for an existing MV/LV distribution grid in northern Sweden."
+    },
+    {
         "title": "Managing resonances in windfarm collector systems",
         "conferenceTitle": "20th International Workshop on Large-Scale Integration of Wind Power into Power Systems as well as on Transmission Networks for Offshore Wind Power Plants (WIW 2021)",
-        "Content Type": "Conferences",
-        "date": "29-30 Sept. 2021",
+        "data": "29-30 Sept. 2021",
         "authors": [
             "E. V. Larsen",
             "J. Sun"
@@ -217,8 +214,7 @@
     {
         "title": "Sapphire Rapids",
         "conferenceTitle": "2021 IEEE Hot Chips 33 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2021",
+        "data": "22-24 Aug. 2021",
         "authors": [
             "Arijit Biswas"
         ],
@@ -229,8 +225,7 @@
     {
         "title": "A Linear Model for Distributed Flexibility Markets and DLMPs: A Comparison with the SOCP Formulation",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "A. Sanjab",
             "Y. Mou",
@@ -244,8 +239,7 @@
     {
         "title": "Smart battery concept: A battery that can breathe",
         "conferenceTitle": "5th E-Mobility Power System Integration Symposium (EMOB 2021)",
-        "Content Type": "Conferences",
-        "date": " 2021",
+        "data": " 2021",
         "authors": [
             "R. Teodorescu",
             "X. Sui",
@@ -260,8 +254,7 @@
     {
         "title": "REAL-TIME MODEL PREDICTIVE CONTROL OF BATTERY ENERGY STORAGE ACTIVE AND REACTIVE POWER TO SUPPORT THE DISTRIBUTION NETWORK OPERATION",
         "conferenceTitle": "The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)",
-        "Content Type": "Conferences",
-        "date": "1-2 March 2021",
+        "data": "1-2 March 2021",
         "authors": [
             "A. A. R. Mohamed",
             "D. J. Morrow",
@@ -272,10 +265,23 @@
         "abstract": "This paper proposes a model predictive control technique to optimally dispatch of battery energy storage systems (BESS) installed on the medium voltage distribution network to manage the violations in addition to enhancing the power quality and stability. A two-phase strategy is developed to manage the BESS inverter power on the four active/reactive power quadrants. A multiobjective function is formulated in order to optimize the system voltage, power factor and line losses. The uncertainties associated with demand and generation forecasting are considered in the proposed strategy by introducing a real-time operational phase. The network, BESS, and inverter technical constraints are considered, and the proposed strategy is validated by simulating different scenarios on an 11 kV, 53-node distribution network located in Northern Ireland."
     },
     {
+        "title": "A framework to evaluate multi-use flexibility concepts simultaneously in a co-simulation environment and a cyber-physical laboratory",
+        "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
+        "data": "20-23 Sept. 2021",
+        "authors": [
+            "I. Hacker",
+            "F. Schmidtke",
+            "D. van der Velde",
+            "S. Toni Czyrnik"
+        ],
+        "DOI": "10.1049/icp.2021.1777",
+        "citation": 3,
+        "abstract": "In this paper, we present an approach for a framework to test multi-use concepts for the coordination of flexibility resources in distribution grids. The framework allows testing in a large scale co-simulation environment, but also our cyber-physical smart grid laboratory. At the core of the proposed framework is the newly proposed design of a Virtual Edge Device (VED) to control either real or simulated flexibility resources. The VED is also provided for the interchangeable use of simulated and physical components with the same coordination logic. To tackle the questions of cyber resilience and cybersecurity, not only the energy system is taken into account but also the underlying Information and Communication Technology (ICT). Therefore, the ICT components are emulated in the co-simulation and mapped by corresponding components in the laboratory. We validate the environment by simulating and analysing three different use-cases, comprising local congestion management and battery dispatch optimisation. Our tests prove that our laboratory is suitable for a future application of the analysis and development of multi-use flexibility concepts."
+    },
+    {
         "title": "Current limitation in fully grid-forming direct voltage control",
         "conferenceTitle": "20th International Workshop on Large-Scale Integration of Wind Power into Power Systems as well as on Transmission Networks for Offshore Wind Power Plants (WIW 2021)",
-        "Content Type": "Conferences",
-        "date": "29-30 Sept. 2021",
+        "data": "29-30 Sept. 2021",
         "authors": [
             "J. Denecke",
             "M. Maherani",
@@ -288,8 +294,7 @@
     {
         "title": "An Investigation on Feature Extraction and Feature Selection for Power Quality Classification with High Resolution and RMS Data",
         "conferenceTitle": "The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)",
-        "Content Type": "Conferences",
-        "date": "1-2 March 2021",
+        "data": "1-2 March 2021",
         "authors": [
             "Adrian Eisenmann",
             "Tim Streubel",
@@ -302,8 +307,7 @@
     {
         "title": "System modeling and fault studies in data center power distribution",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "H. Suryanarayana",
             "L. Qi",
@@ -317,10 +321,22 @@
         "abstract": "ABB's isolated parallel ring bus (IPRB) architecture with static uninterruptible power supplies (UPS) provides a solution with excellent scalability, power sharing, and fault handling capability. Critical components in a data center power distribution system are modeled for system simulations. In the modeling approach, a balance is struck between computation speed and fidelity such that useful system simulation results can be obtained for use in planning, design, and protection. The UPS model includes low short circuit current fault modes. The dual-corded load (DCL), used widely in data centers is modeled with DC link control. Transformers and chokes are modeled with saturation characteristics. Various fault scenarios have been analysed and presented. Verified system simulations in the SIMULINK modeling environment are used for fault studies to obtain protection design requirements. It is shown that system simulations with the appropriate fidelity are very useful to explore system issues and protection. Modeling the components' fault mode behaviour is critical to obtain useful results."
     },
     {
+        "title": "Two-Dimensional Range Ambiguity Suppression in Multichannel SAR using Blind Source Separation Method",
+        "conferenceTitle": "EUSAR 2021; 13th European Conference on Synthetic Aperture Radar",
+        "data": "29 March-1 April 2021",
+        "authors": [
+            "Ershad Amin",
+            "Marwan Younis",
+            "Gerhard Krieger"
+        ],
+        "DOI": "",
+        "citation": 3,
+        "abstract": "The future spaceborne synthetic aperture radar (SAR) development are in the direction of a system that has the ability to provide high azimuth resolution while having a wide swath, which in principle become two conflicting requirements. Current state-of-the art system that has those ability is multichannel in elevation SAR, which utilize digital beamforming (DBF) technique to form several receive elevation beams and simultaneously map different range swath by the means of scan-on-receive (SCORE), and these capabilities are well demonstrated with reflector antenna architecture. However, the implementation of these advanced DBF requires a precise knowledge of actual secondary beam pattern, which is extremely hard to predict for the case of reflector antenna due to its large geometry. One of crucial effect of the imprecise knowledge of pattern, including its variation along the azimuth direction (two-dimensional pattern), is the rising of range ambiguities to intolerable level. In this paper, a novel non-deterministic approach based on blind source separation (BSS) is proposed to estimate the antenna pattern that correspond to the suppression of range ambiguities that also varied along the doppler frequency. The method will be performed on-the ground under the normal operational mode, hence, the method doesn’t cost on-board complexity. A simulated multichannel-in-elevation based on TanDEM-X image is provided as an input, and it shows a good result in suppressing range ambiguities."
+    },
+    {
         "title": "Statistical profiles of Ukrainian prose fiction: Gender aspect",
         "conferenceTitle": "2021 IEEE 16th International Conference on Computer Sciences and Information Technologies (CSIT)",
-        "Content Type": "Conferences",
-        "date": "22-25 Sept. 2021",
+        "data": "22-25 Sept. 2021",
         "authors": [
             "Olena Levchenko",
             "Valentyna Holtvian",
@@ -333,8 +349,7 @@
     {
         "title": "RISK ANALYSIS OF CYBER PHYSICAL DISTRIBUTION SYSTEM CONSIDERING CYBER ATTACKS ON V2G SYSTEM",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "Yin Haoyang",
             "Liu Dong",
@@ -347,8 +362,7 @@
     {
         "title": "Transistor Downscaling toward Ultra-Low-Power, sub-100 mum2 and sub-Hz Oscillators",
         "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
-        "Content Type": "Conferences",
-        "date": "19-22 July 2021",
+        "data": "19-22 July 2021",
         "authors": [
             "Gian Luca Barbruni",
             "Chiara Bielli",
@@ -362,8 +376,7 @@
     {
         "title": "Grid Forming Control for Power Systems with up to 100% Inverter Based Generation",
         "conferenceTitle": "The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)",
-        "Content Type": "Conferences",
-        "date": "1-2 March 2021",
+        "data": "1-2 March 2021",
         "authors": [
             "Panagiotis Marinakis",
             "Nigel Schofield"
@@ -375,8 +388,7 @@
     {
         "title": "Fake profile identification using ANN",
         "conferenceTitle": "4th Smart Cities Symposium (SCS 2021)",
-        "Content Type": "Conferences",
-        "date": "21-23 Nov. 2021",
+        "data": "21-23 Nov. 2021",
         "authors": [
             "V. Kulkarni",
             "D. Aashritha Reddy",
@@ -388,10 +400,20 @@
         "abstract": "Social life of everyone has become linked with online social networks in today's generation. These websites have drastically affected the way we do our social lives. Making new friends and staying in touch with them has become much easier. However, as a result of their rapid growth, plenty of new issues have emerged, including malicious users, fraudulent profiles, and online impersonation. There are no practical ways for resolving these issues. In this research paper, we use an artificial neural network to detect fake profiles automatically and effectively. We determine the risk that a Facebook friend request is genuine or not. This can be used by online social networks with millions of profiles that can't be manually reviewed."
     },
     {
+        "title": "Keynote 1: Compute Express Link (CXL) changing the game for Cloud Computing",
+        "conferenceTitle": "2021 IEEE Symposium on High-Performance Interconnects (HOTI)",
+        "data": "18-20 Aug. 2021",
+        "authors": [
+            "Debendra Das Sharma,"
+        ],
+        "DOI": "10.1109/HOTI52880.2021.00010",
+        "citation": 3,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. High-performance workloads demand heterogeneous processing, tiered memory architecture, persistent memory support, infrastructure accelerators such as smart NICs, and infrastructure processing units to meet the demands of the emerging compute landscape. Applications such as Artificial Intelligence, Machine Learning, Analytics, 5G, automotive, and high-performance computing are driving significant change in infrastructure such as Cloud, Edge, and client computing. Interconnect is a key pillar in this evolving computational landscape. The recent advent of Compute Express Link (CXL), a new open standard for cache-coherent interconnect, with its memory and coherency semantics has made it possible to pool computational and memory resources at the rack level using low-latency, higher-throughput, and memorycoherent access mechanisms. CXL is adopting networking features such as multi-host connectivity, pooled memory, persistence flows, and fabric manager while keeping its low-latency load-store semantics intact. The load-store I/O interconnects such as PCI Express (PCIe) and CXL are evolving to provide efficient access mechanisms across multiple nodes with advanced atomics, acceleration, smart NICs, persistent memory support etc. In this talk we will explore how synergistic evolution across load-store interconnects and fabrics can benefit the compute infrastructure of the future."
+    },
+    {
         "title": "A proposal for performance evaluation of low frequency shielding efficiency",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "A. Canova",
             "L. Giaccone",
@@ -402,23 +424,9 @@
         "abstract": "The present work aims to propose a methodology for evaluating the performance of low-frequency magnetic shields used for the shielding of complex sources such as MV/LV substations. Today there is no standard procedure for testing shields based on the use of a single-coil for generating artificial MF (MF: Magnetic Field) as is the case for high-frequency anechoic chambers. In the case of shielding for industrial frequency sources, these are generally open shields with sources of various types: 3D transformers, switch-gear, and power lines. These kinds of sources and shields are better checked if the artificial MF has all three components in space. The work proposes a methodology based on the use of a tri-axial source, capable of generating a rotating magnetic field. The supports of the coils are made using a 3D printing process. The paper presents the design steps, the analytical evaluation of the performance of the source and as an application a test of a magnetic shielding plate was presented."
     },
     {
-        "title": "ESTIMATION OF ELECTRIC VEHICLE HOSTING CAPACITY OF A DISTRIBUTION NETWORK INCLUDING AMBIENT TEMPERATURE",
-        "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
-        "authors": [
-            "S. S. Letha",
-            "M. Bollen"
-        ],
-        "DOI": "10.1049/icp.2021.1766",
-        "citation": 3,
-        "abstract": "Massive charging of electric vehicles will have adverse impacts on the distribution grid, including overloading of distribution transformers and un-acceptable voltage drops. The hosting-capacity is a proven measure to quantify the ability of the grid to accept EV charging. The need for charging based on the driving pattern of the vehicle is included in many studies of grid impact and hosting capacity. The impact of ambient temperature is however not included in such studies. The main objective of this work is to estimate the hosting capacity of a MV/LV grid considering ambient temperature variation during the EVs fleet and charging. For this purpose, a deterministic approach for hosting capacity estimation is used and the calculations are done for an existing MV/LV distribution grid in northern Sweden."
-    },
-    {
         "title": "Automatic Detection and Classification of Laser Welding Defects",
         "conferenceTitle": "2021 Innovations in Intelligent Systems and Applications Conference (ASYU)",
-        "Content Type": "Conferences",
-        "date": "6-8 Oct. 2021",
+        "data": "6-8 Oct. 2021",
         "authors": [
             "Yusuf Can Kan",
             "Habil Kalkan"
@@ -430,8 +438,7 @@
     {
         "title": "2D-Based Saliency Prediction Framework for Omnidirectional–360° Video",
         "conferenceTitle": "11th International Conference of Pattern Recognition Systems (ICPRS 2021)",
-        "Content Type": "Conferences",
-        "date": "17-19 March 2021",
+        "data": "17-19 March 2021",
         "authors": [
             "Marouane Tliba",
             "Mohamed Sayah",
@@ -444,8 +451,7 @@
     {
         "title": "CO-SIMULATION OF OPENDSS AND RTDS TO REALISE REAL-TIME SIMULATION OF LARGE DISTRIBUTION NETWORKS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "I. K. Park",
             "Y. Zhang",
@@ -458,8 +464,7 @@
     {
         "title": "Qualcomm® Cloud Al 100 : 12TOPS/W Scalable, High Performance and Low Latency Deep Learning Inference Accelerator",
         "conferenceTitle": "2021 IEEE Hot Chips 33 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2021",
+        "data": "22-24 Aug. 2021",
         "authors": [
             "Karam Chatha"
         ],
@@ -470,8 +475,7 @@
     {
         "title": "CALCULATING VOLTAGES WITHOUT ELECTRICAL MODELS: SMART METER DATA AND NEURAL NETWORKS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "V. Bassi",
             "L. F. Ochoa",
@@ -484,8 +488,7 @@
     {
         "title": "Anomaly detection in water distribution systems",
         "conferenceTitle": "4th Smart Cities Symposium (SCS 2021)",
-        "Content Type": "Conferences",
-        "date": "21-23 Nov. 2021",
+        "data": "21-23 Nov. 2021",
         "authors": [
             "A. Harsha Vardhan",
             "B. Subramanyam",
@@ -498,25 +501,9 @@
         "abstract": "Quality of drinking water observing is most fundamental now-a-days days as the reachable water might be influenced by contamination and can lead to a few sicknesses. Consequently, it's important to forestall any interruption into water appropriation frameworks and to identify contamination quickly. To determine worries on interruption recognition we have different AI calculations for order however picking the better is a notable undertaking. For choosing the best calculation for our quality of water checking framework, we all led a test concentrate on AI calculations. In this exploratory examination, we dissected the exhibition of the well-known grouping calculations in the writing specifically Support-Vector Machines and Decision-Tree algorithm utilizing a genuine dataset recovered from a Tunisian water distributing station."
     },
     {
-        "title": "A framework to evaluate multi-use flexibility concepts simultaneously in a co-simulation environment and a cyber-physical laboratory",
-        "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
-        "authors": [
-            "I. Hacker",
-            "F. Schmidtke",
-            "D. van der Velde",
-            "S. Toni Czyrnik"
-        ],
-        "DOI": "10.1049/icp.2021.1777",
-        "citation": 2,
-        "abstract": "In this paper, we present an approach for a framework to test multi-use concepts for the coordination of flexibility resources in distribution grids. The framework allows testing in a large scale co-simulation environment, but also our cyber-physical smart grid laboratory. At the core of the proposed framework is the newly proposed design of a Virtual Edge Device (VED) to control either real or simulated flexibility resources. The VED is also provided for the interchangeable use of simulated and physical components with the same coordination logic. To tackle the questions of cyber resilience and cybersecurity, not only the energy system is taken into account but also the underlying Information and Communication Technology (ICT). Therefore, the ICT components are emulated in the co-simulation and mapped by corresponding components in the laboratory. We validate the environment by simulating and analysing three different use-cases, comprising local congestion management and battery dispatch optimisation. Our tests prove that our laboratory is suitable for a future application of the analysis and development of multi-use flexibility concepts."
-    },
-    {
         "title": "COMPREHENSIVE LARGE-SCALE DISTRIBUTION TEST NETWORKS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "H. Esmaeilian",
             "M. Mahmoodabadi",
@@ -529,8 +516,7 @@
     {
         "title": "Performance Benchmarking of the 5G NR PHY on the OAI Codebase and USRP Hardware",
         "conferenceTitle": "WSA 2021; 25th International ITG Workshop on Smart Antennas",
-        "Content Type": "Conferences",
-        "date": "10-12 Nov. 2021",
+        "data": "10-12 Nov. 2021",
         "authors": [
             "Sai Shruthi Nakkina",
             "Sudhakar Balijepalli",
@@ -541,10 +527,24 @@
         "abstract": "The OPENAIRINTERFACE (OAI) system is a state-of-the-art open-source software stack for 5G new radio (NR). In this work, we benchmark the downlink throughput of the OAI 5G NR system at the physical layer. We describe the test setup and challenges involved in collecting measurements in a laboratory environment. The test setup comprises a base station (gNodeB or gNB) and a user equipment (UE) in three different connection modes: a simulator mode, where the baseband IQ samples are transmitted over a simulated channel and are made available to the UE for further processing; a cable-connected mode where the baseband IQ samples are carrier frequency shifted and transmitted over an RF cable to the UE; and finally with over-the-air transmission using antennas. The experiments are performed using the OAI 5G NR protocol stack in the PHY-TEST mode and USRP X310 hardware. The results reveal insights into the dependence of the throughput on radio configuration parameters such as the modulation and coding scheme, resource block size, number of scheduled slots, the transmit and receive gains, etc. A good match is observed between the theoretical transmission rate calculated using 3GPP standards and the measured throughput in all the connection modes that have been considered, provided the system parameters are chosen judiciously and the CPU is able to support real-time data processing."
     },
     {
+        "title": "Modelling of synthetic high voltage networks based on open data and integration into a modular synthetic distribution grid generator",
+        "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
+        "data": "20-23 Sept. 2021",
+        "authors": [
+            "C. Wirtz",
+            "M. Murglat",
+            "J. Tran",
+            "S. Krahl",
+            "A. Moser"
+        ],
+        "DOI": "10.1049/icp.2021.1654",
+        "citation": 2,
+        "abstract": "Threats to stability and security of the electric grid are not limited to one voltage level, but can form complex event cascades across multiple network levels. Furthermore, the structure of the local grid as well as the composition of customers have a significant influence on the characteristics of the incidents. High-resolution, interconnected grid models are therefore required for detailed investigations of current and future threats like temporary overvoltages. Here we present an approach to produce and combine synthetic high voltage (HV) and medium voltage (MV) grid models based on the actual supply task of German grids. The supply task can be inferred by open data approaches, e.g., high spatial satellite data and register databases. The resulting grids reproduce local characteristics and can form a basis for grid stability studies."
+    },
+    {
         "title": "Memristive Logic-in-Memory Implementations: A Comparison",
         "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
-        "Content Type": "Conferences",
-        "date": "19-22 July 2021",
+        "data": "19-22 July 2021",
         "authors": [
             "Pietro Inglese",
             "Elena Ioana Vatajelu",
@@ -557,8 +557,7 @@
     {
         "title": "Partition Control Method of Power Balance of Multi.Provincial Grid with High Penetration of Renewable Energy",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "Y. Leng",
             "C. Yang",
@@ -573,8 +572,7 @@
     {
         "title": "Empirical Performance Evaluation of EnterpriseWi-Fi for IIoT Applications Requiring Mobility",
         "conferenceTitle": "European Wireless 2021; 26th European Wireless Conference",
-        "Content Type": "Conferences",
-        "date": "10-12 Nov. 2021",
+        "data": "10-12 Nov. 2021",
         "authors": [
             "Andreas Fink",
             "Rasmus S. Mogensen",
@@ -590,8 +588,7 @@
     {
         "title": "ROSE-L – The L-band SAR Mission for Copernicus",
         "conferenceTitle": "EUSAR 2021; 13th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2021",
+        "data": "29 March-1 April 2021",
         "authors": [
             "Malcolm Davidson",
             "Nicolas Gebert",
@@ -604,8 +601,7 @@
     {
         "title": "AUTOMATIC ANALYSIS OF THERMOGRAMS – CHALLENGE IN THERMAL MONITORING OF SWITCHGEARS USING INFRARED CAMERAS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "K. Gitzel",
             "J. Gebhardt",
@@ -618,8 +614,7 @@
     {
         "title": "Analysis and Thinking on Promoting Coordinated and Orderly Development of New Energy and Energy Storage",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "C. Li",
             "J. Zhang",
@@ -634,8 +629,7 @@
     {
         "title": "Keynote Speech 1: Blockchain-enabled Trust in Edge-based Internet of Things Architectures: State of the art and Research Challenges",
         "conferenceTitle": "2021 Third International Conference on Blockchain Computing and Applications (BCCA)",
-        "Content Type": "Conferences",
-        "date": "15-17 Nov. 2021",
+        "data": "15-17 Nov. 2021",
         "authors": [
             "Giancarlo Fortino"
         ],
@@ -644,10 +638,22 @@
         "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Internet of Things (IoT) aims to enable a world where physical objects, integrated into information networks, provide smart services for human beings. The introduction of edge computing in IoT can reduce the decision-making latency, save bandwidth resources, and extend the cloud services to be distributed at the edge of the network. However, edge-based IoT systems currently faces challenges in their decentralized trust management. Trust management plays an essential role for reliable data fusion and mining, provisioning of services with context-awareness, and enhanced user privacy and information security. In this talk, we analyze the edge-based IoT architectures that are available in the literature. Then, a comprehensive review of trust requirements in edge-enabled IoT systems is presented. We notably discuss about blockchain as a key enabler to address many trust related issues in IoT and consider closely the complementary interrelationships between blockchain and edge computing. Finally, we provide a detailed analysis of trusted edge computing based IoT systems' performance and recommend promising research directions for future investigations. "
     },
     {
+        "title": "Switch-based Hybrid Beamforming for Wideband Multi-carrier Communications",
+        "conferenceTitle": "WSA 2021; 25th International ITG Workshop on Smart Antennas",
+        "data": "10-12 Nov. 2021",
+        "authors": [
+            "Mengyuan Ma",
+            "Nhan Thanh Nguyen",
+            "Markku Juntti"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "Switch-based hybrid beamforming (SW-HBF) architectures are promising for realizing massive multiple-input multiple-output (MIMO) communications systems because of their low cost and low power consumption. In this paper, we study the performance of SW-HBF in a wideband multicarrier MIMO communication system considering the beam squint effect. We aim at designing the switch-based combiner that maximizes the system spectral efficiency (SE). However, the design problem is challenging because the analog combing matrix elements are binary variables. To overcome this, we propose tabu search-based (TS) SW-HBF schemes that can attain nearoptimal performance with reasonable computational complexity. Furthermore, we compare the total power consumption and energy efficiency (EE) of the SW-HBF architecture to those of the phase-shifter-based hybrid beamforming (PS-HBF) architecture. Numerical simulations show that the proposed algorithms can efficiently find near-optimal solutions. Moreover, the SW-HBF scheme can significantly mitigate the beam squint effect and is less affected by the number of subcarriers than PS-HBF. It also provides improved SE and EE performance compared to PS-HBF schemes."
+    },
+    {
         "title": "GRID-FORMING INVERTERS-REAL-LIFE IMPLEMENTATION EXPERIENCE AND LESSONS LEARNED",
         "conferenceTitle": "The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)",
-        "Content Type": "Conferences",
-        "date": "1-2 March 2021",
+        "data": "1-2 March 2021",
         "authors": [
             "S.D. Rao",
             "S. Dutta",
@@ -662,10 +668,25 @@
         "abstract": "Most of the inverter-based resources (IBRs) that are connected to the grid today are categorized as “grid-following” (GFL) systems. GFL IBR converter control approach requires an important share of synchronous generation in the system to operate stably. Industry trends show more frequent conditions with fewer synchronous machines committed and higher penetration of GFL IBRs. These operating conditions pose increasing fast dynamics stability risks in the bulk system. A number of mitigations are being considered to address these concerns. One of them is “grid forming” (GFM) inverter and system technology. GFM IBRs have the potential to achieve stable voltage and frequency in grids with low or even no synchronous generation. The goal of this paper is to describe real-life implementation experience of GFM Battery Energy Storage Systems (BESS) and other studies of GFM technology, with a focus on differences and similarities with GFL IBRs."
     },
     {
+        "title": "Towards the Sixth Generation (6G) Wireless Systems: Thoughts on Physical Layer Security",
+        "conferenceTitle": "Mobile Communication - Technologies and Applications; 25th ITG-Symposium",
+        "data": "3-4 Nov. 2021",
+        "authors": [
+            "Christoph Lipps",
+            "Shaden Baradie",
+            "Marjan Noushinfar",
+            "Jan Herbst",
+            "Andreas Weinand",
+            "Hans Dieter Schotten"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "Wireless communication has already had a transformative impact on lifestyles, as well as the way of interacting and communicating, throughout many years. This transformation is accelerated by technological drivers such as Artificial Intelligence (AI) as well as the ever-increasing demand for bandwidth and throughput. However, it is already foreseeable that the Fifth Generation (5G) cellular networks will not be sufficient to cope with the volume of mobile communication in 2030 and beyond. This paper considers Beyond 5G (B5G) and Sixth Generation (6G) mobile communications and outlines challenges for them. Alongside the technical requirements, the security, confidentiality and trustworthiness are of major importance. Therefore, the paper discusses the various 6G research areas such as Visible Light Communication (VLC), Reconfigurable Intelligent Surfaces (RISs) and (sub)Terahertz (THz) communication and highlights how the research areas contribute to Physical Layer Security (PhySec) and how the development of 6G will act as catalyst for PhySec."
+    },
+    {
         "title": "Fast Frequency Response Provision from Commercial Demand Response, from Scheduling to Stability in Power Systems",
         "conferenceTitle": "The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)",
-        "Content Type": "Conferences",
-        "date": "1-2 March 2021",
+        "data": "1-2 March 2021",
         "authors": [
             "M. Saeed Misaghian",
             "Ran Li",
@@ -678,8 +699,7 @@
     {
         "title": "Federated Learning in ASR: Not as Easy as You Think",
         "conferenceTitle": "Speech Communication; 14th ITG Conference",
-        "Content Type": "Conferences",
-        "date": "29 Sept.-1 Oct. 2021",
+        "data": "29 Sept.-1 Oct. 2021",
         "authors": [
             "Wentao Yu",
             "Jan Freiwald",
@@ -694,8 +714,7 @@
     {
         "title": "An Approach of Replicating Multi-Staged Cyber-Attacks and Countermeasures in a Smart Grid Co-Simulation Environment",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "Ö Sen",
             "D. van der Velde",
@@ -709,8 +728,7 @@
     {
         "title": "Quantifying the Market Value of Wave Power compared to Wind&Solar - a case study",
         "conferenceTitle": "The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)",
-        "Content Type": "Conferences",
-        "date": "1-2 March 2021",
+        "data": "1-2 March 2021",
         "authors": [
             "T. K. Vrana",
             "H. G. Svendsen"
@@ -722,8 +740,7 @@
     {
         "title": "A multi-objective operational strategy for a utility-scale PV plus energy storage system",
         "conferenceTitle": "11th Solar & Storage Power System Integration Workshop (SIW 2021)",
-        "Content Type": "Conferences",
-        "date": " 2021",
+        "data": " 2021",
         "authors": [
             "F. Alsaeed",
             "M. E. Baran"
@@ -735,8 +752,7 @@
     {
         "title": "Comparison of Convexificated SQCQP and PSO for the Optimal Transmission System Operation based on Incremental In-Phase and Quadrature Voltage Controlled Transformers",
         "conferenceTitle": "NEIS 2021; Conference on Sustainable Energy Supply and Energy Storage Systems",
-        "Content Type": "Conferences",
-        "date": "13-14 Sept. 2021",
+        "data": "13-14 Sept. 2021",
         "authors": [
             "Marcel Sarstedt",
             "Thomas Leveringhaus",
@@ -750,8 +766,7 @@
     {
         "title": "Next-Generation SiC/GaN Three-Phase Variable-Speed Drive Inverter Concepts",
         "conferenceTitle": "PCIM Europe digital days 2021; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "3-7 May 2021",
+        "data": "3-7 May 2021",
         "authors": [
             "Johann W. Kolar",
             "Jonas Huber"
@@ -763,8 +778,7 @@
     {
         "title": "Design of a High PSRR Multistage LDO with On-Chip Output Capacitor",
         "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
-        "Content Type": "Conferences",
-        "date": "19-22 July 2021",
+        "data": "19-22 July 2021",
         "authors": [
             "Jonas Zoche",
             "Michael Hanhart",
@@ -781,8 +795,7 @@
     {
         "title": "EVALUATION OF A THREE-PHASE DISTRIBUTION SYSTEM STATE ESTIMATION FOR OPERATIONAL USE IN A REAL LOW VOLTAGE GRID",
         "conferenceTitle": "The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)",
-        "Content Type": "Conferences",
-        "date": "1-2 March 2021",
+        "data": "1-2 March 2021",
         "authors": [
             "Heiner Früh",
             "Krzysztof Rudion",
@@ -797,8 +810,7 @@
     {
         "title": "Silicon Photonics Technology for Terabit-scale Optical I/O (Invited)",
         "conferenceTitle": "2021 ACM/IEEE International Workshop on System Level Interconnect Prediction (SLIP)",
-        "Content Type": "Conferences",
-        "date": "4-4 Nov. 2021",
+        "data": "4-4 Nov. 2021",
         "authors": [
             "Joris Van Campenhout"
         ],
@@ -809,8 +821,7 @@
     {
         "title": "INFLUENCE OF PLL ON BROADBAND OSCILLATION UNDER WEAK GRID",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "Y. Ren",
             "H. Liu",
@@ -825,8 +836,7 @@
     {
         "title": "SURVEY OF HARMONIC AND SUPRAHARMONIC EMISSION OF FAST CHARGING STATIONS FOR ELECTRIC VEHICLES IN CHINA AND GERMANY",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "F. Chen",
             "Q. Zhong",
@@ -843,8 +853,7 @@
     {
         "title": "Semi-Analytical Model of Parasitic Capacitance of Inductor with Conductive Core",
         "conferenceTitle": "PCIM Europe digital days 2021; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "3-7 May 2021",
+        "data": "3-7 May 2021",
         "authors": [
             "Florentin Salomez",
             "Arnaud Videt",
@@ -855,24 +864,9 @@
         "abstract": "The stray capacitance of inductors impairs their high frequency impedance. A semi-analytical model is proposed for inductors with conductive core to gain insight for ways to decrease stray capacitance for high frequency power electronic applications. First the elementary capacitances are simulated thanks to 2D electrostatic finite element method (FEM), then an energetic approach is used to compute the global stray capacitance. Experimental verification has been performed on a nanocrystalline ring core. Relative error to the measurement shows that the proposed model improves the accuracy, notably by properly taking into account spaces between turns and between turns and core."
     },
     {
-        "title": "Two-Dimensional Range Ambiguity Suppression in Multichannel SAR using Blind Source Separation Method",
-        "conferenceTitle": "EUSAR 2021; 13th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2021",
-        "authors": [
-            "Ershad Amin",
-            "Marwan Younis",
-            "Gerhard Krieger"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "The future spaceborne synthetic aperture radar (SAR) development are in the direction of a system that has the ability to provide high azimuth resolution while having a wide swath, which in principle become two conflicting requirements. Current state-of-the art system that has those ability is multichannel in elevation SAR, which utilize digital beamforming (DBF) technique to form several receive elevation beams and simultaneously map different range swath by the means of scan-on-receive (SCORE), and these capabilities are well demonstrated with reflector antenna architecture. However, the implementation of these advanced DBF requires a precise knowledge of actual secondary beam pattern, which is extremely hard to predict for the case of reflector antenna due to its large geometry. One of crucial effect of the imprecise knowledge of pattern, including its variation along the azimuth direction (two-dimensional pattern), is the rising of range ambiguities to intolerable level. In this paper, a novel non-deterministic approach based on blind source separation (BSS) is proposed to estimate the antenna pattern that correspond to the suppression of range ambiguities that also varied along the doppler frequency. The method will be performed on-the ground under the normal operational mode, hence, the method doesn’t cost on-board complexity. A simulated multichannel-in-elevation based on TanDEM-X image is provided as an input, and it shows a good result in suppressing range ambiguities."
-    },
-    {
         "title": "Multi-VSG inverter oower sharing MPC-VSG Control for islanded microgrid",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "X. Zheng",
             "M. Antoine",
@@ -885,8 +879,7 @@
     {
         "title": "How to improve reliability on IEC 61850 substations",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "D. T. Dantas",
             "H. Li",
@@ -900,8 +893,7 @@
     {
         "title": "Trash or Treasure? Machine-learning based PCB layout anomaly detection with AnoPCB",
         "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
-        "Content Type": "Conferences",
-        "date": "19-22 July 2021",
+        "data": "19-22 July 2021",
         "authors": [
             "Henning Franke",
             "Paul Kucera",
@@ -919,8 +911,7 @@
     {
         "title": "Real-time AI for Enterprise Workloads: the IBM Telum Processor",
         "conferenceTitle": "2021 IEEE Hot Chips 33 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2021",
+        "data": "22-24 Aug. 2021",
         "authors": [
             "Christian Jacobi"
         ],
@@ -931,8 +922,7 @@
     {
         "title": "Mapping features to source code based on execution trace",
         "conferenceTitle": "4th Smart Cities Symposium (SCS 2021)",
-        "Content Type": "Conferences",
-        "date": "21-23 Nov. 2021",
+        "data": "21-23 Nov. 2021",
         "authors": [
             "F. Buzaid",
             "M. Hammad"
@@ -944,8 +934,7 @@
     {
         "title": "Inertial Support by Virtual Synchronous Machine Control of a MMC-based VSC HVDC Link",
         "conferenceTitle": "The 17th International Conference on AC and DC Power Transmission (ACDC 2021)",
-        "Content Type": "Conferences",
-        "date": "8 July-8 Dec. 2021",
+        "data": "8 July-8 Dec. 2021",
         "authors": [
             "F. G. Puricelli",
             "A. J. Agbemuko",
@@ -958,8 +947,7 @@
     {
         "title": "An automated surface water cleaning robot for ponds and water reservoirs",
         "conferenceTitle": "4th Smart Cities Symposium (SCS 2021)",
-        "Content Type": "Conferences",
-        "date": "21-23 Nov. 2021",
+        "data": "21-23 Nov. 2021",
         "authors": [
             "P. K. Dutta",
             "S. Nag",
@@ -973,8 +961,7 @@
     {
         "title": "5G NSA and SA Campus Network Testbeds for Evaluating Industrial Automation",
         "conferenceTitle": "European Wireless 2021; 26th European Wireless Conference",
-        "Content Type": "Conferences",
-        "date": "10-12 Nov. 2021",
+        "data": "10-12 Nov. 2021",
         "authors": [
             "Stefan Senk",
             "Sebastian A. W. Itting",
@@ -991,8 +978,7 @@
     {
         "title": "A MULTI-AGENT MICROGRID ENERGY MANAGEMENT SOLUTION FOR AIR TRANSPORT ELECTRIFICATION",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "Z. Guo",
             "X. Zhang",
@@ -1005,8 +991,7 @@
     {
         "title": "A Comparison and Combination of Unsupervised Blind Source Separation Techniques",
         "conferenceTitle": "Speech Communication; 14th ITG Conference",
-        "Content Type": "Conferences",
-        "date": "29 Sept.-1 Oct. 2021",
+        "data": "29 Sept.-1 Oct. 2021",
         "authors": [
             "Christoph Boeddeker",
             "Frederik Rautenberg",
@@ -1019,8 +1004,7 @@
     {
         "title": "A SYSTEMATIC REVIEW OF DC WIND FARM COLLECTOR COST-EFFECTIVENESS",
         "conferenceTitle": "The 17th International Conference on AC and DC Power Transmission (ACDC 2021)",
-        "Content Type": "Conferences",
-        "date": "8 July-8 Dec. 2021",
+        "data": "8 July-8 Dec. 2021",
         "authors": [
             "V. Timmers",
             "A. E. Àlvarez",
@@ -1033,8 +1017,7 @@
     {
         "title": "IMPACT OF MODERN POWER ELECTRONICS HOUSEHOLD EQUIPMENT ON HARMONIC RESONANCE IN RESIDENTIAL LV NETWORKS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "S. Kannan",
             "J. Meyer",
@@ -1047,8 +1030,7 @@
     {
         "title": "Design- and simulation-based comparison of grid-forming converter control concepts",
         "conferenceTitle": "20th International Workshop on Large-Scale Integration of Wind Power into Power Systems as well as on Transmission Networks for Offshore Wind Power Plants (WIW 2021)",
-        "Content Type": "Conferences",
-        "date": "29-30 Sept. 2021",
+        "data": "29-30 Sept. 2021",
         "authors": [
             "C. Schöll",
             "H. Lens"
@@ -1060,8 +1042,7 @@
     {
         "title": "Tutorial: Decentralized Digital Identity with Blockchain",
         "conferenceTitle": "2021 Eighth International Conference on eDemocracy & eGovernment (ICEDEG)",
-        "Content Type": "Conferences",
-        "date": "28-30 July 2021",
+        "data": "28-30 July 2021",
         "authors": [
             "Daniel Alvarez Torres"
         ],
@@ -1070,22 +1051,9 @@
         "abstract": "In the digital world, identity data and records are scattered across each digital service‚Äôs database. Government entities, public and private companies hold their own instances of a person‚Äôs set of credentials which are often outdated and seldom integrated. Such dissemination of data increases the attack surface for cyber-criminals and companies fail too frequently to protect the information, increasing the cases of phishing and identity theft. The owner of the identity has few ‚Äìif any‚Äì means to control when, how and by whom their information is accessed or used. Blockchain offers a decentralized way of issuing and verification of people‚Äôs credentials, without the need of disclosing personal identification information and under control of the identity owner. This one-hour presentation will cover the following agenda: – Introduction to Blockchain – Self-sovereign identity use case – Review existing use cases and applications – Decentralized identity with Blockchain Architecture Overview 5. – Cloud based resources to get started"
     },
     {
-        "title": "Keynote 1: Compute Express Link (CXL) changing the game for Cloud Computing",
-        "conferenceTitle": "2021 IEEE Symposium on High-Performance Interconnects (HOTI)",
-        "Content Type": "Conferences",
-        "date": "18-20 Aug. 2021",
-        "authors": [
-            "Debendra Das Sharma,"
-        ],
-        "DOI": "10.1109/HOTI52880.2021.00010",
-        "citation": 2,
-        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. High-performance workloads demand heterogeneous processing, tiered memory architecture, persistent memory support, infrastructure accelerators such as smart NICs, and infrastructure processing units to meet the demands of the emerging compute landscape. Applications such as Artificial Intelligence, Machine Learning, Analytics, 5G, automotive, and high-performance computing are driving significant change in infrastructure such as Cloud, Edge, and client computing. Interconnect is a key pillar in this evolving computational landscape. The recent advent of Compute Express Link (CXL), a new open standard for cache-coherent interconnect, with its memory and coherency semantics has made it possible to pool computational and memory resources at the rack level using low-latency, higher-throughput, and memorycoherent access mechanisms. CXL is adopting networking features such as multi-host connectivity, pooled memory, persistence flows, and fabric manager while keeping its low-latency load-store semantics intact. The load-store I/O interconnects such as PCI Express (PCIe) and CXL are evolving to provide efficient access mechanisms across multiple nodes with advanced atomics, acceleration, smart NICs, persistent memory support etc. In this talk we will explore how synergistic evolution across load-store interconnects and fabrics can benefit the compute infrastructure of the future."
-    },
-    {
         "title": "An efficient crop yield prediction system using machine learning algorithm",
         "conferenceTitle": "4th Smart Cities Symposium (SCS 2021)",
-        "Content Type": "Conferences",
-        "date": "21-23 Nov. 2021",
+        "data": "21-23 Nov. 2021",
         "authors": [
             "S. Kunchakuri",
             "S. Pallerla",
@@ -1099,8 +1067,7 @@
     {
         "title": "A Study on Simultaneous Vertical and Lateral Translation Mode for Hovering Tilt Rotor Aircraft",
         "conferenceTitle": "2021 International Automatic Control Conference (CACS)",
-        "Content Type": "Conferences",
-        "date": "3-6 Nov. 2021",
+        "data": "3-6 Nov. 2021",
         "authors": [
             "Yasuhiro Osa",
             "Kosuke Sakamoto",
@@ -1111,10 +1078,25 @@
         "abstract": "In this study a synthesis of Control Configured Vehicle flight control system which is able to accomplish simultaneous vertical and lateral translation for hovering Tilt Rotor Aircraft is proposed. In order to keep the stable pitch and roll motion, the small forward angle variation of thrust vectors of both rotors and the small thrust variation of right side rotor are used. And to produce the vertical and lateral velocities, the small thrust variations of both side rotors and the lateral angle variation of thrust vector of right side rotor are used. Basically this flight control system consists of pitch and roll rate feedbacks as stability augmentation method, and P/PI control as controllability augmentation method."
     },
     {
+        "title": "Designing a 60 GHz Sub-Milliwatt Transceiver for Wireless Body-Area-Networks",
+        "conferenceTitle": "European Wireless 2021; 26th European Wireless Conference",
+        "data": "10-12 Nov. 2021",
+        "authors": [
+            "Helmuth P. E. Morath",
+            "Xin An",
+            "Jens Wagner",
+            "Paolo Valerio Testa",
+            "Karlheinz Bock",
+            "Frank Ellinger"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "In this paper we discuss the design of a wireless front-end for the Tactile Internet with human in the loop, which requires compact communication units. In order to reduce the antenna size a 60 GHz low complexity non-coherent transceiver architecture is proposed, employing on-off keying. Since operation at 60 GHz has high power demands, the concept of aggressive duty-cycling is investigated in order to reduce the average power consumption. Limits of the introduced approach are evaluated by discussing the relations between data rate, average power consumption and necessary on-times of transmitter and receiver. We show that the proposed concept permits a transceiver power consumption of 1mW at a data rate of 1 Mbps."
+    },
+    {
         "title": "Securing IoT data at physical layer by using RC6 encryption technique",
         "conferenceTitle": "4th Smart Cities Symposium (SCS 2021)",
-        "Content Type": "Conferences",
-        "date": "21-23 Nov. 2021",
+        "data": "21-23 Nov. 2021",
         "authors": [
             "A. M. Ashraf",
             "W. Elmedany"
@@ -1126,8 +1108,7 @@
     {
         "title": "Object/Obstacles detection system for self-driving cars",
         "conferenceTitle": "4th Smart Cities Symposium (SCS 2021)",
-        "Content Type": "Conferences",
-        "date": "21-23 Nov. 2021",
+        "data": "21-23 Nov. 2021",
         "authors": [
             "M. Q. Siddiqui",
             "M. W. Ashour"
@@ -1139,8 +1120,7 @@
     {
         "title": "SYSTEM RESTORATION STRATEGIES USING DISTRIBUTED ENERGY RESOURCES",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "D. Chakravorty",
             "D. Gutschow",
@@ -1155,8 +1135,7 @@
     {
         "title": "Register and Instruction Coverage Analysis for Different RISC-V ISA Modules",
         "conferenceTitle": "MBMV 2021; 24th Workshop",
-        "Content Type": "Conferences",
-        "date": "18-19 March 2021",
+        "data": "18-19 March 2021",
         "authors": [
             "Peer Adelt",
             "Bastian Koppelmann",
@@ -1170,8 +1149,7 @@
     {
         "title": "AI Compute Chip from Enflame",
         "conferenceTitle": "2021 IEEE Hot Chips 33 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2021",
+        "data": "22-24 Aug. 2021",
         "authors": [
             "Ryan Liu",
             "Chuang Feng"
@@ -1183,8 +1161,7 @@
     {
         "title": "EFFICIENT FEATURE EXTRACTION FOR MACHINE-LEARNING-BASED PD CLASSIFICATION IN MEDIUM VOLTAGE CABLES",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "C. Backe",
             "M. Shafiq",
@@ -1195,10 +1172,21 @@
         "abstract": "Aging and abnormal stresses cause insulation degradation in underground cables, reducing their in-service lifetime. Partial discharge (PD) monitoring is an effective tool to monitor the insulation condition. For growing networks, monitoring solutions need more efficient diagnostics, particularly to classify PD activity by source type. One bottleneck here is feature extraction, for which many computationally expensive techniques have been proposed. This paper presents a more efficient approach, enabling real-time PD classification at high classification performance. It is applied to phase resolved PD cycles, measured on a medium voltage cable in a laboratory environment, containing either internal, corona, or surface discharge activity."
     },
     {
+        "title": "Authentication in IoT devices using blockchain technology: A review",
+        "conferenceTitle": "4th Smart Cities Symposium (SCS 2021)",
+        "data": "21-23 Nov. 2021",
+        "authors": [
+            "A. Ashraf",
+            "W. Elmedany"
+        ],
+        "DOI": "10.1049/icp.2022.0398",
+        "citation": 2,
+        "abstract": "The Internet of Things (IoT) is a concept that is transforming our everyday life. Because of its capacity to change people's lives, it has become a vital element of our lives. IoT devices are being used by an increasing number of businesses because they provide new opportunities for wearable devices, home appliances, and healthcare. With all of these possibilities, the risks associated with IoT security are increasing. One of the most challenging aspects of any IoT application is device identification. Things in the IoT share and process data without the need for human interaction. As a result of their total authority, these entities must authenticate and recognize one another effectively. Failure to legitimately authenticating the IoT devices can make them vulnerable to a number of assaults such as DDoS and replay attacks. It is nearly hard to develop an effective authentication system due to the size and other characteristics of IoT. Although a lot of work has been done on this issue, the majority of these solutions rely on a centralized system. These centralized systems are segregated and incompatible with one another, making information exchange between them impossible. In addition, once a centralized authority is attacked, the user's privacy can be exposed easily. Proof of security, decentralization, and anonymity characteristics of blockchain can help address these issues. With blockchain technology applied to IoT systems, obstacles to IoT architecture development and security can be overcome. This paper, therefore, focuses on covering current advancements made in the application of blockchain for authentication in IoT. There is a lack of survey papers on the use of blockchain for authentication in IoT this paper will serve as an aide. This paper will also add to the knowledge of researchers who are interested in IoT security."
+    },
+    {
         "title": "Image steganalysis via squeeze-and-excitation and separable convolutional neural network",
         "conferenceTitle": "AIIPCC 2021; The Second International Conference on Artificial Intelligence, Information Processing and Cloud Computing",
-        "Content Type": "Conferences",
-        "date": "26-28 June 2021",
+        "data": "26-28 June 2021",
         "authors": [
             "Jingtai Li",
             "Xiaodan Wang",
@@ -1212,8 +1200,7 @@
     {
         "title": "AN ACCURATE MODEL FOR STEADY-STATE AND DYNAMIC ANALYSIS OF THE SICILIAN NETWORK WITH HVDC INTERCONNECTIONS",
         "conferenceTitle": "The 17th International Conference on AC and DC Power Transmission (ACDC 2021)",
-        "Content Type": "Conferences",
-        "date": "8 July-8 Dec. 2021",
+        "data": "8 July-8 Dec. 2021",
         "authors": [
             "R. Musca",
             "E. R. Sanseverino",
@@ -1227,8 +1214,7 @@
     {
         "title": "ADVANCED DESIGN OF HEAT ACCUMULATION RESPONSIVE DEMAND CONTROL FOR ENERGY MANAGEMENT OF PROSUMERS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "J. Klusacek",
             "M. Vrana",
@@ -1243,8 +1229,7 @@
     {
         "title": "Ultra-Short-Term Wind Power Forecasting Based on Attention Mechanism",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "F. Chen",
             "Y. Zhang",
@@ -1260,8 +1245,7 @@
     {
         "title": "Comparison of Algorithms for Flicker Irritation Assessment",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "L. Kukačka",
             "R. Stiegler",
@@ -1277,8 +1261,7 @@
     {
         "title": "Design of an integrated Maximum Power Point Boost Converter for PV Submodules",
         "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
-        "Content Type": "Conferences",
-        "date": "19-22 July 2021",
+        "data": "19-22 July 2021",
         "authors": [
             "Leon Weihs",
             "Michael Hanhart",
@@ -1293,8 +1276,7 @@
     {
         "title": "Nonlinear stability analysis of a reduced-order wind turbine VSC-grid model operating in weak grid conditions",
         "conferenceTitle": "20th International Workshop on Large-Scale Integration of Wind Power into Power Systems as well as on Transmission Networks for Offshore Wind Power Plants (WIW 2021)",
-        "Content Type": "Conferences",
-        "date": "29-30 Sept. 2021",
+        "data": "29-30 Sept. 2021",
         "authors": [
             "S. Ghosh",
             "G. Yang",
@@ -1308,8 +1290,7 @@
     {
         "title": "EXPLOITING RIPPLE20 TO COMPROMISE POWER GRID CYBER SECURITY AND IMPACT SYSTEM OPERATIONS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "V. S. Rajkumar",
             "A. Stefanov",
@@ -1321,10 +1302,22 @@
         "abstract": "Driven by power grid digitalisation, tighter coupling between the cyber and physical layers has introduced cyber security threats. This paper elucidates the emergence and possible consequences of recently identified Information Technology (IT) / Industrial Internet of Things (IIoT) vulnerabilities, i.e., Ripple20, and the threats it poses to power grid cyber security. In this paper, we investigate advanced cyber attack tactics and techniques to exploit Ripple20 and IEC 61850 vulnerabilities through various attack vectors. The presented cyber-physical attack scenarios focus on gaining unauthorised access from pole-mounted reclosers in MV networks to the control centre and substation Operational Technology (OT) systems. Subsequently, the aforementioned vulnerabilities are exploited to maliciously disconnect embedded generation, block substation protection functionality, and cause busbar faults. We then experimentally demonstrate the impact of such advanced cyber attacks on power system operation that initiate cascading failures and cause a blackout. Recommendations and mitigation techniques for advanced cyber threats in the OT domain of distribution system operators are also provided."
     },
     {
+        "title": "GENETIC ALGORITHM FOR PLACEMENT OF IEDs FOR FAULT LOCATION IN SMART DISTRIBUTION GRIDS",
+        "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
+        "data": "20-23 Sept. 2021",
+        "authors": [
+            "R. Muka",
+            "M. Garau",
+            "P. E. Heegaard"
+        ],
+        "DOI": "10.1049/icp.2021.1640",
+        "citation": 2,
+        "abstract": "The digital transition of the distribution grid management and operation requires efficient and reliable intelligent electronic devices (IEDs). Appropriate placement of IEDs in the distribution grid is crucial to guarantee high resilience, e.g. through remote monitoring, control and automation, and provide a high security of supply. In this paper, a novel approach for a cost-efficient placement of IEDs for fault location in radial distribution grids is proposed, which takes into account that IEDs might fail or are disconnected from the control system (e.g., Distribution Management System (DMS)). Genetic Algorithm is applied to solve the optimisation problem, with the objective to minimize the total annual cost, which is a compromise between the interruption costs (Cost of Energy Not Supplied), and the yearly expenses of the IEDs installed and their availability. To demonstrate the applicability, the method is tested on the IEEE 33-bus radial distribution system. The results demonstrate the efficiency of the method in supporting decision-making over different investment scenarios, and performing sensitivity analysis over IEDs' cost, taking into considerations the availability of the IEDs in a DMS."
+    },
+    {
         "title": "A Method of Automated Corpus-Based Identification of Metaphors for Compiling a Dictionary of Metaphors: A Case Study of the Emotion Conceptual Domain",
         "conferenceTitle": "2021 IEEE 16th International Conference on Computer Sciences and Information Technologies (CSIT)",
-        "Content Type": "Conferences",
-        "date": "22-25 Sept. 2021",
+        "data": "22-25 Sept. 2021",
         "authors": [
             "Olena Levchenko",
             "Marianna Dilai"
@@ -1336,8 +1329,7 @@
     {
         "title": "BelSAR : the first Belgian airborne campaign for L-band, full polarimetric bistatic and interferometric SAR acquisitions over an agricultural site in Belgium",
         "conferenceTitle": "EUSAR 2021; 13th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2021",
+        "data": "29 March-1 April 2021",
         "authors": [
             "Anne Orban",
             "Denis Defrere",
@@ -1350,8 +1342,7 @@
     {
         "title": "Frequency Trajectory Planning Based Wind Turbine and Energy Storage System Cooperative Control Strategy for Frequency Regulation",
         "conferenceTitle": "Tsinghua University-IET Electrical Engineering Academic Forum: Constructing Green and Sustainable Energy System (2021)",
-        "Content Type": "Conferences",
-        "date": "15-16 May 2021",
+        "data": "15-16 May 2021",
         "authors": [
             "H. Liu",
             "L. Xiong",
@@ -1364,8 +1355,7 @@
     {
         "title": "TESTBEDS FOR ACTIVE DISTRIBUTION NETWORKS: CASE EXPERIENCE FROM SYSLAB",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "O. Gehrke",
             "C. Ziras",
@@ -1380,8 +1370,7 @@
     {
         "title": "DETERMINING THE IMPACTS OF FAST-CHARGING OF ELECTRIC BUSES ON THE POWER QUALITY BASED ON FIELD MEASUREMENTS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "T. Slangen",
             "S. Bhattacharyya"
@@ -1391,37 +1380,9 @@
         "abstract": "In the last few years more electric vehicles (EV) are being connected to the electricity network. Fast charging EVs is of paramount for the smooth transition of mobility from conventional oil/natural gas-based infrastructure towards electricity-based infrastructure. In the Netherlands, some pilots have started to understand the impacts of EV charging on the electricity networks. One such pilot case has taken place in a major city of the Netherlands, where every day many fast and slow charging of electric buses takes place in the same bus depot. As the EV chargers contain converters (power electronics-based components), these are considered as potential sources of harmonics (<2 kHz) and supraharmonics (2 kHz-150 kHz). Presently, there is no specific standard that gives limit values for supraharmonic emissions at a network connection point. It is anticipated that both harmonics and supraharmonic disturbances can have adverse impacts on the lifetime of connected devices. Theses emission can also disturb the quality of the supply voltage and may therefore affect the operation of other equipment in the same installation. The power quality measurement (PQM) results at this bus depot show harmonics and supraharmonic emissions from the EV charging points. In this paper various PQM results are summarized and their implications towards the present grid voltage quality are discussed."
     },
     {
-        "title": "2D Acoustic Source Localisation Using Decentralised Deep Neural Networks on Distributed Microphone Arrays",
-        "conferenceTitle": "Speech Communication; 14th ITG Conference",
-        "Content Type": "Conferences",
-        "date": "29 Sept.-1 Oct. 2021",
-        "authors": [
-            "Stijn Kindt",
-            "Alexander Bohlender",
-            "Nilesh Madhu"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "This paper takes a previously proposed convolutional recurrent deep neural network (DNN) approach to direction of arrival (DoA) estimation and extends this to perform 2D localisation using distributed microphone arrays. Triangulation on the individual DoAs from each array is the most straightforward extension of the original DNN. This paper proposes to allow more cooperation between the individual microphone arrays by sharing part of their neural network, in order to achieve a higher localisation accuracy. Two strategies will be discussed: one where the shared network has narrowband information, and one where only broadband information is shared. Robustness against slight clock offsets between different arrays is ensured by only sharing information at deeper layers in the DNN. The position and configuration of the microphone arrays are assumed known, in order to train the network. Simulations will show that combining information between neural network layers has a significant improvement over the triangulation approach."
-    },
-    {
-        "title": "Improvement of Simulation-Based Analog Circuit Sizing using Design-Space Transformation",
-        "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
-        "Content Type": "Conferences",
-        "date": "19-22 July 2021",
-        "authors": [
-            "Matthias Schweikardt",
-            "Juergen Scheible"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "This paper presents an improvement in usability and integrity of simulation-based analog circuit sizing. Instead of using geometrical sizing parameters (width, length), a transformed design-space, consisting exclusively of electrical parameters (branch currents, efficiencies and speed) is utilized. This design-space is explored more efficiently by optimizers. Moreover, this design-space can be reduced without affecting the quality of the result. The method is illustrated on two application examples, a symmetrical and a miller operational amplifier. Sizing the circuits using the transformed design-space showed significant reduction in required circuit simulations (up to 11x faster), better convergence, without loss in quality."
-    },
-    {
         "title": "OPTIMAL DEMAND CHARGE THRESHOLD TUNING FOR ECONOMIC MICROGRID ENERGY MANAGEMENT",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "P. Pflaum",
             "A. Yousef"
@@ -1433,8 +1394,7 @@
     {
         "title": "ML-based Application Performance Modelling over a SDN Network Using End-to-end and Link Metrics",
         "conferenceTitle": "European Wireless 2021; 26th European Wireless Conference",
-        "Content Type": "Conferences",
-        "date": "10-12 Nov. 2021",
+        "data": "10-12 Nov. 2021",
         "authors": [
             "Lei Wang",
             "Declan T. Delaney"
@@ -1446,8 +1406,7 @@
     {
         "title": "LINE PARAMETER ESTIMATION IN MULTI-PHASE DISTRIBUTION NETWORKS WITHOUT VOLTAGE ANGLE MEASUREMENTS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "S. Claeys",
             "F. Geth",
@@ -1460,8 +1419,7 @@
     {
         "title": "Interaction between PMSG and DFIG in a hybrid wind farm integrated through a VSC-HVDC",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "K. Sun",
             "W. Yao",
@@ -1474,8 +1432,7 @@
     {
         "title": "Broadband Internet Access via Satellite: State-of-the-Art and Future Directions",
         "conferenceTitle": "Broadband Coverage in Germany; 15th ITG-Symposium",
-        "Content Type": "Conferences",
-        "date": "2-3 March 2021",
+        "data": "2-3 March 2021",
         "authors": [
             "Joerg Deutschmann",
             "Thomas Heyn",
@@ -1490,8 +1447,7 @@
     {
         "title": "Keynote Speaker: Metaverse from Fiction to Reality and the Research Behind It",
         "conferenceTitle": "2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)",
-        "Content Type": "Conferences",
-        "date": "4-8 Oct. 2021",
+        "data": "4-8 Oct. 2021",
         "authors": [],
         "DOI": "10.1109/ISMAR52148.2021.00011",
         "citation": 2,
@@ -1500,8 +1456,7 @@
     {
         "title": "EDFA Soft-Failure Detection and Lifetime Prediction based on Spectral Data using 1-D Convolutional Neural Network",
         "conferenceTitle": "Photonic Networks; 22th ITG Symposium",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2021",
+        "data": "19-20 May 2021",
         "authors": [
             "Lars Kruse",
             "Stephan Pachnicke"
@@ -1513,8 +1468,7 @@
     {
         "title": "SECURING DIGITAL ECONOMIES: DETECTION OF PHISHING ATTACKS USING MACHINE LEARNING APPROACHES",
         "conferenceTitle": "Competitive Advantage in the Digital Economy (CADE 2021)",
-        "Content Type": "Conferences",
-        "date": "2-3 June 2021",
+        "data": "2-3 June 2021",
         "authors": [
             "N. Bari",
             "M. Ali Shah"
@@ -1526,8 +1480,7 @@
     {
         "title": "DEVELOPMENT OF A FLEXIBILITY SERVICE MECHANISM FOR THE DETERMINATION AND EXPLOITATION OF FLEXIBILITY IN ACTIVE DISTRIBUTION NETWORK THROUGH PARALLELIZED OPTIMAL POWER FLOW CALCULATIONS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "A. Singh",
             "A. Kubis",
@@ -1541,8 +1494,7 @@
     {
         "title": "MVDC solid state breaker/limiter control with adaptive hysteresis limits",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "R. Chiumeo",
             "D. Raggini",
@@ -1556,8 +1508,7 @@
     {
         "title": "Intelligent emotion recognition system using natural language processing and BERT",
         "conferenceTitle": "The 2nd International Conference on Distributed Sensing and Intelligent Systems (ICDSIS 2021)",
-        "Content Type": "Conferences",
-        "date": "30-31 July 2021",
+        "data": "30-31 July 2021",
         "authors": [
             "S. Limkar",
             "A. Itkarkar",
@@ -1571,8 +1522,7 @@
     {
         "title": "A Mixer-Embedded Low Noise Amplifier for Mixer-First Direct-Conversion Wake-Up Receivers",
         "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
-        "Content Type": "Conferences",
-        "date": "19-22 July 2021",
+        "data": "19-22 July 2021",
         "authors": [
             "Christopher Nardi",
             "Alexander Kronig",
@@ -1586,8 +1536,7 @@
     {
         "title": "APPLICATION OF DEEP RESIDUAL NETWORK IN FAULT DIAGNOSIS OF PHOTOVOLTAIC MODULES",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "Jing-Yue Wang",
             "Zheng Qian",
@@ -1600,8 +1549,7 @@
     {
         "title": "Building Common Sense Database By Using Social Media Content",
         "conferenceTitle": "2021 Innovations in Intelligent Systems and Applications Conference (ASYU)",
-        "Content Type": "Conferences",
-        "date": "6-8 Oct. 2021",
+        "data": "6-8 Oct. 2021",
         "authors": [
             "Deniz Altınal",
             "Mehmet Fatih Amasyali"
@@ -1613,8 +1561,7 @@
     {
         "title": "Development Approach for Short-term Forecasting of Reactive Power at the Interface Distribution and Transmission Grid",
         "conferenceTitle": "ETG Congress 2021",
-        "Content Type": "Conferences",
-        "date": "18-19 March 2021",
+        "data": "18-19 March 2021",
         "authors": [
             "Merten Schuster",
             "Demian Nikolai Kufeld",
@@ -1626,10 +1573,22 @@
         "abstract": "Within the scope of discussed approaches to cross-voltage level system control, the short-term forecast of grid-related parameters (e.g. reactive power) is of elementary importance. This work presents a complete methodology for short-term prediction of reactive power behaviour of individual substations and grid interconnection points. An application designed for this purpose and its functional range are presented within an exemplary reactive power forecast for a real 110 kV grid. The development approach and the applied prediction method of a Generalized Additive Model show promising results especially for a not highly fluctuating reactive power behaviour of substations. In order to be able to forecast also highly fluctuating feeders correctly, a further optimization of the parameterization of the used models as well as the use of further and more accurate data is to be aspired."
     },
     {
+        "title": "Informed Source Extraction With Application to Acoustic Echo Reduction",
+        "conferenceTitle": "Speech Communication; 14th ITG Conference",
+        "data": "29 Sept.-1 Oct. 2021",
+        "authors": [
+            "Mohamed Elminshawi",
+            "Wolfgang Mack",
+            "Emanuel A. P. Habets"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "Informed speaker extraction aims to extract a target speech signal from a mixture of sources given prior knowledge about the desired speaker. Recent deep learning-based methods leverage a speaker discriminative model that maps a reference snippet uttered by the target speaker into a single embedding vector that encapsulates the characteristics of the target speaker. However, such modeling deliberately neglects the time-varying properties of the reference signal. In this work, we assume that a reference signal is available that is temporally correlated with the target signal. To take this correlation into account, we propose a time-varying source discriminative model that captures the temporal dynamics of the reference signal. We also show that existing methods and the proposed method can be generalized to non-speech sources as well. Experimental results demonstrate that the proposed method significantly improves the extraction performance when applied in an acoustic echo reduction scenario."
+    },
+    {
         "title": "DEMAND SIDE MANAGEMENT USING INTELLIGENT POWER CONTROLLER FOR LARGE CONSUMERS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "H. H. Shalaby",
             "A. M. Azmy",
@@ -1641,26 +1600,9 @@
         "abstract": "The basic aim of this work is to contribute favourably in the efficient management of the electricity grid via demand side management technique. The research introduces a novel intelligent power controller to be installed at the consumer side of office buildings, hotels, shopping malls and industrial plants. The paper explores the impact of the proposed controller in peak load shaving and load shifting with consequent improving of energy efficiency and cutting electricity bills. Besides, it investigates its readiness for demand response programs applications and connectivity with the innovative cloud computing platform. The investigation of a practical application example shows that the implementation of the power controller in a hotel complex yielded around 14% reduction in the maximum power absorption and around 2243€ associated annual saving that increase the overall energy performance. Increase in energy efficiency will result in optimal utilization of the available power generation, improving the stability of the grid, diminishing the use of low efficiency peak power plants and reducing the carbon footprint emissions. This work highlights the viability of the proposed controller and emphasizes its great benefits to electrical utilities and consumers."
     },
     {
-        "title": "Modelling of synthetic high voltage networks based on open data and integration into a modular synthetic distribution grid generator",
-        "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
-        "authors": [
-            "C. Wirtz",
-            "M. Murglat",
-            "J. Tran",
-            "S. Krahl",
-            "A. Moser"
-        ],
-        "DOI": "10.1049/icp.2021.1654",
-        "citation": 1,
-        "abstract": "Threats to stability and security of the electric grid are not limited to one voltage level, but can form complex event cascades across multiple network levels. Furthermore, the structure of the local grid as well as the composition of customers have a significant influence on the characteristics of the incidents. High-resolution, interconnected grid models are therefore required for detailed investigations of current and future threats like temporary overvoltages. Here we present an approach to produce and combine synthetic high voltage (HV) and medium voltage (MV) grid models based on the actual supply task of German grids. The supply task can be inferred by open data approaches, e.g., high spatial satellite data and register databases. The resulting grids reproduce local characteristics and can form a basis for grid stability studies."
-    },
-    {
         "title": "XeHPC Ponte Vecchio",
         "conferenceTitle": "2021 IEEE Hot Chips 33 Symposium (HCS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2021",
+        "data": "22-24 Aug. 2021",
         "authors": [
             "David Blythe"
         ],
@@ -1671,8 +1613,7 @@
     {
         "title": "IMPACT OF TRANSFORMER AND CABLE AGING ON DISTRIBUTION LOCATIONAL MARGINAL COSTS IN ACTIVE DISTRIBUTION NETWORKS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "P. Andrianesis",
             "A. Michiorri",
@@ -1686,8 +1627,7 @@
     {
         "title": "Battery aging due to 100 Hz current Ripple of power converters",
         "conferenceTitle": "The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)",
-        "Content Type": "Conferences",
-        "date": "1-2 March 2021",
+        "data": "1-2 March 2021",
         "authors": [
             "S. Barcellona",
             "L. Piegari"
@@ -1699,8 +1639,7 @@
     {
         "title": "ASSESSMENT OF HARMONIC CONTRIBUTION OF CUSTOMER INSTALLATIONS BASED ON FIELD MEASUREMENTS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "M. Pourarab",
             "J. Meyer",
@@ -1716,8 +1655,7 @@
     {
         "title": "EMERGENCY POWER SUPPLY USING TEMPORARY ISLANDED MICROGRIDS - DESIGN AND VERIFICATION OF ENERGY MANAGEMENT ALGORITHM",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "P. Linnartz",
             "E. Zinaburga",
@@ -1731,8 +1669,7 @@
     {
         "title": "Performance Analysis of IPT Systems for Electric Vehicles Dynamic Battery Charging",
         "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
-        "Content Type": "Conferences",
-        "date": "19-22 July 2021",
+        "data": "19-22 July 2021",
         "authors": [
             "Guilia Di Capua",
             "Luca De Guglielmo",
@@ -1745,8 +1682,7 @@
     {
         "title": "A Novel Nonlinear Frequency Modulation Waveform Optimization Method Based on Time-Frequency structure Design",
         "conferenceTitle": "EUSAR 2021; 13th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2021",
+        "data": "29 March-1 April 2021",
         "authors": [
             "Yajun Long",
             "Fengjun Zhao",
@@ -1760,8 +1696,7 @@
     {
         "title": "EEG-based emotion classification using deep neural network",
         "conferenceTitle": "4th Smart Cities Symposium (SCS 2021)",
-        "Content Type": "Conferences",
-        "date": "21-23 Nov. 2021",
+        "data": "21-23 Nov. 2021",
         "authors": [
             "M. Sallout",
             "E. Mattar"
@@ -1773,8 +1708,7 @@
     {
         "title": "Visual Analysis of Heterogeneous Data for Academic Planning",
         "conferenceTitle": "ICMLCA 2021; 2nd International Conference on Machine Learning and Computer Application",
-        "Content Type": "Conferences",
-        "date": "17-19 Dec. 2021",
+        "data": "17-19 Dec. 2021",
         "authors": [
             "Junhe Zhao",
             "Jin Li",
@@ -1788,8 +1722,7 @@
     {
         "title": "Connecting the dots: distribution grid investments to power the energy transition",
         "conferenceTitle": "11th Solar & Storage Power System Integration Workshop (SIW 2021)",
-        "Content Type": "Conferences",
-        "date": " 2021",
+        "data": " 2021",
         "authors": [
             "P. Wilczek"
         ],
@@ -1800,8 +1733,7 @@
     {
         "title": "APPLICATION OF PHASOR-BASED FUNCTIONALITY TO HVDC CONTROL IN REDUCED SYSTEM STRENGTH",
         "conferenceTitle": "The 17th International Conference on AC and DC Power Transmission (ACDC 2021)",
-        "Content Type": "Conferences",
-        "date": "8 July-8 Dec. 2021",
+        "data": "8 July-8 Dec. 2021",
         "authors": [
             "M. Golshani",
             "D. Wilson",
@@ -1817,8 +1749,7 @@
     {
         "title": "A Flexible Test Setup for Long-Term Dynamic Characterization of SiC MOSFETs under Soft- and Hard-Switching Conditions",
         "conferenceTitle": "PCIM Europe digital days 2021; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "3-7 May 2021",
+        "data": "3-7 May 2021",
         "authors": [
             "Daniel A. Philipps",
             "Dimosthenis Peftitsis"
@@ -1830,8 +1761,7 @@
     {
         "title": "SIMULATION TOOL FOR TECHNO-ECONOMIC ANALYSIS OF HYBRID AC/DC LOW VOLTAGE DISTRIBUTION GRIDS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "N. Fuchs",
             "G. Jambrich",
@@ -1844,8 +1774,7 @@
     {
         "title": "Islanding Dependencies and Detection in low-Voltage grids with grid forming Inverters",
         "conferenceTitle": "The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)",
-        "Content Type": "Conferences",
-        "date": "1-2 March 2021",
+        "data": "1-2 March 2021",
         "authors": [
             "Björn O Winter",
             "Florian Rauscher",
@@ -1858,8 +1787,7 @@
     {
         "title": "Scholar Social Networks and Big Data Research",
         "conferenceTitle": "2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
-        "Content Type": "Conferences",
-        "date": "5-7 May 2021",
+        "data": "5-7 May 2021",
         "authors": [
             "Yong Tang"
         ],
@@ -1870,8 +1798,7 @@
     {
         "title": "State-based modeling of controllable power system components via stochastic activity networks",
         "conferenceTitle": "PESS 2021; Power and Energy Student Summit",
-        "Content Type": "Conferences",
-        "date": "25-26 Nov. 2021",
+        "data": "25-26 Nov. 2021",
         "authors": [
             "Alicia Schneiders",
             "Jonas Haack"
@@ -1883,8 +1810,7 @@
     {
         "title": "TAPERED LINK BOX SWITCH FOR MESHING LOW VOLTAGE DISTRIBUTION NETWORKS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "J. Bantock",
             "R. Clifford-Smith",
@@ -1898,8 +1824,7 @@
     {
         "title": "Predictor Antenna for Robust Non Reciprocity based Beamforming at High Speed",
         "conferenceTitle": "WSA 2021; 25th International ITG Workshop on Smart Antennas",
-        "Content Type": "Conferences",
-        "date": "10-12 Nov. 2021",
+        "data": "10-12 Nov. 2021",
         "authors": [
             "Dinh-Thuy Phan-Huy",
             "Joachim Bjoersell",
@@ -1912,8 +1837,7 @@
     {
         "title": "Wind power forecasting using LSTM incorporating fourier transformation based denoising technique",
         "conferenceTitle": "20th International Workshop on Large-Scale Integration of Wind Power into Power Systems as well as on Transmission Networks for Offshore Wind Power Plants (WIW 2021)",
-        "Content Type": "Conferences",
-        "date": "29-30 Sept. 2021",
+        "data": "29-30 Sept. 2021",
         "authors": [
             "A. Kahraman",
             "G. Yang",
@@ -1926,8 +1850,7 @@
     {
         "title": "Efficiency-Oriented Design of Litz Wire for Several kW Power Experimented on 20 kW Prototype",
         "conferenceTitle": "PCIM Europe digital days 2021; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "3-7 May 2021",
+        "data": "3-7 May 2021",
         "authors": [
             "Damien Lemaitre",
             "Benoit Sarrazin",
@@ -1940,10 +1863,29 @@
         "abstract": "Wireless Power Transfer (WPT) from a few kW to hundreds of kW is the future in order to simplify the recharging of electric vehicles (EVs). For ensuring high current ratings in the magnetic couplers used for this transfer, Litz wire conductors are used to deal with the skin effect due to the 85 kHz operating frequency imposed by SAE standards. These conductors are made by paralleling a more or less large number of strands of Litz wires. Depending on the Litz wire design, inhomogeneous current distributions between these strands can be observed. This article highlights this phenomenon by real measurements carried out on two 20 kW WPT prototypes and study the relevant parameters to propose solutions. Tests on different designs, different connectors at the ends, as well as an easy way to perform Litz wire test method are provided. Finally, the proposals developed and validated experimentally made it possible to obtain a new prototype with a 20% reduction in winding losses while dividing the necessary quantity of copper volume by 2.5."
     },
     {
+        "title": "Characterization of Reactive Multilayer Systems deposited on LTCC featuring different surface morphologies",
+        "conferenceTitle": "MikroSystemTechnik Congress 2021; Congress",
+        "data": "8-10 Nov. 2021",
+        "authors": [
+            "Alexander Schulz",
+            "Heike Bartsch",
+            "Nam Gutzeit",
+            "Sebastian Matthes",
+            "Marcus Glaser",
+            "Andreas Ruh",
+            "Jens Mueller",
+            "Peter Schaaf",
+            "Jean Pierre Bergmann",
+            "Steffen Wiese"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "This paper presents the characterization of Al-Ni reactive multilayer systems (RMS) sputtered on LTCC substrates featuring different surface morphologies. All samples were able to ignite, followed by self-propagating exothermic reaction along the LTCC substrate surfaces which were simultaneously monitored using high velocity pyrometer and camera measurements. The adhesion of the ignited RMS was improved on LTCC substrates having surface roughness more than about 600 nm. A reduced influence of the substrate roughness on the measured temperatures was detected for these samples as well as measurements of their reaction velocities clarify a higher impact of different surface roughness. The promising results suggest that the reaction properties and the wave propagating directions can be controlled during reactive bonding or soldering of several applications in the field of electronic packaging by manipulating the substrate morphologies, e.g. using laser ablation on bonding areas."
+    },
+    {
         "title": "Machine Learning Based C-DRX Configuration Optimization for 5G",
         "conferenceTitle": "Mobile Communication - Technologies and Applications; 25th ITG-Symposium",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2021",
+        "data": "3-4 Nov. 2021",
         "authors": [
             "Philipp Bruhn",
             "German Bassi"
@@ -1955,8 +1897,7 @@
     {
         "title": "Overview of Standards Development within the Power Quality Subcommittee of the IEEE Power & Energy Society",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "D. Sabin",
             "M. Norwalk",
@@ -1970,8 +1911,7 @@
     {
         "title": "50 Hz train charging station for battery electric trains (BEMU)",
         "conferenceTitle": "ETG Congress 2021",
-        "Content Type": "Conferences",
-        "date": "18-19 March 2021",
+        "data": "18-19 March 2021",
         "authors": [
             "Felix Dschung",
             "Michael Ludolf"
@@ -1983,8 +1923,7 @@
     {
         "title": "ELECTRIC ENERGY DISTRIBUTION IN THE CONTEXT OF ECONOMIC RECESSION, THE COVID 19 PANDEMIC AND THE QUARANTINE",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "M. Pulice"
         ],
@@ -1995,8 +1934,7 @@
     {
         "title": "Review on key technologies of DC high speed switch in a multi-terminal UHVDC system",
         "conferenceTitle": "2021 Annual Meeting of CSEE Study Committee of HVDC and Power Electronics (HVDC 2021)",
-        "Content Type": "Conferences",
-        "date": "28-30 Dec. 2021",
+        "data": "28-30 Dec. 2021",
         "authors": [
             "X. Yang",
             "C. Zhang",
@@ -2012,8 +1950,7 @@
     {
         "title": "Dc voltage characteristics of controllable current source converter based on TPWM",
         "conferenceTitle": "2021 Annual Meeting of CSEE Study Committee of HVDC and Power Electronics (HVDC 2021)",
-        "Content Type": "Conferences",
-        "date": "28-30 Dec. 2021",
+        "data": "28-30 Dec. 2021",
         "authors": [
             "W. Zhang",
             "L. Chen",
@@ -2028,10 +1965,27 @@
         "abstract": "When the controlled current source converter is applied to HVDC transmission system composed by the pulse width modulated current source converter(PWM-CSC) and Line-Commutated Converter(LCC), the dc voltage at both ends of the converter does not match due to the bypass of the PWM-CSC. Based on the operating principle of PWM-CSC, this paper analyses the dc voltage characteristics of TPWM applied to the current source converter, and realizes the unit power factor operation of the system combined with the indirect current control and TPWM."
     },
     {
+        "title": "Sub 6 GHz versus mmWave Measurements in a Controlled High-Mobility Environment",
+        "conferenceTitle": "WSA 2021; 25th International ITG Workshop on Smart Antennas",
+        "data": "10-12 Nov. 2021",
+        "authors": [
+            "Faruk Pasic",
+            "Stefan Pratschner",
+            "Robert Langwieser",
+            "Daniel Schuetzenhoefer",
+            "Edgar Jirousek",
+            "Herbert Groll",
+            "Sebastian Caban",
+            "Markus Rupp"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "Millimeter-wave (mmWave) high-mobility scenarios are deployment scenarios for future wireless communication systems. Measurements in such scenarios cannot be easily repeated, because outdoor environments are hardly controllable. Furthermore, such high-mobility scenarios pose challenges for performance measurements as such measurements are expensive, complex, and time-consuming. Consequently, comparing consecutive measurements in different bands is not straightforward. This paper presents a methodology to ensure a fair comparison between sub 6 GHz and mmWave systems by conducting repeatable, closed-loop, and off-line-processed measurements in a controlled indoor environment. The design is based on a rotating arm, spinning a lightweight transmitter chip with an antenna around a central pivot. Thereby, such high-velocity experiments can be performed at the same channel conditions with low cost and complexity in a repeatable manner."
+    },
+    {
         "title": "Optimization of distribution network topology based on CIM model",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "S. Xu",
             "W. Mo",
@@ -2046,8 +2000,7 @@
     {
         "title": "Corrected Complex Torque Coefficient Method for Small-Signal Stability Analysis of Grid-Connected VSC",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "B. Zhao",
             "L. Chen",
@@ -2061,24 +2014,9 @@
         "abstract": "This paper focuses on the damping characteristics of sub-synchronous oscillations of phase locked loop (PLL) of grid-connected voltage source converter (VSC). A 6th order frequency domain model including the PLL, the inner current control loop and the grid dynamics is built. Compared to the model of synchronous generator, it is found that the classic complex torque coefficient method is not entirely suitable for PLL stability analysis. The method is corrected, and the concepts of corrected damping coefficient and corrected synchronizing coefficient are proposed. Based on the method, the impact of other control loops on the damping, such as current control loop (CC) and grid dynamics, can be quantitatively studied with the corrected damping torque superimposing to the PLL. The overall impact of each control loop on the damping can also be evaluated through this method. The method is validated through both eigenvalue analyses and time domain simulations."
     },
     {
-        "title": "Switch-based Hybrid Beamforming for Wideband Multi-carrier Communications",
-        "conferenceTitle": "WSA 2021; 25th International ITG Workshop on Smart Antennas",
-        "Content Type": "Conferences",
-        "date": "10-12 Nov. 2021",
-        "authors": [
-            "Mengyuan Ma",
-            "Nhan Thanh Nguyen",
-            "Markku Juntti"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "Switch-based hybrid beamforming (SW-HBF) architectures are promising for realizing massive multiple-input multiple-output (MIMO) communications systems because of their low cost and low power consumption. In this paper, we study the performance of SW-HBF in a wideband multicarrier MIMO communication system considering the beam squint effect. We aim at designing the switch-based combiner that maximizes the system spectral efficiency (SE). However, the design problem is challenging because the analog combing matrix elements are binary variables. To overcome this, we propose tabu search-based (TS) SW-HBF schemes that can attain nearoptimal performance with reasonable computational complexity. Furthermore, we compare the total power consumption and energy efficiency (EE) of the SW-HBF architecture to those of the phase-shifter-based hybrid beamforming (PS-HBF) architecture. Numerical simulations show that the proposed algorithms can efficiently find near-optimal solutions. Moreover, the SW-HBF scheme can significantly mitigate the beam squint effect and is less affected by the number of subcarriers than PS-HBF. It also provides improved SE and EE performance compared to PS-HBF schemes."
-    },
-    {
         "title": "Detection of Walking Surface Features Using Convolutional Neural Network According to Gait",
         "conferenceTitle": "2021 Innovations in Intelligent Systems and Applications Conference (ASYU)",
-        "Content Type": "Conferences",
-        "date": "6-8 Oct. 2021",
+        "data": "6-8 Oct. 2021",
         "authors": [
             "Abdulnasır Yıldız",
             "Hasan Zan"
@@ -2090,8 +2028,7 @@
     {
         "title": "Quantum annealer for network flow minimization in InSAR images",
         "conferenceTitle": "EUSAR 2021; 13th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2021",
+        "data": "29 March-1 April 2021",
         "authors": [
             "Soronzonbold Otgonbaatar",
             "Mihai Datcu"
@@ -2101,27 +2038,9 @@
         "abstract": "Quantum Annealer (QA) is well-suited for a certain class of optimization problems which can be expressed as a Quadratic Unconstrained Binary Optimization (QUBO) problem. A QUBO problem belongs to the family of Integer Programming problems which are called the NP-hard optimization problems. Feasible solutions of such problems can be found by using classical optimization techniques. However, studies claim that QA can find a feasible global solution that is faster than a classical annealer for QUBO problems. Hence, it appears promising to program and use the QA-to-QUBO approach for Earth Observation. In search of the QUBO problem in the domain of Earth Observation, we examined several Inteferometric Synthetic Aperture Radar (InSAR) applications and identified a residue connection problem in the phase unwrapping procedure. In particular, we consider the residue connection problem with multiples of 2pi as a QUBO problem. For this practical problem, we studied how to formulate this QUBO problem, and we examined the challenges to program the D-Wave quantum annealer, in particular, embedding the QUBO problem into our QA architecture with a so-called Pegasus topology, and the annealing parameter settings in the D-Wave quantum annealer. We then analysed the parameter effects on finding the global minimum of the residue connection problem. From these results, we derived and enhanced our insight for programming future quantum annealers; for instance, choosing real-world problems in Earth Observation, conceiving the embedding procedure, and the tuning of the annealing parameters."
     },
     {
-        "title": "Towards the Sixth Generation (6G) Wireless Systems: Thoughts on Physical Layer Security",
-        "conferenceTitle": "Mobile Communication - Technologies and Applications; 25th ITG-Symposium",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2021",
-        "authors": [
-            "Christoph Lipps",
-            "Shaden Baradie",
-            "Marjan Noushinfar",
-            "Jan Herbst",
-            "Andreas Weinand",
-            "Hans Dieter Schotten"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "Wireless communication has already had a transformative impact on lifestyles, as well as the way of interacting and communicating, throughout many years. This transformation is accelerated by technological drivers such as Artificial Intelligence (AI) as well as the ever-increasing demand for bandwidth and throughput. However, it is already foreseeable that the Fifth Generation (5G) cellular networks will not be sufficient to cope with the volume of mobile communication in 2030 and beyond. This paper considers Beyond 5G (B5G) and Sixth Generation (6G) mobile communications and outlines challenges for them. Alongside the technical requirements, the security, confidentiality and trustworthiness are of major importance. Therefore, the paper discusses the various 6G research areas such as Visible Light Communication (VLC), Reconfigurable Intelligent Surfaces (RISs) and (sub)Terahertz (THz) communication and highlights how the research areas contribute to Physical Layer Security (PhySec) and how the development of 6G will act as catalyst for PhySec."
-    },
-    {
         "title": "5G as a Catalyst for a Wider Technological Fusion that Enables the Fourth Industrial Revolution",
         "conferenceTitle": "Competitive Advantage in the Digital Economy (CADE 2021)",
-        "Content Type": "Conferences",
-        "date": "2-3 June 2021",
+        "data": "2-3 June 2021",
         "authors": [
             "A. Stavdas"
         ],
@@ -2132,8 +2051,7 @@
     {
         "title": "How to overcome difficulties met in deploying digital twins of electrical assets over their whole life cycle? A data management perspective",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "L. Guise",
             "L. Hossenlopp",
@@ -2149,8 +2067,7 @@
     {
         "title": "Image Captioning using CNN and LSTM",
         "conferenceTitle": "4th Smart Cities Symposium (SCS 2021)",
-        "Content Type": "Conferences",
-        "date": "21-23 Nov. 2021",
+        "data": "21-23 Nov. 2021",
         "authors": [
             "G. Sairam",
             "M. Mandha",
@@ -2164,8 +2081,7 @@
     {
         "title": "New Restricted Boltzmann Machines and Deep Belief Networks for Audio Classification",
         "conferenceTitle": "Speech Communication; 14th ITG Conference",
-        "Content Type": "Conferences",
-        "date": "29 Sept.-1 Oct. 2021",
+        "data": "29 Sept.-1 Oct. 2021",
         "authors": [
             "Paul M. Baggenstoss"
         ],
@@ -2176,8 +2092,7 @@
     {
         "title": "Multi-Antenna Coded Caching Analysis in Finite SNR and Finite Subpacketization",
         "conferenceTitle": "WSA 2021; 25th International ITG Workshop on Smart Antennas",
-        "Content Type": "Conferences",
-        "date": "10-12 Nov. 2021",
+        "data": "10-12 Nov. 2021",
         "authors": [
             "Hui Zhao",
             "Eleftherios Lampiris",
@@ -2191,8 +2106,7 @@
     {
         "title": "A Design Method of an Embedded Real-Time Simulator for Electric Drives using Low-Cost System-on-Chip Platform",
         "conferenceTitle": "PCIM Europe digital days 2021; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "3-7 May 2021",
+        "data": "3-7 May 2021",
         "authors": [
             "Aravinda Perera",
             "Roy Nilsen",
@@ -2206,8 +2120,7 @@
     {
         "title": "Automatically Evaluating the Impact to Loads Caused by Voltage Dips in Electrical Systems",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "D. Sabin",
             "J. Bickel"
@@ -2219,8 +2132,7 @@
     {
         "title": "Sea State from Sentinel-1 SAR Wave Mode Imagery for Maritime Situation Awareness",
         "conferenceTitle": "EUSAR 2021; 13th European Conference on Synthetic Aperture Radar",
-        "Content Type": "Conferences",
-        "date": "29 March-1 April 2021",
+        "data": "29 March-1 April 2021",
         "authors": [
             "Andrey Pleskachevsky",
             "Bjoern Tings",
@@ -2233,8 +2145,7 @@
     {
         "title": "MITIGATION OF VOLTAGE UNBALACE IN RURAL LOW VOLTAGE NETWORKS USING SINGLE-PHASE BESS INVERTERS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "I. Mexis",
             "G. Todeschini",
@@ -2248,8 +2159,7 @@
     {
         "title": "Analysis of Extreme Cold Weather Event in Texas of February 2021 and Suggestions for China",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "N. Shang",
             "X. Zhang"
@@ -2261,8 +2171,7 @@
     {
         "title": "Federated Learning-Based Forecasting Model for PV Power Generations Considering Privacy Protection and Data Sharing",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "S. Jiang",
             "L. Wang",
@@ -2278,8 +2187,7 @@
     {
         "title": "THE INTERNET OF MEDICAL THINGS (IOMT): SECURITY THREATS AND ISSUES AFFECTING DIGITAL ECONOMY",
         "conferenceTitle": "Competitive Advantage in the Digital Economy (CADE 2021)",
-        "Content Type": "Conferences",
-        "date": "2-3 June 2021",
+        "data": "2-3 June 2021",
         "authors": [
             "M. Mushtaq",
             "M. A. Shah",
@@ -2292,8 +2200,7 @@
     {
         "title": "A Low-Subpacketization High-Performance MIMO Coded Caching Scheme",
         "conferenceTitle": "WSA 2021; 25th International ITG Workshop on Smart Antennas",
-        "Content Type": "Conferences",
-        "date": "10-12 Nov. 2021",
+        "data": "10-12 Nov. 2021",
         "authors": [
             "Mohammad Javad Salehi",
             "Hamidreza Bakhshzad Mahmoodi",
@@ -2304,10 +2211,18 @@
         "abstract": "In this paper, we study how coded caching can be efficiently applied to multiple-input multiple-output (MIMO) communications. This is an extension to cache-aided multipleinput single-output (MISO) communications, where it is shown that with an L-antenna transmitter and coded caching gain t, a cumulative coded caching and spatial multiplexing gain of t + L is achievable. We show that, interestingly, for MIMO setups with G-antenna receivers, a coded caching gain larger than MISO setups by a multiplicative factor of G is possible, and the full coded caching and spatial multiplexing gain of Gt + L is also achievable. Furthermore, we propose a novel algorithm for building low-subpacketization, high-performance MIMO coded caching schemes using a large class of existing MISO schemes."
     },
     {
+        "title": "Country Report — India",
+        "conferenceTitle": "2021 24th Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA)",
+        "data": "18-20 Nov. 2021",
+        "authors": [],
+        "DOI": "10.1109/O-COCOSDA202152914.2021.9660556",
+        "citation": 1,
+        "abstract": "This article consists of a collection of slides from the author's conference presentation. The complete oral presentation in text form was not made available for publication as part of the conference proceedings."
+    },
+    {
         "title": "Lithium-ion batteries fault diagnosis based on multi-dimensional indicator",
         "conferenceTitle": "2021 Annual Meeting of CSEE Study Committee of HVDC and Power Electronics (HVDC 2021)",
-        "Content Type": "Conferences",
-        "date": "28-30 Dec. 2021",
+        "data": "28-30 Dec. 2021",
         "authors": [
             "W. Xiao",
             "S. Miao",
@@ -2322,8 +2237,7 @@
     {
         "title": "Development and application of DC current sensor",
         "conferenceTitle": "2021 Annual Meeting of CSEE Study Committee of HVDC and Power Electronics (HVDC 2021)",
-        "Content Type": "Conferences",
-        "date": "28-30 Dec. 2021",
+        "data": "28-30 Dec. 2021",
         "authors": [
             "J. Tang",
             "M. Ding",
@@ -2334,10 +2248,22 @@
         "abstract": "Current sensing and measurement technology is the basis and reliable support for power grid system control, which directly affects the safe operation of electrical equipment in the system. Aiming at the difficulty of reliable and rapid detection of DC current in the distribution network, this paper develops the design of a DC instrument transformer based on tunneling magnetoresistance. First, the hardware design scheme of the DC instrument transformer is proposed, and the working process of the instrument transformer is given. Next, the key design technology of DC instrument transformer is given in Simulink, and the power flow analysis model of the distribution network is established to simulate and verify the detection function of the instrument transformer. Finally, the designed DC instrument transformer is used for DC current detection in the Suzhou medium-low voltage DC distribution network demonstration project. The results show that the DC instrument transformer can quickly and accurately detect the amplitude of the DC current, which can strongly support the power control and dispatch of the distribution network."
     },
     {
+        "title": "RIS-aided Massive MIMO: Achieving Large Multiplexing Gains with non-Large Arrays",
+        "conferenceTitle": "WSA 2021; 25th International ITG Workshop on Smart Antennas",
+        "data": "10-12 Nov. 2021",
+        "authors": [
+            "Stefano Buzzi",
+            "Carmen D'Andrea",
+            "Giovanni Interdonato"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "This paper considers an antenna structure where a (non-large) array of radiating elements is placed at short distance in front of a reconfigurable intelligent surface (RIS). We propose a channel estimation procedure using different configurations of the RIS elements and derive a closed-form expression for an achievable downlink spectral efficiency by using the popular hardening lower-bound. Next, we formulate an optimization problem, with respect to the phase shifts of the RIS, aimed at minimizing the channels cross-correlations while preserving the channels individual norms. The numerical analysis shows that the proposed structure is capable of overcoming the performance of a conventional massive MIMO system without the RIS."
+    },
+    {
         "title": "Effect of Short-Circuit Ratio and Current Limiting on the Stability of a Virtual Synchronous Machine Type Gridforming Converter",
         "conferenceTitle": "The 17th International Conference on AC and DC Power Transmission (ACDC 2021)",
-        "Content Type": "Conferences",
-        "date": "8 July-8 Dec. 2021",
+        "data": "8 July-8 Dec. 2021",
         "authors": [
             "A. F. Darbandi",
             "A. Sinkar",
@@ -2348,10 +2274,21 @@
         "abstract": "This paper analyzes the impact of ac system strength on the stability of a virtual synchronous machine (VSM) type grid-forming converter. A grid-forming VSM without additional control loops, such as overcurrent limiting, is first considered and used as a reference for comparison with a more realistic VSM with current limiting control loops. A small-signal model of the system is developed for both cases. The models are validated by comparing their transient responses with a detailed electromagnetic transient (EMT) simulation. Subsequent analysis using the developed small-signal model shows that a VSM type grid-forming converter with current limiting capability exhibits poorer damping when the connected ac network has a high short-circuit ratio (SCR). This poor damping arises from the addition of the current control loop. The paper will show that when the current controller is absent, the SCR of the ac network has minimal impact on the stability behavior of the VSM."
     },
     {
+        "title": "Automatic Speech Recognition for Dementia Screening using ILSE-Interviews",
+        "conferenceTitle": "Speech Communication; 14th ITG Conference",
+        "data": "29 Sept.-1 Oct. 2021",
+        "authors": [
+            "Ayimnisagul Ablimit",
+            "Tanja Schultz"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "Spoken language skills are strong biomarkers for detecting cognitive decline. Studies like the Interdisciplinary Longitudinal Study of Adult Development and Aging (ILSE) are of particular interest to quantify the predictive power of biomarkers in terms of acoustic/linguistic features. ILSE consists of ca. 6500 hours of interviews and only 10% were manually transcribed. To extract linguistic features, we need to build reliable ASR to provide transcriptions. The ILSE-corpus is challenging for ASR, due to a combination of factors. In this study, we present our effort to overcome some of these challenges. We automatically segmented 45-minutes of interviews into shorter segments and time aligned. Using these segments, we developed HMMDNN based ASR and achieved 33.55% of WER. Based on this system, we recreated the time-alignments for manualtranscriptions and derived acoustic and linguistic features for classifier-training. we applied the resulting system for dementia screening and achieved UAR of 0.867 for a threeclass problem."
+    },
+    {
         "title": "Non-Coherent Multi-Resolution Broadcasting using Grassmannian Product Codebooks",
         "conferenceTitle": "WSA 2021; 25th International ITG Workshop on Smart Antennas",
-        "Content Type": "Conferences",
-        "date": "10-12 Nov. 2021",
+        "data": "10-12 Nov. 2021",
         "authors": [
             "Stefan Schwarz",
             "Bashar Tahir"
@@ -2363,8 +2300,7 @@
     {
         "title": "Research On Scrap Steel Evaluation Technology Based On Faster-RCNN",
         "conferenceTitle": "ICMLCA 2021; 2nd International Conference on Machine Learning and Computer Application",
-        "Content Type": "Conferences",
-        "date": "17-19 Dec. 2021",
+        "data": "17-19 Dec. 2021",
         "authors": [
             "Yuman Qin",
             "Wangyiyang Chen",
@@ -2380,8 +2316,7 @@
     {
         "title": "Secure energy transitions in the power sector",
         "conferenceTitle": "20th International Workshop on Large-Scale Integration of Wind Power into Power Systems as well as on Transmission Networks for Offshore Wind Power Plants (WIW 2021)",
-        "Content Type": "Conferences",
-        "date": "29-30 Sept. 2021",
+        "data": "29-30 Sept. 2021",
         "authors": [
             "K. Everhart"
         ],
@@ -2392,8 +2327,7 @@
     {
         "title": "ONLINE MONITORING OF POWER TRANSFORMERS TO IMPROVE THEIR OPERATING AND MAINTENANCE MODEL",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "M. Zouiti",
             "O. Bonnard",
@@ -2408,8 +2342,7 @@
     {
         "title": "IEC 62559-2 USE CASE TEMPLATE-BASED SMART GRID ARCHITECTURE ANALYTICS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "J. Schütz",
             "M. Clausen",
@@ -2423,8 +2356,7 @@
     {
         "title": "Quality of Information aware LoRaWAN for mobile Nodes",
         "conferenceTitle": "Mobile Communication - Technologies and Applications; 25th ITG-Symposium",
-        "Content Type": "Conferences",
-        "date": "3-4 Nov. 2021",
+        "data": "3-4 Nov. 2021",
         "authors": [
             "Thorben Iggena",
             "Anas Bin Muslim",
@@ -2438,8 +2370,7 @@
     {
         "title": "HONEYPOTS IN DIGITAL ECONOMY: AN ANALYSIS OF INTRUSION DETECTION AND PREVENTION",
         "conferenceTitle": "Competitive Advantage in the Digital Economy (CADE 2021)",
-        "Content Type": "Conferences",
-        "date": "2-3 June 2021",
+        "data": "2-3 June 2021",
         "authors": [
             "M. S. Rana",
             "M. A. Shah"
@@ -2451,8 +2382,7 @@
     {
         "title": "AVOIDING CONGESTION AND OPTIMISING GRID UTILISATION - AN ADVANCED MULTILEVEL QUOTA REALISED IN A COMPREHENSIVE SMART GRID DEMONSTRATOR",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "M. A. Frankenbach",
             "C. Exner",
@@ -2467,8 +2397,7 @@
     {
         "title": "DEMONSTRATION OF RESERVE MARKET OPERATION AND LOCAL FLEXIBILITY IN A SMART OFFICE ENVIRONMENT",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "S. Takala",
             "O. Ojala",
@@ -2483,8 +2412,7 @@
     {
         "title": "Simulación y Análisis de Fallas Eléctricas en una Microrred Aislada con Integración de Generación Fotovoltaica y Almacenamiento en Baterías [Not available in English]",
         "conferenceTitle": "2021 IEEE URUCON",
-        "Content Type": "Conferences",
-        "date": "24-26 Nov. 2021",
+        "data": "24-26 Nov. 2021",
         "authors": [
             "Rodrigo M. Schierloh",
             "José L. Godoy",
@@ -2498,8 +2426,7 @@
     {
         "title": "RIS-aided D2D Communication Design for URLLC Packet Delivery",
         "conferenceTitle": "WSA 2021; 25th International ITG Workshop on Smart Antennas",
-        "Content Type": "Conferences",
-        "date": "10-12 Nov. 2021",
+        "data": "10-12 Nov. 2021",
         "authors": [
             "Jing Cheng",
             "Chao Shen",
@@ -2513,8 +2440,7 @@
     {
         "title": "DEMAND STATISTICAL CHARACTERIZATION OF LOW VOLTAGE USERS IN ARGENTINIAN DISTRIBUTION NETWORKS FOR DISTRIBUTED GENERATION STUDIES PURPOSES",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "A. Jurado",
             "E. Vinson",
@@ -2527,8 +2453,7 @@
     {
         "title": "BUSINESS MODELS AND BARRIERS TOWARDS THE DEVELOPMENT OF LOCAL ENERGY SYSTEMS IN EUROPE: INSIGHTS FROM THE MERLON PROJECT",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "D. Papadaskalopoulos",
             "M. Woolf",
@@ -2542,8 +2467,7 @@
     {
         "title": "Fault operation of grid-forming converters with focus on system stability",
         "conferenceTitle": "11th Solar & Storage Power System Integration Workshop (SIW 2021)",
-        "Content Type": "Conferences",
-        "date": " 2021",
+        "data": " 2021",
         "authors": [
             "N. Wiese",
             "D. Duckwitz",
@@ -2558,8 +2482,7 @@
     {
         "title": "REPRESENTATIVE MODELLING OF VERY LONG HVDC CABLES",
         "conferenceTitle": "The 17th International Conference on AC and DC Power Transmission (ACDC 2021)",
-        "Content Type": "Conferences",
-        "date": "8 July-8 Dec. 2021",
+        "data": "8 July-8 Dec. 2021",
         "authors": [
             "J. Schipper",
             "S. Sim",
@@ -2573,8 +2496,7 @@
     {
         "title": "Statistical analysis of field measurement data of harmonic currents in residential distribution systems",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "Pablo Rodríguez-Pajarón",
             "Araceli Hernández",
@@ -2588,8 +2510,7 @@
     {
         "title": "Three-port impedance model and validation of VSCs for stability analysis",
         "conferenceTitle": "2021 Annual Meeting of CSEE Study Committee of HVDC and Power Electronics (HVDC 2021)",
-        "Content Type": "Conferences",
-        "date": "28-30 Dec. 2021",
+        "data": "28-30 Dec. 2021",
         "authors": [
             "H. Zong",
             "C. Zhang",
@@ -2603,8 +2524,7 @@
     {
         "title": "ALEGrO – Market Integration und System Operation Aspects of the new HVDC link between Germany and Belgium",
         "conferenceTitle": "ETG Congress 2021",
-        "Content Type": "Conferences",
-        "date": "18-19 March 2021",
+        "data": "18-19 March 2021",
         "authors": [
             "Stephan Raths",
             "Dietmar Beck",
@@ -2618,8 +2538,7 @@
     {
         "title": "ASSESSING THE OPERATION OF TYPICAL DUTCH DISTRIBUTION SYSTEMS WITH LARGE PENETRATION OF LOW-CARBON ENERGY TECHNOLOGIES",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "G. Verhoeven",
             "P. P. Vergara",
@@ -2632,8 +2551,7 @@
     {
         "title": "Speaker-conditioned Target Speaker Extraction Based on Customized LSTM Cells",
         "conferenceTitle": "Speech Communication; 14th ITG Conference",
-        "Content Type": "Conferences",
-        "date": "29 Sept.-1 Oct. 2021",
+        "data": "29 Sept.-1 Oct. 2021",
         "authors": [
             "Ragini Sinha",
             "Marvin Tammen",
@@ -2647,8 +2565,7 @@
     {
         "title": "Electro-Thermal Battery Model for Automotive Applications",
         "conferenceTitle": "PCIM Europe digital days 2021; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "3-7 May 2021",
+        "data": "3-7 May 2021",
         "authors": [
             "Yasser Ghoulam",
             "Tedjani Mesbahi",
@@ -2662,8 +2579,7 @@
     {
         "title": "Big Data And Cyber Security Issues In Smart Grids",
         "conferenceTitle": "2021 9th International Conference on Smart Grid (icSmartGrid)",
-        "Content Type": "Conferences",
-        "date": "29 June-1 July 2021",
+        "data": "29 June-1 July 2021",
         "authors": [
             "Seref Sagiroglu"
         ],
@@ -2674,8 +2590,7 @@
     {
         "title": "MULTI-DIMENSIONAL METHOD FOR ASSESSING NON-WIRES ALTERNATIVES WITHIN DISTRIBUTION SYSTEM PLANNING",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "Davis Montenegro",
             "Jason Taylor"
@@ -2687,8 +2602,7 @@
     {
         "title": "Low powered Uni-directional actuator for wireless active enteroscopy",
         "conferenceTitle": "ACTUATOR; International Conference and Exhibition on New Actuator Systems and Applications 2021",
-        "Content Type": "Conferences",
-        "date": "17-19 Feb. 2021",
+        "data": "17-19 Feb. 2021",
         "authors": [
             "Hamza Khan",
             "Alfred Cuschieri"
@@ -2700,8 +2614,7 @@
     {
         "title": "Subsynchronous Control Interaction: Real-World Events and Practical Impedance Reshaping Controls",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "X. Xie",
             "W. Liu",
@@ -2716,8 +2629,7 @@
     {
         "title": "Generators, Templates, and Code Generation for Flexible Automation of Array-Style Layouts",
         "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
-        "Content Type": "Conferences",
-        "date": "19-22 July 2021",
+        "data": "19-22 July 2021",
         "authors": [
             "Benjamin Prautsch",
             "Reimund Wittmannm",
@@ -2732,8 +2644,7 @@
     {
         "title": "CUSTOMER SEGMENTATION AND TARGETING FOR DEMAND RESPONSE IN THAILAND",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
+        "data": "20-23 Sept. 2021",
         "authors": [
             "S. Kaewchird"
         ],
@@ -2744,8 +2655,7 @@
     {
         "title": "GRID CODE FORMULATION RECOMMENDATIONS ON INVERTER-BASED GENERATION DURING ASYMMETRICAL GRID FAULTS",
         "conferenceTitle": "The 10th Renewable Power Generation Conference (RPG 2021)",
-        "Content Type": "Conferences",
-        "date": "14-15 Oct. 2021",
+        "data": "14-15 Oct. 2021",
         "authors": [
             "J. Li",
             "X. He",
@@ -2758,8 +2668,7 @@
     {
         "title": "Side-Slip Angle Estimation by Artificial Neural Networks for Vehicle Dynamics Control Applications",
         "conferenceTitle": "AmE 2021 - Automotive meets Electronics; 12th GMM-Symposium",
-        "Content Type": "Conferences",
-        "date": "10-11 March 2021",
+        "data": "10-11 March 2021",
         "authors": [
             "Philipp Maximilian Sieberg",
             "Sebastian Blume",
@@ -2772,8 +2681,7 @@
     {
         "title": "Modeling Power Supply Noise in RF SoCs",
         "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
-        "Content Type": "Conferences",
-        "date": "19-22 July 2021",
+        "data": "19-22 July 2021",
         "authors": [
             "Jonas Meier",
             "Florian Menke",
@@ -2785,114 +2693,5 @@
         "DOI": "",
         "citation": 1,
         "abstract": "With rising integration densities and design complexities, the verification effort of modern Systems-on-Chip is rising even faster. Additionally, with the shift towards digitalcentric circuits in smaller process nodes, supply noise has become a critical factor as it can degrade the performance of the remaining analog and RF components drastically. This paper provides an overview on recent advances in modeling power supply noise on block level. Considerations to transfer these approaches for simulating noise on system level are highlighted. An All-Digital PLL SoC is used as an example to showcase the insights that can be derived even when using simple models. The position and causes for spurs arising due to coupling on the power supply lines are investigated, giving designers a guideline on where to focus their optimization efforts."
-    },
-    {
-        "title": "Synchronous energy storage system with inertia capabilities for angle, voltage and frequency stabilization in power grids",
-        "conferenceTitle": "11th Solar & Storage Power System Integration Workshop (SIW 2021)",
-        "Content Type": "Conferences",
-        "date": " 2021",
-        "authors": [
-            "A. Knobloch",
-            "C. Hardt",
-            "A. Falk",
-            "T. Bülo",
-            "S. Scheurich",
-            "C. Khalfet",
-            "R. Hesse",
-            "T. Becker",
-            "R. Bhattia"
-        ],
-        "DOI": "10.1049/icp.2021.2486",
-        "citation": 1,
-        "abstract": "In future power systems voltage and frequency will mainly be formed by synchronous inverter-based power plants with advantageous capabilities compared to today's synchronous machines. This paper introduces a synchronous energy storage system solution (SESS) with grid forming capabilities for voltage, angle and frequency strength improvement in distribution and transmission networks. Configurable control modes for inertia and damping provision are presented. Application examples and performance capabilities for inertia, instantaneous fault current, power oscillation response as well as power reserve provision are shown based on simulation results and practical laboratory experiments. The challenges for accelerated grid integration of SESS are outlined as well."
-    },
-    {
-        "title": "Peak Load Regulation Compensation Based Energy Management Strategy Considering New Energy Power Output Randomness",
-        "conferenceTitle": "2021 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia)",
-        "Content Type": "Conferences",
-        "date": "18-21 July 2021",
-        "authors": [],
-        "DOI": "10.1109/ICPSAsia52756.2021.9622299",
-        "citation": 1,
-        "abstract": "Under the framework of multi-agent communication, a capacity allocation strategy that can ensure system flexibility and peak-load regulating units’ cost recovery is proposed in this paper. Firstly, the randomness of different wind power scenarios is updated by Weibull PDFs, and the ramp rate of traditional units is coupled. Furthermore, a new peak-load regulating compensation mechanism is proposed to guarantee flexibility cost. Finally, the simulation results demonstrate that the energy management strategy proposed in this article can effectively satisfy the flexibility requirements of the system and stimulate the incentive of traditional power to provide flexibility."
-    },
-    {
-        "title": "Enedis IoT smart grid solutions for more efficiency",
-        "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
-        "authors": [
-            "L. KARSENTI",
-            "R. KHELLOU"
-        ],
-        "DOI": "10.1049/icp.2021.1479",
-        "citation": 1,
-        "abstract": "Electricity demand aggregation, development of Electric Vehicle and renewable energy and active users like prosumers are already key drivers in the development of the distribution grid, which will rely on efficient digital smart grid solutions operated by innovative DSOs, such as IoT equipment and infrastructure based on advanced telecommunication technologies. In France, in order to face these challenges and answer in a cost effective way to public authorities and private stakeholders' expectations, Enedis has established a smart grid roadmap and developed smart grid solutions with two main objectives:  Modernising network management processes and infrastructure, with predictive maintenance solutions such as big data, analytics, monitoring of primary substations, and the improvement of its quality of service using new sensors, more data and smart automation. Providing assistance to electric power system stakeholders and regional territories in the French energy transition, with innovative grid connection solutions and processes/automations for facilitating the Renewable Energy Sources integration. This paper presents the impact of several innovative solutions, based on different technologies, especially the IoT, on Enedis Smart Grid Strategy. Thanks to smart metering (more than 30 million of Linky smart meters have been already deployed in mid-January 2021), other connected objects and all digital solutions Enedis is now able to know what happens on its network better and in real-time."
-    },
-    {
-        "title": "Broadband Power Line Communication and Big-Data-Analytics for Supporting Grid Operation",
-        "conferenceTitle": "ETG Congress 2021",
-        "Content Type": "Conferences",
-        "date": "18-19 March 2021",
-        "authors": [
-            "Max Bondorf",
-            "Markus Koch",
-            "Nikolai Hopfer",
-            "Markus Zdrallek",
-            "Christoph Balada",
-            "Sheraz Ahmed",
-            "Stefan Agne",
-            "Andreas Dengel",
-            "Fabian Karl",
-            "Ulrik Dietzler",
-            "Markus Krampf"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "One possibility of implementing information and communication technology as part of the advancing grid automation of low-voltage energy supply network is the broadband power line communication. In a field test, broadband power line modems were installed in secondary substations and cable distribution cabinets. Beside communication tasks, secondary benefits of the broadband power line communication that are associated with both a cost- and a time-saving potential for distribution system operators can be investigated. Two use cases resulted during the field test: the detection and localization of fuse failures and of interference sources. Since even the amount of data collected during the field test is not suitable for an efficient application of traditional algorithms, big data related approaches become inevitable. Therefore, to enable uses of the collected data for operational deployment, a cluster learning scheme is proposed to translate the data into a low dimensional space. Furthermore, a novel helix diagram is proposed to refine and visualize the data insights in a descriptive way."
-    },
-    {
-        "title": "HARMONIC CORRELATIONS MATRICES TO PRESENT MEASUREMENT RESULTS FROM SINGLE AND MULTIPLE LOCATIONS",
-        "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
-        "Content Type": "Conferences",
-        "date": "20-23 Sept. 2021",
-        "authors": [
-            "N. Nakhodchi",
-            "M. H. J. Bollen"
-        ],
-        "DOI": "10.1049/icp.2021.1821",
-        "citation": 1,
-        "abstract": "This paper presents results of harmonic voltage measurements at multiple locations in a low voltage network. Measurements were performed in different residential, industrial and commercial urban areas in the north of Sweden. This paper shows existing level of individual harmonics in these locations as a sample of an urban load and compares the harmonic variation between these points. The results showed during this period, characteristic harmonics are well below the standard limits. Correlation matrix is used for investigating possible correlation between individual harmonic orders in this urban area. It is observed that there is a significant correlation between 5th, 7th and 11th harmonic levels of low voltage customers connected to a common 10- kV network."
-    },
-    {
-        "title": "Speeding Up Permutation Invariant Training for Source Separation",
-        "conferenceTitle": "Speech Communication; 14th ITG Conference",
-        "Content Type": "Conferences",
-        "date": "29 Sept.-1 Oct. 2021",
-        "authors": [
-            "Thilo von Neumann",
-            "Christoph Boeddeker",
-            "Keisuke Kinoshita",
-            "Marc Delcroix",
-            "Reinhold Haeb-Umbach"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "Permutation invariant training (PIT) is a widely used training criterion for neural network-based source separation, used for both utterance-level separation with utterance-level PIT (uPIT) and separation of long recordings with the recently proposed Graph-PIT. When implemented naively, both suffer from an exponential complexity in the number of utterances to separate, rendering them unusable for large numbers of speakers or long realistic recordings. We present a decomposition of the PIT criterion into the computation of a matrix and a strictly monotonously increasing function so that the permutation or assignment problem can be solved efficiently with several search algorithms. The Hungarian algorithm can be used for uPIT and we introduce various algorithms for the Graph-PIT assignment problem to reduce the complexity to be polynomial in the number of utterances."
-    },
-    {
-        "title": "Experimental testing of a wind power plant with IEC 61400-27 models for voltage regulation service in Italy",
-        "conferenceTitle": "20th International Workshop on Large-Scale Integration of Wind Power into Power Systems as well as on Transmission Networks for Offshore Wind Power Plants (WIW 2021)",
-        "Content Type": "Conferences",
-        "date": "29-30 Sept. 2021",
-        "authors": [
-            "R. Musca",
-            "G. Zizzo",
-            "V. Cascio",
-            "E. Festuccia"
-        ],
-        "DOI": "10.1049/icp.2021.2645",
-        "citation": 1,
-        "abstract": "System operators specify different grid services which can be potentially provided by generation units based on renewable energy sources as wind power plants. Those services concern different aspects of system operation and they are defined with specific remuneration schemes. The generation plant aiming to get the remuneration for a given service must fulfill the requirements imposed for that service by the system operator. The paper presents modeling and tuning of an existing wind power plant in Italy for the participation of the wind plant in a voltage regulation service published by the Italian system operator Terna. The wind power plant is composed by 22 2-MW wind turbines and it is modeled for dynamic simulation as Type 3 according to the IEC 61400-27-1 Edition 2 Standard. The model is validated against field measurements obtained by the SCADA system of the wind plant for a reactive power reference step. In order to match the experimental data and overcome the problem of some unknown control parameters, a parameter identification and tuning for the plant controllers is first performed. The validated model is then used to provide a proper parameters adjustment for the compliance of the wind power plant to the voltage regulation service indicated by the system operator."
     }
 ]

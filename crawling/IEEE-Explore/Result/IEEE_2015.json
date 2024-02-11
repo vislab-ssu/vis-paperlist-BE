@@ -2,8 +2,7 @@
     {
         "title": "ICS threats",
         "conferenceTitle": "Cyber Security for Industrial Control Systems",
-        "Content Type": "Conferences",
-        "date": "2-3 Feb. 2015",
+        "data": "2-3 Feb. 2015",
         "authors": [
             "Andrey Nikishin"
         ],
@@ -14,8 +13,7 @@
     {
         "title": "Managing cyber risk in industrial control systems - workshop",
         "conferenceTitle": "Cyber Security for Industrial Control Systems",
-        "Content Type": "Conferences",
-        "date": "2-3 Feb. 2015",
+        "data": "2-3 Feb. 2015",
         "authors": [
             "Simon Oxley"
         ],
@@ -26,8 +24,7 @@
     {
         "title": "A new ultra-fast HVDC Circuit breaker for meshed DC networks",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "C. C. Davidson",
             "R. S. Whitehouse",
@@ -36,14 +33,13 @@
             "W. Grieshaber"
         ],
         "DOI": "10.1049/cp.2015.0021",
-        "citation": 77,
+        "citation": 78,
         "abstract": "One of the major challenges of realising a Multi-Terminal DC grid has been the lack of a suitable HVDC Breaker. Previous designs of HVDC breaker were either too slow to be suitable for interrupting fast-rising fault currents or had conduction losses too high for economically viable operation on a grid. However, the new class of \"hybrid\" DC circuit breakers has fundamentally changed this position, with the potential of interrupting fault currents in a few milliseconds with negligible steady-state power losses. As part of the EU-funded \"Twenties\" project, Alstom Grid has built and tested a 120kV prototype DC breaker. The design of the breaker and the results obtained during testing are described in the paper."
     },
     {
         "title": "Robust RGB-D Odometry Using Point and Line Features",
         "conferenceTitle": "2015 IEEE International Conference on Computer Vision (ICCV)",
-        "Content Type": "Conferences",
-        "date": "7-13 Dec. 2015",
+        "data": "7-13 Dec. 2015",
         "authors": [
             "Yan Lu",
             "Dezhen Song"
@@ -55,8 +51,7 @@
     {
         "title": "MVDC - The New Technology for Distribution Networks",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Graeme Bathurst",
             "George Hwang",
@@ -69,8 +64,7 @@
     {
         "title": "DC/DC Converters Based on Hybrid MMC for HVDC Grid Interconnection",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Rong Zeng",
             "Lie Xu",
@@ -83,8 +77,7 @@
     {
         "title": "Extended stability range of weak grids with Voltage Source Converters through impedance-conditioned grid synchronization",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "J. A. Suul",
             "S. D'Arco",
@@ -96,10 +89,23 @@
         "abstract": "The stability range of power transfer in high impedance, weak, grids with Voltage Source Converters (VSC) can be extended a simple modification of the conventional Synchronous Reference Frame Phase Locked Loop (PLL) used for grid synchronization. By introducing an impedance-conditioning term in the voltage used by the PLL, the VSC control system is virtually synchronized to the voltage at a stronger point in the grid. By synchronization to the voltage behind the corresponding virtual impedance, the proposed approach can be utilized to influence the reactive power flow of the VSC in a way that will inherently enhance the power transfer capability of the high-impedance grid. To verify the impact of the proposed approach, an analytical model of a VSC HVDC terminal is used to calculate the achievable steady-state power transfer capability, as well as the range where small-signal stability is ensured, in a grid with low SCR when applying different levels of virtual impedance in the grid synchronization. The validity of the stability assessment based on the analytical model, and the increased stability range achieved with the proposed impedance-conditioned PLL, are also verified by time-domain simulations in the Matlab/Simulink environment."
     },
     {
+        "title": "Optimal Network Function Virtualization Realizing End-to-End Requests",
+        "conferenceTitle": "2015 IEEE Global Communications Conference (GLOBECOM)",
+        "data": "6-10 Dec. 2015",
+        "authors": [
+            "Tachun Lin",
+            "Zhili Zhou",
+            "Massimo Tornatore",
+            "Biswanath Mukherjee"
+        ],
+        "DOI": "10.1109/GLOCOM.2015.7417447",
+        "citation": 23,
+        "abstract": "Network function virtualization provides a new network resource utilization approach which decouples network functions from proprietary hardware and enables adaptive services to end-user requests. In this paper, we present a joint design which optimally deploys network functions and allocates physical resources satisfying end-to-end requests with generated routes. We first discuss the problem behind such design and show its NP-completeness. We then propose a mixed-integer program which simultaneously identifies physical nodes to be deployed with network functions and generates routes sharing common physical resources realizing end-to-end requests. Computational results demonstrate the value of the integrated approach and its ability to allocate network functions supporting end-to-end requests with limited physical resources."
+    },
+    {
         "title": "Linking Past to Present: Discovering Style in Two Centuries of Architecture",
         "conferenceTitle": "2015 IEEE International Conference on Computational Photography (ICCP)",
-        "Content Type": "Conferences",
-        "date": "24-26 April 2015",
+        "data": "24-26 April 2015",
         "authors": [
             "Stefan Lee",
             "Nicolas Maisonneuve",
@@ -114,8 +120,7 @@
     {
         "title": "Multi-terminal VSC-HVDC Pole-to-pole Fault Analysis and Fault Recovery Study",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "B. Chang",
             "O. Cwikowski",
@@ -127,25 +132,9 @@
         "abstract": "Voltage-Sourced Converter (VSC) HVDC is attracting significant attention as the UK tries to meet its renewable energy targets. However, compared with the traditional Current-Sourced Converter (CSC) HVDC, VSC-HVDC is more vulnerable to DC faults due to the lower DC side impedances and more sensitive power electronics used in its construction. This paper investigates the equivalent two-level converter system response under a pole-to-pole fault. A three-terminal VSC-HVDC system is developed in PSCAD/EMTDC to evaluate the system fault response and to verify theoretical analysis. Based on the results, it is found that the AC grid will initially contribute relatively little to the DC fault current seen by the DC side circuit breakers during a pole-to-pole fault. The converter fault recovery strategy has also been studied in this paper. It is found that after successful operation of the hybrid DC circuit breaker, with the aid of bump-less transfer control, the DC system has a good voltage recovery response. The contribution of this paper is that it gives an improved understanding of the system response and offers some guidance for the design of DC protection systems."
     },
     {
-        "title": "Optimal Network Function Virtualization Realizing End-to-End Requests",
-        "conferenceTitle": "2015 IEEE Global Communications Conference (GLOBECOM)",
-        "Content Type": "Conferences",
-        "date": "6-10 Dec. 2015",
-        "authors": [
-            "Tachun Lin",
-            "Zhili Zhou",
-            "Massimo Tornatore",
-            "Biswanath Mukherjee"
-        ],
-        "DOI": "10.1109/GLOCOM.2015.7417447",
-        "citation": 22,
-        "abstract": "Network function virtualization provides a new network resource utilization approach which decouples network functions from proprietary hardware and enables adaptive services to end-user requests. In this paper, we present a joint design which optimally deploys network functions and allocates physical resources satisfying end-to-end requests with generated routes. We first discuss the problem behind such design and show its NP-completeness. We then propose a mixed-integer program which simultaneously identifies physical nodes to be deployed with network functions and generates routes sharing common physical resources realizing end-to-end requests. Computational results demonstrate the value of the integrated approach and its ability to allocate network functions supporting end-to-end requests with limited physical resources."
-    },
-    {
         "title": "Zero phase sequence voltage injection for the alternate arm converter",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "F. J. Moreno",
             "M. M. C. Merlin",
@@ -160,8 +149,7 @@
     {
         "title": "Magnetic satellite detumbling: The b-dot algorithm revisited",
         "conferenceTitle": "2015 American Control Conference (ACC)",
-        "Content Type": "Conferences",
-        "date": "1-3 July 2015",
+        "data": "1-3 July 2015",
         "authors": [
             "Marco Lovera"
         ],
@@ -172,8 +160,7 @@
     {
         "title": "Second-order counterexample to the discrete-time Kalman conjecture",
         "conferenceTitle": "2015 European Control Conference (ECC)",
-        "Content Type": "Conferences",
-        "date": "15-17 July 2015",
+        "data": "15-17 July 2015",
         "authors": [
             "Joaquin Carrasco",
             "William P. Heath",
@@ -186,8 +173,7 @@
     {
         "title": "Determination of DC Short-Circuit Currents of MMC-HVDC Converters for DC Circuit Breaker Dimensioning",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "A. Wasserrab",
             "G. Balzer"
@@ -199,8 +185,7 @@
     {
         "title": "The Parallel Improved Apriori Algorithm Research Based on Spark",
         "conferenceTitle": "2015 Ninth International Conference on Frontier of Computer Science and Technology",
-        "Content Type": "Conferences",
-        "date": "26-28 Aug. 2015",
+        "data": "26-28 Aug. 2015",
         "authors": [
             "Shaosong Yang",
             "Guoyan Xu",
@@ -214,8 +199,7 @@
     {
         "title": "Potentials of Using One-Class SVM for Detecting Protocol-Specific Anomalies in Industrial Networks",
         "conferenceTitle": "2015 IEEE Symposium Series on Computational Intelligence",
-        "Content Type": "Conferences",
-        "date": "7-10 Dec. 2015",
+        "data": "7-10 Dec. 2015",
         "authors": [
             "Franka Schuster",
             "Andreas Paul",
@@ -229,8 +213,7 @@
     {
         "title": "Switched capacitor DC-DC converters for HVDC applications",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "H. Taghizadeh",
             "A.M. Cross",
@@ -244,8 +227,7 @@
     {
         "title": "Synthesis of different types of energy based controllers for a Modular Multilevel Converter integrated in an HVDC link",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "S. Samimi",
             "F. Gruson",
@@ -259,8 +241,7 @@
     {
         "title": "Capability curves of a VSC-HVDC connected to a weak AC grid considering stability and power limits",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Agustí Egea-Alvarez",
             "Carl Barker",
@@ -274,8 +255,7 @@
     {
         "title": "Frequency support among asynchronous AC systems through VSCs emulating power plants",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "L. Papangelis",
             "X. Guillaud",
@@ -288,8 +268,7 @@
     {
         "title": "Low Frequency AC Transmission - Elements of a Design for Wind Farm Connection",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "P. B. Wyllie",
             "Y. Tang",
@@ -304,8 +283,7 @@
     {
         "title": "Comparison of Different Technologies for Improving Commutation Failure Immunity Index for LCC HVDC in Weak AC Systems",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "J. Burr",
             "S. Finney",
@@ -318,8 +296,7 @@
     {
         "title": "Dynamic thermal rating of a Modular Multilevel Converter HVDC link with overload capacity",
         "conferenceTitle": "2015 IEEE Eindhoven PowerTech",
-        "Content Type": "Conferences",
-        "date": "29 June-2 July 2015",
+        "data": "29 June-2 July 2015",
         "authors": [
             "Paul D. Judge",
             "Timothy C. Green"
@@ -331,8 +308,7 @@
     {
         "title": "Fault Current Testing Envelopes for VSC HVDC Circuit Breakers",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "O. Cwikowski",
             "B. Chang",
@@ -347,8 +323,7 @@
     {
         "title": "Var control considerations for the design of hybrid distribution transformers",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Mohammed A. Radi",
             "Mohamed Darwish"
@@ -360,8 +335,7 @@
     {
         "title": "Artificial complex neurons with half-plane-like and angle-like activation function",
         "conferenceTitle": "2015 Xth International Scientific and Technical Conference \"Computer Sciences and Information Technologies\" (CSIT)",
-        "Content Type": "Conferences",
-        "date": "14-17 Sept. 2015",
+        "data": "14-17 Sept. 2015",
         "authors": [
             "Vladyslav Kotsovsky",
             "Fedir Geche",
@@ -374,8 +348,7 @@
     {
         "title": "Optimum SHE for Cascaded H-Bridge Multilevel Inverters Using: NR-GA-PSO, Comparative Study",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Basem Alamri",
             "Abdulhafid Sallama",
@@ -388,8 +361,7 @@
     {
         "title": "Segmentation of plant disease spots using automatic SRG algorithm: a look up table approach",
         "conferenceTitle": "2015 International Conference on Advances in Computer Engineering and Applications",
-        "Content Type": "Conferences",
-        "date": "19-20 March 2015",
+        "data": "19-20 March 2015",
         "authors": [
             "Rajat Kanti Sarkar",
             "Ankita Pramanik"
@@ -401,8 +373,7 @@
     {
         "title": "Automatic OpenCL Code Generation for Multi-device Heterogeneous Architectures",
         "conferenceTitle": "2015 44th International Conference on Parallel Processing",
-        "Content Type": "Conferences",
-        "date": "1-4 Sept. 2015",
+        "data": "1-4 Sept. 2015",
         "authors": [
             "Pei Li",
             "Elisabeth Brunet",
@@ -418,8 +389,7 @@
     {
         "title": "Color Image Stegananalysis Using Correlations between RGB Channels",
         "conferenceTitle": "2015 10th International Conference on Availability, Reliability and Security",
-        "Content Type": "Conferences",
-        "date": "24-27 Aug. 2015",
+        "data": "24-27 Aug. 2015",
         "authors": [
             "Hasan Abdulrahman",
             "Marc Chaumont",
@@ -431,24 +401,9 @@
         "abstract": "Digital images, especially color images, are very widely used, as well as traded via Internet, e-mail and posting on websites. Images have a large size which allows embedding secret messages of large size, so they are a good medium for digital steganography. The main goal of steganalysis is to detect the presence of hidden messages in digital media. In this paper, we propose a steganalysis method based on color feature correlation and machine learning classification. Fusing features with features obtained from color-rich models allows to increase the detect ability of hidden messages in the color images. Our novel proposition uses the correlation between different channels of color images. Features are extracted from the channel correlation and co-occurrence correlation. In this work, all stego images are created with a range of different payload sizes using two steganography S-UNIWARD and WOW algorithms. To validate the proposed method, his efficiency is demonstrated by comparison with color rich model steg analysis."
     },
     {
-        "title": "Communication-less fault detection in radial multi-terminal offshore HVDC grids",
-        "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
-        "authors": [
-            "J. I. Marvik",
-            "S. D'Arco",
-            "J. A. Suul"
-        ],
-        "DOI": "10.1049/cp.2015.0050",
-        "citation": 9,
-        "abstract": "The realization of multi-terminal HVDC grids requires availability of adequate fault handling methods. This includes techniques for fault detection and location, and dc-breakers for faults clearing. The characteristics and consequences of dc-side faults are very different compared to ac-system faults, and conventional ac-protection methods are not necessarily suited in HVDC grids. This paper presents a study on fault detection in radial offshore HVDC grids, with emphasis on the identification of suitable fault detection criteria based on local measurements, referred to as markers. For selection of the best suited marker, four different requirements have been applied; dependability, speed, security and selectivity. This implies that all relevant dc-faults must be detected as fast as possible, and no other transient events should be detected as faults. In addition it must be possible to identify the faulted section/cable for all relevant faults based on local measurements, to allow for selective disconnection. The work is based on simulations of a radial three-terminal VSC HVDC system in PSCAD."
-    },
-    {
         "title": "Information and energy cooperation in OFDM relaying",
         "conferenceTitle": "2015 IEEE International Conference on Communications (ICC)",
-        "Content Type": "Conferences",
-        "date": "8-12 June 2015",
+        "data": "8-12 June 2015",
         "authors": [
             "Yuan Liu",
             "Xiaodong Wang"
@@ -460,8 +415,7 @@
     {
         "title": "Application of DTN to the Vehicle Sensor Platform CoMoSE",
         "conferenceTitle": "2015 IEEE 29th International Conference on Advanced Information Networking and Applications Workshops",
-        "Content Type": "Conferences",
-        "date": "24-27 March 2015",
+        "data": "24-27 March 2015",
         "authors": [
             "Go Hirakawa",
             "Noriki Uchida",
@@ -475,8 +429,7 @@
     {
         "title": "Modular input-parallel-output-series DC/DC converter control with fault detection and redundancy",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Yiqing Lian",
             "D. Holliday",
@@ -489,8 +442,7 @@
     {
         "title": "Experience report: How do bug characteristics differ across severity classes: A multi-platform study",
         "conferenceTitle": "2015 IEEE 26th International Symposium on Software Reliability Engineering (ISSRE)",
-        "Content Type": "Conferences",
-        "date": "2-5 Nov. 2015",
+        "data": "2-5 Nov. 2015",
         "authors": [
             "Bo Zhou",
             "Iulian Neamtiu",
@@ -503,8 +455,7 @@
     {
         "title": "Adaptive output-feedback consensus protocol design for linear multi-agent systems with directed graphs",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Yuezu Lv",
             "Zhongkui Li",
@@ -515,10 +466,22 @@
         "abstract": "This paper addresses the output feedback consensus protocol design problem for general linear multi-agent systems with directed communication graphs. By proposing a new method called adding an extra observer, two novel adaptive output feedback consensus protocols are proposed to achieve consensus for any strongly connected directed graph. The proposed adaptive output feedback protocols are fully distributed, relying on only the agent dynamics and the local output information of neighboring agents. A sufficient condition for the existence of the proposed adaptive protocols is that each agent is stabilizable and detectable."
     },
     {
+        "title": "Communication-less fault detection in radial multi-terminal offshore HVDC grids",
+        "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
+        "data": "10-12 Feb. 2015",
+        "authors": [
+            "J. I. Marvik",
+            "S. D'Arco",
+            "J. A. Suul"
+        ],
+        "DOI": "10.1049/cp.2015.0050",
+        "citation": 8,
+        "abstract": "The realization of multi-terminal HVDC grids requires availability of adequate fault handling methods. This includes techniques for fault detection and location, and dc-breakers for faults clearing. The characteristics and consequences of dc-side faults are very different compared to ac-system faults, and conventional ac-protection methods are not necessarily suited in HVDC grids. This paper presents a study on fault detection in radial offshore HVDC grids, with emphasis on the identification of suitable fault detection criteria based on local measurements, referred to as markers. For selection of the best suited marker, four different requirements have been applied; dependability, speed, security and selectivity. This implies that all relevant dc-faults must be detected as fast as possible, and no other transient events should be detected as faults. In addition it must be possible to identify the faulted section/cable for all relevant faults based on local measurements, to allow for selective disconnection. The work is based on simulations of a radial three-terminal VSC HVDC system in PSCAD."
+    },
+    {
         "title": "Big data: Scale down, scale up, scale out",
         "conferenceTitle": "2015 IEEE International Parallel and Distributed Processing Symposium",
-        "Content Type": "Conferences",
-        "date": "25-29 May 2015",
+        "data": "25-29 May 2015",
         "authors": [
             "Phillip B. Gibbons"
         ],
@@ -529,8 +492,7 @@
     {
         "title": "Using Cultural Algorithms to Improve Wearable Device Gesture Recognition Performance",
         "conferenceTitle": "2015 IEEE Symposium Series on Computational Intelligence",
-        "Content Type": "Conferences",
-        "date": "7-10 Dec. 2015",
+        "data": "7-10 Dec. 2015",
         "authors": [
             "Faisal Waris",
             "Robert G. Reynolds"
@@ -542,8 +504,7 @@
     {
         "title": "Modelling and control of wireless networked control systems: A fixed structure approach",
         "conferenceTitle": "2015 IEEE Conference on Control Applications (CCA)",
-        "Content Type": "Conferences",
-        "date": "21-23 Sept. 2015",
+        "data": "21-23 Sept. 2015",
         "authors": [
             "Ahmad W. Al-Dabbagh",
             "Tongwen Chen"
@@ -555,8 +516,7 @@
     {
         "title": "Wedge: A musical interface for building and playing composition-appropriate immersive environments",
         "conferenceTitle": "2015 IEEE Symposium on 3D User Interfaces (3DUI)",
-        "Content Type": "Conferences",
-        "date": "23-24 March 2015",
+        "data": "23-24 March 2015",
         "authors": [
             "Alec G. Moore",
             "Michael J. Howell",
@@ -571,8 +531,7 @@
     {
         "title": "Impact of DFIG Based Offshore Wind Farms Connected Through VSC-HVDC Link on Power System Stability",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Mohamed Edrah",
             "Kwok L. Lo",
@@ -586,8 +545,7 @@
     {
         "title": "Weather station with cellular communication network",
         "conferenceTitle": "2015 XVI Workshop on Information Processing and Control (RPIC)",
-        "Content Type": "Conferences",
-        "date": "6-9 Oct. 2015",
+        "data": "6-9 Oct. 2015",
         "authors": [
             "Andres Lage",
             "Juan Carlos Correa"
@@ -599,8 +557,7 @@
     {
         "title": "L2 registration for colour transfer",
         "conferenceTitle": "2015 23rd European Signal Processing Conference (EUSIPCO)",
-        "Content Type": "Conferences",
-        "date": "31 Aug.-4 Sept. 2015",
+        "data": "31 Aug.-4 Sept. 2015",
         "authors": [
             "Mairead Grogan",
             "Mukta Prasad",
@@ -611,10 +568,24 @@
         "abstract": "This paper proposes to perform colour transfer by minimising a divergence (the L2 distance) between two colour distributions. We propose to model each dataset by a compact Gaussian mixture which is designed for the specific purpose of colour transfer between images which have different scene content. A non rigid transformation is estimated by minimising the Euclidean distance (L2) between these two distributions and the estimated transformation is used for transfering colour statistics from one image to another. Experimental results show that this is a very promising approach for transferring colour and it performs very well against an alternative reference approach. "
     },
     {
+        "title": "Parametric analysis of the stability of VSC-HVDC converters",
+        "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
+        "data": "10-12 Feb. 2015",
+        "authors": [
+            "Hui Ding",
+            "Shengtao Fan",
+            "Jenny Z. Zhou",
+            "Yi Zhang",
+            "Aniruddha M. Gole"
+        ],
+        "DOI": "10.1049/cp.2015.0002",
+        "citation": 7,
+        "abstract": "This paper proposes a reduced order mathematical model for the VSC converter and its controls by linearizing the combined set of equations of the power system and controller. The reduced order model can preserve the unstable characteristic of the VSC system and provide an explicit mathematical expression for the system eigenvalues. This analytical formula can directly reveal by simple inspection relationships between the system stability and system parameters. Results show that small signal stability of the system is significantly affected by the ac system strength (SCR) and the Phased Locked Loop (PLL) parameters. Also, small signal stability is more sensitive to the ac voltage controller's gain than to the power controller gains. Compared with the previous developed full order model, the reduced order model can give more insights and constructive suggestions how to adjust the parameters of the control system of VSC. In particular, it is shown that by increasing the value of the voltage controller's integral gain the system can be made to operate at an SCR which is very close to the theoretical minimum SCR limit."
+    },
+    {
         "title": "Frequency control capability of VSC-HVDC transmission system",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "A.S. Elansari",
             "S.J. Finney",
@@ -626,10 +597,20 @@
         "abstract": "High voltage direct current (HVDC) systems have been used as an effective solution to transmit power over long distances. Performance of HVDC systems has significantly improved with the emergence of voltage source converter based HVDC (VSC-HVDC). Increased controllability provides independent control of active and reactive power which facilitates controlling of voltage and frequency. This paper investigates the frequency control capability of VSC-HVDC to determine the improvement extent that VSC HVDC systems provide for the frequency recovery and system inertia. Two frequency control strategies using dc voltage and active power outer loops are investigated. The analysis is carried out using a time domain simulator, where the tie line in the Kundur test system is replaced by VSC-HVDC. Simulation results have shown that frequency control capability of VSC-HVDC dramatically improves the frequency performance, especially in isolated power systems."
     },
     {
+        "title": "The tactile internet IoT, 5G and cloud on steroids",
+        "conferenceTitle": "5G Radio Technology Seminar. Exploring Technical Challenges in the Emerging 5G Ecosystem",
+        "data": "17-17 March 2015",
+        "authors": [
+            "Mischa Dohler"
+        ],
+        "DOI": "10.1049/ic.2015.0029",
+        "citation": 7,
+        "abstract": "Present a collection of slides covering the following topics: tactile Internet; Internet of Things; end-to-end system; access reliability; access delay; and 5G."
+    },
+    {
         "title": "Towards the Tactile Internet: Decreasing Communication Latency with Network Coding and Software Defined Networking",
         "conferenceTitle": "Proceedings of European Wireless 2015; 21th European Wireless Conference",
-        "Content Type": "Conferences",
-        "date": "20-22 May 2015",
+        "data": "20-22 May 2015",
         "authors": [
             "David Szabo",
             "Andras Gulyas",
@@ -643,8 +624,7 @@
     {
         "title": "Current Source Converter series tapping of a LCC-HVDC transmission system for integration of offshore wind power plants",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "J. Sau-Bassols",
             "A. Egea-Alvarez",
@@ -656,10 +636,20 @@
         "abstract": "When using HVDC there are two available commercial possibilities: Transmissions based on Line Commutated Converters (LCC) and based on Voltage Source Converters (VSC). VSC-HVDC is more suitable for creating offshore grids. Despite this fact, many LCC transmission systems are in operation across the sea interconnecting mainlands or islands. This work addresses the concept of connecting wind power plants in series with an LCC-HVDC transmission link already built by means of a self-commutating Current Source Converter (CSC). The idea is similar to series tapping stations which can extract power form the HVDC link. Nevertheless, a CSC can act as a rectifier or inverter, so power reversal is available and has the same advantages of a VSC. The coupling between LCC stations and the CSC is straightforward since both topologies are current source converters. The control and operation of the system under normal conditions is presented and verified by means of simulations using MATLAB Simulink."
     },
     {
+        "title": "Optimal Steady-State Operation of a MTDC system based on DC-Independent System Operator Objectives",
+        "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
+        "data": "10-12 Feb. 2015",
+        "authors": [
+            "F. Gonzalez-Longatt"
+        ],
+        "DOI": "10.1049/cp.2015.0031",
+        "citation": 6,
+        "abstract": "This paper introduces the new concept of DC Independent System Operator, DC-ISO. The DC-ISO will be responsible for ensuring the reliability and security of the MTDC system in real-time and co-ordinate the supply of and demand for electricity, in a manner that avoids violations of technical and economic standards. A methodology for an optimal steady-state operation of a MTDC system based on DC-ISO objectives has been presented in this paper. This paper proposes the use of a type linear equality constraints based on nodal analysis to include DC-ISO operational mode to the OPF. Proposed methodology has been demonstrated and tested with a 7-node HVDC system, and results show the compromise in solutions to cope with OPF."
+    },
+    {
         "title": "Power loss analysis of a single-switch non-isolated DC/DC converter",
         "conferenceTitle": "2015 IEEE 11th International Conference on Power Electronics and Drive Systems",
-        "Content Type": "Conferences",
-        "date": "9-12 June 2015",
+        "data": "9-12 June 2015",
         "authors": [
             "Le An",
             "Dylan Dah-Chuan Lu"
@@ -669,10 +659,21 @@
         "abstract": "A power loss model of a single-switch non-isolated dc/dc converter is developed in this paper. The converter is formed by combining a buck converter with a buck-boost converter. It can be used in a stand-alone photovoltaic (PV)-battery powered pump system. With only a single transistor, the converter is able to efficiently perform three tasks simultaneously, namely, maximum power point tracking (MPPT), battery charging and driving the pump at constant flow rate. The conduction and switching losses of each individual components of the converter and the inductor core loss are calculated and analyzed when the two inductors operate in different modes. The analysis shows that the output stage inductor and power diode are the major contributors to the total power loss. A 14W laboratory prototype converter is built and the experimental results are compared with the model analysis."
     },
     {
+        "title": "Impact of controller parameters on stability of MMC-based HVDC systems for offshore wind farms",
+        "conferenceTitle": "International Conference on Renewable Power Generation (RPG 2015)",
+        "data": "17-18 Oct. 2015",
+        "authors": [
+            "Jing Lyu",
+            "Xu Cai"
+        ],
+        "DOI": "10.1049/cp.2015.0441",
+        "citation": 6,
+        "abstract": "The resonance or instability phenomena can happen due to the impedance interactions between the modular multilevel converter (MMC) and the wind power inverter in an MMC-HVDC system connected with offshore wind farms which consist of full-power converters. To analyse the stability of the interconnected system, the impedance-based Nyquist stability analysis method is employed. The analytical ac-side small-signal impedance model of a three-phase MMC is first developed in this paper. The analytical impedance model is verified by means of injecting a small perturbation voltage/current signal in a nonlinear time-domain simulation model. The impacts of the controller parameters on the stability of the interconnected system are then examined by using frequency-domain analysis approach, which can offer guidance for controller parameters design. Finally, the time-domain simulation results validate the theoretical analysis."
+    },
+    {
         "title": "Design and modelling of graphene based attenuator",
         "conferenceTitle": "Graphene-Based Technologies",
-        "Content Type": "Conferences",
-        "date": "20-20 Feb. 2015",
+        "data": "20-20 Feb. 2015",
         "authors": [
             "Ting Leng",
             "Xianjun Huang",
@@ -686,8 +687,7 @@
     {
         "title": "Rationalization of DC Power Transfer Limits for VSC Transmission",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Jenny Z. Zhou",
             "Aniruddha M. Gole"
@@ -699,8 +699,7 @@
     {
         "title": "Adaptive leader-following consensus of nonlinear multi-agent systems with jointly connected topology",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Kairui Chen",
             "Junwei Wang",
@@ -713,8 +712,7 @@
     {
         "title": "Reliability and availability model of offshore and onshore VSC-HVDC transmission systems",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Bertz Tourgoutian",
             "Alexander Yanushkevich",
@@ -727,8 +725,7 @@
     {
         "title": "Active thermal management for a single-phase H-Bridge inverter employing switching frequency control",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Markus Andresen",
             "Giampaolo Buticchi",
@@ -743,8 +740,7 @@
     {
         "title": "Global asymptotic stability for a class of discrete-time systems",
         "conferenceTitle": "2015 European Control Conference (ECC)",
-        "Content Type": "Conferences",
-        "date": "15-17 July 2015",
+        "data": "15-17 July 2015",
         "authors": [
             "William P. Heath",
             "Joaquin Carrasco"
@@ -754,22 +750,9 @@
         "abstract": "We consider a class of discrete-time systems with saturation previously discussed in the literature. The class may also be represented as a Lurye system. We give a simple necessary and sufficient condition for its global asymptotic stability. The proof uses both classical multiplier theory and Lyapunov theory."
     },
     {
-        "title": "The tactile internet IoT, 5G and cloud on steroids",
-        "conferenceTitle": "5G Radio Technology Seminar. Exploring Technical Challenges in the Emerging 5G Ecosystem",
-        "Content Type": "Conferences",
-        "date": "17-17 March 2015",
-        "authors": [
-            "Mischa Dohler"
-        ],
-        "DOI": "10.1049/ic.2015.0029",
-        "citation": 6,
-        "abstract": "Present a collection of slides covering the following topics: tactile Internet; Internet of Things; end-to-end system; access reliability; access delay; and 5G."
-    },
-    {
         "title": "Design and implementation of a motor control module based on PWM and FPGA for the development of a UAV flight controller",
         "conferenceTitle": "2015 CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON)",
-        "Content Type": "Conferences",
-        "date": "28-30 Oct. 2015",
+        "data": "28-30 Oct. 2015",
         "authors": [
             "Noé Monterrosa",
             "Carlos Bran"
@@ -781,8 +764,7 @@
     {
         "title": "Rapid sequence identification of potential pathogens using techniques from sparse linear algebra",
         "conferenceTitle": "2015 IEEE International Symposium on Technologies for Homeland Security (HST)",
-        "Content Type": "Conferences",
-        "date": "14-16 April 2015",
+        "data": "14-16 April 2015",
         "authors": [
             "Stephanie Dodson",
             "Darrell O. Ricke",
@@ -797,8 +779,7 @@
     {
         "title": "Control of a hybrid modular multilevel converter during grid voltage unbalance",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "E. K. Amankwah",
             "A. J. Watson",
@@ -812,8 +793,7 @@
     {
         "title": "Adaptive model-based event-triggered control for linear systems",
         "conferenceTitle": "2015 34th Chinese Control Conference (CCC)",
-        "Content Type": "Conferences",
-        "date": "28-30 July 2015",
+        "data": "28-30 July 2015",
         "authors": [
             "Hao Yu",
             "Fei Hao"
@@ -823,35 +803,9 @@
         "abstract": "This paper investigates the problem to design the adaptive model-based event-triggered control for linear systems. To deal with the parameter differences between the plant and the model, an adaptation mechanism is introduced to the model-based event-triggered control systems. Based on the separation property of model-based event-triggered control, the problem is divided into two independent parts, i.e., (i) the design of controller gain matrix and event condition, and (ii) the design of adaptation laws. Then the methods are proposed to solve these two independent parts, which guarantee both the asymptotic stability of systems and the reduction of parameter differences between the plant and the model. Finally, a numerical example is provided to illustrate the efficiency and feasibility of the obtained results."
     },
     {
-        "title": "Optimal Steady-State Operation of a MTDC system based on DC-Independent System Operator Objectives",
-        "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
-        "authors": [
-            "F. Gonzalez-Longatt"
-        ],
-        "DOI": "10.1049/cp.2015.0031",
-        "citation": 5,
-        "abstract": "This paper introduces the new concept of DC Independent System Operator, DC-ISO. The DC-ISO will be responsible for ensuring the reliability and security of the MTDC system in real-time and co-ordinate the supply of and demand for electricity, in a manner that avoids violations of technical and economic standards. A methodology for an optimal steady-state operation of a MTDC system based on DC-ISO objectives has been presented in this paper. This paper proposes the use of a type linear equality constraints based on nodal analysis to include DC-ISO operational mode to the OPF. Proposed methodology has been demonstrated and tested with a 7-node HVDC system, and results show the compromise in solutions to cope with OPF."
-    },
-    {
-        "title": "Impact of controller parameters on stability of MMC-based HVDC systems for offshore wind farms",
-        "conferenceTitle": "International Conference on Renewable Power Generation (RPG 2015)",
-        "Content Type": "Conferences",
-        "date": "17-18 Oct. 2015",
-        "authors": [
-            "Jing Lyu",
-            "Xu Cai"
-        ],
-        "DOI": "10.1049/cp.2015.0441",
-        "citation": 5,
-        "abstract": "The resonance or instability phenomena can happen due to the impedance interactions between the modular multilevel converter (MMC) and the wind power inverter in an MMC-HVDC system connected with offshore wind farms which consist of full-power converters. To analyse the stability of the interconnected system, the impedance-based Nyquist stability analysis method is employed. The analytical ac-side small-signal impedance model of a three-phase MMC is first developed in this paper. The analytical impedance model is verified by means of injecting a small perturbation voltage/current signal in a nonlinear time-domain simulation model. The impacts of the controller parameters on the stability of the interconnected system are then examined by using frequency-domain analysis approach, which can offer guidance for controller parameters design. Finally, the time-domain simulation results validate the theoretical analysis."
-    },
-    {
         "title": "Robust optimization of cognitive radio networks powered by energy harvesting",
         "conferenceTitle": "2015 IEEE Conference on Computer Communications (INFOCOM)",
-        "Content Type": "Conferences",
-        "date": "26 April-1 May 2015",
+        "data": "26 April-1 May 2015",
         "authors": [
             "Shimin Gong",
             "Lingjie Duan",
@@ -864,8 +818,7 @@
     {
         "title": "Cross-Modality Sentiment Analysis for Social Multimedia",
         "conferenceTitle": "2015 IEEE International Conference on Multimedia Big Data",
-        "Content Type": "Conferences",
-        "date": "20-22 April 2015",
+        "data": "20-22 April 2015",
         "authors": [
             "Rongrong Ji",
             "Donglin Cao",
@@ -878,8 +831,7 @@
     {
         "title": "Impact of renewable generation on commutation failures in multiinfeed HVDC systems: a real case study",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "F. Palone",
             "M. Marzinotto",
@@ -896,8 +848,7 @@
     {
         "title": "Model reference adaptive control for aeroengine",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Fu-Qiang Nian",
             "Hongjun Ma",
@@ -910,8 +861,7 @@
     {
         "title": "Study on the fault current transient features of the PV inverter",
         "conferenceTitle": "International Conference on Renewable Power Generation (RPG 2015)",
-        "Content Type": "Conferences",
-        "date": "17-18 Oct. 2015",
+        "data": "17-18 Oct. 2015",
         "authors": [
             "Xiangping Kong",
             "Yubo Yuan",
@@ -925,8 +875,7 @@
     {
         "title": "Automated image splicing detection from noise estimation in raw images",
         "conferenceTitle": "6th International Conference on Imaging for Crime Prevention and Detection (ICDP-15)",
-        "Content Type": "Conferences",
-        "date": "15-17 July 2015",
+        "data": "15-17 July 2015",
         "authors": [
             "Thibaut Julliand",
             "Vincent Nozick",
@@ -937,10 +886,24 @@
         "abstract": "Splicing is a common image manipulation technique in which a region from a first image is pasted onto a second image to alter its content. In this paper, we use the fact that different images have different noise characteristics, according to the camera and lighting conditions during the image acquisition. The proposed method automatically detects image splicing in raw images by highlighting local noise inconsistencies within a quadtree scan of the image. The image noise is modelized by both Gaussian and Poisson noise components. We demonstrate the efficiency and robustness of our method on several images generated with an automated image splicing."
     },
     {
+        "title": "Accurate gain calibration for a WR10 standard gain horn (SGH) using the three-antenna extrapolation technique",
+        "conferenceTitle": "IET International Radar Conference 2015",
+        "data": "14-16 Oct. 2015",
+        "authors": [
+            "Zhenfei Song",
+            "David Gentle",
+            "Haoyu Lin",
+            "Xiao Liu",
+            "Jinyuan Li"
+        ],
+        "DOI": "10.1049/cp.2015.1270",
+        "citation": 4,
+        "abstract": "An antenna is an essential component of any communications or radar system, acting as a transducer between free-space and the transmitting or receiving system. As a key antenna parameter, antenna gain is a measure of the extent to which the antenna transmits or receives energy preferentially in a given direction. Of the many measurement techniques for determining the gain of an antenna, the most accurate is the three-antenna extrapolation technique, in which measurements made in the near-field are extrapolated to give the infinite range, far-field gain. A metrology-level antenna gain measurement facility based on this technique has been developed at the National Institute of Metrology (NIM), China. This paper present a practical gain calibration of a WR10 (75 GHz - 110 GHz) standard gain horn (SGH) as an example of the verification of the new facility's performance. An expanded uncertainty of as low as ±0.06 dB has been achieved."
+    },
+    {
         "title": "New Generation 10kV SiC Power MOSFET and Diodes for Industrial Applications",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Jeffrey B. Casady",
             "Vipindas Pala",
@@ -960,8 +923,7 @@
     {
         "title": "Operational performance of the valve cooling system in Guangzhou converter station",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Su Fang",
             "Wei Luo",
@@ -975,8 +937,7 @@
     {
         "title": "High Efficiency Bidirectional DC-DC Converter with Wide Input and Output Voltage Ranges for Battery Systems",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Zhe Yu",
             "Holger Kapels",
@@ -989,8 +950,7 @@
     {
         "title": "Evaluation of core loss calculation methods for highly nonsinusoidal inputs",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "M. Smailes",
             "C. Ng",
@@ -1007,8 +967,7 @@
     {
         "title": "Non-telecommunication based DC line fault detection methodology for meshed HVDC grids",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "A.-K. Marten",
             "C. Troitzsch",
@@ -1021,8 +980,7 @@
     {
         "title": "Fuzzy approximation-based adaptive sliding-mode control scheme for underactuated systems",
         "conferenceTitle": "2015 3rd International Conference on Control, Engineering & Information Technology (CEIT)",
-        "Content Type": "Conferences",
-        "date": "25-27 May 2015",
+        "data": "25-27 May 2015",
         "authors": [
             "Soumia Moussaoui",
             "Abdesselem Boulkroune"
@@ -1034,8 +992,7 @@
     {
         "title": "MTDC systems for frequency support base on DC voltage manipulation",
         "conferenceTitle": "International Conference on Renewable Power Generation (RPG 2015)",
-        "Content Type": "Conferences",
-        "date": "17-18 Oct. 2015",
+        "data": "17-18 Oct. 2015",
         "authors": [
             "L. Xu",
             "J. Rafferty",
@@ -1049,8 +1006,7 @@
     {
         "title": "Antenna radiation pattern control through 3D printed inhomogeneous dielectrics",
         "conferenceTitle": "2015 USNC-URSI Radio Science Meeting (Joint with AP-S Symposium)",
-        "Content Type": "Conferences",
-        "date": "19-24 July 2015",
+        "data": "19-24 July 2015",
         "authors": [
             "Junqiang Wu",
             "Xiaoju Yu",
@@ -1064,8 +1020,7 @@
     {
         "title": "LED visible light communication system based on FPGA",
         "conferenceTitle": "2015 IEEE Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)",
-        "Content Type": "Conferences",
-        "date": "19-20 Dec. 2015",
+        "data": "19-20 Dec. 2015",
         "authors": [
             "Wang Feng",
             "Xu Chen"
@@ -1077,8 +1032,7 @@
     {
         "title": "1700V Hybrid Module with Si-IGBT and SiC-SBD for High Efficiency AC690V Application",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Taku Takaku",
             "Seiki Igarashi",
@@ -1096,8 +1050,7 @@
     {
         "title": "X-band substarte integrated waveguide Rotman Lens",
         "conferenceTitle": "2015 USNC-URSI Radio Science Meeting (Joint with AP-S Symposium)",
-        "Content Type": "Conferences",
-        "date": "19-24 July 2015",
+        "data": "19-24 July 2015",
         "authors": [
             "J. Pourahmadazar",
             "T. A. Denidni"
@@ -1109,8 +1062,7 @@
     {
         "title": "Reactive synthesis",
         "conferenceTitle": "2015 Formal Methods in Computer-Aided Design (FMCAD)",
-        "Content Type": "Conferences",
-        "date": "27-30 Sept. 2015",
+        "data": "27-30 Sept. 2015",
         "authors": [
             "Roderick Bloem"
         ],
@@ -1121,8 +1073,7 @@
     {
         "title": "A simple Arduino-based configuration for SPR sensors in Plastic Optical Fibers",
         "conferenceTitle": "2015 Fotonica AEIT Italian Conference on Photonics Technologies",
-        "Content Type": "Conferences",
-        "date": "6-8 May 2015",
+        "data": "6-8 May 2015",
         "authors": [
             "N. Cennamo",
             "D. Massarotti",
@@ -1138,8 +1089,7 @@
     {
         "title": "Determining frequency reuse feasibility in device-to-device cellular networks",
         "conferenceTitle": "2015 IEEE 26th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)",
-        "Content Type": "Conferences",
-        "date": "30 Aug.-2 Sept. 2015",
+        "data": "30 Aug.-2 Sept. 2015",
         "authors": [
             "Markus Klügel",
             "Wolfgang Kellerer"
@@ -1149,26 +1099,9 @@
         "abstract": "Device-to-Device (D2D) communication in cellular networks allows dynamic frequency reuse even within a cell, which can increase the frequency reuse factor beyond one. To perform dynamic reuse, it must be feasible for all links to maintain a certain signal quality despite the presence of interference. This can be ensured using reuse feasibility tests. However, state of the art testing algorithms show erroneous behavior when infeasibility occurs due to limited transmission powers. In this paper we develop two testing algorithms, based on nonnegative matrix theory, that explicitly take limited transmission powers into account and show how these can be implemented in protocols. The protocols are compared with the state of the art in terms of control channel usage, speed and accuracy of decision making. We find that the proposed protocols estimate reuse feasibility more accurately than the state of the art and are comparable in terms of speed and control channel usage."
     },
     {
-        "title": "Parametric analysis of the stability of VSC-HVDC converters",
-        "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
-        "authors": [
-            "Hui Ding",
-            "Shengtao Fan",
-            "Jenny Z. Zhou",
-            "Yi Zhang",
-            "Aniruddha M. Gole"
-        ],
-        "DOI": "10.1049/cp.2015.0002",
-        "citation": 4,
-        "abstract": "This paper proposes a reduced order mathematical model for the VSC converter and its controls by linearizing the combined set of equations of the power system and controller. The reduced order model can preserve the unstable characteristic of the VSC system and provide an explicit mathematical expression for the system eigenvalues. This analytical formula can directly reveal by simple inspection relationships between the system stability and system parameters. Results show that small signal stability of the system is significantly affected by the ac system strength (SCR) and the Phased Locked Loop (PLL) parameters. Also, small signal stability is more sensitive to the ac voltage controller's gain than to the power controller gains. Compared with the previous developed full order model, the reduced order model can give more insights and constructive suggestions how to adjust the parameters of the control system of VSC. In particular, it is shown that by increasing the value of the voltage controller's integral gain the system can be made to operate at an SCR which is very close to the theoretical minimum SCR limit."
-    },
-    {
         "title": "A new framework for customizing ERP systems in a multi tenant SaaS environment",
         "conferenceTitle": "2015 2nd World Symposium on Web Applications and Networking (WSWAN)",
-        "Content Type": "Conferences",
-        "date": "21-23 March 2015",
+        "data": "21-23 March 2015",
         "authors": [
             "Djamal Ziani",
             "Asma AlShehri"
@@ -1178,26 +1111,9 @@
         "abstract": "Customizing cloud ERP systems is considered one of the biggest issues in the multi tenant environment. This paper aims to propose a new framework, allowing tenants in the cloud ERP to change the ERP's source codes in order to meet their requirements. We inspired by SAP systems to get better understanding of the structure of ERP systems, and to propose a web based ERP application. Afterwards, we illustrated how we improved the proposed web based ERP application to support the customization process in multi tenant environment. The proposed framework is based on a strong architecture that manages and controls the customizing of the tenants to tailor the cloud ERP system without affecting each other."
     },
     {
-        "title": "Accurate gain calibration for a WR10 standard gain horn (SGH) using the three-antenna extrapolation technique",
-        "conferenceTitle": "IET International Radar Conference 2015",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2015",
-        "authors": [
-            "Zhenfei Song",
-            "David Gentle",
-            "Haoyu Lin",
-            "Xiao Liu",
-            "Jinyuan Li"
-        ],
-        "DOI": "10.1049/cp.2015.1270",
-        "citation": 3,
-        "abstract": "An antenna is an essential component of any communications or radar system, acting as a transducer between free-space and the transmitting or receiving system. As a key antenna parameter, antenna gain is a measure of the extent to which the antenna transmits or receives energy preferentially in a given direction. Of the many measurement techniques for determining the gain of an antenna, the most accurate is the three-antenna extrapolation technique, in which measurements made in the near-field are extrapolated to give the infinite range, far-field gain. A metrology-level antenna gain measurement facility based on this technique has been developed at the National Institute of Metrology (NIM), China. This paper present a practical gain calibration of a WR10 (75 GHz - 110 GHz) standard gain horn (SGH) as an example of the verification of the new facility's performance. An expanded uncertainty of as low as ±0.06 dB has been achieved."
-    },
-    {
         "title": "An evolutionary approach to the identification of Cellular Automata based on partial observations",
         "conferenceTitle": "2015 IEEE Congress on Evolutionary Computation (CEC)",
-        "Content Type": "Conferences",
-        "date": "25-28 May 2015",
+        "data": "25-28 May 2015",
         "authors": [
             "Witold Bołt",
             "Jan M. Baetens",
@@ -1208,10 +1124,22 @@
         "abstract": "In this paper we consider the identification problem of Cellular Automata (CAs). The problem is defined and solved in the context of partial observations with time gaps of unknown length, i.e. pre-recorded, partial configurations of the system at certain, unknown time steps. A solution method based on a modified variant of a Genetic Algorithm (GA) is proposed and illustrated with brief experimental results."
     },
     {
+        "title": "A Fast Calculation Method for the Local Commutation Failure Immunity Indices in Single- and Multi-infeed HVDC Systems",
+        "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
+        "data": "10-12 Feb. 2015",
+        "authors": [
+            "Xiuyu Chen",
+            "Aniruddha M. Gole",
+            "Chunyi Guo"
+        ],
+        "DOI": "10.1049/cp.2015.0046",
+        "citation": 3,
+        "abstract": "The Commutation Failure Immunity Index (CFII) is a good predictor which quantifies the susceptibility of an HVDC system to commutation failure. However, this index is based on many electromagnetic simulations and requires extensive computational time. In this paper, a faster calculation method for CFII is proposed and verified. This method significantly reduces the simulation effort and is applicable to single and multi-infeed HVDC system with different short circuit ratios (SCR). The paper gives a comparison of time savings and accuracy of the proposed approach for the study of commutation failure in HVDC systems."
+    },
+    {
         "title": "Modular Multilevel MMI(HB) Topology for Single-Stage Grid Connected PV Plant",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Deepak Tiku"
         ],
@@ -1222,8 +1150,7 @@
     {
         "title": "Suppression of servo system mechanical resonance based on adaptive IIR notch filter",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Na Li",
             "Shi-hua Li"
@@ -1235,8 +1162,7 @@
     {
         "title": "Information-theoretic limits on coherent nonlinear optical-fiber communication",
         "conferenceTitle": "2015 Optical Fiber Communications Conference and Exhibition (OFC)",
-        "Content Type": "Conferences",
-        "date": "22-26 March 2015",
+        "data": "22-26 March 2015",
         "authors": [
             "Frank R Kschischang"
         ],
@@ -1247,8 +1173,7 @@
     {
         "title": "Techno economics in a wide European optical transport network",
         "conferenceTitle": "2015 Fotonica AEIT Italian Conference on Photonics Technologies",
-        "Content Type": "Conferences",
-        "date": "6-8 May 2015",
+        "data": "6-8 May 2015",
         "authors": [
             "M. Quagliotti",
             "L. Serra",
@@ -1262,8 +1187,7 @@
     {
         "title": "Channel Measurements with Different Antenna Array Geometries for Massive MIMO Systems",
         "conferenceTitle": "SCC 2015; 10th International ITG Conference on Systems, Communications and Coding",
-        "Content Type": "Conferences",
-        "date": "2-5 Feb. 2015",
+        "data": "2-5 Feb. 2015",
         "authors": [
             "M. Gauger",
             "J. Hoydis",
@@ -1279,8 +1203,7 @@
     {
         "title": "Pavement and base layers local thickness estimation using computer vision",
         "conferenceTitle": "2015 10th Computing Colombian Conference (10CCC)",
-        "Content Type": "Conferences",
-        "date": "21-25 Sept. 2015",
+        "data": "21-25 Sept. 2015",
         "authors": [
             "Barrios A. Brayan",
             "Bacca C. Bladimir",
@@ -1293,8 +1216,7 @@
     {
         "title": "Single-phase 7-level inverter for reducing number of switches",
         "conferenceTitle": "2015 IEEE International Telecommunications Energy Conference (INTELEC)",
-        "Content Type": "Conferences",
-        "date": "18-22 Oct. 2015",
+        "data": "18-22 Oct. 2015",
         "authors": [
             "Kosuke Sato",
             "Hitoshi Haga",
@@ -1307,8 +1229,7 @@
     {
         "title": "Leader-follower consensus control of multi-agent systems with extended Laplacian matrix",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Wei Liu",
             "Qingpo Wu",
@@ -1322,8 +1243,7 @@
     {
         "title": "Calculation of the inner EFIE integral over a bilinear quadrilateral to machine precision",
         "conferenceTitle": "2015 USNC-URSI Radio Science Meeting (Joint with AP-S Symposium)",
-        "Content Type": "Conferences",
-        "date": "19-24 July 2015",
+        "data": "19-24 July 2015",
         "authors": [
             "John S. Asvestas"
         ],
@@ -1334,8 +1254,7 @@
     {
         "title": "Design of passivity-based controllers for lateral dynamics of intelligent vehicles",
         "conferenceTitle": "2015 IEEE Intelligent Vehicles Symposium (IV)",
-        "Content Type": "Conferences",
-        "date": "28 June-1 July 2015",
+        "data": "28 June-1 July 2015",
         "authors": [
             "Gilles Tagne",
             "Reine Talj",
@@ -1348,8 +1267,7 @@
     {
         "title": "Design of servo drive slaves based on EtherCAT",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Zhou Chang-Cheng",
             "Xu Jian-Ming",
@@ -1364,8 +1282,7 @@
     {
         "title": "Distributed web crawling: A framework for crawling of micro-blog data",
         "conferenceTitle": "2015 International Conference on Smart and Sustainable City and Big Data (ICSSC)",
-        "Content Type": "Conferences",
-        "date": "26-27 July 2015",
+        "data": "26-27 July 2015",
         "authors": [
             "Jie Xia",
             "Wanggen Wan",
@@ -1380,8 +1297,7 @@
     {
         "title": "A fast sequential bin packing algorithm with predefined filllevel",
         "conferenceTitle": "2015 International Conference on Smart and Sustainable City and Big Data (ICSSC)",
-        "Content Type": "Conferences",
-        "date": "26-27 July 2015",
+        "data": "26-27 July 2015",
         "authors": [
             "F. Luo",
             "C. H. Gu",
@@ -1394,8 +1310,7 @@
     {
         "title": "Visual control for manipulator with dead-zone nonlinearity constraint",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Fujie Wang",
             "Zhi Liu",
@@ -1408,8 +1323,7 @@
     {
         "title": "Joint link-and-user scheduling for buffer-aided relaying system with adaptive rate transmission",
         "conferenceTitle": "2015 IEEE International Conference on Communications (ICC)",
-        "Content Type": "Conferences",
-        "date": "8-12 June 2015",
+        "data": "8-12 June 2015",
         "authors": [
             "Sheng Luo",
             "Kah Chan Teh"
@@ -1419,10 +1333,21 @@
         "abstract": "In this paper, we consider a relaying system which consists of a multiple-antenna source node (SN), M single-antenna destination nodes (DNs) and a multiple-antenna relay node (RN). The RN possesses a buffer and it is able to store the decoded message before retransmitting the message to the DNs. We use the joint link-and-user scheduling method to maximize the long term average achievable rate of a multiple-input multiple-output (MIMO) relaying system. The optimal scheduling criteria is obtained and a two-step approach is proposed to implement it. In addition, we propose a rate allocation scheme of the source-relay (S-R) link to preserve the flow conservation constraint of each individual user. Furthermore, two reduced complexity joint link-and-user scheduling methods which use the zero forcing (ZF) beamforming in the relay-destination (RD) link are investigated. It is shown that joint link-and-user scheduling can significantly increase the average achievable rate of the system."
     },
     {
+        "title": "Crowd anomaly detection for automated video surveillance",
+        "conferenceTitle": "6th International Conference on Imaging for Crime Prevention and Detection (ICDP-15)",
+        "data": "15-17 July 2015",
+        "authors": [
+            "Jing Wang",
+            "Zhijie Xu"
+        ],
+        "DOI": "10.1049/ic.2015.0102",
+        "citation": 3,
+        "abstract": "Video-based crowd behaviour detection aims at tackling challenging problems such as automating and identifying changing crowd behaviours under complex real life situations. In this paper, real-time crowd anomaly detection algorithms have been investigated. Based on the spatio-temporal video volume concept, an innovative spatio-temporal texture model has been proposed in this research for its rich crowd pattern characteristics. Through extracting and integrating those crowd textures from surveillance recordings, a redundancy wavelet transformation-based feature space can be deployed for behavioural template matching. Experiment shows that the abnormality appearing in crowd scenes can be identified in a real-time fashion by the devised method. This new approach is envisaged to facilitate a wide spectrum of crowd analysis applications through automating current Closed-Circuit Television (CCTV)-based surveillance systems."
+    },
+    {
         "title": "Secrecy by witness-functions under equational theories",
         "conferenceTitle": "2015 7th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
-        "Content Type": "Conferences",
-        "date": "25-27 June 2015",
+        "data": "25-27 June 2015",
         "authors": [
             "Jaouhar Fattahi",
             "Mohamed Mejri"
@@ -1434,8 +1359,7 @@
     {
         "title": "A comparative analysis of hardware techniques for implementation of IIR digital filter on FPGA",
         "conferenceTitle": "2015 XVI Workshop on Information Processing and Control (RPIC)",
-        "Content Type": "Conferences",
-        "date": "6-9 Oct. 2015",
+        "data": "6-9 Oct. 2015",
         "authors": [
             "Diego Costa",
             "Carlos Sosa Páez"
@@ -1447,8 +1371,7 @@
     {
         "title": "Adaptive compensation of amplitude and phase conversion errors for FMCW radar signals",
         "conferenceTitle": "2nd IET International Conference on Intelligent Signal Processing 2015 (ISP)",
-        "Content Type": "Conferences",
-        "date": "1-2 Dec. 2015",
+        "data": "1-2 Dec. 2015",
         "authors": [
             "V. Dodde",
             "A. Masciullo",
@@ -1461,8 +1384,7 @@
     {
         "title": "Assessment of Line Overloading Risk for Transmission Networks",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "D. Alali",
             "H. Griffiths",
@@ -1476,8 +1398,7 @@
     {
         "title": "Convergence speed analysis and optimization for distributed control of virtual power plant",
         "conferenceTitle": "10th International Conference on Advances in Power System Control, Operation & Management (APSCOM 2015)",
-        "Content Type": "Conferences",
-        "date": "8-12 Nov. 2015",
+        "data": "8-12 Nov. 2015",
         "authors": [
             "Y. L. Zhao",
             "B. Chen",
@@ -1491,8 +1412,7 @@
     {
         "title": "Optimization of MP3 decoder from FFmpeg multimedia framework for MIPS32R2 architectures",
         "conferenceTitle": "2015 23rd Telecommunications Forum Telfor (TELFOR)",
-        "Content Type": "Conferences",
-        "date": "24-26 Nov. 2015",
+        "data": "24-26 Nov. 2015",
         "authors": [
             "Nedeljko Babic",
             "Teodora Novkovic",
@@ -1505,8 +1425,7 @@
     {
         "title": "Abductive inference and its applications in program analysis, verification, and synthesis",
         "conferenceTitle": "2015 Formal Methods in Computer-Aided Design (FMCAD)",
-        "Content Type": "Conferences",
-        "date": "27-30 Sept. 2015",
+        "data": "27-30 Sept. 2015",
         "authors": [
             "Isil Dillig"
         ],
@@ -1517,8 +1436,7 @@
     {
         "title": "LCL in parallel active power filter of SVPWM control",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Wang Chao",
             "Zong Xiju",
@@ -1531,8 +1449,7 @@
     {
         "title": "Trajectories optimization of hypersonic vehicle based on a hybrid optimization algorithm of PSO and SQP",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Linshuang Feng",
             "Lei Liu",
@@ -1545,8 +1462,7 @@
     {
         "title": "Detecting hardware trojans: a tale of two techniques",
         "conferenceTitle": "2015 Formal Methods in Computer-Aided Design (FMCAD)",
-        "Content Type": "Conferences",
-        "date": "27-30 Sept. 2015",
+        "data": "27-30 Sept. 2015",
         "authors": [
             "Sharad Malik"
         ],
@@ -1557,8 +1473,7 @@
     {
         "title": "Visual processing sparks a new class of processors",
         "conferenceTitle": "2015 International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation (SAMOS)",
-        "Content Type": "Conferences",
-        "date": "19-23 July 2015",
+        "data": "19-23 July 2015",
         "authors": [
             "Marco Jacobs"
         ],
@@ -1569,8 +1484,7 @@
     {
         "title": "A new Method for Dynamic Ron Extraction of GaN Power HEMTs",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Nasser Badawi",
             "Sibylle Dieckerhoff"
@@ -1582,8 +1496,7 @@
     {
         "title": "Mining online product reviews to identify consumers' fine-grained concerns",
         "conferenceTitle": "12th International Symposium on Operations Research and its Applications in Engineering, Technology and Management (ISORA 2015)",
-        "Content Type": "Conferences",
-        "date": "21-24 Aug. 2015",
+        "data": "21-24 Aug. 2015",
         "authors": [
             "Jian Jin",
             "Ping Ji"
@@ -1593,10 +1506,21 @@
         "abstract": "Online product reviews contain valuable information about customer requirements (CRs). Intelligent analysis of a large volume of online CRs attracts interest from researchers in different fields. However, many research studies only concern sentiment polarity in different level and designers still need to read these reviews to absorb comprehensive CRs. In this research, online reviews are analyzed to obtain consumers' fine-grained concerns. Specifically, aspects of product features and detailed reasons of consumers are extracted from online reviews. This research starts from the identification of product features and the sentiment analysis with the help of pros and cons reviews. Next, the approach of conditional random fields is employed to detect aspects of product features and detailed reasons jointly. In addition, a co-clustering algorithm is devised to group similar aspects and reasons to provide concise descriptions about CRs. Finally, with hundreds of customer reviews of six mobiles in Amazon.com, a case study is presented to illustrate how the proposed approaches benefit product designers in the elicitation of CRs by the analysis of online opinion data."
     },
     {
+        "title": "Multisensor concealed weapon detection using the image fusion approach",
+        "conferenceTitle": "6th International Conference on Imaging for Crime Prevention and Detection (ICDP-15)",
+        "data": "15-17 July 2015",
+        "authors": [
+            "Tuzhi Xu",
+            "Q. M. Jonathan Wu"
+        ],
+        "DOI": "10.1049/ic.2015.0108",
+        "citation": 2,
+        "abstract": "In this paper, an efficient concealed weapon detection (CWD) algorithm based on image fusion is presented. First, the images obtained using different sensors are decomposed into low and high frequency bands with the double-density dual-tree complex wavelet transform (DDDTCWT). Then two novel decision methods are introduced referring to the characteristics of the frequency bands, which significantly improves the image fusion performance for CWD application. The fusion of low frequency bands coefficients is determined by the local contrast, while the high frequency band fusion rule is developed by considering both the texture feature of the human visual system (HVS) and the local energy basis. Finally, the fused image is obtained through the inverse DDDTCWT. Experiments and comparisons demonstrate the robustness and efficiency of the proposed approach and indicate that the fusion rules can be applied to different multiscale transforms. Also, our work shows that the fusion result using the proposed fusion rules on DDDTCWT is superior to other combinations as well as previously proposed approaches."
+    },
+    {
         "title": "Tracking control of nonaffine systems with prescribed transient performance",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Zhixi Shen",
             "Tao Zhang",
@@ -1609,8 +1533,7 @@
     {
         "title": "Energy efficient microcell deployment for HetNets",
         "conferenceTitle": "2015 23nd Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "16-19 May 2015",
+        "data": "16-19 May 2015",
         "authors": [
             "Mahmut Demirtaş",
             "Alkan Soysal"
@@ -1622,8 +1545,7 @@
     {
         "title": "Analysis of IEMI induced distortion on wireless digital data transmission links",
         "conferenceTitle": "2015 Asia-Pacific Symposium on Electromagnetic Compatibility (APEMC)",
-        "Content Type": "Conferences",
-        "date": "26-29 May 2015",
+        "data": "26-29 May 2015",
         "authors": [
             "Marcin Mleczko",
             "David Hamann",
@@ -1636,8 +1558,7 @@
     {
         "title": "Analysis of Reverse-Recovery Behaviour of SiC MOSFET Body-Diode - regarding Dead-Time",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Roman Horff",
             "Andreas Maerz",
@@ -1650,8 +1571,7 @@
     {
         "title": "Investigation on open-winding PMSG system fed by three level NPC converter and diode converter",
         "conferenceTitle": "International Conference on Renewable Power Generation (RPG 2015)",
-        "Content Type": "Conferences",
-        "date": "17-18 Oct. 2015",
+        "data": "17-18 Oct. 2015",
         "authors": [
             "L. Chen",
             "H. Nian",
@@ -1664,8 +1584,7 @@
     {
         "title": "Evaluation of DC voltage control strategies for multi-terminal HVDC grids comprising island systems with high RES penetration",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Sotirios Nanou",
             "Orestis Tzortzopoulos",
@@ -1678,8 +1597,7 @@
     {
         "title": "Application of WSN in railway intelligent transportation sysem (RITS)",
         "conferenceTitle": "2015 23rd Telecommunications Forum Telfor (TELFOR)",
-        "Content Type": "Conferences",
-        "date": "24-26 Nov. 2015",
+        "data": "24-26 Nov. 2015",
         "authors": [
             "Predrag Vuletić"
         ],
@@ -1690,8 +1608,7 @@
     {
         "title": "Key technology to 5G network",
         "conferenceTitle": "2015 Asia-Pacific Microwave Conference (APMC)",
-        "Content Type": "Conferences",
-        "date": "6-9 Dec. 2015",
+        "data": "6-9 Dec. 2015",
         "authors": [
             "Hao Guan"
         ],
@@ -1702,8 +1619,7 @@
     {
         "title": "Induced voltages on HVDC systems by HVAC systems at the same support structure due to capacitive and inductive coupling",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Ch. Romeis",
             "J. Schindler",
@@ -1719,8 +1635,7 @@
     {
         "title": "Power Reversal of Hybrid HVDC System",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Lujie Yu",
             "Chunyi Guo",
@@ -1736,8 +1651,7 @@
     {
         "title": "PMSM Hamiltonian energy shaping control with parameters self-tuning PID control",
         "conferenceTitle": "2015 34th Chinese Control Conference (CCC)",
-        "Content Type": "Conferences",
-        "date": "28-30 July 2015",
+        "data": "28-30 July 2015",
         "authors": [
             "Qiu Jun",
             "Hu Chao",
@@ -1750,8 +1664,7 @@
     {
         "title": "Waveform design with good correlation properties for MIMO radar",
         "conferenceTitle": "IET International Radar Conference 2015",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2015",
+        "data": "14-16 Oct. 2015",
         "authors": [
             "Ya Yang",
             "Guolong Cui",
@@ -1766,8 +1679,7 @@
     {
         "title": "Robust coordination damping control of multi-model system with FACTS devices via sequential approach",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "C. Li",
             "J. Deng",
@@ -1780,8 +1692,7 @@
     {
         "title": "NATO Cooperative Cyber Defence Centre of Excellence",
         "conferenceTitle": "2015 7th International Conference on Cyber Conflict: Architectures in Cyberspace",
-        "Content Type": "Conferences",
-        "date": "26-29 May 2015",
+        "data": "26-29 May 2015",
         "authors": [],
         "DOI": "10.1109/CYCON.2015.7158459",
         "citation": 2,
@@ -1790,8 +1701,7 @@
     {
         "title": "Power-System Modeling - A Transfer Matrix Approach",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Lidong Zhang",
             "Lennart Harnefors",
@@ -1804,8 +1714,7 @@
     {
         "title": "Extraction of relevant dataset for support vector machine using entropy based pivoting QR decomposition and linear discriminant analysis",
         "conferenceTitle": "2015 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)",
-        "Content Type": "Conferences",
-        "date": "10-11 July 2015",
+        "data": "10-11 July 2015",
         "authors": [
             "Adeena K D",
             "Remya R"
@@ -1817,8 +1726,7 @@
     {
         "title": "Clustering by group consensus of unstable dynamic linear high-order multi-agent systems",
         "conferenceTitle": "2015 34th Chinese Control Conference (CCC)",
-        "Content Type": "Conferences",
-        "date": "28-30 July 2015",
+        "data": "28-30 July 2015",
         "authors": [
             "Cai Ning",
             "Xue Lin"
@@ -1830,8 +1738,7 @@
     {
         "title": "Optimal dc reference voltage in HVDC grids",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "R. H. Renner",
             "J. Beerten",
@@ -1844,8 +1751,7 @@
     {
         "title": "Joint spectrum and AOA estimation for cognitive radios using adaptive multichannel sequential lattice prediction filtering method",
         "conferenceTitle": "2nd IET International Conference on Intelligent Signal Processing 2015 (ISP)",
-        "Content Type": "Conferences",
-        "date": "1-2 Dec. 2015",
+        "data": "1-2 Dec. 2015",
         "authors": [
             "Mehmet Tahir Ozden"
         ],
@@ -1856,8 +1762,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "2015 European Conference on Mobile Robots (ECMR)",
-        "Content Type": "Conferences",
-        "date": "2-4 Sept. 2015",
+        "data": "2-4 Sept. 2015",
         "authors": [],
         "DOI": "10.1109/ECMR.2015.7324221",
         "citation": 2,
@@ -1866,8 +1771,7 @@
     {
         "title": "A generalized electromagnetic wave penetrating propagation model for CS imaging in through-the-wall radar",
         "conferenceTitle": "IET International Radar Conference 2015",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2015",
+        "data": "14-16 Oct. 2015",
         "authors": [
             "T. Jin",
             "S. L. Sun",
@@ -1880,8 +1784,7 @@
     {
         "title": "Low-power IC design challenge",
         "conferenceTitle": "VLSI Design, Automation and Test(VLSI-DAT)",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2015",
+        "data": "27-29 April 2015",
         "authors": [
             "Cheng-Chih Mao"
         ],
@@ -1892,8 +1795,7 @@
     {
         "title": "Combined modulation and code design approach for MAI canelation in OCDMA system",
         "conferenceTitle": "2015 2nd International Conference on Electronics and Communication Systems (ICECS)",
-        "Content Type": "Conferences",
-        "date": "26-27 Feb. 2015",
+        "data": "26-27 Feb. 2015",
         "authors": [
             "V. Geetha",
             "B. Manoharan"
@@ -1905,8 +1807,7 @@
     {
         "title": "Review of static voltage stability screening methods for application in AC power grids with large-scale wind penetration and VSC HVDC interconnectors",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Andre Canelhas",
             "Spyridon Karamitsos",
@@ -1919,8 +1820,7 @@
     {
         "title": "Plenary Lecture 1: Cyber physical production systems/industry 4.0-challenges in research and industrial application",
         "conferenceTitle": "IECON 2015 - 41st Annual Conference of the IEEE Industrial Electronics Society",
-        "Content Type": "Conferences",
-        "date": "9-12 Nov. 2015",
+        "data": "9-12 Nov. 2015",
         "authors": [
             "Birgit Vogel-Heuser"
         ],
@@ -1931,8 +1831,7 @@
     {
         "title": "Effects of diagonal dominance on performance of passive fault tolerant servo systems",
         "conferenceTitle": "2015 10th Asian Control Conference (ASCC)",
-        "Content Type": "Conferences",
-        "date": "31 May-3 June 2015",
+        "data": "31 May-3 June 2015",
         "authors": [
             "Kenta Toyoda",
             "Noboru Sebe",
@@ -1945,8 +1844,7 @@
     {
         "title": "Evaluation of the need for SiC SBD in parallel with SiC MOSFETs in a module phase leg configuration",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Serge Bontemps",
             "Anthony Basler",
@@ -1959,8 +1857,7 @@
     {
         "title": "Analysis and hardware testing of cell capacitor discharge currents during DC faults in half-bridge modular multilevel converters",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "A. A. Aboushady",
             "K. H. Ahmed",
@@ -1971,23 +1868,9 @@
         "abstract": "This paper focuses on the behaviour of the cell capacitor discharge currents during DC faults in half-bridge modular multilevel converters. Active switches, not designed for fault conditions, are tripped to minimize discharge currents effect on the semiconductor switches. Two levels of device protection are commonly in place; driver level protection monitoring collector-emitter voltage and overcurrent protection with feedback measurement and control. However, unavoidable tripping delay times, arising from factors such as sensor lags, controller sampling delays and hardware propagation delays, impact transient current shape and hence affect the selection of semiconductor device ratings as well as arm inductance. Analytical expressions are obtained for current slew rate, peak transient current and resultant I2t for the cell capacitor discharge current taking into account such delays. The study is backed by experimental testing on discharge of a 900V MMC capacitor."
     },
     {
-        "title": "Crowd anomaly detection for automated video surveillance",
-        "conferenceTitle": "6th International Conference on Imaging for Crime Prevention and Detection (ICDP-15)",
-        "Content Type": "Conferences",
-        "date": "15-17 July 2015",
-        "authors": [
-            "Jing Wang",
-            "Zhijie Xu"
-        ],
-        "DOI": "10.1049/ic.2015.0102",
-        "citation": 2,
-        "abstract": "Video-based crowd behaviour detection aims at tackling challenging problems such as automating and identifying changing crowd behaviours under complex real life situations. In this paper, real-time crowd anomaly detection algorithms have been investigated. Based on the spatio-temporal video volume concept, an innovative spatio-temporal texture model has been proposed in this research for its rich crowd pattern characteristics. Through extracting and integrating those crowd textures from surveillance recordings, a redundancy wavelet transformation-based feature space can be deployed for behavioural template matching. Experiment shows that the abnormality appearing in crowd scenes can be identified in a real-time fashion by the devised method. This new approach is envisaged to facilitate a wide spectrum of crowd analysis applications through automating current Closed-Circuit Television (CCTV)-based surveillance systems."
-    },
-    {
         "title": "Best practices in an ICS environment",
         "conferenceTitle": "Cyber Security for Industrial Control Systems",
-        "Content Type": "Conferences",
-        "date": "2-3 Feb. 2015",
+        "data": "2-3 Feb. 2015",
         "authors": [
             "Hugh Boyes"
         ],
@@ -1998,8 +1881,7 @@
     {
         "title": "Prototype test apparatus for generator system with twin water wheel",
         "conferenceTitle": "2015 International Conference on Clean Electrical Power (ICCEP)",
-        "Content Type": "Conferences",
-        "date": "16-18 June 2015",
+        "data": "16-18 June 2015",
         "authors": [
             "N. Naoe",
             "A. Imazawa"
@@ -2011,8 +1893,7 @@
     {
         "title": "Frequency and timing distribution using optical methods",
         "conferenceTitle": "2015 Conference on Lasers and Electro-Optics (CLEO)",
-        "Content Type": "Conferences",
-        "date": "10-15 May 2015",
+        "data": "10-15 May 2015",
         "authors": [
             "Nathan R. Newbury"
         ],
@@ -2023,8 +1904,7 @@
     {
         "title": "5G-user centric network",
         "conferenceTitle": "2015 Asia-Pacific Microwave Conference (APMC)",
-        "Content Type": "Conferences",
-        "date": "6-9 Dec. 2015",
+        "data": "6-9 Dec. 2015",
         "authors": [
             "Guangyi Liu"
         ],
@@ -2035,8 +1915,7 @@
     {
         "title": "Device technologies for integrated packaged transceivers",
         "conferenceTitle": "2015 Optical Fiber Communications Conference and Exhibition (OFC)",
-        "Content Type": "Conferences",
-        "date": "22-26 March 2015",
+        "data": "22-26 March 2015",
         "authors": [
             "Robert A. Griffin"
         ],
@@ -2047,8 +1926,7 @@
     {
         "title": "Risk of Multiple Cross-Over of Control Characteristics in Multiterminal HVDC",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Carl Barker",
             "Robert Whitehouse",
@@ -2062,8 +1940,7 @@
     {
         "title": "Target location based on quasi-Newton algorithm in multistatic passive radar",
         "conferenceTitle": "IET International Radar Conference 2015",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2015",
+        "data": "14-16 Oct. 2015",
         "authors": [
             "Y. Feng",
             "H. Y. Sun",
@@ -2077,8 +1954,7 @@
     {
         "title": "5G - on the count of three ... ... paradigm shifts",
         "conferenceTitle": "5G Radio Technology Seminar. Exploring Technical Challenges in the Emerging 5G Ecosystem",
-        "Content Type": "Conferences",
-        "date": "17-17 March 2015",
+        "data": "17-17 March 2015",
         "authors": [
             "Christos Politis"
         ],
@@ -2087,10 +1963,23 @@
         "abstract": "Presents a collection of slides covering the following topics: WWRF; 5G enabling radio technology; wireless devices; wireless communications; ultra dense networks; UDN system; universal resources management; network function virtualization; and cloud RAN."
     },
     {
+        "title": "High-efficiency True Bridgeless Totem Pole PFC based on GaN HEMT: Design Challenges and Cost-effective Solution",
+        "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
+        "data": "19-20 May 2015",
+        "authors": [
+            "Liang Zhou",
+            "Yifeng Wu",
+            "Jim Honea",
+            "Zhan Wang"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "A true bridgeless Totem-Pole Power-Factor-Correction (TP-PFC) circuit is enabled by a diode-free GaN power HEMT bridge with low reverse-recovery charge. The proposed circuit introduces effective methods to resolve design challenges of current sensing and light load regulation, which can greatly reduce application cost and improve system stability. Experiments have been conducted to verify the proposed high efficiency AC/DC conversion of TP-PFC. Two types of GaN HEMT in TO220 and TO247 packages from Transphorm, Inc. have been successfully used in the proposed TP-PFC in 2 power levels. With 390Vdc output in continuous-current mode, a 1kW TP-PFC reaches 99% peak efficiency at 230V ac high-line input with 50KHz switching frequency, and a 2.4kW TP-PFC reaches 98.8% peak efficiency at high-line input with 100KHz switching frequency."
+    },
+    {
         "title": "Coin recognition based on geometric features",
         "conferenceTitle": "2015 23nd Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "16-19 May 2015",
+        "data": "16-19 May 2015",
         "authors": [
             "Burak Benligiray",
             "Halil Ibrahim Cakir",
@@ -2104,8 +1993,7 @@
     {
         "title": "Flex -PAM modulation formats for future optical transmission system",
         "conferenceTitle": "2015 Fotonica AEIT Italian Conference on Photonics Technologies",
-        "Content Type": "Conferences",
-        "date": "6-8 May 2015",
+        "data": "6-8 May 2015",
         "authors": [
             "R. Li",
             "P. Cortada",
@@ -2119,8 +2007,7 @@
     {
         "title": "Panel: Is design-for-security the new DFT?",
         "conferenceTitle": "2015 IEEE 33rd VLSI Test Symposium (VTS)",
-        "Content Type": "Conferences",
-        "date": "27-29 April 2015",
+        "data": "27-29 April 2015",
         "authors": [
             "Rob Aitken"
         ],
@@ -2131,8 +2018,7 @@
     {
         "title": "Dual-sided Cooling for Automotive Inverters - Practical Implementation with Power Module",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Jacek Marcinkowski",
             "Asantha Kempitiya",
@@ -2149,8 +2035,7 @@
     {
         "title": "DOA estimation based on a modified spatial spectrum",
         "conferenceTitle": "IET International Radar Conference 2015",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2015",
+        "data": "14-16 Oct. 2015",
         "authors": [
             "Fei Huang",
             "Zhuo Zhou",
@@ -2163,8 +2048,7 @@
     {
         "title": "ONF: Applying SDN to optical transport",
         "conferenceTitle": "2015 Optical Fiber Communications Conference and Exhibition (OFC)",
-        "Content Type": "Conferences",
-        "date": "22-26 March 2015",
+        "data": "22-26 March 2015",
         "authors": [
             "Dan Pitt"
         ],
@@ -2175,8 +2059,7 @@
     {
         "title": "Relay selection with threshold value for DF based cooperative systems",
         "conferenceTitle": "2015 23nd Signal Processing and Communications Applications Conference (SIU)",
-        "Content Type": "Conferences",
-        "date": "16-19 May 2015",
+        "data": "16-19 May 2015",
         "authors": [
             "Erdoğan Aydın",
             "Hacı İlhan"
@@ -2188,8 +2071,7 @@
     {
         "title": "Energy management of wind turbine-based DC microgrid utilizing modified differential evolution algorithm",
         "conferenceTitle": "International Conference on Renewable Power Generation (RPG 2015)",
-        "Content Type": "Conferences",
-        "date": "17-18 Oct. 2015",
+        "data": "17-18 Oct. 2015",
         "authors": [
             "M. Yu",
             "Y. Wang",
@@ -2202,8 +2084,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "2015 European Conference on Mobile Robots (ECMR)",
-        "Content Type": "Conferences",
-        "date": "2-4 Sept. 2015",
+        "data": "2-4 Sept. 2015",
         "authors": [],
         "DOI": "10.1109/ECMR.2015.7324178",
         "citation": 1,
@@ -2212,8 +2093,7 @@
     {
         "title": "Bistatic high-range resolution profiles of wobbling targets",
         "conferenceTitle": "IET International Radar Conference 2015",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2015",
+        "data": "14-16 Oct. 2015",
         "authors": [
             "Ai Xiaofeng",
             "Wang Liandong",
@@ -2227,8 +2107,7 @@
     {
         "title": "Passivity-based robust control for uncertain nonlinear feedback systems",
         "conferenceTitle": "2015 International Conference on Advanced Mechatronic Systems (ICAMechS)",
-        "Content Type": "Conferences",
-        "date": "22-24 Aug. 2015",
+        "data": "22-24 Aug. 2015",
         "authors": [
             "Ni Bu",
             "Mingcong Deng"
@@ -2240,8 +2119,7 @@
     {
         "title": "The New High Power Density 7th Generation IGBT Module for Compact Power Conversion Systems",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Thomas Heinzel",
             "Junya Kawabata",
@@ -2258,8 +2136,7 @@
     {
         "title": "Single-event effects in advanced CMOS technologies — Analysis and mitigation",
         "conferenceTitle": "2015 22nd International Conference Mixed Design of Integrated Circuits & Systems (MIXDES)",
-        "Content Type": "Conferences",
-        "date": "25-27 June 2015",
+        "data": "25-27 June 2015",
         "authors": [
             "Marek Turowski",
             "Klas Lilja"
@@ -2271,8 +2148,7 @@
     {
         "title": "Design of a self regulated flash type ADC with high resolution",
         "conferenceTitle": "Michael Faraday IET International Summit 2015",
-        "Content Type": "Conferences",
-        "date": "12-13 Sept. 2015",
+        "data": "12-13 Sept. 2015",
         "authors": [
             "A. Payra",
             "P. Dutta",
@@ -2286,8 +2162,7 @@
     {
         "title": "A New Analog Behavioral SPICE Macro Model with Thermal and Self-Heating effects for Silicon Carbide Power MOSFETs",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Gaetano Bazzano",
             "Daniela Grazia Cavallaro",
@@ -2302,8 +2177,7 @@
     {
         "title": "Research on feature extraction algorithm based on motor imagery EEGs",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Sun Yuge",
             "Ye Ning",
@@ -2316,8 +2190,7 @@
     {
         "title": "Sensorless operation technique of doubly-fed induction generator connected to DC grid through two full controlled converters",
         "conferenceTitle": "International Conference on Renewable Power Generation (RPG 2015)",
-        "Content Type": "Conferences",
-        "date": "17-18 Oct. 2015",
+        "data": "17-18 Oct. 2015",
         "authors": [
             "C. Wu",
             "H. Nian",
@@ -2330,8 +2203,7 @@
     {
         "title": "Firing rate dependence of \"truncation thresholds\"",
         "conferenceTitle": "2015 Medical Technologies National Conference (TIPTEKNO)",
-        "Content Type": "Conferences",
-        "date": "15-18 Oct. 2015",
+        "data": "15-18 Oct. 2015",
         "authors": [
             "Murat Okatan",
             "Mehmet Kocat&#FC;rk"
@@ -2343,8 +2215,7 @@
     {
         "title": "Design of low-power sensor interfaces in the IoT era",
         "conferenceTitle": "2015 6th International Workshop on Advances in Sensors and Interfaces (IWASI)",
-        "Content Type": "Conferences",
-        "date": "18-19 June 2015",
+        "data": "18-19 June 2015",
         "authors": [
             "Georges Gielen"
         ],
@@ -2355,8 +2226,7 @@
     {
         "title": "A Single-Stage AC-DC Modular Cascaded Multilevel Converter Feasible to SST Applications",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Demercil S. Oliveira",
             "Dalton de A. Honorio",
@@ -2370,8 +2240,7 @@
     {
         "title": "Adaptive dynamic surface control for hypersonic vehicle with input nonlinearity",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Guoqiang Zhu",
             "Jinkun Liu"
@@ -2383,8 +2252,7 @@
     {
         "title": "Towards a high resolution grip measurement device for orthopaedics",
         "conferenceTitle": "2015 IEEE Virtual Reality (VR)",
-        "Content Type": "Conferences",
-        "date": "23-27 March 2015",
+        "data": "23-27 March 2015",
         "authors": [
             "Marc R. Edwards",
             "Peter Vangorp",
@@ -2397,8 +2265,7 @@
     {
         "title": "A novel chaos oscillation and its application in wireless communication",
         "conferenceTitle": "2015 International Conference on Smart and Sustainable City and Big Data (ICSSC)",
-        "Content Type": "Conferences",
-        "date": "26-27 July 2015",
+        "data": "26-27 July 2015",
         "authors": [
             "Y. Q. Fu",
             "X. Y. Li"
@@ -2410,8 +2277,7 @@
     {
         "title": "Robust global disturbance rejection of spacecraft rendezvous system via gain scheduling",
         "conferenceTitle": "2015 34th Chinese Control Conference (CCC)",
-        "Content Type": "Conferences",
-        "date": "28-30 July 2015",
+        "data": "28-30 July 2015",
         "authors": [
             "Wang Qian",
             "Xue Anke",
@@ -2424,8 +2290,7 @@
     {
         "title": "Improved harmony search algorithm with differential operator for absolute value equation",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Yong Longquan"
         ],
@@ -2436,8 +2301,7 @@
     {
         "title": "Dynamic Analysis of a Modular Multilevel Converter Based VSC-HVDC System Incorporating Transformer Magnetisation Characteristics",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "J. Vaheeshan",
             "M. Barnes",
@@ -2448,23 +2312,9 @@
         "abstract": "When an HVDC system is subjected to AC side short circuit faults, the transformer core might be driven to saturation at fault recovery due to flux offset. The saturation will therefore cause the flow of inrush currents. In this paper, dynamic models of a MMC based VSC-HVDC system incorporating transformer magnetisation characteristics are derived and verified. Using disturbance sensitivity functions, the impact of attenuation of inrush currents due to different locations of current sensors (of inner current controller) is investigated. It is shown that placing the current sensor at the converter side of the transformer enable the inrush currents to attenuate faster and prevents the converter from overcurrent exposure, allowing it to more successfully ride-through faults."
     },
     {
-        "title": "Multisensor concealed weapon detection using the image fusion approach",
-        "conferenceTitle": "6th International Conference on Imaging for Crime Prevention and Detection (ICDP-15)",
-        "Content Type": "Conferences",
-        "date": "15-17 July 2015",
-        "authors": [
-            "Tuzhi Xu",
-            "Q. M. Jonathan Wu"
-        ],
-        "DOI": "10.1049/ic.2015.0108",
-        "citation": 1,
-        "abstract": "In this paper, an efficient concealed weapon detection (CWD) algorithm based on image fusion is presented. First, the images obtained using different sensors are decomposed into low and high frequency bands with the double-density dual-tree complex wavelet transform (DDDTCWT). Then two novel decision methods are introduced referring to the characteristics of the frequency bands, which significantly improves the image fusion performance for CWD application. The fusion of low frequency bands coefficients is determined by the local contrast, while the high frequency band fusion rule is developed by considering both the texture feature of the human visual system (HVS) and the local energy basis. Finally, the fused image is obtained through the inverse DDDTCWT. Experiments and comparisons demonstrate the robustness and efficiency of the proposed approach and indicate that the fusion rules can be applied to different multiscale transforms. Also, our work shows that the fusion result using the proposed fusion rules on DDDTCWT is superior to other combinations as well as previously proposed approaches."
-    },
-    {
         "title": "Hybrid Control System for large Arrays of Transformer-Coupled Zero Voltage Switching Buck-Boost DC-DC Converters",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Xiaoyan Yu",
             "Joseph Aguilar"
@@ -2476,8 +2326,7 @@
     {
         "title": "Towards economic and social \"sensors\": Condition and model of governance and decision-making for an organological Smart City",
         "conferenceTitle": "2015 International Conference on Smart and Sustainable City and Big Data (ICSSC)",
-        "Content Type": "Conferences",
-        "date": "26-27 July 2015",
+        "data": "26-27 July 2015",
         "authors": [
             "Jean-Pascal Foucault",
             "Yann Moulier-Boutang"
@@ -2489,8 +2338,7 @@
     {
         "title": "Controllers for interconnected systems with communication delays",
         "conferenceTitle": "2015 54th IEEE Conference on Decision and Control (CDC)",
-        "Content Type": "Conferences",
-        "date": "15-18 Dec. 2015",
+        "data": "15-18 Dec. 2015",
         "authors": [
             "A. N. Gündeş",
             "Liansing C. Chow"
@@ -2502,8 +2350,7 @@
     {
         "title": "Smart Stator Tooth Design with novel Control and Safety Functions in Electric Vehicle Drivetrains",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Philip Brockerhoff",
             "Yves Burkhardt",
@@ -2517,8 +2364,7 @@
     {
         "title": "Multiple low rank matrix approach to switched autoregressive exogenous system identification",
         "conferenceTitle": "2015 10th Asian Control Conference (ASCC)",
-        "Content Type": "Conferences",
-        "date": "31 May-3 June 2015",
+        "data": "31 May-3 June 2015",
         "authors": [
             "Katsumi Konishi"
         ],
@@ -2529,8 +2375,7 @@
     {
         "title": "DC Voltage Droop Control Implementation in the AC/DC Power Flow Algorithm: Combinational Approach",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "F. Akhter",
             "D.E. Macpherson",
@@ -2544,8 +2389,7 @@
     {
         "title": "Architectures and Control for Multi-terminal DC (MTDC) Distribution Network-A Review",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Minxia Yang",
             "Da Xie",
@@ -2559,8 +2403,7 @@
     {
         "title": "Frequency-response Analysis and Compensator Enhancement of Droop Control for VSC-HVDC",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "W. Wang",
             "M. Barnes",
@@ -2573,8 +2416,7 @@
     {
         "title": "Distributed robust consensus tracking control of higher-order nonlinear systems",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Gang Wang",
             "Chaoli Wang",
@@ -2587,8 +2429,7 @@
     {
         "title": "Microstrip aperture-coupled antenna design for in-space power reception experiment using nano-sized satellite",
         "conferenceTitle": "2015 USNC-URSI Radio Science Meeting (Joint with AP-S Symposium)",
-        "Content Type": "Conferences",
-        "date": "19-24 July 2015",
+        "data": "19-24 July 2015",
         "authors": [
             "Corey A.M. Bergsrud",
             "Sima Noghanian"
@@ -2600,8 +2441,7 @@
     {
         "title": "People counting system based on improved Gaussian background model",
         "conferenceTitle": "2015 International Conference on Smart and Sustainable City and Big Data (ICSSC)",
-        "Content Type": "Conferences",
-        "date": "26-27 July 2015",
+        "data": "26-27 July 2015",
         "authors": [
             "Zhao Baozhu",
             "Zhu Qiuyu",
@@ -2614,8 +2454,7 @@
     {
         "title": "Semi-supervised affinity propagation clustering algorithm based on kernel function",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Zhao Xiaoqiang",
             "Xie Yaping"
@@ -2627,8 +2466,7 @@
     {
         "title": "SDN control of a coherent Open Line System",
         "conferenceTitle": "2015 Optical Fiber Communications Conference and Exhibition (OFC)",
-        "Content Type": "Conferences",
-        "date": "22-26 March 2015",
+        "data": "22-26 March 2015",
         "authors": [
             "Jeffrey Cox"
         ],
@@ -2639,8 +2477,7 @@
     {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "2015 Tenth International Conference on Ecological Vehicles and Renewable Energies (EVER)",
-        "Content Type": "Conferences",
-        "date": "31 March-2 April 2015",
+        "data": "31 March-2 April 2015",
         "authors": [],
         "DOI": "10.1109/EVER.2015.7112999",
         "citation": 1,
@@ -2649,8 +2486,7 @@
     {
         "title": "This article discusses the deployment of the accessibility guidelines proposed by the World Wide Web Consortium, an international community that develops standards in order to guarantee Web growth",
         "conferenceTitle": "2015 International Symposium on Computers in Education (SIIE)",
-        "Content Type": "Conferences",
-        "date": "25-27 Nov. 2015",
+        "data": "25-27 Nov. 2015",
         "authors": [],
         "DOI": "10.1109/SIIE.2015.7451717",
         "citation": 1,
@@ -2659,8 +2495,7 @@
     {
         "title": "Notice of Removal: Driving capability of SG FinFET and IG FinFET",
         "conferenceTitle": "2015 International Conference on Electrical, Electronics, Signals, Communication and Optimization (EESCO)",
-        "Content Type": "Conferences",
-        "date": "24-25 Jan. 2015",
+        "data": "24-25 Jan. 2015",
         "authors": [
             "Ankja Dubey",
             "Sandeep Singh Gill"
@@ -2672,8 +2507,7 @@
     {
         "title": "New Approaches to Improve the Performance of Inductive Current Sensors",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Stefan Hain",
             "Mark-M. Bakran"
@@ -2685,8 +2519,7 @@
     {
         "title": "Analysis of the stable operation of micro-grid based on PV, wind power and storage system",
         "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
+        "data": "23-25 May 2015",
         "authors": [
             "Yujie Huang",
             "Qiuxuan Wu",
@@ -2700,8 +2533,7 @@
     {
         "title": "Lloyd-Max Quantization of Correlated Processes: How to Obtain Gains by Receiver-Sided Time-Variant Codebooks",
         "conferenceTitle": "SCC 2015; 10th International ITG Conference on Systems, Communications and Coding",
-        "Content Type": "Conferences",
-        "date": "2-5 Feb. 2015",
+        "data": "2-5 Feb. 2015",
         "authors": [
             "Sai Han",
             "Tim Fingscheidt"
@@ -2713,8 +2545,7 @@
     {
         "title": "Simulating Saturation Behavior of Common Mode Chokes",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Joern Schliewe",
             "Martin Neudecker",
@@ -2727,8 +2558,7 @@
     {
         "title": "High voltage module with low internal inductance for next chip generation - next High Power Density Dual (nHPD2)",
         "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "Content Type": "Conferences",
-        "date": "19-20 May 2015",
+        "data": "19-20 May 2015",
         "authors": [
             "Daisuke Kawase",
             "Masamitsu Inaba",
@@ -2742,8 +2572,7 @@
     {
         "title": "Voltage Control of Offshore Load Connected to a Multi-Terminal HVDC Transmission System",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "Content Type": "Conferences",
-        "date": "10-12 Feb. 2015",
+        "data": "10-12 Feb. 2015",
         "authors": [
             "Z. Solhjoukhah",
             "A. Egea-Alvarez",
@@ -2752,33 +2581,5 @@
         "DOI": "10.1049/cp.2015.0063",
         "citation": 1,
         "abstract": "This paper presents a voltage control for an offshore load fed by a Multi-Terminal VSC-HVDC transmission system (MTHVDC). The studied system is composed by two GSCs (Grid Side Converters) and one OSC (Offshore Side Converter). The objective is to maintain the amplitude and frequency of the AC voltage constant at the offshore terminal with a minimum overshoot. A vector control strategy including a current control loop and a voltage control loop is proposed for the OSC and also LQG (Linear-Quadratic-Gaussian) compensator is employed to improve the voltage response of offshore load. The performance of this controller is validated using simulation in MATLAB/SIMULINK software for three operating conditions: normal operation, no-load and start-up of the offshore load. Simulation results illustrate that the AC voltage of load can be governed at its nominal value and MT-HVDC system linked to the offshore load with the proposed controller is able to provide a reliable dynamic operation and a desirable voltage quality during load variations."
-    },
-    {
-        "title": "Collaborative observation algorithm for multiple moving targets using a PTZ camera assisted by a wide-angle camera",
-        "conferenceTitle": "The 27th Chinese Control and Decision Conference (2015 CCDC)",
-        "Content Type": "Conferences",
-        "date": "23-25 May 2015",
-        "authors": [
-            "Li Haifeng",
-            "Wu Lufeng",
-            "Su Jieqiong"
-        ],
-        "DOI": "10.1109/CCDC.2015.7162024",
-        "citation": 1,
-        "abstract": "To deal with the contradictions between camera field of view and resolution in visual observation, a collaborative observation algorithm for multiple moving targets using a Pan-Tilt-Zoom camera assisted by a wide-angle camera is designed. Firstly, the low resolution images are captured by the wide-angle camera, based on that multiple moving targets are detected, tracked and predicted. Then, for the multiple observation requested generated from the multiple targets, a visual tracking algorithm for the PTZ camera is developed. The factors, such as the image resolution, vision coverage range and response to tracking requests, are taken into account in the algorithm, and the desired pose of the PTZ camera is worked out optimally. Finally, the vehicle tracking experiments both in a simulated airport and actual traffic scenes are carried out, and the experimental results demonstrate that the proposed algorithm in this paper is accurate and time-efficient."
-    },
-    {
-        "title": "Ship target detection for complicated inner harbor SAR images",
-        "conferenceTitle": "IET International Radar Conference 2015",
-        "Content Type": "Conferences",
-        "date": "14-16 Oct. 2015",
-        "authors": [
-            "Yingzhi Kan",
-            "Yongfeng Zhu",
-            "Qiang Fu"
-        ],
-        "DOI": "10.1049/cp.2015.1220",
-        "citation": 1,
-        "abstract": "Ship detection of harbors is significant to defeat enemy's firepower before forming. Realization of ship detection in SAR harbor images accurately and efficiently is a hot topic nowadays. The complexity of the inner harbor and the uncertainty of target types make it difficult to achieve effective ship target detection of harbor SAR images and the detection procedure is complicated. The paper analyzes the procedure of ship detection of the inner harbor SAR images, utilizes the gradient based level sets evolution method to extract the coastline, then detects ship target in the ROI inner harbor. The experiment certifies an effective result of ship target detection."
     }
 ]
