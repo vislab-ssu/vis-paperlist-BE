@@ -1,0 +1,1948 @@
+[
+    {
+        "title": "Comparative assessment of polarimetric features estimation in fully polarimetric 3D-ISAR imaging system",
+        "conferenceTitle": "International Conference on Radar Systems (RADAR 2022)",
+        "data": "24-27 Oct. 2022",
+        "authors": [
+            "F. Mancuso",
+            "E. Giusti",
+            "A. Kumar",
+            "S. Ghio",
+            "M. Martorella"
+        ],
+        "DOI": "10.1049/icp.2022.2343",
+        "citation": 3,
+        "abstract": "Fully polarimetric 3D-ISAR helps to achieve better three-dimensional reconstruction with respect to the single polarization 3D-ISAR approach. This is useful to obtain more populated point clouds and to improve the estimation of the interferometric phases of the scattering centres that belong to the target. A more reliable reconstruction improves the performance of ATR (Automatic Target Recognition) algorithms. The whole process relies upon the scattering centres extraction procedure, through which the complex amplitudes of the scatterers are estimated. By using polarimetry within this iterative procedure, better results can be obtained. More than one approach is available in the literature: the Polarimetric CLEAN searches for the channel where the brightest scatterer has the highest power, while the Modified Polarimetric CLEAN arranges the data (iteration by iteration) in a subspace where either the SNR is maximum or the interference is minimum.We analyzed the performance of the two techniques in terms of accuracy of polarimetric features estimation by using a simulated target. The results suggest that the Polarimetric CLEAN already performs remarkably well, but there is still space for improvement, and the Modified Polarimetric CLEAN can actually achieve better results."
+    },
+    {
+        "title": "The Supercomputer “Fugaku”",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Mitsuhisa Sato"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768096",
+        "citation": 2,
+        "abstract": "Summary form only given. The supercomputer “Fugaku” is an exascale system, which is operated since March 2021 in R-CCS, Japan. Fugaku is an ultra-scale “general-purpose” manycore-based system with 158,976 nodes, 7.6M cores in total. We developed a new manycore processor, A64FX, designed for Fugaku, well as a system including interconnect and a storage subsystem with the industry partner, Fujitsu. A64FX supports Arm instruction sets with Scalable Vector Extension (SVE) SIMD instruction sets and is equipped with HBM2 memory. Since 2014 we have been carrying out a national project named as the FLAGSHIP 2020 Project to develop “Fugaku” system with a variety of scientific applications with computational science researchers. The “co-design” of the system and applications was a key to making it power efficient and high performance. In this talk, the system and performance of Fugaku will be presented as well as an overview of the FLAGSHIP 2020 project."
+    },
+    {
+        "title": "Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems",
+        "conferenceTitle": "2022 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+        "data": "14-23 March 2022",
+        "authors": [
+            "Haoyu Yang",
+            "Kit Fung",
+            "Yuxuan Zhao",
+            "Yibo Lin",
+            "Bei Yu"
+        ],
+        "DOI": "10.23919/DATE54114.2022.9774671",
+        "citation": 2,
+        "abstract": "Legalization conducts refinements on post-globalplacement cell location to compromise design constraints and parameters. These include placement fence regions, power/ground rail alignments, timing, wire length and etc. In advanced technology nodes, designs can easily contain millions of mutiple-row standard cells, which challenges the scalability of modern legalization algorithms. In this paper, for the first time, we investigate dedicated legalization algorithms on heterogeneous platforms, which promises intelligent usage of CPU and GPU resources and hence provides new algorithm design methodologies for large scale physical design problems. Experimental results on IC/CAD 2017 and ISPD 2015 contest benchmarks demonstrate the effectiveness and the efficiency of the proposed algorithm, compared to the state-of-the-art legalization solution for mixedcell-height designs."
+    },
+    {
+        "title": "Video Action Detection: Analysing Limitations and Challenges",
+        "conferenceTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+        "data": "19-20 June 2022",
+        "authors": [],
+        "DOI": "10.1109/CVPRW56347.2022.00538",
+        "citation": 1,
+        "abstract": "Beyond possessing large enough size to feed data hungry machines (eg, transformers), what attributes measure the quality of a dataset? Assuming that the definitions of such attributes do exist, how do we quantify among their relative existences? Our work attempts to explore these questions for video action detection. The task aims to spatio-temporally localize an actor and assign a relevant action class. We first analyze the existing datasets on video action detection and discuss their limitations. Next, we propose a new dataset, Multi Actor Multi Action (MAMA) which overcomes these limitations and is more suitable for real world applications. In addition, we perform a biasness study which analyzes a key property differentiating videos from static images: the temporal aspect. This reveals if the actions in these datasets really need the motion information of an actor, or whether they predict the occurrence of an action even by looking at a single frame. Finally, we investigate the widely held assumptions on the importance of temporal ordering: is temporal ordering important for detecting these actions? Such extreme experiments show existence of biases which have managed to creep into existing methods inspite of careful modeling."
+    },
+    {
+        "title": "Semiconductor Evolution for Chip and System Design- From 2D Scaling to 3D Heterogeneous Integration",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "L.C. Lu"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768086",
+        "citation": 1,
+        "abstract": "Summary form only given. Semiconductor systems, whether cell-phones, laptops, servers or machine learning accelerators, require an increasing number of processing units, larger caches and faster interfaces while managing cost and power dissipation. As we continue to push the transistor, interconnect and memory scaling to smaller geometries, the industry is moving quickly towards 3D heterogeneous integration for higher density, performance and faster time-to-market. This presentation will review recent market trends and focus on advances in process scaling for libraries, memories and external interfaces. We will cover several design and technology co-optimization (DTCO) techniques that enable higher transistor density and performance. One example is the 2D fin depopulation from 4 to 3 and more recently 2 fins. We will also explore heterogeneous integration, where complex systems are partitioned into multiple chiplets that are assembled in 2.5D or 3D topologies. In particular, we will discuss 3D integration performance and energy improvements, as well as mitigation techniques for cooling and yield challenges."
+    },
+    {
+        "title": "Advanced Packaging Ecosystem: Challenges and Solutions",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9771035",
+        "citation": 1,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Advanced packaging architectures are today widely acknowledged as being increasingly important to drive performance and cost improvements of microelectronics systems. This trend is set to continue as on-package heterogeneous integration of diverse IP from multiple process nodes and multiple foundries will enable new product concepts, decrease time to market and deliver cost/yield benefits. Additionally, novel 3D architectures and continued die-to-die interconnect scaling are opening previously un-achievable concepts for die partitioning. These advanced packaging architectures provide a means to offer improved functional integration, but also present technical challenges across the supply chain [Die -> Package -> Board -> System]. This presentation will highlight key challenges the industry will have to jointly address to enable the 3D heterogeneous integration future. Key areas of focus will be: (1) Drivers and directions in interconnect scaling, (2) Standardization of die-to-die connections, (3) Thermal management to address new power envelopes, and (4) Advanced power delivery technologies required to address the needs of complex packages. The talk will conclude with a call for broad collaboration across industry and academia in multiple areas including technology R&D, design, standardization, and supply chain development."
+    },
+    {
+        "title": "Keynote Speaker: The Hitchhiker's Guide to the Metaverse",
+        "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
+        "data": "12-16 March 2022",
+        "authors": [
+            "Pan Hui"
+        ],
+        "DOI": "10.1109/VRW55335.2022.00049",
+        "citation": 1,
+        "abstract": "We envision in the future the virtual world will mix and co-exist with the physical world in such an immersive way that we cannot tell what is real and what is virtual. We will live and interact with the virtual objects that are blended into our environments with advanced holographic technology or with high-quality head mounted displays and lose the virtuality boundary. We call such a new reality Surreality. Our vision of “metaverse” is a multi-world. There are multiple virtual worlds developed by different technology companies and there is also the Surreality where real and virtual merged. While the metaverse may seem futuristic, catalysed by emerging technologies such as Extended Reality, 5G, and Artificial Intelligence, the digital “big bang” of our cyberspace is not far away. This talk aims to offer a comprehensive framework that examines the latest metaverse development under the dimensions of state-of-the-art technologies and metaverse ecosystems, illustrates the possibility of the digital “big bang”, and propose a concrete research agenda for the development of the metaverse. Reality will die; long live Surreality."
+    },
+    {
+        "title": "A Survey for Using AI Techniques for Predicting COVID-19",
+        "conferenceTitle": "2022 International Conference on Computer Science and Software Engineering (CSASE)",
+        "data": "15-17 March 2022",
+        "authors": [
+            "Hanan A. Aldabagh",
+            "Ghayda A. Altalib"
+        ],
+        "DOI": "10.1109/CSASE51777.2022.9759691",
+        "citation": 1,
+        "abstract": "Response Surface Methodology (RSM) has succeeded in different scientific areas, such as engineering, pharmaceutics, agriculture, and living and chemical experiments, where linear or quadratic models describe one or more explanatory variables that influence the response variable. When linear and quadratic models fail to represent data using RSM adequately, an alternative technique must be used, which involves choosing the appropriate transformations applied to either the response variable or the explanatory variables. A Tukey transformation and Box-Cox method are applied to the response variable in this article to improve the model's adequacy. A previously performed biological experiment is presented, and RSM is applied with power transformations without iterating the experiment. A parameter in the transformed response surface models is also estimated using the maximum likelihood and Draper and Smith methods."
+    },
+    {
+        "title": "Workshop on Dependable Safety System - ANSHIN & Safety for Robots & Intelligent Systems",
+        "conferenceTitle": "2022 IEEE/SICE International Symposium on System Integration (SII)",
+        "data": "9-12 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/SII52469.2022.9708818",
+        "citation": 1,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Safety is the most crucial issue for developing and applying various robots and systems nowadays. The service robot has a wide range of applications diversely exploited in our society as suggested in the definition of World Robotics, IFR. The safety discussed here includes both physical safety and ANSHIN. The physical safety means a common sense of safety as suggested by safety engineering, industrial safety standard, etc. The physical safety will include issues on how to secure safety and safety recovery from unsafe conditions in explosion, disaster, contamination and whatever dangerous. ANSHIN means psychological safety or mind safety, which includes various feelings and states of mind; familiarity, peace of mind, no stress, no anxiety, etc. The topic on AHSHIN comes to more important issue when we bring the service robots and systems to their actual applications. How we feel toward service robot and intelligent systems working in and around our daily life, how we evaluate our ANSHIN situation quantitatively are crucial as well as securing physical safety of robots and systems. We need to discuss both safeties in the aspects of what the state-of-the arts, what is the current issues, how we solve them. The workshop aims to discuss a wide range of safety issues on robots and systems. The workshop is planned to include keynotes and several voluntarily proposed talks selected by call for proposal. Topics of interest include, but are not limited to: safety recovery from contamination, destruction & disaster; robot/system safety to prevent human from dangerous and harmful environment; safety in human machine interaction; safety by teleoperation; analysis, evaluation & designing of ANSHIN robot/system (friendly & psychologically secured robot/system); safety standard; ethics; privacy; legal issues; sustainability. "
+    },
+    {
+        "title": "New Technologies for Next-Generation MRAM",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9770999",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Giant tunnel magnetoresistance (TMR) effect and spin-transfer torque (STT) in MgO-based magnetic tunnel junctions (MTJs) are the key technologies in magnetoresistive random access memory (MRAM). STT-MRAM has been commercialized as embedded non-volatile memory for system LSI. For MRAM to replace SRAM, however, MRAM needs to have higher speed and lower energy consumption for writing. For developing such advanced MRAM, we have been working on new writing technology as well as MTJs with materials. Voltage-induced dynamic switching based on voltage control of magnetic anisotropy (VCMA) is expected to be an ultimate writing technology with ultra-low power consumption. By doping 5d elements into Fe electrode of MgO-based MTJ, we have achieved very high VCMA coefficient (>300 fJ/Vm), which is sufficient for cache memory application. The biggest remaining issue for developing novel voltage-controlled MRAM (VC-MRAM) is the high write error rate (WER) of the dynamic switching. By controlling the spin dynamics induced by ultra-fast voltage pulses, we have successfully suppressed WER below 10-6, which is sufficiently low for some applications. Aiming at more reliable voltage-induced switching, we have also been working on new writing methods based on VCMA. We have also developed new process technologies such as epitaxial growth of MTJ films on large Si wafers and 3-dimensional integration process based on direct wafer bonding to integrate fully epitaxial MTJs in MRAM chips. With these new process technologies, we can use MTJs with new barrier/electrode materials in MRAM."
+    },
+    {
+        "title": "Development of Intelligent Tunnel Boring Machines",
+        "conferenceTitle": "2022 IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
+        "data": "4-6 May 2022",
+        "authors": [],
+        "DOI": "10.1109/CSCWD54268.2022.9776075",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. The key technology in tunnel boring machines in China has experienced significant progress in recent years, some of which are leading the world. Intelligent tunnel boring machine, based on automation, unmanned, and intelligence, is the future trend of tunnel boring technology. It can realize the safety, adaption, and coordination of the tunnel boring process. The presentation focuses on four aspects, including intelligent design, intelligent perception, intelligent manipulation, and intelligent maintenance. A recent development and outlook on the key technology of the intelligent tunnel boring machine is also discussed."
+    },
+    {
+        "title": "PDF Not Yet Available In IEEE Xplore®",
+        "conferenceTitle": "2022 IEEE Radar Conference (RadarConf22)",
+        "data": "21-25 March 2022",
+        "authors": [],
+        "DOI": "10.1109/RadarConf2248738.2022.9764180",
+        "citation": 0,
+        "abstract": "The document that should appear here is not currently available. IEEE Xplore® is working to obtain a replacement PDF. That PDF will be posted as soon as it is available."
+    },
+    {
+        "title": "Scope of ICCCI 2022",
+        "conferenceTitle": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+        "data": "25-27 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCCI54379.2022.9741038",
+        "citation": 0,
+        "abstract": "India has the greatest potential to address the global challenges in the engineering and design arena. 400+ global Engineering R&D companies already have their presence in our Country. The major part of young talents with diverse skill set, along with growing academic and research infrastructure and a progressive policy environment creates more research activities in the country. The new dimension of globalization of R&D and FDI support spurs the momentum of growth opportunities for the R&D activities in Engineering."
+    },
+    {
+        "title": "Is remote patient monitoring the future of healthcare?",
+        "conferenceTitle": "2022 IEEE Zooming Innovation in Consumer Technologies Conference (ZINC)",
+        "data": "25-26 May 2022",
+        "authors": [
+            "Margarita Anastassova"
+        ],
+        "DOI": "10.1109/ZINC55034.2022.9840730",
+        "citation": 0,
+        "abstract": "Many countries face a shortage of either healthcare professionals, or healthcare facilities. For this reason, technologies for remote patient monitoring were and are currently proposed as a viable alternative. In this keynote, we will present a number of such technologies and their possible applications. We will also discuss patients' experiences with them, with a focus on positive aspects, but also on fears and frustrations. We will illustrate the talk with a number of examples from projects developed at the Sensory and Ambient Interfaces Laboratory in CEA LIST, France. We will also draw a number of conclusions on the future development and applications of technologies for remote patient monitoring."
+    },
+    {
+        "title": "Front Matter",
+        "conferenceTitle": "2022 10th International Conference on Cyber and IT Service Management (CITSM)",
+        "data": "20-21 Sept. 2022",
+        "authors": [],
+        "DOI": "10.1109/CITSM56380.2022.9935986",
+        "citation": 0,
+        "abstract": "Contains various advertisements, welcome messages, committee or program information, and other miscellaneous conference information. This may in some cases also include the table of contents, copyright statements, title-page or half title-pages, blank pages, venue maps or other general information relating to the conference that was part of the original conference proceedings."
+    },
+    {
+        "title": "Keynote Address: WBG-Devices on Modern Power Electronics and Electric Drives",
+        "conferenceTitle": "2022 29th International Workshop on Electric Drives: Advances in Power Electronics for Electric Drives (IWED)",
+        "data": "26-29 Jan. 2022",
+        "authors": [
+            "Moumita Das"
+        ],
+        "DOI": "10.1109/IWED54598.2022.9722587",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. The keynote report addresses wide-bandgap semiconducting devices for Power Electronics Converters and Electric Drives applications. The comparison of silicon (Si), silicon-carbide (SiC), gallium nitride (GaN) devices based on power and switching frequency was discussed. The structural comparison of Si, SiC, and GaN devices was presented. The applications in power electronics converters, AC motor drives using energy-efficient hybrid (Si+SiC/GaN) devices were considered. The advantages and challenges of using wide-bandgap devices for high-power, high-frequency applications were discussed. The hardware results use in the projects considering transistors were given as prime examples."
+    },
+    {
+        "title": "Characterization of Thermal Interface Materials for Power Electronics Applications",
+        "conferenceTitle": "2022 38th Semiconductor Thermal Measurement, Modeling & Management Symposium (SEMI-THERM)",
+        "data": "21-25 March 2022",
+        "authors": [],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "No abstract of the presentation was provided. The complete presentation was not made available for publication as part of the conference proceedings. "
+    },
+    {
+        "title": "Poster Paper Placeholder",
+        "conferenceTitle": "2022 American Control Conference (ACC)",
+        "data": "8-10 June 2022",
+        "authors": [
+            "Zhiyuan Zhang"
+        ],
+        "DOI": "10.23919/ACC53348.2022.9867511",
+        "citation": 0,
+        "abstract": "Since this is a poster only submission and no paper submission is required. I’m submitting a placeholder document to fullfill the style requirement. Please let me know if this is not acceptable, my sincere apologies."
+    },
+    {
+        "title": "International Conference on Energy and Power Engineering",
+        "conferenceTitle": "2022 International Conference on Energy and Power Engineering (ICEPE)",
+        "data": "24-26 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICEPE56629.2022.10044911",
+        "citation": 0,
+        "abstract": "International Conference on Energy and Power Engineering."
+    },
+    {
+        "title": "2022 IEEE International Workshop on Metrology for Agriculture and Forestry",
+        "conferenceTitle": "2022 IEEE Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)",
+        "data": "3-5 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/MetroAgriFor55389.2022.9964549",
+        "citation": 0,
+        "abstract": "Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to use any copyrighted component of this work in other works must be obtained from the IEEE."
+    },
+    {
+        "title": "Cover",
+        "conferenceTitle": "2022 15th International Conference Management of large-scale system development (MLSD)",
+        "data": "26-28 Sept. 2022",
+        "authors": [],
+        "DOI": "10.1109/MLSD55143.2022.9934716",
+        "citation": 0,
+        "abstract": "Presents the front cover, title page, or splash screen of the proceedings record."
+    },
+    {
+        "title": "Hybrid Thin-film In-plane III-V/Si-related Photonic Integration",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9771021",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Silicon photonics (SiP) has been shown as one of the key photonic integration (PI) technologies for applications of next generation data interconnections, where higher capacity and cost-effective data processing can be introduced through CMOS-compatible processing. However, due to the indirect bandgap properties in Si-related material, efficiency and optical generation in SiP is restricted. Integration of thin-film III-V quantum confined material then has become one of the best solutions for fulfilling future applications. Several types of hybrid III-V/Si optical waveguide devices for emerging high-speed data applications will be introduced and presented. Chip-scale in-plane III-V active devices have been integrated on Si-related material passive devices through adhesive material. Selective undercut etching technique for self-alignment processing between different materials were used to develop optical mode converter, realizing high-performance and small-footprint light source and modulators and thus enabling PI. By taking the advantages of Si grating-based element and III-V etching technique, high power with low reflection functional optical light source can be brought on the level SiP, enabling vertical type of PI. Properties such as high speed as high as above 58Gbaul optical modulation, mW scale of optical power level, and high-efficiency modulation have been shown, realizing such hybrid PI template."
+    },
+    {
+        "title": "2022 IEEE Congress on Evolutionary Computation (CEC)",
+        "conferenceTitle": "2022 IEEE Congress on Evolutionary Computation (CEC)",
+        "data": "18-23 July 2022",
+        "authors": [],
+        "DOI": "10.1109/CEC55065.2022.9870418",
+        "citation": 0,
+        "abstract": "Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE."
+    },
+    {
+        "title": "Copyright Notice",
+        "conferenceTitle": "2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD)",
+        "data": "30 Nov.-2 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICSMD57530.2022.10058058",
+        "citation": 0,
+        "abstract": "Copyright Notice."
+    },
+    {
+        "title": "Map",
+        "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
+        "data": "20-22 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/IKT57960.2022.10039034",
+        "citation": 0,
+        "abstract": "Map."
+    },
+    {
+        "title": "Copyright and Reprint Permission",
+        "conferenceTitle": "2022 8th International Conference on Nanomanufacturing & 4th AET Symposium on ACSM and Digital Manufacturing (Nanoman-AETS)",
+        "data": "30 Aug.-1 Sept. 2022",
+        "authors": [],
+        "DOI": "10.1109/Nanoman-AETS56035.2022.10119479",
+        "citation": 0,
+        "abstract": "Libraries are permitted to photocopy beyond the limit of U.S. copyright law for private use of patrons those articles in this volume that carry a code at the bottom of the first page, provided the per-copy fee indicated in the code is paid through Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923. For reprint or republication permission, email to IEEE Copyrights Manager at pubs-permissions@ieee.org. All rights reserved."
+    },
+    {
+        "title": "About this Publication",
+        "conferenceTitle": "2022 14th International Conference on Knowledge and Systems Engineering (KSE)",
+        "data": "19-21 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/KSE56063.2022.9953779",
+        "citation": 0,
+        "abstract": "Presents the introductory welcome message from the conference proceedings. May include the conference officers' congratulations to all involved with the conference event and publication of the proceedings record."
+    },
+    {
+        "title": "A multi-agent framework for scheduling fully electrified public transport",
+        "conferenceTitle": "13th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2022)",
+        "data": "7-9 Nov. 2022",
+        "authors": [
+            "S. Sharma",
+            "S. Bhattacharya",
+            "D. Kiran",
+            "B. Hu",
+            "M. Prandtstetter",
+            "B. Azzopardi"
+        ],
+        "DOI": "10.1049/icp.2023.0057",
+        "citation": 0,
+        "abstract": "This paper describes a framework for scheduling electric buses with the aim of minimizing their overall operational costs as well as the required fleet. The scheduling problem of electric buses comes with several real-time constraints such as the location of the charging stations, number of time-tabled trips, the distance between the depots, etc. The main objective is to minimize the running costs of the electric buses on the road network while satisfying the underlying constraints. The cooperative multi-agent model segregates the scheduling problem into a master agent and a bus agent through asymmetric communication, and this decentralized approach allows the scheduling to happen in a real-time scenario. The proposed scheme is tested on the public transport network of the Maltese Islands."
+    },
+    {
+        "title": "Workshop Committees",
+        "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
+        "data": "3-4 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/SMAP56125.2022.9941884",
+        "citation": 0,
+        "abstract": "Lists the conference organizers, sponsors, patrons, and/or committee members."
+    },
+    {
+        "title": "Speaker [2 abstracts]",
+        "conferenceTitle": "2022 International Conference for Advancement in Technology (ICONAT)",
+        "data": "21-22 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICONAT53423.2022.9725971",
+        "citation": 0,
+        "abstract": "Summary form only given. Provides an abstract for each of the presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Keynote Speakers",
+        "conferenceTitle": "2022 Fifth International Conference of Women in Data Science at Prince Sultan University (WiDS PSU)",
+        "data": "28-29 March 2022",
+        "authors": [],
+        "DOI": "10.1109/WiDS-PSU54548.2022.00011",
+        "citation": 0,
+        "abstract": "Provides a brief abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Back Cover",
+        "conferenceTitle": "2022 10th International Conference on Cyber and IT Service Management (CITSM)",
+        "data": "20-21 Sept. 2022",
+        "authors": [],
+        "DOI": "10.1109/CITSM56380.2022.9935988",
+        "citation": 0,
+        "abstract": "Presents the back cover from the conference publication."
+    },
+    {
+        "title": "Keynote Address: Impedance-Source Networks: Features, Benefits and Challenges for Industrial Application",
+        "conferenceTitle": "2022 29th International Workshop on Electric Drives: Advances in Power Electronics for Electric Drives (IWED)",
+        "data": "26-29 Jan. 2022",
+        "authors": [
+            "Oleksandr Husev"
+        ],
+        "DOI": "10.1109/IWED54598.2022.9722589",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. This talk was devoted to the impedance source converters. General operation principles of the impedance-source networks along with their features and benefits are demonstrated. Brief overview of varieties of impedance-source networks and its derivation will be given. Finally, examples of pre-industrial prototypes considering multi-objective optimization will be discussed. Feasibility in the commercial application will be discussed in conclusions."
+    },
+    {
+        "title": "A64FX: 52 Core Processor Designed for the Supercomputer Fugak",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Takekazu Tabata"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768080",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. In supercomputing, high-performance computing (HPC) applications require large amounts of parallel processing capability and high memory bandwidth. Recently, artificial intelligence (AI) applications, which have characteristics similar to HPC applications, have played an important role in supercomputers. The supercomputer Fugaku has a large number of general-purpose processors for high performance, high-density implementation as well as low power consumption to realize a massive parallel system for multiple applications targeting HPC and AI. Furthermore, in terms of availability, reliability in large-scale systems such as Fugaku is important. Fugaku is a supercomputer comprising >7.6 million cores and has remained No.1 in the Top 500 for three consecutive terms because it achieved 442 Petaflops at 29.9 Mega Wat in June 2020. In this session, for large-scale systems, we describe how CPUs in Fugaku solve challenges of high performance, low power consumption, and reliability."
+    },
+    {
+        "title": "What Are 2D Materials Good For?",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Eric Pop"
+        ],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9770968",
+        "citation": 0,
+        "abstract": "Summary form only. This talk will present my (admittedly biased) perspective of what two-dimensional (2D) materials could be good for. For example, they may be good for applications where their ultrathin nature and lack of dangling bonds give them distinct advantages, such as flexible electronics [1] or DNA-sorting nanopores [2] . They may not be good for applications where conventional materials work well, like in transistors thicker than a few nanometers. I will focus on the case of 2D materials for 3D heterogeneous integration of electronics, which presents significant advantages for energy-efficient computing [3] . In this context, 2D materials could be monolayer transistors with ultralow leakage [4] (taking advantage of larger band gaps than silicon), used as access devices for high-density data storage [5] . For example, recent results from our group have shown monolayer transistors with record performance [6] , [7] , which cannot be achieved with sub-nanometer thin conventional semiconductors. I will also describe some less conventional applications, using 2D materials as highly efficient thermal insulators [8] and as thermal transistors [9] . These could enable control of heat in “thermal circuits” analogous with electrical circuits. Combined, these studies reveal fundamental limits and some unusual applications of 2D materials, which take advantage of their unique properties."
+    },
+    {
+        "title": "Keynote Address by Dr. Nalin Asanka Gamagedara Arachchilage",
+        "conferenceTitle": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+        "data": "23-24 Feb. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICARC54489.2022.9754072",
+        "citation": 0,
+        "abstract": "Provides an abstract of the presentation and may include a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "RFIC Plenary Speaker 1",
+        "conferenceTitle": "2022 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "data": "19-21 June 2022",
+        "authors": [],
+        "DOI": "10.1109/RFIC54546.2022.9863188",
+        "citation": 0,
+        "abstract": "RFIC Plenary Speaker 1."
+    },
+    {
+        "title": "COVID-19 AI & Simulation Project: Overview and Lessons Learned",
+        "conferenceTitle": "2022 IEEE International Conference on Big Data (Big Data)",
+        "data": "17-20 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/BigData55660.2022.10020219",
+        "citation": 0,
+        "abstract": "Summary form only. COVID-19 AI & Simulation Project under the cabinet secretariat of the Japanese Government aims at providing risk mitigation measures for COVID- 19 infection using technological solutions as well as informing a range of simulation results and data analysis for quality decision making by the policymakers."
+    },
+    {
+        "title": "Keynotes [6 abstracts]",
+        "conferenceTitle": "2022 IEEE 16th International Conference on Semantic Computing (ICSC)",
+        "data": "26-28 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICSC52841.2022.00008",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "2022 IEEE International Symposium on Olfaction and Electronic Nose (ISOEN) Proceedings",
+        "conferenceTitle": "2022 IEEE International Symposium on Olfaction and Electronic Nose (ISOEN)",
+        "data": "29 May-1 June 2022",
+        "authors": [],
+        "DOI": "10.1109/ISOEN54820.2022.9789681",
+        "citation": 0,
+        "abstract": "Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE."
+    },
+    {
+        "title": "Additive Manufacturing in Electronics – Filament Overview and Special Focus on Carbon Black Filament Properties Investigation",
+        "conferenceTitle": "PCIM Europe 2022; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
+        "data": "10-12 May 2022",
+        "authors": [
+            "Andre Schuhl",
+            "Katharina J. Schiffhauer",
+            "Emanuel Lemnitz",
+            "Ulf Schwalbe"
+        ],
+        "DOI": "10.30420/565822146",
+        "citation": 0,
+        "abstract": "Advantages of 3D printing have led to its use in most diverse industries plus the low budget segment in printed electronics. Printing of FDM-printed PCBs with a low budget printer is possible e.g., a connection for small low power sensor and visualisation applications. Already the filaments research for additive manufacturing shows, that the FDM-printed PCB conductivity must be significantly lower compared to copper use. The investigation of FDM-printed PCBs versus conventional PCBs regarding their current-carrying capacity and thermal properties confirm comparable results. The conductive filament can only safely conduct currents in the single-digit mA range at wider cross-sections. Upon higher current application, it exhibits hot conductor properties and a permanently lower conductor resistance. The results reveal new uses, and these provide the opportunity for further investigations."
+    },
+    {
+        "title": "Abstract of Presentations on March 7th",
+        "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
+        "data": "7-9 March 2022",
+        "authors": [],
+        "DOI": "10.1109/LifeTech53646.2022.9754823",
+        "citation": 0,
+        "abstract": "Presents abstracts for the articles comprising the conference proceedings."
+    },
+    {
+        "title": "Papers by title",
+        "conferenceTitle": "2022 IEEE International Conference on Consumer Electronics (ICCE)",
+        "data": "7-9 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCE53296.2022.9730241",
+        "citation": 0,
+        "abstract": "Papers by title."
+    },
+    {
+        "title": "Introduction to Continuous Variable Quantum Key Distribution",
+        "conferenceTitle": "2022 Optical Fiber Communications Conference and Exhibition (OFC)",
+        "data": "6-10 March 2022",
+        "authors": [
+            "Takuya Hirano"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "In this talk, we will review the present status of continuous-variable quantum key distribution, including optical configuration and security analysis, and would like to discuss future prospects for integration with coherent optical communications."
+    },
+    {
+        "title": "The Road to Fuse With and Beyond Silicon Circuits for 2D Materials",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9770974",
+        "citation": 0,
+        "abstract": "Summary form only given. The complete presentation was not made available for publication as part of the conference proceedings. As the feature size of silicon-based integrated circuits (ICs) approaches the physical limit, short-channel effects appear, gate control attenuates, and leakage current increases, which seriously affects transistor performance and causes chip failure. Due to the inherent thickness of bulk silicon, the physical area cannot be further reduced, which restricts the area efficiency of silicon-based ICs. In addition, the speed mismatch between memory readout and logic operation, and the separation of memory and computing units together form the memory wall bottleneck in silicon-based ICs. With unique characteristics, including no dangling bond surface, atomic-level thickness, abundant adjustable energy bands, excellent optical electrostatic properties etc., two-dimensional (2D) materials have the potential to enhance gate control, reduce leakage, improve energy and area efficiency, and realize the integration of perception, memory and computing. This report discusses the roadmap for the fusion of 2D materials and silicon ICs, including alleviating the problems faced by silicon ICs from the application of 2D materials in gate-all-around, memory and logic transistors, and enabling the creation of an all-in-one sensing, memory and computing system. Finally, it provides an outlook on the challenges and promising paths to fusing 2D materials with silicon ICs for largescale applications."
+    },
+    {
+        "title": "Complex Frequency",
+        "conferenceTitle": "2022 IEEE Power & Energy Society General Meeting (PESGM)",
+        "data": "17-21 July 2022",
+        "authors": [
+            "Federico Milano"
+        ],
+        "DOI": "10.1109/PESGM48719.2022.9917164",
+        "citation": 0,
+        "abstract": "The paper introduces the concept of complex frequency. The imaginary part of the complex frequency is the variation with respect of a synchronous reference of the local bus frequency as commonly defined in power system studies. The real part is defined based on the variation of the voltage magnitude. The latter term is crucial for the correct interpretation and analysis of the variation of the frequency at each bus of the network. The paper also develops a set of differential equations that describe the link between complex powers and complex frequencies at network buses in transient conditions. No simplifications are assumed the usual approximations of the models utilized for the transient stability analysis of power systems. A variety of analytical and numerical examples show the applications and potentials of the proposed concept."
+    },
+    {
+        "title": "Blockchain networks' energy consumption and environmental impact: Economic, political, and social discourses and key argumentations",
+        "conferenceTitle": "2022 IEEE Zooming Innovation in Consumer Technologies Conference (ZINC)",
+        "data": "25-26 May 2022",
+        "authors": [
+            "Nir Kshetri"
+        ],
+        "DOI": "10.1109/ZINC55034.2022.9840557",
+        "citation": 0,
+        "abstract": "Blockchain networks' energy consumption has been a hot and controversial issue. This presentation analyzes the discourses surrounding blockchains' energy consumption and takes a look at the actors and actions involved. It also provides a critical evaluation of a number of considerations and factors that affect blockchain networks' energy consumption and resulting environmental impacts."
+    },
+    {
+        "title": "Proceedings 2022 8th International Conference on Big Data and Information Analytics",
+        "conferenceTitle": "2022 8th International Conference on Big Data and Information Analytics (BigDIA)",
+        "data": "24-25 Aug. 2022",
+        "authors": [],
+        "DOI": "10.1109/BigDIA56350.2022.9874145",
+        "citation": 0,
+        "abstract": "Proceedings 2022 8th International Conference on Big Data and Information Analytics."
+    },
+    {
+        "title": "Author index",
+        "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
+        "data": "20-22 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/IKT57960.2022.10039005",
+        "citation": 0,
+        "abstract": "Author index."
+    },
+    {
+        "title": "Keynote Speakers [4 abstracts]",
+        "conferenceTitle": "2022 5th International Conference on Computing and Informatics (ICCI)",
+        "data": "9-10 March 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCI54321.2022.9756113",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "2D Materials for Memory, Computing and 6G Applications",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9770976",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. This work focuses on the discovery of memory effect in 2D atomically-thin nanomaterials towards greater scientific understanding and advanced engineering applications. Non-volatile memory devices based on 2D materials are an application of defects and is a rapidly advancing field with rich physics that can be attributed to atomic vacancies combined with metal adsorption. In particular the talk will highlight our pioneering work on monolayer memory (atomristors) that has expanded to over a dozen 2D sheets. In monolayer materials, the basic physics can be understood from a virtual conductive point model in contrast to conductive bridge in conventional emerging memory. The few layer materials show behavior similar to conductive bridge devices. The 2D atomristors can enable various applications including zero-power devices, non-volatile RF switches for 5G/6G communication, and memristors for neuromorphic computing."
+    },
+    {
+        "title": "Copyright Page",
+        "conferenceTitle": "2022 International Conference on System Science and Engineering (ICSSE)",
+        "data": "26-29 May 2022",
+        "authors": [],
+        "DOI": "10.1109/ICSSE55923.2022.9947357",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "Keynotes",
+        "conferenceTitle": "2022 30th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)",
+        "data": "9-11 March 2022",
+        "authors": [],
+        "DOI": "10.1109/PDP55904.2022.00009",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "2022 IEEE International Conference on Connected Vehicles and Expo (ICCVE) Proceedings",
+        "conferenceTitle": "2022 International Conference on Connected Vehicle and Expo (ICCVE)",
+        "data": "7-9 March 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCVE52871.2022.9742790",
+        "citation": 0,
+        "abstract": "Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE."
+    },
+    {
+        "title": "IEEE WMED 2022 Keynote Address [8 abstracts]",
+        "conferenceTitle": "2022 IEEE 19th Annual Workshop on Microelectronics and Electron Devices (WMED)",
+        "data": "8-8 April 2022",
+        "authors": [],
+        "DOI": "10.1109/WMED55302.2022.9758006",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Cover Page",
+        "conferenceTitle": "2022 Fourth International Conference on Cognitive Computing and Information Processing (CCIP)",
+        "data": "23-24 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/CCIP57447.2022.10058677",
+        "citation": 0,
+        "abstract": "Cover Page."
+    },
+    {
+        "title": "Keynote Address: Exploring Inverter Topologies for Machine-tool Drives",
+        "conferenceTitle": "2022 29th International Workshop on Electric Drives: Advances in Power Electronics for Electric Drives (IWED)",
+        "data": "26-29 Jan. 2022",
+        "authors": [
+            "Alecksey Anuchin"
+        ],
+        "DOI": "10.1109/IWED54598.2022.9722599",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. The talk presents two projects, which were carried out for machine-tool industry. The first one is the spindle drive based on a 3-level inverter topology capable of 30000 rpm with the rated power of 40 kW. The inverter unit has premium efficiency even at 16 kHz pulse-width modulation frequency. Coupled with a line filter it can be used as an active front-end as well. The performance of the proposed solution is compared with that of conventional 2-level power converters and pros and cons of both implementations are considered. The second project considers GaN switches implementation in a servo amplifier. The problems of high dv/dt, high current measurement delay and reliability issues were investigated. It was shown that novel inverter topologies and solutions can bring strong benefits to the market of machine-tool drives."
+    },
+    {
+        "title": "Silicon Photonics for Scaling the Cloud and Enabling AI",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Yoojin Ban"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768090",
+        "citation": 0,
+        "abstract": "Summary form only given. The complete presentation was not made available for publication as part of the conference proceedings. Artificial Intelligence and Cloud Computing are driving an exponentially growing demand for optical interconnect bandwidth. From the datacenter network down to the chip level, Silicon Photonics is a prime technology to scale optical interconnects to the desired bandwidth density, power and cost. In this presentation, we give an overview of imec's Silicon Photonics Platform (iSiPP), designed to realize optical I/O scaling by leveraging established CMOS manufacturing and advanced 3-D integration methods. We will discuss recently developed high-speed silicon optical devices, TSVenabled Silicon Photonics interposers and low-loss fiber coupling structures. We will showcase a hybrid FinFET CMOS-Silicon Photonics optical I/O module prototype, featuring optical bandwidth density beyond 1Tbps/mm2. Finally, we will briefly highlight some emerging applications beyond optical interconnect, enabled by Silicon Photonics."
+    },
+    {
+        "title": "Executive Committee",
+        "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
+        "data": "20-22 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/IKT57960.2022.10039007",
+        "citation": 0,
+        "abstract": "Executive Committee."
+    },
+    {
+        "title": "Title Page",
+        "conferenceTitle": "2021 International Conference on Biomedical Innovations and Applications (BIA)",
+        "data": "2-4 June 2022",
+        "authors": [],
+        "DOI": "10.1109/BIA52594.2022.9831221",
+        "citation": 0,
+        "abstract": "Presents the conference title page."
+    },
+    {
+        "title": "Silicon Photonics for Next Generation Computing Systems",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9771029",
+        "citation": 0,
+        "abstract": "Summary form only given. The complete presentation was not made available for publication as part of the conference proceedings. In the era of Digital Transformation, mitigation of environmental loads of computing systems is an urgent issue in the world. Recently, energy-efficient and capacity-scalable computing systems, such as disaggregated/distributed computing systems, are developed, where photonic technologies are intensively implemented. Silicon photonics is a unique solution to the implementation of photonics widely in computing systems. It has superior performance in energy efficiency, integration density and volume production. It would provide us ultra-wideband data transmission engines for disaggregated/distributed computing systems. It would also provide us ultra-low latency photonic neuromorphic computing engines which would be applied as processing accelerators in fast-response edge computing systems. In this talk, features of silicon photonics technology are reviewed, and moreover, recently-developed R&D eco-system in Japan is briefly touched."
+    },
+    {
+        "title": "Reviewers",
+        "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
+        "data": "20-22 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/IKT57960.2022.10038995",
+        "citation": 0,
+        "abstract": "Reviewers."
+    },
+    {
+        "title": "SE2: Morning Session: Next Generation Circuit Designer 2022 Workshop",
+        "conferenceTitle": "2022 IEEE International Solid-State Circuits Conference (ISSCC)",
+        "data": "20-26 Feb. 2022",
+        "authors": [],
+        "DOI": "10.1109/ISSCC42614.2022.9731553",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. A complete record of the tutorial workshop was not made available for publication as part of the conference proceedings. The IEEE SSCS Women in Circuits together with ISSCC will be sponsoring the first “Next-Generation Circuit Designer 2022” for young professionals and students. Next-Generation Circuit Designer 2022 is a virtual educational workshop for a diverse set of graduate and undergraduate students, and young professionals who have graduated with B.S. degrees within the last two years, who are interested in learning how to excel at academic and industry careers in computer science, computer, and electrical engineering."
+    },
+    {
+        "title": "Copyright",
+        "conferenceTitle": "2022 15th International Conference on Security of Information and Networks (SIN)",
+        "data": "11-13 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/SIN56466.2022.9970496",
+        "citation": 0,
+        "abstract": "Abstracting is permitted with credit to the source. Libraries are permitted to photocopy beyond the limit of U.S. copyright law, for private use of patrons, those articles in this volume that carry a code at the bottom of the first page, provided the per-copy fee indicated in the code is paid through the Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923."
+    },
+    {
+        "title": "Non-Uniform Sampling Data Converters: A Journey to Uncharted Circuits and Systems",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Shuo-Wei Chen"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768053",
+        "citation": 0,
+        "abstract": "Uniform sampling has been widely adopted in today's circuit designs, ranging from data converters (ADC and DAC), and discrete-time signal processing (such as switched-capacitor filters). It is a welldeveloped processing technique that leads to many circuit architectures. However, Nyquist theory does not limit us to processing the samples in a strictly uniform time grid so long as the average sample rate is sufficiently high, i.e., no loss of signal information. Why not sample the analog signal in a non-uniform time grid? What is the benefit by doing so? What is the underlying signal processing implication? In this talk, I will provide a background overview and explore new opportunities in nonuniform sampling (NUS) along with different ADC architectures that leveraged non-uniform sampling. In addition, I will show how NUS can be extended beyond an ADC and enable a different direction for a receiver design. Thanks to the unique properties of NUS, there are interesting possibilities for uncharted circuit and system design directions."
+    },
+    {
+        "title": "[Keynotes - 2 abstracts]",
+        "conferenceTitle": "2022 14th International Conference on Knowledge and Smart Technology (KST)",
+        "data": "26-29 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/KST53302.2022.9727232",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Copyright Page",
+        "conferenceTitle": "2022 14th International Conference on Knowledge and Systems Engineering (KSE)",
+        "data": "19-21 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/KSE56063.2022.9953795",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "Thermal challenges in advanced 3D System Integration: “Keeping cool while turning up the heat”",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9771000",
+        "citation": 0,
+        "abstract": "Summary form only given. The complete presentation was not made available for publication as part of the conference proceedings. As advanced CMOS technology keeps scaling, monolithic large scale heterogeneous system-on-chip integration becomes ever more challenging, technically, and economically. While individual functions for memory storage or logic still benefit significantly from CMOS scaling, the optimum implementation is diverging. Therefore, functional chip partitioning and heterogeneous system integration is increasingly being adopted. To avoid performance degradation caused by heterogeneous integration, short, low-parasitic, chip-to-chip interconnects are required. 3D integration technologies are now available to efficiently realize 3D connections across the entire system hierarchy: from the package to the die, to the wafer, to the standard cell and even to the transistor level, spanning an exponential 3D interconnect density scale of up to 9 orders of magnitude. As 3D integration allow for the integration of more compact systems, it also implies that power dissipation density increases, and power delivery and heat removal become significant challenges. Hot spots become increasingly localized and time variant. This requires rethinking of the standard high performance cooling approaches. This will be the main topic of this presentation."
+    },
+    {
+        "title": "Low-power Continuous-time Delta-sigma ADCs",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Youngcheol Chae"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768088",
+        "citation": 0,
+        "abstract": "The demand for low-power ADCs is increasing in battery-powered applications, and research has also been conducted on low-power continuous-time delta-sigma modulators (CTDSMs) in recent years. This talk explores various techniques to improve the energy efficiency of CTDSMs with some design examples."
+    },
+    {
+        "title": "Bridging the Physical and Digital Worlds in Data-Driven Systems",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Boris Murmann"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768092",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Mixed-signal interfaces are the essential bridges between the physical world and the digital information processing backbone. In recent years, innovation in such interfaces has been increasingly fueled by application-level insight and the data-driven nature of modern systems. As a result, the traditional building block boundaries are blurring, and the extraction of information occurs through symbiotic interplay between analog and digital signal processing. In this talk, I will illustrate this trend using examples of small-scale data analysis and machine learning inference systems that operate near the physical interface. Specific examples include data-compressive interfaces for high-dimensional sensor inputs and mixed-signal feature extraction and compute fabrics for machine learning."
+    },
+    {
+        "title": "2022 International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE) - 54957",
+        "conferenceTitle": "2022 International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE)",
+        "data": "24-26 Feb. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICAEEE54957.2022.9836423",
+        "citation": 0,
+        "abstract": "This file contains the copyright page, table of contents, author index, and packing list of the proceedings. The folder contains 86 papers as PDF format which are presented at the conference and transferred eCF to IEEE via online."
+    },
+    {
+        "title": "2022 International Conference on Energy and Power Engineering (ICEPE)",
+        "conferenceTitle": "2022 International Conference on Energy and Power Engineering (ICEPE)",
+        "data": "24-26 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICEPE56629.2022.10044893",
+        "citation": 0,
+        "abstract": "2022 International Conference on Energy and Power Engineering (ICEPE)."
+    },
+    {
+        "title": "Potential Capacity and Targeted Costs for Floating Photovoltaics in North America",
+        "conferenceTitle": "2022 IEEE 49th Photovoltaics Specialists Conference (PVSC)",
+        "data": "5-10 June 2022",
+        "authors": [
+            "Leonardo Micheli"
+        ],
+        "DOI": "10.1109/PVSC48317.2022.9938915",
+        "citation": 0,
+        "abstract": "Floating Photovoltaics (FPV) is getting significant attention worldwide, pushed by the lower rent fees of water surfaces compared to land and by the lack of competition with agriculture. This work makes use of previously presented methodologies to analyze the FPV potential in the northern American countries, estimating the yields of systems installed on the inland water basins. The FPV cost of electricity is also discussed and compared with that of traditional land-based photovoltaic (LPV) systems. This way, it is possible to estimate the capital expenditure that FPV should target to be cost-competitive with LPV."
+    },
+    {
+        "title": "IEEE VR 2022 Keynote Speaker: Tim Dwyer",
+        "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)",
+        "data": "12-16 March 2022",
+        "authors": [],
+        "DOI": "10.1109/VR51125.2022.00013",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and may include a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Special Event: Student Research Preview (SRP)",
+        "conferenceTitle": "2022 IEEE International Solid-State Circuits Conference (ISSCC)",
+        "data": "20-26 Feb. 2022",
+        "authors": [],
+        "DOI": "10.1109/ISSCC42614.2022.9731555",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. The Student Research Preview (SRP) will highlight selected student research projects in progress. The SRP consists of 15 ninety-second presentations followed by a Poster Session, by graduate students from around the world, who have been selected on the basis of a short submission concerning their on-going research. Selection is based on the technical quality and innovation of the work. This year, the SRP will be presented in two theme sections: Digital and Machine Learning, and Analog and Radio."
+    },
+    {
+        "title": "Workshops",
+        "conferenceTitle": "2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)",
+        "data": "21-25 March 2022",
+        "authors": [],
+        "DOI": "10.1109/PerComWorkshops53856.2022.9767323",
+        "citation": 0,
+        "abstract": "Summary form only. Provides an abstract for each of the workshop presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Awards",
+        "conferenceTitle": "2022 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD)",
+        "data": "30 Nov.-2 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICSMD57530.2022.10058398",
+        "citation": 0,
+        "abstract": "Awards."
+    },
+    {
+        "title": "Faster and Longer",
+        "conferenceTitle": "2022 28th International Semiconductor Laser Conference (ISLC)",
+        "data": "16-19 Oct. 2022",
+        "authors": [
+            "Yuzo Yoshikuni"
+        ],
+        "DOI": "10.23919/ISLC52947.2022.9943469",
+        "citation": 0,
+        "abstract": "Although the fiber optic backbone had been completed, R&D of semiconductor lasers became more active with the goal of longer and faster transmissions. The $1.55 \\upmu\\mathrm{m}$ band had contributed significantly to longer distances, but required a new challenge, the development of single-mode laser under high-speed modulations. The DFB enabled single mode lasing, however modulation-induced chirping was still a problem for higher speed. Modulation schemes were analyzed theoretically and experimentally to reduce the chirping. This study enabled high-speed transmission up to 10 Gb/s, but also revealed a fundamental trade-off between chirping linewidth and modulation speed. This trade-off, would limit transmission length and bitrate, promoted developments of new devices, including the external feedback laser, the multi-electrode DFB laser, and the EA integrated DFB laser."
+    },
+    {
+        "title": "The First Japan Long Haul Fiber Network was Completed in 1985",
+        "conferenceTitle": "2022 28th International Semiconductor Laser Conference (ISLC)",
+        "data": "16-19 Oct. 2022",
+        "authors": [
+            "Kazuo Hagimoto"
+        ],
+        "DOI": "10.23919/ISLC52947.2022.9943473",
+        "citation": 0,
+        "abstract": "It marked the beginning of a trunk line network that would replace the coaxial cable lines and microwave lines that had supported Japan's telecommunications network up to that time, and would serve as the network infrastructure that would support the upcoming digital society. With optical fiber and semiconductor lasers as new weapons supported by completely new mechanisms, great deal of efforts were devoted to the vision and verification of the reliability and economic efficiency that should be provided as a social infrastructure. We would like to look back on the systems approach toward the construction of a new era, and use it as good lessons for progress in 5G and beyond networks."
+    },
+    {
+        "title": "IEEE VR 2022 Keynote Speaker: Aliesha Staples",
+        "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)",
+        "data": "12-16 March 2022",
+        "authors": [],
+        "DOI": "10.1109/VR51125.2022.00014",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and may include a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Proceedings of the 13th Nternational Conference on Information and Knowledge Technology",
+        "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
+        "data": "20-22 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/IKT57960.2022.10039015",
+        "citation": 0,
+        "abstract": "Proceedings of the 13th Nternational Conference on Information and Knowledge Technology."
+    },
+    {
+        "title": "Powertrain trends in electric trucks",
+        "conferenceTitle": "2022 24th European Conference on Power Electronics and Applications (EPE'22 ECCE Europe)",
+        "data": "5-9 Sept. 2022",
+        "authors": [
+            "Luciana C. Afonso"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Regulations demanding reduction of CO2 and other greenhouse gas emissions are being implemented worldwide and they are the main driver for electrification in transportation. This presentation focuses on the trends of electric powertrain for trucks, their configuration in the vehicle, their limitations and optimization potential."
+    },
+    {
+        "title": "Cryo-CMOS for Quantum Computing: the road ahead",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9770986",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Quantum computers require a classical – i.e., non-quantum – electronic interface to drive quantum operations on quantum bits (qubits), and to read out their quantum state. As quantum processors scale up to comprise more and more cryogenic qubits, the availability of a cryogenic electronic controller is crucial to support such scaling by avoiding the many unreliable and bulky interconnects connecting the cryogenic devices to room-temperature controllers. In this talk, we will review the latest advances in cryo-CMOS electronics for quantum-computing applications, both by TU Delft and other academic and industrial researchers, so as to identify the current trends and the needs still to be addressed. In particular, we will focus on the progress in the development of the individual high-performance circuit blocks (ADC, PLL, LNA,…) and in the trend to integrate qubit drivers, readouts, and biasing in largescale SoCs. By addressing the unsolved issues in this rapidly growing research field, we will outline the path towards the future comprehensive cryo-CMOS electronic interfaces that will enable largescale quantum computers."
+    },
+    {
+        "title": "The Manipulations of Electronic Structure and Interface Chemistry of Functionalized 2D Materials for Advanced Nanoelectronics",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9770990",
+        "citation": 0,
+        "abstract": "Summary form only given. The complete presentation was not made available for publication as part of the conference proceedings. Two-dimensional (2D) materials (graphene, black phosphorus (BP), TMDs, etc) have been intensively studied over the past decades owing to their tremendous electrical properties, which shows potential for next-generation nan-electronics. However, before the particle integration of 2D materials into the IC devices, there still exhibits many issues, including the air/process instability, limited electronic structure modification, and lack of defect-free and wafer scaled transferring process. In this talk, the first part, we report for the first time on the in-situ cleaning and selective functionalization of 2D BP, where the selective functionalization and passivation not only enhanced stability in the air but also highly improve the electrical properties of the BP field-effect transistor (FET), with the high on-current and enhanced carrier mobility and on/off ratio. Also, the BP as functional active layers for artificial synapse memristors will be demonstrated. In the second part, I will introduce the efficient and reliable method for the wafer-scaled transferring of graphene and other 2D materials with higher integrity and ultraclean surface, which is beneficial for the following BEOL device integration. Also, the ultraclean transferring of a 6” graphene wafer will be demonstrated as an ideal epitaxial substrate for the industrial growth of high crystallinity of GaN for future niche lighting and high-power devices."
+    },
+    {
+        "title": "Cover",
+        "conferenceTitle": "2022 IEEE 20th Jubilee International Symposium on Intelligent Systems and Informatics (SISY)",
+        "data": "15-17 Sept. 2022",
+        "authors": [],
+        "DOI": "10.1109/SISY56759.2022.10036250",
+        "citation": 0,
+        "abstract": "Cover"
+    },
+    {
+        "title": "Challenges and Opportunities in AI Hardware Design",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9771037",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. The use of deep-learning (DL) based AI has grown dramatically over the last few years. The accuracy delivered by DL has enabled new levels of automation for many tasks, and DL has proven to be very effective for processing unstructured data such as natural language and image data that is difficult to handle otherwise. The computational demands of these AI methods are high and are growing exponentially; satisfying them requires large improvements in compute latency, throughput, and energy efficiency. To address the challenges and opportunities of AI computing, the IBM Research AI Hardware Center has undertaken an end-to-end approach to enhance compute efficiency and improve performance. This includes developing algorithmic innovations such as arithmetic precision scaling while maintaining iso-accuracy, new digital AI chip architectures informed by these new algorithms, novel analog in-memory hardware with networks mapped on to arrays of non-volatile memory elements, heterogeneous integration technologies to enable balanced system performance, and the software innovations needed to enable system integration. In this presentation I will explore the challenges and opportunities in this exciting space of AI hardware design."
+    },
+    {
+        "title": "An Illustrative Sketch of a Superconducting Device",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9771041",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Superconducting (SC) qubit devices are now greater than 100 qubits. Extending beyond 1000 qubits is in the offing. There are many opportunities to improve upon present ‘brute force’ approaches to achieve 1000 qubits and beyond. Many areas of expertise in the VLSI community overlap research directions for extending SC device size including: materials, processing, metrology, packaging, RF electronics, microwave transduction as well as system co-design. This talk will coarsely sketch a representative hardware system that is deployed by IBM to highlight some overlaps with the VLSI community interests. The talk will then discuss an illustration of variable qubit infidelity, ε, across a device. A common challenge in solid-state approaches is variability in materials, fabrication and resulting coherence times. A uniform ε well below 10-3 is often estimated in the literature as what will be needed to make quantum error correction (QEC) practical (i.e., large scale quantum computing (QC) practical). The ε target can, however, become stricter in the presence of a spread of infidelities and the presence of ‘unusable’ qubits. Numbers of qubits necessary for a task are non-linearly dependent on the target value, in the QEC paradigm, which highlights the importance of maximizing uniformity and yield. The example highlights, therefore, an area of related interests, finesse of materials, fabrication and packaging for devices sensitive in some instances to control at the atomic scale."
+    },
+    {
+        "title": "Copyrights",
+        "conferenceTitle": "2022 15th International Conference on Information Security and Cryptography (ISCTURKEY)",
+        "data": "19-20 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/ISCTURKEY56345.2022.9931792",
+        "citation": 0,
+        "abstract": "Abstracting is permitted with credit to the source. Libraries are permitted to photocopy beyond the limit of U.S. Copyright law for private use of patrons those articles in this volume that carry a code at the bottom of the first page, provided the per-copy fee indicated in the code is paid through Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923. For reprint or republication permission, email to IEEE Copyright Manager at pubspermission@ieee.org."
+    },
+    {
+        "title": "Front Cover",
+        "conferenceTitle": "2022 10th International Conference on Cyber and IT Service Management (CITSM)",
+        "data": "20-21 Sept. 2022",
+        "authors": [],
+        "DOI": "10.1109/CITSM56380.2022.9935969",
+        "citation": 0,
+        "abstract": "Presents the front cover, title page, or splash screen of the proceedings record."
+    },
+    {
+        "title": "About Institution",
+        "conferenceTitle": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+        "data": "25-27 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCCI54379.2022.9740866",
+        "citation": 0,
+        "abstract": "Sri Shakthi Institute of Engineering and Technology (SIET) was establishedin the year 2006 by Dr.S. Thangavelu, with the zeal to provide quality Engineering Education to the young minds and to make them innovative employable Engineers."
+    },
+    {
+        "title": "Practical Considerations of In-Memory Computing in the Deep Learning Accelerator Applications",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Jen-Wei Liang"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768061",
+        "citation": 0,
+        "abstract": "The high power-efficiency requirement of the deep learning accelerator (DLA) draws attention to the in-memory computing technologies in the recent years. Several memory types such as MRAM, ReRAM, SRAM, PCM are potential candidates, and research groups make major progress in the TOPS/W index over the years. Different application scenarios of deep learning accelerators may impose constraints and limitations that favor one candidate over another. Thus, it is important to consider pros and cons of each in-memory computing technology to meet the system requirement. In this presentation, we would like to discuss some practical considerations in the deep learning accelerator design when we want to fully utilize the advantages of in-memory computing technologies."
+    },
+    {
+        "title": "Atomic-layer-deposited Atomically Thin In2O3 Channel for BEOL Logic and Memory Applications",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Peide Ye"
+        ],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9770988",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. In this talk, we report on the first demonstration of atomically thin In 2 O 3 channel for logic and memory devices by a back-end-of-line (BEOL) compatible atomic layer deposition (ALD) process [1] , [2] . High performance planar In 2 O 3 transistors with high mobility of 113 cm 2 /V•s and record high maximum drain current of 2.5 mA/um are achieved by channel thickness engineering and post-deposition annealing. High-performance ALD In 2 O 3 based zero-V GS -load inverter is demonstrated with maximum voltage gain of 38 V/V and minimum supply voltage (V DD ) down to 0.5 V. ALD In 2 O 3 3D Fin transistors are also demonstrated, benefiting from the conformal deposition capability of ALD [3] . High-performance In 2 O 3 ferro-electric transistors are demonstrated using ALD HfZrO 2 gating with >2.2V large memory window, >10 years retention and >10 8 endurance [4] . These results suggest ALD oxide semiconductors and devices have unique advantages and are promising toward BEOL-compatible monolithic 3D integration."
+    },
+    {
+        "title": "8th International Conference on Advanced Computing & Communication Systems (ICACCS 2022)",
+        "conferenceTitle": "2022 8th International Conference on Advanced Computing and Communication Systems (ICACCS)",
+        "data": "25-26 March 2022",
+        "authors": [],
+        "DOI": "10.1109/ICACCS54159.2022.9785122",
+        "citation": 0,
+        "abstract": "8th International Conference on Advanced Computing & Communication Systems (ICACCS 2022)."
+    },
+    {
+        "title": "Organizing Committee",
+        "conferenceTitle": "2022 IEEE International Conference on Consumer Electronics (ICCE)",
+        "data": "7-9 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCE53296.2022.9730222",
+        "citation": 0,
+        "abstract": "Organizing Committee."
+    },
+    {
+        "title": "Keynote Speakers [2 abstracts]",
+        "conferenceTitle": "2022 IEEE International Conference on Big Data and Smart Computing (BigComp)",
+        "data": "17-20 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/BigComp54360.2022.00009",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "The Applications of SiC Power Devices in Renewable Energy and EV",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Kung-Yen Lee"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768059",
+        "citation": 0,
+        "abstract": "Summary form only given. Since Silicon Carbide (SiC) power semiconductor devices have the advantages of higher breakdown voltage, faster switching speed, and lower power dissipation, they can be applied in the renewable energy and electric vehicles to increase efficiency, range and reduce carbon emissions. In addition, the weight and volume of the power system can be significantly reduced. Therefore, in this presentation, the various applications of SiC power MOSFETs will be briefly introduced."
+    },
+    {
+        "title": "Copyright Page",
+        "conferenceTitle": "2022 IEEE Biennial Congress of Argentina (ARGENCON)",
+        "data": "7-9 Sept. 2022",
+        "authors": [],
+        "DOI": "10.1109/ARGENCON55245.2022.9939977",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "Simulation of hot-carrier filtering in InAs-InP nanowire heterostructures",
+        "conferenceTitle": "2022 IEEE 49th Photovoltaics Specialists Conference (PVSC)",
+        "data": "5-10 June 2022",
+        "authors": [
+            "Urs Aeberhard"
+        ],
+        "DOI": "10.1109/PVSC48317.2022.9938461",
+        "citation": 0,
+        "abstract": "A microscopic simulation of hot carrier filtering across potential barriers formed by InP-InAs heterostructures in InAs nanowires with localized illumination is discussed. Qualitative agreement with the experimentally observed dependence of the extracted current on photon energy and localized source position is demonstrated. Additionally, the impact on the hot carrier extraction efficiency of carrier relaxation due to electron-phonon interaction is analyzed."
+    },
+    {
+        "title": "Keynotes",
+        "conferenceTitle": "2022 IEEE International Conference on Pervasive Computing and Communications (PerCom)",
+        "data": "21-25 March 2022",
+        "authors": [],
+        "DOI": "10.1109/PerCom53586.2022.9762382",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Compute-in-memristor: A System and Technology Co-Optimization (STCO) Approach",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9771006",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. The reviving of artificial intelligence (AI) technology is changing our lives due to the superior performance in computer vision, nature language processing, and decision making and control tasks. Recently, computing in memristor (CIM) technology is considered as an unconventional approach to meet the urgent needs of high computing efficiency and throughput in continuously developing AI applications. In contrast to von Neumann architecture, computing in memristor technology avoids the data movement between computing units (such as CPU and GPU) and memory unit which would greatly reduce computing latency and power consumption. Memristor is one kind of novel non-volatile memory devices which could not only store information with multi-bit, but also conduct core computing operations of AI algorithm. Assembling memristors in a crossbar structure, it could carry out in-situ parallel multiply-accumulation (MAC) computation. To make the best use of the memristors in neuromorphic systems, a memristor-friendly architecture and the software-hardware collaborative design methods are essential, and the key challenge is how to utilize the memristor’s analog behavior. The talk will discuss recent development of analog computing in memory technology from device engineering, circuit design and architecture optimization perspectives. Further, the system and technology co-optimization (STCO) method is proposed to fully unleash the potential of CIM for practical applications."
+    },
+    {
+        "title": "Conference sponsers",
+        "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
+        "data": "20-22 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/IKT57960.2022.10039023",
+        "citation": 0,
+        "abstract": "Conference sponsers."
+    },
+    {
+        "title": "IEEE VR 2022 Workshops [21 abstracts]",
+        "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
+        "data": "12-16 March 2022",
+        "authors": [],
+        "DOI": "10.1109/VRW55335.2022.00005",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the workshop presentations. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Keynote Lectures 2: Current Status of Artificial Intelligence Related Research",
+        "conferenceTitle": "2022 International Seminar on Intelligent Technology and Its Applications (ISITIA)",
+        "data": "20-21 July 2022",
+        "authors": [],
+        "DOI": "10.1109/ISITIA56226.2022.9855349",
+        "citation": 0,
+        "abstract": "Presents abstracts of conference tutorials."
+    },
+    {
+        "title": "Latest Quantum Transport Models for Atomistic Material and Device Performance Predictions",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9771045",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Performance predictions of nanodevices ideally include 1) atomistic resolution, 2) a consistent description of all quantum phenomena, and 3) a realistic treatment of incoherent scattering on phonons and impurities. It is common believe that atomistic quantum transport either entails unfeasible numerical load or neglects scattering effects altogether. The latest incoherent scattering models of the quantum transport implementations of NEMO5 are presented. They faithfully reproduce - without adjustable parameters - experimental observations of band gap narrowing and Urbach band tails in a sequence of III-V semiconductors and transition metal dichalcogenides. These scattering models are fully compatible with NEMO5’s low-rank approximations that accurately solve quantum transport in nanowire transistors for < 1% of the original numerical load – making them feasible for few nodes compute infrastructure. The new quantum transport method ROBIN overcomes notorious shortcomings of periodic boundary conditions in material simulations. It is exemplified on graphene alloyed with Si atoms that the periodicity assumption elevates small perturbations to systematic changes of material properties: Assuming the Si alloy atoms are periodically distributed yields a bandgap in graphene, while random Si distribution shows only a linear shift of the graphene Dirac cone which is in quantitative agreement with experimental observations."
+    },
+    {
+        "title": "Authors Index",
+        "conferenceTitle": "2022 26th International Electrical Power Distribution Conference (EPDC)",
+        "data": "11-12 May 2022",
+        "authors": [],
+        "DOI": "10.1109/EPDC56235.2022.9817301",
+        "citation": 0,
+        "abstract": "Authors Index."
+    },
+    {
+        "title": "IEEE VR 2022 Tutorials",
+        "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
+        "data": "12-16 March 2022",
+        "authors": [],
+        "DOI": "10.1109/VRW55335.2022.00006",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the tutorial presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "The implementation and demonstration of secured EVCI backend systems based on the public key infrastructure",
+        "conferenceTitle": "CIRED Porto Workshop 2022: E-mobility and power distribution systems",
+        "data": "2-3 June 2022",
+        "authors": [
+            "Y. Lim",
+            "S. Yu",
+            "G. Park",
+            "K. Lee",
+            "K. Park"
+        ],
+        "DOI": "10.1049/icp.2022.0700",
+        "citation": 0,
+        "abstract": "Along with the CO2 emission regulation in the transportation sector, the electric vehicles among ecofriendly mobilities are become mainstream and somewhat overlooked technical issues are getting attention from those around. One of them is the communication security and it became no longer an option but a necessity. In this paper, we would like to introduce the results of implementing the pilot systems and integrated testing for electric vehicle charging infrastructure E-to-E security. PKI systems were implemented based on ISO/IEC 15118 which is the global communication standard between EV and EVSE, and the other pilot systems were configured and upgraded as almost same level as the field devices. And through this paper, we eventually wish to provide valid contributions to EVCI stakeholders for the next level of charging services."
+    },
+    {
+        "title": "Surface Dynamics of Bi2Te3 Measured by High Energy Resolution Photoemission Spectroscopy using a Time- and Angle-resolved Time-of-Flight Analyzer",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Junji Yumoto"
+        ],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9771008",
+        "citation": 0,
+        "abstract": "Summary form only given. We have developed a time-resolved angle-resolved photoemission spectrometer (tr-ARPES) based on a laser light source to understand photoexcited electronic states in solids without any ambiguity. An angle-resolved time-of-flight type analyzer was adopted as the analyzer, and a high measurement efficiency and a high energy resolution of 1.3 meV were achieved by preparing an optimal UV light source for the analyzer."
+    },
+    {
+        "title": "Implemention of LQR controller for HVAC systems and investigating effect of gains on improving performance",
+        "conferenceTitle": "2022 8th International Conference on Control, Instrumentation and Automation (ICCIA)",
+        "data": "2-3 March 2022",
+        "authors": [
+            "A. Parsaei Kia",
+            "P. Moradi"
+        ],
+        "DOI": "10.1109/ICCIA54998.2022.9737213",
+        "citation": 0,
+        "abstract": "In particular, it is useful to pay attention to control strategies to reduce energy consumption. In this article, the purpose is to regulate and control the temperature and humidity of the air in a room with specific dimensions. The dynamical equations of the HVAC system are presented as equations of temperature and humidity variation. A control system based on LQR optimal control method is designed for this air conditioning system including two heating and cooling operations. Then, after examining the stability of the system based on the Lyapunov stability criterion, and also a temperature control performance index is defined to express and compare the performance of control system with different gains. Finally, by performing the simulation, the control and HVAC system performance is evaluated with the help of defined performance index in the presence of designed algorithm which results show that LQR gains have direct effect on energy consumption and control system performance."
+    },
+    {
+        "title": "Tutorial Session",
+        "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
+        "data": "7-9 March 2022",
+        "authors": [],
+        "DOI": "10.1109/LifeTech53646.2022.9754737",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the tutorial presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "How-To Presentation: Consumer Electronics Thermal Design with Leakage Power",
+        "conferenceTitle": "2022 38th Semiconductor Thermal Measurement, Modeling & Management Symposium (SEMI-THERM)",
+        "data": "21-25 March 2022",
+        "authors": [],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. A complete record of the tutorial presentation was not made available for publication as part of the conference proceedings. This course presents an analysis approach to predict equilibrium thermal state with leakage power in consumer electronics (CE) devices . Impact of different ambient conditions and design changes is analyzed through the lens of this approach. Also discussed, are a few case studies that highlight the significance of this approach in facilitating correct design decisions for CE devices."
+    },
+    {
+        "title": "[Plenary keynotes & tutorials]",
+        "conferenceTitle": "2022 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE)",
+        "data": "2-5 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/PESGRE52268.2022.9715885",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "DFB lasers: From Research to Development, and Further",
+        "conferenceTitle": "2022 28th International Semiconductor Laser Conference (ISLC)",
+        "data": "16-19 Oct. 2022",
+        "authors": [
+            "Katsuyuki Utaka"
+        ],
+        "DOI": "10.23919/ISLC52947.2022.9943446",
+        "citation": 0,
+        "abstract": "Among various single-mode lasers proposed so far, distributed Bragg reflector (DBR) lasers and distributed feedback (DFB) lasers were spotlighted as the most practical light sources for long-distance and large-capacity optical transmission. Selections of appropriated lasers were made for the applications depending on the intrinsic performances, such as DFB lasers with wavelength stability and DBR lasers with wavelength tunability. As for the applications of undersea cable systems, high reliability was required, and further devised structures were necessary to reach to a λ/4-shifted DFB laser. The unique fabrication method of λ/4-shifted grating was developed to realize quite wavelength-stable single-mode light sources which were actually installed to TPC-4 and other coherent optical systems."
+    },
+    {
+        "title": "Spin-Transfer-Torque MRAM: The Next Revolution in Memory",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9770963",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. This talk will provide an overview of Spin-Transfer-Torque MRAM, including an introduction to the basic physics of spin-transfer torque and applications of SpinTransfer-Torque MRAM. Then I will review why perpendicular magnetic anisotropy is advantageous for MRAM compared to in-plane anisotropy, and the materials challenges of perpendicular anisotropy. I will discuss the research at IBM in 2009 that led to our discovery of perpendicular anisotropy in thin CoFeB/MgO layers, and our use of these layers to make the first practical perpendicular magnetic tunnel junctions and the first demonstration of reliable writing in Spin-Transfer-Torque MRAM. Finally I will review our recent results on methods to lower the switching current of Spin-Transfer-Torque MRAM by using optimized magnetic materials and double magnetic tunnel junctions, and our recent demonstration of the world’s first 14 nm node MRAM."
+    },
+    {
+        "title": "Adaptable AI-enabled Robots to Create a Vibrant Society [Plenary Talk]",
+        "conferenceTitle": "2022 IEEE/SICE International Symposium on System Integration (SII)",
+        "data": "9-12 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/SII52469.2022.9708795",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. This talk introduces our moonshot project in Japan. This project aims to create a collective of adaptable AI-enabled robots available at a variety of places. Each robot will be usable by anyone at any time, and will adjust its form and functions according to the individual user to provide optimal assistance and services. By 2050 the co-existence and co-evolution of a wide variety of robots and people will create a vibrant society in which all people can participate."
+    },
+    {
+        "title": "Keynote Address by Assoc. Prof. (Dr) Supavadee Aramvit: AI based Video Analytics",
+        "conferenceTitle": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+        "data": "23-24 Feb. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICARC54489.2022.9754030",
+        "citation": 0,
+        "abstract": "Provides an abstract of the presentation and may include a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings. In this talk, we will present and discuss the current trends and researches in video analytics. As surveillance cameras have been widely installed worldwide, although the main purpose of those cameras is for monitoring, but the most important task is to be able to analyze video contents and extract useful information. Artificial Intelligence (AI) and Deep learning-based computer vision techniques utilizing multi-layer neural network is drastically improving the performance of video analytics to a certain extent. Several on-going researches on deep learning-based video analytics such as image super resolution, real-time multiple face recognition system, video anomaly detection and several implementations of embedded video analytic system on FPGA and Single Board Computers will be discussed. Some use cases of utilizing video analytics will also be mentioned. "
+    },
+    {
+        "title": "Generative Design and Experimental Validation of a Two-phase Heat Sink",
+        "conferenceTitle": "2022 38th Semiconductor Thermal Measurement, Modeling & Management Symposium (SEMI-THERM)",
+        "data": "21-25 March 2022",
+        "authors": [
+            "Lieven Vervecken",
+            "Joris Coddé",
+            "Roxane Van Mellaert",
+            "Joao Miranda"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Over the last years, computational simulations have become an integral part of the design cycle for new products. Recent developments in the field of generative design, allow the use of these simulations as a basis for automated design generation. This work takes this next step and explores the combination of generative design and advanced two-phase cooling simulation techniques to efficiently create two-phase evaporators for electronics cooling. A case study is conducted and an experimental campaign demonstrates the performance of the evaporator in laboratory conditions, showing a good agreement with the numerical models."
+    },
+    {
+        "title": "Author Index",
+        "conferenceTitle": "2022 International Conference on Energy and Power Engineering (ICEPE)",
+        "data": "24-26 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICEPE56629.2022.10044906",
+        "citation": 0,
+        "abstract": "Author Index."
+    },
+    {
+        "title": "Notice of Removal: 2D fluorescence of QDs-Co2+ assembly for the discrimination of nucleotides",
+        "conferenceTitle": "2022 IEEE International Symposium on Olfaction and Electronic Nose (ISOEN)",
+        "data": "29 May-1 June 2022",
+        "authors": [
+            "Klaudia Glowacz",
+            "Marta Domanska",
+            "Patrycja Ciosek-Skibinska"
+        ],
+        "DOI": "10.1109/ISOEN54820.2022.9789635",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Ferroelectric Field-effect Transistors as High-density, Ultra-fast, Embedded Non-volatile Memories",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9770965",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Ferroelectric field-effect transistors (FEFETs) have emerged as an exciting candidate for embedded non-volatile memory technology. In this talk, we will discuss means to overcome the key outstanding technological challenges of FEFETs for high-density, ultra-high speed, embedded memory applications, namely (1) read-after-write delay, (2) voltage scaling, and (3) variation. We will describe how interfacial layer engineering and ferroelectric grain structure control can be utilized to overcome the trade-offs between voltage, reliability, variation, speed and density, for advanced node integration of FEFETs."
+    },
+    {
+        "title": "Advanced Packaging for HPC Platform Level Integration",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9771016",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. In this invited talk, I will focus on sharing my perspectives of advantaged packaging from application and system design point of view, and how semiconductor process technology and advanced packaging technology can work together synergistically. I will first go over key technology trends in the high-performance computing field, driving the growth. Then I will dive into what the key application drivers are and key requirements for system level integration. I will further talk about the power of the platform, and what’s most important to integrate at the package level. Finally, I will talk about key design considerations of chiplet partition and system level integration to maximize the system level PPA."
+    },
+    {
+        "title": "Keynote Speakers [3 abstracts]",
+        "conferenceTitle": "2022 International Conference on Computer Science and Software Engineering (CSASE)",
+        "data": "15-17 March 2022",
+        "authors": [],
+        "DOI": "10.1109/CSASE51777.2022.9759591",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Keynote Speakers",
+        "conferenceTitle": "2022 IEEE International Conference on Consumer Electronics (ICCE)",
+        "data": "7-9 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCE53296.2022.9730271",
+        "citation": 0,
+        "abstract": "Keynote speakers."
+    },
+    {
+        "title": "The Future of Optical Transport: Architectures and Technologies from an Operator Perspective",
+        "conferenceTitle": "2022 Optical Fiber Communications Conference and Exhibition (OFC)",
+        "data": "6-10 March 2022",
+        "authors": [
+            "Andrew Lord"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "This tutorial paper reviews recent developments in optical transport architectures from an operator's perspective, focusing on how coherent technologies will push towards the network edge"
+    },
+    {
+        "title": "Keynote 2",
+        "conferenceTitle": "2022 Austrochip Workshop on Microelectronics (Austrochip)",
+        "data": "11-11 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/Austrochip56145.2022.9940897",
+        "citation": 0,
+        "abstract": "Presents the conference keynote speech or messages from conference chairs."
+    },
+    {
+        "title": "Keynote Address: GaN MHz Power Conversion: Faster, Smaller and Tougher",
+        "conferenceTitle": "2022 29th International Workshop on Electric Drives: Advances in Power Electronics for Electric Drives (IWED)",
+        "data": "26-29 Jan. 2022",
+        "authors": [
+            "Miroslav Vasić"
+        ],
+        "DOI": "10.1109/IWED54598.2022.9722374",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings.The keynote speech is focused on the challenges related with the realization of high frequency gallium nitride (GaN) based power converters. The issues related with common mode currents, dynamic channel resistance and magnetic materials selection have been presented. All the issues have been presented through illustrative examples related with industry, electric aircraft and medicine applications. The comparison between gallium nitride and silicon transistors was presented from the point of view of efficiency and power density has been presented."
+    },
+    {
+        "title": "Back",
+        "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
+        "data": "20-22 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/IKT57960.2022.10039029",
+        "citation": 0,
+        "abstract": "Back."
+    },
+    {
+        "title": "Copyright",
+        "conferenceTitle": "2022 2nd International Conference on Technological Advancements in Computational Sciences (ICTACS)",
+        "data": "10-12 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICTACS56270.2022.9988743",
+        "citation": 0,
+        "abstract": "Abstracting is permitted with credit to the source. Libraries are permitted to photocopy beyond the limit of US copyright law, for private use of patrons, those articles in this volume that carry a code at the bottom of the first page, provided that the per-copy fee indicated in the code is paid through the Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923."
+    },
+    {
+        "title": "Copyright and Reprint Permission",
+        "conferenceTitle": "2022 3rd International Conference on Information Science, Parallel and Distributed Systems (ISPDS)",
+        "data": "22-24 July 2022",
+        "authors": [],
+        "DOI": "10.1109/ISPDS56360.2022.9874244",
+        "citation": 0,
+        "abstract": "Libraries are permitted to photocopy beyond the limit of U.S. copyright law for private use of patrons those articles in this volume that carry a code at the bottom of the first page, provided the per-copy fee indicated in the code is paid through Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA01923. For reprint or republication permission, email to IEEE Copyrights Manager at pubs-permissions@ieee.org."
+    },
+    {
+        "title": "Keynote Speech: 6G, revolution or continuity?",
+        "conferenceTitle": "2022 Seventh International Conference On Mobile And Secure Services (MobiSecServ)",
+        "data": "26-27 Feb. 2022",
+        "authors": [],
+        "DOI": "10.1109/MobiSecServ50855.2022.9727215",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. The 6G should begin to be specified in 2028 to be commercialized in 2030, ten years after the 5G. The 5G-Advanced will be released in 2025. Specifications begin to be well defined and give some indications if the 6G is presented as the continuation of the 5G. If there is a strong break, it will be to go to a completely distributed environment in which MEC data centers (Multi-Access Edge Computing) will be embedded in terminal equipment or in nodes located a few tens meters from the users. The solution that seems to be emerging is an aggregation of the two previous solutions using the Cloud Continuum, i.e. data centers ranging from embedded Edge to hyperscalers. Virtual machines that will support all applications, common services and digital infrastructure services will need to find the best position within the Cloud Continuum to optimize safety, quality of service and resiliency. Artificial intelligence will play a particularly important role in automating the entire system and optimizing controls."
+    },
+    {
+        "title": "Authors Index",
+        "conferenceTitle": "2022 15th International Conference on Information Security and Cryptography (ISCTURKEY)",
+        "data": "19-20 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/ISCTURKEY56345.2022.9931842",
+        "citation": 0,
+        "abstract": "Authors Index"
+    },
+    {
+        "title": "Cloud Architecture Principles",
+        "conferenceTitle": "2022 IEEE Zooming Innovation in Consumer Technologies Conference (ZINC)",
+        "data": "25-26 May 2022",
+        "authors": [
+            "Oleg Tsal-Tsalko"
+        ],
+        "DOI": "10.1109/ZINC55034.2022.9840731",
+        "citation": 0,
+        "abstract": "There are tons of different Cloud Architecture styles, patterns and principles. In this talk I'll touch some of them, that I found most useful and applicable in most of the cases. At the end of the session you gonna have a checklist to apply at your project to not just use a Cloud, but thrive in the Cloud!"
+    },
+    {
+        "title": "Optimized Dispensing of Thermal Interface Materials: Issues and Progress",
+        "conferenceTitle": "2022 38th Semiconductor Thermal Measurement, Modeling & Management Symposium (SEMI-THERM)",
+        "data": "21-25 March 2022",
+        "authors": [],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "No abstract of the presentation was provided. The complete presentation was not made available for publication as part of the conference proceedings. "
+    },
+    {
+        "title": "Author Index",
+        "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
+        "data": "3-4 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/SMAP56125.2022.9942109",
+        "citation": 0,
+        "abstract": "Presents the author index for the conference."
+    },
+    {
+        "title": "IEEE 2022 RAEE & CS Copyright",
+        "conferenceTitle": "2022 International Conference on Recent Advances in Electrical Engineering & Computer Sciences (RAEE & CS)",
+        "data": "18-20 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/RAEECS56511.2022.9954513",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "15th International Conference on Information Security and Cryptology",
+        "conferenceTitle": "2022 15th International Conference on Information Security and Cryptography (ISCTURKEY)",
+        "data": "19-20 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/ISCTURKEY56345.2022.9931805",
+        "citation": 0,
+        "abstract": "15Th International Conference on Information Security and Cryptology"
+    },
+    {
+        "title": "2022 26th International Electrical Power Distribution Conference (EPDC)",
+        "conferenceTitle": "2022 26th International Electrical Power Distribution Conference (EPDC)",
+        "data": "11-12 May 2022",
+        "authors": [],
+        "DOI": "10.1109/EPDC56235.2022.9817346",
+        "citation": 0,
+        "abstract": "2022 26th International Electrical Power Distribution Conference (EPDC)."
+    },
+    {
+        "title": "Thirty-Seventh Annual IEEE Applied Power Electronics Conference and Exposition",
+        "conferenceTitle": "2022 IEEE Applied Power Electronics Conference and Exposition (APEC)",
+        "data": "20-24 March 2022",
+        "authors": [],
+        "DOI": "10.1109/APEC43599.2022.9773596",
+        "citation": 0,
+        "abstract": "Abstracting is permitted with credit to the source. Libraries are permitted to photocopy beyond the limit of U.S. copyright law for private use of patrons those articles in this volume that carry a code at the bottom of the first page, provided the per-copy fee indicated in the code is paid through Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923. For reprint or republication permission, email to IEEE Copyrights Manager at pubs-permissions@ieee.org. All rights reserved. Copyright ©2022 by IEEE."
+    },
+    {
+        "title": "[PDF Not Yet Available In IEEE Xplore]",
+        "conferenceTitle": "2022 IEEE Delhi Section Conference (DELCON)",
+        "data": "11-13 Feb. 2022",
+        "authors": [],
+        "DOI": "10.1109/DELCON54057.2022.9753266",
+        "citation": 0,
+        "abstract": "The document that should appear here is not currently available."
+    },
+    {
+        "title": "AIoT Security - from the Perspective of a Microcontroller",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Ming-Nan Cheng"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768077",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. IoT or AIoT devices manage very valuable assets - data. The information contained in these data is all-encompassing. Therefore, how to protect these important data is getting more and more attention. As an integral part of the AIoT device, in addition to protecting the security of its firmware and processing data, the microcontroller must also maintain correct operation to avoid becoming a security vulnerability. We'll describe the security functions that the microcontroller needs to resist attacks from software or hardware."
+    },
+    {
+        "title": "Keynote speakers [2 abstracts]",
+        "conferenceTitle": "2022 30th Southern African Universities Power Engineering Conference (SAUPEC)",
+        "data": "25-27 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/SAUPEC55179.2022.9730737",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Authors Index",
+        "conferenceTitle": "2022 International Conference on System Science and Engineering (ICSSE)",
+        "data": "26-29 May 2022",
+        "authors": [],
+        "DOI": "10.1109/ICSSE55923.2022.9947354",
+        "citation": 0,
+        "abstract": "Presents the author index for the conference."
+    },
+    {
+        "title": "Birth of Single-Mode Diode Laser at Minimal Loss Band",
+        "conferenceTitle": "2022 28th International Semiconductor Laser Conference (ISLC)",
+        "data": "16-19 Oct. 2022",
+        "authors": [
+            "Yasuharu Suematsu"
+        ],
+        "DOI": "10.23919/ISLC52947.2022.9943423",
+        "citation": 0,
+        "abstract": "There were two possibilities, namely GaInAsP/InP or AlGaAsSb/GaSb, to create a semiconductor laser operating at possible minimal loss band of silica fiber, as suggested by Donald Keck to be around $1.4-1.7\\upmu\\mathrm{m}$, in 1973. There was no rigorous reason for their selection, however the former was dare chosen after pointless argument, considering its higher melting temperature. In the early 1979, the minimal loss wavelength was found to be $1.55\\upmu\\mathrm{m}$ and occasionally, in that summer, the RT-CW operations at this targeted band were achieved by overcoming the barrier of anti-melt back. As extensions, the phase-shift distributed feedback laser was achieved its realization, and the electro-tunable laser was demonstrated, in 1983."
+    },
+    {
+        "title": "Scientific Committee",
+        "conferenceTitle": "2022 13th International Conference on Information and Knowledge Technology (IKT)",
+        "data": "20-22 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/IKT57960.2022.10039037",
+        "citation": 0,
+        "abstract": "Scientific Committee."
+    },
+    {
+        "title": "Student Heat Sink Design Challenge",
+        "conferenceTitle": "2022 21st IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (iTherm)",
+        "data": "31 May-3 June 2022",
+        "authors": [],
+        "DOI": "10.1109/iTherm54085.2022.9899570",
+        "citation": 0,
+        "abstract": "Reports on the Student Heat Sink Design Challenge."
+    },
+    {
+        "title": "The Balance of Thermodynamic Potentials in Solar Cells Investigated by Numerical Device Simulations",
+        "conferenceTitle": "2022 IEEE 49th Photovoltaics Specialists Conference (PVSC)",
+        "data": "5-10 June 2022",
+        "authors": [
+            "Felix Komoll",
+            "Uwe Rau"
+        ],
+        "DOI": "10.1109/PVSC48317.2022.9938617",
+        "citation": 0,
+        "abstract": "This contribution presents an extension of the classical gain/loss analysis of Brendel et al. (Appl. Phys. Lett. 93, 173503, 2008) based on the balance of free energy in a solar cell. We consider the full balance of all thermodynamic potentials by separating the excess free energy into excess chemical and electrostatic potentials. A layer by layer analysis of an exemplary silicon solar cell shows that the different functionalities of different parts of the solar cell, e.g., the neutral base and the space charge regions, are well reflected in the different pictures provided by looking at the thermodynamic potentials separately."
+    },
+    {
+        "title": "SMAP 2022 Blank Page",
+        "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
+        "data": "3-4 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/SMAP56125.2022.9942050",
+        "citation": 0,
+        "abstract": "Presents a blank page."
+    },
+    {
+        "title": "Preface",
+        "conferenceTitle": "2022 IEEE 5th International Conference on Image Processing Applications and Systems (IPAS)",
+        "data": "5-7 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/IPAS55744.2022.10052885",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "WS10 IEEE ICC 2022 Workshop on Scalable, Secure and Intelligent Blockchain for Future Networking and Communications",
+        "conferenceTitle": "2022 IEEE International Conference on Communications Workshops (ICC Workshops)",
+        "data": "16-20 May 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCWorkshops53468.2022.9814546",
+        "citation": 0,
+        "abstract": "WS10 IEEE ICC 2022 Workshop on Scalable, Secure and Intelligent Blockchain for Future Networking and Communications."
+    },
+    {
+        "title": "Hardware Root-of-Trust Design Based on on-chip PUF for AIoT Applications",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Meng-Yi Wu"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768079",
+        "citation": 0,
+        "abstract": "With the popularization of AIoT applications, every endpoint device is facing information security risks. Thus, how to ensure the security of the device becomes essential. Chip security is divided into software security and hardware security, both of which are indispensable and complement each other. Hardware security underpins the entire cybersecurity ecosystem by proving essential primitives, including key provisioning, hardware cryptographic engines, hardware unique key (HUK), and unique identification (UID). This establishes a Hardware Root of Trust (HRoT) with secure storage, secure operation, and a secure environment to provide a trustworthy foundation for chip security. Today's talk starts with how to use a Physical Unclonable Function (PUF) to generate a unique “fingerprint” (static random number) for the chip. Next, we will address using a static random number and dynamic entropy to design a high-performance true random number generator and achieve real anti-tampering HRoT by leveraging static and dynamic entropy. By integrating NISTstandard cryptographic engines, we have created an authentic PUF-based Hardware Root of Trust. The all-in-one integrated solution can handle all the necessary security functions throughout the product life cycle as well as maintaining a secure boundary to achieve the integrity of sensitive information or assets. Finally, as hardware-level protection extends to operating systems and applications, products and services become secure."
+    },
+    {
+        "title": "Index",
+        "conferenceTitle": "2022 International Conference on Computer and Applications (ICCA)",
+        "data": "20-22 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCA56443.2022.10039609",
+        "citation": 0,
+        "abstract": "Index."
+    },
+    {
+        "title": "ICSSE 2022 Cover Page",
+        "conferenceTitle": "2022 International Conference on System Science and Engineering (ICSSE)",
+        "data": "26-29 May 2022",
+        "authors": [],
+        "DOI": "10.1109/ICSSE55923.2022.9947356",
+        "citation": 0,
+        "abstract": "Presents the front cover, title page, or splash screen of the proceedings record."
+    },
+    {
+        "title": "Cover Page",
+        "conferenceTitle": "2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)",
+        "data": "12-15 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/IEMCON56893.2022.9946588",
+        "citation": 0,
+        "abstract": "Presents the front cover, title page, or splash screen of the proceedings record."
+    },
+    {
+        "title": "Keyword Speaker 2",
+        "conferenceTitle": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean Association of Automatic Control (ICA-ACCA)",
+        "data": "24-28 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICA-ACCA56767.2022.10006329",
+        "citation": 0,
+        "abstract": "Summary form only. Presents a summary of the conference tutorial."
+    },
+    {
+        "title": "Development of a Novel Soiling Chamber for Testing Antisoiling Coatings",
+        "conferenceTitle": "2022 IEEE 49th Photovoltaics Specialists Conference (PVSC)",
+        "data": "5-10 June 2022",
+        "authors": [
+            "Matthew T Muller"
+        ],
+        "DOI": "10.1109/PVSC48317.2022.9938837",
+        "citation": 0,
+        "abstract": "This study presents the development and validation of a novel soiling chamber. The chamber is novel in that it includes wind induced soiling, feedback from a low-cost particulate monitor, and in-situ Isc measurements. Validation with side-by-side identical modules within the chamber produced soiling losses of 7% over 19 hours while the soiling ratio was always within 0.5% between the two modules. Initial side-by-side testing of an anti-soiling coated module versus and uncoated module demonstrated significant wind induced cleaning of the coated module. Specifically, the coated module showed only 0.8% soiling loss while the uncoated module reached as much as 10.5% soiling loss."
+    },
+    {
+        "title": "Author Index",
+        "conferenceTitle": "2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)",
+        "data": "16-16 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/LDAV57265.2022.9966390",
+        "citation": 0,
+        "abstract": "Presents the author index for the conference."
+    },
+    {
+        "title": "Important Dates",
+        "conferenceTitle": "2022 International Conference on Smart Applications, Communications and Networking (SmartNets)",
+        "data": "29 Nov.-1 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/SmartNets55823.2022.9993987",
+        "citation": 0,
+        "abstract": "Important Dates."
+    },
+    {
+        "title": "Keynote Address: Benefits of SiC Semiconductor Devices for Traction Applications",
+        "conferenceTitle": "2022 29th International Workshop on Electric Drives: Advances in Power Electronics for Electric Drives (IWED)",
+        "data": "26-29 Jan. 2022",
+        "authors": [
+            "Mikhail Chervinsky"
+        ],
+        "DOI": "10.1109/IWED54598.2022.9722601",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. The keynote speech is covering trends and role of Silicon Carbide (SiC) in modern power electronics. Highlighted value of technology to global environment. Provided updated summary about SiC properties and advantages at component and system levels. Presented examples of modern SiC commercial products and particular design cases. Proposed approach to compare different power semiconductor components for real designs (SiC/Si/GaN). Summarized general reliability aspects which should be considered for fair comparisons."
+    },
+    {
+        "title": "Image",
+        "conferenceTitle": "2022 China Semiconductor Technology International Conference (CSTIC)",
+        "data": "20-21 June 2022",
+        "authors": [],
+        "DOI": "10.1109/CSTIC55103.2022.9856927",
+        "citation": 0,
+        "abstract": "The morphology and WIWNU of Co wafers before and after polishing using different slurry. "
+    },
+    {
+        "title": "Local Organizers",
+        "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
+        "data": "3-4 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/SMAP56125.2022.9941752",
+        "citation": 0,
+        "abstract": "Lists the conference organizers, sponsors, patrons, and/or committee members."
+    },
+    {
+        "title": "SMAP 2022 Blank Page",
+        "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
+        "data": "3-4 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/SMAP56125.2022.9942054",
+        "citation": 0,
+        "abstract": "Presents a blank page."
+    },
+    {
+        "title": "Design of ultra-high-speed Transmitters Beyond 100Gb/s in CMOS Technology",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Pen-Jui Peng"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768091",
+        "citation": 0,
+        "abstract": "Recently, PAM-4 transmitters have been realized at 112Gb/s or even faster to satisfy the continuously growing demands for wireline communications. Although PAM-4 signaling performs two-fold bandwidth efficiency comparing with the NRZ counterpart, the NRZ signal still has the advantage especially in low-loss scenario like ultra-short-reach (USR) interconnection for the optical engine due to its high output swing and better SNR. This talk summarizes the design challenges for the ultra-high-speed wireline transmitters and includes design examples for 100+Gb/s applications with NRZ and PAM-4 signaling."
+    },
+    {
+        "title": "SMAP 2022 Blank Page",
+        "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
+        "data": "3-4 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/SMAP56125.2022.9942093",
+        "citation": 0,
+        "abstract": "Presents a blank page."
+    },
+    {
+        "title": "Introduction of Noise-Shaping SAR ADCs",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Yun-Shiang Shu"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768054",
+        "citation": 0,
+        "abstract": "SAR ADCs have been getting more and more attention as technology scaling continues. Their mostly digital nature enjoys full benefit of advanced processes and leads to highly power- and area-efficient ADC designs. However, the resolution of SAR ADCs is usually around 10-12 bits limited by the comparator noise and DAC mismatch. By contrast, delta-sigma modulators can achieve highresolution A/D conversion using low-resolution quantizers and DACs; therefore, high comparator noise is acceptable, and DAC mismatch error can be alleviated by dynamic element matching (DEM). Nevertheless, delta-sigma modulators rely on analog filters to suppress the quantization error and do not benefit much from technology scaling. Recently, an emerging ADC architecture, called noiseshaping SAR, takes the advantages of both SAR ADCs and delta-sigma modulators to achieve high power efficiency and high resolution simultaneously. This talk will introduce the fundamental principle of noise-shaping SAR architecture and bring out the recent advances of circuit techniques that enhance the performance of noise-shaping SAR ADCs for different applications."
+    },
+    {
+        "title": "Short Course: High Speed/High Performance Data Converters: Metrics, Architectures, and Emerging Topics",
+        "conferenceTitle": "2022 IEEE International Solid-State Circuits Conference (ISSCC)",
+        "data": "20-26 Feb. 2022",
+        "authors": [],
+        "DOI": "10.1109/ISSCC42614.2022.9731697",
+        "citation": 0,
+        "abstract": "Data converters provide the gateway between the analog and digital worlds. They play a critical role in a vast range of systems, and integrated converters represent a central and growing element in high performance designs in applications from wireline to wireless and more. In this course, we start with an introduction to data converters, discussing key topologies, metrics, and the associated trade space. We continue with a discussion of ultra-high data rate converter design approaches before moving to high precision and low power converter topics. In our final session, we discuss emerging data converter concepts that will shape the future of research in this area."
+    },
+    {
+        "title": "Proceedings 2022 Innovations in Intelligent Systems and Applications Conference (ASYU)",
+        "conferenceTitle": "2022 Innovations in Intelligent Systems and Applications Conference (ASYU)",
+        "data": "7-9 Sept. 2022",
+        "authors": [],
+        "DOI": "10.1109/ASYU56188.2022.9925459",
+        "citation": 0,
+        "abstract": "Proceedings 2022 Innovations in Intelligent Systems and Applications Conference (ASYU)"
+    },
+    {
+        "title": "Welcome Message from the General Chair",
+        "conferenceTitle": "2022 IEEE 20th Jubilee International Symposium on Intelligent Systems and Informatics (SISY)",
+        "data": "15-17 Sept. 2022",
+        "authors": [],
+        "DOI": "10.1109/SISY56759.2022.10036282",
+        "citation": 0,
+        "abstract": "The aim of SISY 2022 Symposium is to offer researchers an opportunity to extend the existing scientific relationships not only between Hungarian and Serbian scientists, but all over the world in the field of Intelligent Systems including:"
+    },
+    {
+        "title": "IEEE VR 2022 Keynote Speaker: Paul Debevec",
+        "conferenceTitle": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)",
+        "data": "12-16 March 2022",
+        "authors": [],
+        "DOI": "10.1109/VR51125.2022.00012",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and may include a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Technology Challenges to IC Industry for Next Decade",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "K. Lawrence Loh"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768089",
+        "citation": 0,
+        "abstract": "Summary form only given. The complete presentation was not made available for publication as part of the conference proceedings. Integrated circuits are known to be the key enabler of modern world of information and communication technologies (ICT). In the past several decades we have witnessed all major technology advancements which have enriched and enhanced everyone's everyday life. While human beings are enjoying technologies around them, the varieties and scales of information generated for technologies become increasingly overwhelming at astronomical rates. The trends of increasing data generations would make our future technologies not sustainable to support essential computing, communications, storage and energy consumptions. In this plenary talk we will highlight these technology challenges ahead for IC industry."
+    },
+    {
+        "title": "A Silicon Photonics Technology for 400 Gbit/s Applications",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Ming-Wei Lin"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768093",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. In this talk, we demonstrated a silicon photonic modulator that supports single-channel data rates of 50Gb/s and above. The modulator includes a 50GHz GeSi electroabsorption modulators, carrier depletion-based phase-shifters supporting Mach-Zehnder and micro-ring modulators. All modulators can support 100 Gbit/s (53Gbaud-PAM4) per lane and a total of 400 Gbit/s applications. Furthermore, we will demonstrate 4l coarse wavelength division multiplexing (CWDM), optical fiber packaging, testing technology, targeting 400 Gbit/s application requirements."
+    },
+    {
+        "title": "Keynotes [3 abstracts]",
+        "conferenceTitle": "2022 26th International Conference on Engineering of Complex Computer Systems (ICECCS)",
+        "data": "26-30 March 2022",
+        "authors": [],
+        "DOI": "10.1109/ICECCS54210.2022.00008",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "pHRI and its Potential Applications in Our Life",
+        "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
+        "data": "7-9 March 2022",
+        "authors": [],
+        "DOI": "10.1109/LifeTech53646.2022.9754836",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Physical Human-Robot Interaction (pHRI) will play a vital role in our life in the near future. This presentation will consider how AI and Robotics technology could contribute to pHRI in real life. Many researchers are working on pHRI with the belief that it will open up new research areas and lead to the creation of new robots. A robot is a system consisting of many devices and technologies. New fields of robots will be created by developing and enhancing devices and technologies to meet the requirements of those fields. Having a clear goal for the new robotics field will help researchers find the real challenges that need to be addressed for future pHRI systems. Our laboratory developed a co-worker robot, PaDY (in time Parts/tools Delivery to You robot), more than ten years ago to assist workers in the assembly process of an automotive plant. In this talk, we will present recent research results on PaDY and consider how pHRI could be applied to our daily lives."
+    },
+    {
+        "title": "Quantum Information Processing with Semiconductor Technology: from Qubits to Integrated Quantum Circuits",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9770991",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. In this talk I will present our recent results in increasing the qubit quality and quantity using silicon and germanium quantum technology. First, we show that even a single hole can be coherently controlled. By exploiting the strong spin-orbit interaction of holes we obtain fast qubit operation with gate fidelities reaching 99.99%, setting new benchmarks for quantum dot systems. Furthermore, through dynamical decoupling we obtain record coherence times for holes and by applying this technique as a band filter we are able to measure the transversal hyperfine interaction with nuclear spins. Second, we demonstrate that quantum dot qubits and control electronics can be operated in the same temperature regime. In addition, we show that qubits can be realized using a fully-industrial 300 mm wafer process. These together define a key step toward integrated quantum circuits. Third, we construct a 2x2 quantum dot array and show qubit coupling in two dimensions. We obtain universal control and demonstrate coherent execution of a quantum circuit that entangles and disentangles all four qubits. Finally, I will present our efforts to overcome qubit-to-qubit variations, aiming to build quantum systems with fewer control lines than number of qubits, targeting to achieve a quantum advantage with the same materials and techniques that enabled todays information age."
+    },
+    {
+        "title": "Semiconductors Run the World : Hot Chips 2022",
+        "conferenceTitle": "2022 IEEE Hot Chips 34 Symposium (HCS)",
+        "data": "21-23 Aug. 2022",
+        "authors": [
+            "Pat Gelsinger"
+        ],
+        "DOI": "10.1109/HCS55958.2022.9895614",
+        "citation": 0,
+        "abstract": "Presents a powerpoint on the latest semiconductor device technologies presented at the Hot Chip 2022 conference."
+    },
+    {
+        "title": "Front Cover",
+        "conferenceTitle": "2022 15th International Conference on Information Security and Cryptography (ISCTURKEY)",
+        "data": "19-20 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/ISCTURKEY56345.2022.9931789",
+        "citation": 0,
+        "abstract": "Front Cover"
+    },
+    {
+        "title": "Frontcover",
+        "conferenceTitle": "2022 IEEE World AI IoT Congress (AIIoT)",
+        "data": "6-9 June 2022",
+        "authors": [],
+        "DOI": "10.1109/AIIoT54504.2022.9817262",
+        "citation": 0,
+        "abstract": "Presents the table of contents/splash page of the proceedings record"
+    },
+    {
+        "title": "Optimising transient earth fault protection in peterson coil and ungrounded systems",
+        "conferenceTitle": "16th International Conference on Developments in Power System Protection (DPSP 2022)",
+        "data": "7-10 March 2022",
+        "authors": [
+            "A. Wixon",
+            "P. Newman",
+            "S. Injeti"
+        ],
+        "DOI": "10.1049/icp.2022.0964",
+        "citation": 0,
+        "abstract": "This paper describes the tests undertaken at GE to verify that the Transient Earth Fault Detection (TEFD) scheme, proposed for use on the trial system, functions correctly for all fault conditions. A supervisory function to stabilise the TEFD algorithm during switching operations and temporary faults is proposed. Resetting and latching criteria for TEFD is analysed. A TEFD based blocking scheme is suggested for detecting single earth bus bar faults in resonant and ungrounded systems."
+    },
+    {
+        "title": "2022 IEEE Radar Conference (RadarConf22) Proceedings",
+        "conferenceTitle": "2022 IEEE Radar Conference (RadarConf22)",
+        "data": "21-25 March 2022",
+        "authors": [],
+        "DOI": "10.1109/RadarConf2248738.2022.9764199",
+        "citation": 0,
+        "abstract": "Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE."
+    },
+    {
+        "title": "Keynotes",
+        "conferenceTitle": "2022 IEEE International Conference on Assured Autonomy (ICAA)",
+        "data": "22-24 March 2022",
+        "authors": [],
+        "DOI": "10.1109/ICAA52185.2022.00008",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Keynotes [2 abstracts]",
+        "conferenceTitle": "2022 Open Source Modelling and Simulation of Energy Systems (OSMSES)",
+        "data": "4-5 April 2022",
+        "authors": [],
+        "DOI": "10.1109/OSMSES54027.2022.9768993",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Proceedings ICCA 2022",
+        "conferenceTitle": "2022 International Conference on Computer and Applications (ICCA)",
+        "data": "20-22 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCA56443.2022.10039556",
+        "citation": 0,
+        "abstract": "Proceedings ICCA 2022."
+    },
+    {
+        "title": "Proceedings",
+        "conferenceTitle": "2022 5th Information Technology for Education and Development (ITED)",
+        "data": "1-3 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/ITED56637.2022.10051558",
+        "citation": 0,
+        "abstract": "Proceedings."
+    },
+    {
+        "title": "Keynote: Innovations in Thermal Management of Electronic Devices",
+        "conferenceTitle": "2022 38th Semiconductor Thermal Measurement, Modeling & Management Symposium (SEMI-THERM)",
+        "data": "21-25 March 2022",
+        "authors": [],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Surmounting the challenges and limitations encountered in any endeavor requires innovation. While the word “innovation” currently enjoys a positive connotation in the field of technology development, one simply has to recall that “innovate” is defined as “to make changes to something established” to understand why innovation is challenging on multiple fronts. For not only do we have to discover how to see past our own limitations, we also have to convince our colleagues for the need to change and follow through with the necessary leadership to actually incur change. Our field of thermal engineering is full of many great examples of innovation. In this presentation I will take us on an inspiring tour of some of my favorite innovations in thermal engineering, and I will also discuss some perspectives on techniques for successful innovation."
+    },
+    {
+        "title": "Keynote Talk 1: Efficient DNN Training at Scale: from Algorithms to Hardware",
+        "conferenceTitle": "2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)",
+        "data": "30 May-3 June 2022",
+        "authors": [
+            "Gennady Pekhimenko"
+        ],
+        "DOI": "10.1109/IPDPSW55747.2022.00219",
+        "citation": 0,
+        "abstract": "The recent popularity of deep neural networks (DNNs) has generated a lot of research interest in performing DNN-related computation efficiently. However, the primary focus of systems research is usually quite narrow and limited to inference (i.e., how to efficiently execute already trained models) and image classification networks as the primary benchmark for evaluation. In this talk, we will demonstrate a holistic approach to DNN training acceleration and scalability starting from the algorithm, to software and hardware optimizations, to special development and optimization tools."
+    },
+    {
+        "title": "Bio-Chips for Fast Medial Tests Networks",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Chen-Yi Lee"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768097",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. As we are moving into a new era with data-driven applications, not only datasets need to be analyzed in a smart way (with various kinds of neural models), but also new datasets have to be generated and observed from our living environment. As a result, life quality can be enhanced and improved with better usage of natural resources. In this paper, we will introduce new types of sensors which can be used for fast medical tests. Specific cases will be covered for PCR tests under COVID-19 pandemic. To achieve this goal, a new bio-chip integrates microfluidic operations (cutting, moving, mixing), location sensing, and temperature control will be introduced. Bio-protocols related to certain medical tests can be derived and applied to target samples to enhance test accuracy and throughput. Fabricated in standard CMOS technology, this novel biochip enables new solutions for medical tests related to disease diagnosis, cell therapy, and drug development."
+    },
+    {
+        "title": "Future robotics - How to speed up the technology up-take among European SMEs [Plenary Talk]",
+        "conferenceTitle": "2022 IEEE/SICE International Symposium on System Integration (SII)",
+        "data": "9-12 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/SII52469.2022.9708857",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Robots are no longer stand-alone systems on the factory floor. The demand for industrial robots is anticipated to be growing to 65 billion euros by the year 2023. Within all areas of robotics, the demand for collaborative, mobile and more flexible systems is rising as well. The level of desired collaboration and increased flexibility will only be reached if the systems are developed as a whole, e.g. perception, reasoning and physical manipulation. However, at the same time especially smaller companies have difficulties to formulate a concrete vision and strategies for the uptake of robotics, finding skilled workforce to develop and deploy the robot systems and/or work in the manufacturing industry. The keynote will discuss on the findings from the industrial cases and dives into details on their success stories and approach taken in those."
+    },
+    {
+        "title": "Keynote Lectures 3: Development in Wireless Communications and Radars for Relevant Applications in Indonesia",
+        "conferenceTitle": "2022 International Seminar on Intelligent Technology and Its Applications (ISITIA)",
+        "data": "20-21 July 2022",
+        "authors": [],
+        "DOI": "10.1109/ISITIA56226.2022.9855205",
+        "citation": 0,
+        "abstract": "Presents abstracts of conference tutorials."
+    },
+    {
+        "title": "Sponsors",
+        "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
+        "data": "3-4 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/SMAP56125.2022.9942027",
+        "citation": 0,
+        "abstract": "Lists the conference organizers, sponsors, patrons, and/or committee members."
+    },
+    {
+        "title": "Abstract of Presentations on March 8th",
+        "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
+        "data": "7-9 March 2022",
+        "authors": [],
+        "DOI": "10.1109/LifeTech53646.2022.9754881",
+        "citation": 0,
+        "abstract": "Presents abstracts for the articles comprising the conference proceedings."
+    },
+    {
+        "title": "Challenges and Opportunities in Building Secure IoT Platforms",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Tung-Yi Chan"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768064",
+        "citation": 0,
+        "abstract": "There are increasing concerns on the security of IoT devices. Due to limited OS/firmware capability and insufficient external support in IoT devices, a new security architecture becomes imminent. “Root of Trust” and “cyber resilience” strengthened with hardware are two key security measures to make IoT devices less vulnerable to cyberattacks and have ability to recover by itself after attacks. Secure MCU, secure Memory and Firmware are trio anchors for effective secure platforms in IoT devices. In this speech, how to integrate firmware, MCU and new secure Flash memory to build an effective secure IoT platforms is explored. There are tremendous opportunities for innovation in integrated MCU + Secure Flash memory solutions."
+    },
+    {
+        "title": "Design and analysis of air pressure reducer for aviation",
+        "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2022)",
+        "data": "17-20 Aug. 2022",
+        "authors": [
+            "D. Jiang",
+            "X. Fang",
+            "H. Li",
+            "B. Qian",
+            "H. Yang"
+        ],
+        "DOI": "10.1049/icp.2022.1517",
+        "citation": 0,
+        "abstract": "In order to meet the requirements of fuel tank inerting system, a pressure reducer with low pressure and large flow was designed. SolidWorks Flow Simulation fluid analysis is used to design the product channel to ensure the streamline design of the product internal channel. In order to have good output pressure characteristics and flow characteristics, this design uses the inlet and outlet balance structure design, so that the product pressure stability, with high reliability and safety, and theoretical calculation of the relevant structure, the design and improvement of the pressure reducer has a good reference."
+    },
+    {
+        "title": "Abstract of Presentations on March 9th",
+        "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
+        "data": "7-9 March 2022",
+        "authors": [],
+        "DOI": "10.1109/LifeTech53646.2022.9754844",
+        "citation": 0,
+        "abstract": "Presents abstracts for the articles comprising the conference proceedings."
+    },
+    {
+        "title": "Technical Sponsors",
+        "conferenceTitle": "2022 International Interdisciplinary Humanitarian Conference for Sustainability (IIHC)",
+        "data": "18-19 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/IIHC55949.2022.10059680",
+        "citation": 0,
+        "abstract": "Technical Sponsors."
+    },
+    {
+        "title": "CGRA4HPC 2022 Invited Speaker: Practical, scalable, and easy-to-use CGRA for HPC",
+        "conferenceTitle": "2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)",
+        "data": "30 May-3 June 2022",
+        "authors": [
+            "Ilan Tayari"
+        ],
+        "DOI": "10.1109/IPDPSW55747.2022.00111",
+        "citation": 0,
+        "abstract": "NextSilicon has developed technology that allows using large CGRAs for acceleration of HPC applications and workloads, with zero code changes to parallel high-level language codes. Mr. Tayari will present this innovative technology, what it means for CGRA designs, and how it fits in the HPC market."
+    },
+    {
+        "title": "Latest SiC Technology and the Application Examples of Mitsubishi Electrics",
+        "conferenceTitle": "2022 International Symposium on VLSI Technology, Systems and Applications (VLSI-TSA)",
+        "data": "18-21 April 2022",
+        "authors": [],
+        "DOI": "10.1109/VLSI-TSA54299.2022.9770995",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Mitsubishi Electric has begun developing SiC devices since early 90's. and our devices are used for many applications in world-wide customer, so far. Also, SiC devises should be evolved day by day. In this time, latest SiC technologies are explained and packaging technology for enhancing SiC performance are shown. In addition, some actual application examples are explained."
+    },
+    {
+        "title": "2022 8th International Conference on Nanomanufacturing & 4th AET Symposium on ACSM and Digital Manufacturing",
+        "conferenceTitle": "2022 8th International Conference on Nanomanufacturing & 4th AET Symposium on ACSM and Digital Manufacturing (Nanoman-AETS)",
+        "data": "30 Aug.-1 Sept. 2022",
+        "authors": [],
+        "DOI": "10.1109/Nanoman-AETS56035.2022.10119473",
+        "citation": 0,
+        "abstract": "2022 8th International Conference on Nanomanufacturing & 4th AET Symposium on ACSM and Digital Manufacturing."
+    },
+    {
+        "title": "Proceedings of IEEE CENTCON 2022",
+        "conferenceTitle": "2022 International Conference on Disruptive Technologies for Multi-Disciplinary Research and Applications (CENTCON)",
+        "data": "22-24 Dec. 2022",
+        "authors": [],
+        "DOI": "10.1109/CENTCON56610.2022.10051348",
+        "citation": 0,
+        "abstract": "Proceedings of IEEE CENTCON 2022."
+    },
+    {
+        "title": "Back Cover",
+        "conferenceTitle": "2022 IEEE 13th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)",
+        "data": "12-15 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/IEMCON56893.2022.9946607",
+        "citation": 0,
+        "abstract": "Presents the back cover of the conference."
+    },
+    {
+        "title": "INFOCOM 2022 Workshops",
+        "conferenceTitle": "IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)",
+        "data": "2-5 May 2022",
+        "authors": [],
+        "DOI": "10.1109/INFOCOMWKSHPS54753.2022.9798332",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Session Plan",
+        "conferenceTitle": "2022 International Conference on Computer Communication and Informatics (ICCCI)",
+        "data": "25-27 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCCI54379.2022.9741069",
+        "citation": 0,
+        "abstract": "Session Plan."
+    }
+]
