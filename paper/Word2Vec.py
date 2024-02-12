@@ -66,6 +66,37 @@ def mergeDoc2VecAndMetadata_tSNE(model, papers_info, top_n=50):
     except TypeError as e:
         print(e)
 
+def mergeDoc2VecAndMetadata_PaCMAP(model, papers_info, top_n=50):
+    # 문서 벡터 추출
+    doc_ids = list(range(min(top_n, len(model.dv))))
+    doc_vectors = np.array([model.dv[i] for i in doc_ids])
+
+    # PaCMAP 적용하여 2차원 벡터 생성
+    PaCMAP = pacmap.PaCMAP(n_components=2, n_neighbors=40, MN_ratio=0.5, FP_ratio=2.0)
+    doc_vectors_2d = PaCMAP.fit_transform(doc_vectors, init="pca")
+
+    visualize_Data = []
+    
+    for i in doc_ids:
+        visualize_Data.append({ 'title': papers_info[i]["title"], 
+                               'author': papers_info[i]["author"], 
+                               'citation': papers_info[i]["citation"], 
+                               'doi': papers_info[i]["DOI"],
+                              'vector_x': doc_vectors_2d[i][0], 
+                              'vector_y': doc_vectors_2d[i][1] })
+        
+    def float32_to_float(obj):
+        if isinstance(obj, np.float32):
+            return float(obj)
+        raise TypeError(f"Object of type {obj.__class__.__name__} is not JSON serializable")
+
+    # 예제 호출
+    try:
+        # ensure_ascii: 기본값 True / 비ASCII문자를 유니코드 이스케이프 시퀀스로 변환할지, 그대로 둘지를 결정
+        print(json.dumps(visualize_Data, default=float32_to_float, ensure_ascii=False))
+    except TypeError as e:
+        print(e)
+
 def tSNE_visualize(model, top_n=50):
     # 상위 N개의 단어와 해당 벡터 추출
     # model.wv.index_to_key : 빈도 수에따라 정렬된 모델의 단어 리스트
@@ -169,6 +200,30 @@ def PaCMAP_visualize_doc2Vec(model, labels=None, top_n=50):
                      xytext=(5, 2), textcoords='offset points', ha='right', va='bottom')
     
     plt.show()
+
+def PaCMAP_visualize_doc2vec_DBSCAN(model, labels=None, top_n=50):
+    # 문서 벡터 추출
+    doc_ids = list(range(min(top_n, len(model.dv))))
+    doc_vectors = np.array([model.dv[i] for i in doc_ids])
+
+    # PaCMAP 적용하여 2차원 벡터 생성
+    embedding = pacmap.PaCMAP(n_components=2, n_neighbors=None, MN_ratio=0.5, FP_ratio=2.0)
+    doc_vectors_2d = embedding.fit_transform(doc_vectors, init="pca")
+
+    # DBSCAN 클러스터링 수행
+    clustering = DBSCAN(eps=0.5, min_samples=2).fit(doc_vectors_2d)
+
+    # 시각화
+    plt.figure(figsize=(12, 8))
+    scatter = plt.scatter(doc_vectors_2d[:, 0], doc_vectors_2d[:, 1], c=clustering.labels_)
+    legend1 = plt.legend(*scatter.legend_elements(), title="Clusters")
+    plt.gca().add_artist(legend1)
+
+    for i, doc_id in enumerate(doc_ids):
+        plt.annotate(labels[i] if labels else f'Doc {doc_id}', xy=(doc_vectors_2d[i, 0], doc_vectors_2d[i, 1]),
+                     xytext=(5, 2), textcoords='offset points', ha='right', va='bottom')
+    
+    plt.show()
     
 ###################################
 ######### create model ############
@@ -194,7 +249,7 @@ def calculate_Doc2Vec(input_data):
     tagged_data = [TaggedDocument(words=preprocess_text(doc['abstract']), tags=[i]) for i, doc in enumerate(input_data)]
 
     # Doc2Vec 모델 초기화 및 학습
-    model = Doc2Vec(vector_size=100, window=5, min_count=1, workers=4, epochs=40)
+    model = Doc2Vec(vector_size=100, window=5, min_count=4, workers=4, epochs=40)
     model.build_vocab(tagged_data)
     model.train(tagged_data, total_examples=model.corpus_count, epochs=model.epochs)
 
@@ -215,15 +270,17 @@ def main():
     # Doc2Vec 모델 학습
     model_Doc2Vec = calculate_Doc2Vec(input_data)
     mergeDoc2VecAndMetadata_tSNE(model_Doc2Vec, papers_info)
+    # mergeDoc2VecAndMetadata_PaCMAP(model_Doc2Vec, papers_info)
     
     # t-SNE 시각화 실행
     # tSNE_visualize(model_Word2Vec)
-    tSNE_visualize_doc2vec(model_Doc2Vec)
-    tSNE_visualize_doc2vec_DBSCAN(model_Doc2Vec)
+    # tSNE_visualize_doc2vec(model_Doc2Vec)
+    # tSNE_visualize_doc2vec_DBSCAN(model_Doc2Vec)
 
     # PaCMAP 시각화 실행
     # PaCMAP_visualize(model_Word2Vec)
     # PaCMAP_visualize_doc2Vec(model_Doc2Vec)
+    # PaCMAP_visualize_doc2vec_DBSCAN(model_Doc2Vec)
 
 
 if __name__ == "__main__":
