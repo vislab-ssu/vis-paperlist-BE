@@ -1,0 +1,110 @@
+[
+    {
+        "creation": "2003",
+        "timespan": "P14Y",
+        "oci": "06402051529-061203062302",
+        "journal_sc": "no",
+        "cited": "10.5594/j02892",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P48Y",
+        "oci": "06402051529-06130535905",
+        "journal_sc": "no",
+        "cited": "10.1121/1.1907309",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P22Y",
+        "oci": "06402051529-06140266624",
+        "journal_sc": "no",
+        "cited": "10.1080/00335558008248235",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P6Y",
+        "oci": "06402051529-06140531674",
+        "journal_sc": "no",
+        "cited": "10.1121/1.417342",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    },
+    {
+        "creation": "2003",
+        "timespan": "",
+        "oci": "06402051529-061903407904",
+        "journal_sc": "no",
+        "cited": "10.1109/iwqos.1999.766473",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P2Y",
+        "oci": "06402051529-06203799000",
+        "journal_sc": "no",
+        "cited": "10.1145/500141.500147",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P7Y",
+        "oci": "06402051529-062201423325",
+        "journal_sc": "no",
+        "cited": "10.1109/49.481694",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P9Y",
+        "oci": "06402051529-06230459719",
+        "journal_sc": "no",
+        "cited": "10.1016/0167-6393(93)90064-r",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P17Y",
+        "oci": "06402051529-06240532077",
+        "journal_sc": "no",
+        "cited": "10.1121/1.392336",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P7Y",
+        "oci": "06402051529-06401518973",
+        "journal_sc": "no",
+        "cited": "10.3758/bf03206811",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P24Y",
+        "oci": "06402051529-0640544753",
+        "journal_sc": "no",
+        "cited": "10.1121/1.382084",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P4Y",
+        "oci": "06402051529-06503954100",
+        "journal_sc": "no",
+        "cited": "10.1162/105474698565802",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642692"
+    }
+]

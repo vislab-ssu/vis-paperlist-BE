@@ -1,0 +1,65 @@
+[
+    {
+        "creation": "2003",
+        "timespan": "P5Y",
+        "oci": "06403799318-061403484273",
+        "journal_sc": "no",
+        "cited": "10.1126/science.277.5327.821",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642684"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P7Y",
+        "oci": "06403799318-061703538198",
+        "journal_sc": "no",
+        "cited": "10.1145/212430.212431",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642684"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P4Y",
+        "oci": "06403799318-06180515086",
+        "journal_sc": "no",
+        "cited": "10.1523/jneurosci.18-05-01827.1998",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642684"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P6Y",
+        "oci": "06403799318-06250481409",
+        "journal_sc": "no",
+        "cited": "10.1126/science.272.5258.117",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642684"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P7Y",
+        "oci": "06403799318-06260501002",
+        "journal_sc": "no",
+        "cited": "10.1126/science.7569931",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642684"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P3Y",
+        "oci": "06403799318-0660351367",
+        "journal_sc": "no",
+        "cited": "10.1038/35003194",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642684"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P4Y",
+        "oci": "06403799318-06804188835",
+        "journal_sc": "no",
+        "cited": "10.1016/s0959-4388(99)00028-8",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642684"
+    }
+]

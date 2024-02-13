@@ -1,3 +1,5 @@
+## db에 올리는 코드 과정 수정 해야 함 ~~~!
+
 import mysql.connector
 import os
 import json

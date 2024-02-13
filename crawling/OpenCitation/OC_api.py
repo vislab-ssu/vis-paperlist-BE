@@ -1,6 +1,7 @@
-## 이곳은 코드는 변경될 예정
+## Open Citations api 연동
 
 import os
+import csv
 from requests import get
 import json
 from dotenv import load_dotenv
@@ -14,9 +15,13 @@ HTTP_HEADERS = {"Authorization": os.getenv("OPEN_CITATION_KEY")}
 if not os.path.exists('Result'):
     os.makedirs('Result')
 
-# 파일에서 DOI 리스트를 읽기, 빈 줄 무시
-with open('doi_list.txt', 'r') as file:
-    doi_list = [line.strip() for line in file if line.strip()]
+# CSV 파일에서 DOI 리스트를 읽기
+doi_list = []
+with open('paperlist_doi.csv', mode='r', encoding='utf-8') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        if 'DOI' in row:  # 'DOI' 열이 있는지 확인
+            doi_list.append(row['DOI'])
 
 # 각 DOI에 대해 API 호출 및 데이터 저장
 for doi in doi_list:
@@ -30,16 +35,16 @@ for doi in doi_list:
         data = response.json()
         # 파일 이름에 사용될 수 있도록 DOI 내의 '/'를 '_'로 대체
         safe_filename = doi.replace("/", "_")
-        filename = f'{safe_filename}.json'
-        file_path = os.path.join('Result', filename)
+        filename = f'Result/{safe_filename}.json'
         
         # JSON 데이터를 파일에 쓰기
-        with open(file_path, 'w', encoding='utf-8') as f:
+        with open(filename, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
         
-        print(f"Data saved to {file_path}")
+        print(f"Data saved to {filename}")
     else:
         # API 호출 실패 시 메시지 출력
         print(f"Failed to fetch data for DOI: {doi}")
+
 
 

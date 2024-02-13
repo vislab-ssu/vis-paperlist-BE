@@ -1,0 +1,92 @@
+[
+    {
+        "creation": "2003",
+        "timespan": "P2Y",
+        "oci": "06603794903-061103399273",
+        "journal_sc": "no",
+        "cited": "10.1145/365024.365312",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642623"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P2Y",
+        "oci": "06603794903-061503077520",
+        "journal_sc": "no",
+        "cited": "10.1017/cbo9780511489839",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642623"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P6Y",
+        "oci": "06603794903-061802183668",
+        "journal_sc": "no",
+        "cited": "10.1006/ijhc.1996.0048",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642623"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P4Y",
+        "oci": "06603794903-06302755274",
+        "journal_sc": "no",
+        "cited": "10.21236/ada440725",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642623"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P0Y",
+        "oci": "06603794903-06302768828",
+        "journal_sc": "no",
+        "cited": "10.1145/545151.545155",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642623"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P2Y",
+        "oci": "06603794903-06303801166",
+        "journal_sc": "no",
+        "cited": "10.1145/502348.502389",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642623"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P4Y",
+        "oci": "06603794903-06403801930",
+        "journal_sc": "no",
+        "cited": "10.1145/320297.320301",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642623"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P3Y",
+        "oci": "06603794903-06502219717",
+        "journal_sc": "no",
+        "cited": "10.1023/a:1019104520776",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642623"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P4Y",
+        "oci": "06603794903-06803796934",
+        "journal_sc": "no",
+        "cited": "10.1145/302979.303064",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642623"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P4Y",
+        "oci": "06603794903-06803797066",
+        "journal_sc": "no",
+        "cited": "10.1145/302979.303010",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642623"
+    }
+]

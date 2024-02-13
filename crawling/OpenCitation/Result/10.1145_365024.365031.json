@@ -1,0 +1,74 @@
+[
+    {
+        "creation": "2001",
+        "timespan": "P2Y",
+        "oci": "061403372309-061103399178",
+        "journal_sc": "no",
+        "cited": "10.1145/302979.303111",
+        "author_sc": "no",
+        "citing": "10.1145/365024.365031"
+    },
+    {
+        "creation": "2001",
+        "timespan": "P3Y",
+        "oci": "061403372309-061403372166",
+        "journal_sc": "no",
+        "cited": "10.1145/258549.258715",
+        "author_sc": "no",
+        "citing": "10.1145/365024.365031"
+    },
+    {
+        "creation": "2001",
+        "timespan": "P2Y",
+        "oci": "061403372309-06403799532",
+        "journal_sc": "no",
+        "cited": "10.1145/632716.632848",
+        "author_sc": "no",
+        "citing": "10.1145/365024.365031"
+    },
+    {
+        "creation": "2001",
+        "timespan": "P2Y",
+        "oci": "061403372309-06502045683",
+        "journal_sc": "no",
+        "cited": "10.1145/632716.632843",
+        "author_sc": "no",
+        "citing": "10.1145/365024.365031"
+    },
+    {
+        "creation": "2001",
+        "timespan": "P3Y",
+        "oci": "061403372309-06503612356",
+        "journal_sc": "no",
+        "cited": "10.1145/274644.274720",
+        "author_sc": "no",
+        "citing": "10.1145/365024.365031"
+    },
+    {
+        "creation": "2001",
+        "timespan": "P5Y",
+        "oci": "061403372309-06603802636",
+        "journal_sc": "no",
+        "cited": "10.1145/257089.257279",
+        "author_sc": "no",
+        "citing": "10.1145/365024.365031"
+    },
+    {
+        "creation": "2001",
+        "timespan": "P1Y",
+        "oci": "061403372309-06603802697",
+        "journal_sc": "no",
+        "cited": "10.1145/354401.354441",
+        "author_sc": "no",
+        "citing": "10.1145/365024.365031"
+    },
+    {
+        "creation": "2001",
+        "timespan": "P9Y",
+        "oci": "061403372309-06703002219",
+        "journal_sc": "no",
+        "cited": "10.1038/scientificamerican0991-94",
+        "author_sc": "no",
+        "citing": "10.1145/365024.365031"
+    }
+]

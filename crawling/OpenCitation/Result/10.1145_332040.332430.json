@@ -1,0 +1,110 @@
+[
+    {
+        "creation": "2000",
+        "timespan": "P4Y",
+        "oci": "061503393120-061203347470",
+        "journal_sc": "no",
+        "cited": "10.1145/237170.237260",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    },
+    {
+        "creation": "2000",
+        "timespan": "P7Y",
+        "oci": "061503393120-061302868540",
+        "journal_sc": "no",
+        "cited": "10.4992/psycholres1954.35.172",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    },
+    {
+        "creation": "2000",
+        "timespan": "P0Y",
+        "oci": "061503393120-061303487721",
+        "journal_sc": "no",
+        "cited": "10.1017/s0048577299971664",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    },
+    {
+        "creation": "2000",
+        "timespan": "P35Y",
+        "oci": "061503393120-061502153438",
+        "journal_sc": "no",
+        "cited": "10.7208/chicago/9780226220802.001.0001",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    },
+    {
+        "creation": "2000",
+        "timespan": "P6Y",
+        "oci": "061503393120-061503393198",
+        "journal_sc": "no",
+        "cited": "10.1145/191666.191703",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    },
+    {
+        "creation": "2000",
+        "timespan": "P6Y",
+        "oci": "061503393120-061703399167",
+        "journal_sc": "no",
+        "cited": "10.1145/259963.260290",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    },
+    {
+        "creation": "2000",
+        "timespan": "P9Y",
+        "oci": "061503393120-061802421096",
+        "journal_sc": "no",
+        "cited": "10.1111/j.1469-8986.1990.tb02330.x",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    },
+    {
+        "creation": "2000",
+        "timespan": "P2Y",
+        "oci": "061503393120-062203056006",
+        "journal_sc": "no",
+        "cited": "10.1017/cbo9780511659911",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    },
+    {
+        "creation": "2000",
+        "timespan": "P0Y",
+        "oci": "061503393120-062401375286",
+        "journal_sc": "no",
+        "cited": "10.1075/pc.8.1.09lis",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    },
+    {
+        "creation": "2000",
+        "timespan": "P6Y",
+        "oci": "061503393120-06301485758",
+        "journal_sc": "no",
+        "cited": "10.1037/0033-2909.115.1.102",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    },
+    {
+        "creation": "2000",
+        "timespan": "P20Y",
+        "oci": "061503393120-0635036217",
+        "journal_sc": "no",
+        "cited": "10.1037/h0077714",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    },
+    {
+        "creation": "2000",
+        "timespan": "P46Y",
+        "oci": "061503393120-06601487127",
+        "journal_sc": "no",
+        "cited": "10.1037/h0054570",
+        "author_sc": "no",
+        "citing": "10.1145/332040.332430"
+    }
+]

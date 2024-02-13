@@ -1,0 +1,146 @@
+[
+    {
+        "creation": "2003",
+        "timespan": "P5Y",
+        "oci": "06103811324-06101725506",
+        "journal_sc": "no",
+        "cited": "10.1109/38.734980",
+        "author_sc": "yes",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P2Y",
+        "oci": "06103811324-061103399351",
+        "journal_sc": "no",
+        "cited": "10.1145/365024.365121",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P10Y",
+        "oci": "06103811324-061203347815",
+        "journal_sc": "no",
+        "cited": "10.1145/166117.166134",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P34Y",
+        "oci": "06103811324-061501480274",
+        "journal_sc": "no",
+        "cited": "10.1037/h0027806",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P2Y",
+        "oci": "06103811324-061503393217",
+        "journal_sc": "no",
+        "cited": "10.1145/365024.365119",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P31Y",
+        "oci": "06103811324-061601805580",
+        "journal_sc": "no",
+        "cited": "10.1515/semi.1972.6.1.32",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P3Y",
+        "oci": "06103811324-062203378924",
+        "journal_sc": "no",
+        "cited": "10.1145/351006.351020",
+        "author_sc": "yes",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P3Y",
+        "oci": "06103811324-06302536145",
+        "journal_sc": "no",
+        "cited": "10.7551/mitpress/2697.001.0001",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P7Y",
+        "oci": "06103811324-06402529023",
+        "journal_sc": "no",
+        "cited": "10.1207/s15327051hci1004_2",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P1Y",
+        "oci": "06103811324-06503809362",
+        "journal_sc": "no",
+        "cited": "10.1145/566570.566629",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P1Y",
+        "oci": "06103811324-06503953974",
+        "journal_sc": "no",
+        "cited": "10.1162/105474601750182351",
+        "author_sc": "yes",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P1Y",
+        "oci": "06103811324-06503953978",
+        "journal_sc": "no",
+        "cited": "10.1162/105474601753272844",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "",
+        "oci": "06103811324-0653071800",
+        "journal_sc": "no",
+        "cited": "10.2312/egve/egve01/153-164",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P8Y",
+        "oci": "06103811324-06603597293",
+        "journal_sc": "no",
+        "cited": "10.1145/223904.223935",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P1Y",
+        "oci": "06103811324-06603794941",
+        "journal_sc": "no",
+        "cited": "10.1145/503376.503385",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    },
+    {
+        "creation": "2003",
+        "timespan": "P36Y",
+        "oci": "06103811324-06604019424",
+        "journal_sc": "no",
+        "cited": "10.1016/0001-6918(67)90005-4",
+        "author_sc": "no",
+        "citing": "10.1145/642611.642703"
+    }
+]
