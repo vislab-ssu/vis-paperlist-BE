@@ -65,6 +65,6 @@ def fetch_and_save_data(year):
         print(response.text)
 
 # 연도별로 API 호출 및 데이터 저장
-for year in range(2004, 2024):  # 2010년부터 2023년까지
+for year in range(2004, 2024):  # 연도 자유 변경 가능
     fetch_and_save_data(year)
 
