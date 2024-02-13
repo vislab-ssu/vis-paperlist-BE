@@ -1100,6 +1100,19 @@
         "abstract": "Micro-gear part is processing by using bio-etching method, Thiobacillus ferrooxidans (T.f.) is used as etching medium, and Leathen culture medium is selected as culture medium of T.f. The qualities of micro-gear are analysed by using 3D microstructure system of large depth of field. The experimental result showed that micro-gear part can be processed by using bio-etching method, and its teeth is full and clearly, the value of roughness is higher than original surface, the micro-hardness is unchanged."
     },
     {
+        "title": "Supermarket shopping guide system based on Internet of things",
+        "conferenceTitle": "IET International Conference on Wireless Sensor Network 2010 (IET-WSN 2010)",
+        "data": "15-17 Nov. 2010",
+        "authors": [
+            "Rong Chen",
+            "Li Peng",
+            "Yi Qin"
+        ],
+        "DOI": "10.1049/cp.2010.1020",
+        "citation": 5,
+        "abstract": "In this paper, a scheme of a smart supermarket shopping guide system(SSSGS) based on the technology of Internet of things is proposed. The most critical issue of SSSGS is product identification and information acquirement. This system combines electronic tag with identification technique in the Internet of things. The electronic tags are applied to the product identification. The wireless technique and identification methods are employed to transfer and determine the product information automatically. The function and properties of SSSGS are analyzed. The combination of the RFID network system and Zigbee network applications are investigated. Some middlewares in communication task and the system of the SSSGS are proposed. And also we discussed the problems and corresponding solutions that may occur in the system The system is a guidance on future shopping which makes it comfortable and enjoyable for clients."
+    },
+    {
         "title": "Modeling wind generators with full-scale frequency converters: Stability and passivity properties",
         "conferenceTitle": "7th Mediterranean Conference and Exhibition on Power Generation, Transmission, Distribution and Energy Conversion (MedPower 2010)",
         "data": "7-10 Nov. 2010",
@@ -1395,19 +1408,6 @@
         "DOI": "10.1109/ETCS.2010.318",
         "citation": 4,
         "abstract": "Retracted."
-    },
-    {
-        "title": "Supermarket shopping guide system based on Internet of things",
-        "conferenceTitle": "IET International Conference on Wireless Sensor Network 2010 (IET-WSN 2010)",
-        "data": "15-17 Nov. 2010",
-        "authors": [
-            "Rong Chen",
-            "Li Peng",
-            "Yi Qin"
-        ],
-        "DOI": "10.1049/cp.2010.1020",
-        "citation": 4,
-        "abstract": "In this paper, a scheme of a smart supermarket shopping guide system(SSSGS) based on the technology of Internet of things is proposed. The most critical issue of SSSGS is product identification and information acquirement. This system combines electronic tag with identification technique in the Internet of things. The electronic tags are applied to the product identification. The wireless technique and identification methods are employed to transfer and determine the product information automatically. The function and properties of SSSGS are analyzed. The combination of the RFID network system and Zigbee network applications are investigated. Some middlewares in communication task and the system of the SSSGS are proposed. And also we discussed the problems and corresponding solutions that may occur in the system The system is a guidance on future shopping which makes it comfortable and enjoyable for clients."
     },
     {
         "title": "A heuristic bidirectional search algorithm for automatic Web service composition",

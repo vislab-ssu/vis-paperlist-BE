@@ -89,7 +89,7 @@
             "Cynthia Sturton"
         ],
         "DOI": "10.1109/MICRO.2018.00071",
-        "citation": 27,
+        "citation": 28,
         "abstract": "This paper presents Coppelia, an end-to-end tool that, given a processor design and a set of security-critical invariants, automatically generates complete, replayable exploit programs to help designers find, contextualize, and assess the security threat of hardware vulnerabilities. In Coppelia, we develop a hardware-oriented backward symbolic execution engine with a new cycle stitching method and fast validation technique, along with several optimizations for exploit generation. We then add program stubs to complete the exploit. We evaluate Coppelia on three CPUs of different architectures. Coppelia is able to find and generate exploits for 29 of 31 known vulnerabilities in these CPUs, including 11 vulnerabilities that commercial and academic model checking tools can not find. All of the generated exploits are successfully replayable on an FPGA board. Moreover, Coppelia finds 4 new vulnerabilities along with exploits in these CPUs. We also use Coppelia to verify whether a security patch indeed fixed a vulnerability, and to refine a set of assertions."
     },
     {
@@ -1890,6 +1890,18 @@
         "abstract": "This paper investigates a printed circuit board (PCB)-embedding technology as packaging technology for 600 V class GaN-on-Si power devices and power integrated circuits (ICs). The electrical and thermal characteristics of PCB-embedding are investigated and compared to conventional assemblies based on wire-bonding and soldering."
     },
     {
+        "title": "Complex Valued Convolutional Neural Network for TerraSAR-X patch categorization",
+        "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
+        "data": "4-7 June 2018",
+        "authors": [
+            "Dusan Gleich",
+            "Danijel Sipos"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "Over the past few years image categorization using deep learning became very popular, because it can handle large databases and has shown good recognition results. This paper presents the complex valued convolutional network (CV-CNN) for Synthetic Aperture Radar (SAR) patch categorization of TerraSAR-X data sets. The CV-CNN consist in general of a real or complex valued input layer, output layer and one or more hidden layers. Hidden layers represent any combination of convolutional layers, pooling layers, activation functions, and are fully defined within complex valued domain. The custom database of patches was designed using 3 classes and parameters of CV-CNN were observed in order to achieve the best accuracy results. The experimental results showed that accuracy of 86% can be achieved using a complex valued SAR patches applied to the complex valued CNN."
+    },
+    {
         "title": "The Robotic Service Assistant - Relieving the Nursing Staff of Workload",
         "conferenceTitle": "ISR 2018; 50th International Symposium on Robotics",
         "data": "20-21 June 2018",
@@ -2325,6 +2337,21 @@
         "abstract": "Software developers experience and share a wide range of emotions throughout a rich ecosystem of communication channels. A recent trend that has emerged in empirical software engineering studies is leveraging sentiment analysis of developers' communication traces. We release a dataset of 4,800 questions, answers, and comments from Stack Overflow, manually annotated for emotions. Our dataset contributes to the building of a shared corpus of annotated resources to support research on emotion awareness in software development."
     },
     {
+        "title": "Implementation of a MIMO SAR Imaging Mode for NASA's Next Generation Airborne L-Band SAR",
+        "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
+        "data": "4-7 June 2018",
+        "authors": [
+            "Tobias Rommel",
+            "Rafael Rincon",
+            "Marwan Younis",
+            "Gerhard Krieger",
+            "Alberto Moreira"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "Radar systems with multiple transmit and multiple receive channels (MIMO) are capable of advanced imaging modes that can benefit the next generation of Earth science and planetary science Synthetic Aperture Radar (SAR) missions. Apart from an increased flexibility, MIMO-SAR enables simultaneous full-polarized acquisitions without any reduction of the swath width or resolution. By making use of an innovative orthogonal-waveform beamforming technique, sufficient suppression of cross-correlation interference from orthogonal signals can be achieved. For verification of this MIMO-SAR imaging mode, the airborne radar sensor DBSAR-2 operated by NASA will serve as a test bed."
+    },
+    {
         "title": "ECG-based Emotion Recognition: Overview of Methods and Applications",
         "conferenceTitle": "ANNA '18; Advances in Neural Networks and Applications 2018",
         "data": "15-17 Sept. 2018",
@@ -2675,33 +2702,5 @@
         "DOI": "10.1109/IBIGDELFT.2018.8625289",
         "citation": 1,
         "abstract": "In the era of the Internet of Things (IoT), enormous amount of sensing devices collect and/or generate various sensory data over time for a wide range of fields and applications. Based on the nature of the application, these devices result in big or fast/real time data streams. The analytics technique on the subject matter used to discover new information, anticipate future predictions and make decisions on important issues makes IoT technology valuable for both the business world and the quality of everyday life. In this study, first of all, the concept of IoT and its architecture and relation with big and streaming data are emphasized. Information discovery process applied to the IoT streaming data is investigated and deep learning frameworks covered by this process are described comparatively. Finally, the most commonly used tools for analyzing IoT stream data are introduced and their characteristics are revealed."
-    },
-    {
-        "title": "Visible Light Communication with Multicarrier Modulation Utilizing a Buck-Converter Circuit as Efficient LED Driver",
-        "conferenceTitle": "Photonic Networks; 19th ITG-Symposium",
-        "data": "11-12 June 2018",
-        "authors": [
-            "Adrian Krohn",
-            "Stephan Pachnicke",
-            "Peter A. Hoeher"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "This paper deals with the problem of how to drive an LED in visible light communication (VLC) systems in an efficient way employing high-order modulation schemes. A circuit known from power electronics, the so-called buck converter, is evaluated. Buck converters are frequently used power supplies in LED illumination systems, and provide high efficiencies at low complexity. To demonstrate the ability of this type of converter for the purpose of data modulation, discrete multitone transmission (DMT) is used in numerical results. The circuit has been simulated in LTSpice. The bit error rate (BER) is determined for different system parameters."
-    },
-    {
-        "title": "Bistatic SAR Moving Target Location Method Based on Differential Evolution Algorithm with Dual-Channel Receiver",
-        "conferenceTitle": "EUSAR 2018; 12th European Conference on Synthetic Aperture Radar",
-        "data": "4-7 June 2018",
-        "authors": [
-            "Zhongyu Li",
-            "Yushi Xu",
-            "Junjie Wu",
-            "Yulin Huang",
-            "Jianyu Yang"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "In the application of bistatic synthetic aperture radar(SAR), transmitter and receiver are mounted on different platforms, which causes the two-dimensional coupled velocities of moving target and two radar platforms. And it makes location for moving target get difficultly. In this paper, first we build the bistatic SAR range-Doppler(RD) location model. Second we utilize the phase deviation between two channels in receiver to estimate the equivalent radial velocity of moving target. Finally we use differential evolution algorithm to get moving target location with the relationship between Doppler frequency and the equivalent radial velocity of moving target. Numerical simulations show the effectiveness of this proposed method."
     }
 ]

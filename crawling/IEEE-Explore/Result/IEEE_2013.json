@@ -1677,6 +1677,19 @@
         "abstract": "The use of solar panels is becoming more popular in Sweden. Parts of Scandinavia have many sun hours and the cold temperatures are advantageous as they lead to higher efficiencies and longer lifetimes of the solar cells. Except during the darkest time of the year (Nov-Feb) PV is a suitable complement for power production also in the northern parts of Scandinavia, especially when using a proper tracking system In this paper power quality issues concerning the connection of photovoltaic systems will be discussed. Emission up to 25 kHz will be presented as well as voltage variations caused by the production. Measurements from three phase connected plants (20 kW) and from smaller (up to 2.5 kW) single phase connected plants are shown. The harmonic emission from PV-plants is reasonable low and somewhat constant with regards to the production. Some residue from the switching of the inverter can be found typical at a few kHz."
     },
     {
+        "title": "Exploiting Sparsity in Channel and Data Estimation for Sporadic Multi-User Communication",
+        "conferenceTitle": "ISWCS 2013; The Tenth International Symposium on Wireless Communication Systems",
+        "data": "27-30 Aug. 2013",
+        "authors": [
+            "Henning F. Schepker",
+            "Carsten Bockelmann",
+            "Armin Dekorsy"
+        ],
+        "DOI": "",
+        "citation": 8,
+        "abstract": "Machine-to-Machine communication requires new physical layer concepts to meet future requirements. In previous works it has already been shown that Compressive Sensing (CS) detectors are capable of jointly detecting both activity and data in Multi-User Detection (MUD). To date, the investigations on CS based MUD have omitted the channel estimation and assumed perfect channel knowledge. However, in practical applications the channel also has to be estimated, such that the joint detection of activity and data has to be extended by channel estimation. Therefore, in this paper we investigate how to adapt several approaches to channel estimation, such that they are suitable for this joint detection and estimation. Further, we provide simulation results, showing that low overhead channel estimation can be achieved, with only a small loss in detection accuracy compared to CS based MUD for perfect channel state information."
+    },
+    {
         "title": "A new fault location technique on radial distribution systems using artificial neural network",
         "conferenceTitle": "22nd International Conference and Exhibition on Electricity Distribution (CIRED 2013)",
         "data": "10-13 June 213",
@@ -2049,19 +2062,6 @@
         "DOI": "10.1049/cp.2013.0730",
         "citation": 7,
         "abstract": "An increasing share of nuclear and renewable generation is reducing the ability of the power system to withstand the sudden loss of a generating unit. Hence, there is a need for additional response and reserve services. Previous research has shown that frequency-responsive thermostatic loads would be able to support the system, but the proposed control methods typically suffer from undesirable side-effects at the device or system level. We propose a hybrid controller that addresses the observed shortcomings and illustrate its effectiveness using simulations in a model system. Quantitative comparisons are made with two control schemes from the literature."
-    },
-    {
-        "title": "Exploiting Sparsity in Channel and Data Estimation for Sporadic Multi-User Communication",
-        "conferenceTitle": "ISWCS 2013; The Tenth International Symposium on Wireless Communication Systems",
-        "data": "27-30 Aug. 2013",
-        "authors": [
-            "Henning F. Schepker",
-            "Carsten Bockelmann",
-            "Armin Dekorsy"
-        ],
-        "DOI": "",
-        "citation": 7,
-        "abstract": "Machine-to-Machine communication requires new physical layer concepts to meet future requirements. In previous works it has already been shown that Compressive Sensing (CS) detectors are capable of jointly detecting both activity and data in Multi-User Detection (MUD). To date, the investigations on CS based MUD have omitted the channel estimation and assumed perfect channel knowledge. However, in practical applications the channel also has to be estimated, such that the joint detection of activity and data has to be extended by channel estimation. Therefore, in this paper we investigate how to adapt several approaches to channel estimation, such that they are suitable for this joint detection and estimation. Further, we provide simulation results, showing that low overhead channel estimation can be achieved, with only a small loss in detection accuracy compared to CS based MUD for perfect channel state information."
     },
     {
         "title": "Status and recent advances on forward error correction technologies for lightwave systems",

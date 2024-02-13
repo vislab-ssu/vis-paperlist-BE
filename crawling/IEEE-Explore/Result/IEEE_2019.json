@@ -819,6 +819,15 @@
         "abstract": "HVDC grids are expected to be a solution to upgrade the existing AC system. However, their development presents several technical challenges like power flow control, grid protection and interconnection of grids with different technology or voltage levels. One required technology for the development of such grids is the DC-DC converter capable of operating at hundreds of kilovolts and hundreds of megawatts. While different DC-DC converter topologies have been proposed in literature, most studies focus on the topology itself and there is a lack of studies that deal with their grid integration. This paper studies the role of DC-DC converters in the protection of HVDC grids acting as firewalls to stop the propagation of faults. The effects of blocking the converter or actively controlling its operation during faults are presented. The results demonstrate the capabilities of DC-DC converters beyond DC voltage transformation."
     },
     {
+        "title": "Wafer-Scale Deep Learning",
+        "conferenceTitle": "2019 IEEE Hot Chips 31 Symposium (HCS)",
+        "data": "18-20 Aug. 2019",
+        "authors": [],
+        "DOI": "10.1109/HOTCHIPS.2019.8875628",
+        "citation": 5,
+        "abstract": "This article consists of a collection of slides from the author's conference presentation."
+    },
+    {
         "title": "A Programmable Embedded Microprocessor for Bit-scalable In-memory Computing",
         "conferenceTitle": "2019 IEEE Hot Chips 31 Symposium (HCS)",
         "data": "18-20 Aug. 2019",
@@ -1466,15 +1475,6 @@
         "abstract": "In operation and planning of electrical grids, it is essential to account for temporal fluctuation of produced and consumed electric energy. Time series based studies often use standardized load profiles for this, which, however, cannot accurately represent the individual peak patterns in load and demand and their random combinations. As part of the SimBench project, we developed a dataset of energy time series to be assigned as individual profiles to grid nodes in high voltage (HV), medium voltage (MV) and low voltage (LV) grids to calculate local power flows in a more realistic way. Load profiles are classified and assigned to categories on the basis of similarity to standard load profiles to represent a broad range of energy users and generation profiles were created using weather data and an agent-based simulation tool. The subset presented in this paper comprises different 77 one-year-profiles with a 15 minute resolution, containing commercial consumers, household consumers, storage, and production units based on real measurements from Germany with a focus on MV and LV levels."
     },
     {
-        "title": "Wafer-Scale Deep Learning",
-        "conferenceTitle": "2019 IEEE Hot Chips 31 Symposium (HCS)",
-        "data": "18-20 Aug. 2019",
-        "authors": [],
-        "DOI": "10.1109/HOTCHIPS.2019.8875628",
-        "citation": 3,
-        "abstract": "This article consists of a collection of slides from the author's conference presentation."
-    },
-    {
         "title": "The Elimination Game or: Beam Selection based on M-ary Sequential Competition & Elimination",
         "conferenceTitle": "WSA 2019; 23rd International ITG Workshop on Smart Antennas",
         "data": "24-26 April 2019",
@@ -1948,6 +1948,20 @@
         "abstract": "Awareness about the use of network assets and spectral resources in particular requires continuous and seamless monitoring throughout the network. Dense network architectures with high dynamicity in its highly populated links call for a distributed rather than a centralized approach so that the respective monitoring functionality should be integrated in all network terminals. In order not to introduce additional cost, we propose to re-use a transmitter that is widely adopted in direct-modulation / direct-detection systems as a spectral monitor. We experimentally demonstrate that an externally modulated laser is offering the functionality of a continuously tunable coherent receiver in order to down-convert optical signals to the RF domain for subsequent narrowband slicing and power integration. Modulation spectra for on-off keyed signals at different data rates and pulsed signals can be correctly acquired over a spectral range of 320 GHz, in virtue of the high resolution that the proposed coherent spectrum analyser is offering. The errors in wavelength and magnitude are less than 36 pm and 4.6 dB, respectively."
     },
     {
+        "title": "Power control and experiment of 2MW/10kV cascaded H-bridge power conversion system for battery energy storage system",
+        "conferenceTitle": "8th Renewable Power Generation Conference (RPG 2019)",
+        "data": "24-25 Oct. 2019",
+        "authors": [
+            "Kai Tian",
+            "Salman Ali",
+            "Zhong Huang",
+            "Zhibin Ling"
+        ],
+        "DOI": "10.1049/cp.2019.0378",
+        "citation": 2,
+        "abstract": "Renewable energy sources such as photovoltaic and wind turbine power generators may make the power grid unstable because of their output fluctuations. Battery energy storage systems (BESSs) are being considered as a countermeasure for this issue. Cascaded H-bridge (CHB) is expected as a promising topology for large capacity BESSs because the state of charge (SOC) of battery clusters can be controlled independently by H-bridge power units, and the harmonic current of the system is low enough to remove the ac filter. This paper describes the development of the Y-connection CHB-BESS and a power control strategy for the BESS. A real-scale 2MW/10kV CHB-BESS was constructed in Shenzhen, China and its successful operation verify the effectiveness of the proposed control method. Based on the system, the power control strategy was verified by three parts of the experiment, which are decoupling power control test, emergency shutdown test and step response test. The results indicate that the system can realize decoupling control of active and reactive power effectively, achieve step response at the millisecond level and make full-load shutdown in an emergency state at the microsecond level."
+    },
+    {
         "title": "Analysis of impact of grounding-pole current-limiting reactor on fault detection of MMC based DC grids",
         "conferenceTitle": "8th Renewable Power Generation Conference (RPG 2019)",
         "data": "24-25 Oct. 2019",
@@ -2122,6 +2136,19 @@
         "DOI": "10.1109/UBMK.2019.8907087",
         "citation": 2,
         "abstract": "The rapid development and deployment of Internet-based applications has created many problems related to web security. Although the number and the variety of the methods that have been developed in order to maintain security of web applications are increasing, every passing day new types of attacking methods that are targeted at these systems emerge. In order to provide a supplement method to rule and signature based security systems for web application security, it becomes more important to detect and classify the malicious web requests using machine learning techniques. In this work, we used various machine learning techniques to discover the patterns on web requests, and classified the malicious requests while comparing different techniques."
+    },
+    {
+        "title": "Steel Price Forcasting Using Long Short-Term Memory Network Model",
+        "conferenceTitle": "2019 4th International Conference on Computer Science and Engineering (UBMK)",
+        "data": "11-15 Sept. 2019",
+        "authors": [
+            "Kemal Çetin",
+            "Serdar Aksoy",
+            "İsmail İşeri"
+        ],
+        "DOI": "10.1109/UBMK.2019.8907015",
+        "citation": 2,
+        "abstract": "In this study, a steel price forcasting model has been developed by using the Long Short-Term Memory Network Model (LSTM) which is a customized model of recurrent neural network (RNN) architecture. The 10-years stock closing prices of the 50 largest iron and steel companies traded in the world stock exchanges and 10-years data of the scrap metal price obtained from the London metal exchange (LME) on the same day and dates combined as time series for using model training and testing stages. As a result of the forcasting made with the UKDHA model, which is designed to have 1 lstm, 7 dense layers, the best forcasting result was obtained from the forward 5-day forcasting model with the correlation coefficient R =3D 0.8559, MSE value 0.0026 and MAE value 0.0383."
     },
     {
         "title": "A homodyne coherent receiver for analog-over-fibre systems based on feed-forward phase-noise cancellation",
@@ -2706,33 +2733,5 @@
         "DOI": "10.1049/cp.2019.0824",
         "citation": 2,
         "abstract": "500-μm-long membrane InGaAsP-based Mach-Zehnder modulators (MZMs) and MQW-based semiconductor optical amplifiers (SOAs) are integrated by using regrowth techniques on Si platforms. The fibre-to-fibre loss-less condition achieves with 24-mA SOA bias. The MZM operates at a 10.8-dB extinction ratio with 4 Vpp for 28-Gbit/s NRZ signals."
-    },
-    {
-        "title": "An extremely low-crosstalk WDM demultiplexer with an automatic error-correction capability enabling temperature insensitivity and high-yield integration on low-end Si PICs",
-        "conferenceTitle": "45th European Conference on Optical Communication (ECOC 2019)",
-        "data": "22-26 Sept. 2019",
-        "authors": [
-            "Tomoyuki Akiyama",
-            "Shoichiro Oda",
-            "Seok-Hwan Jeong",
-            "Yasuhiro Nakasha",
-            "Akinori Hayakawa",
-            "Yu Tanaka",
-            "Takeshi Hoshida"
-        ],
-        "DOI": "10.1049/cp.2019.0736",
-        "citation": 2,
-        "abstract": "We demonstrate a novel demultiplexer capable to resolve phase-error-induced impairments. With a simple control algorithm targeting integration, crosstalks of as low as −58 to −49 dB have been obtained. This technology enabling temperature insensitivity and high yields drastically improves performance and cost of WDM transceivers."
-    },
-    {
-        "title": "Quantum theory of noise in stokes vector receivers and application to bit error rate analysis",
-        "conferenceTitle": "45th European Conference on Optical Communication (ECOC 2019)",
-        "data": "22-26 Sept. 2019",
-        "authors": [
-            "Kazuro Kikuchi"
-        ],
-        "DOI": "10.1049/cp.2019.1042",
-        "citation": 2,
-        "abstract": "We develop a quantum theory of noise in the Stokes vector receiver. The Gaussian noise model for the shot noise and optical pre-amplifier noise is discussed. The bit error rate characteristics for the cubic polarization modulation format are calculated based on the Gaussian noise model."
     }
 ]

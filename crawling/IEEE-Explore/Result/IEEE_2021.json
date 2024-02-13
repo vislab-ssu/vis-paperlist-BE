@@ -16,7 +16,7 @@
         "data": "10-17 Oct. 2021",
         "authors": [],
         "DOI": "10.1109/ICCV48922.2021.01452",
-        "citation": 17,
+        "citation": 18,
         "abstract": "Gait benchmarks empower the research community to train and evaluate high-performance gait recognition systems. Even though growing efforts have been devoted to cross-view recognition, academia is restricted by current existing databases captured in the controlled environment. In this paper, we contribute a new benchmark for Gait REcognition in the Wild (GREW). The GREW dataset is constructed from natural videos, which contains hundreds of cameras and thousands of hours streams in open systems. With tremendous manual annotations, the GREW consists of 26K identities and 128K sequences with rich attributes for unconstrained gait recognition. Moreover, we add a distractor set of over 233K sequences, making it more suitable for real-world applications. Compared with prevailing predefined cross-view datasets, the GREW has diverse and practical view variations, as well as more natural challenging factors. To the best of our knowledge, this is the first large-scale dataset for gait recognition in the wild. Equipped with this benchmark, we dissect the unconstrained gait recognition problem. Representative appearance-based and model-based methods are explored, and comprehensive baselines are established. Experimental results show (1) The proposed GREW benchmark is necessary for training and evaluating gait recognizer in the wild. (2) For state-of-the-art gait recognition approaches, there is a lot of room for improvement. (3) The GREW benchmark can be used as effective pre-training for controlled gait recognition. Benchmark website is https://www.grew-benchmark.org/."
     },
     {
@@ -501,6 +501,20 @@
         "abstract": "Quality of drinking water observing is most fundamental now-a-days days as the reachable water might be influenced by contamination and can lead to a few sicknesses. Consequently, it's important to forestall any interruption into water appropriation frameworks and to identify contamination quickly. To determine worries on interruption recognition we have different AI calculations for order however picking the better is a notable undertaking. For choosing the best calculation for our quality of water checking framework, we all led a test concentrate on AI calculations. In this exploratory examination, we dissected the exhibition of the well-known grouping calculations in the writing specifically Support-Vector Machines and Decision-Tree algorithm utilizing a genuine dataset recovered from a Tunisian water distributing station."
     },
     {
+        "title": "Intelligent emotion recognition system using natural language processing and BERT",
+        "conferenceTitle": "The 2nd International Conference on Distributed Sensing and Intelligent Systems (ICDSIS 2021)",
+        "data": "30-31 July 2021",
+        "authors": [
+            "S. Limkar",
+            "A. Itkarkar",
+            "Y. Kasat",
+            "N. Mandale"
+        ],
+        "DOI": "10.1049/icp.2021.2681",
+        "citation": 2,
+        "abstract": "Emotions have always been one of the important aspects of our lives that influences everything. Being able to recognize emotions can help us in various domains such as psychology, human-computer interaction, e-learning, marketing and many more. A comparative study has been done on different approaches i.e., Traditional Machine Learning approach, Neural Network approach and Bidirectional Encoder Representations from Transformers (BERT) to evaluate which approach gives us the maximum accuracy, it has been evaluated on a dataset that was combined from dailydialog, isear, and emotion-stimulus datasets to create a balanced dataset with five labels: joy, sad, anger, fear, and neutral. We'll be concentrating on implicit emotion recognition, which is a challenging problem to tackle because emotion is hidden inside the text and solving it necessitates identifying the text's context. The resulting intelligent system will display emotions extracted from the text, which will be divided into five categories: joy, sadness, fear, rage, and neutral. The accuracy of the model was 91.72 percent, which is much higher than that of typical machine learning and neural network approaches."
+    },
+    {
         "title": "COMPREHENSIVE LARGE-SCALE DISTRIBUTION TEST NETWORKS",
         "conferenceTitle": "CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution",
         "data": "20-23 Sept. 2021",
@@ -597,6 +611,21 @@
         "DOI": "",
         "citation": 2,
         "abstract": "A main pillar for the development of satellite missions within the Earth Observation programme of the European Space Agency (ESA) is the EU Copernicus programme, which is addressing the needs of operational users and European services. As part of the Copernicus Expansion Programme, addressing new missions that have been identified by the European Commission (EC) as priorities, ESA has recently completed the Phase-A/-B1 study for an L-band SAR mission referred to as ROSE-L (Radar Observation System for Europe at L-band). This paper will provide an overview on the current status of the mission, scientific background and mission objectives as well as the system design incl. key performance parameters."
+    },
+    {
+        "title": "Design of Remote Access System for Digital Resources in Campus based on SSL Protocol",
+        "conferenceTitle": "ISCTT 2021; 6th International Conference on Information Science, Computer Technology and Transportation",
+        "data": "26-28 Nov. 2021",
+        "authors": [
+            "Chen Liu",
+            "Zhihai Suo",
+            "Qi Mao",
+            "Yuting Wang",
+            "Wenxin Dong"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "This paper first points out the problems faced by teachers and students when using campus digital resources and business systems outside the campus with the expansion of campus network scale and the increase of campus resources, then introduces the differences between SSL VPN and IPSec VPN, and finally combines the actual use demand of campus VPN and the current situation of campus network of Xi’an Jiao Tong University. The solution and deployment of campus digital resource remote access system based on SSL protocol are proposed. Practice has proved that the scheme solves the problem of safe, efficient and reliable access to school resources by off campus users."
     },
     {
         "title": "AUTOMATIC ANALYSIS OF THERMOGRAMS – CHALLENGE IN THERMAL MONITORING OF SWITCHGEARS USING INFRARED CAMERAS",
@@ -1506,20 +1535,6 @@
         "abstract": "Solid state current limiters must be extremely fast and very reliable. To achieve high performances, current flow is usually controlled by means of hysteresis thresholds within a given band. Hysteresis regulation is very robust but, due to unavoidable hardware limitations, delays and inaccuracies are generated during current measurement; as a result, set thresholds can be systematically exceeded. In this work, an adaptive control is implemented in order to compensate as much as possible such defects in a solid state breaker/limiter for Medium Voltage Direct Current application. The concept has been successfully implemented by using Control Hardware in The Loop equipment and a real time simulator. Due to algorithm simplicity, implementation into device microcontroller is easy and it does not affect speed response. The final result is a better control of limited current, especially in the upper threshold. This goes to lower current peaks into the circuit and let to contain current ripple within imposed limits."
     },
     {
-        "title": "Intelligent emotion recognition system using natural language processing and BERT",
-        "conferenceTitle": "The 2nd International Conference on Distributed Sensing and Intelligent Systems (ICDSIS 2021)",
-        "data": "30-31 July 2021",
-        "authors": [
-            "S. Limkar",
-            "A. Itkarkar",
-            "Y. Kasat",
-            "N. Mandale"
-        ],
-        "DOI": "10.1049/icp.2021.2681",
-        "citation": 1,
-        "abstract": "Emotions have always been one of the important aspects of our lives that influences everything. Being able to recognize emotions can help us in various domains such as psychology, human-computer interaction, e-learning, marketing and many more. A comparative study has been done on different approaches i.e., Traditional Machine Learning approach, Neural Network approach and Bidirectional Encoder Representations from Transformers (BERT) to evaluate which approach gives us the maximum accuracy, it has been evaluated on a dataset that was combined from dailydialog, isear, and emotion-stimulus datasets to create a balanced dataset with five labels: joy, sad, anger, fear, and neutral. We'll be concentrating on implicit emotion recognition, which is a challenging problem to tackle because emotion is hidden inside the text and solving it necessitates identifying the text's context. The resulting intelligent system will display emotions extracted from the text, which will be divided into five categories: joy, sadness, fear, rage, and neutral. The accuracy of the model was 91.72 percent, which is much higher than that of typical machine learning and neural network approaches."
-    },
-    {
         "title": "A Mixer-Embedded Low Noise Amplifier for Mixer-First Direct-Conversion Wake-Up Receivers",
         "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
         "data": "19-22 July 2021",
@@ -1571,6 +1586,24 @@
         "DOI": "",
         "citation": 1,
         "abstract": "Within the scope of discussed approaches to cross-voltage level system control, the short-term forecast of grid-related parameters (e.g. reactive power) is of elementary importance. This work presents a complete methodology for short-term prediction of reactive power behaviour of individual substations and grid interconnection points. An application designed for this purpose and its functional range are presented within an exemplary reactive power forecast for a real 110 kV grid. The development approach and the applied prediction method of a Generalized Additive Model show promising results especially for a not highly fluctuating reactive power behaviour of substations. In order to be able to forecast also highly fluctuating feeders correctly, a further optimization of the parameterization of the used models as well as the use of further and more accurate data is to be aspired."
+    },
+    {
+        "title": "Local Frequency Transients in the Future European Synchronous Transmission Grid",
+        "conferenceTitle": "NEIS 2021; Conference on Sustainable Energy Supply and Energy Storage Systems",
+        "data": "13-14 Sept. 2021",
+        "authors": [
+            "Mariano Dominguez Librandi",
+            "Thomas Wuerl",
+            "Daniel Stenzel",
+            "Rolf Witzmann",
+            "Soupayan Bose",
+            "Joerg Michael Schmidt",
+            "Vladimir Milic",
+            "Ernest Tchagou"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "The planned shutdown of coal and nuclear power plants together with the increasing presence of converter-interfaced systems such as HVDC links and Renewable Energy Sources (RES) is modifying the traditional structure of power systems. This trend leads to a decrease in available kinetic energy that affects frequency stability since conventional power plants are being displaced. A common practice during frequency studies is to consider only the Center of Inertia (CoI). This approach implies the neglect of local frequency and RoCoF transients. Such an assumption might not always be valid. In this work, we elaborate on the mechanism behind the origin of local frequency transients. Then, we demonstrate with dynamic simulations that these transients can occur in the European context after a plausible single-contingency. The results lead to practical conclusions relevant to transmission system operators. For instance, we identify that zero inertia regions do not directly imply a worse local transient behavior."
     },
     {
         "title": "Informed Source Extraction With Application to Acoustic Echo Reduction",
@@ -2664,34 +2697,5 @@
         "DOI": "10.1049/icp.2021.2285",
         "citation": 1,
         "abstract": "In recent grid codes (e.g., German grid codes) for inverter-based generation (IBG), dual-sequence reactive current injection during asymmetrical grid faults has been stipulated. Due to the interconnection of the positive- and negative-sequence networks during asymmetrical faults, a positive-sequence reactive current injection (over-excited) can lift both positive- and negative-sequence voltages, while a negative-sequence reactive current injection (under-excited) can reduce both. Therefore, a compromise should be reached to meet the grid code requirements. While injecting current during grid faults, it has been reported that IBG is likely to lose synchronism with the grid due to the grid impedance interaction, in particular in a weak grid scenario. This is commonly referred to as synchronization instability. In this paper, a quantitative analysis is carried out to identify the maximum current injection for IBG under different types of asymmetrical faults, giving the dual-sequence current injection limit considering the interconnection of the sequence networks. Based on quantitative results, whether the current grid codes can be generally followed in a weak grid scenario is evaluated. Additionally, recommendations are provided on the reasonable regulation of the proportional coefficients between the amplitude of the current output and the voltage. The analysis results are verified by simulations."
-    },
-    {
-        "title": "Side-Slip Angle Estimation by Artificial Neural Networks for Vehicle Dynamics Control Applications",
-        "conferenceTitle": "AmE 2021 - Automotive meets Electronics; 12th GMM-Symposium",
-        "data": "10-11 March 2021",
-        "authors": [
-            "Philipp Maximilian Sieberg",
-            "Sebastian Blume",
-            "Dieter Schramm"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "State estimation is a major aspect of vehicle dynamics control systems. Whenever states cannot be measured, they have to be estimated in order to control them. In addition to state estimators based on physical model knowledge, data-driven models are used to a greater extent. Especially artificial neural networks exhibit a great potential to increase the estimation quality. In the present contribution, an artificial neural network is set up to estimate the side-slip angle. The knowledge about the side-slip angle is required in order to affect the self-steering behavior within a central predictive control. In the validation, the artificial neural network is compared to a physical model for estimating the side-slip angle."
-    },
-    {
-        "title": "Modeling Power Supply Noise in RF SoCs",
-        "conferenceTitle": "SMACD / PRIME 2021; International Conference on SMACD and 16th Conference on PRIME",
-        "data": "19-22 July 2021",
-        "authors": [
-            "Jonas Meier",
-            "Florian Menke",
-            "Lantao Wang",
-            "Tim Lauber",
-            "Ralf Wunderlich",
-            "Stefan Heinen"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "With rising integration densities and design complexities, the verification effort of modern Systems-on-Chip is rising even faster. Additionally, with the shift towards digitalcentric circuits in smaller process nodes, supply noise has become a critical factor as it can degrade the performance of the remaining analog and RF components drastically. This paper provides an overview on recent advances in modeling power supply noise on block level. Considerations to transfer these approaches for simulating noise on system level are highlighted. An All-Digital PLL SoC is used as an example to showcase the insights that can be derived even when using simple models. The position and causes for spurs arising due to coupling on the power supply lines are investigated, giving designers a guideline on where to focus their optimization efforts."
     }
 ]

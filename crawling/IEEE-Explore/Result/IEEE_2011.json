@@ -129,7 +129,7 @@
             "T. J. Brazil"
         ],
         "DOI": "10.1109/MWSYM.2011.5973251",
-        "citation": 19,
+        "citation": 18,
         "abstract": "Summary form only given, as follows. This work involves the design and fabrication of a Class-J power amplifier over a bandwidth of 2.3–2.7 GHz. A design procedure is discussed for wideband amplifier operation with complete 2nd and 3rd harmonic band rejection at the load. Measurements justify the methodology and results indicate 60% efficiency over the band of interest and 2nd and 3rd harmonic load suppression in excess of −39 dBc."
     },
     {
@@ -526,6 +526,22 @@
         "abstract": "Summary form only given, as follows. This electronically tunable UHF power amplifier (PA) is based upon a Gallium-Nitride (GaN) HEMT operated in class C. The gate input is tuned by two arrays of varactor diodes. The drain output is tuned by a three-stub tuner whose stub lengths are controlled by pin diodes. From 325 to 800 MHz (factor of 2.5∶1), the PA delivers an output of 34 to 50 W with an overall efficiency of 47 to 65 percent."
     },
     {
+        "title": "Wireless M2M Communication Networks for Smart Grid Applications",
+        "conferenceTitle": "17th European Wireless 2011 - Sustainable Wireless Technologies",
+        "data": "27-29 April 2011",
+        "authors": [
+            "C. Wietfeld",
+            "H. Georg",
+            "S. Groening",
+            "C. Lewandowski",
+            "C. Mueller",
+            "J. Schmutzler"
+        ],
+        "DOI": "",
+        "citation": 8,
+        "abstract": "Future Smart Grid applications rely on highly reliable and secure connectivity between various infrastructure components from utilities, grid operators and households in order to cover requirements on communications for smart metering and decentralized energy management including electric mobility. Therefore several approaches for communication infrastructures are currently discussed based on different architectural concepts including wired and wireless access and inhouse communication technologies. In this paper we provide an overview on wireless-enabled networking architectures and discuss two exemplary network planning approaches. On one hand, network planning algorithms for the neighbourhood area network (NAN) are introduced. On the other hand, we present results for an integrated, wireless network coverage-aware planning of public and private charge point locations. In addition we address in the paper the design and implementation of embedded, wirelessWeb Services to enable the efficient and reliable data exchange within distributed energy systems. The paper concludes with the comparison of two approaches for the optimal coding of energy-management-related SOAP messages."
+    },
+    {
         "title": "Photonics for simultaneous transmit and receive",
         "conferenceTitle": "2011 IEEE MTT-S International Microwave Symposium",
         "data": "5-10 June 2011",
@@ -625,22 +641,6 @@
         "DOI": "10.1109/CSSS.2011.5972162",
         "citation": 7,
         "abstract": "RSSI-based localization is one of the hot spots in wireless sensor networks nowadays. For improving the locating accuracy, an improved RSSI-based centroid localization algorithm by using a new method to reduce the error of RSSI measurement is presented in this paper. The simulation experiment results prove that this algorithm can obviously improve the locating accuracy compared to other RSSI-based triangle and centroid localization algorithms."
-    },
-    {
-        "title": "Wireless M2M Communication Networks for Smart Grid Applications",
-        "conferenceTitle": "17th European Wireless 2011 - Sustainable Wireless Technologies",
-        "data": "27-29 April 2011",
-        "authors": [
-            "C. Wietfeld",
-            "H. Georg",
-            "S. Groening",
-            "C. Lewandowski",
-            "C. Mueller",
-            "J. Schmutzler"
-        ],
-        "DOI": "",
-        "citation": 7,
-        "abstract": "Future Smart Grid applications rely on highly reliable and secure connectivity between various infrastructure components from utilities, grid operators and households in order to cover requirements on communications for smart metering and decentralized energy management including electric mobility. Therefore several approaches for communication infrastructures are currently discussed based on different architectural concepts including wired and wireless access and inhouse communication technologies. In this paper we provide an overview on wireless-enabled networking architectures and discuss two exemplary network planning approaches. On one hand, network planning algorithms for the neighbourhood area network (NAN) are introduced. On the other hand, we present results for an integrated, wireless network coverage-aware planning of public and private charge point locations. In addition we address in the paper the design and implementation of embedded, wirelessWeb Services to enable the efficient and reliable data exchange within distributed energy systems. The paper concludes with the comparison of two approaches for the optimal coding of energy-management-related SOAP messages."
     },
     {
         "title": "Challenges in high voltage and Ultra High voltage AC and DC field testing",

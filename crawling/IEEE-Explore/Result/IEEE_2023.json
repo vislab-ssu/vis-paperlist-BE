@@ -1223,7 +1223,7 @@
             "Zhijie Huang"
         ],
         "DOI": "10.1109/ICASSP49357.2023.10096516",
-        "citation": 30,
+        "citation": 31,
         "abstract": "Remarkable effectiveness of the channel or spatial attention mechanisms for producing more discernible feature representation are illustrated in various computer vision tasks. However, modeling the cross-channel relationships with channel dimensionality reduction may bring side effect in extracting deep visual representations. In this paper, a novel efficient multi-scale attention (EMA) module is proposed. Focusing on retaining the information on per channel and decreasing the computational overhead, EMA groups the channel dimensions into multiple sub-features and makes the spatial semantic features well-distributed inside each feature group. Specifically, apart from encoding the global information to re-calibrate the channel-wise weight in each parallel branch, the output features of the two parallel branches are further aggregated by a cross-dimension interaction method. The extensive experiments on common-used benchmarks, such as CIFAR100 for image classification, and object detection on MS COCO and VisDrone2019 datasets, are conducted which indicate that EMA outperforms several recent attention mechanisms significantly without changing networks depth."
     },
     {
@@ -1253,7 +1253,7 @@
             "Junchi Yan"
         ],
         "DOI": "10.1109/ICASSP49357.2023.10094626",
-        "citation": 26,
+        "citation": 28,
         "abstract": "We present a memory and computation efficient ternary weight networks (TWNs) - with weights constrained to +1, 0 and -1. The Euclidian distance between full (float or double) precision weights and the ternary weights along with a scaling factor is minimized in training stage. Besides, a threshold-based ternary function is optimized to get an approximated solution which can be fast and easily computed. TWNs have shown better expressive abilities than binary precision counterparts. Meanwhile, TWNs achieve up to 16× model compression rate and need fewer multiplications compared with the float32 precision counterparts. Extensive experiments on MNIST, CIFAR-10, and ImageNet datasets show that the TWNs achieve much better result than the Binary-Weight-Networks (BWNs) and the classification performance on MNIST and CIFAR-10 is very close to the full precision networks. We also verify our method on object detection task and show that TWNs significantly outperforms BWN by more than 10% mAP on PASCAL VOC dataset. The pytorch version of source code is available at: https://github.com/Thinklab-SJTU/twns."
     },
     {
