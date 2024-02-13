@@ -1382,6 +1382,20 @@
         "abstract": "This paper deals with adaptive compensation of gain and phase errors possibly present in FMCW radars. To this end, a detailed characterization of the baseband noise and of the useful signal is first obtained. Then, elaborating on existing results, it is shown how to estimate the gain and phase errors and compensate them. A preliminary assessment of the compensation procedure on real data collected by an off-the-shelf transceiver is also given."
     },
     {
+        "title": "High-efficiency True Bridgeless Totem Pole PFC based on GaN HEMT: Design Challenges and Cost-effective Solution",
+        "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
+        "data": "19-20 May 2015",
+        "authors": [
+            "Liang Zhou",
+            "Yifeng Wu",
+            "Jim Honea",
+            "Zhan Wang"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "A true bridgeless Totem-Pole Power-Factor-Correction (TP-PFC) circuit is enabled by a diode-free GaN power HEMT bridge with low reverse-recovery charge. The proposed circuit introduces effective methods to resolve design challenges of current sensing and light load regulation, which can greatly reduce application cost and improve system stability. Experiments have been conducted to verify the proposed high efficiency AC/DC conversion of TP-PFC. Two types of GaN HEMT in TO220 and TO247 packages from Transphorm, Inc. have been successfully used in the proposed TP-PFC in 2 power levels. With 390Vdc output in continuous-current mode, a 1kW TP-PFC reaches 99% peak efficiency at 230V ac high-line input with 50KHz switching frequency, and a 2.4kW TP-PFC reaches 98.8% peak efficiency at high-line input with 100KHz switching frequency."
+    },
+    {
         "title": "Assessment of Line Overloading Risk for Transmission Networks",
         "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
         "data": "10-12 Feb. 2015",
@@ -1647,6 +1661,19 @@
         "DOI": "10.1049/cp.2015.0058",
         "citation": 2,
         "abstract": "Hybrid HVDC combines the advantages of line commutated converter (LCC) and modular multilevel converter (MMC). In this paper the topology and basic control strategy of hybrid HVDC are described. Then the power reversal of hybrid HVDC is analysed. For LCC-HMMC (MMC adopting half bridge sub-module), the sequence of power reversal after stopping operation is proposed while for LCC-FMMC (MMC adopting full bridge sub-module), a new modulation strategy is proposed to maintain the sub-module voltage during the power reversal without blocking the converters. Simulation results are presented to verify the feasibility of power reversal of hybrid HVDC."
+    },
+    {
+        "title": "On the five-phase open-end winding drives performance",
+        "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
+        "data": "19-20 May 2015",
+        "authors": [
+            "Milan Darijevic",
+            "Nandor Bodo",
+            "Martin Jones"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "Two multilevel five-phase open-end winding drive topologies are analysed and compared in this paper. The first topology consists of a five-phase machine and two two-level five-phase inverters, supplied with isolated dc-link voltages. In the second topology three-level and twolevel five-phase inverters are used to supply a five-phase machine. Variation of two dc-link's voltage ratio can lead to different overall number of phase voltage levels in both considered topologies. Dc-link voltage ratio influence on performance of drive topologies is analysed and experimental verification is provided for the four most suitable drive configurations."
     },
     {
         "title": "PMSM Hamiltonian energy shaping control with parameters self-tuning PID control",
@@ -1963,20 +1990,6 @@
         "abstract": "Presents a collection of slides covering the following topics: WWRF; 5G enabling radio technology; wireless devices; wireless communications; ultra dense networks; UDN system; universal resources management; network function virtualization; and cloud RAN."
     },
     {
-        "title": "High-efficiency True Bridgeless Totem Pole PFC based on GaN HEMT: Design Challenges and Cost-effective Solution",
-        "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "data": "19-20 May 2015",
-        "authors": [
-            "Liang Zhou",
-            "Yifeng Wu",
-            "Jim Honea",
-            "Zhan Wang"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "A true bridgeless Totem-Pole Power-Factor-Correction (TP-PFC) circuit is enabled by a diode-free GaN power HEMT bridge with low reverse-recovery charge. The proposed circuit introduces effective methods to resolve design challenges of current sensing and light load regulation, which can greatly reduce application cost and improve system stability. Experiments have been conducted to verify the proposed high efficiency AC/DC conversion of TP-PFC. Two types of GaN HEMT in TO220 and TO247 packages from Transphorm, Inc. have been successfully used in the proposed TP-PFC in 2 power levels. With 390Vdc output in continuous-current mode, a 1kW TP-PFC reaches 99% peak efficiency at 230V ac high-line input with 50KHz switching frequency, and a 2.4kW TP-PFC reaches 98.8% peak efficiency at high-line input with 100KHz switching frequency."
-    },
-    {
         "title": "Coin recognition based on geometric features",
         "conferenceTitle": "2015 23nd Signal Processing and Communications Applications Conference (SIU)",
         "data": "16-19 May 2015",
@@ -2067,6 +2080,21 @@
         "DOI": "10.1109/SIU.2015.7129864",
         "citation": 1,
         "abstract": "In this paper, a cooperative system structure that utilizes decode and forward (DF) method with relay selection based on the optimum relaying strategy have been proposed. The source-relay, relay-destination and source destination links are modeled as Nakagami-m distributed random variables. In order to decrease performance degradation due to error propagations in DF based wireless cooperative networks and increase the error performance of the system, virtual noise (VN), MRC and cooperative-MRC based detection techniques with the optimal threshold value are considered. Optimum threshold value functions of the considered techniques are derived theoretically."
+    },
+    {
+        "title": "Study on bandwidth synthesis method in the range for OFDM MIMO-SAR",
+        "conferenceTitle": "IET International Radar Conference 2015",
+        "data": "14-16 Oct. 2015",
+        "authors": [
+            "Libao Wang",
+            "Chao Xie",
+            "Cangzhen Meng",
+            "Hui Rao",
+            "Ling Wang"
+        ],
+        "DOI": "10.1049/cp.2015.1156",
+        "citation": 1,
+        "abstract": "Orthogonal waveform separation is an important process to realize high resolution radar imaging for multi-input and multi-output synthetic aperture radar (MIMOSAR). In this paper, orthogonal frequency division multiplexing (OFDM) waveforms are used to realize the received echoes separation in one snapshot. Then, we reconstruct MIMO-SAR signal for each carrier frequency in multiple snapshots, and high range resolution is achieved by synthesizing the linear frequency modulation signals of different carrier frequencies at the same phase center of virtual element. Furthermore, cross correlation of OFDM waveforms and the integrated sidelobe rate influenced by the interval factor of center carrier frequency are analyzed in the range profile. Simulations demonstrate the validity of bandwidth synthesis method."
     },
     {
         "title": "Energy management of wind turbine-based DC microgrid utilizing modified differential evolution algorithm",
@@ -2554,32 +2582,5 @@
         "DOI": "",
         "citation": 1,
         "abstract": "Common Mode Chokes are widely used to suppress common mode and differential mode noise while compensating the magnetic field of the load current. The preferred measurement technique to characterize saturation behavior is small-signal inductance versus dc-bias. We recently presented a new method for simulating small signal inductance versus dc-bias currents [1, 2]. By using the proper material characteristics, this method allows the simulation of saturation effects due to differential mode and common mode currents. The simulation results are verified by measurements on a standard and a novel Common Mode Choke design under development."
-    },
-    {
-        "title": "High voltage module with low internal inductance for next chip generation - next High Power Density Dual (nHPD2)",
-        "conferenceTitle": "Proceedings of PCIM Europe 2015; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "data": "19-20 May 2015",
-        "authors": [
-            "Daisuke Kawase",
-            "Masamitsu Inaba",
-            "Keisuke Horiuchi",
-            "Katsuaki Saito"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "In order to obtain the full benefit of Wide Band Gap (WBG) semiconductor device, it is essential to reduce total system stray inductance. Hitachi's latest package technology development is the new high voltage package concept named \"next High Power Density Dual (nHPD2)\". The package offers not only a drastic reduction in the internal inductance by 75% from conventional modules, but also an increase in the power density compared with the latest F-version series modules. Hitachi formerly presented the latest generation F-series modules in 2014, showing a 20% higher power density compared to conventional devices in the market. nHPD2 provides even higher power densities, up to 10% more. The developed package is equipped with a current sensing function which enables the user to detect the voltage difference using the internal package inductance. Although it is challenging to apply the current sensing method using the internal inductance with high accuracy in spite of the extremely low inductance module, in this paper we propose a new current sensing algorism using the internal inductance and verified to show adequate accuracy."
-    },
-    {
-        "title": "Voltage Control of Offshore Load Connected to a Multi-Terminal HVDC Transmission System",
-        "conferenceTitle": "11th IET International Conference on AC and DC Power Transmission",
-        "data": "10-12 Feb. 2015",
-        "authors": [
-            "Z. Solhjoukhah",
-            "A. Egea-Alvarez",
-            "O. Gomis-Bellmunt"
-        ],
-        "DOI": "10.1049/cp.2015.0063",
-        "citation": 1,
-        "abstract": "This paper presents a voltage control for an offshore load fed by a Multi-Terminal VSC-HVDC transmission system (MTHVDC). The studied system is composed by two GSCs (Grid Side Converters) and one OSC (Offshore Side Converter). The objective is to maintain the amplitude and frequency of the AC voltage constant at the offshore terminal with a minimum overshoot. A vector control strategy including a current control loop and a voltage control loop is proposed for the OSC and also LQG (Linear-Quadratic-Gaussian) compensator is employed to improve the voltage response of offshore load. The performance of this controller is validated using simulation in MATLAB/SIMULINK software for three operating conditions: normal operation, no-load and start-up of the offshore load. Simulation results illustrate that the AC voltage of load can be governed at its nominal value and MT-HVDC system linked to the offshore load with the proposed controller is able to provide a reliable dynamic operation and a desirable voltage quality during load variations."
     }
 ]

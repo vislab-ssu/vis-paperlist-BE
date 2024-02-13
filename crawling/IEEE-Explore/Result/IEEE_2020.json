@@ -49,7 +49,7 @@
             "Irma Esmer Papazian"
         ],
         "DOI": "10.1109/HCS49909.2020.9220434",
-        "citation": 17,
+        "citation": 18,
         "abstract": "This article consists only of a collection of slides from the author's conference presentation."
     },
     {
@@ -624,6 +624,18 @@
         "abstract": "Fault effect simulation is a well-established technique for the qualification of robust embedded software and hardware as required by different safety standards. Our article introduces a Virtual Prototype based approach for the fault analysis and fast simulation of a set of automatically generated and target compiled software programs. The approach scales to different RISC-V ISA standard subset configurations and is based on an instruction and hardware register coverage for automatic fault injections of permanent and transient bitflips. The analysis of each software binary evaluates its opcode type and register access coverage including the addressed memory space. Based on this information dedicated sets of fault injected hardware models, i.e., mutants, are generated. The simulation of all mutants conducted with the different binaries finally identifies the cases with a normal termination though executed on a faulty hardware model. They are identified as a subject for further investigations and improvements by the implementation of additional hardware or software safety countermeasures. Our final evaluation results with automatic C code generation, compilation, analysis, and simulation show that QEMU provides an adequate efficient platform, which also scales to more complex scenarios."
     },
     {
+        "title": "ANFIS based single line to ground fault location estimation for transmission lines",
+        "conferenceTitle": "Michael Faraday IET International Summit 2020 (MFIIS 2020)",
+        "data": "3-4 Oct. 2020",
+        "authors": [
+            "M. Paul",
+            "S. Debnath"
+        ],
+        "DOI": "10.1049/icp.2021.1077",
+        "citation": 2,
+        "abstract": "An impedance-based fault location algorithm for ac transmission lines has been presented in this study. The proposed algorithm uses discrete wavelet transform to extract the features from the voltage and current signals which are measured from one end of the transmission line after the inception of faults. The approximation coefficients of the voltage and current signals are utilized to compute the line impedance. The three-line impedances of three phases are fed to the Adaptive neuro-fuzzy inference system (ANFIS) based fault locator to estimate the location of the fault. This paper is only focused to estimate the location of the single line to ground (SLG) fault, as the most commonly occurring fault in the transmission line is SLG fault. The significant feature of this paper is that the performance of the proposed fault locator is immune to fault resistance (FR) and fault inception angle (FIA). Moreover, the proposed approach is free from time synchronization error as the one end data is sufficient to locate the fault."
+    },
+    {
         "title": "A source code summarization technique for object oriented classes",
         "conferenceTitle": "3rd Smart Cities Symposium (SCS 2020)",
         "data": "21-23 Sept. 2020",
@@ -664,6 +676,19 @@
         "DOI": "10.1049/icp.2021.0896",
         "citation": 2,
         "abstract": "In this busy schedule, everyone needs a bit of comfort and a protected life. The development and transformation of standard homes into smart homes has increased dramatically in recent times. This is due to innovations such as the Internet of Things, Sensors, Mobile Phones, Sophisticated Gadgets, Distributed Computing and PDAs like Amazon Alexa, Google Home, Google Assistant, Apple Siri and Microsoft Cortana. Home automation Framework for remote control of household appliances to relieve stress. This paper represents the general structure of the Home Automation Framework with minimal remote control. This framework gives more control over the well-being of the switches with the low-voltage, Arduino board, Bluetooth module, smartphone, relay, and temperature sensor. The state of the switches is synchronized throughout the control structure, with each user interface constantly displaying the state of the current switches. The framework has been designed to control the family unit's electrical appliances with a general operating convenience plan, a user-friendly interface and easy installation. The remote and smart home environment performs important work in human life and extends its ubiquity due to its adaptability, compactness and little set-up costs. The smart system of home automation is useful in everyday life as it decreases the extraordinary tasks of the users and reduces the worries about the safety of the houses. The main purpose of house automation is to remotely control the ON / OFF status of the light, the speed of the fan automatically using temperature sensor and other household appliances. This framework is beneficial for elderly and disabled people and workers."
+    },
+    {
+        "title": "A PSCAD PROCESSOR-IN-THE-LOOP SYSTEM FOR HARDWARE EVALUATION OF POWER CONVERTER CONTROL ALGORITHMS",
+        "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
+        "data": "15-17 Dec. 2020",
+        "authors": [
+            "J. Andrews",
+            "P. R. Green",
+            "M. Barnes"
+        ],
+        "DOI": "10.1049/icp.2021.1060",
+        "citation": 2,
+        "abstract": "Hardware implementation of controllers for modular multilevel converter voltage source converters is a non-trivial task, which requires a thorough evaluation of the real-world performance of control hardware. This paper presents a new processor-in-the-loop system developed at The University of Manchester which enables real-time evaluation of power converter control algorithms implemented on a target hardware platform from within a PSCAD/EMTDC simulation. The developed system has been used to measure the execution times of sorting algorithms implemented within the capacitor balancing control loop of an MMC. The system is a low-cost alternative to commercial real-time hardware-in-the-loop systems, and can be used to bridge the gap between offline simulation and final controller implementation in hardware. The developed system can be extended to support any control algorithm of interest, implemented on a wide range of target hardware platforms which may include: embedded microcontrollers, digital signal processors, and field-programmable gate arrays. Applications include control systems for power electronics connected to power systems including HVDC, renewable energy and smart grids."
     },
     {
         "title": "Characterization of the Junction Temperature of SiC Power Devices via Quasi-Threshold Voltage as Temperature Sensitive Electrical Parameter",
@@ -974,6 +999,22 @@
         "abstract": "In this paper, primarily, stochastic analysis of M out of N (M/N) detector which is used in digital receivers of electronic warfare (EW) systems is performed, and the proposed method for designing double threshold M/N detector that satisfies EW system requirements at lowest SNR level is detailed. It is verified with simulations that the designed M/N detector minimizes SNR level while satisfying EW system requirements."
     },
     {
+        "title": "Ultra-high Power Density Server Supplies Employing GaN Power Semiconductors and PCB-Integrated Magnetics",
+        "conferenceTitle": "CIPS 2020; 11th International Conference on Integrated Power Electronics Systems",
+        "data": "24-26 March 2020",
+        "authors": [
+            "Matthias J. Kasper",
+            "Luca Peluso",
+            "Gerald Deboy",
+            "Gustavo Knabben",
+            "Thomas Guillod",
+            "Johann W. Kolar"
+        ],
+        "DOI": "",
+        "citation": 2,
+        "abstract": "The trend towards higher computation power per server rack has lead to an increased interest in high density server power supplies with high efficiency and low cost. This paper analyzes how the specific features of planar magnetics as transformers and inductors can be best utilized in combination with GaN power semiconductors to reach unprecedented system performance both for power supplies with 12V and with 48V output voltage. Based on the optimization results a hardware demonstrator with an ultra-high power density (350W/in3) of a 3kW DC/DC converter stage with a wide-input voltage range of 300V-430V and an output voltage of 12V is presented."
+    },
+    {
         "title": "Research and Application of Solid State DC Circuit Breaker Based on SiC Series and Parallel",
         "conferenceTitle": "PCIM Asia 2020; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
         "data": "16-18 Nov. 2020",
@@ -1269,6 +1310,19 @@
         "abstract": "Thermal management is critical to increase the power density and the continuous operating limit of electric motors due to the drive for electrification of the automotive industry. A more advanced active cooling is required and direct oil spray cooling method is an attractive solution because it can give effective convective heat transfer. However, the technical literature providing practical guidelines of how oil spray cooling should be applied to stator with hairpin winding is limited. This paper presents the experimental characterisation of radial oil spray cooling by using different spray nozzles. The test data is analysed to investigate the impact of nozzle velocity on the temperature variation of the end windings."
     },
     {
+        "title": "Target recognition of radar HRRP based on AUMAP segmentation and improved convolutional neural network",
+        "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
+        "data": "4-6 Nov. 2020",
+        "authors": [
+            "M. Yin",
+            "J. Zhang",
+            "C. Zhang"
+        ],
+        "DOI": "10.1049/icp.2021.0731",
+        "citation": 2,
+        "abstract": "In the high-resolution range profile (HRRP) recognition, segmentation can obtain the target attitude angle of HRRP data, and the methods of segmenting the HRRP data have a significant impact on improving the performance of recognition. Besides, the way of the feature extraction can enhance the separability among the HRRP data and improve the generalization of the classifier. To manage these practical problems, this paper puts forward a new recognition framework containing three steps. Firstly, HRRP data is segmented by Adaptive Uniform Manifold Approximation and Projection (AUMAP). Secondly, Key regions of the bispectra are reshaped through bispectra analysis to obtain additional data as input to the convolutional neural network (CNN). Thirdly, the loss function of CNN is modified to solve the imbalance of HRRP samples and improve the stability of the algorithm. Experimental results verify the effectiveness of the framework under the support of HRRP measurement data."
+    },
+    {
         "title": "Model Predictive Control for A Dual Three-Phase Two-Sector Permanent Magnet Synchronous Machine",
         "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
         "data": "15-17 Dec. 2020",
@@ -1464,18 +1518,6 @@
         "DOI": "10.1049/icp.2021.0690",
         "citation": 1,
         "abstract": "Ground-based radar imaging is an important approach for lunar observation. However, due to the long round-trip time delay and long integration time, the invalidation of “stop-and-go” hypothesis presents challenge to the radar imaging algorithms. In this paper, firstly, the accurate ephemeris of large-scale lunar surface is created based on the coordinate transformations. Secondly, considering the error of “stop-and-go” hypothesis, the accurate slant range model between the ground-based radar and lunar surface is presented. Finally, the simulation results are presented to verify the correctness of the ephemeris calculation, and demonstrate the slant range difference caused by the “stop-and-go” hypothesis."
-    },
-    {
-        "title": "ANFIS based single line to ground fault location estimation for transmission lines",
-        "conferenceTitle": "Michael Faraday IET International Summit 2020 (MFIIS 2020)",
-        "data": "3-4 Oct. 2020",
-        "authors": [
-            "M. Paul",
-            "S. Debnath"
-        ],
-        "DOI": "10.1049/icp.2021.1077",
-        "citation": 1,
-        "abstract": "An impedance-based fault location algorithm for ac transmission lines has been presented in this study. The proposed algorithm uses discrete wavelet transform to extract the features from the voltage and current signals which are measured from one end of the transmission line after the inception of faults. The approximation coefficients of the voltage and current signals are utilized to compute the line impedance. The three-line impedances of three phases are fed to the Adaptive neuro-fuzzy inference system (ANFIS) based fault locator to estimate the location of the fault. This paper is only focused to estimate the location of the single line to ground (SLG) fault, as the most commonly occurring fault in the transmission line is SLG fault. The significant feature of this paper is that the performance of the proposed fault locator is immune to fault resistance (FR) and fault inception angle (FIA). Moreover, the proposed approach is free from time synchronization error as the one end data is sufficient to locate the fault."
     },
     {
         "title": "A HARDWARE IMPLEMENTATION OF 6DOF QUADCOPTER MATLAB/SIMULINK CONTROLLER ALGORITHM TO AN AUTOPILOT",
@@ -1851,19 +1893,6 @@
         "abstract": "This work introduces a new 650 V SiC Trench MOSFET technology tailored to address the needs of power supplies in the power range from several hundred watts to some tens of kilowatts including server and telecom switch-mode power supplies (SMPS), solar inverters, electric-vehicle chargers and UPS. The 650 V MOSFETs enable new, highly efficient topologies such as full-bridge Totem Pole in the power-factor correction (PFC) stage with a peak efficiency of 99 %. The technology fulfills industrial application reliability requirements covering cosmic-ray ruggedness and gate oxide reliability."
     },
     {
-        "title": "A PSCAD PROCESSOR-IN-THE-LOOP SYSTEM FOR HARDWARE EVALUATION OF POWER CONVERTER CONTROL ALGORITHMS",
-        "conferenceTitle": "The 10th International Conference on Power Electronics, Machines and Drives (PEMD 2020)",
-        "data": "15-17 Dec. 2020",
-        "authors": [
-            "J. Andrews",
-            "P. R. Green",
-            "M. Barnes"
-        ],
-        "DOI": "10.1049/icp.2021.1060",
-        "citation": 1,
-        "abstract": "Hardware implementation of controllers for modular multilevel converter voltage source converters is a non-trivial task, which requires a thorough evaluation of the real-world performance of control hardware. This paper presents a new processor-in-the-loop system developed at The University of Manchester which enables real-time evaluation of power converter control algorithms implemented on a target hardware platform from within a PSCAD/EMTDC simulation. The developed system has been used to measure the execution times of sorting algorithms implemented within the capacitor balancing control loop of an MMC. The system is a low-cost alternative to commercial real-time hardware-in-the-loop systems, and can be used to bridge the gap between offline simulation and final controller implementation in hardware. The developed system can be extended to support any control algorithm of interest, implemented on a wide range of target hardware platforms which may include: embedded microcontrollers, digital signal processors, and field-programmable gate arrays. Applications include control systems for power electronics connected to power systems including HVDC, renewable energy and smart grids."
-    },
-    {
         "title": "Differentiable neural architecture search for sar image ship object detection",
         "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
         "data": "4-6 Nov. 2020",
@@ -2045,6 +2074,19 @@
         "DOI": "10.1109/CLEI52000.2020.00006",
         "citation": 1,
         "abstract": "Death by suicide in Chile is not only a local problem, at a global level this phenomenon is suffered, where detecting it and treating it in time is fundamental. The present work was developed and implemented at the Center for Attention and Practical Activities of Psychology at the University of Tarapacá in Iquique, an Expert System based on rules, with the purpose of helping the decision making of psychology students who perform their professional practices at the center, in clinical cases of suicide risk. This allows the early detection of patients who present this behavior and evaluate the risk of suicide. The results of this work demonstrate the response capacity of the expert system developed, imitating the action of a specialist in this case detecting and assessing the risk of suicide in patients in consultations at the psychological center, achieving a good level of effectiveness."
+    },
+    {
+        "title": "Sensorless control for high-speed brushless DC motors driven by current source inverter",
+        "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2020)",
+        "data": "18-21 Sept. 2020",
+        "authors": [
+            "M. Sun",
+            "X. Zhou",
+            "H. Qian"
+        ],
+        "DOI": "10.1049/icp.2021.0398",
+        "citation": 1,
+        "abstract": "Generally, in the field of motor control, voltage source inverters (VSIs) are considered to be superior to current sources inverters (CSIs). However, as the appearance of wide-bandgap (WBG) power semiconductors with high switching frequencies, CSIs are receiving more and more attention for Brushless DC (BLDC) motors. In this paper, a mathematic model of a three-phase CSI-fed BLDC motor and an effective sensorless control approach for high-speed BLDC motor driven by CSI is presented. The algorithm of line back electromotive force (back EMF) is used to detect the zero crossing points (ZCPs). Compared with conventional method of VSI, CSI shows its characteristics of inherent short-circuit protection and no need for consideration of dead-time. In addition, CSI provides the possibility to reduce the value of capacitance in low-pass filters and partially correct the commutation error. A method of closed-loop compensation based on line voltage difference integral is proposed to compensate the remaining commutation errors. The comparative simulation between CSI and VSI fed high-speed BLDC motor control system is carried out on MATLAB/SIMULINK platform and its results effectively verify the advantage of CSI applied."
     },
     {
         "title": "Research on the control strategy of five-phase fault-tolerant servo system for aerospace",
@@ -2530,6 +2572,20 @@
         "abstract": "COVID-19 pandemic has impacted human lives from different aspects during the last months. The number of recorder cases is increasingly growing. The infection rate spikes due to unprotected contact with people with fever or respiratory symptoms. Fever is one of the common symptoms of corona virus infection. Thus, measuring the body temperature and tracing its change is an important indicator. It is a recommended practice to inspect suspected cases. For campuses with big number of residents and visitors, monitoring the temperature arises a new challenge as it requires huge number of trained medical staff and imposes the direct contact between the medical staff and the person under test. Also, this practice requires the direct contact between the medical staff and the person under test, which may cause the transmission of the virus. In this paper a non-contact autonomous smart thermometer system is proposed. The thermometer measures forehead temperature remotely, without the need for human operation. The system indicates the person identity and records the measured temperature enabling the tracing of temperature of engaged persons and further analysis of gathered data. In this paper, the system architecture and the implementation of the proposed system is described. Testing and verification processes demonstrate its effectiveness and feasibility."
     },
     {
+        "title": "Analysis of harmonic amplification and voltage SAG induced by inrush current and the suppression measures in the early stage of UHV network",
+        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
+        "data": "2-3 July 2020",
+        "authors": [
+            "H. Yanan",
+            "Z. Bin",
+            "J. Hongli",
+            "Z. Peipeng"
+        ],
+        "DOI": "10.1049/icp.2020.0156",
+        "citation": 1,
+        "abstract": "Taking the frame data in the early stage of UHV network of North China as the typical data, the harmonic amplification phenomenon caused by excitation surge when closing no-load transformer flowing through the long distance transmission was analysed, through frequency domain analysis and time domain analysis. The suppression measures of harmonic voltage were put forward, including circuit breaker mounting closing resistance, phase selection closing, demagnetization before closing, changing system operation mode, etc. For the phenomenon of voltage sag caused by inrush current, measures to reduce inrush current and then voltage sag were proposed. And measures of suppressing voltage sag by STATCOM, a large-capacity reactive power compensation device, was proposed for the first time. The measures will support the operation of the UHV network."
+    },
+    {
         "title": "TEXT CLASSIFICATION METHOD OF DONGBA CLASSICS BASED ON CATBOOST ALGORITHM",
         "conferenceTitle": "The 8th International Symposium on Test Automation & Instrumentation (ISTAI 2020)",
         "data": "28-29 Nov. 2020",
@@ -2694,66 +2750,5 @@
         "DOI": "10.1109/HCS49909.2020.9220443",
         "citation": 1,
         "abstract": "This article consists only of a collection of slides from the author's conference presentation."
-    },
-    {
-        "title": "A multi-objective joint planning of transmission channel and energy storage system considering economy and flexibility",
-        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "data": "2-3 July 2020",
-        "authors": [
-            "Z. Chen",
-            "N. Tai",
-            "Y. Hu",
-            "W. Huang",
-            "L. Li"
-        ],
-        "DOI": "10.1049/icp.2020.0146",
-        "citation": 1,
-        "abstract": "The uncertain output of renewable energy requires the power system to have flexible adjustment ability, which is called as flexibility. However, current research on power system flexibility planning mainly focuses on power supply configuration and rarely considers the flexibility of line planning. Because of it, this paper proposes a joint planning method of transmission channel and energy storage system considering the dual objectives of economy and flexibility. The model adopts a two-layer optimization model. The upper layer takes the optimal economy and flexibility as the goal, which decides the line planning scheme; while the lower layer is optimized for operational economy, determining the power system scheduling strategy, and returns the results to the upper layer. The model is solved by the NSGA2 optimization algorithm, so the multi-objective optimization is achieved. On this basis, a method of constructing renewable energy output scenes according to fluctuation randomness is proposed, which provides data basis for the planning optimization model. Finally, the method is simulated in the power grid with high proportion of renewable energy to verify the effectiveness."
-    },
-    {
-        "title": "LPI-based joint node selection and power allocation for target localization in non-coherent distributed MIMO radar with low complexity",
-        "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "data": "4-6 Nov. 2020",
-        "authors": [
-            "W. Zhang",
-            "C. Shi",
-            "J. Zhou"
-        ],
-        "DOI": "10.1049/icp.2021.0574",
-        "citation": 1,
-        "abstract": "In this article, a low probability of intercept (LPI)-based joint radar node selection and power allocation strategy is proposed for target localization in distributed MIMO radar system. The proposed strategy aims to minimize the total transmit power while guaranteeing a predetermined the mean-square error (MSE) threshold for target location position and velocity estimation, which is evaluated by the Cramer-Rao lower bound (CRLB). In order to solve the underlying optimization problem, a Two-Step technique, which exploits the heuristic algorithm and the semidefinite programming (SDP) method, is introduced. Finally, simulation results demonstrate that the developed Two-Step solution algorithm has much higher efficiency when compared with the exhaustive search approach, and the presented strategy can also provide superiority over other existing schemes in terms of the achievable LPI performance."
-    },
-    {
-        "title": "Overvoltage simulation and analysis of resonant switch in VSC-MTDC system",
-        "conferenceTitle": "The 16th IET International Conference on AC and DC Power Transmission (ACDC 2020)",
-        "data": "2-3 July 2020",
-        "authors": [
-            "Y. Zheng",
-            "L. Xu",
-            "S. Huang",
-            "C. Gong",
-            "C. Li",
-            "X. Shao",
-            "J. Lin"
-        ],
-        "DOI": "10.1049/icp.2020.0046",
-        "citation": 1,
-        "abstract": "The VSC-MTDC transmission technology is a new power system that realizes multiple power supply and multiple power receiving. In view of the fault isolation requirement, resonant switches are equipped in the Zhoushan VSC-MTDC system, however, the influence of overvoltage on the resonant switch when the DC system fault is not fully considered. In this paper, the problem of resonant switch overvoltage in Zhoushan VSC-MTDC system was analysed, and the dynamic process and the insulation effect on existing equipment of single-pole fault overvoltage after one transmission line exit operation was described. Finally, the corresponding modification measures was proposed. The work in this paper provided a reference for the safe and stable operation of the resonant switch in VSC-MTDC system."
-    },
-    {
-        "title": "Specific Emitter Identification based on empirical mode decomposition and convolutional neural network",
-        "conferenceTitle": "IET International Radar Conference (IET IRC 2020)",
-        "data": "4-6 Nov. 2020",
-        "authors": [
-            "Y. Zhong",
-            "D. Chen",
-            "T. Liu",
-            "L. Zhou",
-            "K. Liao",
-            "Z. Zhang"
-        ],
-        "DOI": "10.1049/icp.2021.0694",
-        "citation": 1,
-        "abstract": "Specific emitter identification (SEI) is an approach that discriminates different emitters by studying the association between the received signals and corresponding emitters, to help realizing advanced military and civil spectrum managing applications. The performance of traditional SEI technique based on expert knowledge and hand-crafted emitter features is limited in engineering, since the designing of features is essentially subject to a certain application scenario and radio environment. To provide a universal SEI method, this paper proposes a novel strategy using adaptive feature generation and deep learning architecture. In particular, the technique of empirical mode decomposition is performed on the non-stationary received signal, and further converted into a grey-scale image. Then a convolutional neural network is applied for feature extraction and emitter identification. In the experiment, we first build a dataset with same intermediate frequency tone signals from four identical Keysight E8267D signal sources with different output power. Then the performance of the proposed method is studied on this dataset, the results indicate that our method is effective for emitter identification."
     }
 ]

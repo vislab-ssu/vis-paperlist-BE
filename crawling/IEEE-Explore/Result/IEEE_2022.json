@@ -15,6 +15,15 @@
         "abstract": "Fully polarimetric 3D-ISAR helps to achieve better three-dimensional reconstruction with respect to the single polarization 3D-ISAR approach. This is useful to obtain more populated point clouds and to improve the estimation of the interferometric phases of the scattering centres that belong to the target. A more reliable reconstruction improves the performance of ATR (Automatic Target Recognition) algorithms. The whole process relies upon the scattering centres extraction procedure, through which the complex amplitudes of the scatterers are estimated. By using polarimetry within this iterative procedure, better results can be obtained. More than one approach is available in the literature: the Polarimetric CLEAN searches for the channel where the brightest scatterer has the highest power, while the Modified Polarimetric CLEAN arranges the data (iteration by iteration) in a subspace where either the SNR is maximum or the interference is minimum.We analyzed the performance of the two techniques in terms of accuracy of polarimetric features estimation by using a simulated target. The results suggest that the Polarimetric CLEAN already performs remarkably well, but there is still space for improvement, and the Modified Polarimetric CLEAN can actually achieve better results."
     },
     {
+        "title": "Video Action Detection: Analysing Limitations and Challenges",
+        "conferenceTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+        "data": "19-20 June 2022",
+        "authors": [],
+        "DOI": "10.1109/CVPRW56347.2022.00538",
+        "citation": 2,
+        "abstract": "Beyond possessing large enough size to feed data hungry machines (eg, transformers), what attributes measure the quality of a dataset? Assuming that the definitions of such attributes do exist, how do we quantify among their relative existences? Our work attempts to explore these questions for video action detection. The task aims to spatio-temporally localize an actor and assign a relevant action class. We first analyze the existing datasets on video action detection and discuss their limitations. Next, we propose a new dataset, Multi Actor Multi Action (MAMA) which overcomes these limitations and is more suitable for real world applications. In addition, we perform a biasness study which analyzes a key property differentiating videos from static images: the temporal aspect. This reveals if the actions in these datasets really need the motion information of an actor, or whether they predict the occurrence of an action even by looking at a single frame. Finally, we investigate the widely held assumptions on the importance of temporal ordering: is temporal ordering important for detecting these actions? Such extreme experiments show existence of biases which have managed to creep into existing methods inspite of careful modeling."
+    },
+    {
         "title": "The Supercomputer “Fugaku”",
         "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
         "data": "18-21 April 2022",
@@ -39,15 +48,6 @@
         "DOI": "10.23919/DATE54114.2022.9774671",
         "citation": 2,
         "abstract": "Legalization conducts refinements on post-globalplacement cell location to compromise design constraints and parameters. These include placement fence regions, power/ground rail alignments, timing, wire length and etc. In advanced technology nodes, designs can easily contain millions of mutiple-row standard cells, which challenges the scalability of modern legalization algorithms. In this paper, for the first time, we investigate dedicated legalization algorithms on heterogeneous platforms, which promises intelligent usage of CPU and GPU resources and hence provides new algorithm design methodologies for large scale physical design problems. Experimental results on IC/CAD 2017 and ISPD 2015 contest benchmarks demonstrate the effectiveness and the efficiency of the proposed algorithm, compared to the state-of-the-art legalization solution for mixedcell-height designs."
-    },
-    {
-        "title": "Video Action Detection: Analysing Limitations and Challenges",
-        "conferenceTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
-        "data": "19-20 June 2022",
-        "authors": [],
-        "DOI": "10.1109/CVPRW56347.2022.00538",
-        "citation": 1,
-        "abstract": "Beyond possessing large enough size to feed data hungry machines (eg, transformers), what attributes measure the quality of a dataset? Assuming that the definitions of such attributes do exist, how do we quantify among their relative existences? Our work attempts to explore these questions for video action detection. The task aims to spatio-temporally localize an actor and assign a relevant action class. We first analyze the existing datasets on video action detection and discuss their limitations. Next, we propose a new dataset, Multi Actor Multi Action (MAMA) which overcomes these limitations and is more suitable for real world applications. In addition, we perform a biasness study which analyzes a key property differentiating videos from static images: the temporal aspect. This reveals if the actions in these datasets really need the motion information of an actor, or whether they predict the occurrence of an action even by looking at a single frame. Finally, we investigate the widely held assumptions on the importance of temporal ordering: is temporal ordering important for detecting these actions? Such extreme experiments show existence of biases which have managed to creep into existing methods inspite of careful modeling."
     },
     {
         "title": "Semiconductor Evolution for Chip and System Design- From 2D Scaling to 3D Heterogeneous Integration",
