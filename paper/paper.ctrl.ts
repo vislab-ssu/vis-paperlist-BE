@@ -12,7 +12,7 @@ const { spawn } = require("child_process");
 
 async function getTfidfForAbstracts(abstracts: string[]) {
   return new Promise((resolve, reject) => {
-    const pythonProcess = spawn("python", ["./paper/TF_IDF.py"]);
+    const pythonProcess = spawn("python3", ["./paper/TF_IDF.py"]);
 
     // Python 스크립트에 데이터 전송
     pythonProcess.stdin.write(JSON.stringify(abstracts));
@@ -41,7 +41,7 @@ async function getTfidfForAbstracts(abstracts: string[]) {
 
 async function getWord2VecForAbstracts(papers: string[]) {
   return new Promise((resolve, reject) => {
-    const pythonProcess = spawn("python", ["./paper/Word2Vec.py"]);
+    const pythonProcess = spawn("python3", ["./paper/Word2Vec.py"]);
 
     // Python 스크립트에 데이터 전송
     pythonProcess.stdin.write(JSON.stringify(papers));
