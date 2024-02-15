@@ -21,10 +21,6 @@ import pacmap
 # DBSCAN
 from sklearn.cluster import DBSCAN
 
-# 처음 실행시 설치 필요
-# nltk.download('punkt')
-# nltk.download('stopwords')
-
 def preprocess_text(text):
     # 소문자 변환
     lower_text = text.lower()
@@ -48,7 +44,8 @@ def mergeDoc2VecAndMetadata_tSNE(model, papers_info, top_n=50):
     
     for i in doc_ids:
         visualize_Data.append({ 'title': papers_info[i]["title"], 
-                               'author': papers_info[i]["author"], 
+                               'author': papers_info[i]["author"],
+                               'abstract': papers_info[i]["abstract"], 
                                'citation': papers_info[i]["citation"], 
                                'doi': papers_info[i]["DOI"],
                               'vector_x': doc_vectors_2d[i][0], 
@@ -249,7 +246,7 @@ def calculate_Doc2Vec(input_data):
     tagged_data = [TaggedDocument(words=preprocess_text(doc['abstract']), tags=[i]) for i, doc in enumerate(input_data)]
 
     # Doc2Vec 모델 초기화 및 학습
-    model = Doc2Vec(vector_size=100, window=5, min_count=4, workers=4, epochs=40)
+    model = Doc2Vec(vector_size=100, window=5, min_count=1, workers=4, epochs=40)
     model.build_vocab(tagged_data)
     model.train(tagged_data, total_examples=model.corpus_count, epochs=model.epochs)
 
@@ -261,8 +258,8 @@ def main():
     input_data = json.loads(sys.stdin.read())
 
     # 메타데이터 준비
-    papers_info = [{"title": doc['title'], "author": doc['author'], "citation": doc['citation'], 
-                    "DOI": doc['DOI']} for doc in input_data]
+    papers_info = [{"title": doc['title'], "author": doc['author'], "abstract": doc['abstract'],
+                    "citation": doc['citation'], "DOI": doc['DOI']} for doc in input_data]
     
     # Word2Vec 모델 생성
     # model_Word2Vec = calculate_Word2Vec(input_data2)
