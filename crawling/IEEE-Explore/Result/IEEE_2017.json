@@ -24,21 +24,6 @@
         "abstract": "The Internet of Things (IoT) integrates a large number of heterogeneous and pervasive objects that continuously generate information about the physical world. These objects, through standard communication protocols and unique addressing schemes provide services to the final users or systems. IoT is envisioned to bring together billions of devices, also denoted as smart objects, by connecting them in an Internet-like structure, allowing them to communicate and exchange information and to enable new forms of interaction among things and people. Given the distributed nature of IoT applications, it is often the case that the application is modeled, developed and tested on each compute node, and connected to other nodes in the application network for achieving the end result. Therefore the deployment of application is also, more or less, done on each individual compute node. In this paper we propose an approach where the IoT application can be modeled in one place, where after modeling, the different pieces of application are annotated with location information, and based on this annotation, the application is decomposed into fragments that are deployed to corresponding individual compute nodes, automatically generating code to remotely connect the application fragments to other application fragments on other compute nodes in the edge or in the cloud."
     },
     {
-        "title": "Analysis of spectral notching in FM noise radar using measured interference",
-        "conferenceTitle": "International Conference on Radar Systems (Radar 2017)",
-        "data": "23-26 Oct. 2017",
-        "authors": [
-            "Brandon Ravenscroft",
-            "Shannon D. Blunt",
-            "Chris Allen",
-            "Anthony Martone",
-            "Kelly Sherbondy"
-        ],
-        "DOI": "10.1049/cp.2017.0388",
-        "citation": 18,
-        "abstract": "It was recently shown that spectral notches can be incorporated into a physically realizable form of FM noise radar. Here it is shown how these spectral notches can be used to permit radar operation in a band where narrowband interference sources are present. The impact of interference and associated notches in different regions of the waveform spectrum (i.e. passband versus roll-off regions) is examined through assessment of the matched filter response when considering different receive power levels for the radar relative to measured interference. This assessment is performed for both simulated and experimentally measured notched waveforms."
-    },
-    {
         "title": "Connected autonomous vehicle (CAV) simulation using PTV Vissim",
         "conferenceTitle": "2017 Winter Simulation Conference (WSC)",
         "data": "3-6 Dec. 2017",
@@ -77,18 +62,6 @@
         "abstract": "Removed."
     },
     {
-        "title": "Examination of the effect of common CATR quiet zone specifications on antenna pattern measurement uncertainties",
-        "conferenceTitle": "Loughborough Antennas & Propagation Conference (LAPC 2017)",
-        "data": "13-14 Nov. 2017",
-        "authors": [
-            "S.F. Gregson",
-            "C.G. Parini"
-        ],
-        "DOI": "10.1049/cp.2017.0276",
-        "citation": 13,
-        "abstract": "The use of uniformity of the quiet-zone (QZ) in determining the maximum size of test antenna that can be measured in a given point-source compact antenna test range (CATR) has been the accepted method since its inception [1]. Furthermore, the definition of a quiet zone (QZ) having amplitude taper of less than 1 dB, amplitude ripple of less than ±0.5 dB in amplitude and ±5° in phase has become a near universal standard both in academia and industry [1]. However, this almost omnipresent usage belies the fact that surprisingly few workers are familiar with what this implies for an actual antenna pattern measurement. The recent development of a novel computational electromagnetic (CEM) simulation tool that permits the simulation of \"measured\" far-field pattern data for a known CATR and test antenna combination [2] permits the careful examination of the behaviour of these three conventional CATR QZ specifications on \"measured\" far-field patterns for a given test antenna. Results are presented and discussed."
-    },
-    {
         "title": "The microsoft catapult project",
         "conferenceTitle": "2017 IEEE International Symposium on Workload Characterization (IISWC)",
         "data": "1-3 Oct. 2017",
@@ -98,23 +71,6 @@
         "DOI": "10.1109/IISWC.2017.8167769",
         "citation": 13,
         "abstract": "All new Microsoft Azure and Bing servers are being deployed with an FPGA that sits both between the server and the data center network and on the PCIe bus. The FPGA is currently being used to accelerate networking on Azure machines and search on Bing machines, but could very quickly and easily be retargeted to other uses as needed. In this talk, I will describe how we decided on this architecture, the new data center model it introduces, and the benefits it provides."
-    },
-    {
-        "title": "Interruption characteristics of vacuum circuit breaker and the application to DCCB",
-        "conferenceTitle": "13th IET International Conference on AC and DC Power Transmission (ACDC 2017)",
-        "data": "14-16 Feb. 2017",
-        "authors": [
-            "S. Tokoyoda",
-            "T. Inagaki",
-            "F. Page",
-            "M. Sato",
-            "K. Kamei",
-            "M. Miyashita",
-            "H. Ito"
-        ],
-        "DOI": "10.1049/cp.2017.0029",
-        "citation": 12,
-        "abstract": "Future, large, multi-terminal HVDC networks are likely to require fast operating circuit breakers to allow stable operation. Several circuit breaker topologies have been developed for fill this purpose [1][2][3]. In this paper, a mechanical active resonant current zero topology DC breaker, capable of interrupting fault current within several milliseconds after tripping, is analysed. In this topology, it is critical that the mechanical interrupter unit is capable of withstanding both high di/dt prior to current zero and high dv/dt post current zero. The high frequency interruption capabilities of gas circuit breaker (GCB) and vacuum circuit breaker (VCB) are examined to assess their use for mechanical DC breaker applications. Comparison of the maximum di/dt capabilities demonstrated that vacuum interrupters are more appropriate for the task. The concept of residual plasma density at current zero was evaluated to explain the relationship between breaking current and di/dt capability."
     },
     {
         "title": "Massive MIMO for 5G: Overview and the road ahead",
@@ -139,18 +95,6 @@
         "abstract": "In spite of the claimed benefits of mobile learning (M-learning), English teachers still have mixed feelings as to whether to use mobile devises in their classroom or not. The goal of the current study is to explore and identify the key factors which influence Chinese College English teachers' acceptance of mobile technologies in formal classroom instruction. We use an extended TAM consisting of 9 constructs. A questionnaire is distributed to a total of 107 college English teachers from seven institutions of higher learning in South China. The results confirm that the perceived ease of use and perceived usefulness are key variables that positively influence teachers' intension to use mobile technologies. Self-efficacy is also found to be significantly related to teachers' behavior intention in using mobile devices in their classroom followed by the factor of mobile anxiety. Some suggestions are given to accelerate the adoption of M-learning in college English classrooms."
     },
     {
-        "title": "Parametric analysis and bandwidth optimisation of hybrid linear-exponential tapered slot Vivaldi antennas",
-        "conferenceTitle": "Loughborough Antennas & Propagation Conference (LAPC 2017)",
-        "data": "13-14 Nov. 2017",
-        "authors": [
-            "Ikechukwu K. Ukaegbu",
-            "Kelum A. A. Gamage"
-        ],
-        "DOI": "10.1049/cp.2017.0279",
-        "citation": 8,
-        "abstract": "This work presents an analysis of the effects of a hybrid linear-exponential tapered slot on the key properties of both the antipodal and co-planar Vivaldi antennas at low frequencies using parametric analysis and Nonlinear Sequential Programming optimisation. It was observed that the hybrid tapered slot can extend the lower frequency limit of the antipodal Vivaldi antenna however with slight deterioration of the gain and E-plane radiation pattern. On the other hand, the optimisation of the hybrid and conventional tapered slot co-planar Vivaldi antennas converged to antennas with the same performance results."
-    },
-    {
         "title": "Classification Turkish SMS with deep learning tool Word2Vec",
         "conferenceTitle": "2017 International Conference on Computer Science and Engineering (UBMK)",
         "data": "5-8 Oct. 2017",
@@ -163,48 +107,6 @@
         "abstract": "In this study, it was aimed to develop SMS (Short Message) classification application based on deep learning. By examining messages collected from different age groups and regions, feature labels that could be effective in classification were included in the message data set. After that, the model to be used in the classification was created through Word2Vec library. With this model, new features were extracted, test messages were classified and analyzed, and the results were discussed."
     },
     {
-        "title": "Aircrafts recognition using convolutional neurons network",
-        "conferenceTitle": "International Conference on Radar Systems (Radar 2017)",
-        "data": "23-26 Oct. 2017",
-        "authors": [
-            "A. Toumi",
-            "A. El Housseini",
-            "A. Khenchaf"
-        ],
-        "DOI": "10.1049/cp.2017.0519",
-        "citation": 7,
-        "abstract": "We will present in this paper, a novel approach to achieve the aircraft target recognition task using deep learning (DL) approach based on Inverse Synthetic Aperture Radar (ISAR) images reconstructed using IFFT Inverse Fast Furrier Transform). We will propose mainly in this work the deep learning algorithms based on convolutional neural network (CNN) architecture. In the second step and in order to optimize the convolution of DL steps, we propose to use a convolutional auto-encoder which may be better suited to image processing. To validate our approach, some experimentation results are given and compared. The obtained results show that the proposed approach of DL improves the high accuracy recognition and is efficient to well-known classifiers."
-    },
-    {
-        "title": "A comparison of coherent and non-coherent radar detection performance in radar sea clutter",
-        "conferenceTitle": "International Conference on Radar Systems (Radar 2017)",
-        "data": "23-26 Oct. 2017",
-        "authors": [
-            "S. Watts",
-            "L. Rosenberg"
-        ],
-        "DOI": "10.1049/cp.2017.0497",
-        "citation": 7,
-        "abstract": "Target detection by airborne radars of small slow-moving targets on the sea surface is typically performed using noncoherent techniques. However, when operated at higher altitudes, the radar sea clutter will be significantly stronger and alternative techniques such as coherent processing will be required to recover some of the lost detection performance. This paper shows how recently developed models of the Doppler spectra of clutter can be combined with standard analytic modelling methods to compare the detection performance of airborne maritime surveillance radars using either coherent or non-coherent detection processing."
-    },
-    {
-        "title": "Notice of Removal: Electrical machine analysis using free software",
-        "conferenceTitle": "2017 IEEE Energy Conversion Congress and Exposition (ECCE)",
-        "data": "1-5 Oct. 2017",
-        "authors": [
-            "David Meeker",
-            "Nicola Bianchi",
-            "Johan Gyselinck",
-            "Ruth V. Sabariego",
-            "Luigi Alberti",
-            "Gianmario Pellegrino",
-            "Francesco Cupertino"
-        ],
-        "DOI": "10.1109/ECCE.2017.8096985",
-        "citation": 6,
-        "abstract": "Removed."
-    },
-    {
         "title": "Electricity demand forecasting by multi-task learning",
         "conferenceTitle": "2017 IEEE Manchester PowerTech",
         "data": "18-22 June 2017",
@@ -215,19 +117,6 @@
         "DOI": "10.1109/PTC.2017.7980955",
         "citation": 6,
         "abstract": "We explore the application of kernel-based multi-task learning techniques to forecast the demand of electricity measured on multiple lines of a distribution network. We show that recently developed output kernel learning techniques are particularly well suited to solve this problem, as they allow to flexibly model the complex seasonal effects that characterize electricity demand data, while learning and exploiting correlations between multiple demand profiles. We also demonstrate that kernels with a multiplicative structure yield superior predictive performance with respect to the widely adopted (generalized) additive models. Our study is based on residential and industrial smart meter data provided by the Irish Commission for Energy Regulation (CER)."
-    },
-    {
-        "title": "Design and fabrication of 1 GHz lateral TPoS MEMS resonator for RF front end applications",
-        "conferenceTitle": "2017 IEEE MTT-S International Microwave and RF Conference (IMaRC)",
-        "data": "11-13 Dec. 2017",
-        "authors": [
-            "K.N. Bhadri Narayanan",
-            "Deleep R. Nair",
-            "Amitava Dasgupta"
-        ],
-        "DOI": "10.1109/IMaRC.2017.8611011",
-        "citation": 5,
-        "abstract": "This paper reports on design, fabrication and characterization of laterally excited thin film piezoelectric on Silicon (TPoS) MEMS resonators of resonance frequency around 1 GHz. Devices were fabricated on 5 μm SOI and 0.5 μm Aluminium Nitride piezoelectric film. We studied the effect of the number of anchors attached to the resonator and the width of the resonator on Q-factor and motional resistance. Measured characteristics of the device with Phononic crystal (PnC) tether showed a resonance peak at 969.22 MHz with motional resistance 2.9 kΩ and Q-factor of 1998. The motional resistance could be reduced to 770 Ω for wider devices."
     },
     {
         "title": "Lightweight zero knowledge authentication for Internet of things",
@@ -323,34 +212,7 @@
         ],
         "DOI": "10.1109/ICSCN.2017.8085410",
         "citation": 3,
-        "abstract": "Summary form only given. Satellite image processing plays a vital role for research and developments in Astronomy, Remote Sensing, GIS, Agriculture Monitoring, Disaster Management and many other fields of study. Satellite images are recorded in digital forms and then processed by the computers to extract information. Variations in the scene characteristics are represented as variations in brightness on images. A particular part of scene reflecting more energy will appear bright while a different part of the same scene that reflecting less energy will appear black. Digital image consists of discrete picture elements called pixels. Each pixel is a number represented as DN (Digital Number), that depicts the average radiance of relatively small area within a scene."
-    },
-    {
-        "title": "Single probe-fed dual-band dual-circularly polarized antenna for satellite applications",
-        "conferenceTitle": "2017 Sixth Asia-Pacific Conference on Antennas and Propagation (APCAP)",
-        "data": "16-19 Oct. 2017",
-        "authors": [
-            "Jun Wang",
-            "Ruofan Li",
-            "Kang An",
-            "Xianghui Wang",
-            "Jun Zheng",
-            "Shaojun Wang"
-        ],
-        "DOI": "10.1109/APCAP.2017.8420336",
-        "citation": 3,
-        "abstract": "A novel single probe-fed dual-band dual-circularly polarized antenna is proposed in this paper based on stacked three-layer configuration. By introducing the presented coupling feed mechanism, the center frequency and polarization for the dual bands can be easily adjusted, making the design process efficient. To demonstrate the working principle, a dual-band dual-circularly polarized antenna operated for China's Compass Navigation Satellite System (CNSS) is designed and simulated. The simulation result shows that the designed antenna features improved low elevation angle gain, good axial ratio and low cross polarization level for both the lower and upper band, which makes it preferable for satellite applications."
-    },
-    {
-        "title": "Notice of Removal: High efficiency wireless power transfer for EV charging and other applications",
-        "conferenceTitle": "2017 IEEE Energy Conversion Congress and Exposition (ECCE)",
-        "data": "1-5 Oct. 2017",
-        "authors": [
-            "Chris Mi"
-        ],
-        "DOI": "10.1109/ECCE.2017.8096987",
-        "citation": 3,
-        "abstract": "Removed."
+        "abstract": "Satellite image processing plays a vital role for research and developments in Astronomy, Remote Sensing, GIS, Agriculture Monitoring, Disaster Management and many other fields of study. Satellite images are recorded in digital forms and then processed by the computers to extract information. Variations in the scene characteristics are represented as variations in brightness on images. A particular part of scene reflecting more energy will appear bright while a different part of the same scene that reflecting less energy will appear black. Digital image consists of discrete picture elements called pixels. Each pixel is a number represented as DN (Digital Number), that depicts the average radiance of relatively small area within a scene."
     },
     {
         "title": "Notice of Retraction: High-bandwidth IC interconnects with silicon interposers and bridges for 3D multi-chip integration and packaging",
@@ -362,32 +224,6 @@
         "DOI": "10.1109/CSTIC.2017.7919874",
         "citation": 3,
         "abstract": "Retracted."
-    },
-    {
-        "title": "Evaluation of gain enhancement in large microstrip antenna arrays for mm-wave applications",
-        "conferenceTitle": "IET Colloquium on Millimetre-Wave and Terahertz Engineering &amp; Technology 2017",
-        "data": "30-30 March 2017",
-        "authors": [
-            "M. S. Rabbani",
-            "H. Ghafouri-Shiraz"
-        ],
-        "DOI": "10.1049/ic.2017.0001",
-        "citation": 3,
-        "abstract": "Microstrip patch antenna arrays (MPAAs) have been designed with different numbers of patch elements and substrate heights to evaluate the antenna gain enhancement for millimetre-wave (mm-wave) (30-300GHz) applications. The patch antenna size extension method is employed to improve the tolerance in fabrication with low cost printed circuit board (PCB) etching process. Initially, the designing concept is analysed at 10GHz frequency and then the optimized high gain (~21dBi) array is fabricated and tested at 60GHz-band (57.24-65.88GHz). It has been found that the loss contribution due to the long feeding transmission line (TL) network in large MPAAs severely degrades the antenna gain when thick substrate is deployed. However, by employing relatively thinner substrate gain can be significantly enhanced in large arrays but cost has to be paid in terms of narrower return loss (S11) bandwidth (BW) and higher side lobe level (SLL). Finally, the optimized MPAA has been redesigned at 100GHz frequency on a thin PCB substrate and a good relation has been achieved between the antenna results obtained at 100GHz and 60GHz frequencies."
-    },
-    {
-        "title": "Tangential AC breakdown strength of solid-solid interfaces considering surface roughness",
-        "conferenceTitle": "2017 IEEE Conference on Electrical Insulation and Dielectric Phenomenon (CEIDP)",
-        "data": "22-25 Oct. 2017",
-        "authors": [
-            "Emre Kantar",
-            "Frank Mauseth",
-            "Erling Ildstad",
-            "Sverre Hvidsten"
-        ],
-        "DOI": "10.1109/CEIDP.2017.8257615",
-        "citation": 3,
-        "abstract": "The following topics are dealt with: filled polymers; permittivity; electric breakdown; space charge; resins; power cable insulation; ageing; nanocomposites; partial discharges; XLPE insulation."
     },
     {
         "title": "Plenty of room at the bottom? Micropower deep learning for cognitive cyber physical systems",
@@ -451,19 +287,6 @@
         "abstract": "In this talk, I would like to illustrate how human minds and brains may be approached scientifically, with a particular focus on human visual system and its cognitive characteristics. Understanding human cognition and behavior is essential for any information system, in particular in emerging fields such as Artificial Intelligence, Virtual Reality, and Robotics, etc. Cognitive sciences involve studies on information systems, which obviously include humans, by examining what we can do (i.e., performances), what we cannot do (i.e., limits), what we are good or bad at (i.e., species-specific characteristics), and the extent to which we can change (plasticity). As cognitive science is interdisciplinary by its nature and the ranges of interests and issues vary, setting several must-follow principles would be vital; here I would list just several ones for handling human cognition and action: experimental attitude, complexity appreciation, appropriate reductionism, evolutional perspective, and understanding dynamically changing systems. Then, I shall discuss some important aspects of human cognition and action by showing visual demonstrations and discuss four issues in cognitive sciences. Bottom-up process versus Top-down process: Human cognition and actions are based on various automatic, stimulus-driven processes as well as deliberative, internally-driven processes. Although it is often difficult to disentangle these two processes, it is a good strategy to examine to what extent a phenomenon at hand is based on bottom-up processes and top-down processes. Interaction between Perception & Action: What we perceive is not necessarily identical to what we act on. Sometimes, perception and action are dissociable and sometimes they interact. Due to these dissociable and interacting bottom-up and top-down processes and the relationship between perceptual and action, we experience the complex mixture of conscious and unconscious effects."
     },
     {
-        "title": "Monitoring of in-vitro plant cultures using digital image processing and random forests",
-        "conferenceTitle": "8th ​​International Conference of Pattern Recognition Systems (ICPRS 2017)",
-        "data": "11-13 July 2017",
-        "authors": [
-            "David Mestre",
-            "José M. Fonseca",
-            "André Mora"
-        ],
-        "DOI": "10.1049/cp.2017.0137",
-        "citation": 3,
-        "abstract": "Digital image techniques can play an important role in the study of plant phenotyping and monitoring, allowing the measurement of plant features without recurring to destructive or exhaustive methods. In in-vitro plant cultures, the nutritive and environmental culture conditions are determinant to the evolution of in-vitro plants. Therefore, to evaluate the performance of each essay, it i s essential to monitor these cultures. In this paper, we present a computer vision and machine learning system for in-vitro plant monitoring. For our study, we tracked the evolution of Nandina Domestica Sunset Boulevard in-vitro containers by weekly acquiring visible and near-infrared images. Our approach pre-processes, registers, and normalize s the acquired images from one container, classifies plant and non-plant pixels using a trained Random Forest classifier and exports plants total area and average NDVI (Normalized Difference Vegetation Index) for each monitoring session. Our plant segmentation achieved 96.9% accuracy, 96,8% sensitivity and 96.9% specificity using our ground truth data."
-    },
-    {
         "title": "Bad data detection in the context of leverage point attacks in modern power networks",
         "conferenceTitle": "2017 IEEE Power & Energy Society General Meeting",
         "data": "16-20 July 2017",
@@ -473,19 +296,6 @@
         "DOI": "10.1109/PESGM.2017.8274244",
         "citation": 3,
         "abstract": "This paper demonstrates a concept to detect bad data in state estimation when the leverage measurements are tampered with gross error. The concept is based on separating leverage measurements from non-leverage measurements by a technique called diagnostic robust generalized potential (DRGP), which also takes care of the masking or swamping effect, if any. The methodology then detects the erroneous measurements from the generalized studentized residuals (GSR). The effectiveness of the method is validated with a small illustrative example, standard IEEE 14-bus and 123-bus unbalanced network models and compared with the existing methods. The method is demonstrated to be potentially very useful to detect attacks in smart power grid targeting leverage points in the system."
-    },
-    {
-        "title": "Protection coordination index enhancement considering multiple DG locations using FCL",
-        "conferenceTitle": "2017 IEEE Power & Energy Society General Meeting",
-        "data": "16-20 July 2017",
-        "authors": [
-            "Hatem Zeineldin",
-            "Ehab El-Saadany",
-            "Lukasz Huchel"
-        ],
-        "DOI": "10.1109/PESGM.2017.8274183",
-        "citation": 3,
-        "abstract": "Increasing the penetration level of distributed generation (DG) may lead to improper protection coordination. Previous work introduced a Protection Coordination Index (PCI) that can quantify the impact of installing a DG at individual locations. This paper extends on previous work and proposes a generalized approach for calculating PCI considering multiple DG locations simultaneously. Furthermore, the paper proposes a solution for enhancing the PCI using fault current limiters (FCL). The problem is formulated as a mixed integer non-linear programming (MINLP) problem to determine the optimal FCL size and location as well as enhanced PCI."
     },
     {
         "title": "An order based hybrid metaheuristic algorithm for solving optimization problems",
@@ -498,18 +308,6 @@
         "DOI": "10.1109/UBMK.2017.8093477",
         "citation": 3,
         "abstract": "In this work, a hybrid method that includes metaheuristic algorithms has been proposed for solving optimization problems. The proposed method was implemented as employing three metaheuristic algorithms which are Artificial Bee Colony, Differential Evolution and Particle Swarm Optimization in an order. The success of the developed method is presented by testing on 12 continuous optimization test functions which are widely used in the literature. The experimental results show that the proposed hybrid method gives better results than the individual algorithms that make up it."
-    },
-    {
-        "title": "Analysis of bird-related outage risk for hunan power grid",
-        "conferenceTitle": "2017 EPTC Power Transmission and Transformation Technology Conference",
-        "data": "15-16 March 2017",
-        "authors": [
-            "Zhang Liu",
-            "Chao Yafeng"
-        ],
-        "DOI": "10.1049/cp.2017.0563",
-        "citation": 2,
-        "abstract": "Based on the observed bird behavior in Hunan and the fault characteristics of bird-related outage in Hunan Power Grid from 2006 to 2016, the bird-related outage risk for overhead transmission lines in Hunan Power Grid is analyzed. The results showed that the high level of risk regain for guano-caused damage is mainly concentrated in northern Hunan, east central Hunan and west Hunan. The area of III level of guano-caused risk regain accounts for about 5.03% of the total area of Hunan power grid, while the II level risk area of 15.24%, and the I level risk area of 79.73%. The high level of risk regain for bird nest-caused damage is mainly concentrated in northern Hunan and eastern Hunan. The area of III level of bird nest-caused risk regain accounts for about 5.23% of the total area of Hunan power grid, while the II level risk area of 16.12%, and the I level risk area of 78.65%. The bird-related outage risk distribution map of overhead transmission lines in Hunan Power Grid is drawn, and the application suggestions of the risk distribution map are also proposed in the paper."
     },
     {
         "title": "Design and implementation of a new wireless sensor network node",
@@ -562,22 +360,6 @@
         "abstract": "Removed."
     },
     {
-        "title": "Reliability of quantum well and quantum dot lasers for silicon photonics (invited)",
-        "conferenceTitle": "2017 IEEE Photonics Conference (IPC)",
-        "data": "1-5 Oct. 2017",
-        "authors": [
-            "Robert W. Herrick",
-            "Daehwan Jung",
-            "Alan Liu",
-            "Justin Norman",
-            "Catherine Jan",
-            "John Bowers"
-        ],
-        "DOI": "10.1109/IPCon.2017.8115982",
-        "citation": 2,
-        "abstract": "After discussing the reliability issues limiting existing quantum well InP-based lasers, and the past reliability challenges of lasers grown on silicon substrates, we will show the recent reliability test results of a number of different types of quantum dot lasers grown on different silicon-substrate templates."
-    },
-    {
         "title": "Performance analysis of radar high-resolution range profiling for stationary targets",
         "conferenceTitle": "2017 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)",
         "data": "22-25 Oct. 2017",
@@ -602,18 +384,6 @@
         "abstract": "The peer-to-peer transmission is a mainstream in challenged network environments. Yet, the free rider phenomenon in peer-to peer transmissions presses a need for incentive mechanisms to stimulate contributions of data transmission. As a result, it is imperative to answer the questions: whether and to what extent an incentive mechanism can invoke such contributions? To answer these questions, we employ an n-player continuous quantum game model to analyze extrinsic incentive mechanisms (promoting cooperative behaviors by offering rewards), and use the quantum prisoner's dilemma model to analyze intrinsic incentive mechanisms (encouraging reciprocal cooperation by exploiting internal bounds). To the best of our knowledge, we are the first to analyze incentive mechanisms for peer-to-peer transmissions from a quantum game perspective. Such a perspective is adopted because the extended strategy space in the quantum game broadens the range for searching optimal strategies and the introduction of entanglement makes the proposed analytical frameworks more practical due to the consideration of the peers' relationships in decision-making. Our proposed quantum game-based analytical frameworks are generic because they are compatible with classic game-based schemes. Our analytical results can provide straightforward insights on evaluating the potential of incentive mechanisms and can serve as important references for designing new incentive mechanisms."
     },
     {
-        "title": "Prediction of photovoltaic panel power output using artificial neural networks learned by heuristic algorithms: A comparative study",
-        "conferenceTitle": "2017 International Conference on Computer Science and Engineering (UBMK)",
-        "data": "5-8 Oct. 2017",
-        "authors": [
-            "Emre Dandıl",
-            "Erol Gürgen"
-        ],
-        "DOI": "10.1109/UBMK.2017.8093423",
-        "citation": 2,
-        "abstract": "The prediction of power outputs generated from photovoltaic (PV) systems at different times is necessary for reliable and economical use of solar panels. The prediction of the power output is also very important in terms of factors such as installation of solar panels, guidance of electricity companies, energy management and distribution. In this study, we propose an Artificial Neural Network (ANN) model learned by heuristic algorithms to predict the power outputs obtained from PV panels monthly. It has been seen that ANN trained by Particle Swarm Optimization (PSO) are more successful than methods trained by the Back-Propagation(BP) and Clonal Selection Algorithm (CSA) for prediction of the power outputs obtained from PV panels placed at six different tilt angles."
-    },
-    {
         "title": "An Improved GRASP for the Bike-Sharing Rebalancing Problem",
         "conferenceTitle": "2017 International Conference on Smart Grid and Electrical Automation (ICSGEA)",
         "data": "27-28 May 2017",
@@ -626,21 +396,6 @@
         "abstract": "A bike-sharing system is a service in which bicycles are made available for shared use to individuals on a very short term basis. Due to varying user demands in bike-sharing systems, employees need to actively shift bicycles between stations by a fleet of vehicles. In this paper, an improved greedy randomized adaptive search procedure(GRASP) algorithm is utilized to find efficient vehicle tours. Firstly, a greedy construction heuristic is used to construct an initial solution, and then a local search algorithm is used to improve the solution. In addition, some improvements are made in some phases of the algorithm according to the feature of rebalancing problem. Practice examples and comparison with the typical algorithm in the fields are made. The results show that the proposed algorithm is efficient and it can produce good results. The research result has been implemented in Hangzhou."
     },
     {
-        "title": "A New Configuration for a Grid Forming Converter in AC Islanded Microgrid",
-        "conferenceTitle": "PCIM Europe 2017; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "data": "16-18 May 2017",
-        "authors": [
-            "Helio Antunes",
-            "Sidelmo Silva",
-            "Braz Filho",
-            "Reginaldo Ferreira",
-            "Danilo Iglesias Brandao"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "Currently the microgrids (MGs) have been achieving a notable importance. A MG is defined by a set of microsources of electric power, loads and storage elements, which can operate connected or disconnected from the main grid. One important converter in a MG with master-slave configuration is the grid-forming converter (GFC) that generates a reference in voltage and frequency for islanded operation. A failure of GFC can jeopardize the MG operation. This paper presents one analysis of an AC MG in islanded mode composed by a new configuration of GFC formed by three single-phase full-bridge inverters connected in delta with a zigzag transformer to form a fourwire system. The main results show that even under a failure of one inverter, the GFC can operate in open-delta and the MG continues operating without any power quality (PQ) problems."
-    },
-    {
         "title": "Practical dynamic element matching techniques for 3-level unit elements",
         "conferenceTitle": "2017 IEEE Custom Integrated Circuits Conference (CICC)",
         "data": "30 April-3 May 2017",
@@ -649,7 +404,7 @@
         ],
         "DOI": "10.1109/CICC.2017.7993717",
         "citation": 2,
-        "abstract": "Present a collection of slides covering the following topics: dynamic element matching techniques; 3-level unit elements; 2-level unit element; converter; and current steering DAC cell."
+        "abstract": "• Optimized power consumption for DAC at low input level • Very effective first order DEM for the sub segment(s) • Very effective for DEM idle tone remedy • Trade off the gain accuracy across signal amplitude range (there is NO distortion because there is no switching back and forth between smaller DACs and the large DAC, on the fly). • Suitable for applications that require high AC linearity and not DC accuracy"
     },
     {
         "title": "Implementation and comparison of image segmentation methods for detection of brain tumors on MR images",
@@ -660,7 +415,7 @@
         ],
         "DOI": "10.1109/UBMK.2017.8093425",
         "citation": 2,
-        "abstract": "Brain tumors grow in the skull and they can be life threatening in later stages because of the pressure exerted on the brain. Malignant brain tumors have become one of the major causes of human death in recent years. If the tumor can be classified correctly at an early stage, the chances of survival of patients can be improved. The most appropriate treatment to be selected for brain cancer depends on precisely identifying of tumor type, location, size and boundaries by the physicians. Thus, it is important using a computer-aid ed diagnosis / detection system to detect brain tumors successfully for radiologists and physicians. In this study, Fuzzy C-Means (FCM), Otsu's method, Region Growing and Self-Organizing Maps methods is used for the automatic segmentation of brain tumors on the MR images and results are compared with each other. Application software is designed with a user interface for this purpose. Thus, the ease of decision-making by physicians will be provided. Consequently, the application software will prevent errors and may be used as a secondary means for brain tumor segmentation. It has been shown in detailed test experiments on image dataset that designed application can detect brain tumors successfully."
+        "abstract": "Brain tumors grow in the skull and they can be life threatening in later stages because of the pressure exerted on the brain. Malignant brain tumors have become one of the major causes of human death in recent years. If the tumor can be classified correctly at an early stage, the chances of survival of patients can be improved. The most appropriate treatment to be selected for brain cancer depends on precisely identifying of tumor type, location, size and boundaries by the physicians. Thus, it is important using a computer-aided diagnosis / detection system to detect brain tumors successfully for radiologists and physicians. In this study, Fuzzy C-Means (FCM), Otsu's method, Region Growing and Self-Organizing Maps methods is used for the automatic segmentation of brain tumors on the MR images and results are compared with each other. Application software is designed with a user interface for this purpose. Thus, the ease of decision-making by physicians will be provided. Consequently, the application software will prevent errors and may be used as a secondary means for brain tumor segmentation. It has been shown in detailed test experiments on image dataset that designed application can detect brain tumors successfully."
     },
     {
         "title": "The road to a trillion: Making the IoT work",
@@ -698,46 +453,6 @@
         "abstract": "This paper investigates the design of broadband perforated transmitarray for satellite applications in X- and Ku-bands. The unit-cell element consists of a dielectric block with four identical holes in the center of each quadrant and is used to control the transmission phase distribution. Another circular hole placed in the center of each unit-cell element and is used to control the operating frequency of the transmitarray. Two transmitarrays each of 17×17 unit-cell elements are designed to operate at 12 GHz and 17.5 GHz. The peak gains of transmitarrays are 25.31 dBi and 27.1 dBi, respectively. An alternating replacement of the unit-cell elements from the transmitarrays designed at 12 GHz and 17.5 GHz are employed. The hybrid arrangement is used to enhance the gain bandwidth of the transmitarray. A broadband gain response is achieved with 2.4 GHz over the band extended from 12 GHz to 19 GHz."
     },
     {
-        "title": "Is There Difference between In and Out of Classroom? Harnessing the Group Interaction of Blended Learning",
-        "conferenceTitle": "2017 IEEE 17th International Conference on Advanced Learning Technologies (ICALT)",
-        "data": "3-7 July 2017",
-        "authors": [
-            "Hang Shu",
-            "Yi Wei",
-            "Xiao-Qing Gu"
-        ],
-        "DOI": "10.1109/ICALT.2017.159",
-        "citation": 2,
-        "abstract": "Blended learning (B-Learning) is a common practice in higher education. The principles, characteristics, models, and strategies of B-learning have been widely investigated. B-Learning has also been used as a method for improving learning performance, achievement, motivation, interest, and problem-solving skills. However, the crucial differences between online learning and face-to-face sessions in terms of students' group interaction have not been fully explored. This study applied social network analysis and thematic analysis to investigate the nature and differences of the two environments. Group characteristic and interaction differences were analyzed using the 5090 posts and 604 dialogues of 53 participants engaged in a B-Learning course based on \"Baidu Post Bar.\" Results show several differences in controlling pattern, depth, and content of interaction."
-    },
-    {
-        "title": "EMC analysis of power grid intelligent inspection equipment based on finite element method",
-        "conferenceTitle": "2017 EPTC Power Transmission and Transformation Technology Conference",
-        "data": "15-16 March 2017",
-        "authors": [
-            "Liao Ruchao",
-            "Peng Chigang",
-            "Zhang Feng",
-            "Wang Yong",
-            "Liu Pingyuan"
-        ],
-        "DOI": "10.1049/cp.2017.0558",
-        "citation": 2,
-        "abstract": "This paper simulated the typical 110kV overhead transmission line's single-phase and three-phase conductors by the electromagnetic finite element method, and used the calculation method to check the simulation result, then obtained the magnetic field distribution around the operating power line. Combined with the features of power grid intelligent inspection equipment, the electromagnetic compatibility analysis was made to provide a reference for the power grid intelligent inspection equipment's personal and assets safety, operation standard, anti-electromagnetic interference design etc.."
-    },
-    {
-        "title": "Modeling of Power Consumption by Wireless Transceivers for System Level Simulations",
-        "conferenceTitle": "European Wireless 2017; 23th European Wireless Conference",
-        "data": "17-19 May 2017",
-        "authors": [
-            "Pawel Kryszkiewicz",
-            "Adrian Kliks"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "The green communications concept becomes a leading paradigm in the design of modern communications systems. It requires accurate modeling of energy consumption in the wireless communications nodes to be used, e.g., for system level optimization, and this practical problem is addressed in the paper. The mean consumed power of a number of commercially available wireless transceivers has been measured and characterized as a function of throughput. This allows for realistic and simple energy consumption modeling by means of first-order polynomials."
-    },
-    {
         "title": "Notice of Removal: Random incident sound waves for fast compressed pulse-echo ultrasound imaging",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
         "data": "6-9 Sept. 2017",
@@ -748,20 +463,6 @@
         "DOI": "10.1109/ULTSYM.2017.8091509",
         "citation": 2,
         "abstract": "Removed."
-    },
-    {
-        "title": "Design and development of mode launcher for TM01 mode in circular waveguide in S-band",
-        "conferenceTitle": "2017 IEEE MTT-S International Microwave and RF Conference (IMaRC)",
-        "data": "11-13 Dec. 2017",
-        "authors": [
-            "Shreekant Patel",
-            "Rahul Jaiswal",
-            "Raj Singh",
-            "Anitha V.P."
-        ],
-        "DOI": "10.1109/IMaRC.2017.8636665",
-        "citation": 2,
-        "abstract": "This paper presents coaxial TEM-to-TM01 mode converter in circular waveguide in S-Band. Many of the High power microwave sources generate power in the form of TM01 mode at 3GHz. The proposed mode launcher is used for calibration purpose at low power. Coaxial line is attached to the axis of circular waveguide to excite TM01 mode and to increase the conversion efficiency stair type of monopole antenna is connected to the inner conductor of coaxial line. Furthermore the dielectric of coaxial line is extended in to the waveguide over inner conductor to achieve maximum possible return loss i.e. 72dB simulated and 50dB measured; since there is a requirement of minimum reflection. Proposed design offered 40% of bandwidth. Radiation pattern of TM01 mode is then investigated to verify propagated mode. The test results are in good agreement with the simulation."
     },
     {
         "title": "Notice of Removal: Full 4D functional ultrasound imaging in rodents using a matrix array",
@@ -790,20 +491,6 @@
         "DOI": "10.1109/PTC.2017.7980858",
         "citation": 2,
         "abstract": "The paper proposes an approximated yet reliable formula to estimate the frequency at the buses of a transmission system. Such a formula is based on the solution of a steady-state boundary value problem where boundary conditions are given by synchronous machine rotor speeds and is intended for applications in transient stability analysis. The hypotheses and assumptions to define bus frequencies are duly discussed. The rationale behind the proposed frequency divider is first illustrated through a simple 3-bus system. Then the general formulation is duly presented and tested on two real-world networks, namely a 1,479-bus model of the all-island Irish system and a 21,177-bus model of the European transmission system."
-    },
-    {
-        "title": "Power System Restoration and Operation of Island Grids with Frequency Dependent Active Power Control of Distributed Generation",
-        "conferenceTitle": "NEIS 2017; Conference on Sustainable Energy Supply and Energy Storage Systems",
-        "data": "21-22 Sept. 2017",
-        "authors": [
-            "Christian Hachmann",
-            "Gustav Lammert",
-            "Dario Lafferte",
-            "Martin Braun"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "Distributed Generators (DGs), e.g. PV systems, connected to low voltage networks in Germany have to reduce their active power feed-in at over frequency with a gradient of 40% per Hz starting at 50.2 Hz. In consequence, at 51.5 Hz there is still a feed-in of 48% of their available power. Since all power plants (including conventional ones) are required to disconnect at 51.5 Hz, small island grids may collapse due to over frequency without the full potential of power reduction from DGs being realised. This is particularly relevant for power system restoration from small islands within the distribution system. This paper presents a simple island test system, consisting of a 50MW gas turbine, some load and distributed generation. The new contribution of this work is an active power control scheme that provides an improved frequency behaviour in small island grids without any impact on the overall system behaviour in normal operation."
     },
     {
         "title": "Industrial applications for cyber-physical systems",
@@ -876,19 +563,18 @@
         ],
         "DOI": "10.1109/CICC.2017.7993716",
         "citation": 2,
-        "abstract": "Analog filters are used in a host of applications and are key building blocks in a number of applications. .The main components in active filters are Op Amp (VCVS) or Transconductance Amplifier (VCCS), resistors and capacitors. In this presentation we discuss different implementations of nonconventional Amplifiers and their strengths and weakness. .Also we present different non-conventional filter topologies in different domains and/or their implementations. Linearity of amplifiers/filters* is still an important active research area, not discussed here for lack of time."
+        "abstract": "Analog Filters are used in a host of applications and are key building blocks in a number of applications. The main components in active filters are Op Amp (VCVS) or Transconductance Amplifier (VCCS), resistors and capacitors. In this presentation we discuss different implementations of non-conventional Amplifiers and their strengths and weakness. Also we present different non-conventional filter topologies in different domains and/or their implementations. Linearity of amplifiers/filters∗ is still an important active research area, not discussed here for lack of time."
     },
     {
-        "title": "Prediction of one-minute rain rate distributions from tropical rainfall measuring mission (TRMM)",
-        "conferenceTitle": "5th Colloquium on Antennas, Wireless and Electromagnetics (CAWE 2017)",
-        "data": "8-8 June 2017",
+        "title": "Energy efficient VLSI circuits for machine learning on-chip",
+        "conferenceTitle": "2017 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "24-27 April 2017",
         "authors": [
-            "Kevin S. Paulson",
-            "Geraldine R. Rimven"
+            "Hao Yu"
         ],
-        "DOI": "10.1049/ic.2017.0011",
+        "DOI": "10.1109/VLSI-DAT.2017.7939671",
         "citation": 2,
-        "abstract": "ITU-R models of rain fade on terrestrial (Rec. ITU-R P.530-16) [1]and Earth-space links(Rec. ITU-R P.618- 12)[2] require the one-minute rain rate exceeded for 0.01% of an average year: R0.01%[3]. Inadequate data in many parts of the world has resulted in reliance on Rec. ITU-R P.837-6[3]. TRMM data will be used estimate rain rate distributions for each 1° square between 38° South to 38° North over the tropics. These distributions of instantaneous rain rates over 5 km squares are transformed to distributions over 1 km squares using a correction calculated from Nimrod radar data."
+        "abstract": "The machine-learning based data analytics to support a cloud intelligence (such as Google's αGo) has already gone beyond the scalability of the present computing technology and architecture. The current deep learning based method is not efficient and requires huge consumption of data and power, which has a long latency running on data servers. With the emergence of autonomous vehicles, unmanned aerial vehicles and robotics, there is a huge demand to only analyze a necessary sensed data with small latency and low power at edge devices. In this talk, we will discuss efficient machine-learning algorithms such as fast least-squares method, binary and tensory convolutional neural network method, with according prototyping accelerator developed in FPGA and CMOS-ASIC chips, which has potential to outperform traditional GPU devices. The mapping on future RRAM device will be also briefly addressed."
     },
     {
         "title": "Experimental implementation of frequency regulation services using commercial buildings",
@@ -928,17 +614,6 @@
         "DOI": "10.1109/UBMK.2017.8093373",
         "citation": 1,
         "abstract": "In this study, it is aimed to demonstrate how to develop a strategy in order to ensure effective cyber security of the assets owned, information and communication systems and infrastructures in cyberspace and to be a powerful force in cyber warfare and deterrence in a country. In this context, an approach is established for the creation and implementation of a national cyber security strategy required related the subject, opinions are revealed and evaluations are made."
-    },
-    {
-        "title": "Invited talk 2: Various kinds of antenna and their applications",
-        "conferenceTitle": "2017 International Symposium on Antennas and Propagation (ISAP)",
-        "data": "30 Oct.-2 Nov. 2017",
-        "authors": [
-            "Dau-Chyrh Chang"
-        ],
-        "DOI": "10.1109/ISANP.2017.8229076",
-        "citation": 1,
-        "abstract": "Antennas are important for digital data communication and radar applications. For various applications, special performances of antennas are required. In this paper various kinds of antenna, reflector antenna, phased array antenna, low profile antennas, and reconfigurable antennas, will be discussed for various applications."
     },
     {
         "title": "Research on Data Association Method Based on Directed Graph",
@@ -1054,18 +729,6 @@
         "abstract": "Epilepsy is a disease caused by unexpected electrical activity in the brain which constitutes 0.6% of all diseases on earth. It is possible to examine this disease which is manifested in seizures by electroencephalography method. In this study, it was aimed to investigate EEG signals received from epileptic patients who have had seizures continuously during the day by applying wavelet transform. EEG records of 4 epileptic patients having 6 consecutive seizures were taken from the MIT EEG database. The signals were transferred to the timefrequency plane using Wavelet Transform (WT), where the energy values were investigated in delta, teta, alpha and beta sub-frequency bands. Then, the data was analyzed with statistical program and significant differences were observed. In conclusion, the method proposed in this study is thought to contribute to the diagnosis and treatment process by detecting brain oscillations between the seizures of epileptic."
     },
     {
-        "title": "Tutorial 2: Developing Virtual Reality applications with the Visualization Toolkit (VTK)",
-        "conferenceTitle": "2017 IEEE International Symposium on Mixed and Augmented Reality (ISMAR-Adjunct)",
-        "data": "9-13 Oct. 2017",
-        "authors": [
-            "Lucas Gandel",
-            "Julien Jomier"
-        ],
-        "DOI": "10.1109/ISMAR-Adjunct.2017.17",
-        "citation": 1,
-        "abstract": "The aim of this tutorial is to provide an introduction to the recent features added to the Visualization Toolkit (VTK) that now allows for rendering in external immersive environment. An introduction to VTK will be given in order to explain the basics and how to create visualization applications, followed by a description of modules allowing you to take your application into virtual reality (VR). The last part of the tutorial will focus on interactions by presenting different ways to interact in a VR environment using the VTK pipeline. The aim is for attendees to be able to build their first application in VR using VTK. They will get strong knowledge on a cross-platform, open-source and freely available system software. By taking more people into the VTK-VR loop, we hope to make mixed and augmented reality benefit more from VTK's advanced visualization, processing and modeling techniques, such as volume rendering or point cloud visualization."
-    },
-    {
         "title": "Notice of Removal: Tomographic shear wave imaging: Feasibility study",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
         "data": "6-9 Sept. 2017",
@@ -1077,6 +740,17 @@
         "DOI": "10.1109/ULTSYM.2017.8091561",
         "citation": 1,
         "abstract": "Removed."
+    },
+    {
+        "title": "Satellites for CNS setting the scene",
+        "conferenceTitle": "2017 Integrated Communications, Navigation and Surveillance Conference (ICNS)",
+        "data": "18-20 April 2017",
+        "authors": [
+            "Rainer J Koll"
+        ],
+        "DOI": "10.1109/ICNSURV.2017.8012039",
+        "citation": 1,
+        "abstract": "This article consists only of a collection of slides from the author's conference presentation."
     },
     {
         "title": "Deep learning based recommender systems",
@@ -1135,18 +809,6 @@
         "DOI": "",
         "citation": 1,
         "abstract": "Before graduating from X as Waymo, Google's self-driving car project had been using custom lidars for several years. In their latest revision, the lidars are designed to meet the challenging requirements we discovered in autonomously driving 2 million highly-telemetered miles on public roads. Our goal is to approach price points required for advanced driver assistance systems (ADAS) while meeting the performance needed for safe self-driving. This talk will review some history of the project and describe a few use-cases for lidars on Waymo cars. Out of that will emerge key differences between lidars for self-driving and traditional applications (e.g. mapping) which may provide opportunities for semiconductor lasers."
-    },
-    {
-        "title": "Notice of Removal: Design guidelines for isolated DC-DC converter selection based on — Cost, reliability, and compatibility",
-        "conferenceTitle": "2017 IEEE Energy Conversion Congress and Exposition (ECCE)",
-        "data": "1-5 Oct. 2017",
-        "authors": [
-            "Alexander Isurin",
-            "Mark J. Scott"
-        ],
-        "DOI": "10.1109/ECCE.2017.8096983",
-        "citation": 1,
-        "abstract": "Removed."
     },
     {
         "title": "Notice of Removal: Feasibility of thermal strain imaging in noninvasive monitoring of HIFU-mediated local drug delivery",
@@ -1223,23 +885,6 @@
         "abstract": "MANETs have wide range of popularity in the ad hoc communication systems. The optimized communication strategies are more crucial for these types of networks by considering routing, power management, MAC layer management. In this paper, a novel power efficient MAC scheme is proposed for saving the energy and improving the life time of the network. We considered the ACO optimization technique for optimal path selection and lower the overhead at node level. Delay, throughput and average energy consumption is parameters are considered to improve the efficiency of the network."
     },
     {
-        "title": "Feasibility of Compound Chained Network Functions for Flexible Packet Processing",
-        "conferenceTitle": "European Wireless 2017; 23th European Wireless Conference",
-        "data": "17-19 May 2017",
-        "authors": [
-            "Wolfgang Hahn",
-            "Borislava Gajic",
-            "Florian Wohlfart",
-            "Daniel Raumer",
-            "Paul Emmerich",
-            "Sebastian Gallenmueller",
-            "Georg Carle"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "The paper discusses and evaluates different implementation options of Service Function Chaining (SFC) in virtual computing environments. Classical SFC relies on dedicated virtual machines for each chained network function. The motivation is to increase the efficiency of the classical SFC approach with respect to latency and throughput. Therefore, compound SFC that are implemented in single virtual machines are proposed. The focus is on the evaluation of the latency of communication between network functions and on the impact of limited computing resources on the maximal executable workload. To evaluate the presented SFC concepts, the performance measurements in a hardware testbed using different network functions have been carried out. A prototype of compound SFC was implemented based on the networking toolkit Snabb. Furthermore, a configurable synthetic network function was implemented and tested. The results show the sensitivity of different parameters with respect to the efficiency of SFC implementation options."
-    },
-    {
         "title": "Notice of Removal: New insights in the role of reactive oxygen species in mechanisms of sonoporation: In-vitro validation and molecular dynamic simulations",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
         "data": "6-9 Sept. 2017",
@@ -1252,17 +897,6 @@
         "DOI": "10.1109/ULTSYM.2017.8092093",
         "citation": 1,
         "abstract": "Removed."
-    },
-    {
-        "title": "Keynote lecture IV: Grid code requirements for connecting solar power plants to electricity networks in Egypt",
-        "conferenceTitle": "2017 Nineteenth International Middle East Power Systems Conference (MEPCON)",
-        "data": "19-21 Dec. 2017",
-        "authors": [
-            "Omar H. Abdalla"
-        ],
-        "DOI": "10.1109/MEPCON.2017.8301151",
-        "citation": 1,
-        "abstract": "A Grid Code is a document that contains a set of rules and procedures to regulate technical and legal relationship between a transmission system operator (TSO) and users of the transmission grid. The objective is to establish the obligations and responsibilities of each party; i.e. the TSO and all grid users such as power generating plants, distribution utilities and directly connected bulk industrial customers. This will lead to maintain optimal operation, safety and reliability of the power system. In distribution power grids, a Distribution Code is similarly applied. With the increasing penetration levels of renewable energy sources into electric power grids, utilities have introduced special requirements for the connection of renewable power plants to the grid. Particular attention is given here to large-scale and medium-scale solar power plants. Technical requirements of connecting these renewable sources to the grids (transmission or distribution) should be clearly understandable by all parties to correctly implement the rules and procedures described in the connection codes. The objective is to provide the attendees with basic information on the technical design specifications and criteria, technical terms and equipment parameters appeared in the solar plants grid connection codes. For example, power quality definitions, measures and their cause and impact on the system as referred to in the codes will be discussed and explained. The technical specifications include permitted voltage and frequency variations in addition to power quality measures such as limits of harmonic distortion, phase unbalance, and flickers. Solar generating units operational limits, capability requirements, active power and frequency control, reactive power and AVR, power factor, grid protection, etc. will be explained and discussed."
     },
     {
         "title": "2nd International Workshop on Metamorphic Testing (MET 2017)",
@@ -1278,20 +912,6 @@
         "DOI": "10.1109/MET.2017.11",
         "citation": 1,
         "abstract": "Summary form only given. MET 2017 Workshop Summary. Metamorphic Testing (MT) is a testing technique that exploits the relationships among the inputs and outputs of multiple executions of the program under test, so- called Metamorphic Relations (MRs). MT has been proven highly effective in testing programs that face the oracle problem, for which the correctness of individual output is difficult to determine. Since the introduction of MT in 1998, the interest in this testing methodology has grown immensely with numerous applications in various domains such as machine learning, bioinformatics, computer graphics, simulation, search engines, decision support, cloud computing, databases, and compilers. The Second International Workshop on Metamorphic Testing (MET) will bring together researchers and practitioners in academia and industry to discuss research results and experiences in MT. The ultimate goal of MET is to provide a platform for the discussion of novel ideas, new perspectives, new applications, and state of research, related to or inspired by MT."
-    },
-    {
-        "title": "Gate Driver IC for GaN GIT for High Slew Rate and Cross Conduction Protection",
-        "conferenceTitle": "PCIM Europe 2017; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "data": "16-18 May 2017",
-        "authors": [
-            "Aaron Qingwei Cai",
-            "Herreria Arnel Carrera",
-            "Sin Ban How",
-            "Siek Liter"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "This paper presents various gate drive methods to optimize the performance and overcome the challenges of high slew related issues. High drainsource voltage and current slew rates enable low switching losses and high frequency operation. However, it increases the chances of cross conduction. In this work, a driver IC was developed to drive the GaN GIT at high slew rates (~150V/ns) while having built-in active miller clamp and selfgenerated negative voltage rail for crossconduction protection. Experimental results showed that GaN GIT gate driver IC outperformed other methods by allowing faster slew rates and larger immunity to cross conduction."
     },
     {
         "title": "Notice of Removal: In vivo contractile properties measurement of the biceps brachii muscle using high frame rate plane waves and k-space transverse oscillation",
@@ -1330,19 +950,6 @@
         "DOI": "10.1109/IPCon.2017.8116018",
         "citation": 1,
         "abstract": "Probabilistic shaping schemes and their benefits are reviewed. Probabilistic Amplitude Shaping (PAS) is presented, a layered architecture currently considered for industrial applications. Implementation challenges and proposed solutions are discussed, including distribution matching algorithms for shaping, integration with forward error correction, and digital signal processing."
-    },
-    {
-        "title": "Supervised generalized canonical correlation analysis of soft biometrie fusion for recognition at a distance",
-        "conferenceTitle": "8th International Conference on Imaging for Crime Detection and Prevention (ICDP 2017)",
-        "data": "13-15 Dec. 2017",
-        "authors": [
-            "Bingchen H. Guo",
-            "Mark S. Nixon",
-            "John N. Carter"
-        ],
-        "DOI": "10.1049/ic.2017.0048",
-        "citation": 1,
-        "abstract": "In order to improve biometric system performance, information fusion becomes a key technique in multi-modal biometric systems. Multi-modal biometric fusion is conventionally divided into four levels: sensor level, feature level, score level and decision level. In this paper, we propose a supervised generalized canonical correlation (sg-CCA) method to fuse soft biometric features. The experiments were performed using a soft biometric database which contains the human face, body and clothing traits at three different distances. This paper describes the database and analyses the recognition performance. Furthermore, it explores the potency of face, body and clothing for human recognition using sg-CCA fusion compared with other linear dimensionality reduction fusion methods. The results demonstrate the superiority of soft biometric fusion using sg-CCA method for human recognition."
     },
     {
         "title": "Formal methods in industrial dependable systems design — The TTTech example",
@@ -1452,23 +1059,6 @@
         "abstract": "Removed."
     },
     {
-        "title": "Hybrid Energy Storage System Control for the Provision of Ancillary Services",
-        "conferenceTitle": "International ETG Congress 2017",
-        "data": "28-29 Nov. 2017",
-        "authors": [
-            "Bernd Bohnet",
-            "Sebastian Kochanneck",
-            "Ingo Mauser",
-            "Sebastian Hubschneider",
-            "Michael Braun",
-            "Hartmut Schmeck",
-            "Thomas Leibfried"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "Distributed generation challenges power quality and voltage stability in low voltage distribution grids and may cause overloads. Making these grids and their connected entities more active and able to provide ancillary services may help to cope with these problems. This paper presents ongoing work on the capability to provide ancillary services in low voltage systems by means of a hybrid energy storage system composed of lead-acid batteries and electric double layer capacitors. The assessed test cases are based on an extended traffic light approach to deal with different grid states that respect a local energy optimization using an automated building energy management system. First results show the hybrid storage system's capabilities of providing ancillary services within the green and yellow traffic light phase."
-    },
-    {
         "title": "Semantic computing and cognitive computing/informatics",
         "conferenceTitle": "2017 IEEE 16th International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)",
         "data": "26-28 July 2017",
@@ -1488,7 +1078,7 @@
         ],
         "DOI": "10.1109/IMaRC.2017.8611247",
         "citation": 1,
-        "abstract": "300-GHz-band transceiver chipsets with 40-nm CMOS process has been realized. A 300-GHz-band transmitter generates a modulated signal with 105 Gbps at the maximum, and the receiver demodulates a modulated signal of a maximum of 32 Gbps. The most difficult point in designing a 300-GHz-band transceiver with CMOS process is that the maximum operating frequency (fmax) of transistors does not reach 300 GHz. Key technologies for designing a transceiver circuit exceeding the maximum operating frequency of transistors and the measurement results will be described."
+        "abstract": "300-GHz-band transceiver chipsets with 40-nm CMOS process has been realized. A 300-GHz-band transmitter generates a modulated signal with 105 Gbps at the maximum, and the receiver demodulates a modulated signal of a maximum of 32 Gbps. The most difficult point in designing a 300-GHz-band transceiver with CMOS process is that the maximum operating frequency (f max) of transistors does not reach 300 GHz. Key technologies for designing a transceiver circuit exceeding the maximum operating frequency of transistors and the measurement results will be described."
     },
     {
         "title": "Fuzzy logic approach to predictive risk analysis in distribution outage management",
@@ -1515,33 +1105,6 @@
         "abstract": "Removed."
     },
     {
-        "title": "Control Challenges in Power Systems Dominated by Converter Interfaced Generation and Transmission Technologies",
-        "conferenceTitle": "NEIS 2017; Conference on Sustainable Energy Supply and Energy Storage Systems",
-        "data": "21-22 Sept. 2017",
-        "authors": [
-            "Istvan Erlich"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "This paper surveys the control challenges arising from the increasing level of power injected into the network through converter interfaces. As is well-known, converters link renewable based power generation plants as well as voltage source converter based high voltage DC transmission lines (VSC-HVDC) to the main grid. It is shown that current injection control, as it is implemented in almost all wind turbines (WT) controls at the moment, is not suitable in grids dominated by converter in-feeds such as offshore wind farms. A new WT as well as VSC-HVDC control concept, which determines the converter reference voltage directly without the need for an underlying current controller, has been proposed. Additionally, alternative options for frequency support by the HVDC terminals that can be incorporated into the active power control channel have been presented and discussed. Simulation results show that the control approach fulfils all the operational control functions in steady state and in contingency situations supporting fault ride-through and emergency frequency support, without encountering the problems arising from current injection control. Additionally, the author analyzes consequences of the transition from conventional synchronous generator based generation to converter interfaced generation utilized usually for renewable sources. As a conclusion, the author gives their recommendation for the maximum share of converter-interfaced units in future large scale power systems."
-    },
-    {
-        "title": "Spatial Modulation and Spatial Multiplexing Capacity Analysis over 3D mmWave Communications",
-        "conferenceTitle": "European Wireless 2017; 23th European Wireless Conference",
-        "data": "17-19 May 2017",
-        "authors": [
-            "Salma Elkawafi",
-            "Abdelhamid Younis",
-            "Raed Mesleh",
-            "Abdulla Abouda",
-            "Ahmed Elbarsha",
-            "Mohammed Elmusrati"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "In this paper"
-    },
-    {
         "title": "Tutorial 3: SOFA, an Open-Source Framework for Physics Simulation in Augmented Reality",
         "conferenceTitle": "2017 IEEE International Symposium on Mixed and Augmented Reality (ISMAR-Adjunct)",
         "data": "9-13 Oct. 2017",
@@ -1560,7 +1123,7 @@
         ],
         "DOI": "10.1109/ICCUBEA.2017.8463438",
         "citation": 1,
-        "abstract": "`Raga' is the sequence of selected notes (swaras-that lend appropriate `mood' or emotion in a selective combination. Depending on the nature, a raga could induce or intensify joy or sorrow, violence or peace. This quality forms the basis for musical application. Playing, performing and even listening to appropriate ragas can work as a medicine. According to Raga Chikitsa, Raga Therapy in India Living systems show sensitivity to specific radiant energies-be it acoustical, magnetic or electro-magnetic. As the impact of music could be easily gauged on emotions and thereby on mind, it can be used as a tool to control the physiological, psychological and even social activities of the patients. Raga is believed to effect the human body parameters. This paper summarizes the effect of raga Malkauns on the blood pressure parameters. It shows that various tempos (laya ) of Malkauns have different effects on High-blood pressure readings and low blood pressure readings."
+        "abstract": "‘Raga’ is the sequence of selected notes (swaras-that lend appropriate ‘mood’ or emotion in a selective combination. Depending on the nature, a raga could induce or intensify joy or sorrow, violence or peace. This quality forms the basis for musical application. Playing, performing and even listening to appropriate ragas can work as a medicine. According to Raga Chikitsa, Raga Therapy in India Living systems show sensitivity to specific radiant energies-be it acoustical, magnetic or electro-magnetic. As the impact of music could be easily gauged on emotions and thereby on mind, it can be used as a tool to control the physiological, psychological and even social activities of the patients. Raga is believed to effect the human body parameters. This paper summarizes the effect of raga Malkauns on the blood pressure parameters. It shows that various tempos (laya ) of Malkauns have different effects on High-blood pressure readings and low blood pressure readings."
     },
     {
         "title": "Notice of Removal: Low-complexity compressive beamforming for portable ultrasound imaging",
@@ -1575,18 +1138,6 @@
         "DOI": "10.1109/ULTSYM.2017.8092296",
         "citation": 1,
         "abstract": "Removed."
-    },
-    {
-        "title": "Matlab/Simulink Based Comparative Analysis of the Effect of Ion Concentration on Action Potantial by Using Hodgkin-Huxley and Morris-Lecar Neuron Models",
-        "conferenceTitle": "2017 21st National Biomedical Engineering Meeting (BIYOMUT)",
-        "data": "24 Nov.-26 Dec. 2017",
-        "authors": [
-            "Fikret Yalcinkaya",
-            "Hamza Unsal"
-        ],
-        "DOI": "10.1109/BIYOMUT.2017.8479056",
-        "citation": 1,
-        "abstract": "In pharmacological experiments, the effect of ion concentrations on Action potential (AP) and its association with important neurological disorders such as stroke, epilepsy and depression has been investigated. In this paper, Hodgkin-Huxley (HH) and Morris-Lecar (ML) membrane models, which have contributed to the literature of theoretical neural science, have been studied. In the first step, these two models have been simulated individually in Simulink environment using Matlab software. In the second step, the ratio of the amount of extracellular ion to the amount of intracellular ion was expressed as Hd/Hi. Based on Na+ and K+ as ions, the effect of Hd/Hi ratio change on AP signal was investigated based on HH and ML as a model. In the HH model, it was searched that the Hd/Hi change due to sodium ions influenced the amplitude of AP and the depolarization phase. The change in Hd/Hi ratio due to potassium ion concentrations was found to affect the threshold and hyper-polarization phase of AP. In the ML membrane model, it was observed that the change in Hd/Hi ratio due to intracellular and extracellular Ca+2 and K+ ion concentrations affected the formation time of AP, firing time, amplitude and formation phases. HH and ML models showed similarity in the same parameters."
     },
     {
         "title": "A tunable flickermeter to account for different lamp technologies",
@@ -1626,19 +1177,6 @@
         "abstract": "Random numbers are useful for a variety of purposes. A discrete representation of them can be obtained from pseudorandom numbers generators. This paper presents PseudoRandom, a prototype of a hypermedial educational material, which approaches the subject from a multidisciplinary and constructivist perspective."
     },
     {
-        "title": "Study on the total harmonic distortion of a 5-MW wind turbine with modular multilevel converter and development of a demonstrator",
-        "conferenceTitle": "NEIS 2017; Conference on Sustainable Energy Supply and Energy Storage Systems",
-        "data": "21-22 Sept. 2017",
-        "authors": [
-            "Jan-Henrik Fey",
-            "Frank Hinrichsen",
-            "Regine Mallwitz"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "This paper investigates the possibility of applying medium-voltage modular multilevel converters in 5-MW onshore wind turbines. The focus is on the reduction of higher order harmonics in comparison to classical 3-level medium-voltage converters. The simulation of the 7-level 5-MW converter shows that the harmonic limits in accordance with the actual grid codes can be met without an additional grid side filter. The paper starts with a description of the detailed grid and converter model parameters, followed by the grid compatibility simulation according to the standard grid codes. Subsequently, a setup of a 3-kV 350-kVA MMC demonstrator with commonly used low-voltage components is presented which will afterwards serve to verify the simulation results."
-    },
-    {
         "title": "Notice of Removal: High frame rate multi-plane echocardiography using multi-line transmit beamforming: First experimental findings",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
         "data": "6-9 Sept. 2017",
@@ -1676,18 +1214,6 @@
         "abstract": "This paper presents the design and test results of two Ultra-Broadband Uniplanar Passive x2 Multipliers covering the Ku to W band using Slotline and Coplanar strips (CPS) based baluns and diode tees. One multiplier consists of a CPW-Slotline balun feeding a series diode-tee to generate the output range of 12 to 65 GHz with coax input and output connectors. The other multiplier uses a CPS-CPW balun driving a series diode-tee covering the output range of 65 GHz to 110 GHz with a coax input and WR10 output. Conversion loss of 10-20 dB at the module level is obtained with 3 dB flatness or less in any 25 GHz range."
     },
     {
-        "title": "Notice of Removal: EMI issues and solutions in PWM converters",
-        "conferenceTitle": "2017 IEEE Energy Conversion Congress and Exposition (ECCE)",
-        "data": "1-5 Oct. 2017",
-        "authors": [
-            "Rudy Ruxi Wang",
-            "Dong Jiang"
-        ],
-        "DOI": "10.1109/ECCE.2017.8096986",
-        "citation": 1,
-        "abstract": "Removed."
-    },
-    {
         "title": "Plane wave diffraction by a large rectangular aperture in a thick conducting screen",
         "conferenceTitle": "2017 International Conference on Electromagnetics in Advanced Applications (ICEAA)",
         "data": "11-15 Sept. 2017",
@@ -1709,17 +1235,6 @@
         "DOI": "10.1109/ULTSYM.2017.8092016",
         "citation": 1,
         "abstract": "Removed."
-    },
-    {
-        "title": "Energy efficient VLSI circuits for machine learning on-chip",
-        "conferenceTitle": "2017 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "data": "24-27 April 2017",
-        "authors": [
-            "Hao Yu"
-        ],
-        "DOI": "10.1109/VLSI-DAT.2017.7939671",
-        "citation": 1,
-        "abstract": "The machine-learning based data analytics to support a cloud intelligence (such as Google's αGo) has already gone beyond the scalability of the present computing technology and architecture. The current deep learning based method is not efficient and requires huge consumption of data and power, which has a long latency running on data servers. With the emergence of autonomous vehicles, unmanned aerial vehicles and robotics, there is a huge demand to only analyze a necessary sensed data with small latency and low power at edge devices. In this talk, we will discuss efficient machine-learning algorithms such as fast least-squares method, binary and tensory convolutional neural network method, with according prototyping accelerator developed in FPGA and CMOS-ASIC chips, which has potential to outperform traditional GPU devices. The mapping on future RRAM device will be also briefly addressed."
     },
     {
         "title": "Notice of Removal: Temperature behavior of sound velocity of SiON thin films studied by picosecond ultrasound",
@@ -1751,20 +1266,6 @@
         "DOI": "10.1109/ULTSYM.2017.8092699",
         "citation": 1,
         "abstract": "Removed."
-    },
-    {
-        "title": "Future improvements to HVDC cables through new cable insulation materials",
-        "conferenceTitle": "13th IET International Conference on AC and DC Power Transmission (ACDC 2017)",
-        "data": "14-16 Feb. 2017",
-        "authors": [
-            "R.L. Sellick",
-            "J.S. Sullivan",
-            "Q. Chen",
-            "C. Calebrese"
-        ],
-        "DOI": "10.1049/cp.2017.0039",
-        "citation": 1,
-        "abstract": "High Voltage Direct Current (HVDC) cables are traditionally very expensive and typically comprise up to 70% [1,2] of a transmission project's total capital cost depending on the system voltage, the cable installation route and the overall distance. HVDC cables fall into three insulation types: mass-impregnated (MI), self-contained fluid-filled (SCFF) and cross-linked polyethylene (XLPE)."
     },
     {
         "title": "Utilizing NVDIMM to alleviate the I/O performance gap for big data workloads",
@@ -1840,20 +1341,6 @@
         "abstract": "Summary form only given, as follows. The AXIOM platform is built with, in mind, the possibility of executing an application not only on a single board but also, in a distributed fashion, on multiple boards. While this is a classic problem with some solutions in the case of no constraints, it becomes interesting for embedded computing and cyber-physical systems where we aim to accelerate applications while maintaining energy efficiency and also easy programmability. Currently, the AXIOM platform consists of a custom board based on the Xilinx Zynq Ultrascale+ ZU9EG which incorporates the largest FPGA available on that System-on-Chip at the moment, four 64-bit ARM cores and two 32-bit ARM cores, up to 32GiB of main memory and several 12.5Gbit/s tranceivers. We relyed on this hardware to develop our novel concept, which exploitsdataflow execution in multiple ways for programs that are written in an OpenMP extension, known as OmpSs. A key aspect relates to the adopted memory consistency model, which allows the programmer to focus on aspects other than taking care of the communication among nodes. The lower level of our communication stack relies on a fast interconnect based on inexpensive USB-C type connectors rather than on other proprietary interfaces. The reconfigurable logic provides a complete Network Interface Card (NIC) to allow fast routing of the data and code of the system. We envision many applications for this platform although we are currently focused on developing two basic scenarios based on the Smart-Home and on Smart-Video surveillance. Our initial results confirm good scalability of the platform and a speed-up compared to other programming models such as Cilk and OpenMPI."
     },
     {
-        "title": "Intraday Redispatch - Optimal Scheduling of industrial processes at day-ahead and continuous intraday market",
-        "conferenceTitle": "International ETG Congress 2017",
-        "data": "28-29 Nov. 2017",
-        "authors": [
-            "Jan Meese",
-            "Benedikt Dahlmann",
-            "Markus Zdrallek",
-            "Andy Voelschow"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "Due to the volatile feed-in of renewable energy resources market prices are varying during the day. The optimal scheduling of flexible processes in medium-sized industry based on a dynamic energy tariff yields to a reduction of energy costs due to a load shift into hours with low energy prices. This load shifting does not only save costs for the \"owner\" of the load but also helps to balance load and generation system wide by adapting a part of the load to the volatile feed-in. This paper shows an implementation combining the possibilities of day-ahead trading and short-term Redispatch using the continuous intraday market."
-    },
-    {
         "title": "Automated formal reasoning about AWS systems",
         "conferenceTitle": "2017 Formal Methods in Computer Aided Design (FMCAD)",
         "data": "2-6 Oct. 2017",
@@ -1886,19 +1373,6 @@
         "DOI": "10.1109/CONCAPAN.2017.8278539",
         "citation": 1,
         "abstract": "Smart devices are everywhere nowadays, such as smartphones and tablets where the Android platform is dominant in this mobile era. As a consequence of this popularity, the malware targeting Android smartphones has also mushroomed. Android malware is one of the major security issues and fast growing threats facing the Internet in the mobile arena, today. So, in this context, DNS (Domain Name System) is widely misused by miscreants in order to provide internet connection within malicious networks and botnets. In our experiments, we use the MalGenome dataset in order to generate network traffic. Besides, most of the malware we examine use DNS in order to obtain the IP address of their command and control servers. Then, the problem of determining the DNS queries done by the malware through devices without modifying the firmware or rooting smartphone, is very important and it poses a big challenge. From traces we generated from apps under test, we can extract malicious URLs invoked by the malware."
-    },
-    {
-        "title": "Design of information value determination method for information-sharing systems during large-scale disasters",
-        "conferenceTitle": "2017 IEEE 16th International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)",
-        "data": "26-28 July 2017",
-        "authors": [
-            "Tatsuya Sonobe",
-            "Akiko Takahashi",
-            "Takuo Suganuma"
-        ],
-        "DOI": "10.1109/ICCI-CC.2017.8109793",
-        "citation": 1,
-        "abstract": "During the large-scale disasters that occurred recently in Japan, people shared information via a diverse range of services on the Internet. Given that most of this information was shared by general Internet users, detailed information was available more rapidly compared the case where only mass media would communicate said information. Even so, very few users shared information via Internet services. Therefore, it is necessary to encourage users to provide information. In this paper, to promote this activity, we propose a method for determining the value of information by automated negotiation considering the provider's evaluations and the intentions of service management. We evaluate the effectiveness of the proposed method experimentally."
     },
     {
         "title": "Flip-chip external-cavity lasers in Si",
@@ -1961,19 +1435,6 @@
         "DOI": "10.1109/IFSA-SCIS.2017.8023376",
         "citation": 0,
         "abstract": "Provides an abstract of the tutorial presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
-    },
-    {
-        "title": "Energy Efficient Relay Selection Method for Clustered Wireless Sensor Network",
-        "conferenceTitle": "European Wireless 2017; 23th European Wireless Conference",
-        "data": "17-19 May 2017",
-        "authors": [
-            "Mohamad Cheikh",
-            "Oluyomi Simpson",
-            "Yichuang Sun"
-        ],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "In the literature, cooperative relay selection methods are proposed for wireless sensor networks (WSNs) taking into account the characteristics of those networks, in terms of energy consumption. However, to ensure the cluster heads (CHs) have variety of relay candidates without adding extra signaling that yield to additional energy consumption, a relay selection method at the destination is proposed for clustered WSNs. The basic of the novel method is selecting the relay with the optimal location from virtual circular clusters defined at the Sink. As a result, the Sink chooses the relay with minimum two link path length, which minimizes the total energy cost per transmission. Simulation results are presented for different transmission ranges and the performance of the proposed method is evaluated in terms of energy cost per bit, total energy cost and the network lifetime. Results show that the proposed method outperforms the random relay selection method, conventional multi-hop transmission in terms of energy efficiency."
     },
     {
         "title": "Blank page",
@@ -2043,20 +1504,7 @@
         ],
         "DOI": "10.1109/SmartTechCon.2017.8358629",
         "citation": 0,
-        "abstract": "According to J.D. Laison, C. Starr and A. Walker a graph G is a prime distance garph if there exists a 1-1 labeling f : V(G) → Z such that for any two adjacent vertices u and ν the integer |f(u)-f(v)| is a prime. Further they called such a labelling of V(G) a prime distance labelling (PDL) of G. In this paper we prove certain existence and non-existence results concerning PDL. We also discuss certain applications besides raising some open problems."
-    },
-    {
-        "title": "Delivery delay analysis for large-size multimedia messages in V2I/V2V networks",
-        "conferenceTitle": "7th IET International Conference on Wireless, Mobile & Multimedia Networks (ICWMMN 2017)",
-        "data": "17-20 Nov. 2017",
-        "authors": [
-            "Bin Pan",
-            "Hao Wu",
-            "Hongwei Ding"
-        ],
-        "DOI": "10.1049/cp.2017.0601",
-        "citation": 0,
-        "abstract": "This paper analyzes the large-size messages delivery delay in hybrid Vehicle-to-Infrastructure (V2I) and Vehicle-toVehicle (V2V) networks. An analytical model is developed to describe the relationship between the average delivery delay and the distance between neighbor Roadside Units (RSUs) deployed along a road. The effect of message size has been also analysed. The derived model considers a straight highway scenario where RSUs are deployed at the same inter-RSU distance without any direct connection and vehicles are sparsely distributed on the road. We also take into account the dissemination strategy, aiming to minimize the delivery delay. The effectiveness of the derived analytical model is verified through simulation results. The analytical model can also provide important insights for the deployment of RSUs and related reference for the onboard multimedia messages selected to share with others."
+        "abstract": "According to J.D. Laison, C. Starr and A. Walker a graph G is a prime distance garph if there exists a 1-1 labeling f : V(G) → Ζ such that for any two adjacent vertices u and ν the integer |f(u)-f(v)| is a prime. Further they called such a labelling of V(G) a prime distance labelling (PDL) of G. In this paper we prove certain existence and non-existence results concerning PDL. We also discuss certain applications besides raising some open problems."
     },
     {
         "title": "Plenary invited speakers",
@@ -2235,21 +1683,6 @@
         "abstract": "The talk describes the status, recent progress and near future plans in the Free Electron Laser seeding by ultrashort UV pulses implemented at FERMI as a root to generate XUV pulses with very exciting properties."
     },
     {
-        "title": "Performance and computational trade analysis for low-SWaP synthetic aperture radar application",
-        "conferenceTitle": "International Conference on Radar Systems (Radar 2017)",
-        "data": "23-26 Oct. 2017",
-        "authors": [
-            "A. S. Paulus",
-            "M. S. Davis",
-            "D. O. Carlson",
-            "W.L. Melvin",
-            "B. Himed"
-        ],
-        "DOI": "10.1049/cp.2017.0462",
-        "citation": 0,
-        "abstract": "Airborne radar platforms with low size, weight, and power (SWaP) minimize cost and operational risk but also place constraints on the complexity of the algorithms used to process the received data. Producing high quality radar images requires sophisticated algorithms that provide accurate and useful information regarding the scene of interest. Imaging algorithms that provide the highest quality synthetic aperture radar (SAR) imagery come with a steep computational price: O(N3) operations are required to produce an N pixel × N pixel image; imaging algorithms that require fewer computations introduce errors of varying degree that result from approximations to the signal model. Several sub-optimal SAR imaging algorithms were evaluated to quantify the impact of these approximations for various system parameters and scene sizes. A comparison of image formation times on two low-power graphical processing units (GPUs) provides a realistic comparison of algorithm complexity. Additional algorithms and techniques in the end-to-end image formation process that provide favorable trades between performance and computations are identified, and design challenges specific to a SWaP-limited platform are addressed."
-    },
-    {
         "title": "Notice of Removal: A high-sensitivity and wide dynamic range acoustic sensor using multiple mzis micro-opto-mechanical technology",
         "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
         "data": "6-9 Sept. 2017",
@@ -2264,33 +1697,6 @@
         "abstract": "Removed."
     },
     {
-        "title": "Calculation of Model Parameters by EMG During Dynamic Motion of Human Arm",
-        "conferenceTitle": "2017 21st National Biomedical Engineering Meeting (BIYOMUT)",
-        "data": "24 Nov.-26 Dec. 2017",
-        "authors": [
-            "Nurhan Gursel Ozmen",
-            "Frans C.T. Van Der Helm",
-            "Alfred C. Schouten"
-        ],
-        "DOI": "10.1109/BIYOMUT.2017.8479261",
-        "citation": 0,
-        "abstract": "The modeling of the dynamic behavior of the human arm is an important issue in robotics, biomedical and medical fields. In this study, it was aimed to construct an inverse dynamics model for the sequential motion of the arm subjected to external force fluctuations using a two degree of freedom manipulator. In experiments with healthy participants, EMG signals measured from the arm surface during the arm's stationary position task and the planar motion task, and displacements in the x- and yplane of the arm were recorded. In previous studies, the arm admittance was estimated numerically and experimentally for both tasks. To demonstrate the dynamic arm dynamics, the model parameters obtained with the inverse model will be compared with the parameters calculated experimentally and with matrix frequency response method's."
-    },
-    {
-        "title": "Research on safety distance in live operation with helicopter and hanging basket on 500kV transmission line",
-        "conferenceTitle": "2017 EPTC Power Transmission and Transformation Technology Conference",
-        "data": "15-16 March 2017",
-        "authors": [
-            "Yi Wu",
-            "Weidong Liu",
-            "Yujian Ding",
-            "Jian Shen"
-        ],
-        "DOI": "10.1049/cp.2017.0561",
-        "citation": 0,
-        "abstract": "Aiming at live operation using helicopter with a hanging basket in environment of real 500kV transmission line, minimum safety distance test and minimum combined clearance test for the basket were carried out. Firstly, the minimum safety distance test was carried out with the basket in typical operation positions to obtain discharge characteristic curves for different distances. By adjusting basket positions between two phase conductors, the point with the lowest discharge voltage for combined clearance was obtained. Then the combined clearance test was performed to obtain discharge characteristic curves for different distances. Through analysis, the minimum safety distance and minimum combined clearance required for live operation were determined."
-    },
-    {
         "title": "Special sessions: Controls teaching made easier with MATLAB and Simulink",
         "conferenceTitle": "2017 IEEE 56th Annual Conference on Decision and Control (CDC)",
         "data": "12-15 Dec. 2017",
@@ -2299,7 +1705,7 @@
         ],
         "DOI": "10.1109/CDC.2017.8263630",
         "citation": 0,
-        "abstract": "Project based learning and inverted classroom are changing the way control systems classes are taught. With project based learning, instructors focus on developing hardware labs where students learn practical skills required by the industry. Inverted classroom necessitates creation of materials that students can use to learn controls concepts outside of the classroom. To help educators focus on teaching, MathWorks offers tools and resources that instructors can use for development of hardware labs and learning materials. In this talk we will discuss such tools and resources, including: 1) Free hardware support packages and experiments enabling students to control drones, drive motors, read encoders, use light sensors, and build other projects with popular platforms like LEGO, Arduino, and Parrot Minidrones straight from MATLAB and Simulink. 2) Online resources for self-learning including MATLAB Tech Talks, tutorials, and MATLAB Academy. 3) MATLAB and Simulink capabilities for easier and more intuitive explanation of controls concepts. 4) Downloadable sets of curriculum materials for developing and enhancing curriculum, facilitating lectures and classroom examples, and inspiring student learning. 5) MATLAB Cody Coursework for auto-grading assignments. 6) Access to MATLAB and Simulink through campus wide licenses, student software, MATLAB Online, MATLAB Home, and MATLAB Mobile."
+        "abstract": "Project based learning and inverted classroom are changing the way control systems classes are taught. With project based learning, instructors focus on developing hardware labs where students learn practical skills required by the industry. Inverted classroom necessitates creation of materials that students can use to learn controls concepts outside of the classroom. To help educators focus on teaching, MathWorks offers tools and resources that instructors can use for development of hardware labs and learning materials. In this talk we will discuss such tools and resources, including: • Free hardware support packages and experiments enabling students to control drones, drive motors, read encoders, use light sensors, and build other projects with popular platforms like LEGO, Arduino, and Parrot Minidrones straight from MATLAB and Simulink. • Online resources for self-learning including MATLAB Tech Talks, tutorials, and MATLAB Academy. • MATLAB and Simulink capabilities for easier and more intuitive explanation of controls concepts. • Downloadable sets of curriculum materials for developing and enhancing curriculum, facilitating lectures and classroom examples, and inspiring student learning. • MATLAB Cody Coursework for auto-grading assignments. • Access to MATLAB and Simulink through campus wide licenses, student software, MATLAB Online, MATLAB Home, and MATLAB Mobile."
     },
     {
         "title": "Notice of Removal: Shaping acoustofluidic landscapes to profile and separate cells and sub-micron particles",
@@ -2352,23 +1758,6 @@
         "abstract": "Spectrally encoded confocal microscopy (SECM) is a high-speed confocal microscopy technique. In this presentation, recent development on endoscopic SECM and smartphone SECM and their uses in in vivo human imaging will be presented."
     },
     {
-        "title": "The ALPHET project: A new approach to improve the lifing methodology for thermocouple probes used in gas turbines",
-        "conferenceTitle": "EVI-GTI Conference on Gas Turbine Instrumentation (GTI 2017)",
-        "data": "28-30 Nov. 2017",
-        "authors": [
-            "M. Scervini",
-            "C. Rae",
-            "R. Page",
-            "M. Rudkin",
-            "S. O'Dell",
-            "D. Loveless",
-            "G. Marchais"
-        ],
-        "DOI": "10.1049/cp.2017.0318",
-        "citation": 0,
-        "abstract": "During ALPHET, a research project funded by Innovate UK, the University of Cambridge and Esterline Advanced Sensors have been collaborating to develop an advanced approach to predict the life of thermocouple probes used in gas turbines. The new methodology combines accelerated laboratory tests based on the salt deposition method with information obtained from other sources, including combustor rig tests, metallurgical analysis of probes returned after engine service and temperature data acquired throughout the long term operation of sensors installed in aero gas turbines. In addition to life assessment of current thermocouple probes, the work includes assessment of advanced materials and the improved lifing methodology can be valuable in indicating the life of future thermocouple sensors that will work at temperatures higher than today's probes. This paper will outline the basis of the methodology and describe the several challenges to be overcome when using complex engineering data obtained from engines."
-    },
-    {
         "title": "Integrated Optomechanical Devices and Their Applications",
         "conferenceTitle": "2017 Asia Communications and Photonics Conference (ACP)",
         "data": "10-13 Nov. 2017",
@@ -2378,19 +1767,7 @@
         ],
         "DOI": "",
         "citation": 0,
-        "abstract": "Summary form only given. In this talk, I will introduce our recent work on integrated optomechanical devices using gradient force and their applications, including graphene-based optomechanical phase shifter, integrated optomechanical circuits for nonreciprocal propagation, all-optical tuning, and discrete photonics."
-    },
-    {
-        "title": "Seven Reasons why Power Designers Should Implement 48 V to 1 V Direct Conversion",
-        "conferenceTitle": "PCIM Europe 2017; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "data": "16-18 May 2017",
-        "authors": [
-            "Bob Cantrell",
-            "Martin Haegerdal"
-        ],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "Conventional data centre distributed power architectures include an intermediate conversion stage which converts the nominal 48 V input to a regulated 12 V bus that is distributed to downstream 12 V-input converters positioned close to the point of load. Attention is turning once again to the strengths of a single-stage conversion from regulated 48 V down to voltages as low as 1V to supply loads such as CPU cores and DRAM chips. Such conversion can be achieved efficiently and cost-effectively thanks to the latest power MOSFETs and control techniques."
+        "abstract": "In this talk, I will introduce our recent work on integrated optomechanical devices using gradient force and their applications, including graphene-based optomechanical phase shifter, integrated optomechanical circuits for nonreciprocal propagation, all-optical tuning, and discrete photonics."
     },
     {
         "title": "Terahertz quantum cascade laser frequency combs",
@@ -2413,18 +1790,6 @@
         "DOI": "",
         "citation": 0,
         "abstract": "I will present results of photoinduced insulator-to-metal-transition dynamics in La0.7Ca0.3MnO3 films that have been strain-engineered to quench the thermal IMT. Photoexcitation initiates a nonthermal transition to a “hidden” metallic phase that is metastable yet robust."
-    },
-    {
-        "title": "A Double-Sided Cooling Package Design with Pinfin",
-        "conferenceTitle": "PCIM Asia 2017; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "data": "27-29 June 2017",
-        "authors": [
-            "Puqi Ning",
-            "Xuhui Wen"
-        ],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "A packaging structure for medium power modules featuring power semiconductor switches sandwiched between two symmetric substrates that fulfill electrical conduction and insulation functions is presented. The power switches in a popular phase-leg electrical topology are combined with pinfin structure for double-sided cooling."
     },
     {
         "title": "Photovoltaics as a branch of opto-electronics: solar cells, heat engines, electroluminescent refrigerators",
@@ -2472,5 +1837,551 @@
         "DOI": "10.1109/ULTSYM.2017.8091588",
         "citation": 0,
         "abstract": "Removed."
+    },
+    {
+        "title": "Keynote abstracts",
+        "conferenceTitle": "2017 IEEE 14th International Conference on e-Business Engineering (ICEBE)",
+        "data": "4-6 Nov. 2017",
+        "authors": [],
+        "DOI": "10.1109/ICEBE.2017.10",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Timing & synchronization of lasers at XFELs",
+        "conferenceTitle": "2017 Conference on Lasers and Electro-Optics (CLEO)",
+        "data": "14-19 May 2017",
+        "authors": [
+            "R. Coffee"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "I will show preliminary results for an interference enabled cross-correlation that promises both improved signal levels and high-speed on-board processing that is expected for few-fs synchronization at high repetition rate x-ray free-electron lasers."
+    },
+    {
+        "title": "Notice of Retraction: A preliminary investigation in contemporary Shamanic designs in Taiwan",
+        "conferenceTitle": "2017 International Conference on Applied System Innovation (ICASI)",
+        "data": "13-17 May 2017",
+        "authors": [
+            "Chih-Wei Huang"
+        ],
+        "DOI": "10.1109/ICASI.2017.7988295",
+        "citation": 0,
+        "abstract": "Retracted."
+    },
+    {
+        "title": "Chip-based optical frequency combs",
+        "conferenceTitle": "2017 Conference on Lasers and Electro-Optics (CLEO)",
+        "data": "14-19 May 2017",
+        "authors": [
+            "A. L. Gaeta"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Microresonator-based optical frequency combs could enable the realization of time and frequency metrology instruments in highly compact and robust platforms. I will provide an overview of the underlying principles and applications of such combs."
+    },
+    {
+        "title": "Keynote speech: Data converters for mobile and autonomous applications",
+        "conferenceTitle": "2017 IEEE 12th International Conference on ASIC (ASICON)",
+        "data": "25-28 Oct. 2017",
+        "authors": [
+            "Franco Maloberti"
+        ],
+        "DOI": "10.1109/ASICON.2017.8252394",
+        "citation": 0,
+        "abstract": "There is an increasing interest in mobile or autonomous applications, which are for systems that do not need and do not have the possibility of refueling power. The used power must come from the environment by harvesting what is available and transforming it into electrical form. Those systems move around, i.e. they are they nomadic and often are connected object and we call this category IoT. Since available power is very low its consumption becomes a key design parameter. Moreover, transducers transforming the harvested energy into electricity often give rise to very low voltage. The result is that the analog circuits of nomadic applications must work with sub 1-V supply voltages and power consumption in the tens of hundreds of nW range. Digital circuits are power efficient and for very low power circuits they ensure a better sensitivity to supply noise than analog counterparts. Therefore, for modem nomadic systems moving quickly to digital is an essential strategy. Ensuring ultra-low power atmedium-high resolution (9–12 bit) forrelatively low signal bandwidth (100 kHz–1 MHz) is a typical request. SAR converters and sigma-delta modulators are used. Techniques and recent circuit implementations capable of satisfying diverse ranges of specificationsfor mobile and autonomous systems are presented."
+    },
+    {
+        "title": "Notice of Removal: Design of an angular weighting template for coherent plane wave compounding in Fourier domain",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Chuan Chen",
+            "G.A.G.M. Hendriks",
+            "H.H.G. Hansen",
+            "C.L. de Korte"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8091659",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Leader-following formation control of multi-agent systems in fixed and switching directed networks with time-varying delays",
+        "conferenceTitle": "2017 29th Chinese Control And Decision Conference (CCDC)",
+        "data": "28-30 May 2017",
+        "authors": [
+            "Fen Zhang",
+            "Yanbang Zhang"
+        ],
+        "DOI": "10.1109/CCDC.2017.7978755",
+        "citation": 0,
+        "abstract": "This paper is concerned with leader-following formation problem for second-order multi-agent systems. A modified neighbor-based formation control algorithm with time-varying is constructed. Employing Lyapunov-Razumikhin theorem and linear matrix inequalities (LMIs) approach, respectively, the formation consensus conditions are derived to guarantee the agents achieve and maintain the desired formation in a fixed directed network. Moreover, LMIs approach for a fixed directed network can be extended straightforwardly to switching directed networks. Finally, a numerical example is given to illustrate the effectiveness of the proposed results."
+    },
+    {
+        "title": "Notice of Removal: Motion correction for multi-plane-transmit beamforming: A simulation study",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Yinran Chen",
+            "Jianwen Luo",
+            "Jan D'hooge"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8091663",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Notice of Removal: Feasibility study of dual-frequency chirp excitation for passive cavitation imaging",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Hsiang-Ching Lin",
+            "Chih-Kuang Yeh"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8092932",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Preface",
+        "conferenceTitle": "2017 IEEE 2nd International Conference on Cloud Computing and Big Data Analysis (ICCCBDA)",
+        "data": "28-30 April 2017",
+        "authors": [],
+        "DOI": "10.1109/ICCCBDA.2017.7951870",
+        "citation": 0,
+        "abstract": "2017 the 2nd IEEE International Conference on Cloud Computing and Big Data Analysis (ICCCBDA 2017) is a comprehensive conference which focuses on cloud computing and big data analysis. The main goal of the conference is to address and deliberate on the latest technical status and recent trends in the research and applications of cloud computing and big data analysis."
+    },
+    {
+        "title": "ALD, ALE and 2D Materials: Atomic Scale Processing for Optoelectronics Applications",
+        "conferenceTitle": "2017 Asia Communications and Photonics Conference (ACP)",
+        "data": "10-13 Nov. 2017",
+        "authors": [
+            "H. Knoops"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Many applications are seeing a trend towards miniaturization and utilization of nanoscale effects. In this presentation atomic-scale processing techniques offered by Oxford Instruments will be discussed and possible benefits for optoelectronics applications are highlighted."
+    },
+    {
+        "title": "Bode lecture: Learning from nature: When models meet multitudes",
+        "conferenceTitle": "2017 IEEE 56th Annual Conference on Decision and Control (CDC)",
+        "data": "12-15 Dec. 2017",
+        "authors": [],
+        "DOI": "10.1109/CDC.2017.8263628",
+        "citation": 0,
+        "abstract": "The following topics are dealt with: control system synthesis; linear systems; nonlinear control systems; stability; feedback; optimisation; closed loop systems; robust control; Lyapunov methods; and optimal control."
+    },
+    {
+        "title": "Notice of Removal: New model of echo-phase relating to speed-of-sound for quantitative reflection-mode ultrasound tomography",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Michael Jaeger",
+            "Martin Frenz"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8091985",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Keynotes",
+        "conferenceTitle": "2017 29th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)",
+        "data": "17-20 Oct. 2017",
+        "authors": [],
+        "DOI": "10.1109/SBAC-PAD.2017.7",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Notice of Removal: Time-resolved vector projectile imaging of urinary flow dynamics",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Takuro Ishii",
+            "Billy Y. S. Yiu",
+            "Alfred C. H. Yu"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8092466",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Notice of Removal: Monitoring of morphological change of deposited metallic thin film through internal friction of noncontacting piezoelectric oscillator",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Nobutomo Nakamura",
+            "Hirotsugu Ogi"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8092215",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Keynote - 1: The SpiNNaker Project: Past, Present and Future? by Dr. Simon Davidson",
+        "conferenceTitle": "2017 European Modelling Symposium (EMS)",
+        "data": "20-21 Nov. 2017",
+        "authors": [
+            "Simon Davidson"
+        ],
+        "DOI": "10.1109/EMS.2017.9",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and may include a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Conference tutorials",
+        "conferenceTitle": "2017 Fourth International Conference on Signal Processing, Communication and Networking (ICSCN)",
+        "data": "16-18 March 2017",
+        "authors": [],
+        "DOI": "10.1109/ICSCN.2017.8085412",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the tutorial presentations and a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Risk assessment in anesthesiology",
+        "conferenceTitle": "2017 International Multi-Conference on Engineering, Computer and Information Sciences (SIBIRCON)",
+        "data": "18-22 Sept. 2017",
+        "authors": [
+            "A. A. Smagin",
+            "P. V. Bulychev",
+            "L. P. Suitkina",
+            "D. V. Khabarov",
+            "M. V. Kochetkova"
+        ],
+        "DOI": "10.1109/SIBIRCON.2017.8109943",
+        "citation": 0,
+        "abstract": "The definition of operational risk is key to determining the tactics of surgical treatment, anesthesia and preventive measures, as well as to prove the real severity of the patients' condition."
+    },
+    {
+        "title": "Transfer Function Analysis Of Fractional Order Three Dimensional Electrically Coupled Cell Networks",
+        "conferenceTitle": "2017 21st National Biomedical Engineering Meeting (BIYOMUT)",
+        "data": "24 Nov.-26 Dec. 2017",
+        "authors": [
+            "Gokce Kasap",
+            "Seda Demir",
+            "Mahmut Un"
+        ],
+        "DOI": "10.1109/BIYOMUT.2017.8478816",
+        "citation": 0,
+        "abstract": "In this study, new fundamentals charecteristics and circuit model of the three dimensional electrically coupled cell networks are introduced in fractional domain. First, the general expression in matrise forms for the typical equivalent impedance and transfer function of the circuit network are derived by using node voltage analysis method in fractional domain equivalent impedance and transfer function are calculated in matrice form with the implicit analytical expression. Then, the effects of five system parameters (inductance(L), capasitance(C), the number of cell units(n) and fractional orders (α,β)) on the empedance and electrical network characteristics are investigated by the numerical computer simulations. Finally, PSPICE simulations which Show the experimental performance are applied to validate the study and simulation results are presented."
+    },
+    {
+        "title": "Notice of Removal: Shear wave speed: Becoming a clinically valuable biomarker",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Mark Palmeri"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8091948",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Notice of Removal: A comparison of Walsh and Maximum Length Sequence signal coding applied to time domain beamforming",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Carson Willey",
+            "Carlos Rentel"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8092433",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "IWSF Workshop Keynote",
+        "conferenceTitle": "2017 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)",
+        "data": "23-26 Oct. 2017",
+        "authors": [],
+        "DOI": "10.1109/ISSREW.2017.93",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "HCW Keynote Talk",
+        "conferenceTitle": "2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)",
+        "data": "29 May-2 June 2017",
+        "authors": [
+            "Ricky Kwok"
+        ],
+        "DOI": "10.1109/IPDPSW.2017.189",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Notice of Removal: Parameters impacting accuracy of ARFI-derived stiffness ratios: A simulation study with implications on measurement of dynamic myocardial stiffness",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Vaibhav Kakkad",
+            "Peter Hollender",
+            "Mark Palmeri",
+            "Gregg Trahey"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8092576",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Notice of Removal: Subwavelength motion-correction for ultrafast Ultrasound Localization Microscopy",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Vincent Hingot",
+            "Claudia Errico",
+            "Mickael Tanter",
+            "Olivier Couture"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8092755",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Photonic gauge potential and synthetic dimension with integrated photonics platforms",
+        "conferenceTitle": "2017 Conference on Lasers and Electro-Optics (CLEO)",
+        "data": "14-19 May 2017",
+        "authors": [
+            "S. Fan"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Photonic gauge potentials can be achieved in dynamically modulated photonic structures. Moreover, such a potential can be realized in a synthetic space with a frequency dimension, leading to novel opportunities for controlling the light spectrum."
+    },
+    {
+        "title": "Tutorials",
+        "conferenceTitle": "2017 7th International Conference on Power Systems (ICPS)",
+        "data": "21-23 Dec. 2017",
+        "authors": [],
+        "DOI": "10.1109/ICPES.2017.8387418",
+        "citation": 0,
+        "abstract": "The following topics are dealt with: power grids; distributed power generation; photovoltaic power systems; power generation control; power engineering computing; load flow; power supply quality; fault diagnosis; invertors; and smart power grids."
+    },
+    {
+        "title": "Semiconductor Polymer Dots for Optical Imaging and Phototherapy",
+        "conferenceTitle": "2017 Asia Communications and Photonics Conference (ACP)",
+        "data": "10-13 Nov. 2017",
+        "authors": [
+            "Changfeng Wu",
+            "C. Wu"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Semiconductor polymer dots exhibit superior brightness and tunable optical properties. This presentation describes the development of small polymer dots for biological imaging. Stimulated emission depletion (STED) imaging and Superresolution optical flunctuation imaging (SOFI) were demonstrated."
+    },
+    {
+        "title": "Notice of Removal: Low-cost 3D ultrasound with any probe: A sensor-based approach",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Carl Herickhoff",
+            "Matthew Morgan",
+            "Joshua Broder",
+            "Jeremy Dahl"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8092504",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Keynote Speakers",
+        "conferenceTitle": "2017 IEEE 25th International Requirements Engineering Conference (RE)",
+        "data": "4-8 Sept. 2017",
+        "authors": [],
+        "DOI": "10.1109/RE.2017.92",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Notice of Removal: Noncontact manipulation and evaluation of HeLa cells using ultrasound vibration",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Tomohiro Otuska",
+            "Ryota Yamamoto",
+            "Daisuke Koyama",
+            "Mami Matsukawa"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8092150",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Keynotes",
+        "conferenceTitle": "2017 IEEE 26th International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE)",
+        "data": "21-23 June 2017",
+        "authors": [],
+        "DOI": "10.1109/WETICE.2017.6",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Keynote address: Quo Vadis PKI?",
+        "conferenceTitle": "2017 International Conference on Public Key Infrastructure and its Applications (PKIA)",
+        "data": "14-15 Nov. 2017",
+        "authors": [
+            "C.E. Veni Madhavan"
+        ],
+        "DOI": "10.1109/PKIA.2017.8278950",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The talk presents the Digital Evolutionary trends that includes Blockchains, Cryptocurrencies and Trust System Infrastructure (TSI). The talk mentions about the PKI and its guarantee of the properties of accountability, auditability, authority, anonymity, privacy, authenticity, integrity, non-repudiability. The emerging applications of PKI including the digital tokens, digital money, digital finance and digital lockers would also be discussed. The talk also highlights few Digital Cryptocurrencies and the emerging trends of PKI."
+    },
+    {
+        "title": "Multimethod simulation and analytics for the entire business lifecycle",
+        "conferenceTitle": "2017 Winter Simulation Conference (WSC)",
+        "data": "3-6 Dec. 2017",
+        "authors": [
+            "Derek Magilton",
+            "Arash Mahdavi"
+        ],
+        "DOI": "10.1109/WSC.2017.8248146",
+        "citation": 0,
+        "abstract": "AnyLogic Company produces the standard in multimethod modeling technology which equates to increased efficiency and less risk when tackling complex business challenges. This unmatched flexibility is found in all AnyLogic products allowing users to capture the complexity of virtually any system, at any level of detail, and gain deeper insight into the interdependent processes inside and around an organization. Experience the latest business challenges solved using AnyLogic Simulation Software and anyLogistix Supply Chain Software in Cardinal Health, CSX, DHL, Deloitte, GE, GlaxoSmithKline and more."
+    },
+    {
+        "title": "Notice of Removal: Fabrication and analysis of a flexible PZT-polymer laminated composite cantilever beam in sensing and actuation modes",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Zheng Min",
+            "Mohammad Gudarzi",
+            "Qing-Ming Wang"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8091883",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Simulation models in Excel, Tableau, power BI and mobile apps with analytic solver® software",
+        "conferenceTitle": "2017 Winter Simulation Conference (WSC)",
+        "data": "3-6 Dec. 2017",
+        "authors": [
+            "Daniel H. Fylstra"
+        ],
+        "DOI": "10.1109/WSC.2017.8248150",
+        "citation": 0,
+        "abstract": "Deploying simulation models to “business consumers” is now easier than ever. Analytic Solver® software offers a simple, point-and-click way to create and test analytic models using your web browser or your Excel spreadsheet — then, with just a few mouse clicks, make those models run in Tableau and Power BI dashboards. Your models can connect to any Tableau or Power BI data source, display results using charts and tables, and they'll re-run whenever the data changes. If you'd rather deploy models on your own website, or in your mobile app, that is surprisingly easy as well. With powerful tools for Monte Carlo simulation and risk analysis, conventional and stochastic optimization, forecasting, data mining and text mining built in, you can use Analytic Solver to quickly build and deploy models that yield real business impact. We'll demonstrate these capabilities in our Vendor Tutorial session at WSC 2017."
+    },
+    {
+        "title": "Loss and crosstalk solutions in fast silicon photonic switch systems",
+        "conferenceTitle": "2017 IEEE Photonics Society Summer Topical Meeting Series (SUM)",
+        "data": "10-12 July 2017",
+        "authors": [
+            "Dominic J. Goodwill",
+            "Hamid Mehrvar",
+            "Eric Bernier"
+        ],
+        "DOI": "10.1109/PHOSST.2017.8012648",
+        "citation": 0,
+        "abstract": "Silicon photonic carrier-injection switches can enable Petabits/s packet switch cores. These switches are compatible with 100GigE and future 400GigE link budgets, using a crosstalk suppression topology, aggressive loss reduction including 0.001dB crossings, polarization control and rapid auto-calibration, and by removing self-heating transients to prevent dynamic crosstalk."
+    },
+    {
+        "title": "Notice of Removal: Effect of underwater ultrasound exposure on growth of plant roots and leaves",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Yuta Kurashina",
+            "Tatsuya Yamashita",
+            "Shuichi Kurabayashi",
+            "Keita Ando",
+            "Kenjiro Takemura"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8092539",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Notice of Removal: Orthogonal Golay pairs-coded diverging wave compounding for high-quality and high-frame-rate ultrasound imaging",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Feifei Zhao",
+            "Jianwen Luo"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8091811",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Notice of Removal: Wolfspeed 50kW SiC inverter modules",
+        "conferenceTitle": "2017 IEEE 44th Photovoltaic Specialist Conference (PVSC)",
+        "data": "25-30 June 2017",
+        "authors": [
+            "John Mookken"
+        ],
+        "DOI": "10.1109/PVSC.2017.8366002",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Keynote",
+        "conferenceTitle": "2017 IEEE Symposium on Visualization for Cyber Security (VizSec)",
+        "data": "2-2 Oct. 2017",
+        "authors": [
+            "Anthony Alexander Gates"
+        ],
+        "DOI": "10.1109/VIZSEC.2017.8062173",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Quantum walk searches",
+        "conferenceTitle": "2017 IEEE Photonics Society Summer Topical Meeting Series (SUM)",
+        "data": "10-12 July 2017",
+        "authors": [
+            "Mark Hillery"
+        ],
+        "DOI": "10.1109/PHOSST.2017.8012719",
+        "citation": 0,
+        "abstract": "Quantum walks, quantum versions of random walks, can find structural anomalies in graphs with a quantum speedup. Examples of such anomalies are distinguished vertices, extra edges, and other structures that break the symmetry of the graph."
+    },
+    {
+        "title": "The transistor 70th anniversary",
+        "conferenceTitle": "2017 First International Conference on Embedded & Distributed Systems (EDiS)",
+        "data": "17-18 Dec. 2017",
+        "authors": [
+            "Bernard Goossens"
+        ],
+        "DOI": "10.1109/EDIS.2017.8284021",
+        "citation": 0,
+        "abstract": "In 1947, John Bardeen, Walter Brattain and William Shockley invented the transistor. Ten years later, the first integrated circuit was built and in 1968, Robert Noyce and Gordon Moore founded the Intel company. Gordon Moore predicted that the number of transistors on a die would double every year. In 1975, four years after the introduction of the first microprocessor, he updated his prediction, saying that the growth would then slow down to a doubling every two years. Such a growth rate leads to multiply the number of transistors by 1000 every 20 years. The first microprocessor had 2300 transistors in 1971. In 1991, Intel launched the 486SX with 1.2M transistors and in 2011, the Sandy Bridge processors reached 500M transistors. Whhat did we do with this transistor budget? If the Moore's law continues for another 20 years, in 2037, we should reach 1 Trillion transistors. WThat will we do with them? These are the questions we will address in the presentation, looking at microarchitectural techniques to increase performance such as pipelining, superscalar and out-of-order execution, multiple core and manvcore designs."
+    },
+    {
+        "title": "Heterogeneous SoCs",
+        "conferenceTitle": "2017 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "24-27 April 2017",
+        "authors": [
+            "Subramanian S. Iyer"
+        ],
+        "DOI": "10.1109/VLSI-DAT.2017.7939689",
+        "citation": 0,
+        "abstract": "SoCs have benefitted immensely from the >1000× linear scaling of Silicon. However, interconnecting die on PCBs has not scaled appreciably in the last several decades and we have had to rely on complex power hungry serializers and deserializers. That is changing now and we show that it can have significant impact on the way we design and integrate complex systems as well as their performance. At UCLA, we have been developing a Simple Universal Parallel IntERface (Super) for the heterogeneous integration of diverse hard IP. Such methods promise to reduce the NRE by 10–20× and reduce the time to market from a few years to a few months, potentially democratizing the chip design and system integration business."
+    },
+    {
+        "title": "Notice of Removal: Development of highly efficient piezoelectric gas composite probe for air-coupled ultrasonic testing",
+        "conferenceTitle": "2017 IEEE International Ultrasonics Symposium (IUS)",
+        "data": "6-9 Sept. 2017",
+        "authors": [
+            "Toshihiro Tsuji",
+            "Daitaro Kitahara",
+            "Yasuhiro Tanaka",
+            "Yoshikazu Ohara",
+            "Tsuyoshi Mihara"
+        ],
+        "DOI": "10.1109/ULTSYM.2017.8092260",
+        "citation": 0,
+        "abstract": "Removed."
+    },
+    {
+        "title": "Fast graph scan statistics optimization using algebraic fingerprints",
+        "conferenceTitle": "2017 IEEE International Conference on Big Data (Big Data)",
+        "data": "11-14 Dec. 2017",
+        "authors": [
+            "Jose Cadena",
+            "Saliya Ekanayake",
+            "Anil Vullikanti"
+        ],
+        "DOI": "10.1109/BigData.2017.8258007",
+        "citation": 0,
+        "abstract": "Graph scan statistics have become popular for event detection in networks. This methodology involves finding connected subgraphs that maximize a certain anomaly function, but maximizing these functions is computationally hard in general. We develop a novel approach for graph scan statistics with connectivity constraints. Our algorithm Approx-MultilinearScan relies on an algebraic technique called multilinear detection, and it improves over prior methods for large networks. We also develop a Pregel-based parallel version of this algorithm in Giraph, MultilinearScanGiraph, that allows us to solve instances with over 40 million edges, which is more than one order of magnitude larger than existing methods."
     }
 ]

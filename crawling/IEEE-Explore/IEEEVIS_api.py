@@ -45,8 +45,9 @@ def save_data(year, papers):
 
 def fetch_and_save_data(year):
     search_params = {
-        "query": "ieee Vis",
+        "query": "Visualization conference pacific",
         "content_type": "Conferences",
+        "publisher" : "IEEE",
         "start_year": year,
         "end_year": year,
         "apikey": api_key,

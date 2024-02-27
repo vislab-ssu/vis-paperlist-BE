@@ -1,18 +1,14 @@
 [
     {
-        "title": "Comparative assessment of polarimetric features estimation in fully polarimetric 3D-ISAR imaging system",
-        "conferenceTitle": "International Conference on Radar Systems (RADAR 2022)",
-        "data": "24-27 Oct. 2022",
+        "title": "The Supercomputer “Fugaku”",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
         "authors": [
-            "F. Mancuso",
-            "E. Giusti",
-            "A. Kumar",
-            "S. Ghio",
-            "M. Martorella"
+            "Mitsuhisa Sato"
         ],
-        "DOI": "10.1049/icp.2022.2343",
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768096",
         "citation": 3,
-        "abstract": "Fully polarimetric 3D-ISAR helps to achieve better three-dimensional reconstruction with respect to the single polarization 3D-ISAR approach. This is useful to obtain more populated point clouds and to improve the estimation of the interferometric phases of the scattering centres that belong to the target. A more reliable reconstruction improves the performance of ATR (Automatic Target Recognition) algorithms. The whole process relies upon the scattering centres extraction procedure, through which the complex amplitudes of the scatterers are estimated. By using polarimetry within this iterative procedure, better results can be obtained. More than one approach is available in the literature: the Polarimetric CLEAN searches for the channel where the brightest scatterer has the highest power, while the Modified Polarimetric CLEAN arranges the data (iteration by iteration) in a subspace where either the SNR is maximum or the interference is minimum.We analyzed the performance of the two techniques in terms of accuracy of polarimetric features estimation by using a simulated target. The results suggest that the Polarimetric CLEAN already performs remarkably well, but there is still space for improvement, and the Modified Polarimetric CLEAN can actually achieve better results."
+        "abstract": "Summary form only given. The supercomputer “Fugaku” is an exascale system, which is operated since March 2021 in R-CCS, Japan. Fugaku is an ultra-scale “general-purpose” manycore-based system with 158,976 nodes, 7.6M cores in total. We developed a new manycore processor, A64FX, designed for Fugaku, well as a system including interconnect and a storage subsystem with the industry partner, Fujitsu. A64FX supports Arm instruction sets with Scalable Vector Extension (SVE) SIMD instruction sets and is equipped with HBM2 memory. Since 2014 we have been carrying out a national project named as the FLAGSHIP 2020 Project to develop “Fugaku” system with a variety of scientific applications with computational science researchers. The “co-design” of the system and applications was a key to making it power efficient and high performance. In this talk, the system and performance of Fugaku will be presented as well as an overview of the FLAGSHIP 2020 project."
     },
     {
         "title": "Video Action Detection: Analysing Limitations and Challenges",
@@ -22,32 +18,6 @@
         "DOI": "10.1109/CVPRW56347.2022.00538",
         "citation": 2,
         "abstract": "Beyond possessing large enough size to feed data hungry machines (eg, transformers), what attributes measure the quality of a dataset? Assuming that the definitions of such attributes do exist, how do we quantify among their relative existences? Our work attempts to explore these questions for video action detection. The task aims to spatio-temporally localize an actor and assign a relevant action class. We first analyze the existing datasets on video action detection and discuss their limitations. Next, we propose a new dataset, Multi Actor Multi Action (MAMA) which overcomes these limitations and is more suitable for real world applications. In addition, we perform a biasness study which analyzes a key property differentiating videos from static images: the temporal aspect. This reveals if the actions in these datasets really need the motion information of an actor, or whether they predict the occurrence of an action even by looking at a single frame. Finally, we investigate the widely held assumptions on the importance of temporal ordering: is temporal ordering important for detecting these actions? Such extreme experiments show existence of biases which have managed to creep into existing methods inspite of careful modeling."
-    },
-    {
-        "title": "The Supercomputer “Fugaku”",
-        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
-        "data": "18-21 April 2022",
-        "authors": [
-            "Mitsuhisa Sato"
-        ],
-        "DOI": "10.1109/VLSI-DAT54769.2022.9768096",
-        "citation": 2,
-        "abstract": "Summary form only given. The supercomputer “Fugaku” is an exascale system, which is operated since March 2021 in R-CCS, Japan. Fugaku is an ultra-scale “general-purpose” manycore-based system with 158,976 nodes, 7.6M cores in total. We developed a new manycore processor, A64FX, designed for Fugaku, well as a system including interconnect and a storage subsystem with the industry partner, Fujitsu. A64FX supports Arm instruction sets with Scalable Vector Extension (SVE) SIMD instruction sets and is equipped with HBM2 memory. Since 2014 we have been carrying out a national project named as the FLAGSHIP 2020 Project to develop “Fugaku” system with a variety of scientific applications with computational science researchers. The “co-design” of the system and applications was a key to making it power efficient and high performance. In this talk, the system and performance of Fugaku will be presented as well as an overview of the FLAGSHIP 2020 project."
-    },
-    {
-        "title": "Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems",
-        "conferenceTitle": "2022 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
-        "data": "14-23 March 2022",
-        "authors": [
-            "Haoyu Yang",
-            "Kit Fung",
-            "Yuxuan Zhao",
-            "Yibo Lin",
-            "Bei Yu"
-        ],
-        "DOI": "10.23919/DATE54114.2022.9774671",
-        "citation": 2,
-        "abstract": "Legalization conducts refinements on post-globalplacement cell location to compromise design constraints and parameters. These include placement fence regions, power/ground rail alignments, timing, wire length and etc. In advanced technology nodes, designs can easily contain millions of mutiple-row standard cells, which challenges the scalability of modern legalization algorithms. In this paper, for the first time, we investigate dedicated legalization algorithms on heterogeneous platforms, which promises intelligent usage of CPU and GPU resources and hence provides new algorithm design methodologies for large scale physical design problems. Experimental results on IC/CAD 2017 and ISPD 2015 contest benchmarks demonstrate the effectiveness and the efficiency of the proposed algorithm, compared to the state-of-the-art legalization solution for mixedcell-height designs."
     },
     {
         "title": "Semiconductor Evolution for Chip and System Design- From 2D Scaling to 3D Heterogeneous Integration",
@@ -270,22 +240,6 @@
         "abstract": "Presents the introductory welcome message from the conference proceedings. May include the conference officers' congratulations to all involved with the conference event and publication of the proceedings record."
     },
     {
-        "title": "A multi-agent framework for scheduling fully electrified public transport",
-        "conferenceTitle": "13th Mediterranean Conference on Power Generation, Transmission, Distribution and Energy Conversion (MEDPOWER 2022)",
-        "data": "7-9 Nov. 2022",
-        "authors": [
-            "S. Sharma",
-            "S. Bhattacharya",
-            "D. Kiran",
-            "B. Hu",
-            "M. Prandtstetter",
-            "B. Azzopardi"
-        ],
-        "DOI": "10.1049/icp.2023.0057",
-        "citation": 0,
-        "abstract": "This paper describes a framework for scheduling electric buses with the aim of minimizing their overall operational costs as well as the required fleet. The scheduling problem of electric buses comes with several real-time constraints such as the location of the charging stations, number of time-tabled trips, the distance between the depots, etc. The main objective is to minimize the running costs of the electric buses on the road network while satisfying the underlying constraints. The cooperative multi-agent model segregates the scheduling problem into a master agent and a bus agent through asymmetric communication, and this decentralized approach allows the scheduling to happen in a real-time scenario. The proposed scheme is tested on the public transport network of the Maltese Islands."
-    },
-    {
         "title": "Workshop Committees",
         "conferenceTitle": "2022 17th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)",
         "data": "3-4 Nov. 2022",
@@ -400,20 +354,6 @@
         "abstract": "Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE."
     },
     {
-        "title": "Additive Manufacturing in Electronics – Filament Overview and Special Focus on Carbon Black Filament Properties Investigation",
-        "conferenceTitle": "PCIM Europe 2022; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "data": "10-12 May 2022",
-        "authors": [
-            "Andre Schuhl",
-            "Katharina J. Schiffhauer",
-            "Emanuel Lemnitz",
-            "Ulf Schwalbe"
-        ],
-        "DOI": "10.30420/565822146",
-        "citation": 0,
-        "abstract": "Advantages of 3D printing have led to its use in most diverse industries plus the low budget segment in printed electronics. Printing of FDM-printed PCBs with a low budget printer is possible e.g., a connection for small low power sensor and visualisation applications. Already the filaments research for additive manufacturing shows, that the FDM-printed PCB conductivity must be significantly lower compared to copper use. The investigation of FDM-printed PCBs versus conventional PCBs regarding their current-carrying capacity and thermal properties confirm comparable results. The conductive filament can only safely conduct currents in the single-digit mA range at wider cross-sections. Upon higher current application, it exhibits hot conductor properties and a permanently lower conductor resistance. The results reveal new uses, and these provide the opportunity for further investigations."
-    },
-    {
         "title": "Abstract of Presentations on March 7th",
         "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
         "data": "7-9 March 2022",
@@ -450,17 +390,6 @@
         "DOI": "10.1109/VLSI-TSA54299.2022.9770974",
         "citation": 0,
         "abstract": "Summary form only given. The complete presentation was not made available for publication as part of the conference proceedings. As the feature size of silicon-based integrated circuits (ICs) approaches the physical limit, short-channel effects appear, gate control attenuates, and leakage current increases, which seriously affects transistor performance and causes chip failure. Due to the inherent thickness of bulk silicon, the physical area cannot be further reduced, which restricts the area efficiency of silicon-based ICs. In addition, the speed mismatch between memory readout and logic operation, and the separation of memory and computing units together form the memory wall bottleneck in silicon-based ICs. With unique characteristics, including no dangling bond surface, atomic-level thickness, abundant adjustable energy bands, excellent optical electrostatic properties etc., two-dimensional (2D) materials have the potential to enhance gate control, reduce leakage, improve energy and area efficiency, and realize the integration of perception, memory and computing. This report discusses the roadmap for the fusion of 2D materials and silicon ICs, including alleviating the problems faced by silicon ICs from the application of 2D materials in gate-all-around, memory and logic transistors, and enabling the creation of an all-in-one sensing, memory and computing system. Finally, it provides an outlook on the challenges and promising paths to fusing 2D materials with silicon ICs for largescale applications."
-    },
-    {
-        "title": "Complex Frequency",
-        "conferenceTitle": "2022 IEEE Power & Energy Society General Meeting (PESGM)",
-        "data": "17-21 July 2022",
-        "authors": [
-            "Federico Milano"
-        ],
-        "DOI": "10.1109/PESGM48719.2022.9917164",
-        "citation": 0,
-        "abstract": "The paper introduces the concept of complex frequency. The imaginary part of the complex frequency is the variation with respect of a synchronous reference of the local bus frequency as commonly defined in power system studies. The real part is defined based on the variation of the voltage magnitude. The latter term is crucial for the correct interpretation and analysis of the variation of the frequency at each bus of the network. The paper also develops a set of differential equations that describe the link between complex powers and complex frequencies at network buses in transient conditions. No simplifications are assumed the usual approximations of the models utilized for the transient stability analysis of power systems. A variety of analytical and numerical examples show the applications and potentials of the proposed concept."
     },
     {
         "title": "Blockchain networks' energy consumption and environmental impact: Economic, political, and social discourses and key argumentations",
@@ -620,6 +549,17 @@
         "DOI": "10.1109/ISSCC42614.2022.9731553",
         "citation": 0,
         "abstract": "Summary form only given, as follows. A complete record of the tutorial workshop was not made available for publication as part of the conference proceedings. The IEEE SSCS Women in Circuits together with ISSCC will be sponsoring the first “Next-Generation Circuit Designer 2022” for young professionals and students. Next-Generation Circuit Designer 2022 is a virtual educational workshop for a diverse set of graduate and undergraduate students, and young professionals who have graduated with B.S. degrees within the last two years, who are interested in learning how to excel at academic and industry careers in computer science, computer, and electrical engineering."
+    },
+    {
+        "title": "Integrated Lithium Niobate Photonics: When Performance Meets Scalability",
+        "conferenceTitle": "2022 Conference on Lasers and Electro-Optics Pacific Rim (CLEO-PR)",
+        "data": "31 July-5 Aug. 2022",
+        "authors": [
+            "Mian Zhang"
+        ],
+        "DOI": "10.1109/CLEO-PR62338.2022.10432518",
+        "citation": 0,
+        "abstract": "Thin film lithium niobate photonics can provide high performance and scalable solution for optical communication and many emerging applications. We discuss the advantage, challenge and future promises of this platform."
     },
     {
         "title": "Copyright",
@@ -1029,21 +969,6 @@
         "DOI": "10.1109/VRW55335.2022.00006",
         "citation": 0,
         "abstract": "Provides an abstract for each of the tutorial presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
-    },
-    {
-        "title": "The implementation and demonstration of secured EVCI backend systems based on the public key infrastructure",
-        "conferenceTitle": "CIRED Porto Workshop 2022: E-mobility and power distribution systems",
-        "data": "2-3 June 2022",
-        "authors": [
-            "Y. Lim",
-            "S. Yu",
-            "G. Park",
-            "K. Lee",
-            "K. Park"
-        ],
-        "DOI": "10.1049/icp.2022.0700",
-        "citation": 0,
-        "abstract": "Along with the CO2 emission regulation in the transportation sector, the electric vehicles among ecofriendly mobilities are become mainstream and somewhat overlooked technical issues are getting attention from those around. One of them is the communication security and it became no longer an option but a necessity. In this paper, we would like to introduce the results of implementing the pilot systems and integrated testing for electric vehicle charging infrastructure E-to-E security. PKI systems were implemented based on ISO/IEC 15118 which is the global communication standard between EV and EVSE, and the other pilot systems were configured and upgraded as almost same level as the field devices. And through this paper, we eventually wish to provide valid contributions to EVCI stakeholders for the next level of charging services."
     },
     {
         "title": "Surface Dynamics of Bi2Te3 Measured by High Energy Resolution Photoemission Spectroscopy using a Time- and Angle-resolved Time-of-Flight Analyzer",
@@ -1500,17 +1425,6 @@
         "abstract": "Summary form only. Presents a summary of the conference tutorial."
     },
     {
-        "title": "Development of a Novel Soiling Chamber for Testing Antisoiling Coatings",
-        "conferenceTitle": "2022 IEEE 49th Photovoltaics Specialists Conference (PVSC)",
-        "data": "5-10 June 2022",
-        "authors": [
-            "Matthew T Muller"
-        ],
-        "DOI": "10.1109/PVSC48317.2022.9938837",
-        "citation": 0,
-        "abstract": "This study presents the development and validation of a novel soiling chamber. The chamber is novel in that it includes wind induced soiling, feedback from a low-cost particulate monitor, and in-situ Isc measurements. Validation with side-by-side identical modules within the chamber produced soiling losses of 7% over 19 hours while the soiling ratio was always within 0.5% between the two modules. Initial side-by-side testing of an anti-soiling coated module versus and uncoated module demonstrated significant wind induced cleaning of the coated module. Specifically, the coated module showed only 0.8% soiling loss while the uncoated module reached as much as 10.5% soiling loss."
-    },
-    {
         "title": "Author Index",
         "conferenceTitle": "2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)",
         "data": "16-16 Oct. 2022",
@@ -1712,19 +1626,6 @@
         "abstract": "Presents the table of contents/splash page of the proceedings record"
     },
     {
-        "title": "Optimising transient earth fault protection in peterson coil and ungrounded systems",
-        "conferenceTitle": "16th International Conference on Developments in Power System Protection (DPSP 2022)",
-        "data": "7-10 March 2022",
-        "authors": [
-            "A. Wixon",
-            "P. Newman",
-            "S. Injeti"
-        ],
-        "DOI": "10.1049/icp.2022.0964",
-        "citation": 0,
-        "abstract": "This paper describes the tests undertaken at GE to verify that the Transient Earth Fault Detection (TEFD) scheme, proposed for use on the trial system, functions correctly for all fault conditions. A supervisory function to stabilise the TEFD algorithm during switching operations and temporary faults is proposed. Resetting and latching criteria for TEFD is analysed. A TEFD based blocking scheme is suggested for detecting single earth bus bar faults in resonant and ungrounded systems."
-    },
-    {
         "title": "2022 IEEE Radar Conference (RadarConf22) Proceedings",
         "conferenceTitle": "2022 IEEE Radar Conference (RadarConf22)",
         "data": "21-25 March 2022",
@@ -1848,21 +1749,6 @@
         "abstract": "There are increasing concerns on the security of IoT devices. Due to limited OS/firmware capability and insufficient external support in IoT devices, a new security architecture becomes imminent. “Root of Trust” and “cyber resilience” strengthened with hardware are two key security measures to make IoT devices less vulnerable to cyberattacks and have ability to recover by itself after attacks. Secure MCU, secure Memory and Firmware are trio anchors for effective secure platforms in IoT devices. In this speech, how to integrate firmware, MCU and new secure Flash memory to build an effective secure IoT platforms is explored. There are tremendous opportunities for innovation in integrated MCU + Secure Flash memory solutions."
     },
     {
-        "title": "Design and analysis of air pressure reducer for aviation",
-        "conferenceTitle": "CSAA/IET International Conference on Aircraft Utility Systems (AUS 2022)",
-        "data": "17-20 Aug. 2022",
-        "authors": [
-            "D. Jiang",
-            "X. Fang",
-            "H. Li",
-            "B. Qian",
-            "H. Yang"
-        ],
-        "DOI": "10.1049/icp.2022.1517",
-        "citation": 0,
-        "abstract": "In order to meet the requirements of fuel tank inerting system, a pressure reducer with low pressure and large flow was designed. SolidWorks Flow Simulation fluid analysis is used to design the product channel to ensure the streamline design of the product internal channel. In order to have good output pressure characteristics and flow characteristics, this design uses the inlet and outlet balance structure design, so that the product pressure stability, with high reliability and safety, and theoretical calculation of the relevant structure, the design and improvement of the pressure reducer has a good reference."
-    },
-    {
         "title": "Abstract of Presentations on March 9th",
         "conferenceTitle": "2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech)",
         "data": "7-9 March 2022",
@@ -1944,5 +1830,79 @@
         "DOI": "10.1109/ICCCI54379.2022.9741069",
         "citation": 0,
         "abstract": "Session Plan."
+    },
+    {
+        "title": "[Keynote & Turorial Speakers - 8 Abstracts]",
+        "conferenceTitle": "2022 2nd International Conference on Power Electronics & IoT Applications in Renewable Energy and its Control (PARC)",
+        "data": "21-22 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/PARC52418.2022.9726656",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote & tutorial presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "IEEE ICCE 2022 Industry Forum",
+        "conferenceTitle": "2022 IEEE International Conference on Consumer Electronics (ICCE)",
+        "data": "7-9 Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCE53296.2022.9730264",
+        "citation": 0,
+        "abstract": "IEEE ICCE 2022 Industry Forum."
+    },
+    {
+        "title": "Tutorials",
+        "conferenceTitle": "2022 IEEE International Solid-State Circuits Conference (ISSCC)",
+        "data": "20-26 Feb. 2022",
+        "authors": [],
+        "DOI": "10.1109/ISSCC42614.2022.9731568",
+        "citation": 0,
+        "abstract": "There are a total of 12 tutorials this year on 12 different topics. Each tutorial, selected through a competitive process within each subcommittee of the ISSCC, presents the basic concepts and working principles of a single topic. These tutorials are intended for non-experts, graduate students and practicing engineers who wish to explore and understand a new topic. These are listed here."
+    },
+    {
+        "title": "Copyright",
+        "conferenceTitle": "2022 29th IEEE International Conference on Electronics, Circuits and Systems (ICECS)",
+        "data": "24-26 Oct. 2022",
+        "authors": [],
+        "DOI": "10.1109/ICECS202256217.2022.9970869",
+        "citation": 0,
+        "abstract": "Copyright and Reprint Permission: Abstracting is permitted with credit to the source. Libraries are permitted to photocopy beyond the limit of U.S. copyright law for private use of patrons those articles in this volume that carry a code at the bottom of the first page, provided the per-copy fee indicated in the code is paid through Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923. For reprint or republication permission, email to IEEE Copyrights Manager at pubspermissions@ieee.org. All rights reserved. Copyright ©2022 by IEEE."
+    },
+    {
+        "title": "Back Page",
+        "conferenceTitle": "2022 International Interdisciplinary Humanitarian Conference for Sustainability (IIHC)",
+        "data": "18-19 Nov. 2022",
+        "authors": [],
+        "DOI": "10.1109/IIHC55949.2022.10059788",
+        "citation": 0,
+        "abstract": "Back Page."
+    },
+    {
+        "title": "Circuits and Architectures for Next-generation Attentive & Intelligent Systems",
+        "conferenceTitle": "2022 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "18-21 April 2022",
+        "authors": [
+            "Massimo Alioto"
+        ],
+        "DOI": "10.1109/VLSI-DAT54769.2022.9768068",
+        "citation": 0,
+        "abstract": "Ultra-low power attentive systems with always-on operation and signal monitoring with a disproportionately higher peak performance are now being in high demand, due to the convergence of AI and IoT. In this talk, circuits and architectures to enable exceptionally low power consumption in the common case while achieving high peak performance are discussed for next-generation intelligent systems. Several silicon demonstrations are presented for accelerators, processors and SRAMs with enhanced peak performance above traditionally allowed at nominal voltage, yet at reduced minimum energy. Energy-quality scaling is explored as additional dimension to break the conventional performance-energy tradeoff in error-resilient applications such as AI and vision, from networks on chip to memories and accelerators. Further performance and energy improvements are discussed through uncommonly flexible in-memory broad-purpose computing frameworks for true data locality, from buffering to signal conditioning and neural net workloads. Finally, challenges and opportunities for the decade ahead are discussed to enable next-generation attentive & intelligent systems with divergently high peak performance, common-case performance and low minimum power."
+    },
+    {
+        "title": "Embedded tutorial: Designing thermal interface materials for manufacturability and ease of use",
+        "conferenceTitle": "2022 38th Semiconductor Thermal Measurement, Modeling & Management Symposium (SEMI-THERM)",
+        "data": "21-25 March 2022",
+        "authors": [],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Designing high end thermal interface material for performance is only one interface materials can be applied by the end customer is a key design consideration. As applications have changed and become more sensitive to certain conditions, the design of the TIMs have had to change as well to ensure the user has a good experience. As part of improving the manufacturability automation is becoming more popular and new automation methods have been developed. Today's materials must account for both manual application and application by machine automation."
+    },
+    {
+        "title": "Keynote Speeches [4 abstracts]",
+        "conferenceTitle": "2022 5th International Conference on Computing and Informatics (ICCI)",
+        "data": "9-10 March 2022",
+        "authors": [],
+        "DOI": "10.1109/ICCI54321.2022.9756101",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
     }
 ]

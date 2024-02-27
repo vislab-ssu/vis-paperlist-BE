@@ -1,1802 +1,2164 @@
 [
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
+        "title": "A Time-Of-Flight Depth Sensor - System Description, Issues and Solutions",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "S.B. Gokturk",
+            "H. Yalcin",
+            "C. Bamji"
+        ],
+        "DOI": "10.1109/CVPR.2004.291",
+        "citation": 218,
+        "abstract": "This paper describes a CMOS-based time-of-flight depth sensor and presents some experimental data while addressing various issues arising from its use. Our system is a single-chip solution based on a special CMOS pixel structure that can extract phase information from the received light pulses. The sensor chip integrates a 64x64 pixel array with a high-speed clock generator and ADC. A unique advantage of the chip is that it can be manufactured with an ordinary CMOS process. Compared with other types of depth sensors reported in the literature, our solution offers significant advantages, including superior accuracy, high frame rate, cost effectiveness and a drastic reduction in processing required to construct the depth maps. We explain the factors that determine the resolution of our system, discuss various problems that a time-of-flight depth sensor might face, and propose practical solutions."
     },
     {
-        "title": "Open Control Systems - The Importance of Industrial Standards",
-        "conferenceTitle": "Open Control Systems - The Importance of Industrial Standards",
-        "data": "26-26 May 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
+        "title": "Robust Background-Subtraction for Person Detection in Thermal Imagery",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "J.W. Davis",
+            "V. Sharma"
+        ],
+        "DOI": "10.1109/CVPR.2004.431",
+        "citation": 51,
+        "abstract": "We present a new contour-based background-subtraction technique to detect people in widely varying thermal imagery. Statistical background-subtraction is first used to identify local regions-of-interest. Within each region, gradient information in the foreground and background are combined to form a contour saliency map. After thinning, an A* path-constrained search along watershed boundaries is used to complete any broken contour segments. Lastly, the contour image is flood-filled to produce silhouettes. Results are presented that demonstrate the robustness of the approach to detect people across a wide range of thermal imagery using a fixed set of parameters."
     },
     {
-        "title": "IEE Seminar - Railway Condition Monitoring - Why? What? How? - Cover",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
+        "title": "Pedestrian Detection and Tracking in Far Infrared Images",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "M. Yasuno",
+            "N. Yasuda",
+            "M. Aoki"
+        ],
+        "DOI": "10.1109/CVPR.2004.417",
+        "citation": 22,
+        "abstract": "In this paper describes an approach for pedestrian detection in far infrared images. The height of a camera was set up so that people's head might be photoed by the vertical central part of images. In infrared images pedestrians belong to the upper range in the grey-level. Therefore, detects the core (especially face) of a head using the P-tile method. In this approach detects the head area candidate using binarization variable threshold in the search region around core, lowering a threshold. And it makes the search area for detection body and legs. Search area makes below head area candidate. And this method tracks pedestrian after first order prediction. First order prediction uses center of gravity each region and time series."
     },
     {
-        "title": "Front Inside Cover [blank]",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE COTS and SOUP Seminar (Ref. No. 2004/10728)",
-        "data": "21-21 Oct. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE COTS and SOUP Seminar (Ref. No. 2004/10728)",
-        "data": "21-21 Oct. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "2004 IEE Antenna Measurements and SAR, AMS 2004",
-        "data": "25-26 May 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "1st European Conference on Visual Media Production (CVMP) 2004",
-        "data": "15-16 March 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "Open Control Systems - The Importance of Industrial Standards",
-        "data": "26-26 May 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker Page",
-        "conferenceTitle": "2004 IEE Seminar on Ultra Wideband Communications Technologies and System Design",
-        "data": "8-8 July 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "Open Control Systems - The Importance of Industrial Standards",
-        "data": "26-26 May 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Telecommunications Hot Topics Forum 2004 (Ref. No. 2004/10757)",
-        "data": "9-10 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Notes",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank Page",
-        "conferenceTitle": "IEE Target Tracking 2004: Algorithms and Applications",
-        "data": "23-24 March 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank Page",
-        "conferenceTitle": "Second International Conference on Power Electronics, Machines and Drives (PEMD 2004).",
-        "data": "31 March-2 April 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Notes",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE COTS and SOUP Seminar (Ref. No. 2004/10728)",
-        "data": "21-21 Oct. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "The IEE Seminar on Developments in Control in the Water Industry - Cover",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "Microtechnology Meets Nanoscience - A commercial Opportunity?",
-        "data": "8-8 July 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Technical Seminar on Antenna Measurements and SAR (AMS 2004)",
-        "conferenceTitle": "2004 IEE Antenna Measurements and SAR, AMS 2004",
-        "data": "25-26 May 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Telecommunications Hot Topics Forum 2004 (Ref. No. 2004/10757)",
-        "data": "9-10 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "[Back cover]",
-        "conferenceTitle": "Fifth IEE International Conference on 3G Mobile Communication Technologies",
-        "data": "18-20 Oct. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "Presents the back cover of this proceedings volume."
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Notes [blanks]",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "[Back cover]",
-        "conferenceTitle": "The IEE New EMC Issues in Design: Techniques, Tools and Components Seminar",
-        "data": "28-28 April 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "Presents the back cover of this proceedings volume."
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Institute of Measurement and Control Mini Symposium 'Hardware in the Loop - Integrating Simulation and Real Hardware'",
-        "conferenceTitle": "2004 Mini Symposia UKACC Control",
-        "data": "8-8 Sept. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank Page",
-        "conferenceTitle": "Second International Conference on Power Electronics, Machines and Drives (PEMD 2004).",
-        "data": "31 March-2 April 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Intelligent Distributed Surveilliance Systems",
-        "data": "23-23 Feb. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "[Back cover]",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "Presents the back cover of this proceedings volume."
-    },
-    {
-        "title": "[Back cover]",
-        "conferenceTitle": "The IEE COTS and SOUP Seminar (Ref. No. 2004/10728)",
-        "data": "21-21 Oct. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "Presents the back cover of this proceedings volume."
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "Microtechnology Meets Nanoscience - A commercial Opportunity?",
-        "data": "8-8 July 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker Page",
-        "conferenceTitle": "2004 IEE Seminar on Ultra Wideband Communications Technologies and System Design",
-        "data": "8-8 July 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "ISBN 0-86341-444-3 [Back Cover]",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Telecommunications Hot Topics Forum 2004 (Ref. No. 2004/10757)",
-        "data": "9-10 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Front Inside Cover [blank]",
-        "conferenceTitle": "IEE Seminar Road User Charging: Technical and Operational Development, 2004.",
-        "data": "9-9 June 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Front Inside Cover [blank]",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Front Inside Cover [blank]",
-        "conferenceTitle": "IEE Seminar on Is Your Product Safe? (Ref. No. 2004/10724)",
+        "title": "Artificial intelligence with uncertainty",
+        "conferenceTitle": "The Fourth International Conference onComputer and Information Technology, 2004. CIT '04.",
         "data": "16-16 Sept. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Back Inside Cover [blank]",
-        "conferenceTitle": "2004 Eighth IEE International Conference on Developments in Power System Protection",
-        "data": "5-8 April 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Telecommunications Hot Topics Forum 2004 (Ref. No. 2004/10757)",
-        "data": "9-10 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar on Validation of Computational Electromagnetics",
-        "data": "30-30 March 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker paper",
-        "conferenceTitle": "2004 Mini Symposia UKACC Control",
-        "data": "8-8 Sept. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "IEE Seminar Road User Charging: Technical and Operational Development, 2004.",
-        "data": "9-9 June 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "1st European Conference on Visual Media Production (CVMP 2004)",
-        "conferenceTitle": "1st European Conference on Visual Media Production (CVMP) 2004",
-        "data": "15-16 March 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "ISBN 0-86341-470-2 [Back Cover]",
-        "conferenceTitle": "The IEE Summit on Law and Computing 2004",
-        "data": "2-2 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Front Inside Cover [blank]",
-        "conferenceTitle": "2004 Eighth IEE International Conference on Developments in Power System Protection",
-        "data": "5-8 April 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Telecommunications Hot Topics Forum 2004 (Ref. No. 2004/10757)",
-        "data": "9-10 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Back Inside Cover [blank]",
-        "conferenceTitle": "The IEE Seminar on Railway System Modelling - Not Just for Fun, 2004.",
-        "data": "30-30 Sept. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "IEE Seminar Road User Charging: Technical and Operational Development, 2004.",
-        "data": "9-9 June 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE COTS and SOUP Seminar (Ref. No. 2004/10728)",
-        "data": "21-21 Oct. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Institution of Mechanical Engineers Mini Symposium 'New Developments in the Control and Monitoring of Fluid Power Systems'",
-        "conferenceTitle": "2004 Mini Symposia UKACC Control",
-        "data": "8-8 Sept. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "[Back cover]",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "Presents the back cover of this proceedings volume."
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar on Validation of Computational Electromagnetics",
-        "data": "30-30 March 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "Microtechnology Meets Nanoscience - A commercial Opportunity?",
-        "data": "8-8 July 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "2004 Mini Symposia UKACC Control",
-        "data": "8-8 Sept. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "12th IEE International Conference on Road Transport Information and Control, 2004. RTIC 2004.",
-        "data": "20-22 April 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "1st European Conference on Visual Media Production (CVMP) 2004",
-        "data": "15-16 March 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Breaker page",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
-        "authors": [],
-        "DOI": "",
+        "authors": [
+            "Deyi Li"
+        ],
+        "DOI": "10.1109/CIT.2004.1357163",
+        "citation": 18,
+        "abstract": ""
+    },
+    {
+        "title": "AdaTree: Boosting a Weak Classifier into a Decision Tree",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "E. Grossmann"
+        ],
+        "DOI": "10.1109/CVPR.2004.296",
+        "citation": 16,
+        "abstract": "We present a boosting method that results in a decision tree rather than a fixed linear sequence of classifiers. An equally correct statement is that we present a tree-growing method whose performance can be analysed in the framework of Adaboost. We argue that Adaboost can be improved by presenting the input to a sequence of weak classifiers, each one tuned to the conditional probability determined by the output of previous weak classifiers. As a result, the final classifier has a tree structure, rather than being linear, thus the name \"Adatree\". One of the consequences of the tree structure is that different input data may have different processing time. Early experimentation shows a reduced computation cost with respect to Adaboost. One of our intended applications is real-time detection, where cascades of boosted detectors have recently become successful. The reduced computation cost of the proposed method shows some potential for being used directly in detection problems, without need of a cascade."
+    },
+    {
+        "title": "Tutorial: Open scene graph A: introduction tutorial: Open scene graph B: examples and applications",
+        "conferenceTitle": "IEEE Virtual Reality 2004",
+        "data": "27-31 March 2004",
+        "authors": [
+            "D. Burns",
+            "R. Osfield"
+        ],
+        "DOI": "10.1109/VR.2004.1310100",
+        "citation": 14,
+        "abstract": "Provides an abstract of the tutorial presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "A state queueing model of thermostatically controlled appliances",
+        "conferenceTitle": "IEEE PES Power Systems Conference and Exposition, 2004.",
+        "data": "10-13 Oct. 2004",
+        "authors": [
+            "Ning Lu",
+            "D.P. Chassin"
+        ],
+        "DOI": "10.1109/PSCE.2004.1397437",
+        "citation": 11,
+        "abstract": "Summary form only given. This paper develops a state queueing model to analyze the price response of aggregated loads consisting of thermostatically controlled appliances (TCAs). Assuming a perfectly diversified bad before the price response, we show that TCA setpoint changes in response to the market price will result in a redistribution of TCAs in on/off states and therefore change the probabilities for a unit to reside in each state. A randomly distributed load can be partially synchronized and the aggregated diversity lost. The loss of the load diversity can then create unexpected dynamics in the aggregated load profile. Raising issues such as restoring load diversity and damping the peak loads are also addressed in the paper."
+    },
+    {
+        "title": "Visual Tracking Using Depth Data",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "H. Nanda",
+            "K. Fujimura"
+        ],
+        "DOI": "10.1109/CVPR.2004.476",
+        "citation": 9,
+        "abstract": "A method is presented for robust tracking in highly cluttered environments. The method makes effective use of 3D depth sensing technology, resulting in illumination-invariant tracking. A few applications using tracking are presented including face tracking and hand tracking."
+    },
+    {
+        "title": "Microprocessor voltage regulators and power supply trends and device requirements",
+        "conferenceTitle": "2004 Proceedings of the 16th International Symposium on Power Semiconductor Devices and ICs",
+        "data": "24-27 May 2004",
+        "authors": [
+            "Stanford"
+        ],
+        "DOI": "10.1109/WCT.2004.239748",
+        "citation": 8,
+        "abstract": "Summary form only given. This paper gives a general overview of microprocessor power regulators and supplies. Firstly, it covers the CPU power road map, thermal issues, current and voltage scaling and system constraints. Secondly, it outlines system operating parameters. Thirdly, it details buck regulator operation. Finally, it considers system level power supply trends, system chassis shrinking and power supply density."
+    },
+    {
+        "title": "Boundary load flow solutions",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "A. Dimitrovski",
+            "K. Tomsovic"
+        ],
+        "DOI": "10.1109/PES.2004.1373033",
+        "citation": 8,
+        "abstract": "Summary form only given. The load flow is one of the most fundamental tools used in power system analysis. The need for a load flow approach, which would incorporate uncertainty into the solution process has been long recognized. The boundary load flow finds solutions given uncertain nodal powers. Here, a new concept for finding accurate boundary load flow solutions given fuzzy/interval numbers is presented. Extending an idea from probabilistic load flow, an optimization procedure for implicitly defined functions is introduced. Test systems are used for performance evaluation and comparison between the new method and extant methods that give approximate solutions."
+    },
+    {
+        "title": "The Dense Estimation of Motion and Appearance in Layers",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "H. Yalcin",
+            "M.J. Black",
+            "R. Fablet"
+        ],
+        "DOI": "10.1109/CVPR.2004.460",
+        "citation": 8,
+        "abstract": "Segmenting image sequences into meaningful layers is fundamental to many applications such as surveillance, tracking, and video summarization. Background subtraction techniques are popular for their simplicity and, while they provide a dense (pixelwise) estimate of foreground/background, they typically ignore image motion which can provide a rich source of information about scene structure. Conversely, layered motion estimation techniques typically ignore the temporal persistence of image appearance and provide parametric (rather than dense) estimates of optical flow. Recent work adaptively combines motion and appearance estimation in a mixture model framework to achieve robust tracking. Here we extend mixture model approaches to cope with dense motion and appearance estimation. We develop a unified Bayesian framework to simultaneously estimate the appearance of multiple image layers and their corresponding dense flow fields from image sequences. Both the motion and appearance models adapt over time and the probabilistic formulation can be used to provideasegmentation of thescene into foreground/background regions. This extension of mixture models includes prior probability models for the spatial and temporal coherence of motion and appearance. Experimental results show that the simultaneous estimation of appearance models and flow fields in multiple layers improves the estimation of optical flow at motion boundaries."
+    },
+    {
+        "title": "Optimal reconfiguration of radial distribution systems to maximize loadability",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "B. Venkatesh",
+            "R. Rakesh",
+            "H.B. Gooi"
+        ],
+        "DOI": "10.1109/PES.2004.1372823",
+        "citation": 6,
+        "abstract": "Summary form only given. The paper presents a new method for optimal reconfiguration of radial distribution systems (RDS). Optimal reconfiguration involves selection of the best set of branches to be opened, one each from each loop, such that the resulting RDS has the desired performance. Amongst the several performance criteria considered for optimal network reconfiguration, maximizing loadability is an important one. Owing to the discrete nature of the solution space, a fuzzy adaptation of the evolutionary programming algorithm for optimal reconfiguration of RDS to maximize loadability is proposed in this paper. This method maximizes a fuzzy index developed using a maximum loadability index. A 33-bus RDS is optimally reconfigured by the proposed method and the results are presented."
+    },
+    {
+        "title": "WACS-wide-area stability and voltage control system: R&D and on-line demonstration",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "C.W. Taylor"
+        ],
+        "DOI": "10.1109/PES.2004.1372736",
+        "citation": 5,
+        "abstract": "Summary form only given. As background, we describe frequently used feedforward wide-area power system stability controls. Then we describe on-line demonstration of a new response-based (feedback) wide-area stability and voltage control system (WACS). The control system uses powerful discontinuous actions for power system stabilization. The control system comprises phasor measurements at many substations, fiber optic communications, real-time deterministic computers, and transfer trip output signals to circuit breakers at many other substations and power plants. Finally, we describe future development of WACS. WACS is developed as a flexible platform to prevent blackouts and facilitate electrical commerce."
+    },
+    {
+        "title": "Design and performance evaluation of general router management protocol (GRMP)",
+        "conferenceTitle": "2004 IEEE Region 10 Conference TENCON 2004.",
+        "data": "24-24 Nov. 2004",
+        "authors": [
+            "Weiming Wang",
+            "Ligang Dong"
+        ],
+        "DOI": "10.1109/TENCON.2004.1414525",
+        "citation": 5,
+        "abstract": "This paper presents general router management protocol (GRMP), a protocol for open programmable QoS IP routers. First, we make an extended description on FE architecture and messaging system in GRMP. Second, we construct a testbed and implement a prototype of GRMP. In particular, we show that the performance of proposed DoS attack policy in GRMP is satisfying."
+    },
+    {
+        "title": "Overview of recommendations by U.S. - Canada task force to prevent or minimize scope of future blackouts",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "D. Meyer"
+        ],
+        "DOI": "10.1109/PES.2004.1372871",
+        "citation": 5,
+        "abstract": "Summary form only given. The Interim Report issued by the U.S. - Canada task force found that several of the causes of the August 14, 2003 blackout were similar to the causes of previous major blackouts in North America, implying that the recommendations from the teams who reviewed the earlier blackouts had not been implemented adequately or consistently. Mr. Meyer reviews the main themes of the current task force's recommendations, the rationales for them, and plans for their implementation."
+    },
+    {
+        "title": "Frequency dependent modeling of power transformers with ungrounded windings",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "B. Gustavsen"
+        ],
+        "DOI": "10.1109/PES.2004.1373185",
+        "citation": 4,
+        "abstract": "Summary form only given. A linear wide band transformer model for the purpose of simulation of electromagnetic transients has previously been developed by the author. The model was obtained via frequency domain measurements and rational approximation of the terminal admittance matrix Y. In the case of transformers with ungrounded windings, the model may produce erroneous results due to a near singular condition at low frequencies. This work shows that the problem can be overcome by explicit measurement and modeling of the zero sequence system. Blocks of Y which correspond to ungrounded windings are modified by removal of their zero sequence components. A new zero sequence system is obtained by dedicated measurements and the two functions are approximated with rational functions which are combined to produce the final model. Application to a wye-delta connected transformer demonstrates the validity of the approach."
+    },
+    {
+        "title": "Dependable computing: concepts, challenges, directions",
+        "conferenceTitle": "Proceedings of the 28th Annual International Computer Software and Applications Conference, 2004. COMPSAC 2004.",
+        "data": "28-30 Sept. 2004",
+        "authors": [
+            "J.-C. Laprie"
+        ],
+        "DOI": "10.1109/CMPSAC.2004.1342838",
+        "citation": 4,
+        "abstract": "Summary form only given. Our society is faced with an ever increasing dependence on computing systems, which lead to question ourselves about the limits of their dependability, and about the challenges raised by those limits. In order to respond these questions, a global conceptual and terminological framework is needed, which is first given. The limits and challenges in dependability are then addressed, from technical and economics viewpoints. Directions are finally given in order to respond to the challenges"
+    },
+    {
+        "title": "Wide band modeling of power transformers",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "B. Gustavsen"
+        ],
+        "DOI": "10.1109/PES.2004.1373186",
+        "citation": 4,
+        "abstract": "Summary form only given. This work describes the measurement setup and modeling technique used for obtaining a linear wide band frequency dependent black box model of a two-winding power transformer, for the purpose of calculation of electromagnetic transients in power systems. The measurement setup is based on a network analyzer, shielded cables and a connection board. The setup is demonstrated to give a consistent data set where the effect of the measurement cables can be eliminated. The accuracy of the data set is increased by using a combination of current measurements and voltage transfer measurements. A rational approximation of the admittance matrix is calculated in the frequency domain in the range 50 Hz-1 MHz and subjected to passivity enforcement, giving a stable model which can be included in EMTP-type simulation programs. The accuracy is validated both in the frequency domain and in the time domain."
+    },
+    {
+        "title": "Virtualized Classroom - Automated Production, Media Integration and User-Customized Presentation",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "Zhigang Zhu",
+            "C. McKittrick",
+            "Weihong Li"
+        ],
+        "DOI": "10.1109/CVPR.2004.473",
+        "citation": 4,
+        "abstract": "Multimedia materials from classrooms and seminars are rich sources of information. Our Virtualized Classroom Project, which is a testbed for integrating novel multimedia software systems, addresses fundamental research problems occurring in different components of a next-generation, processing-enhanced e-learning system. Our ultimate goal is to create a natural learning environment that could give students interactive experiences equivalent to, or even better than, the real classroom. This will be enabled by virtual instructor presence, user-selectable and fully-indexed visual aids, and flexible communications between students, the instructor and virtual instructors (computers). We have developed several basic components for the Virtualized Classroom project: automated data collection, intelligent media integration, and flexible user interfaces."
+    },
+    {
+        "title": "New method for generators' angles and angular velocities prediction for transient stability assessment of multi-machine power systems using recurrent artificial neural network",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "A. Bahbah",
+            "A. Girgis"
+        ],
+        "DOI": "10.1109/PES.2004.1372769",
+        "citation": 3,
+        "abstract": "Summary form only given. Recurrent radial basis function (RBF), and multi-layer perceptron (MLP) artificial neural network (ANN) schemes are proposed for dynamic system modeling, and generators' angles and angular velocities prediction for transient stability assessment. The method is presented for multi-machine power systems. In this scheme, transient stability is assessed based on monitoring generators' angles and angular velocities with time, and checking whether they exceed the specified limits for system stability or not. Data generation schemes have been proposed. The proposed recurrent ANN scheme is not sensitive to fault locations. It is only dependent on the post-fault system configuration."
+    },
+    {
+        "title": "Geographic information retrieval (GIR) ranking methods for digital libraries",
+        "conferenceTitle": "Proceedings of the 2004 Joint ACM/IEEE Conference on Digital Libraries, 2004.",
+        "data": "11-11 June 2004",
+        "authors": [
+            "R.R. Larson",
+            "P. Frontiera"
+        ],
+        "DOI": "10.1145/996350.996482",
+        "citation": 3,
+        "abstract": "This demo presents results from an evaluation of algorithms for ranking results by probability of relevance for geographic information retrieval (GIR) applications. We demonstrate an algorithm for GIR ranking based on logistic regression from samples of the test collection. We also show the effects of different representations of the geographic regions being searched, including minimum bounding rectangles, convex hulls, and complex polygons."
+    },
+    {
+        "title": "24 and 36 GHz SiGe HBT power amplifiers",
+        "conferenceTitle": "Digest of Papers. 2004 Topical Meeting onSilicon Monolithic Integrated Circuits in RF Systems, 2004.",
+        "data": "8-10 Sept. 2004",
+        "authors": [
+            "S. Chartier",
+            "E. Sonmez",
+            "H. Schumacher"
+        ],
+        "DOI": "10.1109/SMIC.2004.1398215",
+        "citation": 3,
+        "abstract": "We present two amplifiers using the SiGe HBT technology, operating at 24 GHz and 36 GHz, respectively. The first amplifier was designed to operate in the 24 GHz ISM band, especially for traffic and automotive applications. In the next step, this amplifier was improved to reach higher frequencies. Both amplifiers show a gain higher than 20 dB, a good matching as well as a high output linearity."
+    },
+    {
+        "title": "Thermal modeling of Lundell alternators",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "S.C. Tang",
+            "T. Keim",
+            "D. Perreault"
+        ],
+        "DOI": "10.1109/PES.2004.1373079",
+        "citation": 3,
+        "abstract": "Summary form only given. Thermal analysis of Lundell alternators used in automobiles is presented. An analytical thermal model for Lundell alternators is proposed, and procedures for acquiring the model parameters are elucidated. Based on the thermal model, the temperature profile of an operating Lundell alternator can be predicted analytically. The predicted alternator temperatures are found to be consistent with experimental measurement. The presented models and measurement methods are useful for embedding switched-mode power electronics into the alternator with low manufacturing cost."
+    },
+    {
+        "title": "Early warning of developing problems in rotating machinery as provided by monitoring shaft voltages and grounding currents",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "P. Nippes"
+        ],
+        "DOI": "10.1109/PES.2004.1373121",
+        "citation": 3,
+        "abstract": "Summary form only given. A unique and independent unit condition monitoring technology for rotating machinery, called shaft condition monitoring (SCM) provides early warning of developing problems by monitoring and analyzing shaft voltage and grounding current profiles. The process begins with capturing and trending of critical information inherent in raw signals derived from reliable shaft-riding brushes. Through analysis of this critical information, problems in rotating machinery are detected at their inception or long before they are apparent on traditional instruments. With this data in hand, a proactive plan of monitoring and maintenance is facilitated, possibly averting the extreme costs of failure and forced shutdown."
+    },
+    {
+        "title": "A Probabilistic Approach to Image Orientation Detection via Confidence-Based Integration of Low-Level and Semantic Cues",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "Jiebo Luo",
+            "M. Boutell"
+        ],
+        "DOI": "10.1109/CVPR.2004.285",
+        "citation": 3,
+        "abstract": "Automatic image orientation detection for natural images is a useful, yet challenging research area. Humans use scene context and semantic object recognition to identify the correct image orientation. However, it is difficult for a computer to perform the task in the same way because current object recognition algorithms are extremely limited in their scope and robustness. As a result, existing orientation detection methods were built upon low-level vision features such as spatial distributions of color and texture. In addition, discrepant detection rates have been reported. We have developed a probabilistic approach to image orientation detection via confidence-based integration of low-level and semantic cues within a Bayesian framework. Our current accuracy is approaching 90% for unconstrained consumer photos, impressive given the findings of a psychophysical study conducted recently. The proposed framework is an attempt to bridge the gap between computer and human vision systems, and is applicable to other problems involving semantic scene content understanding."
+    },
+    {
+        "title": "Study on load frequency control using Redox flow batteries",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "T. Sasaki",
+            "T. Kadoya",
+            "K. Enomoto"
+        ],
+        "DOI": "10.1109/PES.2004.1372872",
+        "citation": 3,
+        "abstract": "Summary form only given. Rechargeable batteries such as Redox flow, which are not aged by frequent charging and discharging, have a quick response equivalent to SMES and outstanding function during overload. The battery efficiency increases when the cycle period of charging/discharging becomes shorter. In addition to leveling load, the battery is advantageous for secondary control in the power system and maintenance of power quality of distributed power resources. In this paper, we study the control performance of RF battery systems in its application to LFC. Using dynamic simulation, we show that the LFC capacity of RF battery systems is ten times that of fossil power systems due to quick response characteristics."
+    },
+    {
+        "title": "A decision support system for multiple objective linear programming",
+        "conferenceTitle": "IEEE International Conference on e-Technology, e-Commerce and e-Service, 2004. EEE '04. 2004",
+        "data": "28-31 March 2004",
+        "authors": [
+            "F. Wu",
+            "J. Lu",
+            "G. Zhang"
+        ],
+        "DOI": "10.1109/EEE.2004.1287342",
+        "citation": 3,
+        "abstract": "A new approximate algorithm has been developed by Wu et al. for solving fuzzy multiple objective linear programming (FMOLP) problems with fuzzy parameters in any form of membership function in both objective functions and constraints. Based on the approximate algorithm, a fuzzy multiple objective decision support system (FMODSS) is developed. We focus on the description of use for FMODSS in detail, and an example is presented for demonstrating how to solve a FMOLP problem by the FMODSS."
+    },
+    {
+        "title": "Self healing reconfiguration for restoration of naval shipboard power systems",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "K. Butler-Purry",
+            "S. Nuthalapati"
+        ],
+        "DOI": "10.1109/PES.2004.1372745",
+        "citation": 3,
+        "abstract": "Summary form only given. Naval shipboard power systems form a critical component of the US defense infrastructure. When there is a fault in a shipboard power system either due to battle damage or material casualty, it is important to quickly isolate the fault and restore supply to as many loads as possible. This paper presents an automated self healing strategy for reconfiguration for service restoration in naval shipboard power systems. The proposed method is illustrated on a system developed based on a typical surface combatant ship."
+    },
+    {
+        "title": "IP network expansion for growing traffic demand with shortest path routing compared to traffic engineering",
+        "conferenceTitle": "11th International Telecommunications Network Strategy and Planning Symposium. NETWORKS 2004,",
+        "data": "13-16 June 2004",
+        "authors": [
+            "C. Hasslinger",
+            "S. Schnitter"
+        ],
+        "DOI": "10.1109/NETWKS.2004.240778",
+        "citation": 3,
+        "abstract": "We investigate the effect of traffic engineering in order to allow for higher throughput of traffic in the network by balancing the load on the links. A network-wide optimization of paths for traffic flows can be used to maximize the amount of delivered traffic in a predefined topology. Based on previously developed optimization algorithms, we compare traffic engineering to pure shortest path first routing during a continuous process of expanding the link capacities to cope with increasing Internet traffic. We consider case studies and bounds on the efficiency of traffic engineering."
+    },
+    {
+        "title": "Interpretation of Complex Scenes Using Generative Dynamic-Structure Models",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "S. Todorovic",
+            "M.C. Nechyba"
+        ],
+        "DOI": "10.1109/CVPR.2004.372",
+        "citation": 3,
+        "abstract": "We propose a generative modeling framework - namely, Dynamic Tree Structured Belief Networks (DTSBNs) and a novel Structured Variational Approximation (SVA) inference algorithm for DTSBNs - as a viable solution to object recognition in images with partially occluded object appearances. We show that it is possible to assign physical meaning to DTSBN structures, such that root nodes model whole objects, while parent-child connections encode component-subcomponent relationships. Therefore, within the DTSBN framework, the treatment and recognition of object parts requires no additional training, but merely a particular interpretation of the tree/subtree structure. As such, DTSBNs naturally allow for multi-stage object recognition, in which initial recognition of object parts induces recognition of objects as a whole. As our reported experiments show, this explicit, multi-stage treatment of occlusion outperforms more traditional object-recognition approaches, which typically fail to account for occlusion in any principled or unified manner."
+    },
+    {
+        "title": "Knowledge discovery in multiple databases",
+        "conferenceTitle": "16th IEEE International Conference on Tools with Artificial Intelligence",
+        "data": "15-17 Nov. 2004",
+        "authors": [
+            "X. Wu"
+        ],
+        "DOI": "10.1109/ICTAI.2004.78",
+        "citation": 3,
+        "abstract": "Summary form is only given. Knowledge discovery in multiple databases is an important research area because (1) there is an urgent need for analyzing data in different sources, (2) there are essential differences between mono and multidatabase mining, and (3) there are limitations in existing multidatabase mining efforts. This talk describe a multidatabase mining process, and review some research issues related to multidatabase mining, including database clustering and local pattern analysis."
+    },
+    {
+        "title": "Towards Recovery of 3D Chromosome Structure",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "S. Babu",
+            "Pao-Chuan Liao",
+            "M.C. Shin",
+            "L.V. Tsap"
+        ],
+        "DOI": "10.1109/CVPR.2004.466",
+        "citation": 2,
+        "abstract": "The objectives of this work include automatic recovery and visualization of a 3D chromosome structure from a sequence of 2D tomographic reconstruction images taken through the nucleus of a cell. Structure is very important for biologists as it affects chromosome functions, behavior of the cell and its state. Chromosome analysis is significant in the detection of diseases and in monitoring environmental gene mutations. The algorithm incorporates thresholding based on a histogram analysis with a polyline splitting algorithm, contour extraction via active contours, and detection of the 3D chromosome structure by establishing corresponding regions throughout the slices. Visualization using point cloud meshing generates a 3D surface. The 3D triangular mesh of the chromosomes provides surface detail and allows a user to interactively analyze chromosomes using visualization software."
+    },
+    {
+        "title": "Capacitor placement for conservative voltage reduction on distribution feeders",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "B. Milosevic",
+            "M. Begovic"
+        ],
+        "DOI": "10.1109/PES.2004.1372893",
+        "citation": 2,
+        "abstract": "This paper proposes a strategy for placing capacitors at multiple locations on a distribution feeder to allow: i) deeper levels of substation voltage reduction for peak load reduction, ii) power factor correction, and iii) power loss reduction. By reducing peak demand, a utility can avoid paying high prices when purchasing power or it may sell excess generation at high prices. By minimizing system losses, savings are obtained through reduced demand and energy charges. Besides a positive economic response, load reduction associated with improved power factor at the substation has a beneficial effect on voltage stability by increasing the system stability limit margin."
+    },
+    {
+        "title": "A Generalized Temporal Context Model for Semantic Scene Classification",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "M. Boutell",
+            "Jiebo Luo"
+        ],
+        "DOI": "10.1109/CVPR.2004.280",
+        "citation": 2,
+        "abstract": "Semantic scene classification is an open problem in computer vision especially when information from only a single image is employed. In applications involving image collections, however, images are clustered sequentially, allowing surrounding images to be used as temporal context. We present a general probabilistic temporal context model in which the first-order Markov property is used to integrate content-based and temporal context cues. The model uses elapsed time-dependent transition probabilities between images to enforce the fact that images captured within a shorter period of time are more likely to be related. This model is generalized in that it allows arbitrary elapsed time between images, making it suitable for classifying image collections. We also derived a variant of this model to use in image collections for which no timestamp information is available, such as film scans. We applied the context models to two problems, achieving significant gains in accuracy in both cases. The two algorithms used to implement inference within the context model, Viterbi and belief propagation, yielded similar results."
+    },
+    {
+        "title": "An overview of heuristic optimization techniques for power system expansion planning and design",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "Y.H. Song",
+            "M.R. Irving"
+        ],
+        "DOI": "10.1109/PES.2004.1372966",
+        "citation": 2,
+        "abstract": "Summary form only given. This panel contribution focuses on an overview of modern heuristic optimization techniques for power system expansion planning and design. Issues relating to power system expansion planning and design are discussed. Challenges with conventional methods are identified. Advantages with employing heuristic optimization techniques are presented. Two examples are described to demonstrate their applications in power system expansion planning: (1) ant colony optimization in transmission network planning and (2) advanced genetic algorithms in distribution network planning."
+    },
+    {
+        "title": "Dynamic thermal modelling of power transformers",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "D. Susa",
+            "M. Lehtonen",
+            "H. Nordman"
+        ],
+        "DOI": "10.1109/PES.2004.1373100",
+        "citation": 2,
+        "abstract": "Summary form only given. The aim of This work is to introduce hot-spot and top-oil temperature thermal models for more accurate temperature calculations during transient states, based on data received in a normal heat run test (i.e. the top oil in the tank of transformer and the average winding-to-average oil gradient). Oil viscosity changes and loss variation with temperature are taken into account. The new thermal models will be validated using experimental (fiber optic test) results obtained at varying load current on a 250 MVA-ONAF-cooled unit, a 400 MVA-ONAF-cooled unit and a 605 MVA-OFAF-cooled unit. The results are also compared with the IEEE-loading guide (1995) Annex G method."
+    },
+    {
+        "title": "BPA's wide-area stability and voltage control system (WACS) for blackout prevention",
+        "conferenceTitle": "IEEE PES Power Systems Conference and Exposition, 2004.",
+        "data": "10-13 Oct. 2004",
+        "authors": [
+            "C.W. Taylor"
+        ],
+        "DOI": "10.1109/PSCE.2004.1397737",
+        "citation": 2,
+        "abstract": "Summary form only given. As background, we describe frequently used feed forward wide-area power system stability controls. Then we describe online demonstration of a new response-based (feedback) wide-area stability and voltage control system (WACS). The control system uses powerful discontinuous actions for power system stabilization. The control system comprises phasor measurements at many substations, fiber optic communications, real-time deterministic computers, and transfer trip output signals to circuit breakers at many other substations and power plants. Finally, we describe future development of WACS. WACS is developed as a flexible platform to prevent blackouts and facilitate electrical commerce."
+    },
+    {
+        "title": "Clock generation and distribution in high-performance processors",
+        "conferenceTitle": "2004 International Symposium on System-on-Chip, 2004. Proceedings.",
+        "data": "16-18 Nov. 2004",
+        "authors": [
+            "S. Rusu"
+        ],
+        "DOI": "10.1109/ISSOC.2004.1411188",
+        "citation": 2,
+        "abstract": "This paper is an overview of clock generation and distribution techniques, with emphasis on high-performance microprocessor designs. We describe practical techniques to reduce clock skew and jitter, with examples from several industry leaders. As power consumption is a limiting factor for all modern designs, low-power clock distribution techniques and flip-flop implementations are reviewed. Several clock-related design-for-test and debug techniques are described, with practical implementation examples."
+    },
+    {
+        "title": "Developing AR Applications with ARToolKit",
+        "conferenceTitle": "Third IEEE and ACM International Symposium on Mixed and Augmented Reality",
+        "data": "5-5 Nov. 2004",
+        "authors": [],
+        "DOI": "10.1109/ISMAR.2004.27",
+        "citation": 2,
+        "abstract": ""
+    },
+    {
+        "title": "Complex signal processing is not-complex",
+        "conferenceTitle": "The 2004 47th Midwest Symposium on Circuits and Systems, 2004. MWSCAS '04.",
+        "data": "25-28 July 2004",
+        "authors": [
+            "K. Martin"
+        ],
+        "DOI": "10.1109/MWSCAS.2004.1353872",
+        "citation": 2,
+        "abstract": ""
+    },
+    {
+        "title": "The blackout sequence of events",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "J.T. Whitehead"
+        ],
+        "DOI": "10.1109/PES.2004.1372867",
+        "citation": 2,
+        "abstract": "Summary form only given. The blackout of August 14, 2003, was a very complex event. A description of the blackout is provided beginning with the power system status in the early afternoon and progressing through the rapid cascade of the blackout through Michigan, Ontario, and New York. Emphasis is placed on the major events that contributed to the progression of the blackout with discussion of the causes for those events and how they contributed to the progression of the blackout."
+    },
+    {
+        "title": "A high voltage damped oscillating wave generator",
+        "conferenceTitle": "2004 IEEE Region 10 Conference TENCON 2004.",
+        "data": "24-24 Nov. 2004",
+        "authors": [
+            "M. Kando"
+        ],
+        "DOI": "10.1109/TENCON.2004.1414372",
+        "citation": 2,
+        "abstract": "A high voltage damped oscillating wave generator with variable frequency has been developed using power devices (IGBT), photo devices, a designed noncore transformer and a function-generator in order to diagnose insulating materials as power apparatus (transformer, cable), enameled wires, printed circuit board (PCB), wire-harness in automobiles. The generated maximum voltage (2.5 kV) and the frequency dependency (0.01-2 kHz) were confirmed in output tests."
+    },
+    {
+        "title": "Infrastructure IP for SOC",
+        "conferenceTitle": "22nd IEEE VLSI Test Symposium, 2004. Proceedings.",
+        "data": "25-29 April 2004",
+        "authors": [
+            "Y. Zorian"
+        ],
+        "DOI": "10.1109/VTEST.2004.1299213",
+        "citation": 1,
+        "abstract": ""
+    },
+    {
+        "title": "Popsters",
+        "conferenceTitle": "The IEEE/ACS International Conference onPervasive Services, 2004. ICPS 2004. Proceedings.",
+        "data": "23-23 July 2004",
+        "authors": [],
+        "DOI": "10.1109/PERSER.2004.1356807",
+        "citation": 1,
+        "abstract": ""
+    },
+    {
+        "title": "Estimation of multi-layer soil parameters using genetic algorithms",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "I. Gonos",
+            "I. Stathopulos"
+        ],
+        "DOI": "10.1109/PES.2004.1372997",
+        "citation": 1,
+        "abstract": "Summary form only given. In this paper a methodology has been proposed, according to which, after carrying out a set of soil's resistivity measurements, one can compute the parameters of the multi-layer earth structure using a genetic algorithm. The results provided by the genetic algorithm constitute the indispensable data that can be used in circuital or field simulations of grounding systems. The methodology, developed on the base of the PC Opera software package, allows to proceed towards a very efficient simulation of the grounding system and an accurate calculation of potential on the ground's surface."
+    },
+    {
+        "title": "Nanometer-scale CMOS devices",
+        "conferenceTitle": "International Symposium on Signals, Circuits and Systems. Proceedings, SCS 2003. (Cat. No.03EX720)",
+        "data": "22-24 March 2004",
+        "authors": [
+            "K. Bernstein"
+        ],
+        "DOI": "10.1109/ISQED.2004.1283636",
+        "citation": 1,
+        "abstract": ""
+    },
+    {
+        "title": "Validation of frequency dependent transmission line models",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "B. Gustavsen"
+        ],
+        "DOI": "10.1109/PES.2004.1373017",
+        "citation": 1,
+        "abstract": "Summary form only given. The accuracy of a transmission line model can be verified by comparing its response to that by an alternative method of indisputable accuracy. This paper shows a procedure for validation, which is based on the inverse Fourier transform. Desired test responses are calculated in the frequency domain using an admittance representation of the line and its terminal conditions. Time domain step responses are calculated using the inverse Fourier transform, with semi-analytic integration between sample points to permit calculation at arbitrarily large time values. The required number of frequency samples is greatly reduced by adaptively calculating the samples while considering the frequency domain behavior of the integrand. Responses from arbitrary excitations are calculated by superposition of weighted, time delayed step responses. The accuracy of the approach is validated for an overhead line and a cable system by comparison with responses obtained by a phase domain line model."
+    },
+    {
+        "title": "Analysis of angle stability problems: a transmission protection systems perspective",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "S. Soman"
+        ],
+        "DOI": "10.1109/PES.2004.1372929",
+        "citation": 1,
+        "abstract": "Postfault rotor angle oscillations lead to power swings. Both unstable and stable swings can induce distance relay tripping. For unstable swings, a new computational procedure to locate all the electrical centers is developed. It simplifies the work associated with visual screening of all the R-X plots. For stable swings, a generic three tier hierarchy of stability related norms defined by branch norm, fault norm and system norm is proposed. Ranking by branch norm leads to ranking of power swings. Ranking by fault norm leads to ranking of faults or contingencies. Magnitude and rate of change of system norm can be used to detect an out-of-step condition. Results on a 10-machine system and a utility system with detailed models are also presented."
+    },
+    {
+        "title": "Impact of maintenance on cable failure rates",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "L. Bertling"
+        ],
+        "DOI": "10.1109/PES.2004.1372904",
+        "citation": 1,
+        "abstract": "This panel presentation discusses the development of a functional relationship between failure rates and maintenance measures for insulated cables. The approach has been applied to rural and urban distribution systems, and demonstrates the value of using a systematic quantitative approach for investigating the effect of different maintenance strategies."
+    },
+    {
+        "title": "Improved dynamic security assessment for AC/DC power systems using energy functions",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "N. Fernandopulle",
+            "R.T.H. Alden"
+        ],
+        "DOI": "10.1109/PES.2004.1373141",
+        "citation": 1,
+        "abstract": "A method is presented to integrate the dynamics of DC power flow into calculations of transient energy functions of AC/DC power systems. This method treats the generator input power as a function of the parameters and the input, output variables of the DC control system. By using this transient energy function, the accuracy of the stability prediction of AC/DC power systems is improved. The new transient energy function is validated using 12-bus and 30-bus test systems by comparing the stability results with those obtained from time simulation. The new transient energy function is used in a number of studies to establish its effectiveness."
+    },
+    {
+        "title": "The Energy SuperGrid",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "P. Grant"
+        ],
+        "DOI": "10.1109/PES.2004.1373284",
+        "citation": 1,
+        "abstract": "Summary form only given. This presentation discusses a proposal originally developed in 2001 by Chauncey Starr, founder and emeritus president of EPRI, for the creation of a \"Continental SuperGrid\" to meet the nation's energy needs in the mid to later half of the 21/sup st/ Century. In brief, the proposal calls for the creation of an Energy SuperGrid, delivering both electricity and hydrogen. The electric portion of the grid would use superconducting, low voltage, high current DC cables for power transmission, with liquid hydrogen used as the cryogen agent. The electric power and hydrogen would be supplied from nuclear and other source power plants spaced along the grid. Electricity would exit the system at various taps, connecting into the existing AC power grid. The hydrogen would also exit the grid, providing a readily available, alternative fuel, for perhaps fuel-cell based automobiles, or be retained as storage of electric power."
+    },
+    {
+        "title": "A4: Keynote address IV",
+        "conferenceTitle": "Proceedings of the 2004 International Symposium on Underwater Technology (IEEE Cat. No.04EX869)",
+        "data": "20-23 April 2004",
+        "authors": [],
+        "DOI": "10.1109/UT.2004.1405640",
+        "citation": 1,
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Design for verification with System Verilog",
+        "conferenceTitle": "17th International Conference on VLSI Design. Proceedings.",
+        "data": "9-9 Jan. 2004",
+        "authors": [
+            "P. Moorby"
+        ],
+        "DOI": "10.1109/ICVD.2004.1260952",
+        "citation": 1,
+        "abstract": "Design for verification in the EDA industry is currently going through a paradigm shift due to the relentless growing problem of verifying large complex systems. A major impact in solving this problem has been the development and standardization of significant set of enhancements to the Verilog language under the name of System Verilog. This talk will review several aspects of this new language and how they form a critical part in the new design for verification paradigm."
+    },
+    {
+        "title": "Radiometric measurement of circuit breaker interpole switching times",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "P. Moore"
+        ],
+        "DOI": "10.1109/PES.2004.1372908",
+        "citation": 1,
+        "abstract": "Monitoring the switching times of circuit breakers is important in the condition assessment of the operating mechanism. Although methods exist for this, they are not applicable to existing plant without retrofitting. Recent research shows that arcing produces impulsive radio frequency radiation. Using direct digital sampling of the antenna signals, impulses from operating circuit breakers may be recorded. From timing analysis of the received impulses, the interpole switching time of the circuit breaker can be measured. Results of this method are shown for a field trial on a 132 kV SF6 circuit breaker attached to a capacitor bank. The relationship between the opening and closing impulses is discussed. This method of timing measurement can be applied to energised plant. Measurement of the interpole switching times is completely non-invasive, whereas the overall switching time requires a clamp CT fitted on the CB wiring."
+    },
+    {
+        "title": "Webbase: building a web warehouse",
+        "conferenceTitle": "Proceedings of the Fifth Mexican International Conference in Computer Science, 2004. ENC 2004.",
+        "data": "24-24 Sept. 2004",
+        "authors": [
+            "H. Garcia-Molina"
+        ],
+        "DOI": "10.1109/ENC.2004.1342577",
+        "citation": 1,
+        "abstract": ""
+    },
+    {
+        "title": "Investigation of inertial properties of room walling and air volume on design of heating control algorithms",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "Yu.V. Morozov"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "The present paper proposes a newly developed system of linear differential equations of the room heat balance. Use of the proposed system of equations for control action level calculation gives heat energy economy about 4%."
+    },
+    {
+        "title": "An educational simulation tool for power system control and stability",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "C. Vournas",
+            "E. Potamianakis",
+            "C. Moors",
+            "T. Van Custem"
+        ],
+        "DOI": "10.1109/PES.2004.1373037",
+        "citation": 1,
+        "abstract": "Summary form only given. This paper presents a Simulink-based educational tool developed for the purpose of illustrating power system control and stability notions as well as introducing students to realistic, though tractable in size, design problems. The tool is also used for research purposes. Relevant courses are taught to last-year undergraduate as well as graduate students at the University of Liege, Belgium and the National Technical University of Athens, Greece. After a brief description of the corresponding curricula, the paper describes the simulation tool and gives examples of problems and assignments given to the students."
+    },
+    {
+        "title": "Learning to learn - concepts in a first power engineering course",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "B. Chowdhury"
+        ],
+        "DOI": "10.1109/PES.2004.1373041",
+        "citation": 1,
+        "abstract": "Summary form only given. Three well-known and widely accepted concepts in educational psychology are revisited. These are \"inventory of learning styles,\" \"taxonomy of educational objectives,\" and \"metacognition.\" Relationships among these concepts are highlighted. Often, a student can develop his/her own learning style by the process of metacognition. Ideas are borrowed from these concepts for use in a first-level power systems course. It is beyond a doubt that both cognitive and metacognitive skills are necessary for students to succeed in any course. While a semester-long power systems course leaves little time for critical thinking and passive reflection for students, certain activities may very well serve for some of these learning processes."
+    },
+    {
+        "title": "Tutorial: Introduction to VR technology",
+        "conferenceTitle": "IEEE Virtual Reality 2004",
+        "data": "27-31 March 2004",
+        "authors": [
+            "G. Burdea"
+        ],
+        "DOI": "10.1109/VR.2004.1310101",
+        "citation": 1,
+        "abstract": "Provides an abstract of the tutorial presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Method of estimation of room thermal time constants for home heating automatic control systems",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "Yu.V. Morozov"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "The present paper states the method of experimental estimation of room thermal time constants for heating control systems at buildings, where is no people at night."
+    },
+    {
+        "title": "Perspective on hybrid electric technology for future for army vehicles",
+        "conferenceTitle": "Conference Record of the Twenty-Sixth International Power Modulator Symposium, 2004 and 2004 High-Voltage Workshop.",
+        "data": "23-26 May 2004",
+        "authors": [
+            "M.M. Freeman"
+        ],
+        "DOI": "10.1109/MODSYM.2004.1433492",
+        "citation": 1,
+        "abstract": ""
+    },
+    {
+        "title": "An intelligent substation design environment",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "D. Atanackovic",
+            "D. McGillis",
+            "F. Galiana"
+        ],
+        "DOI": "10.1109/PES.2004.1372965",
+        "citation": 1,
+        "abstract": "Summary form only given. A knowledge-based object-oriented tool has been developed to integrate, preserve and support tasks inherent to substation design, bringing together the principal design activities and related data. It produces a number of potential designs which satisfy specified design criteria such as short-circuit levels, insulation withstand voltages and substation reliability. The outputs of the tool include: (1) the definition of the main substation equipment; (2) their general electric specifications; (3) the single-line diagram of the station; (4) a detailed report describing the design performance including reliability measures and cost."
+    },
+    {
+        "title": "History and modern state of measurements of low inductance",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "A.A. Mamonov"
+        ],
+        "DOI": "",
+        "citation": 1,
+        "abstract": "History and modem state of measurements of low inductance in Russia and abroad are considered. The main achievements of SNIIM in the considered area since 1960 are presented"
+    },
+    {
+        "title": "Unmanned aircraft: the future in military aviation",
+        "conferenceTitle": "Proceedings of the 2004 American Control Conference",
+        "data": "30 June-2 July 2004",
+        "authors": [
+            "K.A. Wise"
+        ],
+        "DOI": "10.23919/ACC.2004.1383562",
+        "citation": 1,
+        "abstract": "Summary form only given. This paper discussed the emerging need for unmanned military aircraft, technical challenges for network centric operations, and levels of adaptive autonomy. It described Boeing's development of the revolutionary X-45A experimental aircraft. The X-45 Joint Unmanned Combat Air System (J-CAS) is developed for the US Air Force and Navy at Boeing."
+    },
+    {
+        "title": "Appropriate Dress Required: Wearable Computing and Context",
+        "conferenceTitle": "Eighth International Symposium on Wearable Computers",
+        "data": "31 Oct.-3 Nov. 2004",
+        "authors": [
+            "B. Buxton"
+        ],
+        "DOI": "10.1109/ISWC.2004.8",
+        "citation": 1,
+        "abstract": "Summary form only given. A biography of the speaker, Bill Buxton is presented. No further information on the proposed talk on Wearable Computing and Context is provided."
+    },
+    {
+        "title": "Precise Simultaneous Estimation of Image Deformation Parameters",
+        "conferenceTitle": "2004 Conference on Computer Vision and Pattern Recognition Workshop",
+        "data": "27 June-2 July 2004",
+        "authors": [
+            "M. Shimizu",
+            "T. Yano",
+            "M. Okutomi"
+        ],
+        "DOI": "10.1109/CVPR.2004.420",
+        "citation": 1,
+        "abstract": "This paper presents a new method to obtain simultaneously precise N parameters of image deformation with non-iterative calculation by extending area-based matching and sub-pixel estimation. Although area-based matching and similarity interpolation for sub-pixel displacement estimation are commonly used in many areas as a fundamental procedure, they are bound to simple translation. The proposed method is based on a practical similarity model in N-dimensional parameter space. Using similarity measures obtained at discrete positions in the parameter space, our method provides a highly accurate maximum position of similarity in sub-sampling resolution; that position corresponds to image deformation parameters. Experimental results using both synthetic and real images demonstrate that our method can estimate parameters more accurately than previous methods."
+    },
+    {
+        "title": "Using OMS data to improve equipment reliability modeling",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "J. Burke"
+        ],
+        "DOI": "10.1109/PES.2004.1372901",
+        "citation": 1,
+        "abstract": "This panel presentation illustrate how an electric utility can use a sophisticated outage management system (OMS) to improve power system performance by: establishing accurate failure rates and outage times: identifying specific areas that contribute to poor system reliability indexes; using actual data to improve the accuracy of predictive reliability studies; and establishing system performance without the use of costly monitoring systems."
+    },
+    {
+        "title": "Avoiding hopf bifurcations in power systems via set-points tuning",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "A. Lerm",
+            "A. Silva"
+        ],
+        "DOI": "10.1109/PES.2004.1373169",
+        "citation": 1,
+        "abstract": "Summary form only given. This work presents a methodology to control Hopf bifurcations in power systems based on several control actions, as reactive power compensation, LTC switching, load shedding and adjustment of set-point values of automatic voltage regulators and governors. This approach is suited to large power systems since it includes a detailed system modeling, where the bifurcation diagrams are obtained directly from the DAE representation. Results are presented for two systems, the New England test system and the Southern-Brazil power system."
+    },
+    {
+        "title": "Unified power flow controllers for security constrained transmission management",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "M. La Scala",
+            "S. Bruno"
+        ],
+        "DOI": "10.1109/PES.2004.1373140",
+        "citation": 1,
+        "abstract": "Summary form only given. Although FACTS devices and UPFCs proved to be powerful tools for the exploitation of network capacities, their performances with regard to transient stability have not been deeply explored yet. In this work, we propose a methodology to assess preventive control actions through adjustments of UPFC reference signals. This control action does not imply changes in the generation and load asset defined by day-ahead market laws. The representation of UPFC devices in a power system is given through a nonlinear model. The UPFC model includes electrical equivalent circuits, a local control scheme and a centralized control scheme. Control actions are evaluated through a nonlinear optimization process. The approach is tested on a detailed representation of the Italian national grid and test results are presented."
+    },
+    {
+        "title": "Protective relaying action associated with widespread system disturbances",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "P.B. Winston"
+        ],
+        "DOI": "10.1109/PES.2004.1372869",
+        "citation": 1,
+        "abstract": "Major widespread electrical system disturbances can significantly challenge protective relaying systems. The particular areas of concern include: 1) tripping of transmission lines on load at lower than normal system voltages, 2) appropriately responding to system out-of-step conditions, 3) automatic reclosing circuit breakers following protective relay operations, and 4) responding to system changes resulting from over or underfrequency conditions. In addition, the performance of the generator excitation system and the prime mover controls are important during a system disturbance. Coordination between these systems and system protection as well as control strategies are needed to avoid system collapse. This talk discusses these key issues and their relation to the blackout."
+    },
+    {
+        "title": "Session 4 - Process Technology Fully-Silicided (FUSI) Gates",
+        "conferenceTitle": "IEDM Technical Digest. IEEE International Electron Devices Meeting, 2004.",
+        "data": "13-15 Dec. 2004",
+        "authors": [],
+        "DOI": "10.1109/IEDM.2004.1419069",
+        "citation": 1,
+        "abstract": "Summary form only given. Start of the above-titled section of the conference proceedings record."
+    },
+    {
+        "title": "High-voltage SiC and GaN power devices",
+        "conferenceTitle": "Bipolar/BiCMOS Circuits and Technology, 2004. Proceedings of the 2004 Meeting",
+        "data": "12-14 Sept. 2004",
+        "authors": [
+            "T.P. Chow"
+        ],
+        "DOI": "10.1109/BIPOL.2004.1365779",
+        "citation": 1,
+        "abstract": "Wide bandgap semiconductors, particularly SiC and GaN, have recently attracted much attention for power electronics applications because they are projected to have more than 100 times better performance than silicon. In this paper, we review the recent progress in SiC and GaN high-voltage power switching device demonstrations."
+    },
+    {
+        "title": "Advanced domino circuit design [Tutorial]",
+        "conferenceTitle": "Proceedings Design, Automation and Test in Europe Conference and Exhibition",
+        "data": "16-20 Feb. 2004",
+        "authors": [
+            "D. Harris",
+            "T. Grutkowski"
+        ],
+        "DOI": "10.1109/DATE.2004.1268814",
+        "citation": 1,
+        "abstract": ""
+    },
+    {
+        "title": "IST/2004 Medical Applications",
+        "conferenceTitle": "2004 IEEE International Workshop on Imaging Systems and Techniques (IST) (IEEE Cat. No.04EX896)",
+        "data": "14-14 May 2004",
+        "authors": [],
+        "DOI": "10.1109/IST.2004.1397299",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Airborne integrated aviation equipment of surveillance and warning of ground proximity",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "V.I. Baburov",
+            "B.V. Ponomarenko"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "The great need for establishment of the airborne integrated aviation equipment of surveillance and warning of ground proximity is valid, providing the realization of CNS/ATM ICAO concept in part of surveillance in Russia. The integrated equipment structure is suggested and type connections with an other aircraft systems are considered"
+    },
+    {
+        "title": "Web spoofing and phishing attacks and their prevention",
+        "conferenceTitle": "Proceedings of the Fifth Mexican International Conference in Computer Science, 2004. ENC 2004.",
+        "data": "24-24 Sept. 2004",
+        "authors": [
+            "A. Herzberg"
+        ],
+        "DOI": "10.1109/ENC.2004.1342578",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "CIMSA/2004 Session 4: Computational Intelligence and HW Implementation 1",
+        "conferenceTitle": "2004 IEEE International Conference onComputational Intelligence for Measurement Systems and Applications, 2004. CIMSA.",
+        "data": "14-16 July 2004",
+        "authors": [],
+        "DOI": "10.1109/CIMSA.2004.1397231",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "The semantic web and knowledge representation",
+        "conferenceTitle": "Proceedings of the Fifth Mexican International Conference in Computer Science, 2004. ENC 2004.",
+        "data": "24-24 Sept. 2004",
+        "authors": [
+            "P.F. Patel-Schneider"
+        ],
+        "DOI": "10.1109/ENC.2004.1342582",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Plenary Session 1 - Science and Engineering Research in the next 25 years - some general features",
+        "conferenceTitle": "Canadian Conference on Electrical and Computer Engineering 2004 (IEEE Cat. No.04CH37513)",
+        "data": "2-5 May 2004",
+        "authors": [
+            "T. Brzustowski"
+        ],
+        "DOI": "10.1109/CCECE.2004.1344937",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "One-dimensional photonic crystal: low noise light generation",
+        "conferenceTitle": "Proceedings of 2004 6th International Conference on Transparent Optical Networks (IEEE Cat. No.04EX804)",
+        "data": "4-8 July 2004",
+        "authors": [
+            "C. Sibilia"
+        ],
+        "DOI": "10.1109/ICTON.2004.1360265",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. Simple geometries, such as one-dimensional photonic crystals, exhibit a great number of interesting effects in the classical and quantum optical domains. An overview of recent results is presented. In particular a discussion on low noise light generation with non-classical, nonlinear interaction is presented."
+    },
+    {
+        "title": "Session 22 - Advanced CMOS Technology II",
+        "conferenceTitle": "Digest of Technical Papers. 2004 Symposium on VLSI Technology, 2004.",
+        "data": "15-17 June 2004",
+        "authors": [],
+        "DOI": "10.1109/VLSIT.2004.1345494",
+        "citation": 0,
+        "abstract": "Start of the above-titled section of the conference proceedings record."
+    },
+    {
+        "title": "TA1: keynote",
+        "conferenceTitle": "Proceedings of the 21st IEEE Instrumentation and Measurement Technology Conference (IEEE Cat. No.04CH37510)",
+        "data": "18-20 May 2004",
+        "authors": [],
+        "DOI": "10.1109/IMTC.2004.1350980",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Increasing to efficiency to filtering signal",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "V.G. Patyukov"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "On example of the optimum filtering signal Barkera is considered possibility of increasing to efficiency of the processing, founded on use wavelet-transformations"
+    },
+    {
+        "title": "IRW 2004 Special Interest Group (SIG) - Al and Cu test structure designs for stress voiding",
+        "conferenceTitle": "IEEE International Integrated Reliability Workshop Final Report, 2004",
+        "data": "18-21 Oct. 2004",
+        "authors": [],
+        "DOI": "10.1109/IRWS.2004.1422776",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Keynote speeches",
+        "conferenceTitle": "2004 International Conference on Intelligent Mechatronics and Automation, 2004. Proceedings.",
+        "data": "26-31 Aug. 2004",
+        "authors": [],
+        "DOI": "10.1109/ICIMA.2004.1384134",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Workshop WM3: advances in RF and highspeed system integration",
+        "conferenceTitle": "Proceedings. 2004 IEEE Radio and Wireless Conference (IEEE Cat. No.04TH8746)",
+        "data": "22-22 Sept. 2004",
+        "authors": [
+            "J. Laskar",
+            "Kyutae Lim",
+            "S. Chakraborty",
+            "M. Oprysko",
+            "U.A. Srivastava",
+            "Chang-Ho Lee",
+            "K. Choi"
+        ],
+        "DOI": "10.1109/RAWCON.2004.1389051",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Philips our experience in the introduction of leadfree soldering",
+        "conferenceTitle": "2004 International IEEE Conference on the Asian Green Electronics (AGEC). Proceedings of",
+        "data": "7-9 Jan. 2004",
+        "authors": [
+            "S. Yue"
+        ],
+        "DOI": "10.1109/AGEC.2004.1290859",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Sub-optimal trajectory planning for autonomous navigation of an airship - [Not available for publication]",
+        "conferenceTitle": "The 23rd Digital Avionics Systems Conference (IEEE Cat. No.04CH37576)",
+        "data": "28-28 Oct. 2004",
+        "authors": [
+            "S. Hima"
+        ],
+        "DOI": "10.1109/DASC.2004.1390849",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Session TU3A: High Speed ICs and Technologies for Optical Systems",
+        "conferenceTitle": "2004 IEE Radio Frequency Integrated Circuits (RFIC) Systems. Digest of Papers",
+        "data": "6-8 June 2004",
+        "authors": [],
+        "DOI": "10.1109/RFIC.2004.1320605",
+        "citation": 0,
+        "abstract": "Start of the above-titled section of the conference proceedings record."
+    },
+    {
+        "title": "Evolving real time controls under restructuring",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "A. Bose"
+        ],
+        "DOI": "10.1109/PES.2004.1372915",
+        "citation": 0,
+        "abstract": "At this time, the only automatic control employed by the control center is the slow generation control to match the changing load (AGC). Several markets for this ancillary service have been tried without changing the control design, but a bilateral market (e.g. for self-service) requires the redesign of the controls. Similarly, the development of a market for voltage control requires new control design. In the case of stability limited systems, some new controllers like special protection schemes (SPS) can help operation that is closer to the limits of the system. In this presentation, we present new ideas on slow real time controls by the control center that can provide frequency and voltage control under market conditions. Also, faster controls utilizing SPS or RAS that can provide better stability control is described."
+    },
+    {
+        "title": "Unified power engineering laboratory for electromechanical energy",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "T. Gedra",
+            "Seungwon An"
+        ],
+        "DOI": "10.1109/PES.2004.1373038",
+        "citation": 0,
+        "abstract": "Summary form only given. This paper introduces a unified power engineering laboratory capable of various experiments for power systems, power electronics and electromechanical energy conversion. It presents a flexible hardware setup, data acquisition (DAQ), and virtual instrumentation (VI), the base of our unified lab. Some features of virtual instrumentation are shown with real-time phasor diagrams, sequence component analysis, and spectral analysis of AC data. We describe the general design of a single lab setup, which can be used for power electronics and electromechanical energy conversion experiments independently. We also present an example of power system operations, which can be implemented by the interconnection of several lab stations."
+    },
+    {
+        "title": "Enhanced frequency response in buried ridge quantum well intermixed SGDBR laser modulators",
+        "conferenceTitle": "Conference on Lasers and Electro-Optics, 2004. (CLEO).",
+        "data": "16-21 May 2004",
+        "authors": [
+            "J.W. Raring",
+            "E.J. Skogen",
+            "L.A. Johansson",
+            "L.A. Coldren"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "We have studied the effects of various proton implant profiles on the performance of buried-ridge-stripe electro-absorption modulators monolithically integrated with SG-DBR lasers. Two implant profiles were performed adjacent to the buried ridge, enhancing the bandwidth."
+    },
+    {
+        "title": "Going public with software-as-a-service",
+        "conferenceTitle": "Proceedings. IEEE International Conference on Web Services, 2004.",
+        "data": "9-9 July 2004",
+        "authors": [
+            "E. Feig"
+        ],
+        "DOI": "10.1109/ICWS.2004.1314709",
+        "citation": 0,
+        "abstract": "The market is demanding seamless application integration. Those who can deliver on this demand will be rewarded. Web services will play a key role in making it possible, affordable, and ease to use."
+    },
+    {
+        "title": "Session 17 - Process Technology",
+        "conferenceTitle": "Digest of Technical Papers. 2004 Symposium on VLSI Technology, 2004.",
+        "data": "15-17 June 2004",
+        "authors": [],
+        "DOI": "10.1109/VLSIT.2004.1345461",
+        "citation": 0,
+        "abstract": "Start of the above-titled section of the conference proceedings record."
+    },
+    {
+        "title": "Biomedical imaging research opportunities at the NIH",
+        "conferenceTitle": "The 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+        "data": "1-5 Sept. 2004",
+        "authors": [
+            "J. Haller"
+        ],
+        "DOI": "10.1109/IEMBS.2004.1404451",
+        "citation": 0,
+        "abstract": "Biomedical imaging is a key aspect of clinical diagnosis and treatment of disease and research concerning disease genesis, progression, and therapy. The NIH offers research funding opportunities for imaging at the cellular/molecular levels and at the whole-body (diagnostic) levels. This presentation will discuss imaging programs and directions at the NIH and specific funding opportunities that encompass devices, informatics, and applications."
+    },
+    {
+        "title": "Standardization of verification methods for scales weighing railway carriers in motion",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "I.G. Tsybin",
+            "S.P. Tyumentseva",
+            "E.V. Vargasova"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "The technique for verification of scales for weighing in motion is considered. Accuracy derivations taking into account various parameters are presented"
+    },
+    {
+        "title": "Can shannon's channel capacity be challenged?",
+        "conferenceTitle": "The 2004 IEEE Asia-Pacific Conference on Circuits and Systems, 2004. Proceedings.",
+        "data": "6-9 Dec. 2004",
+        "authors": [
+            "Rueywen Liu"
+        ],
+        "DOI": "10.1109/APCCAS.2004.1412666",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank Page",
-        "conferenceTitle": "Second International Conference on Power Electronics, Machines and Drives (PEMD 2004).",
-        "data": "31 March-2 April 2004",
-        "authors": [],
-        "DOI": "",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Blank page",
-        "conferenceTitle": "Microtechnology Meets Nanoscience - A commercial Opportunity?",
-        "data": "8-8 July 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Ear-type systems",
+        "conferenceTitle": "The 2004 IEEE Asia-Pacific Conference on Circuits and Systems, 2004. Proceedings.",
+        "data": "6-9 Dec. 2004",
+        "authors": [
+            "R.W. Newcomb"
+        ],
+        "DOI": "10.1109/APCCAS.2004.1412670",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
-        "authors": [],
+        "title": "A frequency transformation for the networks on the equal stepped nonuniform sections of transmission line",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "S.V. Taranin",
+            "G.N. Devjatkov"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The frequency transformation are presented. It enable to transform the networks on lumped elements to the networks on stepped nonuniform sections of transmission line with arbitrary quantity sections."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Microtechnology Meets Nanoscience - A commercial Opportunity?",
-        "data": "8-8 July 2004",
+        "title": "Electric transportation",
+        "conferenceTitle": "Proceedings. 2004 First International Conference on Power Electronics Systems and Applications, 2004.",
+        "data": "9-11 Nov. 2004",
         "authors": [],
         "DOI": "",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "2004 Eighth IEE International Conference on Developments in Power System Protection",
-        "data": "5-8 April 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Efficient operation regions of power distribution transformers",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "Minghao Yang",
+            "Yajun Shi",
+            "Jing Zhang"
+        ],
+        "DOI": "10.1109/PES.2004.1372954",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Summary form only given. A new concept of efficient operation regions of distribution transformers on power factor vs. active power (cos/spl Phi/-P) plane is proposed. Based on it a visual analysis method is obtained to determine efficient ranges of operating transformers. This method could be used for analyzing efficiency of transformer loading based on databases of the distribution automation system, and the real time operational loci of distribution transformers could also be obtained. An application of this method in a 10 kV overhead distribution automation is given."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Telecommunications Hot Topics Forum 2004 (Ref. No. 2004/10757)",
-        "data": "9-10 Nov. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Transport of flight critical data over IP - [Not available for publication]",
+        "conferenceTitle": "The 23rd Digital Avionics Systems Conference (IEEE Cat. No.04CH37576)",
+        "data": "28-28 Oct. 2004",
+        "authors": [
+            "N. Thanthry"
+        ],
+        "DOI": "10.1109/DASC.2004.1390816",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Not Available for Publication"
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Fuzzy-genetic algorithm for pre-processing the data at RTU",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "P. Kumar",
+            "V. Chandna",
+            "M. Thomas"
+        ],
+        "DOI": "10.1109/PES.2004.1373005",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Summary form only given. Uncertainties are always present in the data captured at the RTU in a power system. In this paper, it has been demonstrated that, pre-processing the data with fuzzy-genetic algorithm at the RTU, will reduce the uncertainty and vagueness in the measurands. The initial population for genetic algorithm applied is generated with assumed fuzzy functions. These functions are optimized using the theory of reproduction, cross over and mutation. The result shows that fuzzy-genetic algorithm gives better results than the other methods available. It is also observed that fuzzy-genetic algorithm is easy to apply to the output fuzzy solution rather than to the input fuzzy function."
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "High-K dielectrics: materials physics, instabilities, defects, and reliability",
+        "conferenceTitle": "IEEE International Integrated Reliability Workshop Final Report, 2004",
+        "data": "18-21 Oct. 2004",
+        "authors": [
+            "J.F. Conley"
+        ],
+        "DOI": "10.1109/IRWS.2004.1422778",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
+        "title": "Session TU1A: Advances in Low Noise Silicon Technology and Applications",
+        "conferenceTitle": "2004 IEEE MTT-S International Microwave Symposium Digest (IEEE Cat. No.04CH37535)",
+        "data": "6-11 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/MWSYM.2004.1335781",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Back Inside Cover [blank]",
-        "conferenceTitle": "IEE Seminar on Is Your Product Safe? (Ref. No. 2004/10724)",
-        "data": "16-16 Sept. 2004",
+        "title": "IJCNN 2004 IEEE International Joint Conference on Neural Networks",
+        "conferenceTitle": "2004 IEEE International Joint Conference on Neural Networks (IEEE Cat. No.04CH37541)",
+        "data": "25-29 July 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/IJCNN.2004.1381045",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Breaker pages",
-        "conferenceTitle": "2004 Mini Symposia UKACC Control",
-        "data": "8-8 Sept. 2004",
+        "title": "Session MO1C: CMOS Low Noise Amplifiers",
+        "conferenceTitle": "2004 IEE Radio Frequency Integrated Circuits (RFIC) Systems. Digest of Papers",
+        "data": "6-8 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/RFIC.2004.1320536",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Overview of physics of stress-induced voiding in microelectronics metallizations",
+        "conferenceTitle": "IEEE International Integrated Reliability Workshop Final Report, 2004",
+        "data": "18-21 Oct. 2004",
+        "authors": [
+            "T.d. Sullivan"
+        ],
+        "DOI": "10.1109/IRWS.2004.1422782",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Notes",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
+        "title": "Keynote speech",
+        "conferenceTitle": "2004 Semiconductor Manufacturing Technology Workshop Proceedings (IEEE Cat. No.04EX846)",
+        "data": "9-10 Sept. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/SMTW.2004.1393696",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "The Third International Seminar on Advances in Carbon Electronics",
-        "conferenceTitle": "2004 The Third International Seminar on Advances in Carbon Electronics",
-        "data": "1-1 Oct. 2004",
+        "title": "Algorithms, tools and applications",
+        "conferenceTitle": "8th International Multitopic Conference, 2004. Proceedings of INMIC 2004.",
+        "data": "24-26 Dec. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/INMIC.2004.1492954",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Microtechnology Meets Nanoscience - A commercial Opportunity?",
-        "data": "8-8 July 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Workshop WM1: front end optoelectronics for future radio communications",
+        "conferenceTitle": "Proceedings. 2004 IEEE Radio and Wireless Conference (IEEE Cat. No.04TH8746)",
+        "data": "22-22 Sept. 2004",
+        "authors": [
+            "A.S. Daryoush",
+            "A. Nirmalathas",
+            "K. Kitayama",
+            "T. Nagatsuma",
+            "T. Berceli",
+            "H. Ogawa",
+            "M.A. Khatibzadeh"
+        ],
+        "DOI": "10.1109/RAWCON.2004.1389049",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Notes",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
+        "title": "Session 7 - Advanced Interconnects",
+        "conferenceTitle": "Digest of Technical Papers. 2004 Symposium on VLSI Technology, 2004.",
+        "data": "15-17 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/VLSIT.2004.1345392",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank Page",
-        "conferenceTitle": "Second International Conference on Power Electronics, Machines and Drives (PEMD 2004).",
-        "data": "31 March-2 April 2004",
+        "title": "Session TU4C: Millimeter-Wave MMIC Components and Subsystems",
+        "conferenceTitle": "2004 IEEE MTT-S International Microwave Symposium Digest (IEEE Cat. No.04CH37535)",
+        "data": "6-11 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/MWSYM.2004.1335848",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Microtechnology Meets Nanoscience - A commercial Opportunity?",
-        "data": "8-8 July 2004",
+        "title": "Tutorial Programme",
+        "conferenceTitle": "Proceedings of the IEEE INDICON 2004. First India Annual Conference, 2004.",
+        "data": "20-22 Dec. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/INDICO.2004.1497692",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Provides a schedule of conference events and a listing of which papers were presented in each session."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
+        "title": "IMTC/04 tutorials",
+        "conferenceTitle": "Proceedings of the 21st IEEE Instrumentation and Measurement Technology Conference (IEEE Cat. No.04CH37510)",
+        "data": "18-20 May 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/IMTC.2004.1351176",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
-        "authors": [],
+        "title": "X-ray diffraction with sub-picosecond time resolution",
+        "conferenceTitle": "InternationalQuantum Electronics Conference, 2004. (IQEC).",
+        "data": "21-21 May 2004",
+        "authors": [
+            "D. von der Linde",
+            "K. Sokolowski-Tinten"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The paper reports on the study of femtosecond laser-induced structural phase transitions in solids using pump-probe time-resolved X-ray diffraction. This time-resolved technique provides an extraordinary, dynamic view of the atomic structure"
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Telecommunications Hot Topics Forum 2004 (Ref. No. 2004/10757)",
-        "data": "9-10 Nov. 2004",
+        "title": "Session TH5D - New applications of time domain methods",
+        "conferenceTitle": "2004 IEEE MTT-S International Microwave Symposium Digest (IEEE Cat. No.04CH37535)",
+        "data": "6-11 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/MWSYM.2004.1338943",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Future PDA terminals with a TOPS DSP",
+        "conferenceTitle": "The 2004 47th Midwest Symposium on Circuits and Systems, 2004. MWSCAS '04.",
+        "data": "25-28 July 2004",
+        "authors": [
+            "T. Nishitani"
+        ],
+        "DOI": "10.1109/MWSCAS.2004.1354271",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
+        "title": "Test technology educational program TTEP 2004 overview of tutorials of VTS 2004",
+        "conferenceTitle": "22nd IEEE VLSI Test Symposium, 2004. Proceedings.",
+        "data": "25-29 April 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/VTEST.2004.1299211",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "IEE Intelligent Distributed Surveillance Systems - Cover",
-        "conferenceTitle": "IEE Intelligent Distributed Surveilliance Systems",
-        "data": "23-23 Feb. 2004",
-        "authors": [],
+        "title": "Generation and wavelength conversion of conversion of laser light in photonic crystal fibres",
+        "conferenceTitle": "Conference on Lasers and Electro-Optics, 2004. (CLEO).",
+        "data": "16-21 May 2004",
+        "authors": [
+            "P.St.J. Russell",
+            "F. Benabid",
+            "J.C. Knight",
+            "D.V. Skryabin",
+            "W.J. Wadsworth"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Through radically enhanced control of the guided modes, PCF is giving rise to a new generation of high performance all-fibre devices, including gas-Raman cells, supercontinuum sources, nonlinear wavelength converters and ultra-high power cladding-pumped lasers."
     },
     {
-        "title": "IEE New EMC Issues in Design: Techniques, Tools and Components Seminar",
-        "conferenceTitle": "The IEE New EMC Issues in Design: Techniques, Tools and Components Seminar",
-        "data": "28-28 April 2004",
-        "authors": [],
+        "title": "Metrological aspects of optical and laser determinations of earth rotation parameters",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "B.S. Mogilnitsky",
+            "A.S. Tolstikov"
+        ],
         "DOI": "",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "What will it take to mass produce microprocesor based systems in the next decade?",
+        "conferenceTitle": "Proceedings of the Fifth IEEE International Caracas Conference on Devices, Circuits and Systems, 2004.",
+        "data": "3-5 Nov. 2004",
+        "authors": [
+            "R.E. Suarez-Gartner"
+        ],
+        "DOI": "10.1109/ICCDCS.2004.1393341",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "ISBN 0-86341-451-6 [Back Cover]",
-        "conferenceTitle": "2004 Mini Symposia UKACC Control",
-        "data": "8-8 Sept. 2004",
-        "authors": [],
+        "title": "Metrology in multiservice networks",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "M.G. Fadin"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Methods and means of measurements of the main metrological characteristics of multiservict networks are considered"
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE COTS and SOUP Seminar (Ref. No. 2004/10728)",
-        "data": "21-21 Oct. 2004",
-        "authors": [],
+        "title": "Medical imaging applications of telecom sources",
+        "conferenceTitle": "Optical Fiber Communication Conference, 2004. OFC 2004",
+        "data": "23-27 Feb. 2004",
+        "authors": [
+            "J.A. Izatt"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Telecom sources have become crucial elements of biophotonic imaging systems including optical coherence tomography and diffuse optical tomography. This presentation will focus on emerging applications of ultrabroadband and swept laser sources in optical coherence tomography."
     },
     {
-        "title": "Blank Page",
-        "conferenceTitle": "2004 IEE Telecommunications Quality of Services: The Business of Success QoS 2004",
-        "data": "2-3 March 2004",
+        "title": "Session MO1A: RFIC Symposium Plenary",
+        "conferenceTitle": "2004 IEE Radio Frequency Integrated Circuits (RFIC) Systems. Digest of Papers",
+        "data": "6-8 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/RFIC.2004.1320503",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
-        "authors": [],
+        "title": "Confrontation of double-diode shf power soud-state amplifiers by different ways of inclusion of diodes in the cavity",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "Yu.I. Alexeev",
+            "I.V. Maliyov"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "It is conducted confrontation of double-diode Gunn amplifiers with longitudinal and cross inclusion of diodes in vibrating system. It is compared general characteristics of thee amplifiers."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Open Control Systems - The Importance of Industrial Standards",
-        "data": "26-26 May 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Enter the grid introducing Oracle 10g",
+        "conferenceTitle": "1st IEEE International Workshop on Grid Economics and Business Models, 2004. GECON 2004.",
+        "data": "23-23 April 2004",
+        "authors": [
+            "Soo Hwan Yang"
+        ],
+        "DOI": "10.1109/GECON.2004.1317595",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Grid computing is defined as coordinated use of many servers and storage acting as one large computer. Oracle strategy for IT is in enterprise Grid computing and responsive in software architecture application. Policy based load balancing for database and application server clusters, dynamic allocation of servers using rules, automated routing of service requests. Self-managing database are built-in intelligent infrastructures, automatic SQL tuning, automatic storage management, automatic database diagnostic monitor."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar on Validation of Computational Electromagnetics",
-        "data": "30-30 March 2004",
-        "authors": [],
+        "title": "The equal transformation for the networks on the stepped nonuniform sections of transmission line",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "S.V. Taranin",
+            "G.N. Devjatkov"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The equal transformation for the networks on the stepped nonuniform sections of transmission line with arbitrary quantity section's are presented. It enable to obtain more comfortable hardware implementation in the different practical application."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Microtechnology Meets Nanoscience - A commercial Opportunity?",
-        "data": "8-8 July 2004",
+        "title": "Control methods for DC-DC converters",
+        "conferenceTitle": "2004 IEEE 35th Annual Power Electronics Specialists Conference (IEEE Cat. No.04CH37551)",
+        "data": "20-25 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/PESC.2004.1355754",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Notes",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
+        "title": "Sunday Tutorial",
+        "conferenceTitle": "2004 IEEE MTT-S International Microwave Symposium Digest (IEEE Cat. No.04CH37535)",
+        "data": "6-11 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/MWSYM.2004.1339029",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Presents information on conference tutorials."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "1st European Conference on Visual Media Production (CVMP) 2004",
-        "data": "15-16 March 2004",
+        "title": "Session TH4C - Advances in self-steering arrays",
+        "conferenceTitle": "2004 IEEE MTT-S International Microwave Symposium Digest (IEEE Cat. No.04CH37535)",
+        "data": "6-11 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/MWSYM.2004.1338910",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Back Outside Cover [ISBN 0-86341-386-2]",
-        "conferenceTitle": "12th IEE International Conference on Road Transport Information and Control, 2004. RTIC 2004.",
-        "data": "20-22 April 2004",
-        "authors": [],
+        "title": "High power fiber lasers and amplifiers",
+        "conferenceTitle": "Conference on Lasers and Electro-Optics, 2004. (CLEO).",
+        "data": "16-21 May 2004",
+        "authors": [
+            "J. Limpert"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Recent developments in the field of high-power fiber laser systems are reviewed. Basic limitations have been overcome by applying novel fiber-designs and experimental strategies, leading to significant power-scaling of continuous-wave and pulsed-fiber lasers and amplifiers."
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Plenary session keynote speakers",
+        "conferenceTitle": "2004 IEEE MTT-S International Microwave Symposium Digest (IEEE Cat. No.04CH37535)",
+        "data": "6-11 June 2004",
+        "authors": [
+            "R.F. Leheny",
+            "M.J. Marcus"
+        ],
+        "DOI": "10.1109/MWSYM.2004.1335779",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Provides an abstract for each of the keynote presentations and a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
+        "title": "Calculation of parameters of ozone generator for combustive lubricating materials rapid analysis device",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "G.V. Shuvalov"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The calculation of parameters of ozone generator for device designed for rapid measurement of sulphur content in combustive-lubricating materials is considered."
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
+        "title": "Section 5: Radar systems and technology",
+        "conferenceTitle": "Proceedings of the Tenth International Conference on Grounds Penetrating Radar, 2004. GPR 2004.",
+        "data": "21-24 June 2004",
         "authors": [],
         "DOI": "",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Intelligent Distributed Surveillance Systems (IDSS-04)",
-        "conferenceTitle": "IEE Intelligent Distributed Surveilliance Systems",
-        "data": "23-23 Feb. 2004",
+        "title": "Section 16: Soil Characterisation",
+        "conferenceTitle": "Proceedings of the Tenth International Conference on Grounds Penetrating Radar, 2004. GPR 2004.",
+        "data": "21-24 June 2004",
         "authors": [],
         "DOI": "",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Telecommunications Hot Topics Forum 2004 (Ref. No. 2004/10757)",
-        "data": "9-10 Nov. 2004",
+        "title": "Databases and wrehousing",
+        "conferenceTitle": "8th International Multitopic Conference, 2004. Proceedings of INMIC 2004.",
+        "data": "24-26 Dec. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/INMIC.2004.1492960",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Lateral containment concepts for closely spaced parallel approaches - [Not available for publications]",
+        "conferenceTitle": "The 23rd Digital Avionics Systems Conference (IEEE Cat. No.04CH37576)",
+        "data": "28-28 Oct. 2004",
+        "authors": [
+            "A. Warren"
+        ],
+        "DOI": "10.1109/DASC.2004.1391271",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Keynote address: Moore's law and the VR experience",
+        "conferenceTitle": "IEEE Virtual Reality 2004",
+        "data": "27-31 March 2004",
+        "authors": [
+            "K. Akeley"
+        ],
+        "DOI": "10.1109/VR.2004.1310035",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
+        "title": "Accepted papers by country",
+        "conferenceTitle": "2004 International Symposium on System-on-Chip, 2004. Proceedings.",
+        "data": "16-18 Nov. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/ISSOC.2004.1411191",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Back Inside Cover [blank]",
-        "conferenceTitle": "IEE Seminar Road User Charging: Technical and Operational Development, 2004.",
-        "data": "9-9 June 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "On the future of adaptive function allocation - [Not available for publication]",
+        "conferenceTitle": "The 23rd Digital Avionics Systems Conference (IEEE Cat. No.04CH37576)",
+        "data": "28-28 Oct. 2004",
+        "authors": [
+            "P. Hancock"
+        ],
+        "DOI": "10.1109/DASC.2004.1391338",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The document was not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE COTS and SOUP Seminar (Ref. No. 2004/10728)",
-        "data": "21-21 Oct. 2004",
+        "title": "Tutorials",
+        "conferenceTitle": "2004 International Siberian Workshop on Electron Devices and Materials",
+        "data": "1-5 July 2004",
         "authors": [],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Provides an abstract for each of the tutorial presentations and a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
+        "title": "Tutorials and workshops",
+        "conferenceTitle": "Proceedings. IEEE/WIC/ACM International Conference on Intelligent Agent Technology, 2004. (IAT 2004).",
+        "data": "24-24 Sept. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/IAT.2004.1342911",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Provides an abstract for each of the tutorial presentations and a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
-        "authors": [],
+        "title": "Method for analysis of translation and rotation of a spherical cap biomolecule",
+        "conferenceTitle": "SICE 2004 Annual Conference",
+        "data": "4-6 Aug. 2004",
+        "authors": [
+            "H. Hirayama"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "A double series expansion technique was introduced to analyse translation and rotation of a spherical cap biomolecule in Stokes flow."
     },
     {
-        "title": "UKACC Control 2004 Mini Symposia [Cover]",
-        "conferenceTitle": "2004 Mini Symposia UKACC Control",
-        "data": "8-8 Sept. 2004",
-        "authors": [],
+        "title": "The issues of raising information delivery reliability in multiservice networks",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "M.G. Fadin"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The issues of raising information delivery reliability in multiservice networks are considered."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "1st European Conference on Visual Media Production (CVMP) 2004",
-        "data": "15-16 March 2004",
+        "title": "Session M03D: Advanced RFIC Technology Trends",
+        "conferenceTitle": "2004 IEE Radio Frequency Integrated Circuits (RFIC) Systems. Digest of Papers",
+        "data": "6-8 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/RFIC.2004.1320577",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Open Control Systems - The Importance of Industrial Standards",
-        "data": "26-26 May 2004",
-        "authors": [],
+        "title": "Theoretical aspects of development of mathematical model for soliton communication lines",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "N.I. Gorlov",
+            "O.A. Tatarkina"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The basic equations describing soliton communication lines and features of their application are considered. The analysis of influence of various dominant, limiting factors on establishment and maintenance of soliton mode in single-mode fiber is presented."
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Transitionally adopting new technologies in foreign language teaching",
+        "conferenceTitle": "Information Technology Based Proceedings of the FIfth International Conference onHigher Education and Training, 2004. ITHET 2004.",
+        "data": "31 May-2 June 2004",
+        "authors": [
+            "N. Shomoossi"
+        ],
+        "DOI": "10.1109/ITHET.2004.1358203",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Summary form only given. As the age of education is being affected by the emergence of IT, we'll be encountering many role transitions from teacher and student through course material to methods of teaching and evaluation. Among the different elements affecting English language classes, This work takes a close look at the realities and misconceptions of teachers' adapting to educational technology and electronic ways of learning English, in particular, which may seem a threat for them at first glance but a powerful instrument if properly conceived."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
+        "title": "Extreme MR: Going Beyond Reality to Create Extreme Multi-Modal Mixed Reality for Entertainment, Training and Education",
+        "conferenceTitle": "Third IEEE and ACM International Symposium on Mixed and Augmented Reality",
+        "data": "5-5 Nov. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/ISMAR.2004.31",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Neural network aided adaptive federal kalman filtering for intelligent integrated navigation application - [Not available for publication]",
+        "conferenceTitle": "The 23rd Digital Avionics Systems Conference (IEEE Cat. No.04CH37576)",
+        "data": "28-28 Oct. 2004",
+        "authors": [
+            "Lin Chai"
+        ],
+        "DOI": "10.1109/DASC.2004.1390753",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank Page",
-        "conferenceTitle": "2004 IEE Telecommunications Quality of Services: The Business of Success QoS 2004",
-        "data": "2-3 March 2004",
+        "title": "Invited talks",
+        "conferenceTitle": "2nd Workshop onEmbedded Systems for Real-Time Multimedia, 2004. ESTImedia 2004.",
+        "data": "6-7 Sept. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/ESTMED.2004.1359687",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Provides an abstract for each of the invited presentations and a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Microtechnology Meets Nanoscience - A commercial Opportunity?",
-        "data": "8-8 July 2004",
+        "title": "Mini-circuits student fellowship winners",
+        "conferenceTitle": "34th European Microwave Conference, 2004.",
+        "data": "12-14 Oct. 2004",
         "authors": [],
         "DOI": "",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "IEE Mini Symposium 'Developments in Industrial Drives and Systems'",
-        "conferenceTitle": "2004 Mini Symposia UKACC Control",
-        "data": "8-8 Sept. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "A novel exact and universal approach for calculating the differential leakage related to harmonic waves in AC electric motors",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "Huang Xueliang",
+            "Hu Minqiang"
+        ],
+        "DOI": "10.1109/PES.2004.1373117",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Summary form only given. In this work, the distribution pattern of harmonic waves in AC electric motors are investigated. On the basis of this, a novel exact and universal approach for calculating differential leakage related to the harmonic waves was developed. This approach applies to any AC electric motors, regardless of winding type, single-phase or three-phase, regular or nonregular, integral-slot or fractional-slot, symmetrical or asymmetrical. Since this novel approach substitutes the approximation method adopted by conventional approaches with an exact one, it distinguishes itself by offering precise results, general applicability, and fast calculation."
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "12th IEE International Conference on Road Transport Information and Control, 2004. RTIC 2004.",
-        "data": "20-22 April 2004",
+        "title": "Session 1 - Plenary Session",
+        "conferenceTitle": "Digest of Technical Papers. 2004 Symposium on VLSI Technology, 2004.",
+        "data": "15-17 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/VLSIT.2004.1345357",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Notes",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
+        "title": "Session TU4D: Millimeter- and Submillimeter-Wave Components and Technology",
+        "conferenceTitle": "2004 IEEE MTT-S International Microwave Symposium Digest (IEEE Cat. No.04CH37535)",
+        "data": "6-11 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/MWSYM.2004.1335889",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank Page",
-        "conferenceTitle": "IEE Target Tracking 2004: Algorithms and Applications",
-        "data": "23-24 March 2004",
+        "title": "Session 2 - Advanced CMOS Technology",
+        "conferenceTitle": "Digest of Technical Papers. 2004 Symposium on VLSI Technology, 2004.",
+        "data": "15-17 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/VLSIT.2004.1345361",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "[Back cover]",
-        "conferenceTitle": "2004 IEE Seminar on Ultra Wideband Communications Technologies and System Design",
-        "data": "8-8 July 2004",
-        "authors": [],
+        "title": "Clock and frame synchronization system in the consecutive multifrequence modem",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "T.G. Krivolapov"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": "Presents the back cover of this proceedings volume."
+        "abstract": "The consecutive multifrequency modem is used in channels with a strongly pronounced multipath propagation It is offered the algorithm of clock and frame synchronization in the consecutive multifrequency modern (hopping system). The algorithm is based on finding and analysis of correlation functions on two half-cycles of a received signal."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Telecommunications Hot Topics Forum 2004 (Ref. No. 2004/10757)",
-        "data": "9-10 Nov. 2004",
+        "title": "Session TU6A: Microwave Superconducting Components and Circuits",
+        "conferenceTitle": "2004 IEEE MTT-S International Microwave Symposium Digest (IEEE Cat. No.04CH37535)",
+        "data": "6-11 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/MWSYM.2004.1335817",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
+        "title": "Other areas",
+        "conferenceTitle": "8th International Conference on Computer Supported Cooperative Work in Design",
+        "data": "26-28 May 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/CACWD.2004.1349108",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "ISBN 0-86341-468-0 [Back Cover]",
-        "conferenceTitle": "The IEE Storage and Home Networks Seminar, 2004.",
-        "data": "3-3 Nov. 2004",
+        "title": "CIMSA/2004 Session 7: Intelligent Computation and Applications",
+        "conferenceTitle": "2004 IEEE International Conference onComputational Intelligence for Measurement Systems and Applications, 2004. CIMSA.",
+        "data": "14-16 July 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/CIMSA.2004.1397241",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
+        "title": "Proceedings of the 2004 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology (IEEE Cat. No.04EX946)",
+        "conferenceTitle": "2004 Symposium on Computational Intelligence in Bioinformatics and Computational Biology",
+        "data": "7-8 Oct. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/CIBCB.2004.1393915",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The following topics are dealt with: genetic regulatory network; cluster analysis; artificial neural networks; gene expression data analysis; support vector machines; microarray classification; RNA; genetic engineering; parallel evolutionary algorithm; and protein family classification."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar on On the Right Lines - Systems Engineering for the Railway Industry",
-        "data": "26-26 May 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Attaining higher performance in collective communication",
+        "conferenceTitle": "2004 IEEE International Conference on Cluster Computing (IEEE Cat. No.04EX935)",
+        "data": "20-23 Sept. 2004",
+        "authors": [
+            "E. Chan",
+            "M. Heimlich",
+            "A. Purkayastha",
+            "R. van de Geijn"
+        ],
+        "DOI": "10.1109/CLUSTR.2004.1392650",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Summary form only given. It has long been thought that research into collective communication algorithms on distributed-memory parallel computers has been exhausted. This project demonstrates that the implementations available as part of widely-used libraries are suboptimal. We demonstrate this through the implementation of the \"reduce-scatter\" collective communication and comparison with the MPICH implementation of MPI. Performance on a large cluster is reported."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
+        "title": "New devices for PH measurements",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "A.A. Mishchenkov",
+            "A.G. Trubekhina",
+            "B.A. Khvorostov",
+            "L.V. Chalyshev"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The development of new devices for measurement of ion activity pH, redox potential, Eh, temperature in liquids"
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Methods of implementing very high performance avionics processing circuits using FPGAS - [Not available for publication]",
+        "conferenceTitle": "The 23rd Digital Avionics Systems Conference (IEEE Cat. No.04CH37576)",
+        "data": "28-28 Oct. 2004",
+        "authors": [
+            "R. Pedersen"
+        ],
+        "DOI": "10.1109/DASC.2004.1390788",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE COTS and SOUP Seminar (Ref. No. 2004/10728)",
-        "data": "21-21 Oct. 2004",
-        "authors": [],
+        "title": "X-ray diffraction with sub-picosecond time resolution",
+        "conferenceTitle": "Conference on Lasers and Electro-Optics, 2004. (CLEO).",
+        "data": "16-21 May 2004",
+        "authors": [
+            "D. von der Linde",
+            "K. Sokolowski-Tinten"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Microplasmas generated by femtosecond laser pulses emit short bursts of multi-keV X-rays. X-ray diffraction of these pulses can be used to probe ultrafast changes in the atomic configuration of the material caused by pulsed laser excitation."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE COTS and SOUP Seminar (Ref. No. 2004/10728)",
-        "data": "21-21 Oct. 2004",
+        "title": "Workshop C - Implementing Secure Wi-Fi Networks",
+        "conferenceTitle": "Canadian Conference on Electrical and Computer Engineering 2004 (IEEE Cat. No.04CH37513)",
+        "data": "2-5 May 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/CCECE.2004.1345145",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
+        "title": "IJCNN 2004 IEEE International Joint Conference on Neural Networks",
+        "conferenceTitle": "2004 IEEE International Joint Conference on Neural Networks (IEEE Cat. No.04CH37541)",
+        "data": "25-29 July 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/IJCNN.2004.1381124",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Front Inside Cover [blank]",
-        "conferenceTitle": "Fifth IEE International Conference on 3G Mobile Communication Technologies",
-        "data": "18-20 Oct. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Statistical methods for VLSI test, quality and reliability",
+        "conferenceTitle": "22nd IEEE VLSI Test Symposium, 2004. Proceedings.",
+        "data": "25-29 April 2004",
+        "authors": [
+            "A. Singh"
+        ],
+        "DOI": "10.1109/VTEST.2004.1299215",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "1st European Conference on Visual Media Production (CVMP) 2004",
-        "data": "15-16 March 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Single semiconductor nanocrystals luminescence decay and photon statistics",
+        "conferenceTitle": "InternationalQuantum Electronics Conference, 2004. (IQEC).",
+        "data": "21-21 May 2004",
+        "authors": [
+            "B. Lounis"
+        ],
+        "DOI": "10.1364/IQEC.2004.IThJ3",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The temperature dependence of the luminescence decay of single CdSe/ZnS quantum dots, shows that the band edge luminescence arises from two thermally mixed fine structure states: the dark ground state and the lowest bright one"
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Open Control Systems - The Importance of Industrial Standards",
-        "data": "26-26 May 2004",
+        "title": "Session 11- Integrated Circuits and Manufacturing - SRAM and SOI-Based Memories",
+        "conferenceTitle": "IEDM Technical Digest. IEEE International Electron Devices Meeting, 2004.",
+        "data": "13-15 Dec. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/IEDM.2004.1419125",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Summary form only given. Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Open Control Systems - The Importance of Industrial Standards",
-        "data": "26-26 May 2004",
+        "title": "Advanced memory issues - Session 16",
+        "conferenceTitle": "Proceedings of the IEEE 2004 Custom Integrated Circuits Conference (IEEE Cat. No.04CH37571)",
+        "data": "6-6 Oct. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/CICC.2004.1358814",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "W3 RF transceiver for wireless communication",
+        "conferenceTitle": "ICMMT 4th International Conference on, Proceedings Microwave and Millimeter Wave Technology, 2004.",
+        "data": "18-21 Aug. 2004",
+        "authors": [
+            "Zhongming Shi"
+        ],
+        "DOI": "10.1109/ICMMT.2004.1411443",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The document was not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
+        "title": "Advanced Visual Tracking",
+        "conferenceTitle": "Third IEEE and ACM International Symposium on Mixed and Augmented Reality",
+        "data": "5-5 Nov. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/ISMAR.2004.10",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Back Inside Cover [blank]",
-        "conferenceTitle": "2004 The Third International Seminar on Advances in Carbon Electronics",
-        "data": "1-1 Oct. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Low-power design",
+        "conferenceTitle": "International Symposium on Signals, Circuits and Systems. Proceedings, SCS 2003. (Cat. No.03EX720)",
+        "data": "22-24 March 2004",
+        "authors": [
+            "K. Roy"
+        ],
+        "DOI": "10.1109/ISQED.2004.1283640",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
+        "title": "Session 30 - CMOS and Interconnect Reliability - Gate Dielectric Reliability - Breakdown, and Device Degradation Mechanism",
+        "conferenceTitle": "IEDM Technical Digest. IEEE International Electron Devices Meeting, 2004.",
+        "data": "13-15 Dec. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/IEDM.2004.1419268",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Summary form only given. Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "1st European Conference on Visual Media Production (CVMP) 2004",
-        "data": "15-16 March 2004",
+        "title": "Session 7 - CMOS Devices - Strained Silicon I",
+        "conferenceTitle": "IEDM Technical Digest. IEEE International Electron Devices Meeting, 2004.",
+        "data": "13-15 Dec. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/IEDM.2004.1419093",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Summary form only given. Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Telecommunications Hot Topics Forum 2004 (Ref. No. 2004/10757)",
-        "data": "9-10 Nov. 2004",
+        "title": "Inverter control (incl. PWM), drives and motion control III",
+        "conferenceTitle": "2004 IEEE 35th Annual Power Electronics Specialists Conference (IEEE Cat. No.04CH37551)",
+        "data": "20-25 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/PESC.2004.1355082",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
+        "title": "Conference keynote addresses",
+        "conferenceTitle": "2004 IEEE International Engineering Management Conference (IEEE Cat. No.04CH37574)",
+        "data": "18-21 Oct. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/IEMC.2004.1408817",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar on On the Right Lines - Systems Engineering for the Railway Industry",
-        "data": "26-26 May 2004",
+        "title": "Session TU2D: VCO Design Techniques II",
+        "conferenceTitle": "2004 IEE Radio Frequency Integrated Circuits (RFIC) Systems. Digest of Papers",
+        "data": "6-8 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/RFIC.2004.1320654",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Microtechnology Meets Nanoscience - A commercial Opportunity?",
-        "data": "8-8 July 2004",
+        "title": "Acknowledgement",
+        "conferenceTitle": "16th IPRM. 2004 International Conference on Indium Phosphide and Related Materials, 2004.",
+        "data": "31 May-4 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/ICIPRM.2004.1442584",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
+        "title": "Electromagnetic metrology",
+        "conferenceTitle": "2004 Second International Workshop Ultrawideband and Ultrashort Impulse Signals (IEEE Cat. No.04EX925)",
+        "data": "19-22 Sept. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/UWBUS.2004.1388077",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "IEE Seminar on Railway Information Systems",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
+        "title": "Artificial itelligence/genetic algorithms",
+        "conferenceTitle": "8th International Multitopic Conference, 2004. Proceedings of INMIC 2004.",
+        "data": "24-26 Dec. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/INMIC.2004.1492893",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE Seminar on MNT in Medicine 2004 (Ref No. 2004/10743)",
-        "data": "17-17 Nov. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Analyses of the multiple rotational inverted pendulum",
+        "conferenceTitle": "Fifth World Congress on Intelligent Control and Automation (IEEE Cat. No.04EX788)",
+        "data": "15-19 June 2004",
+        "authors": [
+            "Sun Ying-E",
+            "Wang Yong"
+        ],
+        "DOI": "10.1109/WCICA.2004.1340700",
         "citation": 0,
-        "abstract": ""
+        "abstract": "In this paper a nonlinear mathematical model of n-level rotational inverted pendulum is obtained after the study of its dynamics of machinery. Then, the analyses of the controllability of the system are discussed and the simulations show the feasibility of the control on the system in the end."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE New EMC Issues in Design: Techniques, Tools and Components Seminar",
-        "data": "28-28 April 2004",
+        "title": "Special lecture",
+        "conferenceTitle": "SICE 2004 Annual Conference",
+        "data": "4-6 Aug. 2004",
         "authors": [],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Optical and infrared astronomical observations from ground are hindered y turbulent atmosphere. Temperature disturbance in the atmosphere produces wavefront distortion of the light beam fed in the telescope and blurs the images of stars to about 1 arcsec in diameter,"
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
+        "title": "Invited presentations",
+        "conferenceTitle": "2004 International Symposium on System-on-Chip, 2004. Proceedings.",
+        "data": "16-18 Nov. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/ISSOC.2004.1411048",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE COTS and SOUP Seminar (Ref. No. 2004/10728)",
-        "data": "21-21 Oct. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Keynote Speech S3-2 - Virtual instrumentation: a computer based measurement and automation approach for dc to light signals",
+        "conferenceTitle": "International Conference on Electrical, Electronic and Computer Engineering, 2004. ICEEC '04.",
+        "data": "5-7 Sept. 2004",
+        "authors": [
+            "M. Haddad"
+        ],
+        "DOI": "10.1109/ICEEC.2004.1374360",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Synthetic and enhanced vision systems for commercial and military applications - [Not available for publication]",
+        "conferenceTitle": "The 23rd Digital Avionics Systems Conference (IEEE Cat. No.04CH37576)",
+        "data": "28-28 Oct. 2004",
+        "authors": [
+            "T. Schnell"
+        ],
+        "DOI": "10.1109/DASC.2004.1391311",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE COTS and SOUP Seminar (Ref. No. 2004/10728)",
-        "data": "21-21 Oct. 2004",
-        "authors": [],
+        "title": "Standardization of verification methods for continuous operation conveyor scales.",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "T.V. Stepanova"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The methods and means for verification of conveyor scales are considered. The instance of implementation is presented"
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
+        "title": "Session M03C: Wireless Data Transceivers I",
+        "conferenceTitle": "2004 IEE Radio Frequency Integrated Circuits (RFIC) Systems. Digest of Papers",
+        "data": "6-8 June 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/RFIC.2004.1320550",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Start of the above-titled section of the conference proceedings record."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "How Secure are Britain's Electricity Supplies?",
-        "data": "13-13 May 2004",
+        "title": "Section 12: Geological applications",
+        "conferenceTitle": "Proceedings of the Tenth International Conference on Grounds Penetrating Radar, 2004. GPR 2004.",
+        "data": "21-24 June 2004",
         "authors": [],
         "DOI": "",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Open Control Systems - The Importance of Industrial Standards",
-        "data": "26-26 May 2004",
+        "title": "Plenary Session 1",
+        "conferenceTitle": "Canadian Conference on Electrical and Computer Engineering 2004 (IEEE Cat. No.04CH37513)",
+        "data": "2-5 May 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/CCECE.2004.1345147",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Open Control Systems - The Importance of Industrial Standards",
-        "data": "26-26 May 2004",
-        "authors": [],
+        "title": "Real-time sampling downconverter front ends for digital radar and wide-band signaling - Paper withdrawn by author at a late stage",
+        "conferenceTitle": "34th European Microwave Conference, 2004.",
+        "data": "12-14 Oct. 2004",
+        "authors": [
+            "S.H. Pepper"
+        ],
         "DOI": "",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "IEE Railway Information Systems, 2004.",
-        "data": "30-30 June 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Hurricane Juan",
+        "conferenceTitle": "IEEE Power Engineering Society General Meeting, 2004.",
+        "data": "6-10 June 2004",
+        "authors": [
+            "A. Hope"
+        ],
+        "DOI": "10.1109/PES.2004.1372748",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Nova Scotia experienced hurricane, named Juan. Hurricane Juan caused the most damage ever to Nova Scotia Power's transmission and distribution system that created the largest outage in Nova Scotia Power's history. As Hurricane Juan's winds began to die down, Nova Scotia Power began the restoration effort. Crews fanned out along the path of the Hurricane to assess the damage and provide the information from which plans could be developed to remove trees, eliminate safety hazards and restore power. Beginning early Monday morning, our first priorities were working with emergency measures organization and the municipalities to address public safety hazards and to restore power to critical customers like hospitals who were relying on backup generators for power supply. Within five days of the Hurricane, 95 percent of those who lost power had service restored."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "2004 The IEE Seminar on Developments in Control in the Water Industry (Ref. No. 2004/10729)",
-        "data": "24-25 Nov. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "DialogPlus: digital libraries in support of innovative approaches to learning and teaching in geography",
+        "conferenceTitle": "Proceedings of the 2004 Joint ACM/IEEE Conference on Digital Libraries, 2004.",
+        "data": "11-11 June 2004",
+        "authors": [
+            "M. Freeston",
+            "H. Davis"
+        ],
+        "DOI": "10.1145/996350.996451",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Summary form only given. DialogPlus is one of four international projects, supported in the US by the NSF International Collaborative Research Program in Digital Libraries, and in the UK by the Joint Information Systems Committee of the UK Higher Education Funding Councils. The two primary objectives of the project are to develop: a distributed enabling information infrastructure for the support of learning and teaching in geography; innovative approaches to teaching and learning, based on this infrastructure. Specifically, the project the undergraduate and postgraduate programs of study in geography in the consortium universities can be enriched and developed through cross-national collaboration and online delivery; different virtual learning environments can be supported by a common, open and distributed digital library infrastructure; major geospatial resources relevant for the study of the environment and landscape and for the study of human populations in cities and the countryside can be used in student programs of study; important skills in the analysis of spatial information through use of Geographical Information Science and Earth Observation software and functions can be taught online and made available in undergraduate programs."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Keynote II",
+        "conferenceTitle": "IEEE International Symposium on - ISPASS Performance Analysis of Systems and Software, 2004",
+        "data": "10-12 March 2004",
+        "authors": [
+            "C. Anderson"
+        ],
+        "DOI": "10.1109/ISPASS.2004.1291360",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "Breaker page",
-        "conferenceTitle": "2004 Mini Symposia UKACC Control",
-        "data": "8-8 Sept. 2004",
+        "title": "Digital signal processing",
+        "conferenceTitle": "8th International Multitopic Conference, 2004. Proceedings of INMIC 2004.",
+        "data": "24-26 Dec. 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/INMIC.2004.1492860",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
+        "title": "Workshop [breaker page]",
+        "conferenceTitle": "2004 24th International Conference on Microelectronics (IEEE Cat. No.04TH8716)",
+        "data": "16-19 May 2004",
         "authors": [],
-        "DOI": "",
+        "DOI": "10.1109/ICMEL.2004.1314546",
         "citation": 0,
-        "abstract": ""
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "The IEE 2-Day Seminar on IT to HD: Visions of Broadcasting in the 21st Century, (Ref. No. 2004/10760)",
-        "data": "30 Nov.-1 Dec. 2004",
-        "authors": [],
-        "DOI": "",
+        "title": "Coping with uncertainty",
+        "conferenceTitle": "International Symposium on Signals, Circuits and Systems. Proceedings, SCS 2003. (Cat. No.03EX720)",
+        "data": "22-24 March 2004",
+        "authors": [
+            "N. Hakim"
+        ],
+        "DOI": "10.1109/ISQED.2004.1283638",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "Open Control Systems - The Importance of Industrial Standards",
-        "data": "26-26 May 2004",
+        "title": "Computer &amp; system",
+        "conferenceTitle": "Proceedings. 2004 First International Conference on Power Electronics Systems and Applications, 2004.",
+        "data": "9-11 Nov. 2004",
         "authors": [],
         "DOI": "",
         "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Blank page",
-        "conferenceTitle": "IEE Seminar Railway Condition Monitoring, 2004. (Ref. No. 2004/10513)",
-        "data": "25-25 Feb. 2004",
-        "authors": [],
+        "title": "Polarization mode dispersion in optical fibers and methods of its measurement",
+        "conferenceTitle": "2004 7th International Conference on Actual Problems of Electronic Instrument Engineering Proceedings, 2004. APEIE 2004.",
+        "data": "21-24 Sept. 2004",
+        "authors": [
+            "N.I. Gorlov"
+        ],
         "DOI": "",
         "citation": 0,
-        "abstract": ""
+        "abstract": "The principal causes of occurrence, quantitative estimations and analysis of possible methods of measurements for polarization mode dispersion is considered."
     }
 ]
