@@ -7,7 +7,7 @@
             "Kosta Serebryany"
         ],
         "DOI": "10.1109/SecDev.2016.043",
-        "citation": 55,
+        "citation": 56,
         "abstract": "In this tutorial you will learn how to build a guided fuzzer for a C/C++ project of your choice, how to fuzz it manually with libFuzzer (in-process guided fuzzer) and AddressSanitizer (memory error detector), and how to set up a simple continuous fuzzing bot. Bonus topics will include AFL-fuzz, more sanitizers, coverage analysis, and more."
     },
     {
@@ -24,17 +24,17 @@
         "abstract": "Attributes offer useful mid-level features to interpret visual data. While most attribute learning methods are supervised by costly human-generated labels, we introduce a simple yet powerful unsupervised approach to learn and predict visual attributes directly from data. Given a large unlabeled image collection as input, we train deep Convolutional Neural Networks (CNNs) to output a set of discriminative, binary attributes often with semantic meanings. Specifically, we first train a CNN coupled with unsupervised discriminative clustering, and then use the cluster membership as a soft supervision to discover shared attributes from the clusters while maximizing their separability. The learned attributes are shown to be capable of encoding rich imagery properties from both natural images and contour patches. The visual representations learned in this way are also transferrable to other tasks such as object detection. We show other convincing results on the related tasks of image retrieval and classification, and contour detection."
     },
     {
-        "title": "Comparison of lead-acid and lithium ion batteries for stationary storage in off-grid energy systems",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
+        "title": "An improved bat algorithm with variable neighborhood search for global optimization",
+        "conferenceTitle": "2016 IEEE Congress on Evolutionary Computation (CEC)",
+        "data": "24-29 July 2016",
         "authors": [
-            "Hardik Keshan",
-            "Jesse Thornburg",
-            "Taha Selim Ustun"
+            "Gai-Ge Wang",
+            "Mei Lu",
+            "Xiang-Jun Zhao"
         ],
-        "DOI": "10.1049/cp.2016.1287",
-        "citation": 21,
-        "abstract": "Different battery chemistries fit different applications, and certain battery types stand out as preferable for stationary storage in off-grid systems. Rechargeable batteries have widely varying efficiencies, charging characteristics, life cycles, and costs. This paper compares these aspects between the lead-acid and lithium ion battery, the two primary options for stationary energy storage. The various properties and characteristics are summarized specifically for the valve regulated lead-acid battery (VRLA) and lithium iron phosphate (LFP) lithium ion battery. The charging process, efficiency, and life cycle are discussed for each battery type. Through cost analysis specifically, lithium ion batteries are shown to be a cost-effective alternative to lead-acid batteries when the length of operational life - total number of charge/discharge cycles - is considered. Finally, applications for off-grid applications and specifically developing world microgrids are discussed."
+        "DOI": "10.1109/CEC.2016.7744003",
+        "citation": 19,
+        "abstract": "Bat algorithm (BA) is newly proposed bio-inspired metaheuristic algorithm with the inspiration of the echolocation of bats in nature. Several experimental results have proven to the effectiveness and performance of BA. However, BA may fail to find the global optimal solution occasionally. In this paper, a kind of classical search technology, called variable neighborhood search (VNS), is incorporated into BA as a local search tool. An improved version of BA namely variable neighborhood bat algorithm (VNBA), is thus proposed. In VNBA, the classic BA as a global search tool searches the whole space globally, and this can significantly shrink the search space. Subsequently, VNS as a local search tool is implemented to find the final best solution within the small promising area. After that, the VNBA is benchmarked by sixteen standard benchmark functions. The experimental results imply that VNBA takes the absolute advantage over the basic BA."
     },
     {
         "title": "A Method for Verifying Privacy-Type Properties: The Unbounded Case",
@@ -48,32 +48,6 @@
         "DOI": "10.1109/SP.2016.40",
         "citation": 19,
         "abstract": "In this paper, we consider the problem of verifying anonymity and unlinkability in the symbolic model, where protocols are represented as processes in a variant of the applied pi calculus notably used in the ProVerif tool. Existing tools and techniques do not allow one to verify directly these properties, expressed as behavioral equivalences. We propose a different approach: we design two conditions on protocols which are sufficient to ensure anonymity and unlinkability, and which can then be effectively checked automatically using ProVerif. Our two conditions correspond to two broad classes of attacks on unlinkability, corresponding to data and control-flow leaks. This theoretical result is general enough to apply to a wide class of protocols. In particular, we apply our techniques to provide the first formal security proof of the BAC protocol (e-passport). Our work has also lead to the discovery of new attacks, including one on the LAK protocol (RFID authentication) which was previously claimed to be unlinkable (in a weak sense) and one on the PACE protocol (e-passport)."
-    },
-    {
-        "title": "An improved bat algorithm with variable neighborhood search for global optimization",
-        "conferenceTitle": "2016 IEEE Congress on Evolutionary Computation (CEC)",
-        "data": "24-29 July 2016",
-        "authors": [
-            "Gai-Ge Wang",
-            "Mei Lu",
-            "Xiang-Jun Zhao"
-        ],
-        "DOI": "10.1109/CEC.2016.7744003",
-        "citation": 18,
-        "abstract": "Bat algorithm (BA) is newly proposed bio-inspired metaheuristic algorithm with the inspiration of the echolocation of bats in nature. Several experimental results have proven to the effectiveness and performance of BA. However, BA may fail to find the global optimal solution occasionally. In this paper, a kind of classical search technology, called variable neighborhood search (VNS), is incorporated into BA as a local search tool. An improved version of BA namely variable neighborhood bat algorithm (VNBA), is thus proposed. In VNBA, the classic BA as a global search tool searches the whole space globally, and this can significantly shrink the search space. Subsequently, VNS as a local search tool is implemented to find the final best solution within the small promising area. After that, the VNBA is benchmarked by sixteen standard benchmark functions. The experimental results imply that VNBA takes the absolute advantage over the basic BA."
-    },
-    {
-        "title": "Forearm movements classification of EMG signals using Hilbert Huang transform and artificial neural networks",
-        "conferenceTitle": "2016 IEEE 7th Power India International Conference (PIICON)",
-        "data": "25-27 Nov. 2016",
-        "authors": [
-            "Amit Kukker",
-            "Rajneesh Sharma",
-            "Hasmat Malik"
-        ],
-        "DOI": "10.1109/POWERI.2016.8077417",
-        "citation": 18,
-        "abstract": "Vast information regarding muscle activity for clinical and engineering applications can be obtained via the EMG (Electromyogram). EMG signal are acquired through surface electrodes which are placed on target muscle set of healthy subjects aged between 23 to 30 years. In this work, six forearm movements have been chosen for classification purpose for both left and right hand. With Hilbert Huang Transform method a total of 21 features of time-frequency domain are extracted for 10 healthy subjects and classified using conjugate gradient method of supervised learning technique using artificial neural networks (ANN). The average accuracy at IMF-1 level obtained is 85.8% for left hand movements, and 86.2% for right hand movement classification. The results of using the Hilbert Huang Transform based ANN classification are quite promising when compared to another classification techniques as K-NN, QDA, LDA [21] and Mahdi Khezri et al. different signal acquisition and classification techniques[26]. The technique can be used for practical implementation of prosthesis for movement classification."
     },
     {
         "title": "A gateway based fog computing architecture for wireless sensors and actuator networks",
@@ -90,17 +64,18 @@
         "abstract": "The technologies of Internet of Things have been wide used in many areas such as intelligent building, logistics, security, and health. One of the key elements of the Internet of Things is Wireless Sensors and Actuators Networks(WSANs). Fog computing, the new concept of the cloud at the edge of the network, is considered the appropriate platform for many Internet of Things services and applications. In this paper we present a gateway based fog computing architecture for WSANs and argue that the key requirements of this architecture. This architecture mainly consists of master nodes and slave nodes, and manages virtual gateway functions, flows, and resources."
     },
     {
-        "title": "Design and implementation of a smart irrigation system for improved water-energy efficiency",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
+        "title": "Greenwash and green brand equity",
+        "conferenceTitle": "2016 Portland International Conference on Management of Engineering and Technology (PICMET)",
+        "data": "4-8 Sept. 2016",
         "authors": [
-            "Kizito Masaba",
-            "Amini Ntakirutimana",
-            "Taha Selim Ustun"
+            "Yu-Shan Chen",
+            "Wen-Pin Tien",
+            "Yu-I Lee",
+            "Ming-Lun Tsai"
         ],
-        "DOI": "10.1049/cp.2016.1357",
-        "citation": 14,
-        "abstract": "Although water, in some parts of the world is as abundant as the air that we breathe, it is still a precious resource in dry regions. Such regions must use it carefully and efficiently because of its scarcity. However, the irrigation systems are still wasteful as they unnecessarily flood the farms. This results into wastage of water and energy that is used for pumping the water. With the improvement of the technological infrastructure, effective management of water usage and power consumption of irrigation systems can be achieved. This can be done by enabling the irrigation system to identify specific areas to irrigate. This paper presents a smart irrigation system that uses environmental information to determine when and where irrigation is required. The system is comprised of microcontroller, sensors and integration of water pumps with the decision making system. A truth table is developed to help the system determine the necessity to irrigate based on the collected environment information. The sensors narrow down the location that requires irrigation and the decision-making system activates sprinklers. In this fashion, water is given to dry locations of the field, already damp locations are not irrigated and this results efficient water use. Different parameters used, i.e. temperature, humidity and moisture, makes it possible to adjust the system according to the needs of a particular location."
+        "DOI": "10.1109/PICMET.2016.7806783",
+        "citation": 11,
+        "abstract": "The study investigates the impact of greenwash on green brand equity and discusses the mediation roles of green brand image and green satisfaction. The research object of this study focuses on Taiwanese consumers that have the experience to purchase information and electronics products in Taiwan. The results demonstrate that greenwash negatively influences green brand equity. In addition, this research verifies that greenwash is negatively related to both of green brand image and green satisfaction that would positively influence green brand equity. This paper also proves that green brand image and green satisfaction mediate the negative relationship between greenwash and green brand equity. Hence, this study suggests that companies should reduce their greenwash behaviors and raise their green brand image and green satisfaction to enhance their green brand equity."
     },
     {
         "title": "An energy aware distributed clustering routing protocol for energy harvesting wireless sensor networks",
@@ -113,20 +88,6 @@
         "DOI": "10.1109/ICCChina.2016.7636720",
         "citation": 11,
         "abstract": "Energy harvesting wireless sensor networks (EH-WSNs) have been widely used in various areas in recent years. Unlike battery-powered wireless sensor networks, EH-WSNs are powered by energy harvested from ambience. This change calls for new designs on routing protocols in EH-WSNs. This paper proposes a novel energy-aware distributed clustering routing protocol for EH-WSNs, it takes the node current residual energy and the harvested energy in a short term prediction horizon into cluster heads election process of the distributed clustering routing. A neural network based solar energy prediction model is exploited to make the protocol energy-aware. Nodes with higher residual energy and stronger energy harvesting capabilities thus have higher probability of being cluster heads. The proposed routing algorithm is compared with LEACH (low-energy adaptive clustering hierarchy) in terms of the number of awake nodes and network throughput. Simulation results show that the proposed clustering routing has stronger ability to balance energy consumption among sensor nodes and increases the network throughput by about 30% over LEACH."
-    },
-    {
-        "title": "Greenwash and green brand equity",
-        "conferenceTitle": "2016 Portland International Conference on Management of Engineering and Technology (PICMET)",
-        "data": "4-8 Sept. 2016",
-        "authors": [
-            "Yu-Shan Chen",
-            "Wen-Pin Tien",
-            "Yu-I Lee",
-            "Ming-Lun Tsai"
-        ],
-        "DOI": "10.1109/PICMET.2016.7806783",
-        "citation": 10,
-        "abstract": "The study investigates the impact of greenwash on green brand equity and discusses the mediation roles of green brand image and green satisfaction. The research object of this study focuses on Taiwanese consumers that have the experience to purchase information and electronics products in Taiwan. The results demonstrate that greenwash negatively influences green brand equity. In addition, this research verifies that greenwash is negatively related to both of green brand image and green satisfaction that would positively influence green brand equity. This paper also proves that green brand image and green satisfaction mediate the negative relationship between greenwash and green brand equity. Hence, this study suggests that companies should reduce their greenwash behaviors and raise their green brand image and green satisfaction to enhance their green brand equity."
     },
     {
         "title": "E-Tourism: Mobile Dynamic Trip Planner",
@@ -168,19 +129,6 @@
         "abstract": "As frequency diverse array (FDA) introduces range-angle-dependent beamforming, it is capable to handle the range-dependent interference. However, the underlying independent and identically distributed condition of the interference is violated, which induces performance degradation of jamming suppression. In this paper, we propose a robust adaptive beamforming approach based on direct data domain technique for the multiple-input multiple-output (MIMO) radar with FDA as transmit array, referred to as FDA-MIMO. In this approach, the data is smoothed once in transmit and receive domains to mitigate the influence of target, which results in three homogeneous samples. In the sequel, the data collected from different pulses is utilized as secondary data. Basically, the interference can be isolated from the target signal in the joint transmit and receive domains of the FDA-MIMO radar. Simulation results demonstrate the effectiveness of the proposed approach."
     },
     {
-        "title": "Research overview of sub-synchronous oscillation in DFIG-BASED wind farms connected to grid",
-        "conferenceTitle": "12th IET International Conference on AC and DC Power Transmission (ACDC 2016)",
-        "data": "28-29 May 2016",
-        "authors": [
-            "M.L. Zhang",
-            "H.T. Liu",
-            "X.B. Wang"
-        ],
-        "DOI": "10.1049/cp.2016.0411",
-        "citation": 7,
-        "abstract": "The large scale wind power transmission is essential due to the rapid development of wind power and its geographical distribution. Doubly-fed induction generator (DFIG) -based wind farms may cause sub-synchronous oscillation (SSO) when connecting to the grid. SSO caused by DFIG-based wind farms, including induction generator effect (IGE), subsynchronous torsional interaction (SSTI) and subsynchronous control interaction (SSCI), are analyzed in detail. Then, the common methods in existing literature to analyze SSO problems of DFIG-based wind farms are introduced. Meanwhile, the applications and the pros and cons of each method are analyzed and the present situations of mitigating SSO problems are described. On this basis, the problems remain to be further investigated, which include DFIG-based wind farms SSCI mechanism and SSTI problem, fast and accurate methods for getting information about oscillation modes, controller parameters optimization and coordination control about multi-signal damping control in the whole frequency section, to lay the foundation for further research on the DFIG-based wind farms SSO problems."
-    },
-    {
         "title": "iTrace: Overcoming the Limitations of Short Code Examples in Eye Tracking Experiments",
         "conferenceTitle": "2016 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
         "data": "2-7 Oct. 2016",
@@ -216,18 +164,6 @@
         "DOI": "10.1109/ICITBS.2016.11",
         "citation": 7,
         "abstract": "In this thesis, jumping out of the traditional data statistic analysis method, the author constructs smart campus data platform and uses Apriori algorithm to make the association analysis on the learning and living data of students in campus in order to excavate their marks, basic information, attendance and states of internet use. In this way, the university can better guide the students to study based on the results of association analysis."
-    },
-    {
-        "title": "Effect of power converter on condition monitoring and fault detection for wind turbine",
-        "conferenceTitle": "8th IET International Conference on Power Electronics, Machines and Drives (PEMD 2016)",
-        "data": "19-21 April 2016",
-        "authors": [
-            "Raed Khalaf Ibrahim",
-            "Simon Watson"
-        ],
-        "DOI": "10.1049/cp.2016.0260",
-        "citation": 6,
-        "abstract": "This paper investigates the impact of power electronics converter when attempting wind turbine condition monitoring system and fault diagnosis by the analysis of fault signatures in the electrical output of the turbine. A wind turbine model has been implemented in the MATLAB/Simulink environment. Fault signature analysis for electrical signals is presented. A signal processing algorithm based on a fast fourier transform is then used to potentially identify fault signatures. The results obtained with this model are validated with experimental data measured from a physical test rig. Through comparison between simulation data and experimental data it is concluded that the power converter has significantly reduced fault signatures from the electrical signal though not entirely extinguished them. It may still be possible to extract some fault information after the converter though this is much more challenging than upstream. Further work is needed to see whether it may be possible to modify the power converter particularly the filter design and the switching elements to avoid removing fault signatures from electrical signals without adding significant cost or compromising performance."
     },
     {
         "title": "Performance evaluation and expected challenges of silicon carbide power MOSFETs for high voltage applications",
@@ -277,21 +213,6 @@
         "abstract": "In this paper, we propose a novel continuous multicast authentication protocol for the Internet of Things applications based on secret sharing scheme. This protocol provides secure and efficient multicast authentication for frequent message transmissions in short session time interval. The protocol solves the problem of shared key among communicating group with its consequence of possible masquerade attack by introducing a novel use of secret sharing scheme. That is, the secret is used as an authenticator and its shares are used as authentication keys. Each share is designated to a specific recipient in a specific time through a challenge known only to the sender and that recipient. The share can be linked back to the secret and, hence, the message source can be authenticated. In addition, the protocol enables multicasting several messages in a specific time slots within a transmission session. Security evaluation of the protocol shows that it fulfills the stated security requirements and addresses the listed attacks. Performance evaluation of the protocol shows that it is lightweight in terms of computation and communication costs, thus addressing the resource-constrained IoT endpoints."
     },
     {
-        "title": "Grid impedance estimation for islanding detection and adaptive control of converters",
-        "conferenceTitle": "8th IET International Conference on Power Electronics, Machines and Drives (PEMD 2016)",
-        "data": "19-21 April 2016",
-        "authors": [
-            "Abdelhady Ghanem",
-            "Mohamed Rashed",
-            "Mark Sumner",
-            "M. A. El-sayes",
-            "I. I. I. Mansy"
-        ],
-        "DOI": "10.1049/cp.2016.0205",
-        "citation": 5,
-        "abstract": "The grid impedance is time varying due to the changing structure of the power system configuration and it can have a considerable influence on the control and stability of grid connected converters. This paper presents an online grid impedance estimation method using the output switching current ripple of a SVPWM based grid connected converter. The proposed impedance estimation method is derived from the discretised system model using two consecutive samples within the switching period. The estimated impedance is used for islanding detection and online current controller parameter adaptation. Theoretical analysis and MATLAB simulation results are presented to verify the proposed method. The effectiveness of the grid impedance estimator is validated using experimental results."
-    },
-    {
         "title": "Impact of short circuit ratio and phase locked loop parameters on the small-signal behaviour of a VSC-HVdc converter",
         "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
         "data": "17-21 July 2016",
@@ -326,35 +247,6 @@
         "DOI": "10.1109/APEIE.2016.7806976",
         "citation": 5,
         "abstract": "Dynamic properties of a coupled tanks apparatus are analyzed in the context of control teaching. The main issue detected is that although it is a second order system, its dynamics are very similar to that of a first order one. The paper highlights the problems which should be discussed when the coupled tanks experiment is used for control teaching."
-    },
-    {
-        "title": "Simulation of electric field properties for air breakdown using COMSOL multiphysics",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
-        "authors": [
-            "M. S. Kamarudin",
-            "N. H. Radzi",
-            "A. Ponniran",
-            "R. Abd-Rahman"
-        ],
-        "DOI": "10.1049/cp.2016.1298",
-        "citation": 5,
-        "abstract": "This paper describes the detailed procedures on the simulation techniques of air breakdown to evaluate the associated electric field values. Using COMSOL Multiphysics, the value of maximum electric field and its most likely location which appears just before a breakdown occurs can be determined. A non-uniform field configuration in rod-plane gap provides very high electric field upon breakdown."
-    },
-    {
-        "title": "Protection coordination in multi-terminal HVDC networks for DC fault clearance",
-        "conferenceTitle": "13th International Conference on Development in Power System Protection 2016 (DPSP)",
-        "data": "7-10 March 2016",
-        "authors": [
-            "R. Gupta",
-            "C D Barker",
-            "A Adamczyk",
-            "R. S. Whitehouse",
-            "K J Dyke"
-        ],
-        "DOI": "10.1049/cp.2016.0050",
-        "citation": 5,
-        "abstract": "The paper presents a protection coordination strategy for DC fault clearance for the multi-terminal HVDC networks which relies on an inverse Idc vs dIdc/dt protection characteristic. Separate characteristics are provided to the converters and HVDC breakers to prioritize the opening of HVDC breaker over the converter block, that is, a grading margin is applied. The strategy ensures the minimum number of HVDC breaker openings and converter block events in response to a DC fault. The proposed strategy is verified by simulations using PSCAD/EMTDC for a three terminal symmetrical monopole radial grid. The paper also presents a reclosing strategy to restore the power after fault clearing."
     },
     {
         "title": "Modeling of bio-inspired algorithms AntHocNet and BeeAdHoc for Flying Ad Hoc Networks (FANETS)",
@@ -394,19 +286,6 @@
         "DOI": "10.1109/DCC.2016.14",
         "citation": 4,
         "abstract": "Summary form only given. The Von Neumann bottleneck originates from the low bandwidth between processing and memory. One paradigm that could ease the bottleneck is Computing-in-Memory (CiM), where the same elements store logic values and perform logical operations on them in the same physical location. Here, presented are implementations of the K-means clustering algorithm on a Memristive Logic Array-based CiM implementation and a Machine Learning specific Transport-Triggered Architecture (TTA) processor implemented on 28nm FDSOI technology and operating at 0.35V. While running K-means, the Memristive CiM is 5,7 times faster and uses 2,3 times less energy than the TTA processor. However, the average power consumption of the MLA is 2,5 times the power of the TTA."
-    },
-    {
-        "title": "Performance evaluation of multi-carrier PWM methods for solar cells powered multi-level inverters",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
-        "authors": [
-            "S. Hr. Aghay Kaboli",
-            "Jeyraj Selvaraj",
-            "N.A. Rahim"
-        ],
-        "DOI": "10.1049/cp.2016.1313",
-        "citation": 4,
-        "abstract": "The performance of several multicarrier PWM methods which have been used for solar powered multilevel inverters are evaluated in this paper. The nine commonly use multi carrier PWM methods are described to purpose of better understanding about the role of PWM methods in multilevel inverter and finally Variable Frequency Carrier Bands PWM (VFCB PWM) is simulated and applied in 9 level cascade topology. According to hinted description and analyses, the variety of the modulation can be applied to control of multilevel inverter topologies, while the PWM method can affect on the all aspects of output wave and switching devices therefore each PWM method provide the suitability for certain multilevel topology to reduce the switching losses, THD and EMI."
     },
     {
         "title": "Research on Multi-source Data Fusion Method Based on Bayesian Estimation",
@@ -519,19 +398,6 @@
         "abstract": "The performance of a wireless sensor network is heavily dependent on its localization information. Without this critical information, the data collected over the sensor node is meaningless. Traditional localization techniques such as GPS are very expensive and unsuitable, especially when a system requires multiple nodes. In this project, an RSSI-based trilateration algorithm is developed to detect the sensor nodes coordinates in a wireless sensor network that is targeted for forest fire detection application. The system is found to deliver excellent performance in sensor data collection and fire detection. On the other hand, node localization is achieved at an accuracy of ± 8.50 cm for both coordinates."
     },
     {
-        "title": "Performance analysis of python based openflow controllers",
-        "conferenceTitle": "3rd International Conference on Electrical, Electronics, Engineering Trends, Communication, Optimization and Sciences (EEECOS 2016)",
-        "data": "1-2 June 2016",
-        "authors": [
-            "Karamjeet Kaur",
-            "Sukhveer Kaur",
-            "Vipin Gupta"
-        ],
-        "DOI": "10.1049/cp.2016.1515",
-        "citation": 3,
-        "abstract": "Traditional Networks are not suitable for current traffic and workload due to their inflexibility, decentralized management, vendor specific devices used. SDN is offer the flexibility by separating the forwarding plane and control plane. Openflow is the most preferred protocol used for communication between these planes. The forwarding device can be very low cost merchant silicon physical device or virtual switch. We need control plane for converting these simple dumb devices into switches, routers, security devices, load balancers. Several OpenSource and Proprietary Controllers are available. The main difference between them is the programming language used and OpenFlow version supported. Most of the controllers are either java based or python based. In this paper, we are comparing various python based controllers available and checking the performance of the applications created in them. We are comparing POX, RYU and Pyretic controllers. For comparison we are using inbuilt switch application included with these controllers. We tested the performance on python based Mininet Emulator which can be used to create any size custom topology by writing few lines of python code. We used the python based controllers because python is very easy to learn language and all the python based controllers are very easy to understand. Java based controllers such as Floodlight and Opendaylight are very difficult to master."
-    },
-    {
         "title": "Silicon quantum photonics",
         "conferenceTitle": "2016 18th International Conference on Transparent Optical Networks (ICTON)",
         "data": "10-14 July 2016",
@@ -541,26 +407,6 @@
         "DOI": "10.1109/ICTON.2016.7550615",
         "citation": 3,
         "abstract": "Silicon photonics is a promising platform for implementing quantum information processes. Since the development of the first integrated waveguide photon pair sources in 2006, a lot of progress has been made towards demonstrating the operation of the different functionalities required to implement universal quantum computation on this platform. I will review the state of the art and will then highlight the current challenges, which are for most of them not “quantum” at all, but are rather extraordinary optical and photonics engineering puzzles."
-    },
-    {
-        "title": "Polymer-based Integrated Tuneable Laser with On-Chip Wavelength Locker",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "David de Felipe",
-            "Magnus Happach",
-            "Moritz Kleinert",
-            "Crispin Zawadzki",
-            "Walter Brinker",
-            "Wolfgang Rehbein",
-            "Martin Moehrle",
-            "Norbert Keil",
-            "Werner Hofmann",
-            "Martin Schell"
-        ],
-        "DOI": "",
-        "citation": 3,
-        "abstract": "A polymer-based integrated tuneable laser with on-chip wavelength locker is presented. The device incorporates a free-space-based 100-GHz etalon, and monitor planar photodiodes coupled by means of 45deg mirrors. Wavelength stabilization with a resolution of +-4 GHz has been demonstrated."
     },
     {
         "title": "Improving Nepali OCR performance by using hybrid recognition approaches",
@@ -664,18 +510,6 @@
         "abstract": "To study and pose an modified discovery method for campus hot topics. The method is to extract word segmentation and keywords from the campus news collected on information big data platform through ICTCLAS word segmentation system, construct the text knowledge representation model based on vector space modal and finally add up the word frequency of headlines to determine k initial clustering centers and improve K-Means algorithm so as to obtain the campus hot topics."
     },
     {
-        "title": "Categorization based on sparse coding for SAR patch categorization",
-        "conferenceTitle": "Proceedings of EUSAR 2016: 11th European Conference on Synthetic Aperture Radar",
-        "data": "6-9 June 2016",
-        "authors": [
-            "Dusan Gleich",
-            "Danijel Sipos"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "This paper presents SAR patch categorization. The novelty of this paper is an optimal dual based sparse coding, applied to SAR patch categorization. The motivation of this paper was to achieve better performances by using dual based L1 analysis than standard L1 analysis. The sparse categorization is implemented within sparse framework and compared with the bag of visual words categorization. Experimental results showed that sparse classification requires a large database for learning in order to achieve the same performance results as BoW."
-    },
-    {
         "title": "Probe with absorbing materials",
         "conferenceTitle": "2016 IEEE International Symposium on Electromagnetic Compatibility (EMC)",
         "data": "25-29 July 2016",
@@ -715,38 +549,6 @@
         "abstract": "In the article authors consider mathematical modeling of vehicle routing problems. The authors presented the mathematical model of the classic vehicle routing problem and vehicle routing problem with time windows, classification of vehicle routing problems, taking into account different aspects of the transport route. The mathematical model and method of solution for Multi Depot Heterogeneous Vehicle Routing Problem with Time Windows and safety precautions of transportation of petrochemical products have proposed."
     },
     {
-        "title": "Development of wireless electricity transmission through resonant coupling",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
-        "authors": [
-            "F. N. Ibrahim",
-            "N. A. M. Jamail",
-            "N. A. Othman"
-        ],
-        "DOI": "10.1049/cp.2016.1290",
-        "citation": 2,
-        "abstract": "Wireless electricity transmission is the transmission of electrical energy from a power source to an electrical load without using any wires. Nowadays, the wireless power transmission technology is widely used in the mobile, industrial and medical area. The technology of the wireless power transmission can eliminate the use of the wires and batteries. Thus it is so convenient and safe for all users. Wireless power transmission can be carried out by many methods, but the most common way seen was inductive coupling and resonant coupling which was recently developed. This paper involves the design and development of wireless power transmission hardware. A wireless power system consists of a transmitter (primary coil) and a receiver (secondary coil). An alternating current is passed through the primary coil and a magnetic field was generated. The secondary coil is then placed near to the primary coil. The primary coil and secondary coil are magnetically coupled when the two devices make contact and therefore the power transfer from the transmitter to the receiver. Test and analysis are done on how to develop the wireless electricity transmission through resonant coupling by varying the different wire diameters, number of coils and coil diameters of the primary and secondary of the coils. The output power and maximum distance are then analyzed based on the varying characteristics. As a conclusion, the best result to obtain the maximum output power is 0.55 mm wire with diameter 6.5 cm coil."
-    },
-    {
-        "title": "Overall Frequency Response Measurement of DSP-based Optical Transmitter Using Built-in Monitor Photodiode",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "Yangyang Fan",
-            "Zhenning Tao",
-            "Liang Dou",
-            "Ying Zhao",
-            "Hao Chen",
-            "Saito Taku",
-            "Komaki Kousuke",
-            "Takeshi Hoshida",
-            "Jens C. Rasmussen"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "To pre-equalize the bandwidth limitation at the transmitter side, the overall response of the transmitter is required. An accurate response measurement assisted by the photodiode built in Mach-Zehnder modulator is proposed and experimentally demonstrated."
-    },
-    {
         "title": "Predicting and Visualizing Consumer Sentiments in Online Social Media",
         "conferenceTitle": "2016 IEEE 13th International Conference on e-Business Engineering (ICEBE)",
         "data": "4-6 Nov. 2016",
@@ -771,22 +573,6 @@
         "DOI": "10.1109/ICACT.2016.7423519",
         "citation": 2,
         "abstract": "In this paper, an energy management framework for smart factory is illustrated based on context-awareness. The smart factory is composed of the three layers, and IoT sensors are deployed in the smart factories and used to collect many kinds of data including personnel, equipment, and environment. The first layer, the data collection and control layer, collects and sends environmental and control data to the second layer. And, the second layer, energy management based on context-awareness layer, analyses the data and infers the context from them. Finally, the energy service layer provides energy management services to users through monitoring and controlling the status of energy consumption. Using the proposed scheme, users can monitor their energy consumption, and control their utilities and equipment to avoid energy leakage."
-    },
-    {
-        "title": "The Neurorobotic Platform: A simulation environment for brain-inspired robotics",
-        "conferenceTitle": "Proceedings of ISR 2016: 47st International Symposium on Robotics",
-        "data": "21-22 June 2016",
-        "authors": [
-            "Florian Roehrbein",
-            "Marc-Oliver Gewaltig",
-            "Cecilia Laschi",
-            "Gudrun Klinker",
-            "Paul Levi",
-            "Alois Knoll"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "The aim of the neurorobotic platform of the Human Brain Project is to offer scientists and technology developers a software and hardware infrastructure that allows them to connect prevalidated brain models to detailed simulations of robot bodies and environments, and to use the resulting neurorobotic systems in insilico experiments and technology development. The first version of this platform has been released in March 2016 and is described in this contribution."
     },
     {
         "title": "Empowering the formation of wireless sensor network based on nRF24",
@@ -814,21 +600,6 @@
         "abstract": "In modern society, civil plane has become more and more important in people's life. How to ensure safety and reliability of civil plane has attracted more and more attention by many research institutes and researchers. As one of the most important part in the civil plane, how to ensure normal operation of aero-engine becomes particularly important. According to statistics, the sensor fault accounts for more than 80% of the total failures in the aero-engine system. In this paper, an aero-engine model is established according to the operational principle of aero-engine using AMESim software. Secondly, the sensor sub-model in above model is modified to simulate drift failure, bias fault, and pulse fault, and to achieve aero-engine sensors' fault data. After that, sensor fault diagnosis model is built based on principle component analysis. Online detection and diagnosis can be realized using this diagnosis model. Simulation results show that the proposed method is feasible and effective."
     },
     {
-        "title": "Avalanche Robustness of SiC MPS Diodes",
-        "conferenceTitle": "PCIM Europe 2016; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "data": "10-12 May 2016",
-        "authors": [
-            "Thomas Basler",
-            "Roland Rupp",
-            "Rolf Gerlach",
-            "Bernd Zippelius",
-            "Mihai Draghici"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "Silicon carbide merged pin-Schottky (MPS) diodes are predestined to withstand high avalanche energies due to deep implanted p+-regions within the active area of the device. This paper shows unclamped-inductive-switching (UIS) measurements at state-of-the-art 650 V and 1200 V diodes of MPS type at different conditions, e.g. at Infineon's G5 SiC Schottky diodes. The dependency of the avalanche energy versus the applied inductance is studied in detail and the minimum of this characteristic is explained. Robust and weak diode designs are compared. Repetitive avalanche tests at challenging conditions show the robustness of the used MPS design. First studies at SiC MOSFETs show also a comparatively high avalanche capability"
-    },
-    {
         "title": "Monotone operator approach to power flow solutions",
         "conferenceTitle": "2016 American Control Conference (ACC)",
         "data": "6-8 July 2016",
@@ -840,19 +611,6 @@
         "DOI": "10.1109/ACC.2016.7525174",
         "citation": 2,
         "abstract": "Summary form only given. The AC power flow equations underlie all operational aspects of power systems. In this paper, Here we solve this problem using the theory of monotone operators. We show that it is possible to characterize a “contractivity domain” in the power flow variables (voltage magnitudes and phases). The construction of these domains depends on the specific representation chosen for the power flow equations, so that different representations lead to different domains. Given this domain, there is a simple efficient algorithm that will either find a solution in the domain, or certify that no solutions exist in it. We validate the approach on several IEEE test cases."
-    },
-    {
-        "title": "High voltage characteristics of kraft paper insulator with effect of palm oil and coconut oil",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
-        "authors": [
-            "N. A. M. Ishak",
-            "N. A. M. Jamail",
-            "N. A. Othman"
-        ],
-        "DOI": "10.1049/cp.2016.1275",
-        "citation": 2,
-        "abstract": "This paper presents the behaviors and properties of Kraft paper used for transformer insulation with effect of palm oil and coconut oil. Palm oil and coconut oil are chosen as a transformer oil because it has the potential to be used as transformer oil which is more environmentally friendly. Three types of Kraft paper which have the same thickness and width have been used in this research. The test conducted in this experiment comprises on analyzing observation of the Kraft paper ageing process, the breakdown High Voltage Direct Current test, Impulse Voltage test, carbon track and erosion analysis. Three samples of Kraft paper have been immersed in palm oil and coconut oil up to 90 days to observe the absorption rate. All samples reach saturation level start at 70 days of immersion. Breakdown test which consist of High Voltage Direct Current test and Impulse Voltage test have been done based on normal, Kraft paper immersed in palm oil and coconut oil condition. Based on the result from breakdown test and analysis of erosion, it was found that Billerud Kraft paper has become the best sample among the Kraft papers in terms of level of damage when immersed in palm oil and coconut oil."
     },
     {
         "title": "Exploring OOV Words from Myanmar Text Using Maximal Substrings",
@@ -912,45 +670,6 @@
         "abstract": "Summary form only given. This tutorial will give a security-oriented introduction to CodeSonar, its program model, and its analyses. Attendees will be given access to a live CodeSonar instance, and will be shown how to explore a code base and review analysis results. Finally, a taste of how to extend CodeSonar will be given.given. CodeSonar is a static analysis tool for finding programming errors and security vulnerabilities in C, C++, and Java source code as well as x86, x86_64, and ARM machine code programs."
     },
     {
-        "title": "Dynamic voltage stability impact oflarge-scale photovoltaic system on electric power grids",
-        "conferenceTitle": "5th IET International Conference on Renewable Power Generation (RPG) 2016",
-        "data": "21-23 Sept. 2016",
-        "authors": [
-            "Shady S. Refaat",
-            "Haitham Abu-Rub",
-            "Antonio P. Sanfilippo"
-        ],
-        "DOI": "10.1049/cp.2016.0575",
-        "citation": 2,
-        "abstract": "Perfect power system voltage stability is not possible in practice. Generally, the power grid is continually exposed to changes in its load and operating conditions. Therefore, dynamic stability analysis is one the most important and effective elements for greater security and reliability of planning, design, operation and economic aspects of electric power networks. This paper investigates and reports dynamic stability of power system with large-scale photovoltaic system (L-S PV). Two different scenarios with centralized PV power plants are considered at medium voltage level without voltage regulation capabilities. The simulation results offer details of the simulation investigations which show that voltage stability impact of L-S PV decreases based on the bus status, disturbance location, and disturbance duration. In addition, the paper discusses network terminal voltage, generator's rotor angle, generator's terminal current, generator's reactive power and output electrical power."
-    },
-    {
-        "title": "Development of single phase active power filter for rapid control prototyping using low cost microcontroller",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
-        "authors": [
-            "Shamsul Aizam Zulkifli",
-            "Abdul Khairi Abd Rahman"
-        ],
-        "DOI": "10.1049/cp.2016.1362",
-        "citation": 2,
-        "abstract": "This project is to test a Rapid Control Prototyping (RCP) protocol to the active power filter (APF) application in nonlinear load using low cost microcontroller. Here, the RCP has been tested on the RPi where it's easy to use in undergraduate level. The advantages of using the RCP are the controller modeled can be developed in MATLAB while at the meantime, the APF output can be observed in real time mode within simulation. This has been conducted in APF because it injects the required APF current to improve the signal of the supply current due to nonlinear load by using a Proportional Integration (PI) control. At the end, it shows that, the RPi and Matlab are a suitable candidate for RCP process that can be applied during undergraduate level."
-    },
-    {
-        "title": "Novel Intelligent Technologies for Industrial Robot in Manufacturing - Architectures and Applications",
-        "conferenceTitle": "Proceedings of ISR 2016: 47st International Symposium on Robotics",
-        "data": "21-22 June 2016",
-        "authors": [
-            "Haruhisa Okuda",
-            "Rintaro Haraguchi",
-            "Yukiyasu Domae",
-            "Koji Shiratsuchi"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "Same as design concept of the Industrie 4.0, for meeting various consumer demands recent production systems have been switched from high volume production of single type to variant volume production of multiple types. To achieve highly productivity and quality of machinery line together with highly flexibility in human cell production, we developed intelligent robotic technologies. In this paper, we describe four intelligent technologies (a. Force control and inspection, b. 3-D vision sensor, c. Real-time collision avoidance d. Cooperative operation) which are used for adding flexible adaptability to variable situations in the production equipment. After that, in order to show the effectiveness of proposed technologies the prototype robotic cell production system and other different types of practical cell production systems are described."
-    },
-    {
         "title": "Research of the satellite transponder beams interference impact",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
         "data": "3-6 Oct. 2016",
@@ -973,37 +692,6 @@
         "DOI": "10.1109/SPIN.2016.7566766",
         "citation": 2,
         "abstract": "A compact printed microstrip line-fed wideband antenna is presented for WLAN, WIMAX and various applications. This antenna has a compact size of 30 × 30 × 1.6 mm3 and the ground plane size is reduced by introducing a rotating slot. A square patch is embedded as a parasitic element at the center of the rotating slot to increase the impedance bandwidth. Rectangular slots are cut in the square patch to compensate the return loss. A pair of E-shaped parasitic patches along the 50 ohm microstrip line is used to introduce additional resonance excitation which can enhance the bandwidth. The proposed antenna is successfully manufactured and experimentally investigated. The measured results are in good agreement with the simulation results. The impedance bandwidth is found to be 74.4% ranging from 2.45 GHz to 5.35 GHz. The measured radiation pattern is found to be stable and nearly omnidirectional throughout the operating bandwidth region."
-    },
-    {
-        "title": "Comparative performance of multilevel inverter for harmonic reduction based on Newton Raphson",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
-        "authors": [
-            "Mohammed Rasheed",
-            "Rosli Omar",
-            "Marizan Sulaiman"
-        ],
-        "DOI": "10.1049/cp.2016.1260",
-        "citation": 2,
-        "abstract": "Multilevel inverters, an approach for harmonic cancellation, have gained worldwide interest. They provide an output desired waveform that exhibits multiple-steps voltage-levels with minimum distortion. This paper discusses about optimization of a cascaded H-bridge (CHB) single phase seven and nine levels multilevel inverter for harmonic reduction. In order to minimising the harmonic content of the waveform output, accurate switching angle is calculated based on Newton Raphson. The output waveform of the multilevel inverter can be improved using Optimization Harmonic Stepped Waveform of Selective Harmonic Elimination (OHSW-SHE) technique. The switching angle for optimization has been simulated using MATLAB/Simulink."
-    },
-    {
-        "title": "A Machine Learning Approach for Dynamic Optical Channel Add/Drop Strategies that Minimize EDFA Power Excursions",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "Yishen Huang",
-            "Wiem Samoud",
-            "Craig L. Gutterman",
-            "Cedric Ware",
-            "Mounia Lourdiane",
-            "Gil Zussman",
-            "Payman Samadi",
-            "Keren Bergman"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "We demonstrate a machine learning approach to characterize channel dependence of power excursions in mulit-span EDFA networks. This technique can determine accurate recommendations for channel add/drop with minimal excursions and is applicate to different network design."
     },
     {
         "title": "A distributed Gauss-Newton method for power system state estimation",
@@ -1040,39 +728,6 @@
         "DOI": "10.1109/IHMSC.2016.141",
         "citation": 2,
         "abstract": "In this paper, a novel image fusion method of infrared image and SAR image is proposed combining Shearlet transform and sparse representation to avoid the disadvantages of Wavelet transform. The registered images are decomposed by the shearlet transform to obtain the low frequency subband and a series of high frequency subbands. The low frequency subband with lower sparseness is disposed with sparse representation, construct over complete dictionary, solve sparse coefficient over the trained dictionary, and choose the low frequency coefficients with the larger energy fusion rule. And the rule of gradient absolute value maximization is applied to the high frequency subbands. Then the fusion image is obtained by the inverse Shearlet transform. Experimental results show that the proposed method can retain good visual quality and objective evaluation index, and performs some related fusion approaches."
-    },
-    {
-        "title": "First demonstration of SDN-controlled Multi-Layer Restoration and its advantage over Optical Restoration",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "Itay Maor",
-            "Ori Gerstel",
-            "Victor Lopez",
-            "Thomas Szyrkowiec",
-            "Achim Autenrieth",
-            "Bernd Pruessing",
-            "Nuno Borges",
-            "Fisher Fu",
-            "Guiu Fabregas",
-            "Juan Pedro Fernandez-Palacios"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "We demonstrate a full implementation of centrally orchestrated multi-layer restoration over commercial optical and IP gear. The process considers the behavior of the IP layer. Compared to optical restoration, the packet loss is 54% lower."
-    },
-    {
-        "title": "Control strategies in energy storage system for standalone power systems",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
-        "authors": [
-            "Chok Eu-Tjin",
-            "Chua Kein Huat",
-            "Lim Yun Seng"
-        ],
-        "DOI": "10.1049/cp.2016.1268",
-        "citation": 2,
-        "abstract": "Photovoltaic (PV) systems can be one of the possible energy sources to complement the diesel generators in the remote areas, to reduce the reliance on diesel generators. This translates into the reduced fossil fuel consumption, hence bringing an economic benefit to residents in the remote areas. Energy storage system offers a solution which can be used in conjunction with the PV-diesel generator system. The energy storage system (ESS) ensures energy supply security and reliability by storing up excess solar energy for later use in the energy deficit situation. In this study, a PV-Battery-Diesel Generator system is modelled in Matlab Simulink. The main purpose of the study is to obtain the optimal system size and control strategy which yields the minimum cost of energy. Load following (LF) and cycle charging (CC) control strategies are devised for the model developed. Various component sizes for PV and battery are simulated using the LF and CC control strategy. The simulation results show that the Cost of Electricity (COE) reduction using the PV-battery-diesel generator is as high as 10.6%."
     },
     {
         "title": "Development of a double-octave (7-34 GHz), highly linear single balanced resistive HEMT mixer using device linearization techniques",
@@ -1125,19 +780,6 @@
         "abstract": "Due to increasing per capita energy consumption and exponential rising population, power system losses increasingly and reliability decreasing. The distributed generator can improve the power system reliability and reduce losses. The most widely preferred DG which is large attracted by large scale as wind powers do not have pollution issue and consider as clean energy source. By the wind to its maximum extent it is necessary to place the wind turbine at the place where the losses of the system and the size of the turbine are minimum. In this paper the PSO (particle swarm optimization) technique is applied on IEEE 12 radial standard bus system to get reduced losses and optimum size of wind turbine. Backward/forward sweep method used to analyze the power flow in radial distribution systems. Weibull functions F(x) have been used to describe the best wind distribution which is one of the probabilistic modeling to select random variable. From the results optimum size of turbine is obtained and also obtains the location for placement of wind turbine to optimum the system losses. MATLAB/Simulink is used to simulate the optimization of power losses at power output of mean various wind turbine speed."
     },
     {
-        "title": "Circuit Breakers for Fault Current Interruption in HVDC Grids",
-        "conferenceTitle": "VDE High Voltage Technology 2016; ETG-Symposium",
-        "data": "14-16 Nov. 2016",
-        "authors": [
-            "Tim Schultz",
-            "Viktor Lenz",
-            "Christian M. Franck"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "Today, the interest in HVDC connections is growing throughout the world. First multi-terminal HVDC networks based on VSC technology have been built already and the need for HVDC circuit breakers with extremely fast reaction time is increasing. This contribution is introduced by an overview of factors that influence fault currents in HVDC networks and a comparison to frequently used test currents. In the following, the dimensioning of different circuit breaker topologies is explained using an example fault current. After comparing the interruption performance of selected topologies, the influence of changes in the fault current on the topology dependent interruption behavior is qualitatively discussed. A comparison with currently used test currents indicates, in which areas further investigation is needed."
-    },
-    {
         "title": "Design of power system stabilizer by frequency response and state-space methods",
         "conferenceTitle": "2016 10th International Conference on Intelligent Systems and Control (ISCO)",
         "data": "7-8 Jan. 2016",
@@ -1149,20 +791,6 @@
         "DOI": "10.1109/ISCO.2016.7727121",
         "citation": 2,
         "abstract": "The use of power system stabilizers in a power system is of great importance as these help to reduce the low-frequency oscillations in the generator rotor angle, that occur due to several disturbances to which the power systems are constantly subjected. There are numerous ways in which a power system stabilizer may be designed for a power system. This paper mainly focuses on the design of a power system stabilizer for a single-machine infinite bus system using the frequency response and state-space methods. The details of the design using frequency response method and state-space method are provided in this paper."
-    },
-    {
-        "title": "An Improved Network Simulator for EV / V2G studies",
-        "conferenceTitle": "CIRED Workshop 2016",
-        "data": "14-15 June 2016",
-        "authors": [
-            "Stephen Broderick",
-            "Andrew Cruden",
-            "Suleiman Sharkh",
-            "Nigel Bessant"
-        ],
-        "DOI": "10.1049/cp.2016.0626",
-        "citation": 1,
-        "abstract": "An 'Improved Network Simulator' (INSim) is described, offering EV and V2G aggregation on realistic networks. INSim models distributed loads and supplies including V2G and various ESS on an arbitrary network solved by EPRI's OpenDSS. INSim is a work in progress and is to be accessible via an OpenSource platform."
     },
     {
         "title": "Bridge circuit with two extended properties",
@@ -1184,7 +812,7 @@
         ],
         "DOI": "10.1109/ADCOM.2016.8",
         "citation": 1,
-        "abstract": "Deep learning methods, a reincarnation of neural networks, have demonstrated impressive performance in a variety of applications domains in recent years including computer vision, natural language processing and speech understanding. Silently, but surely, these methods have become a part of every technology consumer's life through their use in applications such as image search, face detection and speech processing. It is widely understood now that deep learning methods use deep graph architectures to learn hierarchical representations of data using linear and non-linear transformations, which are then used for learning and inference. Deep learning architectures include Convolutional Neural Networks, Recurrent Neural Networks, Autoencoders, Boltzmann Machines, and more recently, improvised networks such as Residual Networks and Memory Networks. These various morphologies of deep learning have displayed immense potential in solving AI problems that have challenged the field over the past few decades, supported by the availability of large amounts of data and computational power. This 3-hour tutorial will provide an introduction to deep learning, its mathematical foundations, a description of the different architectures, their applications for multimedia processing, especially in computer vision, and some recent trends."
+        "abstract": "Provides an abstract of the tutorial presentation and may include a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
     },
     {
         "title": "Ultra-low power SoC for wearable & loT",
@@ -1222,30 +850,6 @@
         "DOI": "10.1109/SIU.2016.7495717",
         "citation": 1,
         "abstract": "In this paper, the main objective is synthesising tango choreographies from tango dances. This system takes tango dance patterns performed by human dancers as input and produces choreographies that are represented in a 3 dimensional (3D) virtual environment. Dance figures obtained by a motion capture system are segmented automatically and analyzed with regard to center of mass to form the dance database. Choreographies are then created by combining compatible primitives and adapting them. The system is tested using both objective metrics such as the accuracy of the motion primitive segmentation as well as the subjective scores about the fluency and quality of the dance patterns, and is proven to be effective."
-    },
-    {
-        "title": "Concepts for flexibility use — Interaction of market and grid on DSO level",
-        "conferenceTitle": "CIRED Workshop 2016",
-        "data": "14-15 June 2016",
-        "authors": [
-            "Simon Ohrem",
-            "Daniel Telöken"
-        ],
-        "DOI": "10.1049/cp.2016.0779",
-        "citation": 1,
-        "abstract": "A variety of many new decentralised active grid users are integrated by distribution grids which offer flexibility options. Different concepts that enable distribution system operators to allocate available flexibility of active grid users in order to comply with local grid-related restrictions on the basis of interaction of market and grid are regarded in this paper. Common mechanism as well as crucial success factors are analysed. A proof-of-concept implementation is described as well as consequential challenges for distribution system operators and necessary adjustments of the regulatory framework that arise are pointed out."
-    },
-    {
-        "title": "Network segregation in the digital substation",
-        "conferenceTitle": "13th International Conference on Development in Power System Protection 2016 (DPSP)",
-        "data": "7-10 March 2016",
-        "authors": [
-            "J Arnaud",
-            "J W Wright"
-        ],
-        "DOI": "10.1049/cp.2016.0056",
-        "citation": 1,
-        "abstract": "The substation is undergoing a great transformation, from hardwired operation technology to flexible information and communication technology. The great benefits of such transformation come with challenges, one of which is cyber security. Network segmentation and segregation, discussed in this paper, is one of the many layers of security that should be implemented."
     },
     {
         "title": "Performance analysis of fuzzy logic controllers having Mamdani and Takagi-Sugeno inference methods by using unique software and toolbox",
@@ -1319,41 +923,6 @@
         "abstract": "In this study, we proposed a nonlinear probabilistic model to show how operant conditioning develops in rats trained to detect vibrotactile stimuli on their hindpaw glabrous skin. The model shows the dynamics of neural networks responsible for operant conditioning in a sensory detection task. We successfully simulated the behavior of rats with different learning levels defined by accuracy. Furthermore, the model could reproduce the changes in receiver operant characteristics during conditioning."
     },
     {
-        "title": "A review on real time face tracking and identification for surveillance system",
-        "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "data": "25-27 Oct. 2016",
-        "authors": [
-            "Sheshang Degadwala",
-            "Sagar Pandya",
-            "Vidisha Patel",
-            "Shraddha Shah",
-            "Udita Doshi"
-        ],
-        "DOI": "10.1049/cp.2016.1477",
-        "citation": 1,
-        "abstract": "The demand of smart cameras for various applications in surveillance for security purpose is growing rapidly. However till now, the processing required for real time face detection prohibits integration of the complete application into a small sized camera. The Real Time Face Tracking and Identification for Surveillance System proposed in this research work has come up with a simple and an efficient approach to satisfy the processing requirements and enable fast and accurate face detection. The core functionality of Real Time Face Tracking and Identification for Surveillance System is to allow tracking and recognition of human faces in a video stream and thereby provide a centralized, cost effective and robust mechanism of securing business and government premises. The primary objective of the proposed system is to reduce detection redundancy, minimize misclassification risk, provide huge processing capacity and work within a reasonable computational budget."
-    },
-    {
-        "title": "A Novel NoC-Architecture for Fault Tolerance and Power Saving",
-        "conferenceTitle": "ARCS 2016; 29th International Conference on Architecture of Computing Systems",
-        "data": "4-7 April 2016",
-        "authors": [
-            "Jan Heisswolf",
-            "Stephanie Friederich",
-            "Leonard Masing",
-            "Andreas Weichslgartner",
-            "Muhammad Aurang Zaib",
-            "Carsten Stein",
-            "Marco Duden",
-            "Juergen Teich",
-            "Andreas Herkersdorf",
-            "Juergen Becker"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "Networks on chips (NoCs) have become a promising candidate for communication in future many-core architectures. However, manufacturing defects and aging effects are expected to cause permanent errors in future technology nodes, which are targeted by NoC-based architectures. Consequently, fault tolerance concepts are necessary in order to deal with these permanent errors. In this work, we propose a novel approach for fault tolerance in NoC-based architectures. We introduce an additional network layer to take over the duties of defective routers. In contrast to existing approaches, the proposed concept is independent of the routing algorithm and can substitute the bandwidth of defective routers. In addition, we show the potential of the concept for power saving. An ASIC implementation of the proposed design is used for performance and power saving evaluation as well as for overhead analysis."
-    },
-    {
         "title": "Voltage stability monitoring by different ANN architectures using PCA based feature selection",
         "conferenceTitle": "2016 IEEE 7th Power India International Conference (PIICON)",
         "data": "25-27 Nov. 2016",
@@ -1390,26 +959,6 @@
         "abstract": "In this paper recording apparatus control unit for paintings skin glow in the fields of acupuncture and correspondence points is described. The installation consists of the primary and secondary units. The main unit is designed to find the optimal mode optical effects in the preparation of the paintings glow points akupunktu-ry. An additional unit is designed to study the possibility of transmission of optical energy between the ski is biological active points (meridians)."
     },
     {
-        "title": "Hardware-efficient Precise and Flexible Soft-demapping for Multi-Dimensional Complementary APSK Signals",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "Tsuyoshi Yoshida",
-            "Keisuke Matsuda",
-            "Keisuke Kojima",
-            "Hiroshi Miura",
-            "Keisuke Dohi",
-            "Milutin Pajovic",
-            "Toshiaki Koike-Akino",
-            "David S. Millar",
-            "Kieran Parsons",
-            "Takashi Sugihara"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "We propose the combination of log-likelihood ratio (LLR) table and min-sum algorithm-based LLR updates for simple, precise, and flexible soft-demapping of multi-dimensional complementary APSK signals. Transmission experiment verifies the demapping loss is limited to 0.15 dB in Q-factor."
-    },
-    {
         "title": "Band-stop filter based on magnetostatic surface waves, exciting by symmetric coplanar line",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
         "data": "3-6 Oct. 2016",
@@ -1435,58 +984,6 @@
         "abstract": "The document was not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "Wind power prediction using enhanced parametric wind power curve modeling",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
-        "authors": [
-            "Ehsan Taslimi Renani",
-            "Mohamad Fathi Mohamad Elias",
-            "Nasrudin Abd Rahim"
-        ],
-        "DOI": "10.1049/cp.2016.1359",
-        "citation": 1,
-        "abstract": "The wind turbine power curve presents the relation between hub height wind speed and wind turbine power. It essentially captures the performance of the wind turbine. Moreover, it serves as wind power forecasting tool if the predicted wind speed is available. This paper presents a new parametric model with nine coefficients for characterizing power curve of the wind turbine. To evaluate the performance of the proposed model, it is compared to four and five-parameter logistic function. Two models, namely, auto-regression moving average (ARMA) and multilayer perceptron (MLP) are applied to forecast wind speed. Results show that proposed model outperforms some other existing parametric wind turbine models."
-    },
-    {
-        "title": "Laboratory evaluation of a deterministic optimal power flow algorithm using power hardware in the loop",
-        "conferenceTitle": "CIRED Workshop 2016",
-        "data": "14-15 June 2016",
-        "authors": [
-            "Timur Sayfutdinov",
-            "Pádraig Lyons",
-            "Martin Feeney"
-        ],
-        "DOI": "10.1049/cp.2016.0675",
-        "citation": 1,
-        "abstract": "The evaluation of a centralized voltage optimization algorithm from a perspective of future distribution network with high penetrations of distributed generation using a laboratory featuring Power Hardware-in-the-Loop (PHiL) technology is presented in this paper. This work will enable practical evaluation of state-of-the-art voltage control equipment in future challenging network scenarios using PHiL equipped laboratory."
-    },
-    {
-        "title": "Protection relay behaviour during power system restoration — A boundary based state classification approach",
-        "conferenceTitle": "13th International Conference on Development in Power System Protection 2016 (DPSP)",
-        "data": "7-10 March 2016",
-        "authors": [
-            "M. Jaworski",
-            "J. Jaeger"
-        ],
-        "DOI": "10.1049/cp.2016.0099",
-        "citation": 1,
-        "abstract": "The successful implementation of a restoration strategy after a wide area blackout is an integral part of the electrical service security our industrialised civilisation relies on. Incorrect reactions of protection relays can force this time critical procedure to be restarted again, lowering its overall probability of success. This paper states the basic principles of power system restoration focussed on the voltage ramp-up approach, employing a simulation model that allows the analysis of the network in its normal operation state and the restoration state. Fault scenarios are analysed to determine to what extent the mathematically boundary line that separates the faultless from the faulty network status differ according to the previous system state and how this is reflected in the relay settings. Furthermore, a brief examination of the topological rearrangements and their influence on the fault clearing time of distance protection relays is presented."
-    },
-    {
-        "title": "Making faults to protect power networks",
-        "conferenceTitle": "CIRED Workshop 2016",
-        "data": "14-15 June 2016",
-        "authors": [
-            "Iñaki Orue",
-            "Ian Gilbert",
-            "Javier Larrieta",
-            "Juan Antonio Sanchez"
-        ],
-        "DOI": "10.1049/cp.2016.0681",
-        "citation": 1,
-        "abstract": "Today, distribution networks are supposed to be reliable enough to prevent major power disruptions, but is this true? How can we be sure that distribution networks really are correctly protected? How can we be sure that faults are correctly isolated and service restored in a minimum time? Standardization and testing would be the normal answer to that question for network components under strictly controlled laboratory environments. However, the problem arises when we wish to \"type test\" complete networks, including increasingly complex digital devices, their associated software and communication systems, to verify the correct performance of the whole protection system. Traditionally, these functional tests are carried out through simulation or on real networks when the operator allows it. For this, we decided to build a 'laboratory', called Demonstration and Experimentation Unit (UDEX), a real grid designed as a platform for the research, development and verification of new technologies, products, services and systems. It permits the reproduction of normal conditions and anomalous situations such as network failures. To highlight the methodology, capabilities and benefits of such infrastructures, we present one particular case study dealing with aspects of the distribution automation application, FLISR (Fault Location Isolation and Service Restoration)."
-    },
-    {
         "title": "Assessing cement plant thermal performance",
         "conferenceTitle": "2016 IEEE-IAS/PCA Cement Industry Technical Conference",
         "data": "13-20 May 2016",
@@ -1497,39 +994,6 @@
         "DOI": "10.1109/CITCON.2016.7742658",
         "citation": 1,
         "abstract": "Energy consumption is one of the largest cost components in the production of Portland cement. Energy is consumed through the fuel required to make the cement, as well as the electricity consumed to operate the manufacturing equipment. This paper discusses the fuel requirements for driving the chemical processes are the starting point for the assessment. These are found to be rather similar through-out the industry, with only minor differences between different facilities. Higher chemical varability increases the heat requirements as more heat is required for the reactions and the reaction temperatures are higher. Thermal efficiency is primarily determined by the thermal recuperation of heat contained in the fuel combustion exhaust gases and the intermediate product, clinker. This heat is recuperated in preheaters and clinker coolers respectively. The factors that drive efficient heat recuperation are discussed and simple performance assessment indicators provided. Operators who pay close attention to their thermal performance can reduce operating costs and obtain a competitive advantage in the market."
-    },
-    {
-        "title": "Pretreatment of biomass for power generation",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
-        "authors": [
-            "M. Hasanuzzaman",
-            "F. M. Hossain",
-            "N. A. Rahim",
-            "M. I. Jahirul"
-        ],
-        "DOI": "10.1049/cp.2016.1328",
-        "citation": 1,
-        "abstract": "Renewable energies are the most sustainable forms of energy where the world has witnessed tremendous growth in renewable energy technologies to replace fossil fuels. Biomass is one of the renewable resources and different conversions processes are used to produce second generation biofuel from lignocellulosic biomass. Pretreatment is required to extract biofuel from lignocellulosic biomass to improve hydrolysis processes for fermentable sugars. In the conventional heating process heat is transferred into the reactant by convection, conduction and radiation from the beginning to the end. Thereby, conventional heating processes for pretreatment require more energy and consume more time that reduces overall efficiency. However, in the microwave heating for pretreatment is unlike the conventional heating because the heat produced inside the materials. To improve the synthesis process of lignocellulosic biomass in to biofuel, microwave heating methods is used. However, this technology is not industrialized because it's still in the research stage. In this study, several publications are reviewed and summarized to demonstrate microwave heating application for second generation biofuel production."
-    },
-    {
-        "title": "10-Gbaud OOK / PAM4 Digital Mobile Fronthaul based on One-Bit / Two-bit Delta-Sigma Modulation Supporting Carrier Aggregation of 32 LTE-A Signals",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "Jing Wang",
-            "Zhenhua Yu",
-            "Kai Ying",
-            "Junwen Zhang",
-            "Feng Lu",
-            "Mu Xu",
-            "Lin Cheng",
-            "Xiaoli Ma",
-            "Gee-Kung Chang"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "10-Gbaud OOK/PAM4 digital mobile fronthaul was experimentally demonstrated by using onebit/ two-bit delta-sigma modulation supporting 32 LTE-A carrier aggregation for 3GPP release 13 with up to 256 and 1024QAM. Compared with CPRI, the mobile fronthaul capacity is increased by 4 times."
     },
     {
         "title": "A study on information security attack based side-channel attacks",
@@ -1582,23 +1046,6 @@
         "abstract": "The review of the spectrometer researches conducted in Scientifical educational center of photonics, tool informational and analytical technologies (SEC PIAT) at department of physics of MGUPS (MIIT) is given. Application possibilities of the modern spectrometer equipment in educational process and familiarizing practice students, graduated students and teachers with the hi-tech equipment are discussed."
     },
     {
-        "title": "Full-Duplex Mobile Backhaul Transportation based on Fiber-Wireless Integrated FSO and MMW Hybrid Links with Adaptive Signal Processing to Combat",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "Junwen Zhang",
-            "Jing Wang",
-            "Mu Xu",
-            "Feng Lu",
-            "Lin Cheng",
-            "Jianjun Yu",
-            "Gee-Kung Chang"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "We propose and experimentally demonstrate a novel full-duplex mobile backhaul network based on fiber-wireless integrated MMW and FSO hybrid links using adaptive diversity combining technique. Performance improvements and enhanced reliability are validated under diverse weather conditions at 11.25-/8.4-Gb/s for down-/up-links."
-    },
-    {
         "title": "Large-scale millimeter-wave phased arrays for 5G systems",
         "conferenceTitle": "2016 IEEE 16th Topical Meeting on Silicon Monolithic Integrated Circuits in RF Systems (SiRF)",
         "data": "24-27 Jan. 2016",
@@ -1608,32 +1055,6 @@
         "DOI": "10.1109/SIRF.2016.7445432",
         "citation": 1,
         "abstract": "The construction of large phased arrays, composed of 256-1024 elements, with relatively low-cost is one of the main problems of 5G systems. In this talk, we will present our effort in this area and show 256 element and 1024 element phased arrays operating at 60GHz. This is done using highly complex and integrated silicon (SiGe) chips, capable of phase shifting and frequency translation functions, and operation up to 100C. Measured patterns and communication links capable of 2-4 Gbps over hundreds of meters will be shown."
-    },
-    {
-        "title": "190-Gb/s CPRI-Equivalent Rate Fiber-Wireless Mobile Fronthaul for Simultaneous Transmission of LTE-A and F-OFDM Signals",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "Pham Tien Dat",
-            "Atsushi Kanno",
-            "Naokatsu Yamamoto",
-            "Tetsuya Kawanishi"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "We propose an efficient, flexible fiber-wireless mobile fronthaul for simultaneous transmission of different RATs. We successfully transmit 2x20-MHz LTE-A and 4x800-MHz F-OFDM signals with a CPRI-equivalent data rate of 190 Gb/s over a converged 20-km fiber and 1-m 90 GHz."
-    },
-    {
-        "title": "Power equipment state diagnosis based on multi-source monitoring data mining",
-        "conferenceTitle": "12th IET International Conference on AC and DC Power Transmission (ACDC 2016)",
-        "data": "28-29 May 2016",
-        "authors": [
-            "Zheng Yiming",
-            "Sun Xiang"
-        ],
-        "DOI": "10.1049/cp.2016.0492",
-        "citation": 1,
-        "abstract": "With the construction of UHV power grid, state assessment and diagnosis of power equipment in transmission and transformation systems have increasingly become the key technology to ensure the safety and stability of power system. Currently, state diagnosis of power equipment is mostly based on one single monitoring parameter. In this paper, a comprehensive analysing method was presented based on the mining of multi-source monitoring data, offering a new thought to analyse the states and defects of power equipment. The proposed method was applied on analysing the time-sequence and correlation of multi-source online monitoring data of a defective UHV reactor. According to the analysis results, the cause of the defects were investigated. The practice shows that the analysing method proposed in this paper can be applied on the defect diagnosis of power equipment, and the multi-source monitoring data contributes to improve the diagnosis accuracy."
     },
     {
         "title": "Evolutionary Algorithm for Segmentation of Medical Images by Region Rrowing",
@@ -1648,20 +1069,6 @@
         "DOI": "10.1109/CGiV.2016.32",
         "citation": 1,
         "abstract": "Image segmentation by region growing method is robust fast and very easy to implemented, but it suffers from: the threshold problem, initialization, and sensitivity to noise. Evolutionary algorithms are particular methods for optimizing functions, they have a great ability to find the global optimum of a problem. In this paper, we used evolutionary algorithms to get over the three problems. We have proposed a segmentation method based on region growing and evolutionary algorithms. The proposed approach is validated on four hundred synthetic images and medical. The results show the good performance of this approach."
-    },
-    {
-        "title": "IGBT Online-Temperature Monitoring using Turn-Off Delay as a Temperature Sensitive Electrical Parameter",
-        "conferenceTitle": "CIPS 2016; 9th International Conference on Integrated Power Electronics Systems",
-        "data": "8-10 March 2016",
-        "authors": [
-            "Christian Felgemacher",
-            "Benjamin Dombert",
-            "Christian Noeding",
-            "Peter Zacharias"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "Condition monitoring and remaining life prognosis are valuable techniques to detect situations that may lead to failures before equipment fails and allow maintenance to be scheduled before downtime occurs. In the case of power electronic converters the monitoring of the temperatures of the semiconductor chips within the power electronic modules is desirable for condition monitoring. An implementation of IGBT Online-Temperature sensing using the turn-off delay as a temperature sensitive electrical parameter is presented in this paper. Only few additional components are required for this solution. Experimental results show that with the implemented measuring circuitry the device temperature can be measured during switching operation of the converter."
     },
     {
         "title": "Research on distributed emergency resource scheduling system based on Internet of Things",
@@ -1793,20 +1200,6 @@
         "abstract": "Refractive index (RI) is one of the physical properties of material, such as boiling/ melting point, density, and elasticity. As one of the distinctive features of the material, measurement of the RI is nowadays used in many areas including the food, oil and petroleum industry, biomedical applications, and environmental analysis. In recent years, fiber optic based refractometers become highly popular thanks to the advantages they provide compared to other methods used in the above mentioned fields. Two fiber optic refractive index sensors were investigated in this study: Fresnel reflection based- and long-period fiber grating (LPFG) based-refractometers. The former uses SMF fiber tip as sensing point interrogated by an OTDR from a distant location, where the latter examines the changes in the resonance wavelength. Experimental work realised on different concentrations of glucose-water and glycerol-water solutions successfully demonstrated the capability of the proposed sensor in measuring RI of liquid chemicals with a precision of 1.7×10-4 (Fresnel-based sensor) and maximum sensitivity of 193.42 nm/RIU (LPGF based sensor)."
     },
     {
-        "title": "Design and construction of LVDC distribution site",
-        "conferenceTitle": "CIRED Workshop 2016",
-        "data": "14-15 June 2016",
-        "authors": [
-            "Youngpyo Cho",
-            "Jaehan Kim",
-            "Jintae Cho",
-            "Juyong Kim"
-        ],
-        "DOI": "10.1049/cp.2016.0629",
-        "citation": 1,
-        "abstract": "This paper is to apply a long distance low load voltage direct current (LVDC) distribution system to the grid. The percentage of renewable energy source is expending in power distribution system. For these reasons, there are many researches concerning DC distribution system recently because significantly gains like efficiency, stability, reliability and controllability can be achieved by transferring to the DC from the AC in power system. This current trend is towards power utilities which supply electricity to customers. It is expected that DC customers like IDC, DC building and DC home will demand power utilities to provide the direct DC electric power at early date. Therefore, we need to DC power distribution system development according to the DC power supply requirements. LVDC is new distribution system with several advantages such as efficiency improvement, cost saving, CO2 reduction, by providing 120V ~ 1500V low voltage DC power directly to the customer. At present, a study is in progress all over the world for the LVDC distribution, in order to apply the grid it is necessary to do verification for the safety and reliability. KEPCO (Korea Electric Power Corporation) which is the Korea electric utility manufactures LVDC core electrical facilities prototype and carries out demonstration tests considering the characteristics of the DC distribution system. This paper presents design, construction and demonstration test results of LVDC distribution demonstration site. Its LVDC distribution demonstration contains filed application simulator which consists of power conversion units, load(AC/DC) simulator system, protection system, digital power meter, AC transfer system. Remote control and monitoring system."
-    },
-    {
         "title": "[PDF Not Yet Available In IEEE Xplore]",
         "conferenceTitle": "2016 IEEE Colombian Conference on Communications and Computing (COLCOM)",
         "data": "27-29 April 2016",
@@ -1840,34 +1233,6 @@
         "abstract": "For the problem of uneven illumination of the image in the underground of coal mine, we have carried on the deep research to the common several kinds of enhancement theory, which can improve the visual effect of the uneven illumination image. Then, we analyzed the relative parameters of spatial statistical properties of gray scale images. At last, we make an objective evaluation of the image quality. The theory analyses and experiments show that the method of histogram equalization image enhancement can achieve satisfactory results in dealing with the contrast of the image is not very low or intensity distribution is relatively dense."
     },
     {
-        "title": "Underground low voltage loop system of KEPCO",
-        "conferenceTitle": "CIRED Workshop 2016",
-        "data": "14-15 June 2016",
-        "authors": [
-            "Young-Soo Jeon",
-            "Dong-Yeol Shin",
-            "Yong-Up Park",
-            "Kil-Sin Kim",
-            "Jeong-Yeol Yu",
-            "Dong-Myung Kim"
-        ],
-        "DOI": "10.1049/cp.2016.0700",
-        "citation": 1,
-        "abstract": "KEPCO has adopted radial system at low voltage distribution. Recently KEPCO began to have the problems. As low voltage customer's limit was changed from 499 kW to 999 kW, the uses of large capacity transformer are increased. Installation space of TR & CB are insufficient at downtown area. Utility rate of transformer is low. When transformer is replaced, LV system experiences interruption. So we developed the underground low voltage loop system. KEPCO 's LV loop system is consisted of HV CB, TR, LV loop IED, LV CB, operation system (server). To develop the low voltage loop system, we simulated the load flow and fault analysis by EMTDC program, made a simulator for lab test, developed the protection coordination and established test bed at 22.9kV network. And field test was done."
-    },
-    {
-        "title": "Application of AHP in location selection of wave power plant",
-        "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "data": "25-27 Oct. 2016",
-        "authors": [
-            "Tilottama Chakraborty",
-            "Mrinmoy Majumder"
-        ],
-        "DOI": "10.1049/cp.2016.1471",
-        "citation": 1,
-        "abstract": "The present study introduces a new way to identify location where maximum utilization of ocean energy resources can be possible with minimum expenditure. In this aspect, AHP was usedand, for the first time, cost and efficiency are used in an objective manner to compare the selected important parameters with respect to study objective. Results depict the importance of wave height in selection of locations for installation of wave power plants."
-    },
-    {
         "title": "A particle filtering approach for noisy seismic events tracking",
         "conferenceTitle": "2016 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)",
         "data": "24-27 Oct. 2016",
@@ -1877,19 +1242,6 @@
         "DOI": "10.1109/ISPACS.2016.7824773",
         "citation": 1,
         "abstract": "This paper addresses the extraction of the seismic events from noisy seismic records. Seismic signals are nonlinear and can be modeled by a nonlinear dynamical system. Accurate estimation of seismic signals is very important in geological structure studies. It is typical that the signal is corrupted by noise, especially during the data acquisition process. This results in the loss of important information embedded in the measured or the acquired data. This work proposes the particle filtering, a class of sequential Monte Carlo methods, along with the seismic wavelet model for the tracking of the seismic events of the noisy seismic signals. The method is evaluated on the synthetic noisy data with different noise levels. Moreover, the method is tested on multiple events seismic records to show its performance when the signals are more complex. Simulation results demonstrated that the proposed method delivers excellent seismic event estimates under noisy observations."
-    },
-    {
-        "title": "Recent Progress on 25G EPON and beyond",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "Vincent Houtsma",
-            "Doutje van Veen",
-            "Ed Harstead"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "An overview of recent developments in next generation high speed PON and the progress being made in IEEE P802.3ca working group on 25G EPON and beyond is given."
     },
     {
         "title": "Polarization holographic gratings in liquid crystal composites doped nanoparticles",
@@ -1928,25 +1280,6 @@
         "abstract": "Hybrid electric car fuel consumption optimization based on fuzzy control strategy has strong subjective dependence, and the control results cannot reach the most optimal value. So a kind of improved genetic algorithm is introduced into optimization of control rule. According to genetic algorithm theory, the vehicle fuel consumption and emissions are taken as the objective function and fitness function is determined by weighting method. In order to simplify the coding method for genetic operation process, decimal integer coding method is used for variable encoding of rules. The optimization control strategy model is imported into vehicle model for simulation. The results show that the optimized control strategy based on improved genetic algorithm has better performance than basic genetic algorithm."
     },
     {
-        "title": "Crosstalk-aware Virtual Optical Network Embedding (VONE) in Spatial Division Multiplexing Enabled Elastic Optical Networks with Multi-core Fibers",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "Ruijie Zhu",
-            "Yongli Zhao",
-            "Hui Yang",
-            "Yuanlong Tan",
-            "Xiaosong Yu",
-            "Guanjun Gao",
-            "Jie Zhang",
-            "Nannan Wang",
-            "Jason P. Jue"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "A crosstalk-aware VONE (CA-VONE) algorithm is proposed for spatial division multiplexing enabled elastic optical networks with multi-core fibers. Simulation results show that CA-VONE can achieve better performance than the previous algorithms in terms of blocking probability and resource utilization."
-    },
-    {
         "title": "Fast intra-beam switching scheme using common contention channels in millimeter-wave based cellular systems",
         "conferenceTitle": "2016 18th International Conference on Advanced Communication Technology (ICACT)",
         "data": "31 Jan.-3 Feb. 2016",
@@ -1971,19 +1304,6 @@
         "abstract": "This article covers some key approaches to solve the problem of reducing inter-cell interference in wireless networks, such as LTE, caused by lack of frequency reuse principle. On the basis of the author's simulation model it was done a comparative analysis of the existing solution in terms of achievable throughput and the probability of blocking the traffic channel PUSCH and PDSCH. The simulation results demonstrate the inefficient usage of time domain resources at the cell edges between subscribers served by different stations, as part of any inter-cell interference coordination procedures."
     },
     {
-        "title": "Intelligence Extraction Method of Domain Terms for Chinese Web Documents Based on Hierarchical Combination Strategy",
-        "conferenceTitle": "2016 International Conference on Intelligent Transportation, Big Data & Smart City (ICITBS)",
-        "data": "17-18 Dec. 2016",
-        "authors": [
-            "Yangyi Dong",
-            "Weihua Li",
-            "Hui Yu"
-        ],
-        "DOI": "10.1109/ICITBS.2016.57",
-        "citation": 1,
-        "abstract": "Domain terms extraction based on Chinese Web document is an important step in the field of Chinese text information into machine recognition, and it is also the technical basis of intelligence information processing in domain ontology construction, text knowledge mining, and etc. The traditional methods of terms extracting are: Based on the dictionary, based on the rules and the statistical method. But each of methods contains some limitations, such as in single word processing, synonyms merging and so on. In order to solve these problems, the intelligence extraction method based on hierarchical combination strategy is proposed. It is divided into three layers: the first layer is the document preprocessing layer, the second layer is the words preparation layer, and the third layer is the term extraction layer. The effectiveness of this method is verified by experimental data in the field of weapon and equipment. Comparing with the traditional method, it is proved that this method has good accuracy and recall rate for the domain terms extraction based on the Chinese Web documents."
-    },
-    {
         "title": "Research of electromagnetic forces electromagnetic actuator at fluctuations of anchor",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
         "data": "3-6 Oct. 2016",
@@ -1994,19 +1314,6 @@
         "DOI": "10.1109/APEIE.2016.7806986",
         "citation": 1,
         "abstract": "By results of analytical and experimental researches of electromagnetic forces in oscillatory process of movement of anchor of electromagnetic actuator are submitted the proofs of basic divergence of settlement and experimental sizes of electromagnetic forces."
-    },
-    {
-        "title": "A computational modelling of wind turbine mechanical power and its improve factor determination",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
-        "authors": [
-            "Matthew Y. W. Teow",
-            "H. K. Chiu",
-            "Rodney H. G. Tan"
-        ],
-        "DOI": "10.1049/cp.2016.1358",
-        "citation": 1,
-        "abstract": "A Wind Turbine Simulator is developed and presented in this paper to model and analyse the performance of a horizontal axis wind turbine mechanical power with its effective and improve factors. The effective factor is used to determine the effectiveness of wind turbines to extract wind energy for a specific wind speed with different number of blades. The improved factor is used to determine the improved performance of wind turbine with the increment of turbine blades. The improve factor for one to six blades of a wind turbine is evaluated based on three different commercial wind turbine parameters. The computational simulation results show that wind turbines rotating at low wind speed performs better with more turbines blades due to unity effective factor. High improve factors of a wind turbine can be achieved from the increment of one to two blades and two to three blades. This paper contributes to the computational simulation evaluation of effective and improve factors for the determination of a suitable blade configuration in a wind turbine design with a given constraint on the mechanical output power."
     },
     {
         "title": "Geographically weighted regression: Fitting to spatial location",
@@ -2020,31 +1327,6 @@
         "DOI": "10.1109/APEIE.2016.7806953",
         "citation": 1,
         "abstract": "A popular tool for identifying the relationships on spatial data is geographically weighted regression (GWR). GWR estimation quality strongly depends on the choice of the smoothing parameter. Typically for estimation purposes a range of the local area, or a number of nearest neighbors are fixed. However in practice objects can form clusters of different size and composition. For adaptive bandwidth selection a new algorithm for determining a set of nearest neighbors on the basis of analytical method ABC-analysis is proposed. The algorithm efficiency was tested in computing experiments and practical application in the estimation of residential real estate."
-    },
-    {
-        "title": "Research on Bi-satellite Ka-band FMCW SAR Design and Imaging",
-        "conferenceTitle": "Proceedings of EUSAR 2016: 11th European Conference on Synthetic Aperture Radar",
-        "data": "6-9 June 2016",
-        "authors": [
-            "Hui Wang",
-            "Man Jiang",
-            "Shichao Zheng"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "This paper puts forward a system concept for Bi-satellite Ka FMCW SAR. The system scheme and parameter design are given. And the receiving and transmitting antennas are also designed, which are proved correctly through the simulation and analysis of NESZ, RASR, and AASR. Meanwhile, the synchronization and internal calibration technology are also considered for the bi-satellite Ka FMCW SAR system preliminarily. Besides, based on the imaging algorithms researched before for the airborne Ka FMCW SAR, this paper proposes to use the modified w-k algorithm for multi-point targets imaging. The result and analysis present a further verify for the Ka-band Bi-satellite FMCW SAR system in this paper."
-    },
-    {
-        "title": "Experimental Verification of High-ResolutionWide-Swath Moving Target Indication",
-        "conferenceTitle": "Proceedings of EUSAR 2016: 11th European Conference on Synthetic Aperture Radar",
-        "data": "6-9 June 2016",
-        "authors": [
-            "Stefan V. Baumgartner",
-            "Gerhard Krieger"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "In [1, 2] we have introduced a set of novel low pulse repetition frequency (PRF) algorithms, which allow for simultaneous high-resolution wide-swath (HRWS) SAR imaging and moving target indication (MTI) without the need of changing the system operation mode and the pulse repetition frequency (PRF). The core of these novel HRWS-MTI algorithms is the so called Matched Reconstruction Filter Bank (MRFB). By applying the MRFB, low PRF moving target signals can be reconstructed and refocused. Additionally, accurate estimates of the target motion parameters are obtained. In this paper the experimental verification of the MRFB principle is presented for the first time. For the verification real multi-channel airborne data acquired with DLR's F-SAR sensor over a maritime scenario are used."
     },
     {
         "title": "The numerical criterion of the compementary pair of bipolar transistors",
@@ -2094,21 +1376,6 @@
         "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
     },
     {
-        "title": "UHF PD Measurements on Power Transformers - Sensitivity Investigations",
-        "conferenceTitle": "VDE High Voltage Technology 2016; ETG-Symposium",
-        "data": "14-16 Nov. 2016",
-        "authors": [
-            "Hamid Jahangir",
-            "Asghar Akbari",
-            "Peter Werle",
-            "Mohsen Farahani",
-            "Janusz Szczechowski"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "UHF antenna characteristics, relation between IEC and UHF methods and robustness against external noises are the most important subjects in partial discharge (PD) measurement using UHF techniques. The purpose of this paper is to present results of some laboratory measurements in regards to each above mentioned subjects. Effect of insertion depth as an important UHF probe characteristic, effect of shape of electrodes on relation between IEC and UHF methods and a synthesis analysis on penetrated noises into transformer tank is investigated in this paper, in order to understand influences on the sensitivity of this method."
-    },
-    {
         "title": "Single-fiber optical transmission system with DWDM channels. Effect OA four-wave mixing products",
         "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
         "data": "3-6 Oct. 2016",
@@ -2118,19 +1385,6 @@
         "DOI": "10.1109/APEIE.2016.7807114",
         "citation": 1,
         "abstract": "Single-fiber optical transmission system (SFOTS) is offered, where the duplex is organized using dense wavelength division multiplexing (DWDM). The process of generating four-wave mixing products (FWM) occurring in optical fiber is modeled. The distribution of FWM products for the optical spectrum is investigated, as well as the number of products falling within the channel bandwidth."
-    },
-    {
-        "title": "Dental caries detection using NIR imaging technique",
-        "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "data": "25-27 Oct. 2016",
-        "authors": [
-            "Christina R. Renee",
-            "R Vanithamani",
-            "R Dhivya"
-        ],
-        "DOI": "10.1049/cp.2016.1486",
-        "citation": 1,
-        "abstract": "Near-infrared (NIR) is a non-ionizing, non-invasive method to identify and quantify caries at any stage. In dental imaging, the tooth's optical property exhibits lower absorption of stain and deeper penetration into tooth because the enamel is highly transparent to NIR. The image captured using NIR camera is of low contrast and resolution and requires visual enhancement.It is performed using morphological operations. The features are extracted from the Otsu's segmented caries image. The feature subset using the Gray-Level Cooccurrence Matrix (GLCM) are extracted, trained and tested using Support Vector Machine (SVM)classifier. SVM classifier categorizes the affected region in the image as normal or abnormal. The performance of the SVM classifier is compared with Scaled Conjugate Gradient - Back Propagation Network (SCG-BPN) classifier and Generalized Regression Network (GRN) classifier. The validation of the caries using SVM classifier outperforms the other two classifiers in the literature."
     },
     {
         "title": "Application method of barrier functions in the problem of estimating the probability density of the parameterized approximations",
@@ -2143,21 +1397,6 @@
         "DOI": "10.1109/APEIE.2016.7806886",
         "citation": 1,
         "abstract": "The methods of obtaining a parameterized density function with a limited number of data. The solution of this problem by minimizing the functional. In the method of the barrier function minimization problem with inequality constraints reduced to solving a sequence of unconstrained minimization problems. The advantage of this approach lies in the number of restrictions is independent of the order of the polynomial. Practical implementation of the minimization of the above causes functional choice of basis functions and the required order of polynomials approximating the probability density function."
-    },
-    {
-        "title": "Vehicle detection and warning system using radar technology",
-        "conferenceTitle": "3rd International Conference on Electrical, Electronics, Engineering Trends, Communication, Optimization and Sciences (EEECOS 2016)",
-        "data": "1-2 June 2016",
-        "authors": [
-            "Neeraj Kumar Agarwal",
-            "Sumit Thakur",
-            "Arun Kumar Singh",
-            "Rabindranath Bera",
-            "Bansibadan Maji"
-        ],
-        "DOI": "10.1049/cp.2016.1514",
-        "citation": 1,
-        "abstract": "When it comes to vehicular security be it accident or theft or traffic jams, unfortunately India lies among those countries where accidents share almost 32.6% of the entire death toll share. This paper is about Collision Avoidance and Warning Access System (CAWAS) using RADAR technology which uses Ultrasonic Sensor to estimate distance, control vehicles and protect them from colliding. This paper also discusses about the added features of communications, V2I and I2V using the Narrow Band Radio Frequency module. Along with basic communication, lab prototype also covers Intelligent Parking System, Biometric Vehicular access. The details of which are discussed in this paper."
     },
     {
         "title": "The design of shunts in light triggered power thyristor with integrated protection function from the effect of dV/dt",
@@ -2195,18 +1434,6 @@
         "abstract": "A brief overview of the latest results for the problems of quality control theory for the ordinary linear systems as well as the new problems for the above. A link has been noted between the problems in modal control by output feedback and the zero dynamics problem. Descriptor systems reduced to the canonical form and the related problems of zero dynamics were considered."
     },
     {
-        "title": "An approach to analysis of malware using supervised learning classification",
-        "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "data": "25-27 Oct. 2016",
-        "authors": [
-            "Aziz Makandar",
-            "Anita Patrot"
-        ],
-        "DOI": "10.1049/cp.2016.1484",
-        "citation": 1,
-        "abstract": "In this, we propose an approach for improved malware class recognition with the reduced false positive rate. The technique developed here uses all frequency resolutions of Discrete Wavelet Transform this gives the information of texture features present in malware image with different resolutions based on the grayscale image. The efficiency of malware class identification or recognition is based on the wavelet transform. In this, paper we are using db4 wavelet family for decompose of malware into three level decomposing. The most effective statistical features like energy and standard deviations are calculated to build feature vector. The combined feature vector is used to identify the given malware samples which family it belongs. We are classifying the malware with more accuracy compared to existing work. The accuracy of malware class recognition is improved by 98.88% accuracy and precision is 99% respectively."
-    },
-    {
         "title": "Impact of second generation plug-in battery electric vehicles on the aging of distribution transformers considering TOU prices",
         "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
         "data": "17-21 July 2016",
@@ -2217,36 +1444,6 @@
         "DOI": "10.1109/PESGM.2016.7741182",
         "citation": 1,
         "abstract": "Summary form only given: This paper investigates the impact of secondgeneration (SG) plug-in battery electric vehicles (PBEVs) on distribution transformer's insulation life considering the time-of-use (TOU) prices. The effect of dual Level 2 charging, 3.7 kW, and 6.6 kW on the loss of life (LOL) of a distribution transformer is also studied. The LOL results demonstrating the effectiveness of SG PBEVs charging as two clusters versus one cluster are discussed and conclusions are drawn."
-    },
-    {
-        "title": "Current Sensorless Direct Predictive Control for Permanent-Magnet Synchronous Motor Drives",
-        "conferenceTitle": "PCIM Asia 2016; International Exhibition and Conference for Power Electronics, Intelligent Motion, Renewable Energy and Energy Management",
-        "data": "28-30 June 2016",
-        "authors": [
-            "Zhemin Hu",
-            "Ming Yang",
-            "Kaixuan Yang",
-            "Dianguo Xu"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "A current sensorless control method is introduced based on current direct predictive control for permanent-magnet synchronous motor drives in order to reduce costs and avoid problems caused by faults of the current sensor. Future values of stator currents are predicted to select the voltage vector which minimizes a given cost function. The current sensor can be omitted by replacing actual feedback stator currents with predicted currents. A simulation study is performed in order to compare performances with and without the current sensor if external disturbances or measurement errors in motor parameters exist."
-    },
-    {
-        "title": "Simulation of the Lifetime of Wire Bonds Modified through Wedge Trenches for Higher Reliability",
-        "conferenceTitle": "CIPS 2016; 9th International Conference on Integrated Power Electronics Systems",
-        "data": "8-10 March 2016",
-        "authors": [
-            "Arian Grams",
-            "Christian Ehrhardt",
-            "Johannes Jaeschke",
-            "Andreas Middendorf",
-            "Olaf Wittler",
-            "Klaus-Dieter Lang"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "A new lifetime model for aluminum wire bonds, which is capable of describing the physical influence of material properties, thermal loading condition and geometry, has been used to investigate the reliability of modified wire bonds. The model is based on finite element simulation and the description of crack propagation in the region near the Al-Si interface (wedge crack) through a modified Paris law. To improve the lifetime of wire bonds, the mechanical stiffness of the wedge can be reduced through geometric alteration; this can be done e.g. through laser cutting. The impact of the modified geometry on crack propagation rate and thus on wire bond lifetime is calculated using the new modelling technique."
     },
     {
         "title": "A CMOS buck converter with PFM / hysteretic mode",
@@ -2271,24 +1468,6 @@
         "DOI": "10.1109/DTIS.2016.7483804",
         "citation": 1,
         "abstract": "Globalization of Integrated Circuit (IC) design and manufacturing is making designers and users of ICs re-assess their trust in hardware. As the IC design flow spans the globe - driven by cost-conscious consumer electronics - hardware is increasingly prone to reverse engineering, Intellectual Property (IP) piracy and malicious modifications (i.e., hardware trojans). An attacker, anywhere within the global design flow, can reverse engineer the functionality of an IC/IP, steal and claim ownership of the IP or introduce counterfeits into the supply chain. Moreover, an untrusted IC fab may overbuild ICs and sell them illegally. Finally, rogue elements in the fabs may insert hardware trojans into the design without the knowledge of the designer or the end-user of the IC; this additional functionality may subsequently be exploited to introduce errors in the results, steal sensitive information or incapacitate a fielded system. The semiconductor industry routinely loses $billions annually due to these attacks. This talk will cover various forms of threats that the electronic chip supply chain is up against, as well as defenses against these threats. The talk will elucidate the development of CAD algorithms/tools for this newly emerging field by mostly leveraging principles from other more mature research domains."
-    },
-    {
-        "title": "Polarization Controller for Si photonic integrated circuits with an active closed loop control",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "V. Sorianello",
-            "G. De Angelis",
-            "P. Velha",
-            "T. Cassese",
-            "M. V. Preite",
-            "A. Bianchi",
-            "F. Testa",
-            "M. Romagnoli"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "A polarization insensitive silicon photonic circuit for the management of any arbitrary polarization state of light coming from a fiber linked to a remote source is demonstrated. WDM channels with a common arbitrary polarization at the input are automatically equalized."
     },
     {
         "title": "Search the optimal combination of the geometric parameters of the ring magnet with a trapezoidal cross-section",
@@ -2318,34 +1497,6 @@
         "abstract": "Parkinson disease is neuro-degenerative motion disorder this disease causes voice and speech dysfunctions. Therefore, disease can be diagnosed by determining dysphonia produced by a subject with parkinson diseases. In this paper we have introduced a new classification method of the parkinson disease which is based on the stacked autoencoder. The method is tested with two data sets and results show that the performance of the stacked autoencoder is significantly better than the-state-art-methods."
     },
     {
-        "title": "High-frequency and high-efficiency bidirectional DC-DC converter for electric vehicle supercapacitor systems",
-        "conferenceTitle": "6th Hybrid and Electric Vehicles Conference (HEVC 2016)",
-        "data": "2-3 Nov. 2016",
-        "authors": [
-            "M. Rana",
-            "N. Mcneill"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "A high-efficiency bidirectional DC-DC converter for electric vehicle supercapacitor systems is presented. Compared with traditional IGBT power devices, wide bandgap devices can be effective here, but cost and technical issues such as gate oxide reliability are seen as drawbacks. A potentially attractive alternative device is the silicon super-junction MOSFET. However, the behaviour of the intrinsic diode and output capacitance of this device is problematic. An external diode network can be used to provide intrinsic diode deactivation. The selection of these diodes and their interaction with the device output capacitances is investigated. The proposed circuitry is demonstrated in a 1.1kW converter operating from 400V and switching at between 50kHz and 125kHz."
-    },
-    {
-        "title": "40 dB-Rejection Sharp-Edge Integrated SOI Phase-Shifted Bragg Grating Filter for Microwave Photonics",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "G. Serafino",
-            "C. Porzi",
-            "P. Velha",
-            "N. Andriolli",
-            "P. Ghelfi",
-            "A. Bogoni"
-        ],
-        "DOI": "",
-        "citation": 1,
-        "abstract": "An integrated, high-order phase-shifted Bragg-grating realizing steep-sloped optical passband filter with measured 41.5 dB out-of-band rejection and a transition bandwidth roll-off of 288 GHz/nm is demonstrated in passive Silicon-on-Insulator technology and verified in two different microwave photonics applications."
-    },
-    {
         "title": "NATO Cooperative Cyber Defence Centre of Excellence",
         "conferenceTitle": "2016 8th International Conference on Cyber Conflict (CyCon)",
         "data": "31 May-3 June 2016",
@@ -2353,32 +1504,6 @@
         "DOI": "10.1109/CYCON.2016.7529417",
         "citation": 1,
         "abstract": "The Tallinn-based NATO Cooperative Cyber Defence Centre of Excellence (NATO CCD COE) is a NATO-accredited knowledge hub, think-tank and training facility. The international military organisation focuses on interdisciplinary applied research and development, as well as consultations, trainings and exercises in the field of cyber security. The Centre's mission is to enhance capability, cooperation and information-sharing between NATO, Allies and partners in cyber defence."
-    },
-    {
-        "title": "DE optimized TIDF controller for LFC of interconnected power system",
-        "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "data": "25-27 Oct. 2016",
-        "authors": [
-            "Tulasichandra Sekhar Gorripotu",
-            "Sonali Priyadarshani",
-            "Rabindra Kumar Sahu"
-        ],
-        "DOI": "10.1049/cp.2016.1494",
-        "citation": 1,
-        "abstract": "This paper presents comparative performance analysis of Differential Evolution (DE) algorithm optimized classical controllers i.e. Integral (I), Proportional-Integral (PI) and Proportional-Integral-Derivative (PID) controller with a new Tilt-Integral-Derivative with derivative filter (TIDF) controller for load frequency control. Here, a five unequal reheat thermal area with generation rate constraint (GRC) and Governor Dead Band (GDB) non-linearity is considered for study. The gains of above controllers are optimized using the Integral of Time multiplied by Absolute Error (ITAE) objective function. The simulation results show that the TIDF controller provides better dynamic performance than classical controllers."
-    },
-    {
-        "title": "Three-level hybrid boost converter with high voltage gain",
-        "conferenceTitle": "4th IET Clean Energy and Technology Conference (CEAT 2016)",
-        "data": "14-15 Nov. 2016",
-        "authors": [
-            "Norhassanah Osman",
-            "Mohamad Fathi Mohamad Elias",
-            "Nasrudin Abd Rahim"
-        ],
-        "DOI": "10.1049/cp.2016.1308",
-        "citation": 1,
-        "abstract": "This paper presents a three-level hybrid boost converter based on T-type neutral point clamped inverter. The main advantage of the proposed converter is the capability of high voltage conversion ratio without using extreme duty cycle, high-frequency transformer, and coupled inductor. The performance of the proposed three-level hybrid boost converter has been simulated using PLECS software."
     },
     {
         "title": "Application of local autonomous protection against voltage instability to IEEE test system",
@@ -2405,19 +1530,6 @@
         "abstract": "Summary form only given. The recent detection of gravitational waves was made possible by the finest laser interferometers ever built. I will describe Advanced LIGO's optics, isolation, and control systems and discuss how the recent upgrades have changed our ability to “listen” to the universe."
     },
     {
-        "title": "Application of ANP in selection of converters for wave farm systems",
-        "conferenceTitle": "International Conference on Recent Trends in Engineering, Science & Technology - (ICRTEST 2016)",
-        "data": "25-27 Oct. 2016",
-        "authors": [
-            "Soumya Ghosh",
-            "Mrinmoy Majumder",
-            "Manish Pal"
-        ],
-        "DOI": "10.1049/cp.2016.1470",
-        "citation": 0,
-        "abstract": "The present study is an attempt to propose an objective methodology to identify suitable converters for the utilizing as wave farms so that optimal utilization under minimum constraints can be achieved. In this aspect analytical network process (ANP) was utilized for the first time to select the converters for using in wave farms in a specific location so that maximum utilization of ocean energy can be possible. In total twenty one parameters were used to select more suitable converters for using in wave farm. The objectivity of the method provides as reliable methodology for selection of converters."
-    },
-    {
         "title": "Keynotes",
         "conferenceTitle": "2016 25th International Conference on Computer Communication and Networks (ICCCN)",
         "data": "1-4 Aug. 2016",
@@ -2429,35 +1541,6 @@
         "DOI": "10.1109/ICCCN.2016.7568463",
         "citation": 0,
         "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
-    },
-    {
-        "title": "PDM-QPSK WDM Signal Amplification Using PPLN-Based Polarization-Independent In-Line Phase-Sensitive Amplifier",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "Masashi Abe",
-            "Takushi Kazama",
-            "Takeshi Umeki",
-            "Koji Enbutsu",
-            "Yutaka Miyamoto",
-            "Hirokazu Takenouchi"
-        ],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "We demonstrate the in-line phase-sensitive amplification of PDM-QPSK WDM signals. The amplifier consists of PPLN waveguides and has a net gain of 12 dB. These signals are transmitted over 80 km by recovering the pilot tone."
-    },
-    {
-        "title": "Full-Channel Parallel Measurement of 4x20-Gb/s All-Optical OFDM Signals by Using Loop-Assisted Coherent Matched Detector",
-        "conferenceTitle": "ECOC 2016; 42nd European Conference on Optical Communication",
-        "data": "18-22 Sept. 2016",
-        "authors": [
-            "Takahide Sakamoto",
-            "Guo-Wei Lu",
-            "Naokatsu Yamamoto"
-        ],
-        "DOI": "",
-        "citation": 0,
-        "abstract": "We demonstrate measurement of 4x20-Gb/s all-optical OFDM signals by using loop-assisted coherent matched detector. All-optical OFDM signal is projected onto the time-frequency domain first; then, all sub-channels are restored through digital matrix processing, without relying on optical FFT."
     },
     {
         "title": "Plenary lectures",
@@ -2478,18 +1561,6 @@
         "DOI": "10.1109/PIERS.2016.7734393",
         "citation": 0,
         "abstract": "Summary form only given. The rhythmic features found in the spontaneous ultra-weak photon emission from seedlings, in the early stages of development, will be presented and discussed based in the results of past 10 years with wheat, corn and sunflower seeds. Synchronism with external triggers such gravimetric tide and geomagnetic cycles are studied and might give indications for further applications in chronobiology and agriculture."
-    },
-    {
-        "title": "Study of information integration architecture based on the extensibility of smart gird CIM model",
-        "conferenceTitle": "CIRED Workshop 2016",
-        "data": "14-15 June 2016",
-        "authors": [
-            "Lei Zhao",
-            "Jinsong Liu"
-        ],
-        "DOI": "10.1049/cp.2016.0630",
-        "citation": 0,
-        "abstract": "This study extends IEC 61970 and IEC 61968 series standard on common information model(CIM). An information integration framework model of smart grid has been proposed' which includes electricity generation' transmission' distribution and consumption. Modeling of distributed energy put forward a unified information modeling specification and information communication standard. It provides a basis to support interconnection and interoperability' which also facilitates seamless access and coordinated control."
     },
     {
         "title": "Keynotes",
@@ -2555,5 +1626,731 @@
         "DOI": "10.1109/ICETT.2016.7873632",
         "citation": 0,
         "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Oscillistor RF-converter resistance to frequency",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "P.N. Drobot"
+        ],
+        "DOI": "10.1109/APEIE.2016.7807032",
+        "citation": 0,
+        "abstract": "The characteristics of silicon oscillistor sensors with frequency output and oscillistor resistance-tofrequency converter (RF-converter) are discussed. The prospects oscillistor RF-converter for producing on its basis the various sensors with frequency output when the sensing element is a photo-, magnetic-, tenso-, thermo-, or variable resistor (linear and angular motion sensor), and converter resistance-to-frequency will be oscillistor."
+    },
+    {
+        "title": "Improvement of bodipy-based bulk heterojunction solar cell using 1,8-diodooctane",
+        "conferenceTitle": "2016 Progress in Electromagnetic Research Symposium (PIERS)",
+        "data": "8-11 Aug. 2016",
+        "authors": [
+            "Hung-Lu Tsai",
+            "Li-Yin Chen"
+        ],
+        "DOI": "10.1109/PIERS.2016.7734285",
+        "citation": 0,
+        "abstract": "In this work, we investigate the effect of a solvent additive, 1,8-diodooctane (DIO), in a bodipy-based bulk-heterojunction solar cells. By using 0.2 vol% DIO, the power conversion efficiency (PCE) increased from 1.97% to 2.49%. This improvement was mostly due to the increase in the fill factor. The effect of solvent additive on photophysical property and microscopic morphology of the device is also discussed."
+    },
+    {
+        "title": "A flexible, ethernet fronthaul for 5th generation mobile and beyond",
+        "conferenceTitle": "2016 Optical Fiber Communications Conference and Exhibition (OFC)",
+        "data": "20-24 March 2016",
+        "authors": [
+            "Nathan J. Gomes",
+            "Volker Jungnickel",
+            "Philippe Chanclou",
+            "Joerg-Peter Elbers",
+            "Peter Turnbull"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Using Ethernet in the fronthaul can deliver the statistical multiplexing gains offered by the new functional splits proposed for the radio access network, but latency and delay variations are challenges that must be overcome."
+    },
+    {
+        "title": "Keynotes",
+        "conferenceTitle": "2016 Sensor Signal Processing for Defence (SSPD)",
+        "data": "22-23 Sept. 2016",
+        "authors": [],
+        "DOI": "10.1109/SSPD.2016.7590577",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Keynote Address",
+        "conferenceTitle": "2016 IEEE 25th Asian Test Symposium (ATS)",
+        "data": "21-24 Nov. 2016",
+        "authors": [],
+        "DOI": "10.1109/ATS.2016.73",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Harmonized multiuser transmission scheme for cellular systems",
+        "conferenceTitle": "2016 18th International Conference on Advanced Communication Technology (ICACT)",
+        "data": "31 Jan.-3 Feb. 2016",
+        "authors": [
+            "Wei Xi",
+            "Hua Zhou"
+        ],
+        "DOI": "10.1109/ICACT.2016.7423255",
+        "citation": 0,
+        "abstract": "No abstract or record of the presentation was made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "[PDF Not Yet Available In IEEE Xplore]",
+        "conferenceTitle": "2016 6th International Conference - Cloud System and Big Data Engineering (Confluence)",
+        "data": "14-15 Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/CONFLUENCE.2016.7508219",
+        "citation": 0,
+        "abstract": "The document that should appear here is not currently available."
+    },
+    {
+        "title": "Invited talk",
+        "conferenceTitle": "2016 16th International Conference on Application of Concurrency to System Design (ACSD)",
+        "data": "19-24 June 2016",
+        "authors": [],
+        "DOI": "10.1109/ACSD.2016.5",
+        "citation": 0,
+        "abstract": "Provides an abstract of the invited presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Micro cavities for soliton frequency combs and optical clocks",
+        "conferenceTitle": "2016 Conference on Lasers and Electro-Optics (CLEO)",
+        "data": "5-10 June 2016",
+        "authors": [
+            "Kerry J. Vahala"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Summary form only given. Progress on soliton frequency microcombs is described including review of dissipative Kerr microcavity soliton physics. Applications including integrated optical clocks, microwave sources and optical synthesizers are discussed."
+    },
+    {
+        "title": "Decentralized control of oscillatory dynamics in power systems using an extended LQR",
+        "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
+        "data": "17-21 July 2016",
+        "authors": [
+            "Abhinav Singh",
+            "Bikash Pal"
+        ],
+        "DOI": "10.1109/PESGM.2016.7741163",
+        "citation": 0,
+        "abstract": "Summary form only given. This paper proposes a decentralized algorithm for real-time control of oscillatory dynamics in power systems. The algorithm integrates dynamic state estimation (DSE) with an extended linear quadratic regulator (ELQR) for optimal control. The control for one generation unit only requires measurements and parameters for that unit, and hence the control at a unit remains completely independent of other units. The control gains are updated in real-time, therefore the control scheme remains valid for any operating condition. The applicability of the proposed algorithm has been demonstrated on a representative power system model."
+    },
+    {
+        "title": "Keynote Speech 4: Fuzzy Transfer Learning for Decision Making",
+        "conferenceTitle": "2016 17th International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT)",
+        "data": "16-18 Dec. 2016",
+        "authors": [
+            "Jie Lu"
+        ],
+        "DOI": "10.1109/PDCAT.2016.014",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Invited speakers",
+        "conferenceTitle": "2016 6th International Conference on Simulation and Modeling Methodologies, Technologies and Applications (SIMULTECH)",
+        "data": "29-31 July 2016",
+        "authors": [],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Invited Talk by SSCPS Workshop",
+        "conferenceTitle": "2016 IEEE International Conference on Software Quality, Reliability and Security (QRS)",
+        "data": "1-3 Aug. 2016",
+        "authors": [
+            "Wei Han"
+        ],
+        "DOI": "10.1109/QRS.2016.64",
+        "citation": 0,
+        "abstract": "Provides an abstract of the invited presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "More than Moore's law — Scaling with silicon photonics",
+        "conferenceTitle": "2016 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+        "data": "25-27 April 2016",
+        "authors": [
+            "Young-Kai Chen"
+        ],
+        "DOI": "10.1109/VLSI-DAT.2016.7482586",
+        "citation": 0,
+        "abstract": "Rapid growth of intelligent mobile devices and internet of things demand instantaneous and ubiquitous access to large amount of data stored in remote data centers. This growth drives the need of very large capacity processors to store, switch and route vast amount of data. With the electronics industry embracing the \"More-than-Moore\" concept to increase the integration level of the data processors, future generations of CMOS technology must not only scale transistor dimensions, but also need to embrace various heterogeneous integration technologies with new processing architectures. The emerging silicon photonics technology, which is compatible with the main stream CMOS manufacturing processes, promises significant enhancement in processing speed and capacity. In this talk, we will review the current status of the silicon photonics technology and new capability it would enable."
+    },
+    {
+        "title": "Recent advances in non-linear fiber propagation modeling",
+        "conferenceTitle": "2016 Optical Fiber Communications Conference and Exhibition (OFC)",
+        "data": "20-24 March 2016",
+        "authors": [
+            "Pierluigi Poggiolini"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Substantial advances in the modeling of non-linear fiber propagation have recently been made. Advantages and limitations of various proposed models are outlined and discussed. The still open problems and future challenges, including non-linearity mitigation, are discussed."
+    },
+    {
+        "title": "Discussion of the advanced LIGO sensitivity",
+        "conferenceTitle": "2016 Conference on Lasers and Electro-Optics (CLEO)",
+        "data": "5-10 June 2016",
+        "authors": [
+            "Denis Martynov"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Summary form only given. Advanced LIGO has directly observed gravitational waves during its first science run. In this talk I will discuss the astrophysical reach of LIGO interferometers during the run and prospects for the future."
+    },
+    {
+        "title": "Keynote address: Trends and challenges of high-frequency electromagnetic interference and protection with development of information communication technology (ICT)",
+        "conferenceTitle": "2016 IEEE Electrical Design of Advanced Packaging and Systems (EDAPS)",
+        "data": "14-16 Dec. 2016",
+        "authors": [
+            "Yaojiang Zhang"
+        ],
+        "DOI": "10.1109/EDAPS.2016.7893104",
+        "citation": 0,
+        "abstract": "Provides an abstract of the presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Experimental verification of the calculation of the ring magnet with a trapezoidal section by superposition method",
+        "conferenceTitle": "2016 International Conference on Actual Problems of Electron Devices Engineering (APEDE)",
+        "data": "22-23 Sept. 2016",
+        "authors": [
+            "A. A. Shvachko",
+            "A. A. Zaharov"
+        ],
+        "DOI": "10.1109/APEDE.2016.7879065",
+        "citation": 0,
+        "abstract": "The article describes the results of a natural experiment to verify the mathematical model for calculating the ring magnet with a trapezoidal cross-section. Shows the graphical model of calculated the experimental magnet, as well as its real counterpart, with the measurement of the magnetic field in the center of which are compared of results of calculation of the mathematical model. Displays summary of comparative table of the results of the calculation of the mathematical model, and the measurement of real analog computation model."
+    },
+    {
+        "title": "[PDF Not Yet Available In IEEE Xplore]",
+        "conferenceTitle": "2016 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)",
+        "data": "24-27 Oct. 2016",
+        "authors": [],
+        "DOI": "10.1109/ISPACS.2016.7824774",
+        "citation": 0,
+        "abstract": "The document that should appear here is not currently available."
+    },
+    {
+        "title": "The simulation of evolution of crystal particle in vortex chamber",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "Gennadiy F. Sivykh",
+            "Nadezhda I. Fainer"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806482",
+        "citation": 0,
+        "abstract": "The vortex chamber is proposed to produce silicon and other crystal particles, as well as to intensify heat and mass transfer processes and chemical reactions. Results of the numerical computations of the evolution of ice crystal moving in vortex reactor are presented."
+    },
+    {
+        "title": "Applications of a picosecond-lifetime quantum memory",
+        "conferenceTitle": "2016 Conference on Lasers and Electro-Optics (CLEO)",
+        "data": "5-10 June 2016",
+        "authors": [
+            "D. G. England",
+            "P. J. Bustard",
+            "B. J. Sussman",
+            "K. A. G. Fisher",
+            "J.-P. W. MacLean",
+            "K. J. Resch"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "We demonstrate a quantum memory using the optical phonon modes of room-temperature diamond [1, 2]. The memory stores THz-bandwidth single photons produced by parametric down-conversion for several picoseconds and offers operations upon the stored light."
+    },
+    {
+        "title": "SmartSys Keynote Session",
+        "conferenceTitle": "2016 IEEE International Conference on Smart Computing (SMARTCOMP)",
+        "data": "18-20 May 2016",
+        "authors": [],
+        "DOI": "10.1109/SMARTCOMP.2016.7501666",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "An integrated optical link in 140 nm SOI technology",
+        "conferenceTitle": "2016 Conference on Lasers and Electro-Optics (CLEO)",
+        "data": "5-10 June 2016",
+        "authors": [
+            "S. Dutta",
+            "R.J.E. Hueting",
+            "V. Agarwal",
+            "A.J. Annema"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "A silicon-on-insulator based optical link is introduced. Higher opto-coupling efficiency and temperature-resilience are obtained via avalanche-mode light-emitting diode operation against forward-mode operation. Self-heating induced thermo-coupling in steady-state is de-embedded by calibrating the photo-detector's photovoltaic characteristics."
+    },
+    {
+        "title": "SSC Keynote Session",
+        "conferenceTitle": "2016 IEEE International Conference on Smart Computing (SMARTCOMP)",
+        "data": "18-20 May 2016",
+        "authors": [],
+        "DOI": "10.1109/SMARTCOMP.2016.7501670",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Pre-conference workshops",
+        "conferenceTitle": "2016 IEEE Innovative Smart Grid Technologies - Asia (ISGT-Asia)",
+        "data": "28 Nov.-1 Dec. 2016",
+        "authors": [],
+        "DOI": "10.1109/ISGT-Asia.2016.7796348",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the presentations and a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "The design and study of the system of computer network traffic using the secure virtual communication channel technology",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "Evgeny A. Basinya",
+            "Anton V. Safronov"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806979",
+        "citation": 0,
+        "abstract": "The paper addresses one of the possible approaches to computer network traffic control based on encapsulated secure virtual communication channels. The design and study of the commercial VPN service with an open source code is considered in the paper. The results of the experiments aimed to identify the intercepted traffic types and to decode it are presented. This work resulted in developing an open-source VPN service based on the proposed algorithm and promoting secure communication channel technologies."
+    },
+    {
+        "title": "Stability probabilities of terminal sliding mode control of manipulator systems with Markovian jumpings",
+        "conferenceTitle": "2016 14th International Workshop on Variable Structure Systems (VSS)",
+        "data": "1-4 June 2016",
+        "authors": [
+            "Jiaming Zhu",
+            "Zhiqiang Cao",
+            "Yuequan Yang"
+        ],
+        "DOI": "10.1109/VSS.2016.7506937",
+        "citation": 0,
+        "abstract": "This paper investigates the stability probabilities of terminal sliding mode control of the continuous manipulator systems with Markovian jumpings. The proposed sliding manifold is a nonsingular sliding mode, which can be reached in a finite time. Furthermore, we discuss the situation that the control force is not strong enough, and then propose the reaching probability and sliding probability. A numerical example is given to show the effectiveness of the theoretical results."
+    },
+    {
+        "title": "PWM controller design for DC motor drive via time-scale separation technique",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "N. S. Rogova",
+            "V.D Yurkevich"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806983",
+        "citation": 0,
+        "abstract": "The problem of a DC motor speed control is discussed. DC motor is equipped with autonomous voltage inverter and pulse-width modulator. Proportional-integral (PI) controller is designed for motor speed control based on singular perturbation technique such that multi-time-scale motions are artificially induced in the closed-loop system. Multi-time-scale motions analysis allows getting analytical expressions for selection of controller parameters. Robustness of the closed-loop system properties is maintained. Simulation results are presented as well."
+    },
+    {
+        "title": "The simulation system and research of functions of random variables",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "Pavel Yu. Blinov",
+            "Boris Yu. Lemeshko"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806907",
+        "citation": 0,
+        "abstract": "The questions of research of the distribution laws of one-dimensional functions of a set of independent random variables are considered. The subsystem that allow for implementing the imitation modeling of different functions of a set of independent random variables and investigating these distribution laws is implemented. System capabilities illustrated the efficiency of this method is demonstrated in set of examples."
+    },
+    {
+        "title": "[PDF Not Yet Available In IEEE Xplore]",
+        "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
+        "data": "17-21 July 2016",
+        "authors": [],
+        "DOI": "10.1109/PESGM.2016.7741631",
+        "citation": 0,
+        "abstract": "The document that should appear here is not currently available."
+    },
+    {
+        "title": "HPDAV 2016 Keynote",
+        "conferenceTitle": "2016 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)",
+        "data": "23-27 May 2016",
+        "authors": [
+            "Jim Jeffers"
+        ],
+        "DOI": "10.1109/IPDPSW.2016.238",
+        "citation": 0,
+        "abstract": "The HPC industry is in the midst of unprecedented change. Everything about how HPC systems are used and built is evolving to support more complex models with ever-increasing data sets. Scientists, engineers, and designers around the world are driving these high performance computing trends to fuel their insights. These insights, in turn, lead to better products, quicker discoveries, and better decisions than ever before. These factors require a transformation in HPC system design, a focus on code modernization plus rethinking how analysis tools scale to match users and developers' needs. We will discuss how the Intel® Scaleable System Framework enables a broad and growing set of workloads and then delve into the benefits of Software Defined Visualization to meet the demand to improve analysis of continually growing data models."
+    },
+    {
+        "title": "Risk monitoring of the activity in the verification laboratory",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "V.A. Grinevich",
+            "I.M. Chumachenko",
+            "A.A. Popov",
+            "R.N. Ivanov"
+        ],
+        "DOI": "10.1109/APEIE.2016.7807034",
+        "citation": 0,
+        "abstract": "This article reviews issues of the event probability including monitoring of the laboratory activity against accreditation criteria of national system of accreditation for resolving problem of laboratory condition including requirements for assurance of measurements' uniformity."
+    },
+    {
+        "title": "Accurate phasor estimation during power swing",
+        "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
+        "data": "17-21 July 2016",
+        "authors": [
+            "J Ganeswara Rao",
+            "Ashok Kumar Pradhan"
+        ],
+        "DOI": "10.1109/PESGM.2016.7741201",
+        "citation": 0,
+        "abstract": "Summary form only given. Modulation of voltage and current signals with low frequency component during power swing creates difficulty in accurate phasor estimation. Sequence component based relaying principles are therefore being affected. In this paper, fundamental and modulating frequency components are incorporated in phasor estimation formulation to improve the accuracy. The method estimates the two frequencies first and then the phasor using least squares technique. As an application of the proposed method, the sequence component of current is used for detection of unbalanced fault during power swing. The method is tested for numerous power swing and fault conditions of a WSCC 9-bus system and compared with conventional methods."
+    },
+    {
+        "title": "[PDF Not Yet Available In IEEE Xplore]",
+        "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
+        "data": "17-21 July 2016",
+        "authors": [],
+        "DOI": "10.1109/PESGM.2016.7741774",
+        "citation": 0,
+        "abstract": "The document that should appear here is not currently available."
+    },
+    {
+        "title": "Invited speakers",
+        "conferenceTitle": "2016 5th International Conference on Smart Cities and Green ICT Systems (SMARTGREENS)",
+        "data": "23-25 April 2016",
+        "authors": [],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Smart and simple method for encrypting and decrypting image based on crossover of GA",
+        "conferenceTitle": "2016 International Conference on Information Communication and Embedded Systems (ICICES)",
+        "data": "25-26 Feb. 2016",
+        "authors": [
+            "Gamil R.S. Qaid",
+            "Alo Abdo M. Al-kubati"
+        ],
+        "DOI": "10.1109/ICICES.2016.7518875",
+        "citation": 0,
+        "abstract": "The current age is called the age of information technology. The security of transmitting and storing this information are facing a huge challenge. Traditional and classical methods are not suitabel to protect this information, especially when the type of this information is a part of multimedia such as image, audio and video. This type of information needs the high level of security. For that purpose, many researchers designed novel and smart techniques and methods. In this paper suggests a new algorithm to investiage the quality of encryption based on genetic algorithm to find out an optimization solution for security, robustness, quality and speed of encryption algorithm. In this method, the genetic algorithm has been incorportaed within encryption algorithm to find a optimization solution minimize possible time and maximize the performance algorithm."
+    },
+    {
+        "title": "Development optical module for system of laser centration of pumpings aggregates",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "A.S. Galeev",
+            "R.N. Suleimanov",
+            "O.V. Filimonov",
+            "A.M. Nurmukhamedov"
+        ],
+        "DOI": "10.1109/APEIE.2016.7807105",
+        "citation": 0,
+        "abstract": "New method of laser power radiation increasing in-process on a takers-off during the leadthrough of centering works on pumpings aggregates is presented. An optical chart and construction of device are presented."
+    },
+    {
+        "title": "Modeling the chemical kinetics of dual pulsed plasma sources for reduction of NOx emission",
+        "conferenceTitle": "2016 IEEE International Conference on Plasma Science (ICOPS)",
+        "data": "19-23 June 2016",
+        "authors": [
+            "Ho Young Kim",
+            "Hae June Lee"
+        ],
+        "DOI": "10.1109/PLASMA.2016.7534127",
+        "citation": 0,
+        "abstract": "Summary form only given. The remediation of NOx emission from diesel exhaust or gas turbines has been widely studied for atmospheric pollution and human health. In order to reduce exhaust gases, non-thermal atmospheric plasmas, Selective Catalytic Reduction(SCR), and SCR with plasma technology have been use. SCR with plasma technology has the highest efficiency to remove NOx emission. However, because of the high maintenance cost and frequent replacement of catalysts, plasma technology not in combination with a catalyst has been interesting. We investigate the efficiency of NOx reduction by dual pulsed atmospheric air plasma sources. NOx concentration is controlled by the variation of high frequency and low frequency of dual pulsed plasma. In Global simulation, a detailed reaction mechanism about NO, NO2, N2O remediation is proposed with single pulse and dual pulses. Main reactions are use d to develop 1-D fluid and hybrid simulation. In these simulations, spatial distribution of radicals and electron densities is investigated. Major pathway of NOx concentration is presented in different spatial position. In this research, simulation results show that dual pulsed plasma can reduce NOx emission more than single pulsed plasma. It can be a new solution for NOx reduction."
+    },
+    {
+        "title": "Process variation estimation for passive ladder circuit by means of interval analysis",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "A.S. Salnikov"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806946",
+        "citation": 0,
+        "abstract": "In this article a new technique of process variation estimation in electrical circuit is presented. Technique is based on interval analysis application for a ladder circuit. Using this particular class of electrical circuit high speed of calculation could be achieved which is important in optimization and automated synthesis. In the article general ability of the technique application for a resistor circuit (with real impedance) is shown. Also ways of the technique extension for general circuit (with complex impedance) is discussed. Now the technique application is limited to passive network. The numerical experiments showed an agreement obtained results with statistical modeling with Monte Carlo Method. Further development of the technique is the extension to microwave circuit."
+    },
+    {
+        "title": "Keynotes",
+        "conferenceTitle": "2016 Nicograph International (NicoInt)",
+        "data": "6-8 July 2016",
+        "authors": [],
+        "DOI": "10.1109/NicoInt.2016.64",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Simulation of power semiconductor converters for electromagnetic actuators",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "A.L. Solovyev",
+            "V.A. Kondratyev"
+        ],
+        "DOI": "10.1109/APEIE.2016.7807001",
+        "citation": 0,
+        "abstract": "The simulation results of research power pulse converters usable as power supplies for electromagnetic actuators are presented."
+    },
+    {
+        "title": "SDDCS 2016 Keynote",
+        "conferenceTitle": "2016 IEEE 36th International Conference on Distributed Computing Systems Workshops (ICDCSW)",
+        "data": "27-30 June 2016",
+        "authors": [],
+        "DOI": "10.1109/ICDCSW.2016.7",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Keynote & invited speaker's biography",
+        "conferenceTitle": "2016 IEEE Symposium in Low-Power and High-Speed Chips (COOL CHIPS XIX)",
+        "data": "20-22 April 2016",
+        "authors": [],
+        "DOI": "10.1109/CoolChips.2016.7503669",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Static equivalent method based on component particularity representation and sensitivity consistency",
+        "conferenceTitle": "2016 IEEE Power and Energy Society General Meeting (PESGM)",
+        "data": "17-21 July 2016",
+        "authors": [
+            "Juan Yu",
+            "Mian Zhang",
+            "Wenyuan Li"
+        ],
+        "DOI": "10.1109/PESGM.2016.7741132",
+        "citation": 0,
+        "abstract": "A new method on static external equivalent network is proposed. The method represents the equivalence of different component types and ensures the consistency of both power flow states and sensitivities of variables in the internal network before and after equivalence. Compared to the existing equivalent methods that only consider the power flow state consistency but ignore component particularity representation and sensitivity consistency, the proposed method is more accurate and effective. The simulation results of the 39-bus system and an actual 661-bus utility system demonstrate the effectiveness of the proposed method."
+    },
+    {
+        "title": "Near field focused modes carrying OAMs",
+        "conferenceTitle": "2016 Progress in Electromagnetic Research Symposium (PIERS)",
+        "data": "8-11 Aug. 2016",
+        "authors": [
+            "Ju Yeon Hong"
+        ],
+        "DOI": "10.1109/PIERS.2016.7735666",
+        "citation": 0,
+        "abstract": "If technologies of OAM (orbital angular momentum) modes are feasible for RF communication, it can greatly increase the information transmission capacity. For its applicability in RF area we have to resolve two obstacles of technologies."
+    },
+    {
+        "title": "Methods for improving parameters of power consumption and received data reliability in wireless mobile ecg monitoring system",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "D.N. Katasonov"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806985",
+        "citation": 0,
+        "abstract": "To reduce the volume of transmitted data, we propose to use the characteristics of cycle codes at the protocol of data transmission with the help of asynchronous transceiver that lets refuse the start marker and the counter giving the length of the transmitted package We considered the peculiarities the adaptive forming of training set for the revealing distorted of areas in electrocardiogram with help of support vector machine."
+    },
+    {
+        "title": "Sequential estimation and diffusion of information over networks",
+        "conferenceTitle": "2016 13th Symposium on Neural Networks and Applications (NEUREL)",
+        "data": "22-24 Nov. 2016",
+        "authors": [
+            "Petar M. Djurić"
+        ],
+        "DOI": "10.1109/NEUREL.2016.7800122",
+        "citation": 0,
+        "abstract": "Collaborative estimation of parameters of stochastic models in networks from observations made by individual nodes is a core topic in the field of signal and information processing over networks. In this talk, we formulate the problem of collaborative sequential estimation of unknown parameters where information in the network diffuses with time. The formulation is abstract and independent from any particular model. Our objective is to reach a generic solution that is applicable to a wide class of popular models. We adopt the Bayesian and information-theoretic paradigms so that we have at our disposal probabilistically consistent means for incorporation of the observations in the implemented estimation and for effective combination of the gained “knowledge” by the nodes in the network. The presented theory will be demonstrated by examples. They include linear regression, Kalman filtering, logistic regression, and inference of an inhomogeneous Poisson process."
+    },
+    {
+        "title": "Keynotes",
+        "conferenceTitle": "2016 IEEE International Conference on Consumer Electronics (ICCE)",
+        "data": "7-11 Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/ICCE.2016.7430496",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Neural network application for assessment of the asynchronous motors energy consumption",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "V.I. Biryulin",
+            "A.N. Gorlov",
+            "O.M. Larin",
+            "D.V. Kudelina"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806909",
+        "citation": 0,
+        "abstract": "The article deals with the estimation of the asynchronous motors power consumption using the neural networks. As asynchronous motors with squirrel-cage rotor are the largest part of the industrial enterprises load, the change of their power consumption at the voltage deviations can affect the operating modes of the enterprise power supply system and other electrical receivers. Application of neural networks allows to determine the non-linear regularities in noisy heterogeneous data, provides valid calculations results in a large number of input parameters. At presence of input data for network training the created neural network helps simply enough to find the power consumption of an asynchronous motor at electric network voltage deviations from the nominal value in a wide range of voltages, load factor changes, and also if it is necessary of other data initial."
+    },
+    {
+        "title": "An investigation of statistical properties of parameter estimates of distributions on interval data",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "Stanislav S. Vozhov",
+            "Ekaterina V. Chimitova"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806913",
+        "citation": 0,
+        "abstract": "This paper discusses the issues of estimation of distribution parameters on interval data. It has to deal with interval data samples in situations when the exact value of the observation is unknown, only to the range to which the value belongs is known. In general, these intervals are different for each case and may intersect. The maximum likelihood method can be used for estimating the distribution parameters. The purpose of this paper is to investigate the statistical properties of maximum likelihood estimators (MLE) on interval data. The research was conducted in comparison with the estimates of the distribution parameters on point samples of observation interval midpoints."
+    },
+    {
+        "title": "Quantum communication for tomorrow",
+        "conferenceTitle": "2016 IEEE Photonics Conference (IPC)",
+        "data": "2-6 Oct. 2016",
+        "authors": [
+            "William J. Munro"
+        ],
+        "DOI": "10.1109/IPCon.2016.7831192",
+        "citation": 0,
+        "abstract": "Quantum physics allows for completely new ways to create, manipulate and store information. Quantum communication, the ability to transmit quantum information, is a primitive for any future quantum Internet. Here we present an overview of this field ranging from quantum key distribution to quantum networks."
+    },
+    {
+        "title": "Halide Perovskite Quantum Dots: New Generation Materials for Display Applications",
+        "conferenceTitle": "2016 Asia Communications and Photonics Conference (ACP)",
+        "data": "2-5 Nov. 2016",
+        "authors": [
+            "Haizheng Zhong"
+        ],
+        "DOI": "",
+        "citation": 0,
+        "abstract": "Halide perovskite quantum dots exhibit high photoluminescence quantum yields, wide wavelength tenability, and ultra-narrow band emission. The combination of these superior optical properties and low cost fabrication makes them to be potential candidates for display technology."
+    },
+    {
+        "title": "Keynotes",
+        "conferenceTitle": "2016 IEEE International Conference on Healthcare Informatics (ICHI)",
+        "data": "4-7 Oct. 2016",
+        "authors": [
+            "Benjamin Lok",
+            "Peter Pirolli",
+            "May D. Wang"
+        ],
+        "DOI": "10.1109/ICHI.2016.107",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "Silicon photonic integrated circuits",
+        "conferenceTitle": "2016 Progress in Electromagnetic Research Symposium (PIERS)",
+        "data": "8-11 Aug. 2016",
+        "authors": [
+            "Po Dong"
+        ],
+        "DOI": "10.1109/PIERS.2016.7734472",
+        "citation": 0,
+        "abstract": "In this talk, we review the technical merits of silicon photonic devices and integrated circuits, which have benefited from high-index-contrast silicon waveguides, a high integration level of various optical functions on the same chips, and mature complementary metal-oxide semiconductor (CMOS) fabrication techniques. These technical merits assure silicon photonics as a disruptive optical technology that will achieve low-cost and compact optical modules for data communications, with applications such as chip-scale optical interconnects, short-reach communications in datacenters and supercomputers, and metro/long-haul optical transmissions. In particular, we review silicon photonic circuits for wavelength-division multiplexing (WDM) transmitters, WDM receivers, coherent optical transmitters and coherent receivers, photonic networks-on-chip, and silicon photonic light sources."
+    },
+    {
+        "title": "Methods of expanding the bandwidth of multicascade microwave attenuators",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "P.G. Bogomolov",
+            "M.G. Rubanovich",
+            "V.P. Razinkin"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806881",
+        "citation": 0,
+        "abstract": "The article presents methods of increasing the bandwidth. The attenuator is designed as a matched structures based on the planar film resistors. Achieved a significant expansion of bandwidth at a specified input microwave power due to selecting of each stage of transmission factors, providing the same amount of power dissipation."
+    },
+    {
+        "title": "Keynotes",
+        "conferenceTitle": "2016 International Conference on Network and Information Systems for Computers (ICNISC)",
+        "data": "15-17 April 2016",
+        "authors": [],
+        "DOI": "10.1109/ICNISC.2016.010",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each"
+    },
+    {
+        "title": "COMPLEX “BioMon” for the medical mobile biomonitoring development",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "V.G. Grishin",
+            "O.V. Grishin"
+        ],
+        "DOI": "10.1109/APEIE.2016.7807107",
+        "citation": 0,
+        "abstract": "“BioMon” diagnostic system for monitoring human's body functional parameters: blood oxygenation (SpO2), electrocardiography (ECG), heart rate (HR), respiratory rate (BH), body temperature (Tm) and physical activity (PA) was developed. The software has diagnostic algorithms for diagnosis of sleep and the threat of life of the user. The central monitoring station and samples of patient's module (MP BioMon) were made. Patient's module is a set of wearable sensors. Information from the sensors is transmitted by radio to the base station. The tests showed that the complex is able to provide the monitoring and analysis of up to 16 patients at a time."
+    },
+    {
+        "title": "The present and future of Moore's law",
+        "conferenceTitle": "2016 International Symposium on VLSI Technology, Systems and Application (VLSI-TSA)",
+        "data": "25-27 April 2016",
+        "authors": [
+            "Peng Bai"
+        ],
+        "DOI": "10.1109/VLSI-TSA.2016.7480450",
+        "citation": 0,
+        "abstract": "I will give an overview of industry leading and state of art Intel 14nm technology, present key results and enabling innovations, and highlight technology values for the products. I will briefly review the history of Moore's law, discuss challenges for continual silicon scaling, and describe important vectors in advancing Moore's law in the future."
+    },
+    {
+        "title": "[Panel] Many-core reality check - How increasing core counts, on-node networks, and deep integration will impact system interconnects",
+        "conferenceTitle": "2016 IEEE 24th Annual Symposium on High-Performance Interconnects (HOTI)",
+        "data": "24-26 Aug. 2016",
+        "authors": [],
+        "DOI": "10.1109/HOTI.2016.013",
+        "citation": 0,
+        "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Node architectures have entered an era of intense innovation, with trends toward increasing numbers of devices per processor; integration of memory and the introduction of new memory technologies; and rapid increases in the scale of on-chip, on-package, and on-node networks. These trends, in turn, are influencing the design of network architectures and redefining the interaction between nodes and the network. In this session, our panelists will critically evaluate these trends to identify key issues that must be solved by the coming generations of high-speed networking technologies."
+    },
+    {
+        "title": "Elements of data mining for the development of mathematical transport models",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "A.A. Tesselkin",
+            "K.V. Tesselkina",
+            "V.I. Khabarov"
+        ],
+        "DOI": "10.1109/APEIE.2016.7806952",
+        "citation": 0,
+        "abstract": "Issues of estimating transport origin-destination (OD) flows in terms of transport systems modelling with the utility of elements of the data mining are considered. Methods of extracting hidden patterns of origin-destination flows of the population based on the mobile operator's data are provided. The hypothesis of a model type describing a subscriber belonging to some specific population stratum is checked based on proxy factors in the form of a decision tree and subscriber's stratification is conducted. An iterative algorithm for constructing origin-destination matrices using methods of regression analysis is provided based on the knowledge obtained. The comparison of preference functions of the gravity model of the origin-destination matrix estimation is conducted. An investigation of origin-destination flows calculation method is carried out in the transport model of Novosibirsk city."
+    },
+    {
+        "title": "Key enablers for 3D sequential integration",
+        "conferenceTitle": "2016 International Symposium on VLSI Technology, Systems and Application (VLSI-TSA)",
+        "data": "25-27 April 2016",
+        "authors": [
+            "Laurent Brunet"
+        ],
+        "DOI": "10.1109/VLSI-TSA.2016.7480521",
+        "citation": 0,
+        "abstract": "3D sequential integrations such as CoolCubeTM appear to be an alternative to planar scaling for the next generation nodes by stacking CMOS over CMOS and even transistors above transistors. This is possible thanks to high alignment accuracy depending only on the lithography stepper and not on the bonder performance, as in packaging technologies. Performance gain can be obtained either by optimizing each level independently or by the reduction in interconnect delay and thus, optimization of device partitioning and global routing. In this paper, data on the bottom transistors stability and some key enablers to realize a top transistor level at low temperature will be presented."
+    },
+    {
+        "title": "Keynote: 10 Years of MESOCA",
+        "conferenceTitle": "2016 IEEE 10th International Symposium on the Maintenance and Evolution of Service-Oriented and Cloud-Based Environments (MESOCA)",
+        "data": "3-3 Oct. 2016",
+        "authors": [
+            "Scott Tilley"
+        ],
+        "DOI": "10.1109/MESOCA.2016.6",
+        "citation": 0,
+        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Synthesis of servosystems using method linear-quadratic optimization",
+        "conferenceTitle": "2016 13th International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)",
+        "data": "3-6 Oct. 2016",
+        "authors": [
+            "Alexandr B. Filimonov",
+            "Nikolay B. Filimonov"
+        ],
+        "DOI": "10.1109/APEIE.2016.7807003",
+        "citation": 0,
+        "abstract": "The methodology of application of linear-quadratic optimization for problems of sequential regulation, where it is necessary to watch the dynamic processes in the environment is developed in the paper. The generalized scheme of control system combining the principles of the construction of classical single-loop regulation systems and stabilization systems with feedback condition is in its base. The proposed solutions represent the idea of conversion of stabilization problems for tracking problems in connection with class of systems with zero steady-state tracking error."
+    },
+    {
+        "title": "Dephasing length optimization by controlling plasma density in laser wakefield accelerators",
+        "conferenceTitle": "2016 IEEE International Conference on Plasma Science (ICOPS)",
+        "data": "19-23 June 2016",
+        "authors": [
+            "Maninder Kaur",
+            "Devki N. Gupta"
+        ],
+        "DOI": "10.1109/PLASMA.2016.7534204",
+        "citation": 0,
+        "abstract": "Summary form only given. The energy gain of an electron beam in the laser-driven plasma wave can be limited by dephasing between the accelerated electron bunch and the plasma wave. The dephasing length is defined as the length the electrons travel before it phase slip by one-half period of plasma wave. Since the velocity of the accelerated electrons is higher than the phase velocity of plasma wave, the electrons outrun the plasma wave and moves into decelerating region of the plasma wave phase space. In order to enlarge the dephasing length, the plasma wavelength should be increased by optimizing the plasma density profile. We report the measurements of dephasing length using plasma density distribution with linear, up-ramp and parabolic profile. The accelerated electron energy gain is calculated in different plasma density profiles. We observe that the plasma wavelength decreases when the plasma wave propagates from low to high-density layer. After density transition, the accelerated electron phase synchronizes with the phase of plasma wave. This increases the electron acceleration length and improves the beam quality. This may be crucial to determine the electron beam energy in LWFA."
+    },
+    {
+        "title": "Programmable integrated Photonics for space division (de)multiplexing",
+        "conferenceTitle": "2016 18th International Conference on Transparent Optical Networks (ICTON)",
+        "data": "10-14 July 2016",
+        "authors": [
+            "Andrea Melloni"
+        ],
+        "DOI": "10.1109/ICTON.2016.7550463",
+        "citation": 0,
+        "abstract": "InP and Silicon Photonics integrated optical devices able to mux and demux signals encoded on different orthogonal modes. They operate on 2 and 4 channels at 10 Gbit/s with less than −15 dB residual crosstalk. Transparent photodetectors, realized though the non-invasive ContacLess Integrated Photonic Probe (CLIPP) technology are exploited to assist the (de)mux configuration."
     }
 ]
