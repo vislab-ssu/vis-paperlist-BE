@@ -13,27 +13,29 @@ load_dotenv()
 api_key = os.getenv("IEEE_API_KEY")
 base_url = "https://ieeexploreapi.ieee.org/api/v1/search/articles"
 
-# 결과 저장 디렉토리 확인 및 생성
+# 결과 저장 디렉토리 설정 및 생성
 save_dir = 'Result'
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
 
 def save_data(year, papers):
-    # 저장할 데이터 형식에 맞게 파싱
+    # 저장할 데이터 형식에 맞게 파싱 및 필터링
     formatted_papers = []
     for paper in papers:
-        authors = [author['full_name'] for author in paper.get('authors', {}).get('authors', [])]
-        formatted_paper = {
-            "title": paper.get("title", ""),
-            "conferenceTitle": paper.get("publication_title", ""),
-            "data": paper.get("publication_date", ""),
-            "authors": authors,
-            "DOI": paper.get("doi", ""),
-            "citation": paper.get("citing_paper_count", 0),
-            "abstract": paper.get("abstract", "")
-        }
-        formatted_papers.append(formatted_paper)
-    
+        # 이슈 번호가 1인 문서만 처리
+        if paper.get("issue") == "1":
+            authors = [author['full_name'] for author in paper.get('authors', {}).get('authors', [])]
+            formatted_paper = {
+                "title": paper.get("title", ""),
+                "conferenceTitle": paper.get("publication_title", ""),
+                "date": paper.get("publication_date", ""),
+                "authors": authors,
+                "DOI": paper.get("doi", ""),
+                "citation": paper.get("citing_paper_count", 0),
+                "abstract": paper.get("abstract", ""),
+            }
+            formatted_papers.append(formatted_paper)
+
     # 연도별 파일에 저장
     filename = f'IEEE_{year}.json'
     file_path = os.path.join(save_dir, filename)
@@ -43,16 +45,16 @@ def save_data(year, papers):
     
     print(f"Data saved to {file_path}")
 
+
 def fetch_and_save_data(year):
     search_params = {
-        "query": "Visualization conference pacific",
-        "content_type": "Conferences",
-        "publisher" : "IEEE",
+       "publication_title": "IEEE Transactions on Visualization and Computer Graphics", 
+        "publisher": "IEEE",
         "start_year": year,
         "end_year": year,
         "apikey": api_key,
         "start_record": 1,
-        "max_records": 200  
+        "max_records": 200
     }
     
     # API 호출 및 응답 받기
@@ -66,6 +68,5 @@ def fetch_and_save_data(year):
         print(response.text)
 
 # 연도별로 API 호출 및 데이터 저장
-for year in range(2004, 2024):  # 연도 자유 변경 가능
+for year in range(2003, 2024):
     fetch_and_save_data(year)
-

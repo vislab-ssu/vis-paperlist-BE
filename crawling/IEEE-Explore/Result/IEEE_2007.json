@@ -1,2239 +1,297 @@
 [
     {
-        "title": "Raptor Codes",
-        "conferenceTitle": "2007 IEEE Information Theory Workshop on Information Theory for Wireless Networks",
-        "data": "1-6 July 2007",
+        "title": "Interactive Tensor Field Design and Visualization on Surfaces",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
         "authors": [
-            "Amin Shokrollahi"
+            "Eugene Zhang",
+            "James Hays",
+            "Greg Turk"
         ],
-        "DOI": "10.1109/ITWITWN.2007.4318034",
-        "citation": 12,
-        "abstract": "A Fountain code is a code of fixed dimension and a limitless block-length. This is a class of codes with many interesting properties and applications. In this talk I will introduce several classes of probabilistic Fountain codes, including LT-and Raptor codes, show tools for their design and analysis, and discuss how they are used today to solve various data transmission problems on heterogenous unreliable networks. I will also talk about the theory of these codes when transmission takes place over non-erasure channels, and low-complexity algorithms are used for their decoding."
+        "DOI": "10.1109/TVCG.2007.16",
+        "citation": 95,
+        "abstract": "Designing tensor fields in the plane and on surfaces is a necessary task in many graphics applications, such as painterly rendering, pen-and-ink sketching of smooth surfaces, and anisotropic remeshing. In this article, we present an interactive design system that allows a user to create a wide variety of symmetric tensor fields over 3D surfaces either from scratch or by modifying a meaningful input tensor field such as the curvature tensor. Our system converts each user specification into a basis tensor field and combines them with the input field to make an initial tensor field. However, such a field often contains unwanted degenerate points which cannot always be eliminated due to topological constraints of the underlying surface. To reduce the artifacts caused by these degenerate points, our system allows the user to move a degenerate point or to cancel a pair of degenerate points that have opposite tensor indices. These operations provide control over the number and location of the degenerate points in the field. We observe that a tensor field can be locally converted into a vector field so that there is a one-to-one correspondence between the set of degenerate points in the tensor field and the set of singularities in the vector field. This conversion allows us to effectively perform degenerate point pair cancellation and movement by using similar operations for vector fields. In addition, we adapt the image-based flow visualization technique to tensor fields, therefore allowing interactive display of tensor fields on surfaces. We demonstrate the capabilities of our tensor field design system with painterly rendering, pen-and-ink sketching of surfaces, and anisotropic remeshing"
     },
     {
-        "title": "Potential energy savings optimizing the daily operation of refrigeration systems",
-        "conferenceTitle": "2007 European Control Conference (ECC)",
-        "data": "2-5 July 2007",
+        "title": "Robust Feature Classification and Editing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
         "authors": [
-            "Lars F. S. Larsen",
-            "Claus Thybo",
-            "Henrik Rasmussen"
+            "Yu-kun Lai",
+            "Qian-yi Zhou",
+            "Shi-min Hu",
+            "Johannes Wallner",
+            "Helmut Pottmann"
         ],
-        "DOI": "10.23919/ECC.2007.7069042",
+        "DOI": "10.1109/TVCG.2007.19",
+        "citation": 81,
+        "abstract": "Sharp edges, ridges, valleys, and prongs are critical for the appearance and an accurate representation of a 3D model. In this paper, we propose a novel approach that deals with the global shape of features in a robust way. Based on a remeshing algorithm which delivers an isotropic mesh in a feature-sensitive metric, features are recognized on multiple scales via integral invariants of local neighborhoods. Morphological and smoothing operations are then used for feature region extraction and classification into basic types such as ridges, valleys, and prongs. The resulting representation of feature regions is further used for feature-specific editing operations"
+    },
+    {
+        "title": "Advections with Significantly Reduced Dissipation and Diffusion",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Byungmoon Kim",
+            "Yingjie Liu",
+            "Ignacio Llamas",
+            "Jarek Rossignac"
+        ],
+        "DOI": "10.1109/TVCG.2007.3",
+        "citation": 67,
+        "abstract": "Back and forth error compensation and correction (BFECC) was recently developed for interface computation using a level set method. We show that BFECC can be applied to reduce dissipation and diffusion encountered in a variety of advection steps, such as velocity, smoke density, and image advections on uniform and adaptive grids and on a triangulated surface. BFECC can be implemented trivially as a small modification of the first-order upwind or semi-Lagrangian integration of advection equations. It provides second-order accuracy in both space and time. When applied to level set evolution, BFECC reduces volume loss significantly. We demonstrate the benefits of this approach on image advection and on the simulation of smoke, bubbles in water, and the highly dynamic interaction between water, a solid, and air. We also apply BFECC to dye advection to visualize vector fields"
+    },
+    {
+        "title": "Interactive Level-of-Detail Selection Using Image-Based Quality Metric for Large Volume Visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Chaoli Wang",
+            "Antonio Garcia",
+            "Han-wei Shen"
+        ],
+        "DOI": "10.1109/TVCG.2007.15",
+        "citation": 37,
+        "abstract": "For large volume visualization, an image-based quality metric is difficult to incorporate for level-of-detail selection and rendering without sacrificing the interactivity. This is because it is usually time-consuming to update view-dependent information as well as to adjust to transfer function changes. In this paper, we introduce an image-based level-of-detail selection algorithm for interactive visualization of large volumetric data. The design of our quality metric is based on an efficient way to evaluate the contribution of multiresolution data blocks to the final image. To ensure real-time update of the quality metric and interactive level-of-detail decisions, we propose a summary table scheme in response to runtime transfer function changes and a GPU-based solution for visibility estimation. Experimental results on large scientific and medical data sets demonstrate the effectiveness and efficiency of our algorithm"
+    },
+    {
+        "title": "Visual Simulation of Heat Shimmering and Mirage",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Ye Zhao",
+            "Yiping Han",
+            "Zhe Fan",
+            "Feng Qiu",
+            "Yu-chuan Kuo",
+            "Arie E. Kaufman",
+            "Klaus Mueller"
+        ],
+        "DOI": "10.1109/TVCG.2007.24",
+        "citation": 36,
+        "abstract": "We provide a physically-based framework for simulating the natural phenomena related to heat interaction between objects and the surrounding air. We introduce a heat transfer model between the heat source objects and the ambient flow environment, which includes conduction, convection, and radiation. The heat distribution of the objects is represented by a novel temperature texture. We simulate the thermal flow dynamics that models the air flow interacting with the heat by a hybrid thermal lattice Boltzmann model (HTLBM). The computational approach couples a multiple-relaxation-time LBM (MRTLBM) with a finite difference discretization of a standard advection-diffusion equation for temperature. In heat shimmering and mirage, the changes in the index of refraction of the surrounding air are attributed to temperature variation. A nonlinear ray tracing method is used for rendering. Interactive performance is achieved by accelerating the computation of both the MRTLBM and the heat transfer, as well as the rendering on contemporary graphics hardware (GPU)"
+    },
+    {
+        "title": "Real-Time Interaction with a Humanoid Avatar in an Immersive Table Tennis Simulation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Stephan Rusdorf",
+            "Guido Brunnett",
+            "Mario Lorenz",
+            "Tobias Winkler"
+        ],
+        "DOI": "10.1109/TVCG.2007.18",
+        "citation": 31,
+        "abstract": "In this paper, we report on the realization of an immersive table tennis simulation. After describing the hardware necessities of our system, we give insight into different aspects of the simulation. In particular, the developed methods for collision detection and physical simulation are presented. The design of the virtual opponent is of crucial importance to realize an enjoyable game. Therefore, we report on the implemented game strategy and the animation of the opponent. Since table tennis is one of the fastest sports, the synchronization of the human player's movements and the visual output on the projection wall is a very challenging problem to solve. To overcome the latencies in our system, we designed a prediction method that allows high speed interaction with our application"
+    },
+    {
+        "title": "SQ-Map: Efficient Layered Collision Detection and Haptic Rendering",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Konstantinos Moustakas",
+            "Dimitrios Tzovaras",
+            "Michael Gerassimos Strintzis"
+        ],
+        "DOI": "10.1109/TVCG.2007.20",
+        "citation": 31,
+        "abstract": "This paper presents a novel layered and fast framework for real-time collision detection and haptic interaction in virtual environments based on superquadric virtual object modeling. An efficient algorithm is initially proposed for decomposing the complex objects into subobjects suitable for superquadric modeling, based on visual salience and curvature constraints. The distance between the superquadrics and the mesh is then projected onto the superquadric surface, thus generating a distance map (SQ-Map). Approximate collision detection is then performed by computing the analytical equations and distance maps instead of triangle per triangle intersection tests. Collision response is then calculated directly from the superquadric models and realistic smooth force feedback is obtained using analytical formulae and local smoothing on the distance map. Experimental evaluation demonstrates that SQ-Map reduces significantly the computational cost when compared to accurate collision detection methods and does not require the huge amounts of memory demanded by distance field-based methods. Finally, force feedback is calculated directly from the distance map and the superquadric formulae."
+    },
+    {
+        "title": "Human Motion Capture Data Compression by Model-Based Indexing: A Power Aware Approach",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Siddhartha Chattopadhyay",
+            "Suchendra M. Bhandarkar",
+            "Kang Li"
+        ],
+        "DOI": "10.1109/TVCG.2007.13",
+        "citation": 28,
+        "abstract": "Human Motion Capture (MoCap) data can be used for animation of virtual human-like characters in distributed virtual reality applications and networked games. MoCap data compressed using the standard MPEG-4 encoding pipeline comprising of predictive encoding (and/or DCT decorrelation), quantization, and arithmetic/Huffman encoding, entails significant power consumption for the purpose of decompression. In this paper, we propose a novel algorithm for compression of MoCap data, which is based on smart indexing of the MoCap data by exploiting structural information derived from the skeletal virtual human model. The indexing algorithm can be fine-controlled using three predefined quality control parameters (QCPs). We demonstrate how an efficient combination of the three QCPs results in a lower network bandwidth requirement and reduced power consumption for data decompression at the client end when compared to standard MPEG-4 compression. Since the proposed algorithm exploits structural information derived from the skeletal virtual human model, it is observed to result in virtual human animation of visually acceptable quality upon decompression."
+    },
+    {
+        "title": "Constrained Texture Synthesis via Energy Minimization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Ganesh Ramanarayanan",
+            "Kavita Bala"
+        ],
+        "DOI": "10.1109/TVCG.2007.4",
+        "citation": 22,
+        "abstract": "This paper describes CMS (constrained minimization synthesis), a fast, robust texture synthesis algorithm that creates output textures while satisfying constraints. We show that constrained texture synthesis can be posed in a principled way as an energy minimization problem that requires balancing two measures of quality: constraint satisfaction and texture seamlessness. We then present an efficient algorithm for finding good solutions to this problem using an adaptation of graphcut energy minimization. CMS is particularly well suited to detail synthesis, the process of adding high-resolution detail to low-resolution images. It also supports the full image analogies framework, while providing superior image quality and performance. CMS is easily extended to handle multiple constraints on a single output, thus enabling novel applications that combine both user-specified and image-based control"
+    },
+    {
+        "title": "Streaming Simplification of Tetrahedral Meshes",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Huy T. Vo",
+            "Steven P. Callahan",
+            "Peter Lindstrom",
+            "Valerio Pascucci",
+            "Claudio T. Silva"
+        ],
+        "DOI": "10.1109/TVCG.2007.21",
+        "citation": 20,
+        "abstract": "Unstructured tetrahedral meshes are commonly used in scientific computing to represent scalar, vector, and tensor fields in three dimensions. Visualization of these meshes can be difficult to perform interactively due to their size and complexity. By reducing the size of the data, we can accomplish real-time visualization necessary for scientific analysis. We propose a two-step approach for streaming simplification of large tetrahedral meshes. Our algorithm arranges the data on disk in a streaming, I/O-efficient format that allows coherent access to the tetrahedral cells. A quadric-based simplification is sequentially performed on small portions of the mesh in-core. Our output is a coherent streaming mesh which facilitates future processing. Our technique is fast, produces high quality approximations, and operates out-of-core to process meshes too large for main memory"
+    },
+    {
+        "title": "Interactive Approximate Rendering of Reflections, Refractions, and Caustics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Wei Hu",
+            "Kaihuai Qin"
+        ],
+        "DOI": "10.1109/TVCG.2007.14",
+        "citation": 20,
+        "abstract": "Reflections, refractions, and caustics are very important for rendering global illumination images. Although many methods can be applied to generate these effects, the rendering performance is not satisfactory for interactive applications. In this paper, complex ray-object intersections are simplified so that the intersections can be computed on a GPU, and an iterative computing scheme based on the depth buffers is used for correcting the approximate results caused by the simplification. As a result, reflections and refractions of environment maps and nearby geometry can be rendered on a GPU interactively without preprocessing. We can even achieve interactive recursive reflections and refractions by using an object-impostor technique. Moreover, caustic effects caused by reflections and refractions can be rendered by placing the eye at the light. Rendered results prove that our method is sufficiently efficient to render plausible images interactively for many interactive applications."
+    },
+    {
+        "title": "Design and Evaluation of Tiled Parallel Coordinate Visualization of Multichannel EEG Data",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Michael Ten Caat",
+            "Natasha M. Maurits",
+            "Jos B.T.M. Roerdink"
+        ],
+        "DOI": "10.1109/TVCG.2007.9",
+        "citation": 15,
+        "abstract": "The field of visualization assists data interpretation in many areas, but does not manage all types of data equally well. This holds, in particular, for time-varying multichannel EEG data. No existing method can successfully visualize simultaneous information from all channels in use at all time steps. To address this problem, a new visualization method is presented based on the parallel coordinate method and making use of a tiled organization. This tiled organization employs a two-dimensional row-column representation, rather than a one-dimensional arrangement in columns as used for classical parallel coordinates. The usefulness of the new method, referred to as tiled parallel coordinates (TPC), is demonstrated by a particular type of EEG data. It can be applied to an arbitrary number of time steps, handling the maximum number of channels currently in use. An extensive user evaluation shows that, for a typical EEG assessment task, data evaluation by the TPC method is faster than by an existing clinical EEG visualization method, without loss of information. The generality of the TPC method makes it widely applicable to other time-varying multivariate data types."
+    },
+    {
+        "title": "Transferring of Speech Movements from Video to 3D Face Space",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Yuru Pei",
+            "Hongbin Zha"
+        ],
+        "DOI": "10.1109/TVCG.2007.22",
+        "citation": 15,
+        "abstract": "We present a novel method for transferring speech animation recorded in low quality videos to high resolution 3D face models. The basic idea is to synthesize the animated faces by an interpolation based on a small set of 3D key face shapes which span a 3D face space. The 3D key shapes are extracted by an unsupervised learning process in 2D video space to form a set of 2D visemes which are then mapped to the 3D face space. The learning process consists of two main phases: 1) isomap-based nonlinear dimensionality reduction to embed the video speech movements into a low-dimensional manifold and 2) k-means clustering in the low-dimensional space to extract 2D key viseme frames. Our main contribution is that we use the isomap-based learning method to extract intrinsic geometry of the speech video space and thus to make it possible to define the 3D key viseme shapes. To do so, we need only to capture a limited number of 3D key face models by using a general 3D scanner. Moreover, we also develop a skull movement recovery method based on simple anatomical structures to enhance 3D realism in local mouth movements. Experimental results show that our method can achieve realistic 3D animation effects with a small number of 3D key face models"
+    },
+    {
+        "title": "A Transparently Scalable Visualization Architecture for Exploring the Universe",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Chi-wing Fu",
+            "Andrew J. Hanson"
+        ],
+        "DOI": "10.1109/TVCG.2007.2",
+        "citation": 14,
+        "abstract": "Modern astronomical instruments produce enormous amounts of three-dimensional data describing the physical Universe. The currently available data sets range from the solar system to nearby stars and portions of the Milky Way Galaxy, including the interstellar medium and some extrasolar planets, and extend out to include galaxies billions of light years away. Because of its gigantic scale and the fact that it is dominated by empty space, modeling and rendering the Universe is very different from modeling and rendering ordinary three-dimensional virtual worlds at human scales. Our purpose is to introduce a comprehensive approach to an architecture solving this visualization problem that encompasses the entire Universe while seeking to be as scale-neutral as possible. One key element is the representation of model-rendering procedures using power scaled coordinates (PSC), along with various PSC-based techniques that we have devised to generalize and optimize the conventional graphics framework to the scale domains of astronomical visualization. Employing this architecture, we have developed an assortment of scale-independent modeling and rendering methods for a large variety of astronomical models, and have demonstrated scale-insensitive interactive visualizations of the physical Universe covering scales ranging from human scale to the Earth, to the solar system, to the Milky Way Galaxy, and to the entire observable Universe"
+    },
+    {
+        "title": "Low-Cost Telepresence for Collaborative Virtual Environments",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Seon-min Rhee",
+            "Remo Ziegler",
+            "Jiyoung Park",
+            "Martin Naef",
+            "Markus Gross",
+            "Myoung-hee Kim"
+        ],
+        "DOI": "10.1109/TVCG.2007.17",
         "citation": 10,
-        "abstract": "The objective of this study is to investigate the energy saving potential for refrigeration systems by refrigeration more at the colder night time than at the warmer day time. The potential is evaluated using a standard model predictive control formulation and illustrated on a simulation example. The results shows that the significant potential savings depends on two refrigeration system parameters and the variation of the outdoor temperature. The system dependency is illustrated in a parameter study."
+        "abstract": "We present a novel low-cost method for visual communication and telepresence in a CAVEtrade-like environment, relying on 2D stereo-based video avatars. The system combines a selection of proven efficient algorithms and approximations in a unique way, resulting in a convincing stereoscopic real-time representation of a remote user acquired in a spatially immersive display. The system was designed to extend existing projection systems with acquisition capabilities requiring minimal hardware modifications and cost. The system uses infrared-based image segmentation to enable concurrent acquisition and projection in an immersive environment without a static background. The system consists of two color cameras and two additional b/w cameras used for segmentation in the near-IR spectrum. There is no need for special optics as the mask and color image are merged using image-warping based on a depth estimation. The resulting stereo image stream is compressed, streamed across a network, and displayed as a frame-sequential stereo texture on a billboard in the remote virtual environment"
     },
     {
-        "title": "Recent advances in brain-computer interfaces",
-        "conferenceTitle": "2007 IEEE 9th Workshop on Multimedia Signal Processing",
-        "data": "1-3 Oct. 2007",
+        "title": "Usability of Multiviewpoint Images for Spatial Interaction in Projection-Based Display Systems",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
         "authors": [
-            "Touradj Ebrahimi"
+            "Andreas Simon"
         ],
-        "DOI": "10.1109/MMSP.2007.4412807",
+        "DOI": "10.1109/TVCG.2007.23",
         "citation": 8,
-        "abstract": "A brain-computer interface (BCI) is a communication system that translates brain activity into commands for a computer or other devices. In other words, a BCI allows users to act on their environment by using only brain activity, without using peripheral nerves and muscles. The major goal of BCI research is to develop systems that allow disabled users to communicate with other persons, to control artificial limbs, or to control their environment. To achieve this goal, many aspects of BCI systems are currently being investigated. Research areas include evaluation of invasive and noninvasive technologies to measure brain activity, evaluation of control signals (i.e. patterns of brain activity that can be used for communication), development of algorithms for translation of brain signals into computer commands, and the development of new BCI applications. In this paper we give an overview of the aspects of BCI research mentioned above and highlight recent developments and open problems."
+        "abstract": "In a common application scenario, large screen projection-based stereoscopic display systems are not used by a single user alone, but are shared by a small group of people. Using multiviewpoint images for multiuser interaction does not require special hardware and scales transparently with the number of colocated users in a system. We present a qualitative and quantitative study comparing usability and interaction performance for multiviewpoint images to non-head-tracked and head-tracked interaction for ray-casting selection and in-hand object manipulation. Results show that while direct first-person interaction in projection-based displays without head-tracking is difficult or even completely impractical, interaction with multiviewpoint images can produce similar or even better performance than fully head-tracked interaction. For ray-casting selection, interaction with multiviewpoint images is actually up to 10 percent faster than head-tracked interaction. For in-hand object manipulation in a simple docking task, multiviewpoint interaction performs only about 6 percent slower than fully head-tracked interaction."
     },
     {
-        "title": "Unambiguous reconstruction and imaging of nonuniform sampling SAR signals",
-        "conferenceTitle": "2007 1st Asian and Pacific Conference on Synthetic Aperture Radar",
-        "data": "5-9 Nov. 2007",
+        "title": "Editorial: EIC Farewell and New EIC Introduction",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
         "authors": [
-            "Liu Guangyan",
-            "Wang youlin",
-            "Lin Youquan"
+            "David S. Ebert"
         ],
-        "DOI": "10.1109/APSAR.2007.4418602",
-        "citation": 8,
-        "abstract": "Nonuniform sample of SAR signal will bring the noise into the signals, and thus mix the spectrum of the echo signals with that of the noises, increase ambiguity of the signals, and depress the SAR imaging quality. In wide swath SAR mode, the multi-channel receivers are used in azimuth, the nonuniform sampling will be met. This paper analyzes in detail analysis the unambiguous spectrum reconstruction of the nonuniform sampling SAR signals and multi-channel SAR imaging; Based on the difference and correlation between the multi-channels signals and single channel signal, we resolve the multi-channels SAR imaging, the simulate results prove that the theoretic analysis is correct."
-    },
-    {
-        "title": "New Findings on Coulomb Scattering Mobility in Strained-Si nFETs and its Physical Understanding",
-        "conferenceTitle": "2007 IEEE Symposium on VLSI Technology",
-        "data": "12-14 June 2007",
-        "authors": [
-            "Olivier Weber",
-            "Shin-ichi Takagi"
-        ],
-        "DOI": "10.1109/VLSIT.2007.4339755",
-        "citation": 8,
-        "abstract": "In this paper, the impact of strain on the electron mobility limited by Coulomb scattering (interface states Nit and substrate impurities NA), is experimentally examined for the first time. Compared to Si devices, the mobility limited by NA is enhanced in strained Si whereas the mobility limited by Nit is degraded. These new findings are explained through valleys population and scattering rate considerations. It is also found that the interface state generation in strained Si is smaller than in Si. This fact is beneficial to the device performance as well as the MOS device reliability."
-    },
-    {
-        "title": "Engineering Industrial Ecosystems in a Networked World",
-        "conferenceTitle": "2007 5th IEEE International Conference on Industrial Informatics",
-        "data": "23-27 June 2007",
-        "authors": [
-            "Mihaela Ulieru"
-        ],
-        "DOI": "10.1109/INDIN.2007.4384723",
-        "citation": 7,
-        "abstract": "Summary form only given. Summarizes speech given at the conference. Engineering Industrial Ecosystems in a Networked World ."
-    },
-    {
-        "title": "From Haptic Interface to Brain Interface",
-        "conferenceTitle": "RO-MAN 2007 - The 16th IEEE International Symposium on Robot and Human Interactive Communication",
-        "data": "26-29 Aug. 2007",
-        "authors": [
-            "Mandavam A. Srinivasan"
-        ],
-        "DOI": "10.1109/ROMAN.2007.4415096",
-        "citation": 6,
-        "abstract": ""
-    },
-    {
-        "title": "Broad beamwidth circularly polarized printed antenna for GPS applications",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Jian Jin",
-            "Xiao-Mei Wan",
-            "Wei Wang",
-            "Xian-Ling Liang"
-        ],
-        "DOI": "10.1109/APS.2007.4396076",
-        "citation": 6,
-        "abstract": ""
-    },
-    {
-        "title": "Real-Time Requirement of Media Control Applications",
-        "conferenceTitle": "19th Euromicro Conference on Real-Time Systems (ECRTS'07)",
-        "data": "4-6 July 2007",
-        "authors": [
-            "Francisco Gomez-Molinero"
-        ],
-        "DOI": "10.1109/ECRTS.2007.28",
-        "citation": 6,
-        "abstract": "Summary form only given. This presentation starts by describing the main functions of multimedia control applications with special emphasis on video surveillance systems. Based on this description the resource requirements of multimedia control applications are presented, in particular regarding the use of the processor, the memory, and the network bandwidth. Some real-world sequences are used to illustrate the presentation."
-    },
-    {
-        "title": "Broadband DR-loaded planar monopole",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Tze-Hsuan Chang",
-            "Jean-Fu Kiang"
-        ],
-        "DOI": "10.1109/APS.2007.4395553",
-        "citation": 5,
-        "abstract": ""
-    },
-    {
-        "title": "A Robust Hole-Filling Algorithm for Triangular Mesh",
-        "conferenceTitle": "2007 10th IEEE International Conference on Computer-Aided Design and Computer Graphics",
-        "data": "15-18 Oct. 2007",
-        "authors": [
-            "Wei Zhao",
-            "Shuming Gao",
-            "Hongwei Lin"
-        ],
-        "DOI": "10.1109/CADCG.2007.4407836",
-        "citation": 5,
-        "abstract": "Summary form only given. This paper presents a novel hole-filling algorithm that can fill arbitrary holes in triangular mesh models. First, the advancing front mesh technique is used to cover the hole with newly created triangles. Next, the desirable normals of the new triangles are approximated using our desirable normal computing schemes. Finally, the three coordinates of every new vertex are re-positioned by solving the Poisson equation based on the desirable normals and the boundary vertices of the hole. Many experimental results and error evaluations are given to show the robustness and efficiency of the algorithm."
-    },
-    {
-        "title": "Aligning Architectural Approaches towards an SOA-Based Enterprise Architecture",
-        "conferenceTitle": "2007 Working IEEE/IFIP Conference on Software Architecture (WICSA'07)",
-        "data": "6-9 Jan. 2007",
-        "authors": [
-            "Rakesh Radhakrishnan",
-            "Badri Sriraman"
-        ],
-        "DOI": "10.1109/WICSA.2007.5",
-        "citation": 5,
-        "abstract": "Summary form only given. This tutorial will provide an overview of architecture patterns, approaches, and service oriented architecture (SOA) principles. The following topics will be discussed and illustrated with sample scenarios: model driven architecture enabling; service oriented architectures; identity enabled networks - the core service building block for service oriented architectures; event driven architecture augmenting service oriented architectures; component based architecture supplementing service oriented architectures; and utility computing architecture supporting service oriented architectures."
-    },
-    {
-        "title": "The GALE project: A description and an update",
-        "conferenceTitle": "2007 IEEE Workshop on Automatic Speech Recognition & Understanding (ASRU)",
-        "data": "9-13 Dec. 2007",
-        "authors": [
-            "Jordan Cohen"
-        ],
-        "DOI": "10.1109/ASRU.2007.4430115",
-        "citation": 4,
-        "abstract": "Summary form only given. The GALE (global autonomous language exploitation) program is a DARPA program to develop and apply computer software technologies to absorb, translate, analyze, and interpret huge volumes of speech and text in multiple languages This program has been active for two years, and the GALE contractors have been engaged in developing highly robust speech recognition, machine translation, and information delivery systems in Chinese and Arabic. Several GALE-developed talks will be given in this workshop. This overview talk will review the program goals, the technical highlights, and the technical issues remaining in the GALE project."
-    },
-    {
-        "title": "Fault detection identification and reconfiguration of flight control system using IMM estimator",
-        "conferenceTitle": "2007 IEEE/AIAA 26th Digital Avionics Systems Conference",
-        "data": "21-25 Oct. 2007",
-        "authors": [
-            "Mohan Kumar"
-        ],
-        "DOI": "10.1109/DASC.2007.4391858",
-        "citation": 4,
-        "abstract": ""
-    },
-    {
-        "title": "Systematic Calibration Method for the Laser Gyro Strapdown Inertial Navigation System",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Yang Xiaoxia",
-            "Huang Yi"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347633",
-        "citation": 4,
-        "abstract": "In this paper, based on the inertial navigation equation, a novel systematic calibration model for the laser gyro strapdown inertial navigation system is proposed. The observability of the error parameters is analyzed. Then a calibration algorithm, which can identify twenty four error parameters of the inertial navigation unit is studied."
-    },
-    {
-        "title": "Keynote Speech",
-        "conferenceTitle": "Third International Symposium on Information Assurance and Security",
-        "data": "29-31 Aug. 2007",
-        "authors": [],
-        "DOI": "10.1109/IAS.2007.6",
-        "citation": 4,
-        "abstract": ""
-    },
-    {
-        "title": "Order Statistics Filters in Wavelet Domain for Color Image Processing",
-        "conferenceTitle": "2007 Sixth Mexican International Conference on Artificial Intelligence, Special Session (MICAI)",
-        "data": "4-10 Nov. 2007",
-        "authors": [
-            "Francisco Javier Gallegos-Funes",
-            "Jesús Martínez-Valdes",
-            "José Manuel De-la-Rosa-Vázquez"
-        ],
-        "DOI": "10.1109/MICAI.2007.20",
-        "citation": 4,
-        "abstract": "In this paper we present different order statistics filters in the Wavelet domain for noise suppression in color image processing. All proposed filters are defined as two filters in the wavelet domain: the first filter is based on redundancy of approaches and the second one is the wavelet domain iterative center weighted median algorithm. With this structure different implementations for the estimation of the noisy sample are already carried out using different order statistics algorithms."
-    },
-    {
-        "title": "Houston: We are in Overload",
-        "conferenceTitle": "2007 IEEE International Conference on Software Maintenance",
-        "data": "2-5 Oct. 2007",
-        "authors": [
-            "Gail C. Murphy"
-        ],
-        "DOI": "10.1109/ICSM.2007.4362611",
-        "citation": 4,
-        "abstract": "During the flight of Apollo 13, an oxygen tank blew up threatening the lives of the astronauts. When it happened, James Lovell Jr. told the Houston control center, \"Hey Houston, we 've had a problem here.\" Although not as catastrophic, software developers productivity is being threatened by an inundation of information: source code is easier and easier to traverse and to find, email inboxes are stuffed to capacity, RSS feeds provide a continual stream of technology updates, and so on. To enable software developers to work more effectively, software engineering researchers often deliver tools, which produce even more information. The effect of more and more tools producing more and more information is placing developers into overload. It would be reasonable to here a software developer utter, \"Houston: We are in overload\"! In this talk, I will discuss the quagmire in which software developers are finding themselves, discuss how they are coping based on data collected from the activity of developers, and suggest ways of helping developers regain control."
-    },
-    {
-        "title": "Bandwidth enhancement of balanced folded loop antenna design for mobile handsets using genetic algorithms",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "D. Zhou",
-            "R.A. Abd-Alhameed",
-            "P.S. Excell"
-        ],
-        "DOI": "10.1109/APS.2007.4396309",
-        "citation": 4,
-        "abstract": ""
-    },
-    {
-        "title": "Performance Modeling and Analysis for AMD's High Performance Microprocessors",
-        "conferenceTitle": "2007 IEEE International Symposium on Performance Analysis of Systems & Software",
-        "data": "25-27 April 2007",
-        "authors": [
-            "Leslie Barnes"
-        ],
-        "DOI": "10.1109/ISPASS.2007.363730",
-        "citation": 4,
-        "abstract": "This talk will cover performance modeling and analysis at AMD, directed at our X86-64 processor development. Topics covered will include benchmark analysis and workload development for simulation, and simulation tools and methodologies used for power/performance analysis of our next generation of microprocessors."
-    },
-    {
-        "title": "Pricing",
-        "conferenceTitle": "2007 IEEE Aerospace Conference",
-        "data": "3-10 March 2007",
-        "authors": [
-            "R. Preston McAfee"
-        ],
-        "DOI": "10.1109/AERO.2007.352681",
+        "DOI": "10.1109/TVCG.2007.11",
         "citation": 3,
         "abstract": ""
     },
     {
-        "title": "Security implications of radio frequency certificates of authenticity",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
+        "title": "Guest Editors' Introduction: Special Section on ACM VRST 2005",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
         "authors": [
-            "Gerald DeJean",
-            "Darko Kirovski"
+            "Yiorgos L. Chrysanthou",
+            "Rynson W.h. Lau",
+            "Gurminder Singh"
         ],
-        "DOI": "10.1109/APS.2007.4396107",
-        "citation": 3,
-        "abstract": ""
+        "DOI": "10.1109/TVCG.2007.12",
+        "citation": 0,
+        "abstract": "The three papers in this special section were presented at the 2005 ACM Virtual Reality Software and Technology (VRST) conference."
     },
     {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 IEEE Power Engineering Society General Meeting",
-        "data": "24-28 June 2007",
+        "title": "[Back cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
         "authors": [],
-        "DOI": "10.1109/PES.2007.386247",
-        "citation": 3,
-        "abstract": "The document that should appear here is not currently available."
+        "DOI": "10.1109/TVCG.2007.8",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
     },
     {
-        "title": "Review of boro arrays - a new class of antenna arrays with passive elements",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
+        "title": "Editorial: A Message from the New Editor-in-Chief",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
         "authors": [
-            "Boro M. Reljic"
+            "Thomas Ertl"
         ],
-        "DOI": "10.1109/APS.2007.4396526",
-        "citation": 3,
+        "DOI": "10.1109/TVCG.2007.10",
+        "citation": 0,
         "abstract": ""
     },
     {
-        "title": "Leukocytes Image Segmentation and Extraction Based On Mathematical Morphology",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Sha Shengzhong",
-            "Weng Guirong",
-            "Qin Shuwei"
-        ],
-        "DOI": "10.1109/CHICC.2006.4346907",
-        "citation": 3,
-        "abstract": "Leukocytes image segmentation and extraction based on mathematical morphology. Its aim is to segment and extract the leukocytes, nucleus, cytoplasm and background, even in the case of closely clustered cells. This procedure gets a more accurate borderline of the interesting areas. The experiment shows that this processing method is effective and feasible."
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 65th Annual Device Research Conference",
-        "data": "18-20 June 2007",
+        "title": "TVCG Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
         "authors": [],
-        "DOI": "10.1109/DRC.2007.4373730",
-        "citation": 3,
-        "abstract": "The document that should appear here is not currently available."
+        "DOI": "10.1109/TVCG.2007.7",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
     },
     {
-        "title": "A novel array synthesis method based on 2D-IDFT",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Zu Jian Feng",
-            "Yong Qing Zou",
-            "Xian-Ling Liang"
-        ],
-        "DOI": "10.1109/APS.2007.4396086",
-        "citation": 3,
-        "abstract": ""
-    },
-    {
-        "title": "Optimal Population Size for Partheno-genetic Algorithm",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "He Yong"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347117",
-        "citation": 3,
-        "abstract": "By reviewing the number of efficient schemas that are disposed by partheno-genetic algorithm during every genetic operation, the mathematics formula researching the optimal population size of partheno-genetic algorithm is presented, and then the existence of optimal population size of partheno-genetic algorithm is demonstrated. One of the key problems in the application of partheno-genetic algorithm is reasonable selection of the population size."
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 IEEE International Symposium on Industrial Electronics",
-        "data": "4-7 June 2007",
+        "title": "[Front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
         "authors": [],
-        "DOI": "10.1109/ISIE.2007.4375003",
-        "citation": 2,
-        "abstract": "The document that should appear here is not currently available."
+        "DOI": "10.1109/TVCG.2007.5",
+        "citation": 0,
+        "abstract": "Presents the table of contents for this issue of the periodical."
     },
     {
-        "title": "The power losses calculation technique of electrical machines using the heat transfer theory",
-        "conferenceTitle": "2007 International Power Engineering Conference (IPEC 2007)",
-        "data": "3-6 Dec. 2007",
-        "authors": [
-            "P. Preecha",
-            "J. Dejvises"
-        ],
-        "DOI": "",
-        "citation": 2,
-        "abstract": "The paper proposes the estimation of power losses in electrical machines using a measurement technique based upon electrical machines ventilation wind temperature and a heat transfer equation. Three machine types are tested under various load conditions using the proposed technique. The first machine type are a three-phase 2.24 kW and a 3.73 kW induction motors. The second is a 4.5 kW synchronous generator. The last is a 5 kW dc machine which is operated as both motor and generator. The results show that the machine power losses calculated from the proposed technique has an error less than 4 % comparing with power losses from the experiment. Therefore, the technique can be acceptable for the estimation of power losses in electrical machine. The main advantage of this method is that the machines need not to stop or to be removed from their operation process in order to measure their losses."
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 65th Annual Device Research Conference",
-        "data": "18-20 June 2007",
+        "title": "2006 Reviewers List",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
         "authors": [],
-        "DOI": "10.1109/DRC.2007.4373652",
-        "citation": 2,
-        "abstract": "The document that should appear here is not currently available."
+        "DOI": "10.1109/TVCG.2007.1",
+        "citation": 0,
+        "abstract": "Lists the reviewers who contributed to IEEE Transactions on Visualization and Computer Graphics in 2006."
     },
     {
-        "title": "Design of compact microstrip antenna with wide bandwidth and broad beamwidth",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Wenhui Mao",
-            "Qi Zhu",
-            "Shaoyong Wang",
-            "Shanjia Xu"
-        ],
-        "DOI": "10.1109/APS.2007.4396395",
-        "citation": 2,
-        "abstract": ""
-    },
-    {
-        "title": "Magnetic and dielectric ceramics for advanced RF applications",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Barry Treadway",
-            "Michael Hill",
-            "David Cruickshank"
-        ],
-        "DOI": "10.1109/APS.2007.4395842",
-        "citation": 2,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 Conference on Lasers and Electro-Optics - Pacific Rim",
-        "data": "26-31 Aug. 2007",
+        "title": "[Inside front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
         "authors": [],
-        "DOI": "10.1109/CLEOPR.2007.4391197",
-        "citation": 2,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "A new minimum peak side lobe codes in radar systems",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Mohamed Abdel-Latif",
-            "EI-Sayed A. Youssef",
-            "Amr Mokhtar",
-            "Mohamed Madkour"
-        ],
-        "DOI": "10.1109/APS.2007.4396370",
-        "citation": 2,
-        "abstract": ""
-    },
-    {
-        "title": "Global megatrends and their effects on the production of the future",
-        "conferenceTitle": "2007 5th IEEE International Conference on Industrial Informatics",
-        "data": "23-27 June 2007",
-        "authors": [
-            "Thomas Schott"
-        ],
-        "DOI": "10.1109/INDIN.2007.4384721",
-        "citation": 2,
-        "abstract": "Summary form only given, as follows. Global trends - such as the vastly increasing number of megacities, the increase of the average life expectancy and the growth in world population - are changing the requirements of future production plants using discrete and process technology. In this context, one important aspect will be the continued optimizing of operational resources and raw materials to ensure the supply of acceptable resources for mankind. But the growing dynamism of the markets and ever shorter product lifecycles, too, are part of the core requirements of the Production of the Future. To implement these requirements, there are interesting approaches such as the Digital Factory, Autonomous Components or Plug&Play."
-    },
-    {
-        "title": "Surface Modeling with Polynomial Splines over Hierarchical T-meshes",
-        "conferenceTitle": "2007 10th IEEE International Conference on Computer-Aided Design and Computer Graphics",
-        "data": "15-18 Oct. 2007",
-        "authors": [
-            "Xin Li",
-            "Jiansong Deng",
-            "Falai Chen"
-        ],
-        "DOI": "10.1109/CADCG.2007.4407838",
-        "citation": 2,
-        "abstract": "Computer graphics and computer-aided design communities prefer piecewise spline patches to represent surfaces. But keeping the smoothness between the adjacent patches is a challenging task. In this paper, we present a method for stitching several surface patches, which is a key step in complicated surface modeling, with polynomial splines over hierarchical T-meshes (PHT-spline for short). The method is simple and can be easily applied to complex surface modeling. With the method, spline surfaces can be constructed efficiently and adoptively to fit genus-zero meshes after their spherical parameterization is obtained, where only small sized linear systems of equations are involved."
-    },
-    {
-        "title": "Network Source Coding: Pipe Dream or Promise?",
-        "conferenceTitle": "2007 IEEE International Symposium on Information Theory",
-        "data": "24-29 June 2007",
-        "authors": [
-            "Michelle Effros"
-        ],
-        "DOI": "10.1109/ISIT.2007.4557070",
-        "citation": 2,
-        "abstract": ""
-    },
-    {
-        "title": "A mobile antenna design for optimal performance in human head and hand configuration",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Dai Lu",
-            "David Fisk",
-            "Ansheng Wang"
-        ],
-        "DOI": "10.1109/APS.2007.4395677",
-        "citation": 2,
-        "abstract": ""
-    },
-    {
-        "title": "Analysis and design of GPS antenna array on revolving cylinder",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Zhong Lingling",
-            "Qiu Jinghui",
-            "Zhang Ning",
-            "Sun Bo"
-        ],
-        "DOI": "10.1109/APS.2007.4396376",
-        "citation": 2,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 IEEE Power Engineering Society General Meeting",
-        "data": "24-28 June 2007",
-        "authors": [],
-        "DOI": "10.1109/PES.2007.386104",
-        "citation": 2,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Development of THz gyrotron FU CW series [PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 Joint 32nd International Conference on Infrared and Millimeter Waves and the 15th International Conference on Terahertz Electronics",
-        "data": "2-9 Sept. 2007",
-        "authors": [
-            "T. Idehara",
-            "La Agusu",
-            "H. Mori",
-            "I. Ogawa",
-            "T. Saito",
-            "S. Mitsudo"
-        ],
-        "DOI": "10.1109/ICIMW.2007.4516440",
-        "citation": 2,
-        "abstract": "For application of high frequency gyrotrons to high power THz technologies, CW operation is needed. In FIR FU, we have developed Gyrotron FU CW Series which consists of three gyrotrons. In this presentation, The present status of Gyrotron FU CW Series is summarized."
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "The 9th International Conference on Advanced Communication Technology",
-        "data": "12-14 Feb. 2007",
-        "authors": [],
-        "DOI": "10.1109/ICACT.2007.358465",
-        "citation": 2,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "On Highway Tunnel Intelligent Control",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Shi Zhigang"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347570",
-        "citation": 2,
-        "abstract": "This paper analyzed the status quo of highway tunnel control system, and pointed out that the present control system overemphasizes the realization of individual system's function and neglected the consideration of the whole effect. This paper proposed a new research approach, which was to use information fusion technology to process the detected information of tunnel equipments, take the tunnel's characteristics into consideration, and then apply intelligent control technology to the formation of whole control plan."
-    },
-    {
-        "title": "The International Roadmap for Semiconductors 2007",
-        "conferenceTitle": "2007 8th International Conference on Electronic Packaging Technology",
-        "data": "14-17 Aug. 2007",
-        "authors": [
-            "Bill Bottoms"
-        ],
-        "DOI": "10.1109/ICEPT.2007.4441555",
-        "citation": 2,
-        "abstract": "The international roadmap for semiconductors will have major revisions for 2007 when it is published in December. In 2007 there will be a major rewrite of the ITRS with important changes in every chapter. The assembly and packaging chapter is the integrator of components from all other working groups. A result of tins integration role is that progress in each area is both enabling and demanding significant change in the way we assemble and package semiconductors to deliver solutions to a consumer driven market place. The most significant change is the rapid growth in 3D integration and system in package (SiP) technology. The enabling technologies include wafer thinning, wafer to wafer and die to wafer bonding, through silicon vias and many more. The projections for progress in these areas to be included in the 2007 version of the ITRS will be presented."
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 65th Annual Device Research Conference",
-        "data": "18-20 June 2007",
-        "authors": [],
-        "DOI": "10.1109/DRC.2007.4373622",
-        "citation": 2,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Design and miniaturization of an RFID tag using a simple rectangular patch antenna for metallic object identification",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Mun Leng Ng",
-            "Kin Seong Leong",
-            "Peter H. Cole"
-        ],
-        "DOI": "10.1109/APS.2007.4395851",
-        "citation": 2,
-        "abstract": ""
-    },
-    {
-        "title": "Dynamic Delaunay Tetrahedralisation of a Deforming Surface",
-        "conferenceTitle": "2007 10th IEEE International Conference on Computer-Aided Design and Computer Graphics",
-        "data": "15-18 Oct. 2007",
-        "authors": [
-            "Jean-Baptiste Debard",
-            "Romain Balp",
-            "Raphaelle Chaine"
-        ],
-        "DOI": "10.1109/CADCG.2007.4407837",
-        "citation": 2,
-        "abstract": "Reconstruction algorithms make it possible to retrieve a surface from the Delaunay tetrahedralisation (DT) of a point sampling, whose density reflects the surface local geometry and thickness. Most of these algorithms are static and some work remains to be done to handle deforming surfaces. In such case, we defend the idea that each point of the sampling should move with the surface using the information given by the motion to allow fast reconstruction. In this article, we tackle the problem of producing a good evolving sampling of a deforming surface S, and maintaining its DT along the motion. The surface is known only through a projection operator (O1): i3 → S , and a normal operator (O2) that returns the oriented normal at a point on the surface. On that basis, we offer some perspectives on how reconstruction algorithms can be extended to the tracking of deforming surfaces."
-    },
-    {
-        "title": "Auto tuning on robust parameters of a PID controller for a 2nd-order adjusted system with one changeable parameter",
-        "conferenceTitle": "SICE Annual Conference 2007",
-        "data": "17-20 Sept. 2007",
-        "authors": [
-            "Makoto Katoh",
-            "Atsushi Fujiwara"
-        ],
-        "DOI": "10.1109/SICE.2007.4421243",
-        "citation": 2,
-        "abstract": "The present paper introduces optimal and robust auto tuning on parameters of a PID controller with 2nd-order internal system adjusted by the partial model matching method for 1st- and 2nd-order original controlled objects. The proposed tuning has a wide servo band range in the frequency domain. The Hurwitz stability criterion was used to obtain the simple robust stability conditions (SRS) for given parameters and one changeable parameter. In addition, a sequential ISE search method for grid points was used for the auto tuner. Moreover, two versions of a new interpolation method from a 3*3 small grid to a 5*5 grid are proposed."
-    },
-    {
-        "title": "The new JEDEC JESD89A Test Standard — How is it different than the old one and why should we use it?",
-        "conferenceTitle": "2007 9th European Conference on Radiation and Its Effects on Components and Systems",
-        "data": "10-14 Sept. 2007",
-        "authors": [
-            "Robert Baumann"
-        ],
-        "DOI": "10.1109/RADECS.2007.5205452",
-        "citation": 2,
-        "abstract": ""
-    },
-    {
-        "title": "3D-fractal rectangular Koch Dipole and Hilbert Dipole antennas",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Hassan Elkamchouchi",
-            "Mustafa Abu Nasr"
-        ],
-        "DOI": "10.1109/APS.2007.4396454",
-        "citation": 2,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 IEEE Conference on Electron Devices and Solid-State Circuits",
-        "data": "20-22 Dec. 2007",
-        "authors": [],
-        "DOI": "10.1109/EDSSC.2007.4450207",
-        "citation": 2,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Design of a 915-MHz printed meander-line antenna and investigation of body effect on antenna radiation characteristics for wireless biometry application",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "T.-C. Huang",
-            "C.-H. Chu",
-            "S.-S. Hsu",
-            "C.-C. Lin",
-            "H.-R. Chuang"
-        ],
-        "DOI": "10.1109/APS.2007.4396462",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Triple-band fractal antenna design for handset system",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Seunghwan Yoon",
-            "Changwon Jung",
-            "Young-eil Kim",
-            "Franco de Flaviis"
-        ],
-        "DOI": "10.1109/APS.2007.4395618",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 8th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Services",
-        "data": "26-28 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/TELSKS.2007.4375969",
-        "citation": 1,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Image Processing: Beyond the Limitation of Human Visual Perception",
-        "conferenceTitle": "2007 15th International Conference on Digital Signal Processing",
-        "data": "1-4 July 2007",
-        "authors": [
-            "Maria Petrou"
-        ],
-        "DOI": "10.1109/ICDSP.2007.4288505",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 65th Annual Device Research Conference",
-        "data": "18-20 June 2007",
-        "authors": [],
-        "DOI": "10.1109/DRC.2007.4373723",
-        "citation": 1,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Zero Effort Miss Formulation for Longer Range Targeting",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Zheng Liwei",
-            "Jing Wuxing",
-            "Zhang Jianying"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347430",
-        "citation": 1,
-        "abstract": "For long range targeting applications with significant ballistic coasting after burnout, determination of the zero effort miss must account for the different gravitational accelerations experienced by each vehicle. A new expression of relative motion is derived using the Newton's binomial theorem and modern control theory, then the final time at miss is calculated by Newton iteration, and a new predicted method of zero effort miss is obtained. In order to validate the fidelity of proposed zero effort miss, several methods of determination of the zero effort miss are compared with proposed method by simulation. Simulation results show that zero effort miss formulation better than other methods and has obvious advantages of the application."
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 65th Annual Device Research Conference",
-        "data": "18-20 June 2007",
-        "authors": [],
-        "DOI": "10.1109/DRC.2007.4373621",
-        "citation": 1,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "A novel left-handed metamaterial with wire array in a ferrite rectangular waveguide",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Qing-Xin Chu",
-            "Jian-Qiang Gong"
-        ],
-        "DOI": "10.1109/APS.2007.4395850",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Design of switched beam-forming antenna using stacked microstrip patch with cavity and butler matrix for 60GHz WPAN application",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Woojin Byun",
-            "Bong-Su Kim",
-            "Kwang-Seon Kim",
-            "Myung-Sun Song"
-        ],
-        "DOI": "10.1109/APS.2007.4396327",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "A X/KU multiband feed antenna for satellite communications",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Stephen D. Targonski"
-        ],
-        "DOI": "10.1109/APS.2007.4396223",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Design of a novel CRLH-TL structure",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Siwen Sun",
-            "Shanjia Xu"
-        ],
-        "DOI": "10.1109/APS.2007.4396796",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "A Digitally Controlled DC-DC Converter Module with a Segmented Output Stage for Optimized Efficiency",
-        "conferenceTitle": "Proceedings of the 19th International Symposium on Power Semiconductor Devices and IC's",
-        "data": "27-31 May 2007",
-        "authors": [
-            "Olivier Trescases"
-        ],
-        "DOI": "10.1109/ISPSD.2007.4294914",
-        "citation": 1,
-        "abstract": "This paper presents a 4 MHz, 0.9 W digitally controlled DC-DC converter with a miniature inductor for 1.8 V portable devices. In applications such as cellular phones, it is crucial to achieve high conversion efficiency over the entire load range. A binary-weighted segmented power stage is used to dynamically optimize the converter efficiency by reducing the gate-drive losses at mid-to-light loads. An all-digital segment controller based on a load current estimator is demonstrated. This approach is most effective in the mid-load range, where the losses are reduced by 33%, corresponding to an efficiency improvement of 7.5 % at Vin= 4.2 V. A peak efficiency of 89 % is achieved at fs = 4 MHz and Vin = 2.7 V."
-    },
-    {
-        "title": "Multifractal Spectrum and their Applications in Metal Fracture Surface Images Identification",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Weng Guirong",
-            "Qin Shuwei"
-        ],
-        "DOI": "10.1109/CHICC.2006.4346851",
-        "citation": 1,
-        "abstract": "Based on the physical sense of multifractal spectrum, classification of the typical morphology of the metal fracture surface by obtaining the images character based on the multifractal spectrum will be described. The methods have unchangeable characteristic of the multifractal spectrum. Then the images can be classified by using artificial neural network. In this paper, 20 images of ductile fracture, stream design fracture, intergranular cracking fracture and crack propagation are used as a study samples and 20 images are used as a test samples. The data of the experiment explains the feasibility of the method."
-    },
-    {
-        "title": "Fuzzy Methods for Constructing Multi-Criteria Decision Functions",
-        "conferenceTitle": "2007 IEEE Symposium on Computational Intelligence in Multi-Criteria Decision-Making",
-        "data": "1-5 April 2007",
-        "authors": [
-            "Ronald Yager"
-        ],
-        "DOI": "10.1109/MCDM.2007.369440",
-        "citation": 1,
-        "abstract": "Summary form only given. Because of its ability to provide a bridge between linguistic expression and mathematical modeling fuzzy sets technology provides an idea framework for the construction of multi-criteria decision functions. In this talk we shall describe a number of aggregation operators associated with fuzzy set theory and see how they can be used to formulate multi-criteria decision functions. Particular attention was paid to formulating multi-criteria functions from linguistically specified user requirements."
-    },
-    {
-        "title": "A Limit Property for the Optimal Control of a Replacement Problem with Maintenance Under Uncertainty",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Zhang Rong"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347367",
-        "citation": 1,
-        "abstract": "An important property for the replacement decisions with maintenance under uncertainty is found and accordingly, a smart computation algorithm is created to find the optimal solution to the multistage optimal control problem(Dogramaci and Fraiman, 2004). This paper gives a proof for a limit property of this optimal control, i.e., the optimal control for the D-F problem is nondifferentiable at the points where the replacement opportunities are available. That is to say, the optimal control of the D-F problem is different from the K-S problem no matter how nimble an organization is."
-    },
-    {
-        "title": "Design of UWB antennas using GA-FDTD approach",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Min Ding",
-            "Ronghong Jin",
-            "Junping Geng",
-            "Guomin Yang",
-            "Zhijiang Fang",
-            "Wei He"
-        ],
-        "DOI": "10.1109/APS.2007.4395603",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 IEEE Vehicle Power and Propulsion Conference",
-        "data": "9-12 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/VPPC.2007.4544148",
-        "citation": 1,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "BroadNets 2007 Demos - posters/demos",
-        "conferenceTitle": "2007 Fourth International Conference on Broadband Communications, Networks and Systems (BROADNETS '07)",
-        "data": "10-14 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/BROADNETS.2007.4550437",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 IEEE International Symposium on Industrial Electronics",
-        "data": "4-7 June 2007",
-        "authors": [],
-        "DOI": "10.1109/ISIE.2007.4375058",
-        "citation": 1,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Petascale Computing for Large-Scale Graph Problems",
-        "conferenceTitle": "2007 IEEE International Parallel and Distributed Processing Symposium",
-        "data": "26-30 March 2007",
-        "authors": [
-            "David A. Bader"
-        ],
-        "DOI": "10.1109/IPDPS.2007.370556",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Broadband impedance matching design for RFID transponder",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Zhijiang Fang",
-            "Ronghong Jin",
-            "Junping Geng",
-            "Min Ding",
-            "Guomin Yang",
-            "Wei He"
-        ],
-        "DOI": "10.1109/APS.2007.4395860",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Measurement Fusion Kalman Filters for Descriptor Stochastic Systems",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Shi Ying"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347086",
-        "citation": 1,
-        "abstract": "Centralized measurement fusion and weighted measurement fusion are two main methods for multi-sensor data fusion based on Kalman filtering. The measurement fusion state estimation problem was considered for descriptor stochastic systems. Two kinds of multi-sensor measurement fused state Kalman filters were proposed. The effectiveness of the proposed algorithms was demonstrated by numerical examples. And the functional equivalence between two fused methods was verified under the assumption that the sensors for fused data fusion have identical measurement matrices, i.e. the Kalman filters obtained by two methods are numerically equal."
-    },
-    {
-        "title": "Spherical Parameterization of Genus-Zero Meshes Using the Lagrange-Newton Method",
-        "conferenceTitle": "2007 10th IEEE International Conference on Computer-Aided Design and Computer Graphics",
-        "data": "15-18 Oct. 2007",
-        "authors": [
-            "Ying Li",
-            "Zhouwang Yang",
-            "Jiansong Deng"
-        ],
-        "DOI": "10.1109/CADCG.2007.4407846",
-        "citation": 1,
-        "abstract": "This paper addresses the problem of spherical parameterization, i.e., mapping a given polygonal surface of genus-zero onto a unit sphere. There exist some methods to deal with the problem in literatures. In the paper, we construct an improved algorithm for parameterization of genus-zero meshes and aim to obtain high-quality surfaces fitting with PHT-splines. This parameterization consists of minimizing discrete harmonic energy subject to spherical constraints and solving the constrained optimization by the Lagrange-Newton method. We also present several examples which show that parametric surfaces of PHT-splines can be constructed adoptively and efficiently to fit given meshes associated with our parameterization results."
-    },
-    {
-        "title": "Ultrawide-band wide beam circular polarization antenna",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Zhong Lingling",
-            "Qiu Jinghui",
-            "Zhang Ning",
-            "Zhao Bo"
-        ],
-        "DOI": "10.1109/APS.2007.4396089",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Design of new microstrip filters based on composite right/left-handed transmission line structure",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Yuanfeng She",
-            "Qi Zhu",
-            "Shanjia Xu"
-        ],
-        "DOI": "10.1109/APS.2007.4396200",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 65th Annual Device Research Conference",
-        "data": "18-20 June 2007",
-        "authors": [],
-        "DOI": "10.1109/DRC.2007.4373743",
-        "citation": 1,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Cavity production and R&D in US industry",
-        "conferenceTitle": "2007 IEEE Particle Accelerator Conference (PAC)",
-        "data": "25-29 June 2007",
-        "authors": [
-            "J. Rathke"
-        ],
-        "DOI": "10.1109/PAC.2007.4440343",
-        "citation": 1,
-        "abstract": "Abstract to be provided by speaker."
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 IEEE International Symposium on Industrial Electronics",
-        "data": "4-7 June 2007",
-        "authors": [],
-        "DOI": "10.1109/ISIE.2007.4374904",
-        "citation": 1,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Official conference proceedings",
-        "conferenceTitle": "2007 IEEE 8th Human Factors and Power Plants and HPRCT 13th Annual Meeting",
-        "data": "26-31 Aug. 2007",
-        "authors": [],
-        "DOI": "10.1109/HFPP.2007.4413239",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Strong Tracking Particle Filter Based Fault Diagnosis for Nonlinear Systems",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Liu Shirong",
-            "He Wenbo"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347625",
-        "citation": 1,
-        "abstract": "A strong tracking particle filter is presented that is used to make fault diagnosis for nonlinear dynamic systems. Strong tracking particle filter is consisted of strong tracking filter and particle filter. Because of the uncertainty of the fault models of nonlinear dynamic system, the errors between the values of the state estimation with particle filter and ones with strong tracking particle filter are used to judge the faults of the system. Simulations show that the proposed method is capable of the fault detection and diagnosis of the systems."
-    },
-    {
-        "title": "A Particle Swarm Optimal Algorithm for Multiple Path Toll Problems on Freeway Networks",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Li Shuguang"
-        ],
-        "DOI": "10.1109/CHICC.2006.4346861",
-        "citation": 1,
-        "abstract": "In order to solve multiple path toll problems on freeway networks, firstly three evaluation indications are given for the multiple path toll methods. And a stochastic user equilibrium model is presented based on average OD travel time. Then, a particle swarm optimal algorithm is given, in the algorithm; two methods are used to deal with several constraints of the model. Finally, the numerical examples are given in a network. The results show the quality of method."
-    },
-    {
-        "title": "Using probabilistic neural networks to diagnose positional faults of antenna array",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "D. Vakula",
-            "N. V. N. S. Sarma"
-        ],
-        "DOI": "10.1109/APS.2007.4396915",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "The Design for Model and Control of Solid Oxide Fuel Cell Electrical Characteristic",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Deng ZhongHua",
-            "Li Xi"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347521",
-        "citation": 1,
-        "abstract": "According to Matlab/Simulink, the paper sets up appropriate and effective mathematical model of solid oxide fuel cell (SOFC) based on its structure and mechanism, using theories of electrochemistry, hydrokinetic and thermodynamics. The output performance of SOFC is adjusted with good effect by PID controller tuned with decay-curve law. The results of numerical test demonstrate the effectiveness and advantage of this approach."
-    },
-    {
-        "title": "Analysis of Spectrum and Prediction for Short-term Traffic Flow",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Weng Xiaoxiong",
-            "Jian Jun"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347305",
-        "citation": 1,
-        "abstract": "In this paper, based on analysing spectrum of short-term traffic flow by FFT transformation in limited length, we make use of neutral network to forecast the direct data and every scales data which was decomposed and reconstructed by wavelet analysis. Comparing with two results, prediction of the composing data which has been decomposed and reconstructed by wavelet has better accuracy, it can prove that wavelet analysis has value for studying in prediction of short-term traffic flow."
-    },
-    {
-        "title": "TU3F: Advances in CAD Techniques",
-        "conferenceTitle": "2007 IEEE/MTT-S International Microwave Symposium",
-        "data": "3-8 June 2007",
-        "authors": [],
-        "DOI": "10.1109/MWSYM.2007.380262",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Pex--An Intelligent Assistant for Rigorous Developer Testing",
-        "conferenceTitle": "12th IEEE International Conference on Engineering Complex Computer Systems (ICECCS 2007)",
-        "data": "11-14 July 2007",
-        "authors": [
-            "Wolfram Schulte"
-        ],
-        "DOI": "10.1109/ICECCS.2007.35",
-        "citation": 1,
-        "abstract": "Summary form only given. Pex takes test-driven development to the next level. Pex analyzes .NET applications. From a parameterized unit test, which serves as a specification, it automatically produces traditional unit tests cases with high code coverage. Moreover, when a generated test fails, Pex can often suggest a bug fix. To do so Pex performs a systematic program analysis (similar to path bounded model-checking). It records detailed execution traces of test cases. Pex learns the program behavior from the traces, and a constraint solver produces new test cases with different behavior. The result is a minimal test suite with maximal code coverage. For information about Pex, see http://research.microsoft.com/Pex/."
-    },
-    {
-        "title": "The Honourable BJ Penn, Assistant Secretary of the Navy",
-        "conferenceTitle": "OCEANS 2007",
-        "data": "29 Sept.-4 Oct. 2007",
-        "authors": [
-            "BJ Penn"
-        ],
-        "DOI": "10.1109/OCEANS.2007.4449439",
-        "citation": 1,
-        "abstract": "Summary form only given. A short professional biography of BJ Penn (Assistant Secretary of the Navy) is provided."
-    },
-    {
-        "title": "Voice search - Information access via voice queries",
-        "conferenceTitle": "2007 IEEE Workshop on Automatic Speech Recognition & Understanding (ASRU)",
-        "data": "9-13 Dec. 2007",
-        "authors": [
-            "Ye-Yi Wang"
-        ],
-        "DOI": "10.1109/ASRU.2007.4430095",
-        "citation": 1,
-        "abstract": "Voice search is the speech understanding technology underlying many spoken dialog applications that provide users with the information they request with a spoken query. The information normally exists in a large database, and the query has to be compared with an unstructured field in the database to obtain relevant information. The popular applications include directory assistance, music/video management, business and product reviews, stock price quote, and conference information systems. This talk discusses the challenges of voice search in the acoustic modeling, pronunciation modeling, language modeling, spoken language understanding and dialog management, and surveys the technological solutions to these challenges."
-    },
-    {
-        "title": "Active RCS reduction for countering multiple wideband radars",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Shweta Sharma",
-            "Hema Singh",
-            "Rakesh Mohan Jha"
-        ],
-        "DOI": "10.1109/APS.2007.4395654",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "A New Algorithm of Online Monitoring and Fault Prediction for the Battery Set State",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Yin Chunjie",
-            "Sun Jiejun",
-            "Zhang Chenghui"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347167",
-        "citation": 1,
-        "abstract": "Based on the traditional floating voltage examination method of the VRLA battery, this paper proposed a new online examination method of the VRLA battery interface resistance, and established GM(1,1) forecast model of the battery interface resistance to examine the batteries' condition and predict the fault. Because many uncertain factors impact the internal resistance, this paper give a real time method and establish a dynamic innovation forecast model of GM(1,1). The forecast precision is improved greatly through experiment, and the feature of internal resistance of battery can be forecast exactly."
-    },
-    {
-        "title": "CPW Fed broadband dielectric resonator antenna array for waln applications at 802.11a/j",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Hao Yu",
-            "Hongsheng Li"
-        ],
-        "DOI": "10.1109/APS.2007.4396099",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "2007 IEEE MTT-S International Microwave Symposium Digest",
-        "conferenceTitle": "2007 IEEE/MTT-S International Microwave Symposium",
-        "data": "3-8 June 2007",
-        "authors": [],
-        "DOI": "10.1109/MWSYM.2007.380164",
-        "citation": 1,
-        "abstract": "This paper list the company that participated in 2007 IEEE MTT-5 IMS Exhibition Guide."
-    },
-    {
-        "title": "Implementation of autopilot test platform for small aircrafts with reference design of a 2-axis autopilot",
-        "conferenceTitle": "2007 IEEE/AIAA 26th Digital Avionics Systems Conference",
-        "data": "21-25 Oct. 2007",
-        "authors": [
-            "Senthil Kumar"
-        ],
-        "DOI": "10.1109/DASC.2007.4391937",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 65th Annual Device Research Conference",
-        "data": "18-20 June 2007",
-        "authors": [],
-        "DOI": "10.1109/DRC.2007.4373716",
-        "citation": 1,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Tips And Tricks For Using Simulation Doe To Assess The Complex Interactions Of Your Process",
-        "conferenceTitle": "2007 Winter Simulation Conference",
-        "data": "9-12 Dec. 2007",
-        "authors": [
-            "Marietsa Louise McCreary"
-        ],
-        "DOI": "10.1109/WSC.2007.4419903",
-        "citation": 1,
-        "abstract": "When studying a complex process, a design of experiments (DOE) using discrete-event simulation, is a powerful tool to determine key factors and results. A DOE is a road map for data generation and analysis that is methodical, efficient, and meaningful. This presentation highlights two manufacturing simulation case studies with emphasis on the process for creating and assessing the DOEs. DOE evolution is discussed, as well as the difference between a DOE and a DOE model. Tips and tricks for setup, visualization, and graphing are also highlighted."
-    },
-    {
-        "title": "4D-2 Manipulation of Micro-Particles Using a Piezoelectric Actuator",
-        "conferenceTitle": "2007 IEEE Ultrasonics Symposium Proceedings",
-        "data": "28-31 Oct. 2007",
-        "authors": [
-            "Johann Desa",
-            "Qiliang Zhang",
-            "Guoliang Yang",
-            "Ryszard Lec"
-        ],
-        "DOI": "10.1109/ULTSYM.2007.74",
-        "citation": 1,
-        "abstract": "In this paper we demonstrate the manipulation of single and multiple micro-particles using a bulk acoustic wave (BAW) piezoelectric actuator. Particle motion is achieved by a combination of inertial and acoustic forces, exerted by a piezoelectric actuator, onto particles placed on its surface. This manipulation technique is capable of controlled manipulation of single and multiple micro-particles. The particles can be moved as far as ten times their diameters. The forces generated by the actuator are characterized using a finite element method (FEM) simulation and a theoretical study of the interfacial forces. A comparative study of the forces generated by the actuator and the particle-surface interfacial forces measured using atomic force microscopy (AFM) is then performed to show the feasibility of this technique. Experimental and theoretical results show good agreement indicating that this technique can prove to be a versatile tool for the controlled non-destructive manipulation of single as well as multiple micro-particles in the fields of biosensors, tissue engineering, bio-chips, microfabrication and MEMS devices."
-    },
-    {
-        "title": "Thermal challenges in 3-D stacked packaging",
-        "conferenceTitle": "2007 13th International Workshop on Thermal Investigation of ICs and Systems (THERMINIC)",
-        "data": "17-19 Sept. 2007",
-        "authors": [
-            "Venkat Natarajan"
-        ],
-        "DOI": "10.1109/THERMINIC.2007.4451736",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Multi-region iterative method based on MLFMA for scattering from 3D conductor",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Xi Rui",
-            "Jun Hu"
-        ],
-        "DOI": "10.1109/APS.2007.4396035",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Observer-Based Fault Detection for Delta Operator Systems",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Zhang Duanjin",
-            "Zhang Ailing"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347213",
-        "citation": 1,
-        "abstract": "The problem of fault detection for the delta operator formulated discrete time system is considered. Based on the traditional Luenberger observer using the shift operator, a new observer design approach to fault detection for delta operator system is proposed. Both the existence conditions and explicit expression of the desired observer are developed. The algorithm of observer-based fault detection for delta operator systems is also given. The simulation results show the effectiveness of the proposed approach."
-    },
-    {
-        "title": "Hard Fun: Cognition and Emotion at Play",
-        "conferenceTitle": "2007 First IEEE International Workshop on Digital Game and Intelligent Toy Enhanced Learning (DIGITEL'07)",
-        "data": "26-28 March 2007",
-        "authors": [
-            "Clark Quinn"
-        ],
-        "DOI": "10.1109/DIGITEL.2007.27",
-        "citation": 1,
-        "abstract": "Summary form only given. Is there any reason to believe that we really can blend fun and learning? And if so, can we do it systematically? In this talk, we will develop the alignment between learning and engagement, highlighting the synergy between cognitive and emotional elements that tell us that we should make learning 'hard fun'. Then we'll talk about the learning design process, and show how these elements can be developed during a systematic design process that yields deeply contextualized challenging practice. In short, why learning can be 'hard fun'. The result is an optimal balance that promises more meaningful learning and more engaging experiences!"
-    },
-    {
-        "title": "Improved Error Estimate for Extraordinary Catmull-Clark Subdivision Surface Patches",
-        "conferenceTitle": "2007 10th IEEE International Conference on Computer-Aided Design and Computer Graphics",
-        "data": "15-18 Oct. 2007",
-        "authors": [
-            "Zhangjin Huang",
-            "Guoping Wang"
-        ],
-        "DOI": "10.1109/CADCG.2007.4407833",
-        "citation": 1,
-        "abstract": "Summary form only given. Based on an optimal estimate of the convergence rate of the second order norm, an improved error estimate for extraordinary Catmull-Clark subdivision surface (CCSS) patches is proposed. If the valence of the extraordinary vertex of an extraordinary CCSS patch is even, a tighter error bound and, consequently, a more precise subdivision depth for a given error tolerance, can be obtained. Furthermore, examples of adaptive subdivision illustrate the practicability of the error estimation approach."
-    },
-    {
-        "title": "Experiments in Verifying Low Level Concurrent C Code",
-        "conferenceTitle": "12th IEEE International Conference on Engineering Complex Computer Systems (ICECCS 2007)",
-        "data": "11-14 July 2007",
-        "authors": [
-            "Wolfram Schulte"
-        ],
-        "DOI": "10.1109/ICECCS.2007.22",
-        "citation": 1,
-        "abstract": "Summary form only given. The Verified C project adds design by contract programming to C. The program verifier VCC accepts annotated C programs, generates logical verification conditions from them and passes them on to an automatic theorem prover to either prove the correctness of the program or find errors in it. VCC is build to verify the functional correctness of Microsoft's hypervisor code base. The first step in developing VCC so far has been the efficient encoding of a faithful memory model. The next step is the development of a programming methodology which allows for automatic verification of annotated low level concurrent code. In this talk, I will report on the design of VCC, and on first experiments in applying it."
-    },
-    {
-        "title": "A New Method of Automatic Reading of High-precision Pointer Meter",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Zhang Yanling",
-            "Wang Renhuang",
-            "Chen Guoqing"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347576",
-        "citation": 1,
-        "abstract": "A new method of automatic reading of high-precision pointer meter is introduced, first, the color image was transformed to gray image; secondly, the area of dial plate was segmented by threshold value and projection; thirdly, the pointer needle was located using dot-goniometry; then the graduation and reflector were located by arc projection; finally, the pointer needle value is recognized automatically."
-    },
-    {
-        "title": "Solving the Tramp Ship Dispatching Problem Using ACA",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Zhao Gang",
-            "Chen Wenbing"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347042",
-        "citation": 1,
-        "abstract": "In the context of the COA signed by Sinopetrol and CSTANKER, this paper try to optimize ship operating plan through the ant colony algorithm (ACA). Based on the practical operation, the ship scheduling optimization model is formulated. And then, we try to solve the model through ACA. Finally, we schedule a real problem through the program. And it is proven that the schedule made by the program is as perfect as the one made by the traditional linear programming."
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 International Workshop on Electron Devices and Semiconductor Technology (EDST)",
-        "data": "3-4 June 2007",
-        "authors": [],
-        "DOI": "10.1109/EDST.2007.4289818",
-        "citation": 1,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Dual-planar l-shaped RFID tag antenna",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Amit Rawal",
-            "Nemai C. Karmakar"
-        ],
-        "DOI": "10.1109/APS.2007.4395493",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Linearly constrained orthogonal projection algorithm for reduced rank adaptive array processing",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Ding Qian jun",
-            "Fei Ai guo",
-            "Chen Hui"
-        ],
-        "DOI": "10.1109/APS.2007.4396475",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Printed antennas with improved composite right/left-handed transmission line",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Wei Lu",
-            "Qi Zhu",
-            "Fan Yu",
-            "Shanjia Xu"
-        ],
-        "DOI": "10.1109/APS.2007.4395890",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Computing Shortest Cycles Using Universal Covering Space",
-        "conferenceTitle": "2007 10th IEEE International Conference on Computer-Aided Design and Computer Graphics",
-        "data": "15-18 Oct. 2007",
-        "authors": [
-            "Xiaotian Yin",
-            "Miao Jin",
-            "Xianfeng Gu"
-        ],
-        "DOI": "10.1109/CADCG.2007.4407839",
-        "citation": 1,
-        "abstract": "Summary form only given. In this paper we generalize the shortest path algorithm to the shortest cycles in each homotopy class on a surface with arbitrary topology, utilizing the universal covering space (UCS) in algebraic topology. In order to store and handle the UCS, we propose a two-level data structure which is efficient for storage and easy to process. We also pointed several practical applications for our shortest cycle algorithms and the UCS data structure."
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 15th International Conference on Advanced Thermal Processing of Semiconductors",
-        "data": "2-5 Oct. 2007",
-        "authors": [],
-        "DOI": "10.1109/RTP.2007.4383809",
-        "citation": 1,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Complementarity in the optimisation of RFID dipole tag antennas",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Chi di Diugwu",
-            "John Batchelor",
-            "Thomaskutty Mathew"
-        ],
-        "DOI": "10.1109/APS.2007.4395712",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Build Your Mashup with Web Services",
-        "conferenceTitle": "IEEE International Conference on Web Services (ICWS 2007)",
-        "data": "9-13 July 2007",
-        "authors": [
-            "Ning Yan"
-        ],
-        "DOI": "10.1109/ICWS.2007.61",
-        "citation": 1,
-        "abstract": "Mashup is presenting new kind of application in web 2.0 world. Mashup is not simply about the AJAX technologies, rather, it is typically related to reuse the data and other services from other web side and web applications. There are many ways to build up the mashup."
-    },
-    {
-        "title": "Notice of Retraction: Talent Management: from CEO to Supervisor",
-        "conferenceTitle": "2007 International Conference on Wireless Communications, Networking and Mobile Computing",
-        "data": "21-25 Sept. 2007",
-        "authors": [
-            "Astarte Lou"
-        ],
-        "DOI": "10.1109/WICOM.2007.1111",
-        "citation": 1,
-        "abstract": "Retracted."
-    },
-    {
-        "title": "Dependence Centrality: Identifying Dependence of Nodes in Terrorist Networks",
-        "conferenceTitle": "2007 IEEE Intelligence and Security Informatics",
-        "data": "23-24 May 2007",
-        "authors": [
-            "Nasrullah Memon",
-            "David L. Hicks",
-            "Henrik Legind Larsen"
-        ],
-        "DOI": "10.1109/ISI.2007.379500",
-        "citation": 1,
-        "abstract": "Summary form only given. A new model of dependence centrality is proposed. The centrality measure is based on shortest paths between the pair of nodes. We apply this measure with demonstration of small network example. The comparisons are made with betweenness centrality. We discuss how investigative world / intelligence agencies could be benefited from the proposed measure."
-    },
-    {
-        "title": "Fuzzy Control for a Class of Nonlinear System with Adaptive Fuzzy Supervisory Controller",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Shi Wuxi"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347123",
-        "citation": 1,
-        "abstract": "When the nonlinear functions in the system are bounded but the bound functions are unknown, a fuzzy control equipped with adaptive fuzzy supervisory controller for a class of nonlinear system is presented. In this method, a fuzzy logic system is used to approximate unknown bound function, the supervisory controller is designed by the fuzzy logic system, and the unknown parameters in fuzzy logic system are adjusted adaptively. It is proved that this method can guarantee the bounded of the state of closed-system. Simulation results indicate the effectiveness of this method."
-    },
-    {
-        "title": "ITI - Information Technology Institute",
-        "conferenceTitle": "2007 ITI 5th International Conference on Information and Communications Technology",
-        "data": "16-18 Dec. 2007",
-        "authors": [],
-        "DOI": "10.1109/ITICT.2007.4475593",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Measurement of the Electromagnetic Properties of Materials Based on A Refined Transmission-Reflection Algorithm",
-        "conferenceTitle": "2007 International Symposium on Electromagnetic Compatibility",
-        "data": "23-26 Oct. 2007",
-        "authors": [
-            "Jiang Shan",
-            "Xu Ke"
-        ],
-        "DOI": "10.1109/ELMAGC.2007.4413460",
-        "citation": 1,
-        "abstract": "A refined algorithm is presented based on the traditional NRW transmission-reflection method (T/R method). According to the magnetic property of the material under test, the algorithm can get different solutions, then obtain the complex permittivity and complex permeability of magnetic material simultaneously or the complex permittivity of nonmagnetic material. It solves the half-wavelength divergence problem and the multi-roots problem which exist in the traditional NRW algorithm and overcomes the machining and assembling problem of thin samples which is required in the traditional algorithm. Tests of air and PTFE are carried out to verify unreliability of this test system and the results are consistent with true values."
-    },
-    {
-        "title": "Keynote Speaker - Prof. Jim Kurose",
-        "conferenceTitle": "2007 2nd International Conference on Communication Systems Software and Middleware",
-        "data": "7-12 Jan. 2007",
-        "authors": [],
-        "DOI": "10.1109/COMSWA.2007.382546",
-        "citation": 1,
-        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
-    },
-    {
-        "title": "Novel Methods for Cold Rolling Process Modeling, Providing Cold Rolled Strip Quality Improvement, Energy Savings and Continuous Mill Rolling Speed Increase",
-        "conferenceTitle": "2007 2nd IEEE Conference on Industrial Electronics and Applications",
-        "data": "23-25 May 2007",
-        "authors": [
-            "E. A. Garber",
-            "I. A. Kozhevnikova",
-            "A. I. Traino",
-            "V.V. Kuznetsov",
-            "S.I. Pavlov"
-        ],
-        "DOI": "10.1109/ICIEA.2007.4318916",
-        "citation": 1,
-        "abstract": "New methods of cold rolling process modeling presented here are highly recommended for development of rolling mill control systems. They ensure increased rolling speed, upgrade the quality of cold rolled sheets and save energy in production."
-    },
-    {
-        "title": "Power and the Future FPGA Architectures",
-        "conferenceTitle": "2007 International Conference on Field-Programmable Technology",
-        "data": "12-14 Dec. 2007",
-        "authors": [
-            "Sinan Kaptanoglu"
-        ],
-        "DOI": "10.1109/FPT.2007.4439222",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Portable electronic devices (PEDS) interference path coupling with aircraft mounted antennae test optimization",
-        "conferenceTitle": "2007 IEEE/AIAA 26th Digital Avionics Systems Conference",
-        "data": "21-25 Oct. 2007",
-        "authors": [
-            "Fidele Moupfouma"
-        ],
-        "DOI": "10.1109/DASC.2007.4391859",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "Conceptual difference between WordNet and HowNet",
-        "conferenceTitle": "2007 International Conference on Natural Language Processing and Knowledge Engineering",
-        "data": "30 Aug.-1 Sept. 2007",
-        "authors": [
-            "Zhendong Dong"
-        ],
-        "DOI": "10.1109/NLPKE.2007.4367997",
-        "citation": 1,
-        "abstract": "By comparison between WordNet and HowNet in their fundamentals, the paper discusses some essential theoretical issues on the construction of knowledge resources for NLP. It is focused on: (1) Human-orientation vs. computer-orientation; (2) Human-annotation vs. machine-computation; (3) Word-based vs. concept-based; (4) Synsets vs. sememes; (5) Definition in natural language vs. representation in structured markup language."
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 IEEE Conference on Electron Devices and Solid-State Circuits",
-        "data": "20-22 Dec. 2007",
-        "authors": [],
-        "DOI": "10.1109/EDSSC.2007.4450211",
-        "citation": 1,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "How Relevant is Game Theory to Intelligent Agent Technology?",
-        "conferenceTitle": "2007 IEEE/WIC/ACM International Conference on Intelligent Agent Technology (IAT'07)",
-        "data": "2-5 Nov. 2007",
-        "authors": [
-            "Yoav Shoham"
-        ],
-        "DOI": "10.1109/IAT.2007.105",
-        "citation": 1,
-        "abstract": "At this point, restricted to rather specialized areas, and even there must be taken with a grain of salt. But at the same time you can't afford not to know it; there is currently no better underpinning for understanding multiagent systems. I will elaborate using experience in both academia and industry."
-    },
-    {
-        "title": "Control Strategy of Human-Like Intelligent Control",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Wang Peijin",
-            "Mu Zhiqiang",
-            "Ma Wenming"
-        ],
-        "DOI": "10.1109/CHICC.2006.4346935",
-        "citation": 1,
-        "abstract": "Human-like intelligent control simulates human control experiences and methods without the controlled system mathematical model. Controlled variable dynamic features, manipulated variable dynamic features, the relationship between a controlled variable and a manipulated variable, and disturbing variable dynamic features are discussed, all of the analysis which is called control strategy, is helpful to design a control system by human-like intelligent control method. Open-close control switch of human-like intelligent control is also studied.The test shows that the combination of Human-like intelligent control method and the control strategy is more effective to the control system."
-    },
-    {
-        "title": "A broadband dielectric resonator-inserted folded monopole antenna in a ground plane",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Ching-Long Tsai",
-            "Sheng-Ming Deng",
-            "Tsung-Wen Chen",
-            "Yung-Cheng Chang"
-        ],
-        "DOI": "10.1109/APS.2007.4396098",
-        "citation": 1,
-        "abstract": ""
-    },
-    {
-        "title": "InfoVis as Seen by the World Out There: 2007 in Review",
-        "conferenceTitle": "2007 IEEE Symposium on Visual Analytics Science and Technology",
-        "data": "30 Oct.-1 Nov. 2007",
-        "authors": [
-            "Stephen Few"
-        ],
-        "DOI": "10.1109/VAST.2007.4388989",
-        "citation": 1,
-        "abstract": "How we as insiders see and understand InfoVis is quite different from how it is seen by most people in the world out there. Most people get only glimpses of what we do, and those glimpses rarely tell the story clearly. Think about the view of InfoVis that has been created in 2007 through marketing, blogs, and articles. This view is peppered with misperception. In this presentation, I'll take you on a tour of InfoVis' exposure in 2007: the highlights and the failures that have shaped the world's perception of our beloved and important work. The world needs what we do, but this need remains largely unsatisfied."
-    },
-    {
-        "title": "Sensing Technologies",
-        "conferenceTitle": "2007 7th International Conference on ITS Telecommunications",
-        "data": "6-8 June 2007",
-        "authors": [],
-        "DOI": "10.1109/ITST.2007.4295844",
+        "DOI": "10.1109/TVCG.2007.6",
         "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Oral presentations",
-        "conferenceTitle": "2007 IEEE 20th International Conference on Micro Electro Mechanical Systems (MEMS)",
-        "data": "21-25 Jan. 2007",
-        "authors": [],
-        "DOI": "10.1109/MEMSYS.2007.4432956",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Radiation Hazards (RADHAZ) simulation for shipboard high-performance and high-power active phased array radar systems",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "E.C. Ngai",
-            "T. Lawson"
-        ],
-        "DOI": "10.1109/APS.2007.4396387",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Steady state analysis of adaptive arrays for active RCS reduction",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Shweta Sharma",
-            "Hema Singh",
-            "Rakesh Mohan Jha"
-        ],
-        "DOI": "10.1109/APS.2007.4395655",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Analysis of stability and accuracy of MOT-based TD-EFIE solvers",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Yan-Wen Zhao",
-            "Hai-Yan Bi",
-            "Qing-Guang Zhao",
-            "Zai-Ping Nie"
-        ],
-        "DOI": "10.1109/APS.2007.4396566",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Robotic Dynamic Target Recognition and Tracking Based on the Monocular Vision",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Liu Lei",
-            "Wang Yongji"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347351",
-        "citation": 0,
-        "abstract": "Gather the information of the environment by the monocular vision. Using the H and S weight of the HSV color model, separate the target from the environment with a certain color, by a fast clustering algorithm for two-value image segmentation. Calculating the distance between the camera and target by the 3D reconstruction algorithm and sub-control strategy, and raise its veracity by laser information fusion. Furthermore, a vision servo system has been designed and utilized to achieve the robot's dynamic track. At last, some experiments were used to certification its availability."
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 14th IEEE International Conference on Electronics, Circuits and Systems",
-        "data": "11-14 Dec. 2007",
-        "authors": [],
-        "DOI": "10.1109/ICECS.2007.4510974",
-        "citation": 0,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Workshop on Service Oriented Architecture",
-        "conferenceTitle": "14th Asia-Pacific Software Engineering Conference (APSEC'07)",
-        "data": "4-7 Dec. 2007",
-        "authors": [
-            "Toshiro Takase"
-        ],
-        "DOI": "10.1109/ASPEC.2007.85",
-        "citation": 0,
-        "abstract": "This workshop focuses on Service Oriented Architecture (SOA). Service oriented architecture is a paradigm for organizing and utilizing distributed capabilities that may be under the control of different ownership domains. It provides a uniform means to offer, discover, interact with and use capabilities to produce desired effects consistent with measurable preconditions and expectations. By following service oriented architecture, a computer system or software is componentized as a service. One of the most important points of service oriented architecture is interoperability; the services should be accessed from other services easily. Service oriented architecture is still an emerging approach. There have not been so many concrete implementations yet. More researches and practices are required in this area."
-    },
-    {
-        "title": "Process Technology - Gate Stack Process II - Metal Gate / High K Integration",
-        "conferenceTitle": "2007 IEEE International Electron Devices Meeting",
-        "data": "10-12 Dec. 2007",
-        "authors": [
-            "Kazuhiro Eguchi",
-            "Luigi Colombo"
-        ],
-        "DOI": "10.1109/IEDM.2007.4418988",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Keynote speech I",
-        "conferenceTitle": "2007 IEEE Workshop on Signal Propagation on Interconnects",
-        "data": "13-16 May 2007",
-        "authors": [],
-        "DOI": "10.1109/SPI.2007.4512191",
-        "citation": 0,
-        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
-    },
-    {
-        "title": "EPE 2007 Aalborg, Denmark 2 - 5 September 2007",
-        "conferenceTitle": "2007 European Conference on Power Electronics and Applications",
-        "data": "2-5 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/EPE.2007.4417468",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Influence of a magnetic layer on the rectangular DRA bandwidth",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Pejman Rezaei",
-            "Mohammad Hakkak",
-            "Keyvan Forooraghi"
-        ],
-        "DOI": "10.1109/APS.2007.4396641",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Enabling Public Security and Forensics: NSF Programs and Initiatives",
-        "conferenceTitle": "2007 IEEE Workshop on Signal Processing Applications for Public Security and Forensics",
-        "data": "11-13 April 2007",
-        "authors": [
-            "Sirin Tekinay"
-        ],
-        "DOI": "10.1109/IEEECONF12259.2007.4218940",
-        "citation": 0,
-        "abstract": "As the physical and cyber we live in worlds converge, public security and forensics increasingly become problems of the information and communication network infrastructure that supports our society. Wireless communications, traditional telephony, the Internet, broadcast communication networks; to name a few, are elements of the networking fabric that weaves together our work, entertainment, health, education, finances, and security. As networking research has torn down the barriers between layers of the classic communication and information system architecture, information theory, signal processing and communication theory have come to directly impact applications and services. National Science Foundation (NSF) supports this view with several new research programs such as clean-slate Internet, cybertrust and sensor networking, while evolving the long standing programs in signal processing and communications. True to NSF tradition of leading and following the research community, this keynote talk aims to simultaneously present the stage, and receive direction."
-    },
-    {
-        "title": "Title: Device Architectures for Open Broadcast Services",
-        "conferenceTitle": "2007 Digest of Technical Papers International Conference on Consumer Electronics",
-        "data": "10-14 Jan. 2007",
-        "authors": [
-            "Richard Bramley"
-        ],
-        "DOI": "10.1109/ICCE.2007.341481",
-        "citation": 0,
-        "abstract": "Summary form only given. As broadcasters and telecom providers grapple with the gradual but relentless move to more open business models and services the IC manufacturers explore new ways to bring open, flexible and power efficient products at consumer prices. The paper examines the consequences of this in device architecture."
-    },
-    {
-        "title": "SecureComm 2007 AD HOC NETWORKS - Session 3",
-        "conferenceTitle": "2007 Third International Conference on Security and Privacy in Communications Networks and the Workshops - SecureComm 2007",
-        "data": "17-21 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/SECCOM.2007.4550346",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "BroadNets 2007 MAC and performance evaluation - Wireless symposium",
-        "conferenceTitle": "2007 Fourth International Conference on Broadband Communications, Networks and Systems (BROADNETS '07)",
-        "data": "10-14 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/BROADNETS.2007.4550525",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Avionics systems integration using avionics full duplex swithched ethernet",
-        "conferenceTitle": "2007 IEEE/AIAA 26th Digital Avionics Systems Conference",
-        "data": "21-25 Oct. 2007",
-        "authors": [
-            "Selvadhas Samraj"
-        ],
-        "DOI": "10.1109/DASC.2007.4391867",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "SiP - A Catalyst for Innovation",
-        "conferenceTitle": "2007 8th International Conference on Electronic Packaging Technology",
-        "data": "14-17 Aug. 2007",
-        "authors": [
-            "William Chen"
-        ],
-        "DOI": "10.1109/ICEPT.2007.4441548",
-        "citation": 0,
-        "abstract": "This talk will review the electronic market landscape. Today consumers have become a major factor in driving innovations in the electronics industry towards expanding envelops of requirements in lower cost, smaller form factor. and increased functionality. System in package (SiP) and system on chip (SoC) are two powerful technology directions for the industry to rise to the challenges posed by the consumer-driven market place. The fundamental concept of SiP has been a catalyst to free the engineering community to drive packaging structure in the 3rd dimensions and to integrate beyond traditional digital IC technologies, to MEMS. RF & mixed signal. optoelectronics and bio chips."
-    },
-    {
-        "title": "Covers",
-        "conferenceTitle": "2007 International Symposium on Signals, Circuits and Systems",
-        "data": "13-14 July 2007",
-        "authors": [],
-        "DOI": "10.1109/ISSCS.2007.4292716",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Robust Adaptive Beamforming: When the Worst Case is the Best We Can Do",
-        "conferenceTitle": "2007 15th International Conference on Digital Signal Processing",
-        "data": "1-4 July 2007",
-        "authors": [
-            "Alex Gershman"
-        ],
-        "DOI": "10.1109/ICDSP.2007.4288503",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Contributor Listings",
-        "conferenceTitle": "2007 International Symposium on Signals, Circuits and Systems",
-        "data": "13-14 July 2007",
-        "authors": [],
-        "DOI": "10.1109/ISSCS.2007.4292720",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Communicating 3D Shape Using Lines",
-        "conferenceTitle": "15th Pacific Conference on Computer Graphics and Applications (PG'07)",
-        "data": "29 Oct.-2 Nov. 2007",
-        "authors": [
-            "Dr. Doug DeCarlo"
-        ],
-        "DOI": "10.1109/PG.2007.70",
-        "citation": 0,
-        "abstract": "Summary form only given. The last few years have brought a more concrete understanding of the mathematical relationship between strokes in drawings, linear features in images, and lines on 3D shapes. However, fundamental questions remain unanswered about how our perceptual system resolves these lines as giving evidence about shape. These questions need to be addressed to assemble mathematically defined lines into clear and compelling drawings. I'll discuss my ongoing research on suggestive contours and highlight lines from this perspective."
-    },
-    {
-        "title": "On Portfolio Investment Model Using Ant Colony Optimization Algorithm",
-        "conferenceTitle": "2007 Chinese Control Conference",
-        "data": "26-31 July 2007",
-        "authors": [
-            "Zhou Jianguo",
-            "Zhang Hui",
-            "Tian Jiming"
-        ],
-        "DOI": "10.1109/CHICC.2006.4347390",
-        "citation": 0,
-        "abstract": "Based on Markowitz' theory of asset portfolio, a multiple-goal optimization model of portfolio investment was set up considering both risk and return. Then applying ant colony optimization algorithm to solve the model, we got a better result than that of using Lingo."
-    },
-    {
-        "title": "A single-feed cross-shaped multi-band dual-polarized zeroth-order resonator microstrip antenna",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Babak Honarbakhsh",
-            "Ahad Tavakoli"
-        ],
-        "DOI": "10.1109/APS.2007.4395622",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "2nd Workshop on Tools and Applications for Mobile Contents (TAMC)",
-        "conferenceTitle": "2007 International Conference on Mobile Data Management",
-        "data": "1-1 May 2007",
-        "authors": [
-            "No Author"
-        ],
-        "DOI": "10.1109/MDM.2007.78",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "BroadNets 2007 Survivability and recovery - Internet symposium",
-        "conferenceTitle": "2007 Fourth International Conference on Broadband Communications, Networks and Systems (BROADNETS '07)",
-        "data": "10-14 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/BROADNETS.2007.4550417",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Announcement",
-        "conferenceTitle": "2007 IEEE Symposium on VLSI Technology",
-        "data": "12-14 June 2007",
-        "authors": [],
-        "DOI": "10.1109/VLSIT.2007.4339668",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Calculation of minimum operational range of GPS-tracker for UAV",
-        "conferenceTitle": "2007 IEEE/AIAA 26th Digital Avionics Systems Conference",
-        "data": "21-25 Oct. 2007",
-        "authors": [
-            "Hyeon-Cheol Lee"
-        ],
-        "DOI": "10.1109/DASC.2007.4391938",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Conference Schedule",
-        "conferenceTitle": "2007 IEEE Symposium on VLSI Technology",
-        "data": "12-14 June 2007",
-        "authors": [],
-        "DOI": "10.1109/VLSIT.2007.4339672",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "ILC underground cost analysis in the US",
-        "conferenceTitle": "2007 IEEE Particle Accelerator Conference (PAC)",
-        "data": "25-29 June 2007",
-        "authors": [
-            "B. F. Shelton"
-        ],
-        "DOI": "10.1109/PAC.2007.4440354",
-        "citation": 0,
-        "abstract": "Overview of cost analyses prepared on various aspects of the underground construction for ILC located at a site near Fermilab in USA. The analyses encompass the various construction costs for the tunnels, shafts, passageways, caverns, and halls associated with the ILC."
-    },
-    {
-        "title": "Design of sliding mode control for three axis stabilization of magnetic actuated satellite",
-        "conferenceTitle": "2007 IEEE/AIAA 26th Digital Avionics Systems Conference",
-        "data": "21-25 Oct. 2007",
-        "authors": [
-            "Thambidurai Sevathan"
-        ],
-        "DOI": "10.1109/DASC.2007.4391942",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "A robust CFAR algorithm in non-homogenous environment",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "N. Moazen",
-            "M. R. Akhavan-Sarraf"
-        ],
-        "DOI": "10.1109/APS.2007.4395586",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Computer aided design and realization of wide band ultra low sidelobe level antenna with mutual coupling compensated antenna element",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Preeti Dongaonkar",
-            "Shubha Elizabeth Avirah",
-            "A.K. Singh"
-        ],
-        "DOI": "10.1109/APS.2007.4395765",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Accurate and fast computation of the green’s functions of periodic structures using complex images technique",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "H. Alaian",
-            "R. Faraji-Dana"
-        ],
-        "DOI": "10.1109/APS.2007.4396676",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "WE4A: X-Band and Millimeter Wave Devices and Power Amplifiers",
-        "conferenceTitle": "2007 IEEE/MTT-S International Microwave Symposium",
-        "data": "3-8 June 2007",
-        "authors": [],
-        "DOI": "10.1109/MWSYM.2007.380080",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Proceedings of the AccessNets 2007 Second International Conference on Access Networks",
-        "conferenceTitle": "2007 Second International Conference on Access Networks & Workshops",
-        "data": "22-24 Aug. 2007",
-        "authors": [],
-        "DOI": "10.1109/ACCESSNETS.2007.4447089",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Compact multi-band slotted rectangular microstrip antennas",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Amit A. Deshmukh",
-            "K. P. Ray"
-        ],
-        "DOI": "10.1109/APS.2007.4395514",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "The Third International Workshop on Performance Modelling and Analysis of Communication in Wired and Wireless Networks (PMAC-2WN)",
-        "conferenceTitle": "2007 International Conference on Parallel and Distributed Systems",
-        "data": "5-7 Dec. 2007",
-        "authors": [],
-        "DOI": "10.1109/ICPADS.2007.4447805",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "SecureComm 2007 Paper track - Session 1",
-        "conferenceTitle": "2007 Third International Conference on Security and Privacy in Communications Networks and the Workshops - SecureComm 2007",
-        "data": "17-21 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/SECCOM.2007.4550313",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Commentary",
-        "conferenceTitle": "2007 IEEE International Conference on Computational Cybernetics",
-        "data": "19-21 Oct. 2007",
-        "authors": [],
-        "DOI": "10.1109/ICCCYB.2007.4402015",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Session B4: Channel Estimation and Synchronization",
-        "conferenceTitle": "2007 IEEE International Symposium on Power Line Communications and Its Applications",
-        "data": "26-28 March 2007",
-        "authors": [],
-        "DOI": "10.1109/ISPLC.2007.371067",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 8th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Services",
-        "data": "26-28 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/TELSKS.2007.4376024",
-        "citation": 0,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "A 75th Birthday Tribute to Professor Yevgeny Nefyodov",
-        "conferenceTitle": "2007 17th International Crimean Conference - Microwave & Telecommunication Technology",
-        "data": "10-14 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/CRMICO.2007.4368991",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "BroadNets 2007 Optical network design techniques - Optical symposium",
-        "conferenceTitle": "2007 Fourth International Conference on Broadband Communications, Networks and Systems (BROADNETS '07)",
-        "data": "10-14 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/BROADNETS.2007.4550456",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "The Theory of Phase-Frequency Measurements and Transformation. Application Features and Perspectives",
-        "conferenceTitle": "2007 17th International Crimean Conference - Microwave & Telecommunication Technology",
-        "data": "10-14 Sept. 2007",
-        "authors": [
-            "I. V. Trotsyshyn"
-        ],
-        "DOI": "10.1109/CRMICO.2007.4368915",
-        "citation": 0,
-        "abstract": "The theory of phase-frequency measurements and transformation has been developed which is based on the primacy of a full phase shift."
-    },
-    {
-        "title": "Accurate sub-entire-domain basis function method for irrectangular periodic structures",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Wei Bing Lu",
-            "Qian Yi Zhao",
-            "Tie Jun Cui"
-        ],
-        "DOI": "10.1109/APS.2007.4396321",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "TU4F: Applied Frequency Domain Techniques",
-        "conferenceTitle": "2007 IEEE/MTT-S International Microwave Symposium",
-        "data": "3-8 June 2007",
-        "authors": [],
-        "DOI": "10.1109/MWSYM.2007.380380",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "MDAS-DR antenna with flat-topped radiation pattern",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "S. Y. Eom",
-            "J. H. Yun",
-            "S. I. Jeon",
-            "C. J. Kim"
-        ],
-        "DOI": "10.1109/APS.2007.4396639",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "WE3C: Ferrite and Ferroelectric Components",
-        "conferenceTitle": "2007 IEEE/MTT-S International Microwave Symposium",
-        "data": "3-8 June 2007",
-        "authors": [],
-        "DOI": "10.1109/MWSYM.2007.380007",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Keynote speech",
-        "conferenceTitle": "2007 ITI 5th International Conference on Information and Communications Technology",
-        "data": "16-18 Dec. 2007",
-        "authors": [],
-        "DOI": "10.1109/ITICT.2007.4475604",
-        "citation": 0,
-        "abstract": "Provides an abstract of the keynote presentation and a brief professional biography of the presenter. The complete presentation was not made available for publication as part of the conference proceedings."
-    },
-    {
-        "title": "Assessment of data optical networking architecture using wavelength division multiplexing method for optical sensors",
-        "conferenceTitle": "2007 IEEE/AIAA 26th Digital Avionics Systems Conference",
-        "data": "21-25 Oct. 2007",
-        "authors": [
-            "Hung Nguyen"
-        ],
-        "DOI": "10.1109/DASC.2007.4391869",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "An approach to dynamic service provisioning using a device management system",
-        "conferenceTitle": "2007 Wireless Telecommunications Symposium",
-        "data": "26-28 April 2007",
-        "authors": [
-            "Kyounghee Jung",
-            "Injoo Choi",
-            "San hyeon Jeong"
-        ],
-        "DOI": "10.1109/WTS.2007.4563341",
-        "citation": 0,
-        "abstract": "With the current prevalence of content-oriented communication services, the service environment for end-users to learn and to configure one’s device has become more complicated ovd demanding. In particular; the device should be dynamically configured in accordance with the service subscription profile of the user and requires the timely changes in application modification of the user’s S new service subscription requests."
-    },
-    {
-        "title": "2007 BCTM Exhibitors",
-        "conferenceTitle": "2007 IEEE Bipolar/BiCMOS Circuits and Technology Meeting",
-        "data": "30 Sept.-2 Oct. 2007",
-        "authors": [],
-        "DOI": "10.1109/BIPOL.2007.4351820",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Session Abstract",
-        "conferenceTitle": "25th IEEE VLSI Test Symposium (VTS'07)",
-        "data": "6-10 May 2007",
-        "authors": [],
-        "DOI": "10.1109/VTS.2007.67",
-        "citation": 0,
-        "abstract": "Memory devices have been becoming more complex with every generation and this trend will continue. Different kinds of memories present different challenges for board level test applications. This IP session will discuss several of those challenges and will introduce a new test technology proposed as IEEE P1581, offering an elegant solution to many -- if not all -- problems related to the test of the board and system level connectivity at memory device pins."
-    },
-    {
-        "title": "2007 IEEE International SOI Conference",
-        "conferenceTitle": "2007 IEEE International SOI Conference",
-        "data": "1-4 Oct. 2007",
-        "authors": [],
-        "DOI": "10.1109/SOI.2007.4357819",
-        "citation": 0,
-        "abstract": "The following topics are dealt with: Semiconductor materials; FinFET devices; SOI; 3D electronic devices; memory circuits; sensors and RF circuits."
-    },
-    {
-        "title": "Commentary",
-        "conferenceTitle": "2007 11th IEEE International Symposium on Wearable Computers",
-        "data": "11-13 Oct. 2007",
-        "authors": [],
-        "DOI": "10.1109/ISWC.2007.4373760",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "The Effect of Feedforward Training to Improve Inspector Performance",
-        "conferenceTitle": "2007 IEEE International Conference on Industrial Engineering and Engineering Management",
-        "data": "2-4 Dec. 2007",
-        "authors": [
-            "V. Laemlaksakul",
-            "S. Kaewkuekool"
-        ],
-        "DOI": "10.1109/IEEM.2007.4419224",
-        "citation": 0,
-        "abstract": "The purpose of this research was to study the inspector performance using feedforward training with computer visual inspection training program. Visual tasks simulated in this program were using Thai characters. Defects were si and n of Thai characters and also the background characters were a, a, n, i, a, i, and u. The density of background was filled about 30% of all areas of each screen. Nine subjects were randomly chosen and passed efficiency test of eyes to perform visual task. Training steps were divided in three levels to provide basic information, percent of defects, and location of defects, respectively. The results revealed that inspector performances were improved on mean search times significantly difference at the level of 0.01 and accuracy of defect detected significantly difference at the level of 0.05. This could be concluded that feedforward training affected inspector performance."
-    },
-    {
-        "title": "Notice of Removal: Stepping optimal controlling of a rucklidge-like chaotic system",
-        "conferenceTitle": "2007 8th International Conference on Electronic Measurement and Instruments",
-        "data": "16-18 Aug. 2007",
-        "authors": [
-            "Tang Binhua",
-            "Shen Bairong",
-            "Li He",
-            "Yang Zhi"
-        ],
-        "DOI": "10.1109/ICEMI.2007.4350869",
-        "citation": 0,
-        "abstract": "Removed."
-    },
-    {
-        "title": "7th International conference on Intelligent Transport Systems Telecommunications",
-        "conferenceTitle": "2007 7th International Conference on ITS Telecommunications",
-        "data": "6-8 June 2007",
-        "authors": [],
-        "DOI": "10.1109/ITST.2007.4295809",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Mircea Mihaescu Director, Technology and Innovation, CIO Office IBM",
-        "conferenceTitle": "11th IEEE International Enterprise Distributed Object Computing Conference (EDOC 2007)",
-        "data": "15-19 Oct. 2007",
-        "authors": [
-            "Mircea Mihaescu"
-        ],
-        "DOI": "10.1109/EDOC.2007.59",
-        "citation": 0,
-        "abstract": "Mr. Mihaescu, Director, WebAhead Development and Security Innovations, has 25 years of experience in information technology systems. Mircea is responsible for the development and adoption of social networking technologies used by the IBM community."
-    },
-    {
-        "title": "Contributor Listings",
-        "conferenceTitle": "2007 Virtual Rehabilitation",
-        "data": "27-29 Sept. 2007",
-        "authors": [],
-        "DOI": "10.1109/ICVR.2007.4362163",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Analysis of the propagation over the rough sea surface with the parabolic wave equation",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Jianyan Guo",
-            "Hongyan Jiang",
-            "Yunliang Long"
-        ],
-        "DOI": "10.1109/APS.2007.4396356",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "Data Mining in the Real World: Lessons Learned from the Mining Pit",
-        "conferenceTitle": "2007 29th International Conference on Information Technology Interfaces",
-        "data": "25-28 June 2007",
-        "authors": [
-            "Richard D. De Veaux"
-        ],
-        "DOI": "10.1109/ITI.2007.4283735",
-        "citation": 0,
-        "abstract": "Summary form only given. Data mining has been defined as a process that uses a variety of data analysis and modeling techniques to discover patterns and relationships in data that may be used to make accurate predictions and decision."
-    },
-    {
-        "title": "K-1 The RF-CMOS story: From university research to industry mainstream",
-        "conferenceTitle": "2007 7th International Conference on ASIC",
-        "data": "22-25 Oct. 2007",
-        "authors": [
-            "Asad A. Abidi"
-        ],
-        "DOI": "10.1109/ICASIC.2007.4415544",
-        "citation": 0,
-        "abstract": "Little did we know in 1994 that the early stirrings of interest to push easily-accessible CMOS multiproject chips to RF applications would lead, ten years later, to a new way of realizing RF microelectronics. Today RF-CMOS is the mainstream, high volume production technology for single-chip radios in cellphones and wireless LANs. It is proving to be more than a cheap replacement for BiCMOS: the intimate merging of RF, analog and digital, and some unique features of CMOS such as analog discrete-time signal processing is giving rise to entirely new paradigms such as software-defined radio. This talk will give an overview of the development of RF-CMOS from its beginnings to date, and a glance on the possibilities ahead."
-    },
-    {
-        "title": "Notice of Retraction: Analysis on China's Economic Growth and Inflation During 1953-2004",
-        "conferenceTitle": "2007 International Conference on Wireless Communications, Networking and Mobile Computing",
-        "data": "21-25 Sept. 2007",
-        "authors": [
-            "Hu-Qin Yan",
-            "Zhen-Yu Liu"
-        ],
-        "DOI": "10.1109/WICOM.2007.1021",
-        "citation": 0,
-        "abstract": "Retracted."
-    },
-    {
-        "title": "Triangular patch loaded monopole antenna for multiband operation",
-        "conferenceTitle": "2007 IEEE Antennas and Propagation Society International Symposium",
-        "data": "9-15 June 2007",
-        "authors": [
-            "Gijo Augustin",
-            "Shynu S.V.",
-            "P. Mohanan",
-            "C.K. Aanandan",
-            "K. Vasudevan"
-        ],
-        "DOI": "10.1109/APS.2007.4396181",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "BWIA ‘07 Workshop",
-        "conferenceTitle": "2007 Second International Conference on Access Networks & Workshops",
-        "data": "22-24 Aug. 2007",
-        "authors": [],
-        "DOI": "10.1109/ACCESSNETS.2007.4447131",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 7th International Symposium on Electromagnetic Compatibility and Electromagnetic Ecology",
-        "data": "26-29 June 2007",
-        "authors": [],
-        "DOI": "10.1109/EMCECO.2007.4371651",
-        "citation": 0,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "Simulation of attitude control of 3-axis stabilised satellite using thruster system",
-        "conferenceTitle": "2007 IEEE/AIAA 26th Digital Avionics Systems Conference",
-        "data": "21-25 Oct. 2007",
-        "authors": [
-            "Mahesh Kumar Sampath"
-        ],
-        "DOI": "10.1109/DASC.2007.4391944",
-        "citation": 0,
-        "abstract": ""
-    },
-    {
-        "title": "[PDF Not Yet Available In IEEE Xplore]",
-        "conferenceTitle": "2007 10th IFIP/IEEE International Symposium on Integrated Network Management",
-        "data": "21-25 May 2007",
-        "authors": [],
-        "DOI": "10.1109/INM.2007.374745",
-        "citation": 0,
-        "abstract": "The document that should appear here is not currently available."
-    },
-    {
-        "title": "The importance of forums to the ILC",
-        "conferenceTitle": "2007 IEEE Particle Accelerator Conference (PAC)",
-        "data": "25-29 June 2007",
-        "authors": [
-            "C. S. Mishra"
-        ],
-        "DOI": "10.1109/PAC.2007.4440360",
-        "citation": 0,
-        "abstract": "Abstract to be provided by the speaker."
+        "abstract": "Provides a listing of current committee members and society officers."
     }
 ]
