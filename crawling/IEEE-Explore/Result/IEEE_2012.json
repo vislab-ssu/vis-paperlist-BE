@@ -124,5 +124,154 @@
         "DOI": "10.1109/TVCG.2011.23",
         "citation": 18,
         "abstract": "We introduce a modified dendrogram (MD) (with subtrees to represent clusters) and display it in 2D for multidimensional transfer function design. Such a transfer function for direct volume rendering employs a multidimensional space, termed attribute space. The MD reveals the hierarchical structure information of the attribute space. The user can design a transfer function in an intuitive and informative manner using the MD user interface in 2D instead of multidimensional space, where it is hard to ascertain the relationship of the space. In addition, we provide the capability to interactively modify the granularity of the MD. The coarse-grained MD primarily shows the global information of the attribute space while the fine-grained MD reveals the finer details, and the separation ability of the attribute space is completely preserved in the finest granularity. With this so called multigrained method, the user can efficiently create a transfer function using the coarse-grained MD, and then fine tune it with the fine-grained MDs. Our method is independent on the type of the attributes and supports arbitrary-dimension attribute space."
+    },
+    {
+        "title": "Raytracing Dynamic Scenes on the GPU Using Grids",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Sashidhar Guntury",
+            "P. J. Narayanan"
+        ],
+        "DOI": "10.1109/TVCG.2011.46",
+        "citation": 11,
+        "abstract": "Raytracing dynamic scenes at interactive rates have received a lot of attention recently. We present a few strategies for high performance raytracing on a commodity GPU. The construction of grids needs sorting, which is fast on today's GPUs. The grid is thus the acceleration structure of choice for dynamic scenes as per-frame rebuilding is required. We advocate the use of appropriate data structures for each stage of raytracing, resulting in multiple structure building per frame. A perspective grid built for the camera achieves perfect coherence for primary rays. A perspective grid built with respect to each light source provides the best performance for shadow rays. Spherical grids handle lights positioned inside the model space and handle spotlights. Uniform grids are best for reflection and refraction rays with little coherence. We propose an Enforced Coherence method to bring coherence to them by rearranging the ray to voxel mapping using sorting. This gives the best performance on GPUs with only user-managed caches. We also propose a simple, Independent Voxel Walk method, which performs best by taking advantage of the L1 and L2 caches on recent GPUs. We achieve over 10 fps of total rendering on the Conference model with one light source and one reflection bounce, while rebuilding the data structure for each stage. Ideas presented here are likely to give high performance on the future GPUs as well as other manycore architectures."
+    },
+    {
+        "title": "Drawing-Based Procedural Modeling of Chinese Architectures",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Fei Hou",
+            "Yue Qi",
+            "Hong Qin"
+        ],
+        "DOI": "10.1109/TVCG.2011.22",
+        "citation": 11,
+        "abstract": "This paper presents a novel modeling framework to build 3D models of Chinese architectures from elevation drawing. Our algorithm integrates the capability of automatic drawing recognition with powerful procedural modeling to extract production rules from elevation drawing. First, different from the previous symbol-based floor plan recognition, based on the novel concept of repetitive pattern trees, small horizontal repetitive regions of the elevation drawing are clustered in a bottom-up manner to form architectural components with maximum repetition, which collectively serve as building blocks for 3D model generation. Second, to discover the global architectural structure and its components' interdependencies, the components are structured into a shape tree in a top-down subdivision manner and recognized hierarchically at each level of the shape tree based on Markov Random Fields (MRFs). Third, shape grammar rules can be derived to construct 3D semantic model and its possible variations with the help of a 3D component repository. The salient contribution lies in the novel integration of procedural modeling with elevation drawing, with a unique application to Chinese architectures."
+    },
+    {
+        "title": "Video Painting Based on a Stabilized Time-Varying Flow Field",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Jong-Chul Yoon",
+            "In-Kwon Lee",
+            "Henry Kang"
+        ],
+        "DOI": "10.1109/TVCG.2011.47",
+        "citation": 7,
+        "abstract": "We present a method for constructing 3D feature flow from video and its application to video stylization. Our method extracts smoothly aligned 3D vectors that describe the smallest variation of colors within a spatiotemporal video cube, and thus effectively preserves both spatial and temporal coherence in a relatively inexpensive manner. As an application of this flow field we present a particle-based video stylization technique to rerender the video in a feature enhancing, painterly style. Our method consists of per-pixel operations and is suitable for GPU implementation, which enables real-time video stylization."
+    },
+    {
+        "title": "The Topological Effects of Smoothing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Sohail Shafii",
+            "Scott E. Dillard",
+            "Mario Hlawitschka",
+            "Bernd Hamann"
+        ],
+        "DOI": "10.1109/TVCG.2011.74",
+        "citation": 4,
+        "abstract": "Scientific data sets generated by numerical simulations or experimental measurements often contain a substantial amount of noise. Smoothing the data removes noise but can have potentially drastic effects on the qualitative nature of the data, thereby influencing its characterization and visualization via topological analysis, for example. We propose a method to track topological changes throughout the smoothing process. As a preprocessing step, we oversmooth the data and collect a list of topological events, specifically the creation and destruction of extremal points. During rendering, it is possible to select the number of topological events by interactively manipulating a merging parameter. The result that a specific amount of smoothing has on the topology of the data is illustrated using a topology-derived transfer function that relates region connectivity of the smoothed data to the original regions of the unsmoothed data. This approach enables visual as well as quantitative analysis of the topological effects of smoothing."
+    },
+    {
+        "title": "Call for Participation: IEEE Virtual Reality 2012",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.3",
+        "citation": 0,
+        "abstract": "Prospective authors are requested to submit new, unpublished manuscripts for inclusion in the upcoming event described in this call for papers."
+    },
+    {
+        "title": "Editor's Note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Ming C. Lin"
+        ],
+        "DOI": "10.1109/TVCG.2012.9",
+        "citation": 1,
+        "abstract": ""
+    },
+    {
+        "title": "Guest Editor's Introduction: Special Section on the Eurographics Symposium on Parallel Graphics and Visualization (EGPGV)",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "James Ahrens",
+            "Kurt Debattista"
+        ],
+        "DOI": "10.1109/TVCG.2012.10",
+        "citation": 0,
+        "abstract": "The articles in this special section contain selected papers from the Eurographics Symposium on Parallel Graphics and Visualization (EGPGV)."
+    },
+    {
+        "title": "[Cover 2]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.5",
+        "citation": 0,
+        "abstract": "Provides a listing of current society officers."
+    },
+    {
+        "title": "Editor's Note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Ming C. Lin"
+        ],
+        "DOI": "10.1109/TVCG.2012.8",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "[Cover 4]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.7",
+        "citation": 0,
+        "abstract": "Provides a listing of current society officers."
+    },
+    {
+        "title": "TVCG Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.6",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
+    },
+    {
+        "title": "2011 Reviewers List",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.2",
+        "citation": 0,
+        "abstract": "The publication offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "[Front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.4",
+        "citation": 0,
+        "abstract": "Presents the front cover/table of contents for this issue of the periodical."
+    },
+    {
+        "title": "2011 Annual Index",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.1",
+        "citation": 0,
+        "abstract": "This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the coauthors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under the primary entry in the Author Index."
     }
 ]

@@ -1451,5 +1451,458 @@
         "DOI": "10.1109/TVCG.2018.2865042",
         "citation": 11,
         "abstract": "Eye-tracking has become an invaluable tool for the analysis of working practices in many technological fields of activity. Typically studies focus on short tasks and use static expected areas of interest (AoI) in the display to explore subjects' behaviour, making the analyst's task quite straightforward. In long-duration studies, where the observations may last several hours over a complete work session, the AoIs may change over time in response to altering workload, emergencies or other variables making the analysis more difficult. This work puts forward a novel method to automatically identify spatial AoIs changing over time through a combination of clustering and cluster merging in the temporal domain. A visual analysis system based on the proposed methods is also presented. Finally, we illustrate our approach within the domain of air traffic control, a complex task sensitive to prevailing conditions over long durations, though it is applicable to other domains such as monitoring of complex systems."
+    },
+    {
+        "title": "Gaia Sky: Navigating the Gaia Catalog",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Antoni Sagristà",
+            "Stefan Jordan",
+            "Thomas Müller",
+            "Filip Sadlo"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864508",
+        "citation": 10,
+        "abstract": "In this paper, we present Gaia Sky, a free and open-source multiplatform 3D Universe system, developed since 2014 in the Data Processing and Analysis Consortium framework of ESA's Gaia mission. Gaia's data release 2 represents the largest catalog of the stars of our Galaxy, comprising 1.3 billion star positions, with parallaxes, proper motions, magnitudes, and colors. In this mission, Gaia Sky is the central tool for off-the-shelf visualization of these data, and for aiding production of outreach material. With its capabilities to effectively handle these data, to enable seamless navigation along the high dynamic range of distances, and at the same time to provide advanced visualization techniques including relativistic aberration and gravitational wave effects, currently no actively maintained cross-platform, modern, and open alternative exists."
+    },
+    {
+        "title": "Interactive Visualization of RNA and DNA Structures",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Norbert Lindow",
+            "Daniel Baum",
+            "Morgan Leborgne",
+            "Hans-Christian Hege"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864507",
+        "citation": 10,
+        "abstract": "The analysis and visualization of nucleic acids (RNA and DNA) is playing an increasingly important role due to their fundamental importance for all forms of life and the growing number of known 3D structures of such molecules. The great complexity of these structures, in particular, those of RNA, demands interactive visualization to get deeper insights into the relationship between the 2D secondary structure motifs and their 3D tertiary structures. Over the last decades, a lot of research in molecular visualization has focused on the visual exploration of protein structures while nucleic acids have only been marginally addressed. In contrast to proteins, which are composed of amino acids, the ingredients of nucleic acids are nucleotides. They form structuring patterns that differ from those of proteins and, hence, also require different visualization and exploration techniques. In order to support interactive exploration of nucleic acids, the computation of secondary structure motifs as well as their visualization in 2D and 3D must be fast. Therefore, in this paper, we focus on the performance of both the computation and visualization of nucleic acid structure. We present a ray casting-based visualization of RNA and DNA secondary and tertiary structures, which enables for the first time real-time visualization of even large molecular dynamics trajectories. Furthermore, we provide a detailed description of all important aspects to visualize nucleic acid secondary and tertiary structures. With this, we close an important gap in molecular visualization."
+    },
+    {
+        "title": "Robust and Fast Extraction of 3D Symmetric Tensor Field Topology",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Lawrence Roy",
+            "Prashant Kumar",
+            "Yue Zhang",
+            "Eugene Zhang"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864768",
+        "citation": 9,
+        "abstract": "3D symmetric tensor fields appear in many science and engineering fields, and topology-driven analysis is important in many of these application domains, such as solid mechanics and fluid dynamics. Degenerate curves and neutral surfaces are important topological features in 3D symmetric tensor fields. Existing methods to extract degenerate curves and neutral surfaces often miss parts of the curves and surfaces, respectively. Moreover, these methods are computationally expensive due to the lack of knowledge of structures of degenerate curves and neutral surfaces. In this paper, we provide theoretical analysis on the geometric and topological structures of degenerate curves and neutral surfaces of 3D linear tensor fields. These structures lead to parameterizations for degenerate curves and neutral surfaces that can not only provide more robust extraction of these features but also incur less computational cost. We demonstrate the benefits of our approach by applying our degenerate curve and neutral surface detection techniques to solid mechanics simulation data sets."
+    },
+    {
+        "title": "Objective Vortex Corelines of Finite-sized Objects in Fluid Flows",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Tobias Günther",
+            "Holger Theisel"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864828",
+        "citation": 9,
+        "abstract": "Vortices are one of the most-frequently studied phenomena in fluid flows. The center of the rotating motion is called the vortex coreline and its successful detection strongly depends on the choice of the reference frame. The optimal frame moves with the center of the vortex, which incidentally makes the observed fluid flow steady and thus standard vortex coreline extractors such as Sujudi-Haimes become applicable. Recently, an objective optimization framework was proposed that determines a near-steady reference frame for tracer particles. In this paper, we extend this technique to the detection of vortex corelines of inertial particles. An inertial particle is a finite-sized object that is carried by a fluid flow. In contrast to the usual tracer particles, they do not move tangentially with the flow, since they are subject to gravity and exhibit mass-dependent inertia. Their particle state is determined by their position and own velocity, which makes the search for the optimal frame a high-dimensional problem. We demonstrate in this paper that the objective detection of an inertial vortex coreline can be reduced in 2D to a critical point search in 2D. For 3D flows, however, the vortex coreline criterion remains a parallel vectors condition in 6D. To detect the vortex corelines we propose a recursive subdivision approach that is tailored to the underlying structure of the 6D vectors. The resulting algorithm is objective, and we demonstrate the vortex coreline extraction in a number of 2D and 3D vector fields."
+    },
+    {
+        "title": "An Interactive Framework for Visualization of Weather Forecast Ensembles",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Bo Ma",
+            "Alireza Entezari"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864815",
+        "citation": 9,
+        "abstract": "Numerical Weather Prediction (NWP) ensembles are commonly used to assess the uncertainty and confidence in weather forecasts. Spaghetti plots are conventional tools for meteorologists to directly examine the uncertainty exhibited by ensembles, where they simultaneously visualize isocontours of all ensemble members. To avoid visual clutter in practical usages, one needs to select a small number of informative isovalues for visual analysis. Moreover, due to the complex topology and variation of ensemble isocontours, it is often a challenging task to interpret the spaghetti plot for even a single isovalue in large ensembles. In this paper, we propose an interactive framework for uncertainty visualization of weather forecast ensembles that significantly improves and expands the utility of spaghetti plots in ensemble analysis. Complementary to state-of-the-art methods, our approach provides a complete framework for visual exploration of ensemble isocontours, including isovalue selection, interactive isocontour variability exploration, and interactive sub-region selection and re-analysis. Our framework is built upon the high-density clustering paradigm, where the mode structure of the density function is represented as a hierarchy of nested subsets of the data. We generalize the high-density clustering for isocontours and propose a bandwidth selection method for estimating the density function of ensemble isocontours. We present novel visualizations based on high-density clustering results, called the mode plot and the simplified spaghetti plot. The proposed mode plot visually encodes the structure provided by the high-density clustering result and summarizes the distribution of ensemble isocontours. It also enables the selection of subsets of interesting isocontours, which are interactively highlighted in a linked spaghetti plot for providing spatial context. To provide an interpretable overview of the positional variability of isocontours, our system allows for selection of informative isovalues from the simplified spaghetti plot. Due to the spatial variability of ensemble isocontours, the system allows for interactive selection and focus on sub-regions for local uncertainty and clustering re-analysis. We examine a number of ensemble datasets to establish the utility of our approach and discuss its advantages over state-of-the-art visual analysis tools for ensemble data."
+    },
+    {
+        "title": "Culling for Extreme-Scale Segmentation Volumes: A Hybrid Deterministic and Probabilistic Approach",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Johanna Beyer",
+            "Haneen Mohammed",
+            "Marco Agus",
+            "Ali K. Al-Awami",
+            "Hanspeter Pfister",
+            "Markus Hadwiger"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864847",
+        "citation": 9,
+        "abstract": "With the rapid increase in raw volume data sizes, such as terabyte-sized microscopy volumes, the corresponding segmentation label volumes have become extremely large as well. We focus on integer label data, whose efficient representation in memory, as well as fast random data access, pose an even greater challenge than the raw image data. Often, it is crucial to be able to rapidly identify which segments are located where, whether for empty space skipping for fast rendering, or for spatial proximity queries. We refer to this process as culling. In order to enable efficient culling of millions of labeled segments, we present a novel hybrid approach that combines deterministic and probabilistic representations of label data in a data-adaptive hierarchical data structure that we call the label list tree. In each node, we adaptively encode label data using either a probabilistic constant-time access representation for fast conservative culling, or a deterministic logarithmic-time access representation for exact queries. We choose the best data structures for representing the labels of each spatial region while building the label list tree. At run time, we further employ a novel query-adaptive culling strategy. While filtering a query down the tree, we prune it successively, and in each node adaptively select the representation that is best suited for evaluating the pruned query, depending on its size. We show an analysis of the efficiency of our approach with several large data sets from connectomics, including a brain scan with more than 13 million labeled segments, and compare our method to conventional culling approaches. Our approach achieves significant reductions in storage size as well as faster query times."
+    },
+    {
+        "title": "Interactive obstruction-free lensing for volumetric data visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Michael Traoré",
+            "Christophe Hurter",
+            "Alexandru Telea"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864690",
+        "citation": 8,
+        "abstract": "Occlusion is an issue in volumetric visualization as it prevents direct visualization of the region of interest. While many techniques such as transfer functions, volume segmentation or view distortion have been developed to address this, there is still room for improvement to better support the understanding of objects' vicinity. However, most existing Focus+Context fail to solve partial occlusion in datasets where the target and the occluder are very similar density-wise. For these reasons, we investigate a new technique which maintains the general structure of the investigated volumetric dataset while addressing occlusion issues. With our technique, the user interactively defines an area of interest where an occluded region or object is partially visible. Then our lens starts pushing at its border occluding objects, thus revealing hidden volumetric data. Next, the lens is modified with an extended field of view (fish-eye deformation) to better see the vicinity of the selected region. Finally, the user can freely explore the surroundings of the area under investigation within the lens. To provide real-time exploration, we implemented our lens using a GPU accelerated ray-casting framework to handle ray deformations, local lighting, and local viewpoint manipulation. We illustrate our technique with five application scenarios in baggage inspection, 3D fluid flow visualization, chest radiology, air traffic planning, and DTI fiber exploration."
+    },
+    {
+        "title": "Visual Analysis of Aneurysm Data using Statistical Graphics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Monique Meuschke",
+            "Tobias Günther",
+            "Philipp Berg",
+            "Ralph Wickenhöfer",
+            "Bernhard Preim",
+            "Kai Lawonn"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864509",
+        "citation": 8,
+        "abstract": "This paper presents a framework to explore multi-field data of aneurysms occurring at intracranial and cardiac arteries by using statistical graphics. The rupture of an aneurysm is often a fatal scenario, whereas during treatment serious complications for the patient can occur. Whether an aneurysm ruptures or whether a treatment is successful depends on the interaction of different morphological such as wall deformation and thickness, and hemodynamic attributes like wall shear stress and pressure. Therefore, medical researchers are very interested in better understanding these relationships. However, the required analysis is a time-consuming process, where suspicious wall regions are difficult to detect due to the time-dependent behavior of the data. Our proposed visualization framework enables medical researchers to efficiently assess aneurysm risk and treatment options. This comprises a powerful set of views including 2D and 3D depictions of the aneurysm morphology as well as statistical plots of different scalar fields. Brushing and linking aids the user to identify interesting wall regions and to understand the influence of different attributes on the aneurysm's state. Moreover, a visual comparison of pre- and post-treatment as well as different treatment options is provided. Our analysis techniques are designed in collaboration with domain experts, e.g., physicians, and we provide details about the evaluation."
+    },
+    {
+        "title": "Visual Analysis of Spatia-temporal Relations of Pairwise Attributes in Unsteady Flow",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Marzieh Berenjkoub",
+            "Rodolfo Ostilla Monico",
+            "Robert S. Laramee",
+            "Guoning Chen"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864817",
+        "citation": 7,
+        "abstract": "Despite significant advances in the analysis and visualization of unsteady flow, the interpretation of it's behavior still remains a challenge. In this work, we focus on the linear correlation and non-linear dependency of different physical attributes of unsteady flows to aid their study from a new perspective. Specifically, we extend the existing spatial correlation quantification, i.e. the Local Correlation Coefficient (LCC), to the spatio-temporal domain to study the correlation of attribute-pairs from both the Eulerian and Lagrangian views. To study the dependency among attributes, which need not be linear, we extend and compute the mutual information (MI) among attributes over time. To help visualize and interpret the derived correlation and dependency among attributes associated with a particle, we encode the correlation and dependency values on individual pathlines. Finally, to utilize the correlation and MI computation results to identify regions with interesting flow behavior, we propose a segmentation strategy of the flow domain based on the ranking of the strength of the attributes relations. We have applied our correlation and dependency metrics to a number of 2D and 3D unsteady flows with varying spatio-temporal kernel sizes to demonstrate and assess their effectiveness."
+    },
+    {
+        "title": "Lessons Learned Developing a Visual Analytics Solution for Investigative Analysis of Scamming Activities",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Jay Koven",
+            "Cristian Felix",
+            "Hossein Siadati",
+            "Markus Jakobsson",
+            "Enrico Bertini"
+        ],
+        "DOI": "10.1109/TVCG.2018.2865023",
+        "citation": 7,
+        "abstract": "The forensic investigation of communication datasets which contain unstructured text, social network information, and metadata is a complex task that is becoming more important due to the immense amount of data being collected. Currently there are limited approaches that allow an investigator to explore the network, text and metadata in a unified manner. We developed Beagle as a forensic tool for email datasets that allows investigators to flexibly form complex queries in order to discover important information in email data. Beagle was successfully deployed at a security firm which had a large email dataset that was difficult to properly investigate. We discuss our experience developing Beagle as well as the lessons we learned applying visual analytic techniques to a difficult real-world problem."
+    },
+    {
+        "title": "Hexahedral Mesh Structure Visualization and Evaluation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Kaoji Xu",
+            "Guoning Chen"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864827",
+        "citation": 7,
+        "abstract": "Understanding hexahedral (hex-) mesh structures is important for a number of hex-mesh generation and optimization tasks. However, due to various configurations of the singularities in a valid pure hex-mesh, the structure (or base complex) of the mesh can be arbitrarily complex. In this work, we present a first and effective method to help meshing practitioners understand the possible configurations in a valid 3D base complex for the characterization of their complexity. In particular, we propose a strategy to decompose the complex hex-mesh structure into multi-level sub-structures so that they can be studied separately, from which we identify a small set of the sub-structures that can most efficiently represent the whole mesh structure. Furthermore, from this set of sub-structures, we attempt to define the first metric for the quantification of the complexity of hex-mesh structure. To aid the exploration of the extracted multi-level structure information, we devise a visual exploration system coupled with a matrix view to help alleviate the common challenge of 3D data exploration (e.g., clutter and occlusion). We have applied our tool and metric to a large number of hex-meshes generated with different approaches to reveal different characteristics of these methods in terms of the mesh structures they can produce. We also use our metric to assess the existing structure simplification techniques in terms of their effectiveness."
+    },
+    {
+        "title": "Deadeye: A Novel Preattentive Visualization Technique Based on Dichoptic Presentation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Andrey Krekhov",
+            "Jens Krüger"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864498",
+        "citation": 7,
+        "abstract": "Preattentive visual features such as hue or flickering can effectively draw attention to an object of interest – for instance, an important feature in a scientific visualization. These features appear to pop out and can be recognized by our visual system, independently from the number of distractors. Most cues do not take advantage of the fact that most humans have two eyes. In cases where binocular vision is applied, it is almost exclusively used to convey depth by exposing stereo pairs. We present Deadeye, a novel preattentive visualization technique based on presenting different stimuli to each eye. The target object is rendered for one eye only and is instantly detected by our visual system. In contrast to existing cues, Deadeye does not modify any visual properties of the target and, thus, is particularly suited for visualization applications. Our evaluation confirms that Deadeye is indeed perceived preattentively. We also explore a conjunction search based on our technique and show that, in contrast to 3D depth, the task cannot be processed in parallel."
+    },
+    {
+        "title": "A Declarative Grammar of Flexible Volume Visualization Pipelines",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Min Shih",
+            "Charles Rozhon",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864841",
+        "citation": 6,
+        "abstract": "This paper presents a declarative grammar for conveniently and effectively specifying advanced volume visualizations. Existing methods for creating volume visualizations either lack the flexibility to specify sophisticated visualizations or are difficult to use for those unfamiliar with volume rendering implementation and parameterization. Our design provides the ability to quickly create expressive visualizations without knowledge of the volume rendering implementation. It attempts to capture aspects of those difficult but powerful methods while remaining flexible and easy to use. As a proof of concept, our current implementation of the grammar allows users to combine multiple data variables in various ways and define transfer functions for diverse input data. The grammar also has the ability to describe advanced shading effects and create animations. We demonstrate the power and flexibility of our approach using multiple practical volume visualizations."
+    },
+    {
+        "title": "An Information-Theoretic Approach to the Cost-benefit Analysis of Visualization in Virtual Environments",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Min Chen",
+            "Kelly Gaither",
+            "Nigel W. John",
+            "Brian Mccann"
+        ],
+        "DOI": "10.1109/TVCG.2018.2865025",
+        "citation": 6,
+        "abstract": "Visualization and virtual environments (VEs) have been two interconnected parallel strands in visual computing for decades. Some VEs have been purposely developed for visualization applications, while many visualization applications are exemplary showcases in general-purpose VEs. Because of the development and operation costs of VEs, the majority of visualization applications in practice have yet to benefit from the capacity of VEs. In this paper, we examine this status quo from an information-theoretic perspective. Our objectives are to conduct cost-benefit analysis on typical VE systems (including augmented and mixed reality, theater-based systems, and large powerwalls), to explain why some visualization applications benefit more from VEs than others, and to sketch out pathways for the future development of visualization applications in VEs. We support our theoretical propositions and analysis using theories and discoveries in the literature of cognitive sciences and the practical evidence reported in the literatures of visualization and VEs."
+    },
+    {
+        "title": "Shape-preserving Star Coordinates",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Vladimir Molchanov",
+            "Lars Linsen"
+        ],
+        "DOI": "10.1109/TVCG.2018.2865118",
+        "citation": 5,
+        "abstract": "Dimensionality reduction is commonly applied to multidimensional data to reduce the complexity of their analysis. In visual analysis systems, projections embed multidimensional data into 2D or 3D spaces for graphical representation. To facilitate a robust and accurate analysis, essential characteristics of the multidimensional data shall be preserved when projecting. Orthographic star coordinates is a state-of-the-art linear projection method that avoids distortion of multidimensional clusters by restricting interactive exploration to orthographic projections. However, existing numerical methods for computing orthographic star coordinates have a number of limitations when putting them into practice. We overcome these limitations by proposing the novel concept of shape-preserving star coordinates where shape preservation is assured using a superset of orthographic projections. Our scheme is explicit, exact, simple, fast, parameter-free, and stable. To maintain a valid shape-preserving star-coordinates configuration during user interaction with one of the star-coordinates axes, we derive an algorithm that only requires us to modify the configuration of one additional compensatory axis. Different design goals can be targeted by using different strategies for selecting the compensatory axis. We propose and discuss four strategies including a strategy that approximates orthographic star coordinates very well and a data-driven strategy. We further present shape-preserving morphing strategies between two shape-preserving configurations, which can be adapted for the generation of data tours. We apply our concept to multiple data analysis scenarios to document its applicability and validate its desired properties."
+    },
+    {
+        "title": "InkPlanner: Supporting Prewriting via Intelligent Visual Diagramming",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Zhicong Lu",
+            "Mingming Fan",
+            "Yun Wang",
+            "Jian Zhao",
+            "Michelle Annett",
+            "Daniel Wigdor"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864887",
+        "citation": 5,
+        "abstract": "Prewriting is the process of generating and organizing ideas before drafting a document. Although often overlooked by novice writers and writing tool developers, prewriting is a critical process that improves the quality of a final document. To better understand current prewriting practices, we first conducted interviews with writing learners and experts. Based on the learners' needs and experts' recommendations, we then designed and developed InkPlanner, a novel pen and touch visualization tool that allows writers to utilize visual diagramming for ideation during prewriting. InkPlanner further allows writers to sort their ideas into a logical and sequential narrative by using a novel widget-NarrativeLine. Using a NarrativeLine, InkPlanner can automatically generate a document outline to guide later drafting exercises. Inkplanner is powered by machine-generated semantic and structural suggestions that are curated from various texts. To qualitatively review the tool and understand how writers use InkPlanner for prewriting, two writing experts were interviewed and a user study was conducted with university students. The results demonstrated that InkPlanner encouraged writers to generate more diverse ideas and also enabled them to think more strategically about how to organize their ideas for later drafting."
+    },
+    {
+        "title": "SmartCues: A Multitouch Query Approach for Details-on-Demand through Dynamically Computed Overlays",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Hariharan Subramonyam",
+            "Eytan Adar"
+        ],
+        "DOI": "10.1109/TVCG.2018.2865231",
+        "citation": 4,
+        "abstract": "Details-on-demand is a crucial feature in the visual information-seeking process but is often only implemented in highly constrained settings. The most common solution, hover queries (i.e., tooltips), are fast and expressive but are usually limited to single mark (e.g., a bar in a bar chart). `Queries' to retrieve details for more complex sets of objects (e.g., comparisons between pairs of elements, averages across multiple items, trend lines, etc.) are difficult for end-users to invoke explicitly. Further, the output of these queries require complex annotations and overlays which need to be displayed and dismissed on demand to avoid clutter. In this work we introduce SmartCues, a library to support details-on-demand through dynamically computed overlays. For end-users, SmartCues provides multitouch interactions to construct complex queries for a variety of details. For designers, SmartCues offers an interaction library that can be used out-of-the-box, and can be extended for new charts and detail types. We demonstrate how SmartCues can be implemented across a wide array of visualization types and, through a lab study, show that end users can effectively use SmartCues."
+    },
+    {
+        "title": "Embedded Merge & Split: Visual Adjustment of Data Grouping",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Ali Sarvghad",
+            "Bahador Saket",
+            "Alex Endert",
+            "Nadir Weibel"
+        ],
+        "DOI": "10.1109/TVCG.2018.2865075",
+        "citation": 4,
+        "abstract": "Data grouping is among the most frequently used operations in data visualization. It is the process through which relevant information is gathered, simplified, and expressed in summary form. Many popular visualization tools support automatic grouping of data (e.g., dividing up a numerical variable into bins). Although grouping plays a pivotal role in supporting data exploration, further adjustment and customization of auto-generated grouping criteria is non-trivial. Such adjustments are currently performed either programmatically or through menus and dialogues which require specific parameter adjustments over several steps. In response, we introduce Embedded Merge & Split (EMS), a new interaction technique for direct adjustment of data grouping criteria. We demonstrate how the EMS technique can be designed to directly manipulate width and position in bar charts and histograms, as a means for adjustment of data grouping criteria. We also offer a set of design guidelines for supporting EMS. Finally, we present the results of two user studies, providing initial evidence that EMS can significantly reduce interaction time compared to WIMP-based technique and was subjectively preferred by participants."
+    },
+    {
+        "title": "Visualization of Bubble Formation in Porous Media",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Hui Zhang",
+            "Steffen Frey",
+            "Holger Steeb",
+            "David Uribe",
+            "Thomas Ertl",
+            "Wenping Wang"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864506",
+        "citation": 3,
+        "abstract": "We present a visualization approach for the analysis of CO2 bubble-induced attenuation in porous rock formations. As a basis for this, we introduce customized techniques to extract CO2 bubbles and their surrounding porous structure from X-ray computed tomography data (XCT) measurements. To understand how the structure of porous media influences the occurrence and the shape of formed bubbles, we automatically classify and relate them in terms of morphology and geometric features, and further directly support searching for promising porous structures. To allow for the meaningful direct visual comparison of bubbles and their structures, we propose a customized registration technique considering the bubble shape as well as its points of contact with the porous media surface. With our quantitative extraction of geometric bubble features, we further support the analysis as well as the creation of a physical model. We demonstrate that our approach was successfully used to answer several research questions in the domain, and discuss its high practical relevance to identify critical seismic characteristics of fluid-saturated rock that govern its capability to store CO2."
+    },
+    {
+        "title": "Image-Based Aspect Ratio Selection",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Yunhai Wang",
+            "Zeyu Wang",
+            "Chi-Wing Fu",
+            "Hansjörq Schmauder",
+            "Oliver Deussen",
+            "Daniel Weiskopf"
+        ],
+        "DOI": "10.1109/TVCG.2018.2865266",
+        "citation": 2,
+        "abstract": "Selecting a good aspect ratio is crucial for effective 2D diagrams. There are several aspect ratio selection methods for function plots and line charts, but only few can handle general, discrete diagrams such as 2D scatter plots. However, these methods either lack a perceptual foundation or heavily rely on intermediate isoline representations, which depend on choosing the right isovalues and are time-consuming to compute. This paper introduces a general image-based approach for selecting aspect ratios for a wide variety of 2D diagrams, ranging from scatter plots and density function plots to line charts. Our approach is derived from Federer's co-area formula and a line integral representation that enable us to directly construct image-based versions of existing selection methods using density fields. In contrast to previous methods, our approach bypasses isoline computation, so it is faster to compute, while following the perceptual foundation to select aspect ratios. Furthermore, this approach is complemented by an anisotropic kernel density estimation to construct density fields, allowing us to more faithfully characterize data patterns, such as the subgroups in scatterplots or dense regions in time series. We demonstrate the effectiveness of our approach by quantitatively comparing to previous methods and revisiting a prior user study. Finally, we present extensions for ROI banking, multi-scale banking, and the application to image data."
+    },
+    {
+        "title": "Firefly: Virtual Illumination Drones for Interactive Visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Sergej Stoppel",
+            "Magnus Paulson Erga",
+            "Stefan Bruckner"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864656",
+        "citation": 1,
+        "abstract": "Light specification in three dimensional scenes is a complex problem and several approaches have been presented that aim to automate this process. However, there are many scenarios where a static light setup is insufficient, as the scene content and camera position may change. Simultaneous manual control over the camera and light position imposes a high cognitive load on the user. To address this challenge, we introduce a novel approach for automatic scene illumination with Fireflies. Fireflies are intelligent virtual light drones that illuminate the scene by traveling on a closed path. The Firefly path automatically adapts to changes in the scene based on an outcome-oriented energy function. To achieve interactive performance, we employ a parallel rendering pipeline for the light path evaluations. We provide a catalog of energy functions for various application scenarios and discuss the applicability of our method on several examples."
+    },
+    {
+        "title": "DT-MRI Streamsurfaces Revisited",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Michael Ankele",
+            "Thomas Schultz"
+        ],
+        "DOI": "10.1109/TVCG.2018.2864845",
+        "citation": 1,
+        "abstract": "DT-MRI streamsurfaces, defined as surfaces that are everywhere tangential to the major and medium eigenvector fields, have been proposed as a tool for visualizing regions of predominantly planar behavior in diffusion tensor MRI. Even though it has long been known that their construction assumes that the involved eigenvector fields satisfy an integrability condition, it has never been tested systematically whether this condition is met in real-world data. We introduce a suitable and efficiently computable test to the visualization literature, demonstrate that it can be used to distinguish integrable from nonintegrable configurations in simulations, and apply it to whole-brain datasets of 15 healthy subjects. We conclude that streamsurface integrability is approximately satisfied in a substantial part of the brain, but not everywhere, including some regions of planarity. As a consequence, algorithms for streamsurface extraction should explicitly test local integrability. Finally, we propose a novel patch-based approach to streamsurface visualization that reduces visual artifacts, and is shown to more fully sample the extent of streamsurfaces."
+    },
+    {
+        "title": "SciVis International Program Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2018.2874728",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "VIS Conference Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2018.2874596",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "InfoVis International Program Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2018.2874602",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC)",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2018.2874734",
+        "citation": 0,
+        "abstract": "Presents the mission and members of the IEEE Visualization and Graphics Technical Committee (VGTC)."
+    },
+    {
+        "title": "Message from the Editor-in-Chief",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Leila De Floriani"
+        ],
+        "DOI": "10.1109/TVCG.2018.2874732",
+        "citation": 0,
+        "abstract": "Presents the introductory editorial for this issue of the publication."
+    },
+    {
+        "title": "Preface",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Remco Chang",
+            "Tim Dwyer",
+            "Issei Fujishiro",
+            "Petra Isenberg",
+            "Steve Franconeri",
+            "Huamin Qu",
+            "Tobias Schreck",
+            "Daniel Weiskopf",
+            "Gunther H. Weber"
+        ],
+        "DOI": "10.1109/TVCG.2018.2874733",
+        "citation": 0,
+        "abstract": "This January 2019 issue of the IEEE Transactions on Visualization and Computer Graphics (TVCG) contains the proceedings of IEEE VIS 2018, held during 21-26 October 2018 at the Estrel Hotel & Congress Center in Berlin. With IEEE VIS 2018, the conference series is in its 29th year. IEEE VIS consists of three conferences, held concurrently: the IEEE Visual Analytics Science and Technology Conference (IEEE VAST), the IEEE Information Visualization Conference (IEEE InfoVis), and the IEEE Scientific Visualization Conference (IEEE SciVis). These three conferences are the premier venues for the visualization community to exchange the latest ideas and developments, attracting researchers and practitioners alike."
+    },
+    {
+        "title": "Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2018.2874606",
+        "citation": 0,
+        "abstract": "Presents a listing of the editorial board, board of governors, current staff, committee members, and/or society editors for this issue of the publication."
+    },
+    {
+        "title": "IEEE Transactions on Visualization and Computer Graphics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2018.2874561",
+        "citation": 0,
+        "abstract": "Presents a listing of the editorial board, board of governors, current staff, committee members, and/or society editors for this issue of the publication."
+    },
+    {
+        "title": "Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2018.2874600",
+        "citation": 0,
+        "abstract": "Presents a listing of the editorial board, board of governors, current staff, committee members, and/or society editors for this issue of the publication."
+    },
+    {
+        "title": "VAST Paper Reviewers",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2018.2874611",
+        "citation": 0,
+        "abstract": "The publication offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "The 2018 Visualization Career Award",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Sheelagh Carpendale"
+        ],
+        "DOI": "10.1109/TVCG.2018.2874730",
+        "citation": 0,
+        "abstract": "The 2018 Visualization Career Award goes to Sheelagh Carpendale for her work in interactive data exploration, in visualization in novel contexts such as wall and tabletop display, in rigorous qualitative evaluation methods, in bringing aesthetic considerations to the research community, and for her contributions in a wide range of application domains, including medicine, digital humanities, geography, the environment, personal data, and emergency management. The IEEE Visualization & Graphics Technical Committee (VGTC) is pleased to award Sheelagh Carpendale the 2018 Visualization Career Award."
+    },
+    {
+        "title": "Table of Content",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2018.2874686",
+        "citation": 0,
+        "abstract": "Presents the table of contents for this issue of this publication."
+    },
+    {
+        "title": "InfoVis Paper Reviewers",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2018.2874612",
+        "citation": 0,
+        "abstract": "The publication offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "SciVis Paper Reviewers",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2018.2874729",
+        "citation": 0,
+        "abstract": "The publication offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "The 2018 Visualization Technical Achievement Award",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2019",
+        "authors": [
+            "Anders Ynnerman"
+        ],
+        "DOI": "10.1109/TVCG.2018.2874731",
+        "citation": 0,
+        "abstract": "The 2018 Visualization Technical Achievement Award goes to Anders Ynnerman for his contributions to medical visualization resulting in the development of virtual autopsies, which have had extraordinary impact in both in medicine and in communication of science to the public. The IEEE Visualization & Graphics Technical Committee (VGTC) is pleased to award Anders Ynnerman the 2018 Visualization Technical Achievement Award."
     }
 ]

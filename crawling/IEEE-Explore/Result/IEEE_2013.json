@@ -129,5 +129,118 @@
         "DOI": "10.1109/TVCG.2012.105",
         "citation": 21,
         "abstract": "Currently, user centered transfer function design begins with the user interacting with a one or two-dimensional histogram of the volumetric attribute space. The attribute space is visualized as a function of the number of voxels, allowing the user to explore the data in terms of the attribute size/magnitude. However, such visualizations provide the user with no information on the relationship between various attribute spaces (e.g., density, temperature, pressure, x, y, z) within the multivariate data. In this work, we propose a modification to the attribute space visualization in which the user is no longer presented with the magnitude of the attribute; instead, the user is presented with an information metric detailing the relationship between attributes of the multivariate volumetric data. In this way, the user can guide their exploration based on the relationship between the attribute magnitude and user selected attribute information as opposed to being constrained by only visualizing the magnitude of the attribute. We refer to this modification to the traditional histogram widget as an abstract attribute space representation. Our system utilizes common one and two-dimensional histogram widgets where the bins of the abstract attribute space now correspond to an attribute relationship in terms of the mean, standard deviation, entropy, or skewness. In this manner, we exploit the relationships and correlations present in the underlying data with respect to the dimension(s) under examination. These relationships are often times key to insight and allow us to guide attribute discovery as opposed to automatic extraction schemes which try to calculate and extract distinct attributes a priori. In this way, our system aids in the knowledge discovery of the interaction of properties within volumetric data."
+    },
+    {
+        "title": "Efficient Boundary Extraction of BSP Solids Based on Clipping Operations",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Charlie C.L. Wang",
+            "Dinesh Manocha"
+        ],
+        "DOI": "10.1109/TVCG.2012.104",
+        "citation": 15,
+        "abstract": "We present an efficient algorithm to extract the manifold surface that approximates the boundary of a solid represented by a Binary Space Partition (BSP) tree. Our polygonization algorithm repeatedly performs clipping operations on volumetric cells that correspond to a spatial convex partition and computes the boundary by traversing the connected cells. We use point-based representations along with finite-precision arithmetic to improve the efficiency and generate the B-rep approximation of a BSP solid. The core of our polygonization method is a novel clipping algorithm that uses a set of logical operations to make it resistant to degeneracies resulting from limited precision of floating-point arithmetic. The overall BSP to B-rep conversion algorithm can accurately generate boundaries with sharp and small features, and is faster than prior methods. At the end of this paper, we use this algorithm for a few geometric processing applications including Boolean operations, model repair, and mesh reconstruction."
+    },
+    {
+        "title": "Admissible Diffusion Wavelets and Their Applications in Space-Frequency Processing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Tingbo Hou",
+            "Hong Qin"
+        ],
+        "DOI": "10.1109/TVCG.2012.111",
+        "citation": 13,
+        "abstract": "As signal processing tools, diffusion wavelets and biorthogonal diffusion wavelets have been propelled by recent research in mathematics. They employ diffusion as a smoothing and scaling process to empower multiscale analysis. However, their applications in graphics and visualization are overshadowed by nonadmissible wavelets and their expensive computation. In this paper, our motivation is to broaden the application scope to space-frequency processing of shape geometry and scalar fields. We propose the admissible diffusion wavelets (ADW) on meshed surfaces and point clouds. The ADW are constructed in a bottom-up manner that starts from a local operator in a high frequency, and dilates by its dyadic powers to low frequencies. By relieving the orthogonality and enforcing normalization, the wavelets are locally supported and admissible, hence facilitating data analysis and geometry processing. We define the novel rapid reconstruction, which recovers the signal from multiple bands of high frequencies and a low-frequency base in full resolution. It enables operations localized in both space and frequency by manipulating wavelet coefficients through space-frequency filters. This paper aims to build a common theoretic foundation for a host of applications, including saliency visualization, multiscale feature extraction, spectral geometry processing, etc."
+    },
+    {
+        "title": "Lighting System for Visual Perception Enhancement in Volume Rendering",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Lei Wang",
+            "Arie E. Kaufman"
+        ],
+        "DOI": "10.1109/TVCG.2012.91",
+        "citation": 12,
+        "abstract": "We introduce a lighting system that enhances the visual cues in a rendered image for the perception of 3D volumetric objects. We divide the lighting effects into global and local effects, and deploy three types of directional lights: the key light and accessory lights (fill and detail lights). The key light provides both lighting effects and carries the visual cues for the perception of local and global shapes and depth. The cues for local shapes are conveyed by gradient; those for global shapes are carried by shadows; and those for depth are provided by shadows and translucent objects. Fill lights produce global effects to increase the perceptibility. Detail lights generate local effects to improve the cues for local shapes. Our method quantifies the perception and uses an exhaustive search to set the lights. It configures accessory lights with the consideration of preserving the global impression conveyed by the key light. It ensures the feeling of smooth light movements in animations. With simplification, it achieves interactive frame rates and produces results that are visually indistinguishable from results using the nonsimplified algorithm. The major contributions of this paper are our lighting system, perception measurement and lighting design algorithm with our indistinguishable simplification."
+    },
+    {
+        "title": "Image-Based Remodeling",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Alex Colburn",
+            "Aseem Agarwala",
+            "Aaron Hertzmann",
+            "Brian Curless",
+            "Michael F. Cohen"
+        ],
+        "DOI": "10.1109/TVCG.2012.95",
+        "citation": 11,
+        "abstract": "Imagining what a proposed home remodel might look like without actually performing it is challenging. We present an image-based remodeling methodology that allows real-time photorealistic visualization during both the modeling and remodeling process of a home interior. Large-scale edits, like removing a wall or enlarging a window, are performed easily and in real time, with realistic results. Our interface supports the creation of concise, parameterized, and constrained geometry, as well as remodeling directly from within the photographs. Real-time texturing of modified geometry is made possible by precomputing view-dependent textures for all faces that are potentially visible to each original camera viewpoint, blending multiple viewpoints and hole-filling when necessary. The resulting textures are stored and accessed efficiently enabling intuitive real-time realistic visualization, modeling, and editing of the building interior."
+    },
+    {
+        "title": "Fast Sparse Level Sets on Graphics Hardware",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Andrei C. Jalba",
+            "Wladimir J. van der Laan",
+            "Jos B.T.M. Roerdink"
+        ],
+        "DOI": "10.1109/TVCG.2012.69",
+        "citation": 9,
+        "abstract": "The level-set method is one of the most popular techniques for capturing and tracking deformable interfaces. Although level sets have demonstrated great potential in visualization and computer graphics applications, such as surface editing and physically based modeling, their use for interactive simulations has been limited due to the high computational demands involved. In this paper, we address this computational challenge by leveraging the increased computing power of graphics processors, to achieve fast simulations based on level sets. Our efficient, sparse GPU level-set method is substantially faster than other state-of-the-art, parallel approaches on both CPU and GPU hardware. We further investigate its performance through a method for surface reconstruction, based on GPU level sets. Our novel multiresolution method for surface reconstruction from unorganized point clouds compares favorably with recent, existing techniques and other parallel implementations. Finally, we point out that both level-set computations and rendering of level-set surfaces can be performed at interactive rates, even on large volumetric grids. Therefore, many applications based on level sets can benefit from our sparse level-set method."
+    },
+    {
+        "title": "Editor's note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Ming C. Lin"
+        ],
+        "DOI": "10.1109/TVCG.2013.2",
+        "citation": 1,
+        "abstract": "THE IEEE Computer Society's policy limits the terms of the members of its Editorial Board. This allows new people and expertise to come in and benefi ts the growth and vitality of the journal. The success of the journal relies on the quality of the submissions and reviews, and the work of the associate editors. The dedication of associate editors is essential to the continuing growth of the journal. On behalf of the IEEE Computer Society and IEEE Transactions on Visualization and Computer Graphics (TVCG) Editorial Board, the Editor-in-Chief (EiC) would like to express our appreciation and gratitude to the retiring Associate Editors: Kavita Bala, Gerik Scheuermann, and Wenping Wang. It is the EiC's pleasure to introduce Doug Bowman and Alla Sheffer, who have recently joined the TVCG Editorial Board as Associate Editors. Biographical sketches listing their accomplishments and areas of expertise are provided. The TVCG Editorial Board is pleased to welcome these outstanding researchers to their new role."
+    },
+    {
+        "title": "Editor's Note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Ming C. Lin"
+        ],
+        "DOI": "10.1109/TVCG.2013.3",
+        "citation": 0,
+        "abstract": "The journal continues to be in an excellent state. For the fi rst time, the entire proceedings of IEEE VR 2012 long papers became a special issue of TVCG (April 2012 issue). At the start of October 2012, TVCG had received more than 220 regular submissions, slightly fewer than last year at the same time, but more than years prior to 2011. This year, we also observed an excellent number of 95 and 437 submissions, respectively, to the IEEE VR Conference issue and the VisWeek Conference issue, which contains the Proceedings of the IEEE Visualization and Information Visualization 2011 Conferences, as well as the 10 best papers from the IEEE Conference on Visual Analytics Science and Technology (VAST). We are expecting a total of more than 800 submissions to TVCG by the end of 2012. A total of 145 articles were published in the fi rst 10 regular issues with 1,912 pages, and the VR and VisWeek special issues containing 15 and 96 conference papers, respectively. All submissions in both special issues went through a rigorous two-round journalquality review process. Practically all the 2011 papers have also been decided. From the 326 regular submissions (including 28 extended versions of Best Papers from several top venues in graphics and visualization), 70 regular papers and all 28 special section papers were eventually accepted; 93 out of 366 conference submissions were published in the VisWeek special issue. The acceptance rate is about 23 percent for the regular papers and 25 percent for the papers submitted to the VisWeek conference issue. TVCG continues to offer authors a remarkably effi cient processing of submitted manuscripts: The average time from submission to fi rst decision is less than three months and the average time from submission to publication as a preprint in the CSDL is less than seven months. With its 2011 impact factor of 2.22, TVCG remains clearly as the top journal in visualization and computer graphics overall. During 2012, the authors of TVCG regular papers were invited to give an oral presentation of their recent work at TVCG’s partner conferences. A total of 35 TVCG papers were presented at the IEEE Virtual Reality Conference, ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Pacifi c Graphics, and IEEE VisWeek 2012. Started in 2011, this new arrangement provides a unique opportunity for the audience of these conferences to keep abreast of high-quality research featured in TVCG, while encouraging more TVCG authors to attend these conferences. Both the TVCG authors and the conference attendees have been extremely positive about this new initiative and we plan to continue this conference-journal parternship in 2013."
+    },
+    {
+        "title": "2012 TVCG Reviewers List",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2013.1",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "2012 TVCG Annual Index",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2013.5",
+        "citation": 0,
+        "abstract": "This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the co-authors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under the primary entry in the Author Index."
+    },
+    {
+        "title": "IEEE Open Access Publishing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2013.4",
+        "citation": 0,
+        "abstract": "Advertisement: This publication offers open access options for authors. IEEE open access Publishing."
     }
 ]

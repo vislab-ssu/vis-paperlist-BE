@@ -147,5 +147,61 @@
         "DOI": "10.1109/TVCG.2013.19",
         "citation": 8,
         "abstract": "We present a GPU friendly, Eulerian, free surface fluid simulation method that conserves mass locally and globally without the use of Lagrangian components. Local mass conservation prevents small-scale details of the free surface from disappearing, a problem that plagues many previous approaches, while global mass conservation ensures that the total volume of the liquid does not decrease over time. Our method handles moving solid boundaries as well as cells that are partially filled with solids. Due to its stability, it allows the use of large time steps that makes it suitable for both offline and real-time applications. We achieve this by using density-based surface tracking with a novel, unconditionally stable, conservative advection scheme. We also propose mass conserving methods to sharpen the interface and to reveal subgrid features of the liquid. While our approach conserves mass, volume loss is still possible but only temporarily. With constant mass, local volume loss causes a local increase of the density used for surface tracking which we detect and correct over time. We show the effectiveness of the proposed methods in several practical examples all running either at interactive rates or in real time."
+    },
+    {
+        "title": "Fast Collision Detection for Fracturing Rigid Bodies",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2014",
+        "authors": [
+            "Loeiz Glondu",
+            "Sara C. Schvartzman",
+            "Maud Marchal",
+            "Georges Dumont",
+            "Miguel A. Otaduy"
+        ],
+        "DOI": "10.1109/TVCG.2013.98",
+        "citation": 5,
+        "abstract": "In complex scenes with many objects, collision detection plays a key role in the simulation performance. This is particularly true in fracture simulation for two main reasons. One is that fracture fragments tend to exhibit very intensive contact, and the other is that collision detection data structures for new fragments need to be computed on the fly. In this paper, we present novel collision detection algorithms and data structures for real-time simulation of fracturing rigid bodies. We build on a combination of well-known efficient data structures, namely, distance fields and sphere trees, making our algorithm easy to integrate on existing simulation engines. We propose novel methods to construct these data structures, such that they can be efficiently updated upon fracture events and integrated in a simple yet effective self-adapting contact selection algorithm. Altogether, we drastically reduce the cost of both collision detection and collision response. We have evaluated our global solution for collision detection on challenging scenarios, achieving high frame rates suited for hard real-time applications such as video games or haptics. Our solution opens promising perspectives for complex fracture simulations involving many dynamically created rigid objects."
+    },
+    {
+        "title": "State of the Journal",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2014",
+        "authors": [
+            "Ming C. Lin"
+        ],
+        "DOI": "10.1109/TVCG.2014.4",
+        "citation": 0,
+        "abstract": "IEEE Transactions on Visualization and Computer Graphics (TVCG) has published more papers in 2013 than in any previous year. TVCG continues to be in an excellent state. For the first time, the entire proceedings of IEEE VAST 2013 papers became part of the VIS special issue of TVCG. At the start of October 2013, TVCG had received more than 265 regular submissions, more than last year at the same time. This year we also observed a healthy number of 150 and 402 submissions to the IEEE VR Conference issue and the VIS conference issue that contains the Proceedings of the IEEE Information Visualization, Scientific Visualization, and Visual Analytics Science and Technology 2013 Conferences, respectively. We are expecting a total of nearly 900 submissions to TVCG by the end of 2013. A total of 137 articles were published in the first 10 regular issues with 1,769 printed pages, and the VR and VIS special issues containing 21 and 101 conference papers, respectively. All submissions in both special issues went through a rigorous two-round journalquality review process. Practically all the 2012 papers have also been decided. From the 293 regular submissions (including 20 extended versions of Best Papers from several top venues in graphics and visualization), 76 regular papers and all 20 special section papers were eventually accepted; 86 out of 333 SciVis plus InfoVis conference submissions were published in the VIS special issue. TVCG continues to offer authors a remarkably effi cient processing of submitted manuscripts: The average time from submission to fi rst decision is about three months and the average time from submission to publication as a preprint in the digital library is about seven months. Its 2012 impact factor is 1.895 with the largest number of total publications appeared two years prior. During 2013, the authors of TVCG regular papers were invited to give an oral presentation of their recent work at TVCG’s partner conferences. A total of 35 TVCG papers were presented at the IEEE Virtual Reality Conference, ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Pacifi c Graphics, and IEEE VIS 2013."
+    },
+    {
+        "title": "Guest Editor's Introduction: Special Section on the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA)",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2014",
+        "authors": [
+            "Paul G. Kry",
+            "Jehee Lee"
+        ],
+        "DOI": "10.1109/TVCG.2014.3",
+        "citation": 0,
+        "abstract": "This special section presents expanded versions of three of the best papers from the 11th Annual ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA 2012), which was held in Lausanne, Switzerland, from 29-31 July 2012. SCA has established itself as the premier conference dedicated specifically to innovations in the software and technology of computer animation. SCA 2012 received 80 submissions and each submission was reviewed by at least three members of the international program committee. After a thorough online discussion, the 72-member international program committee decided on the 27 full papers and nine short presentation papers accepted for the final program. Out of 27 full papers, the symposium's Best Papers Award Committee selected one best paper, two runner-ups, and four honorable mentions. The selection was informed by the original reviews and the conference presentations. We are delighted to present three out of the six very best papers of SCA 2012 invited for this special section. Each of the invited papers contains a minimum of 30 percent new material and received at least three reviews, including one reviewer not among the original SCA reviewers."
+    },
+    {
+        "title": "2013 reviewers list",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2014",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2014.2",
+        "citation": 0,
+        "abstract": "The publication offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "2013 Annual Index",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2014",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2014.1",
+        "citation": 0,
+        "abstract": "This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the co-authors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under the primary entry in the Author Index."
     }
 ]

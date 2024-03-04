@@ -1283,5 +1283,301 @@
         "DOI": "10.1109/TVCG.2017.2744438",
         "citation": 14,
         "abstract": "In recent years, significant progress has been made in developing high-quality interactive methods for realistic volume illumination. However, refraction - despite being an important aspect of light propagation in participating media - has so far only received little attention. In this paper, we present a novel approach for refractive volume illumination including caustics capable of interactive frame rates. By interleaving light and viewing ray propagation, our technique avoids memory-intensive storage of illumination information and does not require any precomputation. It is fully dynamic and all parameters such as light position and transfer function can be modified interactively without a performance penalty."
+    },
+    {
+        "title": "How Do Ancestral Traits Shape Family Trees Over Generations?",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Siwei Fu",
+            "Hao Dong",
+            "Weiwei Cui",
+            "Jian Zhao",
+            "Huamin Qu"
+        ],
+        "DOI": "10.1109/TVCG.2017.2744080",
+        "citation": 11,
+        "abstract": "Whether and how does the structure of family trees differ by ancestral traits over generations? This is a fundamental question regarding the structural heterogeneity of family trees for the multi-generational transmission research. However, previous work mostly focuses on parent-child scenarios due to the lack of proper tools to handle the complexity of extending the research to multi-generational processes. Through an iterative design study with social scientists and historians, we develop TreeEvo that assists users to generate and test empirical hypotheses for multi-generational research. TreeEvo summarizes and organizes family trees by structural features in a dynamic manner based on a traditional Sankey diagram. A pixel-based technique is further proposed to compactly encode trees with complex structures in each Sankey Node. Detailed information of trees is accessible through a space-efficient visualization with semantic zooming. Moreover, TreeEvo embeds Multinomial Logit Model (MLM) to examine statistical associations between tree structure and ancestral traits. We demonstrate the effectiveness and usefulness of TreeEvo through an in-depth case-study with domain experts using a real-world dataset (containing 54,128 family trees of 126,196 individuals)."
+    },
+    {
+        "title": "An Intelligent System Approach for Probabilistic Volume Rendering Using Hierarchical 3D Convolutional Sparse Coding",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Tran Minh Quan",
+            "Junyoung Choi",
+            "Haejin Jeong",
+            "Won-Ki Jeong"
+        ],
+        "DOI": "10.1109/TVCG.2017.2744078",
+        "citation": 11,
+        "abstract": "In this paper, we propose a novel machine learning-based voxel classification method for highly-accurate volume rendering. Unlike conventional voxel classification methods that incorporate intensity-based features, the proposed method employs dictionary based features learned directly from the input data using hierarchical multi-scale 3D convolutional sparse coding, a novel extension of the state-of-the-art learning-based sparse feature representation method. The proposed approach automatically generates high-dimensional feature vectors in up to 75 dimensions, which are then fed into an intelligent system built on a random forest classifier for accurately classifying voxels from only a handful of selection scribbles made directly on the input data by the user. We apply the probabilistic transfer function to further customize and refine the rendered result. The proposed method is more intuitive to use and more robust to noise in comparison with conventional intensity-based classification methods. We evaluate the proposed method using several synthetic and real-world volume datasets, and demonstrate the methods usability through a user study."
+    },
+    {
+        "title": "On the Treatment of Field Quantities and Elemental Continuity in FEM Solutions",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Ashok Jallepalli",
+            "Julia Docampo-Sánchez",
+            "Jennifer K. Ryan",
+            "Robert Haimes",
+            "Robert M. Kirby"
+        ],
+        "DOI": "10.1109/TVCG.2017.2744058",
+        "citation": 10,
+        "abstract": "As the finite element method (FEM) and the finite volume method (FVM), both traditional and high-order variants, continue their proliferation into various applied engineering disciplines, it is important that the visualization techniques and corresponding data analysis tools that act on the results produced by these methods faithfully represent the underlying data. To state this in another way: the interpretation of data generated by simulation needs to be consistent with the numerical schemes that underpin the specific solver technology. As the verifiable visualization literature has demonstrated: visual artifacts produced by the introduction of either explicit or implicit data transformations, such as data resampling, can sometimes distort or even obfuscate key scientific features in the data. In this paper, we focus on the handling of elemental continuity, which is often only $C^{0}$ continuous or piecewise discontinuous, when visualizing primary or derived fields from FEM or FVM simulations. We demonstrate that traditional data handling and visualization of these fields introduce visual errors. In addition, we show how the use of the recently proposed line-SIAC filter provides a way of handling elemental continuity issues in an accuracy-conserving manner with the added benefit of casting the data in a smooth context even if the representation is element discontinuous."
+    },
+    {
+        "title": "Assessing the Graphical Perception of Time and Speed on 2D+Time Trajectories",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Charles Perin",
+            "Tiffany Wun",
+            "Richard Pusch",
+            "Sheelagh Carpendale"
+        ],
+        "DOI": "10.1109/TVCG.2017.2743918",
+        "citation": 10,
+        "abstract": "We empirically evaluate the extent to which people perceive non-constant time and speed encoded on 2D paths. In our graphical perception study, we evaluate nine encodings from the literature for both straight and curved paths. Visualizing time and speed information is a challenge when the x and y axes already encode other data dimensions, for example when plotting a trip on a map. This is particularly true in disciplines such as time-geography and movement analytics that often require visualizing spatio-temporal trajectories. A common approach is to use 2D+time trajectories, which are 2D paths for which time is an additional dimension. However, there are currently no guidelines regarding how to represent time and speed on such paths. Our study results provide InfoVis designers with clear guidance regarding which encodings to use and which ones to avoid; in particular, we suggest using color value to encode speed and segment length to encode time whenever possible."
+    },
+    {
+        "title": "Nonlinear Dot Plots",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Nils Rodrigues",
+            "Daniel Weiskopf"
+        ],
+        "DOI": "10.1109/TVCG.2017.2744018",
+        "citation": 9,
+        "abstract": "Conventional dot plots use a constant dot size and are typically applied to show the frequency distribution of small data sets. Unfortunately, they are not designed for a high dynamic range of frequencies. We address this problem by introducing nonlinear dot plots. Adopting the idea of nonlinear scaling from logarithmic bar charts, our plots allow for dots of varying size so that columns with a large number of samples are reduced in height. For the construction of these diagrams, we introduce an efficient two-way sweep algorithm that leads to a dense and symmetrical layout. We compensate aliasing artifacts at high dot densities by a specifically designed low-pass filtering method. Examples of nonlinear dot plots are compared to conventional dot plots as well as linear and logarithmic histograms. Finally, we include feedback from an expert review."
+    },
+    {
+        "title": "Understanding a Sequence of Sequences: Visual Exploration of Categorical States in Lake Sediment Cores",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Andrea Unger",
+            "Nadine Dräger",
+            "Mike Sips",
+            "Dirk J. Lehmann"
+        ],
+        "DOI": "10.1109/TVCG.2017.2744686",
+        "citation": 8,
+        "abstract": "This design study focuses on the analysis of a time sequence of categorical sequences. Such data is relevant for the geoscientific research field of landscape and climate development. It results from microscopic analysis of lake sediment cores. The goal is to gain hypotheses about landscape evolution and climate conditions in the past. To this end, geoscientists identify which categorical sequences are similar in the sense that they indicate similar conditions. Categorical sequences are similar if they have similar meaning (semantic similarity) and appear in similar time periods (temporal similarity). For data sets with many different categorical sequences, the task to identify similar sequences becomes a challenge. Our contribution is a tailored visual analysis concept that effectively supports the analytical process. Our visual interface comprises coupled visualizations of semantics and temporal context for the exploration and assessment of the similarity of categorical sequences. Integrated automatic methods reduce the analytical effort substantially. They (1) extract unique sequences in the data and (2) rank sequences by a similarity measure during the search for similar sequences. We evaluated our concept by demonstrations of our prototype to a larger audience and hands-on analysis sessions for two different lakes. According to geoscientists, our approach fills an important methodological gap in the application domain."
+    },
+    {
+        "title": "BASTet: Shareable and Reproducible Analysis and Visualization of Mass Spectrometry Imaging Data via OpenMSI",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Oliver Rübel",
+            "Benjamin P. Bowen"
+        ],
+        "DOI": "10.1109/TVCG.2017.2744479",
+        "citation": 8,
+        "abstract": "Mass spectrometry imaging (MSI) is a transformative imaging method that supports the untargeted, quantitative measurement of the chemical composition and spatial heterogeneity of complex samples with broad applications in life sciences, bioenergy, and health. While MSI data can be routinely collected, its broad application is currently limited by the lack of easily accessible analysis methods that can process data of the size, volume, diversity, and complexity generated by MSI experiments. The development and application of cutting-edge analytical methods is a core driver in MSI research for new scientific discoveries, medical diagnostics, and commercial-innovation. However, the lack of means to share, apply, and reproduce analyses hinders the broad application, validation, and use of novel MSI analysis methods. To address this central challenge, we introduce the Berkeley Analysis and Storage Toolkit (BASTet), a novel framework for shareable and reproducible data analysis that supports standardized data and analysis interfaces, integrated data storage, data provenance, workflow management, and a broad set of integrated tools. Based on BASTet, we describe the extension of the OpenMSI mass spectrometry imaging science gateway to enable web-based sharing, reuse, analysis, and visualization of data analyses and derived data products. We demonstrate the application of BASTet and OpenMSI in practice to identify and compare characteristic substructures in the mouse brain based on their chemical composition measured via MSI."
+    },
+    {
+        "title": "Open vs. Closed Shapes: New Perceptual Categories?",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "David Burlinson",
+            "Kalpathi Subramanian",
+            "Paula Goolkasian"
+        ],
+        "DOI": "10.1109/TVCG.2017.2745086",
+        "citation": 6,
+        "abstract": "Effective communication using visualization relies in part on the use of viable encoding strategies. For example, a viewer's ability to rapidly and accurately discern between two or more categorical variables in a chart or figure is contingent upon the distinctiveness of the encodings applied to each variable. Research in perception suggests that color is a more salient visual feature when compared to shape and although that finding is supported by visualization studies, characteristics of shape also yield meaningful differences in distinctiveness. We propose that open or closed shapes (that is, whether shapes are composed of line segments that are bounded across a region of space or not) represent a salient characteristic that influences perceptual processing. Three experiments were performed to test the reliability of the open/closed category; the first two from the perspective of attentional allocation, and the third experiment in the context of multi-class scatterplot displays. In the first, a flanker paradigm was used to test whether perceptual load and open/closed feature category would modulate the effect of the flanker on target processing. Results showed an influence of both variables. The second experiment used a Same/Different reaction time task to replicate and extend those findings. Results from both show that responses are faster and more accurate when closed rather than open shapes are processed as targets, and there is more processing interference when two competing shapes come from the same rather than different open or closed feature categories. The third experiment employed three commonly used visual analytic tasks - perception of average value, numerosity, and linear relationships with both single and dual displays of open and closed symbols. Our findings show that for numerosity and trend judgments, in particular, that different symbols from the same open or closed feature category cause more perceptual interference when they are presented together in a plot than symbols from different categories. Moreover, the extent of the interference appears to depend upon whether the participant is focused on processing open or closed symbols."
+    },
+    {
+        "title": "Structuring Visualization Mock-Ups at the Graphical Level by Dividing the Display Space",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Romain Vuillemot",
+            "Jeremy Boy"
+        ],
+        "DOI": "10.1109/TVCG.2017.2743998",
+        "citation": 6,
+        "abstract": "Mock-ups are rapid, low fidelity prototypes, that are used in many design-related fields to generate and share ideas. While their creation is supported by many mature methods and tools, surprisingly few are suited for the needs of information visualization. In this article, we introduce a novel approach to creating visualizations mock-ups, based on a dialogue between graphic design and parametric toolkit explorations. Our approach consists in iteratively subdividing the display space, while progressively informing each division with realistic data. We show that a wealth of mock-ups can easily be created using only temporary data attributes, as we wait for more realistic data to become available. We describe the implementation of this approach in a D3-based toolkit, which we use to highlight its generative power, and we discuss the potential for transitioning towards higher fidelity prototypes."
+    },
+    {
+        "title": "Beyond Tasks: An Activity Typology for Visual Analytics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Darren Edge",
+            "Nathalie Henry Riche",
+            "Jonathan Larson",
+            "Christopher White"
+        ],
+        "DOI": "10.1109/TVCG.2017.2745180",
+        "citation": 5,
+        "abstract": "As Visual Analytics (VA) research grows and diversifies to encompass new systems, techniques, and use contexts, gaining a holistic view of analytic practices is becoming ever more challenging. However, such a view is essential for researchers and practitioners seeking to develop systems for broad audiences that span multiple domains. In this paper, we interpret VA research through the lens of Activity Theory (AT) - a framework for modelling human activities that has been influential in the field of Human-Computer Interaction. We first provide an overview of Activity Theory, showing its potential for thinking beyond tasks, representations, and interactions to the broader systems of activity in which interactive tools are embedded and used. Next, we describe how Activity Theory can be used as an organizing framework in the construction of activity typologies, building and expanding upon the tradition of abstract task taxonomies in the field of Information Visualization. We then apply the resulting process to create an activity typology for Visual Analytics, synthesizing a wide range of systems and activity concepts from the literature. Finally, we use this typology as the foundation of an activity-centered design process, highlighting both tensions and opportunities in the design space of VA systems."
+    },
+    {
+        "title": "Decision Graph Embedding for High-Resolution Manometry Diagnosis",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Julian Kreiser",
+            "Alexander Hann",
+            "Eugen Zizer",
+            "Timo Ropinski"
+        ],
+        "DOI": "10.1109/TVCG.2017.2744299",
+        "citation": 4,
+        "abstract": "High-resolution manometry is an imaging modality which enables the categorization of esophageal motility disorders. Spatio-temporal pressure data along the esophagus is acquired using a tubular device and multiple test swallows are performed by the patient. Current approaches visualize these swallows as individual instances, despite the fact that aggregated metrics are relevant in the diagnostic process. Based on the current Chicago Classification, which serves as the gold standard in this area, we introduce a visualization supporting an efficient and correct diagnosis. To reach this goal, we propose a novel decision graph representing the Chicago Classification with workflow optimization in mind. Based on this graph, we are further able to prioritize the different metrics used during diagnosis and can exploit this prioritization in the actual data visualization. Thus, different disorders and their related parameters are directly represented and intuitively influence the appearance of our visualization. Within this paper, we introduce our novel visualization, justify the design decisions, and provide the results of a user study we performed with medical students as well as a domain expert. On top of the presented visualization, we further discuss how to derive a visual signature for individual patients that allows us for the first time to perform an intuitive comparison between subjects, in the form of small multiples."
+    },
+    {
+        "title": "Screen-Space Normal Distribution Function Caching for Consistent Multi-Resolution Rendering of Large Particle Data",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Mohamed Ibrahim",
+            "Patrick Wickenhäuser",
+            "Peter Rautek",
+            "Guido Reina",
+            "Markus Hadwiger"
+        ],
+        "DOI": "10.1109/TVCG.2017.2743979",
+        "citation": 4,
+        "abstract": "Molecular dynamics (MD) simulations are crucial to investigating important processes in physics and thermodynamics. The simulated atoms are usually visualized as hard spheres with Phong shading, where individual particles and their local density can be perceived well in close-up views. However, for large-scale simulations with 10 million particles or more, the visualization of large fields-of-view usually suffers from strong aliasing artifacts, because the mismatch between data size and output resolution leads to severe under-sampling of the geometry. Excessive super-sampling can alleviate this problem, but is prohibitively expensive. This paper presents a novel visualization method for large-scale particle data that addresses aliasing while enabling interactive high-quality rendering. We introduce the novel concept of screen-space normal distribution functions (S-NDFs) for particle data. S-NDFs represent the distribution of surface normals that map to a given pixel in screen space, which enables high-quality re-lighting without re-rendering particles. In order to facilitate interactive zooming, we cache S-NDFs in a screen-space mipmap (S-MIP). Together, these two concepts enable interactive, scale-consistent re-lighting and shading changes, as well as zooming, without having to re-sample the particle data. We show how our method facilitates the interactive exploration of real-world large-scale MD simulation data in different scenarios."
+    },
+    {
+        "title": "Interactive Design and Visualization of Branched Covering Spaces",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Lawrence Roy",
+            "Prashant Kumar",
+            "Sanaz Golbabaei",
+            "Yue Zhang",
+            "Eugene Zhang"
+        ],
+        "DOI": "10.1109/TVCG.2017.2744038",
+        "citation": 4,
+        "abstract": "Branched covering spaces are a mathematical concept which originates from complex analysis and topology and has applications in tensor field topology and geometry remeshing. Given a manifold surface and an $N$-way rotational symmetry field, a branched covering space is a manifold surface that has an $N$-to-1 map to the original surface except at the ramification points, which correspond to the singularities in the rotational symmetry field. Understanding the notion and mathematical properties of branched covering spaces is important to researchers in tensor field visualization and geometry processing, and their application areas. In this paper, we provide a framework to interactively design and visualize the branched covering space (BCS) of an input mesh surface and a rotational symmetry field defined on it. In our framework, the user can visualize not only the BCSs but also their construction process. In addition, our system allows the user to design the geometric realization of the BCS using mesh deformation techniques as well as connecting tubes. This enables the user to verify important facts about BCSs such as that they are manifold surfaces around singularities, as well as the Riemann-Hurwitz formula which relates the Euler characteristic of the BCS to that of the original mesh. Our system is evaluated by student researchers in scientific visualization and geometry processing as well as faculty members in mathematics at our university who teach topology. We include their evaluations and feedback in the paper."
+    },
+    {
+        "title": "Message from the Editor-in-Chief",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Leila De Floriani"
+        ],
+        "DOI": "10.1109/TVCG.2017.2752499",
+        "citation": 0,
+        "abstract": "Welcome to the January 2018 issue of the IEEE Transactions on Visualization and Computer Graphics (TVCG)! I am pleased to introduce this special issue containing 99 papers presented at IEEE VIS 2017, which includes the Conference on Visual Analytics Science and Technology (IEEE VAST 2017), the IEEE Information Visualization Conference (IEEE InfoVis 2017), and the IEEE Scientific Visualization Conference (IEEE SciVis 2017), held in Phoenix, USA, from the 1st to the 6th of October 2017. These papers, selected from 467 submissions, were recommended for acceptance by the Program Committees of these three conferences, after having undergone a rigorous and competitive two-round review process. The cooperation between TVCG and IEEE VIS has been considerably growing over the years in terms of the number of publications in the TVCG IEEE VIS special issue, and of the size of attendance to IEEE VIS. This special hybrid publication model enables timely dissemination of many high-quality research results from the world’s top visualization conferences to TVCG readership, while improving the overall visibility and quality of IEEE VIS publications through a rigorous journal-style review. Since 2011, the authors of TVCG regular papers have been invited to give an oral presentation of their recent work at IEEE VIS, thus providing a unique opportunity for the VIS audience to keep abreast of high-quality visualization research featured in regular issues of TVCG, and encouraging more TVCG authors to attend IEEE VIS. This closely coupled relation-ship between TVCG and VIS has been leading to a more timely exchange of new ideas, to a rapid dissemination of visualization research via an integrated forum for both publications and presentations, and to further expanding our visualization community."
+    },
+    {
+        "title": "Preface: Message from the VIS Paper Chairs and Guest Editors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Tim Dwyer",
+            "Niklas Elmqvist",
+            "Brian Fisher",
+            "Steve Franconeri",
+            "Ingrid Hotz",
+            "Robert M. Mike Kirby",
+            "Shixia Liu",
+            "Tobias Schreck",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/TVCG.2017.2752518",
+        "citation": 0,
+        "abstract": "EditorsThis January 2018 issue of the IEEE Transactions on Visualization and Computer Graphics contains the proceedings of IEEE VIS 2017, held during 1-6 October 2017. In 2017, IEEE VIS returns to the city of Phoenix, AZ, USA, for the conference's 28th year. The conference will be held at the Hyatt Regency Phoenix hotel. VIS consists of three conferences, held concurrently: the IEEE Visual Analytics Science and Technology Conference (VAST 2017), the IEEE Information Visualization Conference (InfoVis 2017), and the IEEE Scientific Visualization Conference (SciVis 2017). Information on the paper review process is provided along with an overview of each conference."
+    },
+    {
+        "title": "IEEE Transactions on Visualization and Computer Graphics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2017.2752478",
+        "citation": 0,
+        "abstract": "Provides a listing of current staff, committee members and society officers."
+    },
+    {
+        "title": "VAST Steering Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2017.2752618",
+        "citation": 0,
+        "abstract": "Presents a listing of the VAST Steering Committee."
+    },
+    {
+        "title": "VIS Conference Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2017.2752599",
+        "citation": 0,
+        "abstract": "Presents a listing of the VIS Conference committee."
+    },
+    {
+        "title": "Contents",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2017.2752498",
+        "citation": 0,
+        "abstract": "Presents the table of contents for this issue of the publication."
+    },
+    {
+        "title": "VAST International Program Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2017.2752581",
+        "citation": 0,
+        "abstract": "Presents a listing of the VAST International Program Committee."
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC)",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Cláudio T. Silva"
+        ],
+        "DOI": "10.1109/TVCG.2017.2752539",
+        "citation": 0,
+        "abstract": "Presents a listing of the IEEE Visualization and Graphics Technical Committee (VGTC). "
+    },
+    {
+        "title": "VAST Paper Reviewers",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2017.2752619",
+        "citation": 0,
+        "abstract": "Presents a listing of VAST conference reviewers."
+    },
+    {
+        "title": "The 2017 Visualization Technical Achievement Award",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Jeffrey Heer"
+        ],
+        "DOI": "10.1109/TVCG.2017.2752584",
+        "citation": 0,
+        "abstract": "The 2017 Visualization Technical Achievement Award goes to Jeffrey Heer in recognition of his work on the design, development, dissemination, and popularization of languages for visualization. The IEEE Visualization & Graphics Technical Committee (VGTC) is pleased to award Jeffrey Heer the 2017 Visualization Technical Achievement Award."
+    },
+    {
+        "title": "The 2017 Visualization Career Award",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2018",
+        "authors": [
+            "Charles Hansen"
+        ],
+        "DOI": "10.1109/TVCG.2017.2752620",
+        "citation": 0,
+        "abstract": "The 2017 Visualization Career Award goes to Charles (Chuck) Hansen in recognition for his contributions to large scale data visualization, including advances in parallel and volume rendering, novel interaction techniques, and techniques for exploiting hardware; for his leadership in the community as an educator, program chair, and editor; and for providing vision for the development and support of the field. The IEEE Visualization & Graphics Technical Committee (VGTC) is pleased to award Charles Hansen the 2017 Visualization Career Award."
     }
 ]

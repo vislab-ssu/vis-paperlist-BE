@@ -1105,5 +1105,766 @@
         "DOI": "10.1109/TVCG.2021.3114773",
         "citation": 6,
         "abstract": "Undirected graphs are frequently used to model phenomena that deal with interacting objects, such as social networks, brain activity and communication networks. The topology of an undirected graph $G$ can be captured by an adjacency matrix; this matrix in turn can be visualized directly to give insight into the graph structure. Which visual patterns appear in such a matrix visualization crucially depends on the ordering of its rows and columns. Formally defining the quality of an ordering and then automatically computing a high-quality ordering are both challenging problems; however, effective heuristics exist and are used in practice. Often, graphs do not exist in isolation but as part of a collection of graphs on the same set of vertices, for example, brain scans over time or of different people. To visualize such graph collections, we need a single ordering that works well for all matrices simultaneously. The current state-of-the-art solves this problem by taking a (weighted) union over all graphs and applying existing heuristics. However, this union leads to a loss of information, specifically in those parts of the graphs which are different. We propose a collection-aware approach to avoid this loss of information and apply it to two popular heuristic methods: leaf order and barycenter. The de-facto standard computational quality metrics for matrix ordering capture only block-diagonal patterns (cliques). Instead, we propose to use Moran's $I$, a spatial auto-correlation metric, which captures the full range of established patterns. Moran's $I$ refines previously proposed stress measures. Furthermore, the popular leaf order method heuristically optimizes a similar measure which further supports the use of Moran's $I$ in this context. An ordering that maximizes Moran's $I$ can be computed via solutions to the Traveling Salesperson Problem (TSP); orderings that approximate the optimal ordering can be computed more efficiently, using any of the approximation algorithms for metric TSP. We evaluated our methods for simultaneous orderings on real-world datasets using Moran's $I$ as the quality metric. Our results show that our collection-aware approach matches or improves performance compared to the union approach, depending on the similarity of the graphs in the collection. Specifically, our Moran's $I$-based collection-aware leaf order implementation consistently outperforms other implementations. Our collection-aware implementations carry no significant additional computational costs."
+    },
+    {
+        "title": "Sequen-C: A Multilevel Overview of Temporal Event Sequences",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Jessica Magallanes",
+            "Tony Stone",
+            "Paul D Morris",
+            "Suzanne Mason",
+            "Steven Wood",
+            "Maria-Cruz Villa-Uriol"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114868",
+        "citation": 6,
+        "abstract": "Building a visual overview of temporal event sequences with an optimal level-of-detail (i.e. simplified but informative) is an ongoing challenge - expecting the user to zoom into every important aspect of the overview can lead to missing insights. We propose a technique to build a multilevel overview of event sequences, whose granularity can be transformed across sequence clusters (vertical level-of-detail) or longitudinally (horizontal level-of-detail), using hierarchical aggregation and a novel cluster data representation Align-Score-Simplify. By default, the overview shows an optimal number of sequence clusters obtained through the average silhouette width metric - then users are able to explore alternative optimal sequence clusterings. The vertical level-of-detail of the overview changes along with the number of clusters, whilst the horizontal level-of-detail refers to the level of summarization applied to each cluster representation. The proposed technique has been implemented into a visualization system called Sequence Cluster Explorer (Sequen-C) that allows multilevel and detail-on-demand exploration through three coordinated views, and the inspection of data attributes at cluster, unique sequence, and individual sequence level. We present two case studies using real-world datasets in the healthcare domain: CUREd and MIMIC-III; which demonstrate how the technique can aid users to obtain a summary of common and deviating pathways, and explore data attributes for selected patterns."
+    },
+    {
+        "title": "E-ffective: A Visual Analytic System for Exploring the Emotion and Effectiveness of Inspirational Speeches",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Kevin Maher",
+            "Zeyuan Huang",
+            "Jiancheng Song",
+            "Xiaoming Deng",
+            "Yu-Kun Lai",
+            "Cuixia Ma",
+            "Hao Wang",
+            "Yong-Jin Liu",
+            "Hongan Wang"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114789",
+        "citation": 6,
+        "abstract": "What makes speeches effective has long been a subject for debate, and until today there is broad controversy among public speaking experts about what factors make a speech effective as well as the roles of these factors in speeches. Moreover, there is a lack of quantitative analysis methods to help understand effective speaking strategies. In this paper, we propose E-ffective, a visual analytic system allowing speaking experts and novices to analyze both the role of speech factors and their contribution in effective speeches. From interviews with domain experts and investigating existing literature, we identified important factors to consider in inspirational speeches. We obtained the generated factors from multi-modal data that were then related to effectiveness data. Our system supports rapid understanding of critical factors in inspirational speeches, including the influence of emotions by means of novel visualization methods and interaction. Two novel visualizations include E-spiral (that shows the emotional shifts in speeches in a visually compact way) and E-script (that connects speech content with key speech delivery information). In our evaluation we studied the influence of our system on experts' domain knowledge about speech factors. We further studied the usability of the system by speaking novices and experts on assisting analysis of inspirational speech effectiveness."
+    },
+    {
+        "title": "Visual Evaluation for Autonomous Driving",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Yijie Hou",
+            "Chengshun Wang",
+            "Junhong Wang",
+            "Xiangyang Xue",
+            "Xiaolong Luke Zhang",
+            "Jun Zhu",
+            "Dongliang Wang",
+            "Siming Chen"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114777",
+        "citation": 6,
+        "abstract": "Autonomous driving technologies often use state-of-the-art artificial intelligence algorithms to understand the relationship between the vehicle and the external environment, to predict the changes of the environment, and then to plan and control the behaviors of the vehicle accordingly. The complexity of such technologies makes it challenging to evaluate the performance of autonomous driving systems and to find ways to improve them. The current approaches to evaluating such autonomous driving systems largely use a single score to indicate the overall performance of a system, but domain experts have difficulties in understanding how individual components or algorithms in an autonomous driving system may contribute to the score. To address this problem, we collaborate with domain experts on autonomous driving algorithms, and propose a visual evaluation method for autonomous driving. Our method considers the data generated in all components during the whole process of autonomous driving, including perception results, planning routes, prediction of obstacles, various controlling parameters, and evaluation of comfort. We develop a visual analytics workflow to integrate an evaluation mathematical model with adjustable parameters, support the evaluation of the system from the level of the overall performance to the level of detailed measures of individual components, and to show both evaluation scores and their contributing factors. Our implemented visual analytics system provides an overview evaluation score at the beginning and shows the animation of the dynamic change of the scores at each period. Experts can interactively explore the specific component at different time periods and identify related factors. With our method, domain experts not only learn about the performance of an autonomous driving system, but also identify and access the problematic parts of each component. Our visual evaluation system can be applied to the autonomous driving simulation system and used for various evaluation cases. The results of using our system in some simulation cases and the feedback from involved domain experts confirm the usefulness and efficiency of our method in helping people gain in-depth insight into autonomous driving systems."
+    },
+    {
+        "title": "DDLVis: Real-time Visual Query of Spatiotemporal Data Distribution via Density Dictionary Learning",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Chenhui Li",
+            "George Baciu",
+            "Yunzhe Wang",
+            "Junjie Chen",
+            "Changbo Wang"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114762",
+        "citation": 6,
+        "abstract": "Visual query of spatiotemporal data is becoming an increasingly important function in visual analytics applications. Various works have been presented for querying large spatiotemporal data in real time. However, the real-time query of spatiotemporal data distribution is still an open challenge. As spatiotemporal data become larger, methods of aggregation, storage and querying become critical. We propose a new visual query system that creates a low-memory storage component and provides real-time visual interactions of spatiotemporal data. We first present a peak-based kernel density estimation method to produce the data distribution for the spatiotemporal data. Then a novel density dictionary learning approach is proposed to compress temporal density maps and accelerate the query calculation. Moreover, various intuitive query interactions are presented to interactively gain patterns. The experimental results obtained on three datasets demonstrate that the presented system offers an effective query for visual analytics of spatiotemporal data."
+    },
+    {
+        "title": "AffectiveTDA: Using Topological Data Analysis to Improve Analysis and Explainability in Affective Computing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Hamza Elhamdadi",
+            "Shaun Canavan",
+            "Paul Rosen"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114784",
+        "citation": 5,
+        "abstract": "We present an approach utilizing Topological Data Analysis to study the structure of face poses used in affective computing, i.e., the process of recognizing human emotion. The approach uses a conditional comparison of different emotions, both respective and irrespective of time, with multiple topological distance metrics, dimension reduction techniques, and face subsections (e.g., eyes, nose, mouth, etc.). The results confirm that our topology-based approach captures known patterns, distinctions between emotions, and distinctions between individuals, which is an important step towards more robust and explainable emotion recognition by machines."
+    },
+    {
+        "title": "Edge-Path Bundling: A Less Ambiguous Edge Bundling Approach",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Markus Wallinger",
+            "Daniel Archambault",
+            "David Auber",
+            "Martin Nöllenburg",
+            "Jaakko Peltonen"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114795",
+        "citation": 5,
+        "abstract": "Edge bundling techniques cluster edges with similar attributes (i.e. similarity in direction and proximity) together to reduce the visual clutter. All edge bundling techniques to date implicitly or explicitly cluster groups of individual edges, or parts of them, together based on these attributes. These clusters can result in ambiguous connections that do not exist in the data. Confluent drawings of networks do not have these ambiguities, but require the layout to be computed as part of the bundling process. We devise a new bundling method, Edge-Path bundling, to simplify edge clutter while greatly reducing ambiguities compared to previous bundling techniques. Edge-Path bundling takes a layout as input and clusters each edge along a weighted, shortest path to limit its deviation from a straight line. Edge-Path bundling does not incur independent edge ambiguities typically seen in all edge bundling methods, and the level of bundling can be tuned through shortest path distances, Euclidean distances, and combinations of the two. Also, directed edge bundling naturally emerges from the model. Through metric evaluations, we demonstrate the advantages of Edge-Path bundling over other techniques."
+    },
+    {
+        "title": "SPEULER: Semantics-preserving Euler Diagrams",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Rebecca Kehlbeck",
+            "Jochen Görtler",
+            "Yunhai Wang",
+            "Oliver Deussen"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114834",
+        "citation": 5,
+        "abstract": "Creating comprehensible visualizations of highly overlapping set-typed data is a challenging task due to its complexity. To facilitate insights into set connectivity and to leverage semantic relations between intersections, we propose a fast two-step layout technique for Euler diagrams that are both well-matched and well-formed. Our method conforms to established form guidelines for Euler diagrams regarding semantics, aesthetics, and readability. First, we establish an initial ordering of the data, which we then use to incrementally create a planar, connected, and monotone dual graph representation. In the next step, the graph is transformed into a circular layout that maintains the semantics and yields simple Euler diagrams with smooth curves. When the data cannot be represented by simple diagrams, our algorithm always falls back to a solution that is not well-formed but still well-matched, whereas previous methods often fail to produce expected results. We show the usefulness of our method for visualizing set-typed data using examples from text analysis and infographics. Furthermore, we discuss the characteristics of our approach and evaluate our method against state-of-the-art methods."
+    },
+    {
+        "title": "Semantic Snapping for Guided Multi-View Visualization Design",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Yngve S. Kristiansen",
+            "Laura Garrison",
+            "Stefan Bruckner"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114860",
+        "citation": 5,
+        "abstract": "Visual information displays are typically composed of multiple visualizations that are used to facilitate an understanding of the underlying data. A common example are dashboards, which are frequently used in domains such as finance, process monitoring and business intelligence. However, users may not be aware of existing guidelines and lack expert design knowledge when composing such multi-view visualizations. In this paper, we present semantic snapping, an approach to help non-expert users design effective multi-view visualizations from sets of pre-existing views. When a particular view is placed on a canvas, it is “aligned” with the remaining views-not with respect to its geometric layout, but based on aspects of the visual encoding itself, such as how data dimensions are mapped to channels. Our method uses an on-the-fly procedure to detect and suggest resolutions for conflicting, misleading, or ambiguous designs, as well as to provide suggestions for alternative presentations. With this approach, users can be guided to avoid common pitfalls encountered when composing visualizations. Our provided examples and case studies demonstrate the usefulness and validity of our approach."
+    },
+    {
+        "title": "Probabilistic Occlusion Culling using Confidence Maps for High-Quality Rendering of Large Particle Data",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Mohamed Ibrahim",
+            "Peter Rautek",
+            "Guido Reina",
+            "Marco Agus",
+            "Markus Hadwiger"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114788",
+        "citation": 5,
+        "abstract": "Achieving high rendering quality in the visualization of large particle data, for example from large-scale molecular dynamics simulations, requires a significant amount of sub-pixel super-sampling, due to very high numbers of particles per pixel. Although it is impossible to super-sample all particles of large-scale data at interactive rates, efficient occlusion culling can decouple the overall data size from a high effective sampling rate of visible particles. However, while the latter is essential for domain scientists to be able to see important data features, performing occlusion culling by sampling or sorting the data is usually slow or error-prone due to visibility estimates of insufficient quality. We present a novel probabilistic culling architecture for super-sampled high-quality rendering of large particle data. Occlusion is dynamically determined at the sub-pixel level, without explicit visibility sorting or data simplification. We introduce confidence maps to probabilistically estimate confidence in the visibility data gathered so far. This enables progressive, confidence-based culling, helping to avoid wrong visibility decisions. In this way, we determine particle visibility with high accuracy, although only a small part of the data set is sampled. This enables extensive super-sampling of (partially) visible particles for high rendering quality, at a fraction of the cost of sampling all particles. For real-time performance with millions of particles, we exploit novel features of recent GPU architectures to group particles into two hierarchy levels, combining fine-grained culling with high frame rates."
+    },
+    {
+        "title": "Improving Visualization Interpretation Using Counterfactuals",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Smiti Kaul",
+            "David Borland",
+            "Nan Cao",
+            "David Gotz"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114779",
+        "citation": 5,
+        "abstract": "Complex, high-dimensional data is used in a wide range of domains to explore problems and make decisions. Analysis of high-dimensional data, however, is vulnerable to the hidden influence of confounding variables, especially as users apply ad hoc filtering operations to visualize only specific subsets of an entire dataset. Thus, visual data-driven analysis can mislead users and encourage mistaken assumptions about causality or the strength of relationships between features. This work introduces a novel visual approach designed to reveal the presence of confounding variables via counterfactual possibilities during visual data analysis. It is implemented in CoFact, an interactive visualization prototype that determines and visualizes counterfactual subsets to better support user exploration of feature relationships. Using publicly available datasets, we conducted a controlled user study to demonstrate the effectiveness of our approach; the results indicate that users exposed to counterfactual visualizations formed more careful judgments about feature-to-outcome relationships."
+    },
+    {
+        "title": "Professional Differences: A Comparative Study of Visualization Task Performance and Spatial Ability Across Disciplines",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Kyle Wm. Hall",
+            "Anthony Kouroupis",
+            "Anastasia Bezerianos",
+            "Danielle Albers Szafir",
+            "Christopher Collins"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114805",
+        "citation": 5,
+        "abstract": "Problem-driven visualization work is rooted in deeply understanding the data, actors, processes, and workflows of a target domain. However, an individual's personality traits and cognitive abilities may also influence visualization use. Diverse user needs and abilities raise natural questions for specificity in visualization design: Could individuals from different domains exhibit performance differences when using visualizations? Are any systematic variations related to their cognitive abilities? This study bridges domain-specific perspectives on visualization design with those provided by cognition and perception. We measure variations in visualization task performance across chemistry, computer science, and education, and relate these differences to variations in spatial ability. We conducted an online study with over 60 domain experts consisting of tasks related to pie charts, isocontour plots, and 3D scatterplots, and grounded by a well-documented spatial ability test. Task performance (correctness) varied with profession across more complex visualizations (isocontour plots and scatterplots), but not pie charts, a comparatively common visualization. We found that correctness correlates with spatial ability, and the professions differ in terms of spatial ability. These results indicate that domains differ not only in the specifics of their data and tasks, but also in terms of how effectively their constituent members engage with visualizations and their cognitive traits. Analyzing participants' confidence and strategy comments suggests that focusing on performance neglects important nuances, such as differing approaches to engage with even common visualizations and potential skill transference. Our findings offer a fresh perspective on discipline-specific visualization with specific recommendations to help guide visualization design that celebrates the uniqueness of the disciplines and individuals we seek to serve."
+    },
+    {
+        "title": "Sibyl: Understanding and Addressing the Usability Challenges of Machine Learning In High-Stakes Decision Making",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Alexandra Zytek",
+            "Dongyu Liu",
+            "Rhema Vaithianathan",
+            "Kalyan Veeramachaneni"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114864",
+        "citation": 5,
+        "abstract": "Machine learning (ML) is being applied to a diverse and ever-growing set of domains. In many cases, domain experts - who often have no expertise in ML or data science - are asked to use ML predictions to make high-stakes decisions. Multiple ML usability challenges can appear as result, such as lack of user trust in the model, inability to reconcile human-ML disagreement, and ethical concerns about oversimplification of complex problems to a single algorithm output. In this paper, we investigate the ML usability challenges that present in the domain of child welfare screening through a series of collaborations with child welfare screeners. Following the iterative design process between the ML scientists, visualization researchers, and domain experts (child screeners), we first identified four key ML challenges and honed in on one promising explainable ML technique to address them (local factor contributions). Then we implemented and evaluated our visual analytics tool, Sibyl, to increase the interpretability and interactivity of local factor contributions. The effectiveness of our tool is demonstrated by two formal user studies with 12 non-expert participants and 13 expert participants respectively. Valuable feedback was collected, from which we composed a list of design implications as a useful guideline for researchers who aim to develop an interpretable and interactive visualization tool for ML prediction models deployed for child welfare screeners and other similar domain experts."
+    },
+    {
+        "title": "matExplorer: Visual Exploration on Predicting Ionic Conductivity for Solid-state Electrolytes",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Jiansu Pu",
+            "Hui Shao",
+            "Boyang Gao",
+            "Zhengguo Zhu",
+            "Yanlin Zhu",
+            "Yunbo Rao",
+            "Yong Xiang"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114812",
+        "citation": 5,
+        "abstract": "Lithium ion batteries (LIBs) are widely used as important energy sources for mobile phones, electric vehicles, and drones. Experts have attempted to replace liquid electrolytes with solid electrolytes that have wider electrochemical window and higher stability due to the potential safety risks, such as electrolyte leakage, flammable solvents, poor thermal stability, and many side reactions caused by liquid electrolytes. However, finding suitable alternative materials using traditional approaches is very difficult due to the incredibly high cost in searching. Machine learning (ML)-based methods are currently introduced and used for material prediction. However, learning tools designed for domain experts to conduct intuitive performance comparison and analysis of ML models are rare. In this case, we propose an interactive visualization system for experts to select suitable ML models and understand and explore the predication results comprehensively. Our system uses a multifaceted visualization scheme designed to support analysis from various perspectives, such as feature distribution, data similarity, model performance, and result presentation. Case studies with actual lab experiments have been conducted by the experts, and the final results confirmed the effectiveness and helpfulness of our system."
+    },
+    {
+        "title": "The Weighted Average Illusion: Biases in Perceived Mean Position in Scatterplots",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Matt-Heun Hong",
+            "Jessica K. Witt",
+            "Danielle Albers Szafir"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114783",
+        "citation": 5,
+        "abstract": "Scatterplots can encode a third dimension by using additional channels like size or color (e.g. bubble charts). We explore a potential misinterpretation of trivariate scatterplots, which we call the weighted average illusion, where locations of larger and darker points are given more weight toward x- and y-mean estimates. This systematic bias is sensitive to a designer's choice of size or lightness ranges mapped onto the data. In this paper, we quantify this bias against varying size/lightness ranges and data correlations. We discuss possible explanations for its cause by measuring attention given to individual data points using a vision science technique called the centroid method. Our work illustrates how ensemble processing mechanisms and mental shortcuts can significantly distort visual summaries of data, and can lead to misjudgments like the demonstrated weighted average illusion."
+    },
+    {
+        "title": "Effect of uncertainty visualizations on myopic loss aversion and the equity premium puzzle in retirement investment decisions",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Ryan Wesslen",
+            "Alireza Karduni",
+            "Douglas Markant",
+            "Wenwen Dou"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114692",
+        "citation": 5,
+        "abstract": "For many households, investing for retirement is one of the most significant decisions and is fraught with uncertainty. In a classic study in behavioral economics, Benartzi and Thaler (1999) found evidence using bar charts that investors exhibit myopic loss aversion in retirement decisions: Investors overly focus on the potential for short-term losses, leading them to invest less in riskier assets and miss out on higher long-term returns. Recently, advances in uncertainty visualizations have shown improvements in decision-making under uncertainty in a variety of tasks. In this paper, we conduct a controlled and incentivized crowdsourced experiment replicating Benartzi and Thaler (1999) and extending it to measure the effect of different uncertainty representations on myopic loss aversion. Consistent with the original study, we find evidence of myopic loss aversion with bar charts and find that participants make better investment decisions with longer evaluation periods. We also find that common uncertainty representations such as interval plots and bar charts achieve the highest mean expected returns while other uncertainty visualizations lead to poorer long-term performance and strong effects on the equity premium. Qualitative feedback further suggests that different uncertainty representations lead to visual reasoning heuristics that can either mitigate or encourage a focus on potential short-term losses. We discuss implications of our results on using uncertainty visualizations for retirement decisions in practice and possible extensions for future work."
+    },
+    {
+        "title": "DIEL: Interactive Visualization Beyond the Here and Now",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Yifan Wu",
+            "Remco Chang",
+            "Joseph M. Hellerstein",
+            "Arvind Satyanarayan",
+            "Eugene Wu"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114796",
+        "citation": 4,
+        "abstract": "Interactive visualization design and research have primarily focused on local data and synchronous events. However, for more complex use cases-e.g., remote database access and streaming data sources-developers must grapple with distributed data and asynchronous events. Currently, constructing these use cases is difficult and time-consuming; developers are forced to operationally program low-level details like asynchronous database querying and reactive event handling. This approach is in stark contrast to modern methods for browser-based interactive visualization, which feature high-level declarative specifications. In response, we present DIEL, a declarative framework that supports asynchronous events over distributed data. As in many declarative languages, DIEL developers specify only what data they want, rather than procedural steps for how to assemble it. Uniquely, DIEL models asynchronous events (e.g., user interactions, server responses) as streams of data that are captured in event logs. To specify the state of a visualization at any time, developers write declarative queries over the data and event logs; DIEL compiles and optimizes a corresponding dataflow graph, and automatically generates necessary low-level distributed systems details. We demonstrate DIEL'S performance and expressivity through example interactive visualizations that make diverse use of remote data and asynchronous events. We further evaluate DIEL'S usability using the Cognitive Dimensions of Notations framework, revealing wins such as ease of change, and compromises such as premature commitments."
+    },
+    {
+        "title": "GenNI: Human-AI Collaboration for Data-Backed Text Generation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Hendrik Strobelt",
+            "Jambay Kinley",
+            "Robert Krueger",
+            "Johanna Beyer",
+            "Hanspeter Pfister",
+            "Alexander M. Rush"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114845",
+        "citation": 4,
+        "abstract": "Table2Text systems generate textual output based on structured data utilizing machine learning. These systems are essential for fluent natural language interfaces in tools such as virtual assistants; however, left to generate freely these ML systems often produce misleading or unexpected outputs. GenNI (Generation Negotiation Interface) is an interactive visual system for high-level human-AI collaboration in producing descriptive text. The tool utilizes a deep learning model designed with explicit control states. These controls allow users to globally constrain model generations, without sacrificing the representation power of the deep learning models. The visual interface makes it possible for users to interact with AI systems following a Refine-Forecast paradigm to ensure that the generation system acts in a manner human users find suitable. We report multiple use cases on two experiments that improve over uncontrolled generation approaches, while at the same time providing fine-grained control. A demo and source code are available at https://genni.vizhub.ai."
+    },
+    {
+        "title": "Visualizing Uncertainty in Probabilistic Graphs with Network Hypothetical Outcome Plots (NetHOPs)",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Dongping Zhang",
+            "Eytan Adar",
+            "Jessica Hullman"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114679",
+        "citation": 4,
+        "abstract": "Probabilistic graphs are challenging to visualize using the traditional node-link diagram. Encoding edge probability using visual variables like width or fuzziness makes it difficult for users of static network visualizations to estimate network statistics like densities, isolates, path lengths, or clustering under uncertainty. We introduce Network Hypothetical Outcome Plots (NetHOPs), a visualization technique that animates a sequence of network realizations sampled from a network distribution defined by probabilistic edges. NetHOPs employ an aggregation and anchoring algorithm used in dynamic and longitudinal graph drawing to parameterize layout stability for uncertainty estimation. We present a community matching algorithm to enable visualizing the uncertainty of cluster membership and community occurrence. We describe the results of a study in which 51 network experts used NetHOPs to complete a set of common visual analysis tasks and reported how they perceived network structures and properties subject to uncertainty. Participants' estimates fell, on average, within 11% of the ground truth statistics, suggesting NetHOPs can be a reasonable approach for enabling network analysts to reason about multiple properties under uncertainty. Participants appeared to articulate the distribution of network statistics slightly more accurately when they could manipulate the layout anchoring and the animation speed. Based on these findings, we synthesize design recommendations for developing and using animated visualizations for probabilistic networks."
+    },
+    {
+        "title": "Visual Analysis of Hyperproperties for Understanding Model Checking Results",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Tom Horak",
+            "Norine Coenen",
+            "Niklas Metzger",
+            "Christopher Hahn",
+            "Tamara Flemisch",
+            "Julián Méndez",
+            "Dennis Dimov",
+            "Bernd Finkbeiner",
+            "Raimund Dachselt"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114866",
+        "citation": 4,
+        "abstract": "Model checkers provide algorithms for proving that a mathematical model of a system satisfies a given specification. In case of a violation, a counterexample that shows the erroneous behavior is returned. Understanding these counterexamples is challenging, especially for hyperproperty specifications, i.e., specifications that relate multiple executions of a system to each other. We aim to facilitate the visual analysis of such counterexamples through our HyperVis tool, which provides interactive visualizations of the given model, specification, and counterexample. Within an iterative and interdisciplinary design process, we developed visualization solutions that can effectively communicate the core aspects of the model checking result. Specifically, we introduce graphical representations of binary values for improving pattern recognition, color encoding for better indicating related aspects, visually enhanced textual descriptions, as well as extensive cross-view highlighting mechanisms. Further, through an underlying causal analysis of the counterexample, we are also able to identify values that contributed to the violation and use this knowledge for both improved encoding and highlighting. Finally, the analyst can modify both the specification of the hyperproperty and the system directly within HyperVis and initiate the model checking of the new version. In combination, these features notably support the analyst in understanding the error leading to the counterexample as well as iterating the provided system and specification. We ran multiple case studies with HyperVis and tested it with domain experts in qualitative feedback sessions. The participants' positive feedback confirms the considerable improvement over the manual, text-based status quo and the value of the tool for explaining hyperproperties."
+    },
+    {
+        "title": "Explanatory Journeys: Visualising to Understand and Explain Administrative Justice Paths of Redress",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Jonathan C. Roberts",
+            "Peter Butcher",
+            "Ann Sherlock",
+            "Sarah Nason"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114818",
+        "citation": 4,
+        "abstract": "Administrative justice concerns the relationships between individuals and the state. It includes redress and complaints on decisions of a child's education, social care, licensing, planning, environment, housing and homelessness. However, if someone has a complaint or an issue, it is challenging for people to understand different possible redress paths and explore what path is suitable for their situation. Explanatory visualisation has the potential to display these paths of redress in a clear way, such that people can see, understand and explore their options. The visualisation challenge is further complicated because information is spread across many documents, laws, guidance and policies and requires judicial interpretation. Consequently, there is not a single database of paths of redress. In this work we present how we have co-designed a system to visualise administrative justice paths of redress. Simultaneously, we classify, collate and organise the underpinning data, from expert workshops, heuristic evaluation and expert critical reflection. We make four contributions: (i) an application design study of the explanatory visualisation tool (Artemus), (ii) coordinated and co-design approach to aggregating the data, (iii) two in-depth case studies in housing and education demonstrating explanatory paths of redress in administrative law, and (iv) reflections on the expert co-design process and expert data gathering and explanatory visualisation for administrative justice and law."
+    },
+    {
+        "title": "Interactive Data Comics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Zezhong Wang",
+            "Hugo Romat",
+            "Fanny Chevalier",
+            "Nathalie Henry Riche",
+            "Dave Murray-Rust",
+            "Benjamin Bach"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114849",
+        "citation": 4,
+        "abstract": "This paper investigates how to make data comics interactive. Data comics are an effective and versatile means for visual communication, leveraging the power of sequential narration and combined textual and visual content, while providing an overview of the storyline through panels assembled in expressive layouts. While a powerful static storytelling medium that works well on paper support, adding interactivity to data comics can enable non-linear storytelling, personalization, levels of details, explanations, and potentially enriched user experiences. This paper introduces a set of operations tailored to support data comics narrative goals that go beyond the traditional linear, immutable storyline curated by a story author. The goals and operations include adding and removing panels into pre-defined layouts to support branching, change of perspective, or access to detail-on-demand, as well as providing and modifying data, and interacting with data representation, to support personalization and reader-defined data focus. We propose a lightweight specification language, COMICSCRIPT, for designers to add such interactivity to static comics. To assess the viability of our authoring process, we recruited six professional illustrators, designers and data comics enthusiasts and asked them to craft an interactive comic, allowing us to understand authoring workflow and potential of our approach. We present examples of interactive comics in a gallery. This initial step towards understanding the design space of interactive comics can inform the design of creation tools and experiences for interactive storytelling."
+    },
+    {
+        "title": "Automatic Polygon Layout for Primal-Dual Visualization of Hypergraphs",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Botong Qu",
+            "Eugene Zhang",
+            "Yue Zhang"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114759",
+        "citation": 3,
+        "abstract": "N-ary relationships, which relate $N$ entities where $N$ is not necessarily two, can be visually represented as polygons whose vertices are the entities of the relationships. Manually generating a high-quality layout using this representation is labor-intensive. In this paper, we provide an automatic polygon layout generation algorithm for the visualization of N-ary relationships. At the core of our algorithm is a set of objective functions motivated by a number of design principles that we have identified. These objective functions are then used in an optimization framework that we develop to achieve high-quality layouts. Recognizing the duality between entities and relationships in the data, we provide a second visualization in which the roles of entities and relationships in the original data are reversed. This can lead to additional insight about the data. Furthermore, we enhance our framework for a joint optimization on the primal layout (original data) and the dual layout (where the roles of entities and relationships are reversed). This allows users to inspect their data using two complementary views. We apply our visualization approach to a number of datasets that include co-authorship data and social contact pattern data."
+    },
+    {
+        "title": "Generative Design Inspiration for Glyphs with Diatoms",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Matthew Brehmer",
+            "Robert Kosara",
+            "Carmen Hull"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114792",
+        "citation": 3,
+        "abstract": "We introduce Diatoms, a technique that generates design inspiration for glyphs by sampling from palettes of mark shapes, encoding channels, and glyph scaffold shapes. Diatoms allows for a degree of randomness while respecting constraints imposed by columns in a data table: their data types and domains as well as semantic associations between columns as specified by the designer. We pair this generative design process with two forms of interactive design externalization that enable comparison and critique of the design alternatives. First, we incorporate a familiar small multiples configuration in which every data point is drawn according to a single glyph design, coupled with the ability to page between alternative glyph designs. Second, we propose a small permutables design gallery, in which a single data point is drawn according to each alternative glyph design, coupled with the ability to page between data points. We demonstrate an implementation of our technique as an extension to Tableau featuring three example palettes, and to better understand how Diatoms could fit into existing design workflows, we conducted interviews and chauffeured demos with 12 designers. Finally, we reflect on our process and the designers' reactions, discussing the potential of our technique in the context of visualization authoring systems. Ultimately, our approach to glyph design and comparison can kickstart and inspire visualization design, allowing for the serendipitous discovery of shape and channel combinations that would have otherwise been overlooked."
+    },
+    {
+        "title": "Pyramid-based Scatterplots Sampling for Progressive and Streaming Data Visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Xin Chen",
+            "Jian Zhang",
+            "Chi-Wing Fu",
+            "Jean-Daniel Fekete",
+            "Yunhai Wang"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114880",
+        "citation": 3,
+        "abstract": "We present a pyramid-based scatterplot sampling technique to avoid overplotting and enable progressive and streaming visualization of large data. Our technique is based on a multiresolution pyramid-based decomposition of the underlying density map and makes use of the density values in the pyramid to guide the sampling at each scale for preserving the relative data densities and outliers. We show that our technique is competitive in quality with state-of-the-art methods and runs faster by about an order of magnitude. Also, we have adapted it to deliver progressive and streaming data visualization by processing the data in chunks and updating the scatterplot areas with visible changes in the density map. A quantitative evaluation shows that our approach generates stable and faithful progressive samples that are comparable to the state-of-the-art method in preserving relative densities and superior to it in keeping outliers and stability when switching frames. We present two case studies that demonstrate the effectiveness of our approach for exploring large data."
+    },
+    {
+        "title": "Knowledge Rocks: Adding Knowledge Assistance to Visualization Systems",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Anna-Pia Lohfink",
+            "Simon D. Duque Anton",
+            "Heike Leitte",
+            "Christoph Garth"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114687",
+        "citation": 3,
+        "abstract": "We present Knowledge Rocks, an implementation strategy and guideline for augmenting visualization systems to knowledge-assisted visualization systems, as defined by the KAVA model. Visualization systems become more and more sophisticated. Hence, it is increasingly important to support users with an integrated knowledge base in making constructive choices and drawing the right conclusions. We support the effective reactivation of visualization software resources by augmenting them with knowledge-assistance. To provide a general and yet supportive implementation strategy, we propose an implementation process that bases on an application-agnostic architecture. This architecture is derived from existing knowledge-assisted visualization systems and the KAVA model. Its centerpiece is an ontology that is able to automatically analyze and classify input data, linked to a database to store classified instances. We discuss design decisions and advantages of the KR framework and illustrate its broad area of application in diverse integration possibilities of this architecture into an existing visualization system. In addition, we provide a detailed case study by augmenting an it-security system with knowledge-assistance facilities."
+    },
+    {
+        "title": "Exploring the Personal Informatics Analysis Gap: “There's a Lot of Bacon”",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Jimmy Moore",
+            "Pascal Goffin",
+            "Jason Wiese",
+            "Miriah Meyer"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114798",
+        "citation": 2,
+        "abstract": "Personal informatics research helps people track personal data for the purposes of self-reflection and gaining self-knowledge. This field, however, has predominantly focused on the data collection and insight-generation elements of self-tracking, with less attention paid to flexible data analysis. As a result, this inattention has led to inflexible analytic pipelines that do not reflect or support the diverse ways people want to engage with their data. This paper contributes a review of personal informatics and visualization research literature to expose a gap in our knowledge for designing flexible tools that assist people engaging with and analyzing personal data in personal contexts, what we call the personal informatics analysis gap. We explore this gap through a multistage longitudinal study on how asthmatics engage with personal air quality data, and we report how participants: were motivated by broad and diverse goals; exhibited patterns in the way they explored their data; engaged with their data in playful ways; discovered new insights through serendipitous exploration; and were reluctant to use analysis tools on their own. These results present new opportunities for visual analysis research and suggest the need for fundamental shifts in how and what we design when supporting personal data analysis."
+    },
+    {
+        "title": "A Domain-Oblivious Approach for Learning Concise Representations of Filtered Topological Spaces for Clustering",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Yu Qin",
+            "Brittany Terese Fasy",
+            "Carola Wenk",
+            "Brian Summa"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114872",
+        "citation": 2,
+        "abstract": "Persistence diagrams have been widely used to quantify the underlying features of filtered topological spaces in data visualization. In many applications, computing distances between diagrams is essential; however, computing these distances has been challenging due to the computational cost. In this paper, we propose a persistence diagram hashing framework that learns a binary code representation of persistence diagrams, which allows for fast computation of distances. This framework is built upon a generative adversarial network (GAN) with a diagram distance loss function to steer the learning process. Instead of using standard representations, we hash diagrams into binary codes, which have natural advantages in large-scale tasks. The training of this model is domain-oblivious in that it can be computed purely from synthetic, randomly created diagrams. As a consequence, our proposed method is directly applicable to various datasets without the need for retraining the model. These binary codes, when compared using fast Hamming distance, better maintain topological similarity properties between datasets than other vectorized representations. To evaluate this method, we apply our framework to the problem of diagram clustering and we compare the quality and performance of our approach to the state-of-the-art. In addition, we show the scalability of our approach on a dataset with 10k persistence diagrams, which is not possible with current techniques. Moreover, our experimental results demonstrate that our method is significantly faster with the potential of less memory usage, while retaining comparable or better quality comparisons."
+    },
+    {
+        "title": "VizSnippets: Compressing Visualization Bundles Into Representative Previews for Browsing Visualization Collections",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Michael Oppermann",
+            "Tamara Munzner"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114841",
+        "citation": 2,
+        "abstract": "Visualization collections, accessed by platforms such as Tableau Online or Power Bl, are used by millions of people to share and access diverse analytical knowledge in the form of interactive visualization bundles. Result snippets, compact previews of these bundles, are presented to users to help them identify relevant content when browsing collections. Our engagement with Tableau product teams and review of existing snippet designs on five platforms showed us that current practices fail to help people judge the relevance of bundles because they include only the title and one image. Users frequently need to undertake the time-consuming endeavour of opening a bundle within its visualization system to examine its many views and dashboards. In response, we contribute the first systematic approach to visualization snippet design. We propose a framework for snippet design that addresses eight key challenges that we identify. We present a computational pipeline to compress the visual and textual content of bundles into representative previews that is adaptive to a provided pixel budget and provides high information density with multiple images and carefully chosen keywords. We also reflect on the method of visual inspection through random sampling to gain confidence in model and parameter choices."
+    },
+    {
+        "title": "Interactive Exploration of Physically-Observable Objective Vortices in Unsteady 2D Flow",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Xingdi Zhang",
+            "Markus Hadwiger",
+            "Thomas Theußl",
+            "Peter Rautek"
+        ],
+        "DOI": "10.1109/TVCG.2021.3115565",
+        "citation": 2,
+        "abstract": "State-of-the-art computation and visualization of vortices in unsteady fluid flow employ objective vortex criteria, which makes them independent of reference frames or observers. However, objectivity by itself, although crucial, is not sufficient to guarantee that one can identify physically-realizable observers that would perceive or detect the same vortices. Moreover, a significant challenge is that a single reference frame is often not sufficient to accurately observe multiple vortices that follow different motions. This paper presents a novel framework for the exploration and use of an interactively-chosen set of observers, of the resulting relative velocity fields, and of objective vortex structures. We show that our approach facilitates the objective detection and visualization of vortices relative to well-adapted reference frame motions, while at the same time guaranteeing that these observers are in fact physically realizable. In order to represent and manipulate observers efficiently, we make use of the low-dimensional vector space structure of the Lie algebra of physically-realizable observer motions. We illustrate that our framework facilitates the efficient choice and guided exploration of objective vortices in unsteady 2D flow, on planar as well as on spherical domains, using well-adapted reference frames."
+    },
+    {
+        "title": "F2-Bubbles: Faithful Bubble Set Construction and Flexible Editing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Yunhai Wang",
+            "Da Cheng",
+            "Zhirui Wang",
+            "Jian Zhang",
+            "Liang Zhou",
+            "Gaoqi He",
+            "Oliver Deussen"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114761",
+        "citation": 2,
+        "abstract": "In this paper, we propose F2-Bubbles, a set overlay visualization technique that addresses overlapping artifacts and supports interactive editing with intelligent suggestions. The core of our method is a new, efficient set overlay construction algorithm that approximates the optimal set overlay by considering set elements and their non-set neighbors. Thanks to the efficiency of the algorithm, interactive editing is achieved, and with intelligent suggestions, users can easily and flexibly edit visualizations through direct manipulations with local adaptations. A quantitative comparison with state-of-the-art set visualization techniques and case studies demonstrate the effectiveness of our method and suggests that F2-Bubbles is a helpful technique for set visualization."
+    },
+    {
+        "title": "EVis: Visually Analyzing Environmentally Driven Events",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Tinghao Feng",
+            "Jing Yang",
+            "Martha-Cary Eppes",
+            "Zhaocong Yang",
+            "Faye Moser"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114867",
+        "citation": 1,
+        "abstract": "Earth scientists are increasingly employing time series data with multiple dimensions and high temporal resolution to study the impacts of climate and environmental changes on Earth's atmosphere, biosphere, hydrosphere, and lithosphere. However, the large number of variables and varying time scales of antecedent conditions contributing to natural phenomena hinder scientists from completing more than the most basic analyses. In this paper, we present EVis (Environmental Visualization), a new visual analytics prototype to help scientists analyze and explore recurring environmental events (e.g. rock fracture, landslides, heat waves, floods) and their relationships with high dimensional time series of continuous numeric environmental variables, such as ambient temperature and precipitation. EVis provides coordinated scatterplots, heatmaps, histograms, and RadViz for foundational analyses. These features allow users to interactively examine relationships between events and one, two, three, or more environmental variables. EVis also provides a novel visual analytics approach to allowing users to discover temporally lagging relationships related to antecedent conditions between events and multiple variables, a critical task in Earth sciences. In particular, this latter approach projects multivariate time series onto trajectories in a 2D space using RadViz, and clusters the trajectories for temporal pattern discovery. Our case studies with rock cracking data and interviews with domain experts from a range of sub-disciplines within Earth sciences illustrate the extensive applicability and usefulness of EVis."
+    },
+    {
+        "title": "Feature Curves and Surfaces of 3D Asymmetric Tensor Fields",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Shih-Hsuan Hung",
+            "Yue Zhang",
+            "Harry Yeh",
+            "Eugene Zhang"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114808",
+        "citation": 1,
+        "abstract": "3D asymmetric tensor fields have found many applications in science and engineering domains, such as fluid dynamics and solid mechanics. 3D asymmetric tensors can have complex eigenvalues, which makes their analysis and visualization more challenging than 3D symmetric tensors. Existing research in tensor field visualization focuses on 2D asymmetric tensor fields and 3D symmetric tensor fields. In this paper, we address the analysis and visualization of 3D asymmetric tensor fields. We introduce six topological surfaces and one topological curve, which lead to an eigenvalue space based on the tensor mode that we define. In addition, we identify several non-topological feature surfaces that are nonetheless physically important. Included in our analysis are the realizations that triple degenerate tensors are structurally stable and form curves, unlike the case for 3D symmetric tensors fields. Furthermore, there are two different ways of measuring the relative strengths of rotation and angular deformation in the tensor fields, unlike the case for 2D asymmetric tensor fields. We extract these feature surfaces using the A-patches algorithm. However, since three of our feature surfaces are quadratic, we develop a method to extract quadratic surfaces at any given accuracy. To facilitate the analysis of eigenvector fields, we visualize a hyperstreamline as a tree stem with the other two eigenvectors represented as thorns in the real domain or the dual-eigenvectors as leaves in the complex domain. To demonstrate the effectiveness of our analysis and visualization, we apply our approach to datasets from solid mechanics and fluid dynamics."
+    },
+    {
+        "title": "Learning Objectives, Insights, and Assessments: How Specification Formats Impact Design",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Elsie Lee-Robbins",
+            "Shiqing He",
+            "Eytan Adar"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114811",
+        "citation": 1,
+        "abstract": "Despite the ubiquity of communicative visualizations, specifying communicative intent during design is ad hoc. Whether we are selecting from a set of visualizations, commissioning someone to produce them, or creating them ourselves, an effective way of specifying intent can help guide this process. Ideally, we would have a concise and shared specification language. In previous work, we have argued that communicative intents can be viewed as a learning/assessment problem (i.e., what should the reader learn and what test should they do well on). Learning-based specification formats are linked (e.g., assessments are derived from objectives) but some may more effectively specify communicative intent. Through a large-scale experiment, we studied three specification types: learning objectives, insights, and assessments. Participants, guided by one of these specifications, rated their preferences for a set of visualization designs. Then, we evaluated the set of visualization designs to assess which specification led participants to prefer the most effective visualizations. We find that while all specification types have benefits over no-specification, each format has its own advantages. Our results show that learning objective-based specifications helped participants the most in visualization selection. We also identify situations in which specifications may be insufficient and assessments are vital."
+    },
+    {
+        "title": "Towards replacing physical testing of granular materials with a Topology-based Model",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Aniketh Venkat",
+            "Attila Gyulassy",
+            "Graham Kosiba",
+            "Amitesh Maiti",
+            "Henry Reinstein",
+            "Richard Gee",
+            "Peer-Timo Bremer",
+            "Valerio Pascucci"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114819",
+        "citation": 1,
+        "abstract": "In the study of packed granular materials, the performance of a sample (e.g., the detonation of a high-energy explosive) often correlates to measurements of a fluid flowing through it. The “effective surface area,” the surface area accessible to the airflow, is typically measured using a permeametry apparatus that relates the flow conductance to the permeable surface area via the Carman-Kozeny equation. This equation allows calculating the flow rate of a fluid flowing through the granules packed in the sample for a given pressure drop. However, Carman-Kozeny makes inherent assumptions about tunnel shapes and flow paths that may not accurately hold in situations where the particles possess a wide distribution in shapes, sizes, and aspect ratios, as is true with many powdered systems of technological and commercial interest. To address this challenge, we replicate these measurements virtually on micro-CT images of the powdered material, introducing a new Pore Network Model based on the skeleton of the Morse-Smale complex. Pores are identified as basins of the complex, their incidence encodes adjacency, and the conductivity of the capillary between them is computed from the cross-section at their interface. We build and solve a resistive network to compute an approximate laminar fluid flow through the pore structure. We provide two means of estimating flow-permeable surface area: (i) by direct computation of conductivity, and (ii) by identifying dead-ends in the flow coupled with isosurface extraction and the application of the Carman-Kozeny equation, with the aim of establishing consistency over a range of particle shapes, sizes, porosity levels, and void distribution patterns."
+    },
+    {
+        "title": "Rotate or Wrap? Interactive Visualisations of Cyclical Data on Cylindrical or Toroidal Topologies",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Kun-Ting Chen",
+            "Tim Dwyer",
+            "Benjamin Bach",
+            "Kim Marriott"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114693",
+        "citation": 0,
+        "abstract": "In this paper, we report on a study of visual representations for cyclical data and the effect of interactively wrapping a bar chart ‘around its boundaries’. Compared to linear bar chart, polar (or radial) visualisations have the advantage that cyclical data can be presented continuously without mentally bridging the visual ‘cut’ across the left-and-right boundaries. To investigate this hypothesis and to assess the effect the cut has on analysis performance, this paper presents results from a crowdsourced, controlled experiment with 72 participants comparing new continuous panning technique to linear bar charts (interactive wrapping). Our results show that bar charts with interactive wrapping lead to less errors compared to standard bar charts or polar charts. Inspired by these results, we generalise the concept of interactive wrapping to other visualisations for cyclical or relational data. We describe a design space based on the concept of one-dimensional wrapping and two-dimensional wrapping, linked to two common 3D topologies; cylinder and torus that can be used to metaphorically explain one- and two-dimensional wrapping. This design space suggests that interactive wrapping is widely applicable to many different data types."
+    },
+    {
+        "title": "Rapid Labels: Point-Feature Labeling on GPU",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Vaclav Pavlovec",
+            "Ladislav Cmolik"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114854",
+        "citation": 0,
+        "abstract": "Labels, short textual annotations are an important component of data visualizations, illustrations, infographics, and geographical maps. In interactive applications, the labeling method responsible for positioning the labels should not take the resources from the application itself. In other words, the labeling method should provide the result as fast as possible. In this work, we propose a greedy point-feature labeling method running on GPU. In contrast to existing methods that position the labels sequentially, the proposed method positions several labels in parallel. Yet, we guarantee that the positioned labels will not overlap, nor will they overlap important visual features. When the proposed method is searching for the label position of a point-feature, the available label candidates are evaluated with respect to overlaps with important visual features, conflicts with label candidates of other point-features, and their ambiguity. The evaluation of each label candidate is done in constant time independently from the number of point-features, the number of important visual features, and the resolution of the created image. Our measurements indicate that the proposed method is able to position more labels than existing greedy methods that do not evaluate conflicts between the label candidates. At the same time, the proposed method achieves a significant increase in performance. The increase in performance is mainly due to the parallelization and the efficient evaluation of label candidates."
+    },
+    {
+        "title": "Data-Aware Predictive Scheduling for Distributed-Memory Ray Tracing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Hyungman Park",
+            "Donald Fussell",
+            "Paul Navrátil"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114838",
+        "citation": 0,
+        "abstract": "Scientific ray tracing now can include realistic shading and material properties, but tracing rays of various depths to conclusion through partitioned data is inefficient. For such data, many ray scheduling methods have demonstrated improved rendering performance. However, synchronicity and non-adaptivity inherent in prior methods hinder further performance optimizations. In this paper, we attempt to relax these constraints. Specifically, we incorporate prediction models capable of dynamically adjusting levels of speculation in ray-data queries, making ray scheduling highly adaptable to a spectrum of scene characteristics. In addition, we organize rays in a tree of speculation nodes, where speculation is coordinated pairwise within a subtree of adaptive ray groups, facilitating concurrency and parallelism. Compared to prior non-predictive methods, we achieve up to three times higher throughput for volume and geometry rendering on a distributed system, making our method fit for both interactive and offline applications."
+    },
+    {
+        "title": "Visualization Equilibrium",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Paula Kayongo",
+            "Glenn Sun",
+            "Jason Hartline",
+            "Jessica Hullman"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114842",
+        "citation": 0,
+        "abstract": "In many real-world strategic settings, people use information displays to make decisions. In these settings, an information provider chooses which information to provide to strategic agents and how to present it, and agents formulate a best response based on the information and their anticipation of how others will behave. We contribute the results of a controlled online experiment to examine how the provision and presentation of information impacts people's decisions in a congestion game. Our experiment compares how different visualization approaches for displaying this information, including bar charts and hypothetical outcome plots, and different information conditions, including where the visualized information is private versus public (i.e., available to all agents), affect decision making and welfare. We characterize the effects of visualization anticipation, referring to changes to behavior when an agent goes from alone having access to a visualization to knowing that others also have access to the visualization to guide their decisions. We also empirically identify the visualization equilibrium, i.e., the visualization for which the visualized outcome of agents' decisions matches the realized decisions of the agents who view it. We reflect on the implications of visualization equilibria and visualization anticipation for designing information displays for real-world strategic settings."
+    },
+    {
+        "title": "VIS 2021 Conference Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114894",
+        "citation": 0,
+        "abstract": "Presents a listing of the VIS 2021 Conference Committee."
+    },
+    {
+        "title": "VIS 2021 Program Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114915",
+        "citation": 0,
+        "abstract": "Presents a listing of the VIS 2021 Program Committee."
+    },
+    {
+        "title": "VIS 2021 Steering Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3125547",
+        "citation": 0,
+        "abstract": "Presents a listing of the VIS 2021 Steering Committee."
+    },
+    {
+        "title": "VIS 2021 Area Curation Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3125551",
+        "citation": 0,
+        "abstract": "Presents a listing of the VIS 2021 Area Curation Committee."
+    },
+    {
+        "title": "VIS 2021 Executive Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3125595",
+        "citation": 0,
+        "abstract": "Presents a listing of the VIS 2021 Executive Committee."
+    },
+    {
+        "title": "Welcome",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Brian Summa",
+            "Luis Gustavo Nonato"
+        ],
+        "DOI": "10.1109/TVCG.2021.3115333",
+        "citation": 0,
+        "abstract": "We have been honored to oversee the organization of IEEE VIS 2021. This marked the first year in which the SciVis, InfoVis, and VAST conferences were merged into a single, unified IEEE VIS. When we began planning for VIS in 2019, we envisioned a great experience for our community, who would be able to enjoy the innovative scientific program provided by a unified VIS, while delighting in the hospitable and lively atmosphere of New Orleans. But even the best laid plans cannot account for all contingencies. The emergence of the COVID-19 pandemic changed and complicated much in our lives, including the planning for VIS 2021. Moreover, transition to a unified conference was not without its challenges as well. Despite the difficulties, our community showed, once again, its strength and resilience. Our organizing committee created an exciting conference with a rich program full of high-quality research with all challenges being continuously and admirably addressed. As general chairs, our primary responsibility was to watch these wonderful volunteers conduct truly inspiring work under extreme constraints. For this, we are deeply indebted."
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC): http://vgtc.org/",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114900",
+        "citation": 0,
+        "abstract": "Presents a listing of the IEEE Visualization and Graphics Technical Committee."
+    },
+    {
+        "title": "Message from the Editor-in-Chief",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Klaus Mueller"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114914",
+        "citation": 0,
+        "abstract": "Welcome to the January 2022 issue of the IEEE Transactions on Visualization and Computer Graphics (TVCG). This is traditionally the time of the year when we feature the IEEE VIS special issue and this year is no different. But there is one significant difference — IEEE VIS is now fully unified. There is no more IEEE VAST, IEEE InfoVis and IEEE SciVis; there is just IEEE VIS, tiled into six overarching areas: Applications (24 papers), Analytics & Decisions (19), Theoretical & Empirical (24), Representations & Interaction (19), Data Transformations (14) and Systems & Rendering (11). The conference was scheduled to take place in New Orleans (LA) but was moved to a virtual event due to the global coronavirus pandemic. This virtual conference took place from October 24-29, 2021. Contained in this special issue are the top 110 papers selected by the unified program committee from a total of 441 submissions. In addition, this issue also contains the Best Paper of the 2021 IEEE Large Scale Data Analysis and Visualization (LDAV) Symposium and the Best Paper of the 2021 IEEE Symposium on Visualization for Cyber Security (VizSec)."
+    },
+    {
+        "title": "VIS 2021 Best Papers Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114935",
+        "citation": 0,
+        "abstract": "Presents a listing of the VIS 2021 Best Papers Committee."
+    },
+    {
+        "title": "Preface",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [
+            "Bongshin Lee",
+            "Silvia Miksch",
+            "Anders Ynnerman",
+            "Anastasia Bezerianos",
+            "Jian Chen",
+            "Wei Chen",
+            "Christopher Collins",
+            "Michael Gleicher",
+            "Eduard Gröller",
+            "Alexander Lex",
+            "Bernhard Preim",
+            "Jinwook Seo",
+            "Ruediger Westermann",
+            "Jing Yang",
+            "Xiaoru Yuan",
+            "Han-Wei Shen",
+            "Jean-Daniel Fekete",
+            "Shixia Liu"
+        ],
+        "DOI": "10.1109/TVCG.2021.3114891",
+        "citation": 0,
+        "abstract": "This February 2022 issue of the IEEE Transactions on Visualization and Computer Graphics (TVCG) contains the proceedings of IEEE VIS 2021, held online on October 24-29, 2021, with General Chairs from Tulane University and Universidade de Sao Paulo. With IEEE VIS 2021, the conference series is in its 32nd year."
+    },
+    {
+        "title": "IEEE Transactions on Visualization and Computer Graphics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114892",
+        "citation": 1,
+        "abstract": "Presents the front cover for the IEEE Visualization and Visual Analytics Conference. "
+    },
+    {
+        "title": "2021 Index IEEE Transactions on Visualization and Computer Graphics Vol. 27",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2022.3163599",
+        "citation": 0,
+        "abstract": "Presents the 2021 subject/author index for this publication."
+    },
+    {
+        "title": "Table of Contents",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114898",
+        "citation": 0,
+        "abstract": "Presents the table of contents for this issue of the publication."
+    },
+    {
+        "title": "2021 VGTC Visualization Dissertation Award—Arjun Srinivasan, Tableau Software",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114603",
+        "citation": 0,
+        "abstract": "The 2021 VGTC Visualization Dissertation Award goes to Arjun Srinivasan. Arjun Srinivasan is a member of the Senior Research Staff at Tableau Software in Seattle. He received his Ph.D. from the Georgia Institute of Technology under the supervision of Regents Professor John Stasko. His dissertation bridges the fields of Information Visualization, Human-Computer Interaction, and Natural Language Processing to illustrate the potential of visualization interfaces combining natural language (NL) and direct manipulation (DM) for fluid and expressive human-data interaction experiences."
+    },
+    {
+        "title": "2021 VGTC Visualization Lifetime Achievement Award—Jarke van Wijk, Eindhoven University of Technology (TU/e)",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114604",
+        "citation": 0,
+        "abstract": "The 2021 VGTC Visualization Lifetime Achievement Award goes to Jarke van Wijk for his groundbreaking work in the field of data visualization, including fundamentally new approaches for trees, graphs, time series, and flows, for his extensive service to our community, and for his inspiring thoughts on the value of visualization."
+    },
+    {
+        "title": "2021 VGTC Visualization Significant New Researcher Award—Michelle Borkin, Northeastern University and Benjamin Bach, University of Edinburgh",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114605",
+        "citation": 0,
+        "abstract": "The 2021 VGTC Visualization Significant New Researcher Award goes to Michelle Borkin and Benjamin Bach. Michelle Borkin for her work on visualization memorability, visualization evaluation methods, and their application to astrophysics and medicine. Benjamin Bach for his systematic and theoretically-minded work on temporal visualization, narrative visualization, and immersive visualization."
+    },
+    {
+        "title": "Author Index",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3129326",
+        "citation": 0,
+        "abstract": "Presents the author index for this publication in 2021."
+    },
+    {
+        "title": "VIS 2021 Reviewers",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114913",
+        "citation": 0,
+        "abstract": "Presents a listing of the VIS 2021 reviewers."
+    },
+    {
+        "title": "2021 VGTC Visualization Technical Achievement Award—Daniel Weiskopf, University of Stuttgart, Germany",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114606",
+        "citation": 0,
+        "abstract": "The 2021 VGTC Visualization Technical Achievement Award goes to Daniel Weiskopf for his research on quantifiable approaches, which has led to deep, powerful, and influential contributions to the visualization of volumes, flows, ensembles, and graphs."
+    },
+    {
+        "title": "2021 VGTC Visualization Service Award—Loretta Auvil, National Center for Supercomputing Applications at the University of Illinois at Urbana Champaign",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2022",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2021.3114602",
+        "citation": 0,
+        "abstract": "The 2021 VGTC Visualization Service Award goes to Loretta Auvil for the dedicated expertise and leadership she has provided to the visualization and visual analytics community through more than two decades of service as a finance chair of the VIS conference as well as her longterm service as finance chair of VGTC."
     }
 ]

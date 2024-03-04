@@ -1266,5 +1266,723 @@
         "DOI": "10.1109/TVCG.2019.2934209",
         "citation": 9,
         "abstract": "The collection of large, complex datasets has become common across a wide variety of domains. Visual analytics tools increasingly play a key role in exploring and answering complex questions about these large datasets. However, many visualizations are not designed to concurrently visualize the large number of dimensions present in complex datasets (e.g. tens of thousands of distinct codes in an electronic health record system). This fact, combined with the ability of many visual analytics systems to enable rapid, ad-hoc specification of groups, or cohorts, of individuals based on a small subset of visualized dimensions, leads to the possibility of introducing selection bias-when the user creates a cohort based on a specified set of dimensions, differences across many other unseen dimensions may also be introduced. These unintended side effects may result in the cohort no longer being representative of the larger population intended to be studied, which can negatively affect the validity of subsequent analyses. We present techniques for selection bias tracking and visualization that can be incorporated into high-dimensional exploratory visual analytics systems, with a focus on medical data with existing data hierarchies. These techniques include: (1) tree-based cohort provenance and visualization, including a user-specified baseline cohort that all other cohorts are compared against, and visual encoding of cohort “drift”, which indicates where selection bias may have occurred, and (2) a set of visualizations, including a novel icicle-plot based visualization, to compare in detail the per-dimension differences between the baseline and a user-specified focus cohort. These techniques are integrated into a medical temporal event sequence visual analytics tool. We present example use cases and report findings from domain expert user interviews."
+    },
+    {
+        "title": "Toward Localized Topological Data Structures: Querying the Forest for the Tree",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Pavol Klacansky",
+            "Attila Gyulassy",
+            "Peer-Timo Bremer",
+            "Valerio Pascucci"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934257",
+        "citation": 8,
+        "abstract": "Topological approaches to data analysis can answer complex questions about the number, connectivity, and scale of intrinsic features in scalar data. However, the global nature of many topological structures makes their computation challenging at scale, and thus often limits the size of data that can be processed. One key quality to achieving scalability and performance on modern architectures is data locality, i.e., a process operates on data that resides in a nearby memory system, avoiding frequent jumps in data access patterns. From this perspective, topological computations are particularly challenging because the implied data structures represent features that can span the entire data set, often requiring a global traversal phase that limits their scalability. Traditionally, expensive preprocessing is considered an acceptable trade-off as it accelerates all subsequent queries. Most published use cases, however, explore only a fraction of all possible queries, most often those returning small, local features. In these cases, much of the global information is not utilized, yet computing it dominates the overall response time. We address this challenge for merge trees, one of the most commonly used topological structures. In particular, we propose an alternative representation, the merge forest, a collection of local trees corresponding to regions in a domain decomposition. Local trees are connected by a bridge set that allows us to recover any necessary global information at query time. The resulting system couples (i) a preprocessing that scales linearly in practice with (ii) fast runtime queries that provide the same functionality as traditional queries of a global merge tree. We test the scalability of our approach on a shared-memory parallel computer and demonstrate how data structure locality enables the analysis of large data with an order of magnitude performance improvement over the status quo. Furthermore, a merge forest reduces the memory overhead compared to a global merge tree and enables the processing of data sets that are an order of magnitude larger than possible with previous algorithms."
+    },
+    {
+        "title": "ShapeWordle: Tailoring Wordles using Shape-aware Archimedean Spirals",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Yunhai Wang",
+            "Xiaowei Chu",
+            "Kaiyi Zhang",
+            "Chen Bao",
+            "Xiaotong Li",
+            "Jian Zhang",
+            "Chi-Wing Fu",
+            "Christophe Hurter",
+            "Oliver Deussen",
+            "Bongshin Lee"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934783",
+        "citation": 8,
+        "abstract": "We present a new technique to enable the creation of shape-bounded Wordles, we call ShapeWordle, in which we fit words to form a given shape. To guide word placement within a shape, we extend the traditional Archimedean spirals to be shape-aware by formulating the spirals in a differential form using the distance field of the shape. To handle non-convex shapes, we introduce a multi-centric Wordle layout method that segments the shape into parts for our shape-aware spirals to adaptively fill the space and generate word placements. In addition, we offer a set of editing interactions to facilitate the creation of semantically-meaningful Wordles. Lastly, we present three evaluations: a comprehensive comparison of our results against the state-of-the-art technique (WordArt), case studies with 14 users, and a gallery to showcase the coverage of our technique."
+    },
+    {
+        "title": "Winglets: Visualizing Association with Uncertainty in Multi-class Scatterplots",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Min Lu",
+            "Shuaiqi Wang",
+            "Joel Lanir",
+            "Noa Fish",
+            "Yang Yue",
+            "Daniel Cohen-Or",
+            "Hui Huang"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934811",
+        "citation": 8,
+        "abstract": "This work proposes Winglets, an enhancement to the classic scatterplot to better perceptually pronounce multiple classes by improving the perception of association and uncertainty of points to their related cluster. Designed as a pair of dual-sided strokes belonging to a data point, Winglets leverage the Gestalt principle of Closure to shape the perception of the form of the clusters, rather than use an explicit divisive encoding. Through a subtle design of two dominant attributes, length and orientation, Winglets enable viewers to perform a mental completion of the clusters. A controlled user study was conducted to examine the efficiency of Winglets in perceiving the cluster association and the uncertainty of certain points. The results show Winglets form a more prominent association of points into clusters and improve the perception of associating uncertainty."
+    },
+    {
+        "title": "Discriminability Tests for Visualization Effectiveness and Scalability",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Rafael Veras",
+            "Christopher Collins"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934432",
+        "citation": 8,
+        "abstract": "The scalability of a particular visualization approach is limited by the ability for people to discern differences between plots made with different datasets. Ideally, when the data changes, the visualization changes in perceptible ways. This relation breaks down when there is a mismatch between the encoding and the character of the dataset being viewed. Unfortunately, visualizations are often designed and evaluated without fully exploring how they will respond to a wide variety of datasets. We explore the use of an image similarity measure, the Multi-Scale Structural Similarity Index (MS-SSIM), for testing the discriminability of a data visualization across a variety of datasets. MS-SSIM is able to capture the similarity of two visualizations across multiple scales, including low level granular changes and high level patterns. Significant data changes that are not captured by the MS-SSIM indicate visualizations of low discriminability and effectiveness. The measure's utility is demonstrated with two empirical studies. In the first, we compare human similarity judgments and MS-SSIM scores for a collection of scatterplots. In the second, we compute the discriminability values for a set of basic visualizations and compare them with empirical measurements of effectiveness. In both cases, the analyses show that the computational measure is able to approximate empirical results. Our approach can be used to rank competing encodings on their discriminability and to aid in selecting visualizations for a particular type of data distribution."
+    },
+    {
+        "title": "SmartCube: An Adaptive Data Management Architecture for the Real-Time Visualization of Spatiotemporal Datasets",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Can Liu",
+            "Cong Wu",
+            "Hanning Shao",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934434",
+        "citation": 7,
+        "abstract": "Interactive visualization and exploration of large spatiotemporal data sets is difficult without carefully-designed data preprocessing and management tools. We propose a novel architecture for spatiotemporal data management. The architecture can dynamically update itself based on user queries. Datasets is stored in a tree-like structure to support memory sharing among cuboids in a logical structure of data cubes. An update mechanism is designed to create or remove cuboids on it, according to the analysis of the user queries, with the consideration of memory size limitation. Data structure is dynamically optimized according to different user queries. During a query process, user queries are recorded to predict the performance increment of the new cuboid. The creation or deletion of a cuboid is determined by performance increment. Experiment results show that our prototype system deliveries good performance towards user queries on different spatiotemporal datasets, which costing small memory size with comparable performance compared with other state-of-the-art algorithms."
+    },
+    {
+        "title": "Exploranative Code Quality Documents",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Haris Mumtaz",
+            "Shahid Latif",
+            "Fabian Beck",
+            "Daniel Weiskopf"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934669",
+        "citation": 7,
+        "abstract": "Good code quality is a prerequisite for efficiently developing maintainable software. In this paper, we present a novel approach to generate exploranative (explanatory and exploratory) data-driven documents that report code quality in an interactive, exploratory environment. We employ a template-based natural language generation method to create textual explanations about the code quality, dependent on data from software metrics. The interactive document is enriched by different kinds of visualization, including parallel coordinates plots and scatterplots for data exploration and graphics embedded into text. We devise an interaction model that allows users to explore code quality with consistent linking between text and visualizations; through integrated explanatory text, users are taught background knowledge about code quality aspects. Our approach to interactive documents was developed in a design study process that included software engineering and visual analytics experts. Although the solution is specific to the software engineering scenario, we discuss how the concept could generalize to multivariate data and report lessons learned in a broader scope."
+    },
+    {
+        "title": "P5: Portable Progressive Parallel Processing Pipelines for Interactive Data Analysis and Visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Jianping Kelvin Li",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934537",
+        "citation": 7,
+        "abstract": "We present P5, a web-based visualization toolkit that combines declarative visualization grammar and GPU computing for progressive data analysis and visualization. To interactively analyze and explore big data, progressive analytics and visualization methods have recently emerged. Progressive visualizations of incrementally refining results have the advantages of allowing users to steer the analysis process and make early decisions. P5 leverages declarative grammar for specifying visualization designs and exploits GPU computing to accelerate progressive data processing and rendering. The declarative specifications can be modified during progressive processing to create different visualizations for analyzing the intermediate results. To enable user interactions for progressive data analysis, P5 utilizes the GPU to automatically aggregate and index data based on declarative interaction specifications to facilitate effective interactive visualization. We demonstrate the effectiveness and usefulness of P5 through a variety of example applications and several performance benchmark tests."
+    },
+    {
+        "title": "Interactive Structure-aware Blending of Diverse Edge Bundling Visualizations",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Yunhai Wang",
+            "Mingliang Xue",
+            "Yanyan Wang",
+            "Xinyuan Yan",
+            "Baoquan Chen",
+            "Chi-Wing Fu",
+            "Christophe Hurter"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934805",
+        "citation": 7,
+        "abstract": "Many edge bundling techniques (i.e., data simplification as a support for data visualization and decision making) exist but they are not directly applicable to any kind of dataset and their parameters are often too abstract and difficult to set up. As a result, this hinders the user ability to create efficient aggregated visualizations. To address these issues, we investigated a novel way of handling visual aggregation with a task-driven and user-centered approach. Given a graph, our approach produces a decluttered view as follows: first, the user investigates different edge bundling results and specifies areas, where certain edge bundling techniques would provide user-desired results. Second, our system then computes a smooth and structural preserving transition between these specified areas. Lastly, the user can further fine-tune the global visualization with a direct manipulation technique to remove the local ambiguity and to apply different visual deformations. In this paper, we provide details for our design rationale and implementation. Also, we show how our algorithm gives more suitable results compared to current edge bundling techniques, and in the end, we provide concrete instances of usages, where the algorithm combines various edge bundling results to support diverse data exploration and visualizations."
+    },
+    {
+        "title": "High-throughput feature extraction for measuring attributes of deforming open-cell foams",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Steve Petruzza",
+            "Attila Gyulassy",
+            "Samuel Leventhal",
+            "John J. Baglino",
+            "Michael Czabaj",
+            "Ashley D. Spear",
+            "Valerio Pascucci"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934620",
+        "citation": 6,
+        "abstract": "Metallic open-cell foams are promising structural materials with applications in multifunctional systems such as biomedical implants, energy absorbers in impact, noise mitigation, and batteries. There is a high demand for means to understand and correlate the design space of material performance metrics to the material structure in terms of attributes such as density, ligament and node properties, void sizes, and alignments. Currently, X-ray Computed Tomography (CT) scans of these materials are segmented either manually or with skeletonization approaches that may not accurately model the variety of shapes present in nodes and ligaments, especially irregularities that arise from manufacturing, image artifacts, or deterioration due to compression. In this paper, we present a new workflow for analysis of open-cell foams that combines a new density measurement to identify nodal structures, and topological approaches to identify ligament structures between them. Additionally, we provide automated measurement of foam properties. We demonstrate stable extraction of features and time-tracking in an image sequence of a foam being compressed. Our approach allows researchers to study larger and more complex foams than could previously be segmented only manually, and enables the high-throughput analysis needed to predict future foam performance."
+    },
+    {
+        "title": "Multi-Scale Topological Analysis of Asymmetric Tensor Fields on Surfaces",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Fariba Khan",
+            "Lawrence Roy",
+            "Eugene Zhang",
+            "Botong Qu",
+            "Shih-Hsuan Hung",
+            "Harry Yeh",
+            "Robert S. Laramee",
+            "Yue Zhang"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934314",
+        "citation": 6,
+        "abstract": "Asymmetric tensor fields have found applications in many science and engineering domains, such as fluid dynamics. Recent advances in the visualization and analysis of 2D asymmetric tensor fields focus on pointwise analysis of the tensor field and effective visualization metaphors such as colors, glyphs, and hyperstreamlines. In this paper, we provide a novel multi-scale topological analysis framework for asymmetric tensor fields on surfaces. Our multi-scale framework is based on the notions of eigenvalue and eigenvector graphs. At the core of our framework are the identification of atomic operations that modify the graphs and the scale definition that guides the order in which the graphs are simplified to enable clarity and focus for the visualization of topological analysis on data of different sizes. We also provide efficient algorithms to realize these operations. Furthermore, we provide physical interpretation of these graphs. To demonstrate the utility of our system, we apply our multi-scale analysis to data in computational fluid dynamics."
+    },
+    {
+        "title": "sPortfolio: Stratified Visual Analysis of Stock Portfolios",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Xuanwu Yue",
+            "Jiaxin Bai",
+            "Qinhan Liu",
+            "Yiyang Tang",
+            "Abishek Puri",
+            "Ke Li",
+            "Huamin Qu"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934660",
+        "citation": 6,
+        "abstract": "Quantitative Investment, built on the solid foundation of robust financial theories, is at the center stage in investment industry today. The essence of quantitative investment is the multi-factor model, which explains the relationship between the risk and return of equities. However, the multi-factor model generates enormous quantities of factor data, through which even experienced portfolio managers find it difficult to navigate. This has led to portfolio analysis and factor research being limited by a lack of intuitive visual analytics tools. Previous portfolio visualization systems have mainly focused on the relationship between the portfolio return and stock holdings, which is insufficient for making actionable insights or understanding market trends. In this paper, we present sPortfolio, which, to the best of our knowledge, is the first visualization that attempts to explore the factor investment area. In particular, sPortfolio provides a holistic overview of the factor data and aims to facilitate the analysis at three different levels: a Risk-Factor level, for a general market situation analysis; a Multiple-Portfolio level, for understanding the portfolio strategies; and a Single-Portfolio level, for investigating detailed operations. The system's effectiveness and usability are demonstrated through three case studies. The system has passed its pilot study and is soon to be deployed in industry."
+    },
+    {
+        "title": "Extraction and Visual Analysis of Potential Vorticity Banners around the Alps",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Robin Bader",
+            "Michael Sprenger",
+            "Nikolina Ban",
+            "Stefan Rüdisühli",
+            "Christoph Schär",
+            "Tobias Günther"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934310",
+        "citation": 6,
+        "abstract": "Potential vorticity is among the most important scalar quantities in atmospheric dynamics. For instance, potential vorticity plays a key role in particularly strong wind peaks in extratropical cyclones and it is able to explain the occurrence of frontal rain bands. Potential vorticity combines the key quantities of atmospheric dynamics, namely rotation and stratification. Under suitable wind conditions elongated banners of potential vorticity appear in the lee of mountains. Their role in atmospheric dynamics has recently raised considerable interest in the meteorological community for instance due to their influence in aviation wind hazards and maritime transport. In order to support meteorologists and climatologists in the analysis of these structures, we developed an extraction algorithm and a visual exploration framework consisting of multiple linked views. For the extraction we apply a predictor-corrector algorithm that follows streamlines and realigns them with extremal lines of potential vorticity. Using the agglomerative hierarchical clustering algorithm, we group banners from different sources based on their proximity. To visually analyze the time-dependent banner geometry, we provide interactive overviews and enable the query for detail on demand, including the analysis of different time steps, potentially correlated scalar quantities, and the wind vector field. In particular, we study the relationship between relative humidity and the banners for their potential in indicating the development of precipitation. Working with our method, the collaborating meteorologists gained a deeper understanding of the three-dimensional processes, which may spur follow-up research in the future."
+    },
+    {
+        "title": "Temporal Views of Flattened Mitral Valve Geometries",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Pepe Eulzer",
+            "Sandy Engelhardt",
+            "Nils Lichtenberg",
+            "Raffaele de Simone",
+            "Kai Lawonn"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934337",
+        "citation": 6,
+        "abstract": "The mitral valve, one of the four valves in the human heart, controls the bloodflow between the left atrium and ventricle and may suffer from various pathologies. Malfunctioning valves can be treated by reconstructive surgeries, which have to be carefully planned and evaluated. While current research focuses on the modeling and segmentation of the valve, we base our work on existing segmentations of patient-specific mitral valves, that are also time-resolved (3D+t) over the cardiac cycle. The interpretation of the data can be ambiguous, due to the complex surface of the valve and multiple time steps. We therefore propose a software prototype to analyze such 3D+t data, by extracting pathophysiological parameters and presenting them via dimensionally reduced visualizations. For this, we rely on an existing algorithm to unroll the convoluted valve surface towards a flattened 2D representation. In this paper, we show that the 3D+t data can be transferred to 3D or 2D representations in a way that allows the domain expert to faithfully grasp important aspects of the cardiac cycle. In this course, we not only consider common pathophysiological parameters, but also introduce new observations that are derived from landmarks within the segmentation model. Our analysis techniques were developed in collaboration with domain experts and a survey showed that the insights have the potential to support mitral valve diagnosis and the comparison of the preand post-operative condition of a patient."
+    },
+    {
+        "title": "Estimating Color-Concept Associations from Image Statistics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Ragini Rathore",
+            "Zachary Leggon",
+            "Laurent Lessard",
+            "Karen B. Schloss"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934536",
+        "citation": 6,
+        "abstract": "To interpret the meanings of colors in visualizations of categorical information, people must determine how distinct colors correspond to different concepts. This process is easier when assignments between colors and concepts in visualizations match people's expectations, making color palettes semantically interpretable. Efforts have been underway to optimize color palette design for semantic interpretablity, but this requires having good estimates of human color-concept associations. Obtaining these data from humans is costly, which motivates the need for automated methods. We developed and evaluated a new method for automatically estimating color-concept associations in a way that strongly correlates with human ratings. Building on prior studies using Google Images, our approach operates directly on Google Image search results without the need for humans in the loop. Specifically, we evaluated several methods for extracting raw pixel content of the images in order to best estimate color-concept associations obtained from human ratings. The most effective method extracted colors using a combination of cylindrical sectors and color categories in color space. We demonstrate that our approach can accurately estimate average human color-concept associations for different fruits using only a small set of images. The approach also generalizes moderately well to more complicated recycling-related concepts of objects that can appear in any color."
+    },
+    {
+        "title": "A Natural-language-based Visual Query Approach of Uncertain Human Trajectories",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Zhaosong Huang",
+            "Ye Zhao",
+            "Wei Chen",
+            "Shengjie Gao",
+            "Kejie Yu",
+            "Weixia Xu",
+            "Mingjie Tang",
+            "Minfeng Zhu",
+            "Mingliang Xu"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934671",
+        "citation": 4,
+        "abstract": "Visual querying is essential for interactively exploring massive trajectory data. However, the data uncertainty imposes profound challenges to fulfill advanced analytics requirements. On the one hand, many underlying data does not contain accurate geographic coordinates, e.g., positions of a mobile phone only refer to the regions (i.e., mobile cell stations) in which it resides, instead of accurate GPS coordinates. On the other hand, domain experts and general users prefer a natural way, such as using a natural language sentence, to access and analyze massive movement data. In this paper, we propose a visual analytics approach that can extract spatial-temporal constraints from a textual sentence and support an effective query method over uncertain mobile trajectory data. It is built up on encoding massive, spatially uncertain trajectories by the semantic information of the POIs and regions covered by them, and then storing the trajectory documents in text database with an effective indexing scheme. The visual interface facilitates query condition specification, situation-aware visualization, and semantic exploration of large trajectory data. Usage scenarios on real-world human mobility datasets demonstrate the effectiveness of our approach."
+    },
+    {
+        "title": "Decoding a Complex Visualization in a Science Museum – An Empirical Study",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Joyce Ma",
+            "Kwan-Liu Ma",
+            "Jennifer Frazier"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934401",
+        "citation": 4,
+        "abstract": "This study describes a detailed analysis of museum visitors' decoding process as they used a visualization designed to support exploration of a large, complex dataset. Quantitative and qualitative analyses revealed that it took, on average, 43 seconds for visitors to decode enough of the visualization to see patterns and relationships in the underlying data represented, and 54 seconds to arrive at their first correct data interpretation. Furthermore, visitors decoded throughout and not only upon initial use of the visualization. The study analyzed think-aloud data to identify issues visitors had mapping the visual representations to their intended referents, examine why they occurred, and consider if and how these decoding issues were resolved. The paper also describes how multiple visual encodings both helped and hindered decoding and concludes with implications on the design and adaptation of visualizations for informal science learning venues."
+    },
+    {
+        "title": "Investigating Direct Manipulation of Graphical Encodings as a Method for User Interaction",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Bahador Saket",
+            "Samuel Huron",
+            "Charles Perin",
+            "Alex Endert"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934534",
+        "citation": 4,
+        "abstract": "We investigate direct manipulation of graphical encodings as a method for interacting with visualizations. There is an increasing interest in developing visualization tools that enable users to perform operations by directly manipulating graphical encodings rather than external widgets such as checkboxes and sliders. Designers of such tools must decide which direct manipulation operations should be supported, and identify how each operation can be invoked. However, we lack empirical guidelines for how people convey their intended operations using direct manipulation of graphical encodings. We address this issue by conducting a qualitative study that examines how participants perform 15 operations using direct manipulation of standard graphical encodings. From this study, we 1) identify a list of strategies people employ to perform each operation, 2) observe commonalities in strategies across operations, and 3) derive implications to help designers leverage direct manipulation of graphical encoding as a method for user interaction."
+    },
+    {
+        "title": "The Validity, Generalizability and Feasibility of Summative Evaluation Methods in Visual Analytics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Mosab Khayat",
+            "Morteza Karimzadeh",
+            "David S. Ebert",
+            "Arif Ghafoor"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934264",
+        "citation": 4,
+        "abstract": "Many evaluation methods have been used to assess the usefulness of Visual Analytics (VA) solutions. These methods stem from a variety of origins with different assumptions and goals, which cause confusion about their proofing capabilities. Moreover, the lack of discussion about the evaluation processes may limit our potential to develop new evaluation methods specialized for VA. In this paper, we present an analysis of evaluation methods that have been used to summatively evaluate VA solutions. We provide a survey and taxonomy of the evaluation methods that have appeared in the VAST literature in the past two years. We then analyze these methods in terms of validity and generalizability of their findings, as well as the feasibility of using them. We propose a new metric called summative quality to compare evaluation methods according to their ability to prove usefulness, and make recommendations for selecting evaluation methods based on their summative quality in the VA domain."
+    },
+    {
+        "title": "The Role of Latency and Task Complexity in Predicting Visual Search Behavior",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Leilani Battle",
+            "R. Jordan Crouser",
+            "Audace Nakeshimana",
+            "Ananda Montoly",
+            "Remco Chang",
+            "Michael Stonebraker"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934556",
+        "citation": 4,
+        "abstract": "Latency in a visualization system is widely believed to affect user behavior in measurable ways, such as requiring the user to wait for the visualization system to respond, leading to interruption of the analytic flow. While this effect is frequently observed and widely accepted, precisely how latency affects different analysis scenarios is less well understood. In this paper, we examine the role of latency in the context of visual search, an essential task in data foraging and exploration using visualization. We conduct a series of studies on Amazon Mechanical Turk and find that under certain conditions, latency is a statistically significant predictor of visual search behavior, which is consistent with previous studies. However, our results also suggest that task type, task complexity, and other factors can modulate the effect of latency, in some cases rendering latency statistically insignificant in predicting user behavior. This suggests a more nuanced view of the role of latency than previously reported. Building on these results and the findings of prior studies, we propose design guidelines for measuring and interpreting the effects of latency when evaluating performance on visual search tasks."
+    },
+    {
+        "title": "Deadeye Visualization Revisited: Investigation of Preattentiveness and Applicability in Virtual Environments",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Andrey Krekhov",
+            "Sebastian Cmentowski",
+            "Andre Waschk",
+            "Jens Krüger"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934370",
+        "citation": 4,
+        "abstract": "Visualizations rely on highlighting to attract and guide our attention. To make an object of interest stand out independently from a number of distractors, the underlying visual cue, e.g., color, has to be preattentive. In our prior work, we introduced Deadeye as an instantly recognizable highlighting technique that works by rendering the target object for one eye only. In contrast to prior approaches, Deadeye excels by not modifying any visual properties of the target. However, in the case of 2D visualizations, the method requires an additional setup to allow dichoptic presentation, which is a considerable drawback. As a follow-up to requests from the community, this paper explores Deadeye as a highlighting technique for 3D visualizations, because such stereoscopic scenarios support dichoptic presentation out of the box. Deadeye suppresses binocular disparities for the target object, so we cannot assume the applicability of our technique as a given fact. With this motivation, the paper presents quantitative evaluations of Deadeye in VR, including configurations with multiple heterogeneous distractors as an important robustness challenge. After confirming the preserved preattentiveness (all average accuracies above 90 %) under such real-world conditions, we explore VR volume rendering as an example application scenario for Deadeye. We depict a possible workflow for integrating our technique, conduct an exploratory survey to demonstrate benefits and limitations, and finally provide related design implications."
+    },
+    {
+        "title": "GUIRO: User-Guided Matrix Reordering",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Michael Behrisch",
+            "Tobias Schreck",
+            "Hanspeter Pfister"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934300",
+        "citation": 3,
+        "abstract": "Matrix representations are one of the main established and empirically proven to be effective visualization techniques for relational (or network) data. However, matrices-similar to node-link diagrams-are most effective if their layout reveals the underlying data topology. Given the many developed algorithms, a practical problem arises: “Which matrix reordering algorithm should I choose for my dataset at hand?” To make matters worse, different reordering algorithms applied to the same dataset may let significantly different visual matrix patterns emerge. This leads to the question of trustworthiness and explainability of these fully automated, often heuristic, black-box processes. We present GUIRO, a Visual Analytics system that helps novices, network analysts, and algorithm designers to open the black-box. Users can investigate the usefulness and expressiveness of 70 accessible matrix reordering algorithms. For network analysts, we introduce a novel model space representation and two interaction techniques for a user-guided reordering of rows or columns, and especially groups thereof (submatrix reordering). These novel techniques contribute to the understanding of the global and local dataset topology. We support algorithm designers by giving them access to 16 reordering quality metrics and visual exploration means for comparing reordering implementations on a row/column permutation level. We evaluated GUIRO in a guided explorative user study with 12 subjects, a case study demonstrating its usefulness in a real-world scenario, and through an expert study gathering feedback on our design decisions. We found that our proposed methods help even inexperienced users to understand matrix patterns and allow a user-guided steering of reordering algorithms. GUIRO helps to increase the transparency of matrix reordering algorithms, thus helping a broad range of users to get a better insight into the complex reordering process, in turn supporting data and reordering algorithm insights."
+    },
+    {
+        "title": "LightGuider: Guiding Interactive Lighting Design using Suggestions, Provenance, and Quality Visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Andreas Walch",
+            "Michael Schwärzler",
+            "Christian Luksch",
+            "Elmar Eisemann",
+            "Theresia Gschwandtner"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934658",
+        "citation": 3,
+        "abstract": "LightGuider is a novel guidance-based approach to interactive lighting design, which typically consists of interleaved 3D modeling operations and light transport simulations. Rather than having designers use a trial-and-error approach to match their illumination constraints and aesthetic goals, LightGuider supports the process by simulating potential next modeling steps that can deliver the most significant improvements. LightGuider takes predefined quality criteria and the current focus of the designer into account to visualize suggestions for lighting-design improvements via a specialized provenance tree. This provenance tree integrates snapshot visualizations of how well a design meets the given quality criteria weighted by the designer's preferences. This integration facilitates the analysis of quality improvements over the course of a modeling workflow as well as the comparison of alternative design solutions. We evaluate our approach with three lighting designers to illustrate its usefulness."
+    },
+    {
+        "title": "Scalable Topological Data Analysis and Visualization for Evaluating Data-Driven Models in Scientific Applications",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Shusen Liu",
+            "Di Wang",
+            "Dan Maljovec",
+            "Rushil Anirudh",
+            "Jayaraman J. Thiagarajan",
+            "Sam Ade Jacobs",
+            "Brian C. Van Essen",
+            "David Hysom",
+            "Jae-Seung Yeom",
+            "Jim Gaffney",
+            "Luc Peterson",
+            "Peter B. Robinson",
+            "Harsh Bhatia",
+            "Valerio Pascucci",
+            "Brian K. Spears",
+            "Peer-Timo Bremer"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934594",
+        "citation": 3,
+        "abstract": "With the rapid adoption of machine learning techniques for large-scale applications in science and engineering comes the convergence of two grand challenges in visualization. First, the utilization of black box models (e.g., deep neural networks) calls for advanced techniques in exploring and interpreting model behaviors. Second, the rapid growth in computing has produced enormous datasets that require techniques that can handle millions or more samples. Although some solutions to these interpretability challenges have been proposed, they typically do not scale beyond thousands of samples, nor do they provide the high-level intuition scientists are looking for. Here, we present the first scalable solution to explore and analyze high-dimensional functions often encountered in the scientific data analysis pipeline. By combining a new streaming neighborhood graph construction, the corresponding topology computation, and a novel data aggregation scheme, namely topology aware datacubes, we enable interactive exploration of both the topological and the geometric aspect of high-dimensional data. Following two use cases from high-energy-density (HED) physics and computational biology, we demonstrate how these capabilities have led to crucial new insights in both applications."
+    },
+    {
+        "title": "Analysis of the Near-Wall Flow in a Turbine Cascade by Splat Visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Baldwin Nsonga",
+            "Gerik Scheuermann",
+            "Stefan Gumhold",
+            "Jordi Ventosa-Molina",
+            "Denis Koschichow",
+            "Jochen Fröhlich"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934367",
+        "citation": 3,
+        "abstract": "Turbines are essential components of jet planes and power plants. Therefore, their efficiency and service life are of central engineering interest. In the case of jet planes or thermal power plants, the heating of the turbines due to the hot gas flow is critical. Besides effective cooling, it is a major goal of engineers to minimize heat transfer between gas flow and turbine by design. Since it is known that splat events have a substantial impact on the heat transfer between flow and immersed surfaces, we adapt a splat detection and visualization method to a turbine cascade simulation in this case study. Because splat events are small phenomena, we use a direct numerical simulation resolving the turbulence in the flow as the base of our analysis. The outcome shows promising insights into splat formation and its relation to vortex structures. This may lead to better turbine design in the future."
+    },
+    {
+        "title": "VisTA: Integrating Machine Intelligence with Visualization to Support the Investigation of Think-Aloud Sessions",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Mingming Fan",
+            "Ke Wu",
+            "Jian Zhao",
+            "Yue Li",
+            "Winter Wei",
+            "Khai N. Truong"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934797",
+        "citation": 3,
+        "abstract": "Think-aloud protocols are widely used by user experience (UX) practitioners in usability testing to uncover issues in user interface design. It is often arduous to analyze large amounts of recorded think-aloud sessions and few UX practitioners have an opportunity to get a second perspective during their analysis due to time and resource constraints. Inspired by the recent research that shows subtle verbalization and speech patterns tend to occur when users encounter usability problems, we take the first step to design and evaluate an intelligent visual analytics tool that leverages such patterns to identify usability problem encounters and present them to UX practitioners to assist their analysis. We first conducted and recorded think-aloud sessions, and then extracted textual and acoustic features from the recordings and trained machine learning (ML) models to detect problem encounters. Next, we iteratively designed and developed a visual analytics tool, VisTA, which enables dynamic investigation of think-aloud sessions with a timeline visualization of ML predictions and input features. We conducted a between-subjects laboratory study to compare three conditions, i.e., VisTA, VisTASimple (no visualization of the ML's input features), and Baseline (no ML information at all), with 30 UX professionals. The findings show that UX professionals identified more problem encounters when using VisTA than Baseline by leveraging the problem visualization as an overview, anticipations, and anchors as well as the feature visualization as a means to understand what ML considers and omits. Our findings also provide insights into how they treated ML, dealt with (dis)agreement with ML, and reviewed the videos (i.e., play, pause, and rewind)."
+    },
+    {
+        "title": "Void-and-Cluster Sampling of Large Scattered Data and Trajectories",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Tobias Rapp",
+            "Christoph Peters",
+            "Carsten Dachsbacher"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934335",
+        "citation": 3,
+        "abstract": "We propose a data reduction technique for scattered data based on statistical sampling. Our void-and-cluster sampling technique finds a representative subset that is optimally distributed in the spatial domain with respect to the blue noise property. In addition, it can adapt to a given density function, which we use to sample regions of high complexity in the multivariate value domain more densely. Moreover, our sampling technique implicitly defines an ordering on the samples that enables progressive data loading and a continuous level-of-detail representation. We extend our technique to sample time-dependent trajectories, for example pathlines in a time interval, using an efficient and iterative approach. Furthermore, we introduce a local and continuous error measure to quantify how well a set of samples represents the original dataset. We apply this error measure during sampling to guide the number of samples that are taken. Finally, we use this error measure and other quantities to evaluate the quality, performance, and scalability of our algorithm."
+    },
+    {
+        "title": "Scale-Space Splatting: Reforming Spacetime for Cross-Scale Exploration of Integral Measures in Molecular Dynamics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Juraj Pálenik",
+            "Jan Byška",
+            "Stefan Bruckner",
+            "Helwig Hauser"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934258",
+        "citation": 3,
+        "abstract": "Understanding large amounts of spatiotemporal data from particle-based simulations, such as molecular dynamics, often relies on the computation and analysis of aggregate measures. These, however, by virtue of aggregation, hide structural information about the space/time localization of the studied phenomena. This leads to degenerate cases where the measures fail to capture distinct behaviour. In order to drill into these aggregate values, we propose a multi-scale visual exploration technique. Our novel representation, based on partial domain aggregation, enables the construction of a continuous scale-space for discrete datasets and the simultaneous exploration of scales in both space and time. We link these two scale-spaces in a scale-space space-time cube and model linked views as orthogonal slices through this cube, thus enabling the rapid identification of spatio-temporal patterns at multiple scales. To demonstrate the effectiveness of our approach, we showcase an advanced exploration of a protein-ligand simulation."
+    },
+    {
+        "title": "Visualizing a Moving Target: A Design Study on Task Parallel Programs in the Presence of Evolving Data and Concerns",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Katy Williams",
+            "Alex Bigelow",
+            "Kate Isaacs"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934285",
+        "citation": 2,
+        "abstract": "Common pitfalls in visualization projects include lack of data availability and the domain users' needs and focus changing too rapidly for the design process to complete. While it is often prudent to avoid such projects, we argue it can be beneficial to engage them in some cases as the visualization process can help refine data collection, solving a “chicken and egg” problem of having the data and tools to analyze it. We found this to be the case in the domain of task parallel computing where such data and tooling is an open area of research. Despite these hurdles, we conducted a design study. Through a tightly-coupled iterative design process, we built Atria, a multi-view execution graph visualization to support performance analysis. Atria simplifies the initial representation of the execution graph by aggregating nodes as related to their line of code. We deployed Atria on multiple platforms, some requiring design alteration. We describe how we adapted the design study methodology to the “moving target” of both the data and the domain experts' concerns and how this movement kept both the visualization and programming project healthy. We reflect on our process and discuss what factors allow the project to be successful in the presence of changing data and user needs."
+    },
+    {
+        "title": "Multi-Scale Procedural Animations of Microtubule Dynamics Based on Measured Data",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Tobias Klein",
+            "Ivan Viola",
+            "Eduard Gröller",
+            "Peter Mindek"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934612",
+        "citation": 2,
+        "abstract": "Biologists often use computer graphics to visualize structures, which due to physical limitations are not possible to image with a microscope. One example for such structures are microtubules, which are present in every eukaryotic cell. They are part of the cytoskeleton maintaining the shape of the cell and playing a key role in the cell division. In this paper, we propose a scientifically-accurate multi-scale procedural model of microtubule dynamics as a novel application scenario for procedural animation, which can generate visualizations of their overall shape, molecular structure, as well as animations of the dynamic behaviour of their growth and disassembly. The model is spanning from tens of micrometers down to atomic resolution. All the aspects of the model are driven by scientific data. The advantage over a traditional, manual animation approach is that when the underlying data change, for instance due to new evidence, the model can be recreated immediately. The procedural animation concept is presented in its generic form, with several novel extensions, facilitating an easy translation to other domains with emergent multi-scale behavior."
+    },
+    {
+        "title": "MetricsVis: A Visual Analytics System for Evaluating Employee Performance in Public Safety Agencies",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Jieqiong Zhao",
+            "Morteza Karimzadeh",
+            "Luke S. Snyder",
+            "Chittayong Surakitbanharn",
+            "Zhenyu Cheryl Qian",
+            "David S. Ebert"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934603",
+        "citation": 2,
+        "abstract": "Evaluating employee performance in organizations with varying workloads and tasks is challenging. Specifically, it is important to understand how quantitative measurements of employee achievements relate to supervisor expectations, what the main drivers of good performance are, and how to combine these complex and flexible performance evaluation metrics into an accurate portrayal of organizational performance in order to identify shortcomings and improve overall productivity. To facilitate this process, we summarize common organizational performance analyses into four visual exploration task categories. Additionally, we develop MetricsVis, a visual analytics system composed of multiple coordinated views to support the dynamic evaluation and comparison of individual, team, and organizational performance in public safety organizations. MetricsVis provides four primary visual components to expedite performance evaluation: (1) a priority adjustment view to support direct manipulation on evaluation metrics; (2) a reorderable performance matrix to demonstrate the details of individual employees; (3) a group performance view that highlights aggregate performance and individual contributions for each group; and (4) a projection view illustrating employees with similar specialties to facilitate shift assignments and training. We demonstrate the usability of our framework with two case studies from medium-sized law enforcement agencies and highlight its broader applicability to other domains."
+    },
+    {
+        "title": "Accelerated Monte Carlo Rendering of Finite-Time Lyapunov Exponents",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Irene Baeza Rojo",
+            "Markus Gross",
+            "Tobias Günther"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934313",
+        "citation": 2,
+        "abstract": "Time-dependent fluid flows often contain numerous hyperbolic Lagrangian coherent structures, which act as transport barriers that guide the advection. The finite-time Lyapunov exponent is a commonly-used approximation to locate these repelling or attracting structures. Especially on large numerical simulations, the FTLE ridges can become arbitrarily sharp and very complex. Thus, the discrete sampling onto a grid for a subsequent direct volume rendering is likely to miss sharp ridges in the visualization. For this reason, an unbiased Monte Carlo-based rendering approach was recently proposed that treats the FTLE field as participating medium with single scattering. This method constructs a ground truth rendering without discretization, but it is prohibitively slow with render times in the order of days or weeks for a single image. In this paper, we accelerate the rendering process significantly, which allows us to compute video sequence of high-resolution FTLE animations in a much more reasonable time frame. For this, we follow two orthogonal approaches to improve on the rendering process: the volumetric light path integration in gradient domain and an acceleration of the transmittance estimation. We analyze the convergence and performance of the proposed method and demonstrate the approach by rendering complex FTLE fields in several 3D vector fields."
+    },
+    {
+        "title": "STBins: Visual Tracking and Comparison of Multiple Data Sequences Using Temporal Binning",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Ji Qi",
+            "Vincent Bloemen",
+            "Shihan Wang",
+            "Jarke van Wijk",
+            "Huub van de Wetering"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934289",
+        "citation": 1,
+        "abstract": "While analyzing multiple data sequences, the following questions typically arise: how does a single sequence change over time, how do multiple sequences compare within a period, and how does such comparison change overtime. This paper presents a visual technique named STBins to answer these questions. STBins is designed for visual tracking of individual data sequences and also for comparison of sequences. The latter is done by showing the similarity of sequences within temporal windows. A perception study is conducted to examine the readability of alternative visual designs based on sequence tracking and comparison tasks. Also, two case studies based on real-world datasets are presented in detail to demonstrate usage of our technique."
+    },
+    {
+        "title": "OD Morphing: Balancing Simplicity with Faithfulness for OD Bundling",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Yan Lyu",
+            "Xu Liu",
+            "Hanyi Chen",
+            "Arpan Mangal",
+            "Kai Liu",
+            "Chao Chen",
+            "Brian Lim"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934657",
+        "citation": 1,
+        "abstract": "OD bundling is a promising method to identify key origin-destination (OD) patterns, but the bundling can mislead the interpretation of actual trajectories traveled. We present OD Morphing, an interactive OD bundling technique that improves geographical faithfulness to actual trajectories while preserving visual simplicity for OD patterns. OD Morphing iteratively identifies critical waypoints from the actual trajectory network with a min-cut algorithm and transitions OD bundles to pass through the identified waypoints with a smooth morphing method. Furthermore, we extend OD Morphing to support bundling at interaction speeds to enable users to interactively transition between degrees of faithfulness to aid sensemaking. We introduce metrics for faithfulness and simplicity to evaluate their trade-off achieved by OD morphed bundling. We demonstrate OD Morphing on real-world city-scale taxi trajectory and USA domestic planned flight datasets."
+    },
+    {
+        "title": "GenerativeMap: Visualization and Exploration of Dynamic Density Maps via Generative Learning Model",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Chen Chen",
+            "Changbo Wang",
+            "Xue Bai",
+            "Peiying Zhang",
+            "Chenhui Li"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934806",
+        "citation": 1,
+        "abstract": "The density map is widely used for data sampling, time-varying detection, ensemble representation, etc. The visualization of dynamic evolution is a challenging task when exploring spatiotemporal data. Many approaches have been provided to explore the variation of data patterns over time, which commonly need multiple parameters and preprocessing works. Image generation is a well-known topic in deep learning, and a variety of generating models have been promoted in recent years. In this paper, we introduce a general pipeline called GenerativeMap to extract dynamics of density maps by generating interpolation information. First, a trained generative model comprises an important part of our approach, which can generate nonlinear and natural results by implementing a few parameters. Second, a visual presentation is proposed to show the density change, which is combined with the level of detail and blue noise sampling for a better visual effect. Third, for dynamic visualization of large-scale density maps, we extend this approach to show the evolution in regions of interest, which costs less to overcome the drawback of the learning-based generative model. We demonstrate our method on different types of cases, and we evaluate and compare the approach from multiple aspects. The results help identify the effectiveness of our approach and confirm its applicability in different scenarios."
+    },
+    {
+        "title": "The Effect of Data Transformations on Scalar Field Topological Analysis of High-Order FEM Solutions",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Ashok Jallepalli",
+            "Joshua A. Levine",
+            "Robert M. Kirby"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934338",
+        "citation": 1,
+        "abstract": "High-order finite element methods (HO-FEM) are gaining popularity in the simulation community due to their success in solving complex flow dynamics. There is an increasing need to analyze the data produced as output by these simulations. Simultaneously, topological analysis tools are emerging as powerful methods for investigating simulation data. However, most of the current approaches to topological analysis have had limited application to HO-FEM simulation data for two reasons. First, the current topological tools are designed for linear data (polynomial degree one), but the polynomial degree of the data output by these simulations is typically higher (routinely up to polynomial degree six). Second, the simulation data and derived quantities of the simulation data have discontinuities at element boundaries, and these discontinuities do not match the input requirements for the topological tools. One solution to both issues is to transform the high-order data to achieve low-order, continuous inputs for topological analysis. Nevertheless, there has been little work evaluating the possible transformation choices and their downstream effect on the topological analysis. We perform an empirical study to evaluate two commonly used data transformation methodologies along with the recently introduced L-SIAC filter for processing high-order simulation data. Our results show diverse behaviors are possible. We offer some guidance about how best to consider a pipeline of topological analysis of HO-FEM simulations with the currently available implementations of topological analysis."
+    },
+    {
+        "title": "Multiscale Visual Drilldown for the Analysis of Large Ensembles of Multi-Body Protein Complexes",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Katarína Furmanová",
+            "Adam Jurčík",
+            "Barbora Kozlíková",
+            "Helwig Hauser",
+            "Jan Byška"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934333",
+        "citation": 1,
+        "abstract": "When studying multi-body protein complexes, biochemists use computational tools that can suggest hundreds or thousands of their possible spatial configurations. However, it is not feasible to experimentally verify more than only a very small subset of them. In this paper, we propose a novel multiscale visual drilldown approach that was designed in tight collaboration with proteomic experts, enabling a systematic exploration of the configuration space. Our approach takes advantage of the hierarchical structure of the data - from the whole ensemble of protein complex configurations to the individual configurations, their contact interfaces, and the interacting amino acids. Our new solution is based on interactively linked 2D and 3D views for individual hierarchy levels. At each level, we offer a set of selection and filtering operations that enable the user to narrow down the number of configurations that need to be manually scrutinized. Furthermore, we offer a dedicated filter interface, which provides the users with an overview of the applied filtering operations and enables them to examine their impact on the explored ensemble. This way, we maintain the history of the exploration process and thus enable the user to return to an earlier point of the exploration. We demonstrate the effectiveness of our approach on two case studies conducted by collaborating proteomic experts."
+    },
+    {
+        "title": "OntoPlot: A Novel Visualisation for Non-hierarchical Associations in Large Ontologies",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Ying Yang",
+            "Michael Wybrow",
+            "Yuan-Fang Li",
+            "Tobias Czauderna",
+            "Yongqun He"
+        ],
+        "DOI": "10.1109/TVCG.2019.2934557",
+        "citation": 0,
+        "abstract": "Ontologies are formal representations of concepts and complex relationships among them. They have been widely used to capture comprehensive domain knowledge in areas such as biology and medicine, where large and complex ontologies can contain hundreds of thousands of concepts. Especially due to the large size of ontologies, visualisation is useful for authoring, exploring and understanding their underlying data. Existing ontology visualisation tools generally focus on the hierarchical structure, giving much less emphasis to non-hierarchical associations. In this paper we present OntoPlot, a novel visualisation specifically designed to facilitate the exploration of all concept associations whilst still showing an ontology's large hierarchical structure. This hybrid visualisation combines icicle plots, visual compression techniques and interactivity, improving space-efficiency and reducing visual structural complexity. We conducted a user study with domain experts to evaluate the usability of OntoPlot, comparing it with the de facto ontology editor Protégé. The results confirm that OntoPlot attains our design goals for association-related tasks and is strongly favoured by domain experts."
+    },
+    {
+        "title": "VAST International Program Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2019.2935657",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Committees",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2019.2935637",
+        "citation": 0,
+        "abstract": "Presents a listing of the editorial board, board of governors, current staff, committee members, and/or society editors for this issue of the publication."
+    },
+    {
+        "title": "InfoVis International Program Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2019.2935658",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "SciVis International Program Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2019.2935659",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Message from the Editor-in-Chief",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Klaus Mueller"
+        ],
+        "DOI": "10.1109/TVCG.2019.2935643",
+        "citation": 0,
+        "abstract": "Presents the introductory editorial for this issue of the publication."
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC): http://vgtc.org/",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2019.2935653",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Preface",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Remco Chang",
+            "Issei Fujishiro",
+            "Petra Isenberg",
+            "Daniel Keim",
+            "Peter Lindstrom",
+            "Ross Maciejewski",
+            "Miriah Meyer",
+            "Gunther H. Weber",
+            "Daniel Weiskopf",
+            "Jo Wood"
+        ],
+        "DOI": "10.1109/TVCG.2019.2935644",
+        "citation": 0,
+        "abstract": "This January 2020 issue of the IEEE Transactions on Visualization and Computer Graphics (TVCG) contains the proceedings of IEEE VIS 2019, held during 20-25 October 2019 at the Vancouver Convention Center in Vancouver, BC, Canada. With IEEE VIS 2019, the conference series is in its 30 th year. IEEE VIS consists of three conferences, held concurrently: the IEEE Visual Analytics Science and Technology Conference (VAST), the IEEE Information Visualization Conference (InfoVis), and the IEEE Scientific Visualization Conference (SciVis). These three conferences are the premier venues for the visualization community to exchange the latest ideas and developments, attracting researchers and practitioners alike."
+    },
+    {
+        "title": "VIS Conference Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2019.2935609",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "IEEE Transactions on Visualization and Computer Graphics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2019.2935603",
+        "citation": 0,
+        "abstract": "Presents a listing of the editorial board, board of governors, current staff, committee members, and/or society editors for this issue of the publication."
+    },
+    {
+        "title": "VAST Paper Reviewers",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2019.2935660",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "SciVis Paper Reviewers",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2019.2935640",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "The 2019 Visualization Career Award",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/TVCG.2019.2935641",
+        "citation": 0,
+        "abstract": "The 2019 Visualization Career Award goes to Thomas Ertl, Thomas Ertl is a Professor of Computer Science at the University of Stuttgart where he founded the Institute for Visualization and Interactive Systems (VIS) and the Visualization Research Center (VISUS). He received a MSc in Computer Science from the University of Colorado at Boulder and a PhD in Theoretical Astrophysics from the University of Tuebingen. After a few years as postdoc and cofounder of a Tuebingen based IT company, he moved to the University of Erlangen as a Professor of Computer Graphics and Visualization. He served the University of Stuttgart in various administrative roles including Dean of Computer Science and Electrical Engineering and Vice President for Research and Advanced Graduate Education. Currently, he is the Spokesperson of the Cluster of Excellence Data-Integrated Simulation Science and Director of the Stuttgart Center for Simulation Science."
+    },
+    {
+        "title": "Contents",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2019.2935654",
+        "citation": 0,
+        "abstract": "Presents the table of contents for this issue of this publication."
+    },
+    {
+        "title": "InfoVis Paper Reviewers",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2019.2935639",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "The 2019 Visualization Technical Achievement Award",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2020",
+        "authors": [
+            "Eduard Gröller"
+        ],
+        "DOI": "10.1109/TVCG.2019.2935661",
+        "citation": 0,
+        "abstract": "The 2019 Visualization Technical Achievement Award goes to Eduard Gröller, Eduard Gröller is Professor at the Institute of Visual Computing & Human-Centered Technology (VC&HCT), Vienna University of Technology. In 1993 he received his PhD from the same university. His research interests include computer graphics, visualization, and visual computing."
     }
 ]

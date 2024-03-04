@@ -1325,5 +1325,269 @@
         "DOI": "10.1109/TVCG.2016.2598587",
         "citation": 8,
         "abstract": "High-throughput and high-content screening enables large scale, cost-effective experiments in which cell cultures are exposed to a wide spectrum of drugs. The resulting multivariate data sets have a large but shallow hierarchical structure. The deepest level of this structure describes cells in terms of numeric features that are derived from image data. The subsequent level describes enveloping cell cultures in terms of imposed experiment conditions (exposure to drugs). We present Screenit, a visual analysis approach designed in close collaboration with screening experts. Screenit enables the navigation and analysis of multivariate data at multiple hierarchy levels and at multiple levels of detail. Screenit integrates the interactive modeling of cell physical states (phenotypes) and the effects of drugs on cell cultures (hits). In addition, quality control is enabled via the detection of anomalies that indicate low-quality data, while providing an interface that is designed to match workflows of screening experts. We demonstrate analyses for a real-world data set, CellMorph, with 6 million cells across 20,000 cell cultures."
+    },
+    {
+        "title": "Multi-Granular Trend Detection for Time-Series Analysis",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Goethem Arthur Van",
+            "Frank Staals",
+            "Maarten Löffler",
+            "Jason Dykes",
+            "Bettina Speckmann"
+        ],
+        "DOI": "10.1109/TVCG.2016.2598619",
+        "citation": 7,
+        "abstract": "Time series (such as stock prices) and ensembles (such as model runs for weather forecasts) are two important types of one-dimensional time-varying data. Such data is readily available in large quantities but visual analysis of the raw data quickly becomes infeasible, even for moderately sized data sets. Trend detection is an effective way to simplify time-varying data and to summarize salient information for visual display and interactive analysis. We propose a geometric model for trend-detection in one-dimensional time-varying data, inspired by topological grouping structures for moving objects in two- or higher-dimensional space. Our model gives provable guarantees on the trends detected and uses three natural parameters: granularity, support-size, and duration. These parameters can be changed on-demand. Our system also supports a variety of selection brushes and a time-sweep to facilitate refined searches and interactive visualization of (sub-)trends. We explore different visual styles and interactions through which trends, their persistence, and evolution can be explored."
+    },
+    {
+        "title": "A Fractional Cartesian Composition Model for Semi-Spatial Comparative Visualization Design",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Ivan Kolesár",
+            "Stefan Bruckner",
+            "Ivan Viola",
+            "Helwig Hauser"
+        ],
+        "DOI": "10.1109/TVCG.2016.2598870",
+        "citation": 7,
+        "abstract": "The study of spatial data ensembles leads to substantial visualization challenges in a variety of applications. In this paper, we present a model for comparative visualization that supports the design of according ensemble visualization solutions by partial automation. We focus on applications, where the user is interested in preserving selected spatial data characteristics of the data as much as possible-even when many ensemble members should be jointly studied using comparative visualization. In our model, we separate the design challenge into a minimal set of user-specified parameters and an optimization component for the automatic configuration of the remaining design variables. We provide an illustrated formal description of our model and exemplify our approach in the context of several application examples from different domains in order to demonstrate its generality within the class of comparative visualization problems for spatial data ensembles."
+    },
+    {
+        "title": "Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Chris Bryan",
+            "Gregory Guterman",
+            "Kwan-Liu Ma",
+            "Harris Lewin",
+            "Denis Larkin",
+            "Jaebum Kim",
+            "Jian Ma",
+            "Marta Farré"
+        ],
+        "DOI": "10.1109/TVCG.2016.2598789",
+        "citation": 7,
+        "abstract": "Rapid advances in biology demand new tools for more active research dissemination and engaged teaching. This paper presents Synteny Explorer, an interactive visualization application designed to let college students explore genome evolution of mammalian species. The tool visualizes synteny blocks: segments of homologous DNA shared between various extant species that can be traced back or reconstructed in extinct, ancestral species. We take a karyogram-based approach to create an interactive synteny visualization, leading to a more appealing and engaging design for undergraduate-level genome evolution education. For validation, we conduct three user studies: two focused studies on color and animation design choices and a larger study that performs overall system usability testing while comparing our karyogram-based designs with two more common genome mapping representations in an educational context. While existing views communicate the same information, study participants found the interactive, karyogram-based views much easier and likable to use. We additionally discuss feedback from biology and genomics faculty, who judge Synteny Explorer's fitness for use in classrooms."
+    },
+    {
+        "title": "Backward Finite-Time Lyapunov Exponents in Inertial Flows",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Tobias Günther",
+            "Holger Theisel"
+        ],
+        "DOI": "10.1109/TVCG.2016.2599016",
+        "citation": 6,
+        "abstract": "Inertial particles are finite-sized objects that are carried by fluid flows and in contrast to massless tracer particles they are subject to inertia effects. In unsteady flows, the dynamics of tracer particles have been extensively studied by the extraction of Lagrangian coherent structures (LCS), such as hyperbolic LCS as ridges of the Finite-Time Lyapunov Exponent (FTLE). The extension of the rich LCS framework to inertial particles is currently a hot topic in the CFD literature and is actively under research. Recently, backward FTLE on tracer particles has been shown to correlate with the preferential particle settling of small inertial particles. For larger particles, inertial trajectories may deviate strongly from (massless) tracer trajectories, and thus for a better agreement, backward FTLE should be computed on inertial trajectories directly. Inertial backward integration, however, has not been possible until the recent introduction of the influence curve concept, which - given an observation and an initial velocity - allows to recover all sources of inertial particles as tangent curves of a derived vector field. In this paper, we show that FTLE on the influence curve vector field is in agreement with preferential particle settling and more importantly it is not only valid for small (near-tracer) particles. We further generalize the influence curve concept to general equations of motion in unsteady spatio-velocity phase spaces, which enables backward integration with more general equations of motion. Applying the influence curve concept to tracer particles in the spatio-velocity domain emits streaklines in massless flows as tangent curves of the influence curve vector field. We demonstrate the correlation between inertial backward FTLE and the preferential particle settling in a number of unsteady vector fields"
+    },
+    {
+        "title": "A Versatile and Efficient GPU Data Structure for Spatial Indexing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Jens Schneider",
+            "Peter Rautek"
+        ],
+        "DOI": "10.1109/TVCG.2016.2599043",
+        "citation": 6,
+        "abstract": "In this paper we present a novel GPU-based data structure for spatial indexing. Based on Fenwick trees-a special type of binary indexed trees-our data structure allows construction in linear time. Updates and prefixes can be computed in logarithmic time, whereas point queries require only constant time on average. Unlike competing data structures such as summed-area tables and spatial hashing, our data structure requires a constant amount of bits for each data element, and it offers unconstrained point queries. This property makes our data structure ideally suited for applications requiring unconstrained indexing of large data, such as block-storage of large and block-sparse volumes. Finally, we provide asymptotic bounds on both run-time and memory requirements, and we show applications for which our new data structure is useful."
+    },
+    {
+        "title": "Visualizing Shape Deformations with Variation of Geometric Spectrum",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Jiaxi Hu",
+            "Hajar Hamidian",
+            "Zichun Zhong",
+            "Jing Hua"
+        ],
+        "DOI": "10.1109/TVCG.2016.2598790",
+        "citation": 5,
+        "abstract": "This paper presents a novel approach based on spectral geometry to quantify and visualize non-isometric deformations of 3D surfaces by mapping two manifolds. The proposed method can determine multi-scale, non-isometric deformations through the variation of Laplace-Beltrami spectrum of two shapes. Given two triangle meshes, the spectra can be varied from one to another with a scale function defined on each vertex. The variation is expressed as a linear interpolation of eigenvalues of the two shapes. In each iteration step, a quadratic programming problem is constructed, based on our derived spectrum variation theorem and smoothness energy constraint, to compute the spectrum variation. The derivation of the scale function is the solution of such a problem. Therefore, the final scale function can be solved by integral of the derivation from each step, which, in turn, quantitatively describes non-isometric deformations between two shapes. To evaluate the method, we conduct extensive experiments on synthetic and real data. We employ real epilepsy patient imaging data to quantify the shape variation between the left and right hippocampi in epileptic brains. In addition, we use longitudinal Alzheimer data to compare the shape deformation of diseased and healthy hippocampus. In order to show the accuracy and effectiveness of the proposed method, we also compare it with spatial registration-based methods, e.g., non-rigid Iterative Closest Point (ICP) and voxel-based method. These experiments demonstrate the advantages of our method."
+    },
+    {
+        "title": "VisMatchmaker: Cooperation of the User and the Computer in Centralized Matching Adjustment",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Po-Ming Law",
+            "Wenchao Wu",
+            "Yixian Zheng",
+            "Huamin Qu"
+        ],
+        "DOI": "10.1109/TVCG.2016.2599378",
+        "citation": 5,
+        "abstract": "Centralized matching is a ubiquitous resource allocation problem. In a centralized matching problem, each agent has a preference list ranking the other agents and a central planner is responsible for matching the agents manually or with an algorithm. While algorithms can find a matching which optimizes some performance metrics, they are used as a black box and preclude the central planner from applying his domain knowledge to find a matching which aligns better with the user tasks. Furthermore, the existing matching visualization techniques (i.e. bipartite graph and adjacency matrix) fail in helping the central planner understand the differences between matchings. In this paper, we present VisMatchmaker, a visualization system which allows the central planner to explore alternatives to an algorithm-generated matching. We identified three common tasks in the process of matching adjustment: problem detection, matching recommendation and matching evaluation. We classified matching comparison into three levels and designed visualization techniques for them, including the number line view and the stacked graph view. Two types of algorithmic support, namely direct assignment and range search, and their interactive operations are also provided to enable the user to apply his domain knowledge in matching adjustment."
+    },
+    {
+        "title": "AnaFe: Visual Analytics of Image-derived Temporal Features—Focusing on the Spleen",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Ievgeniia Gutenko",
+            "Konstantin Dmitriev",
+            "Arie E. Kaufman",
+            "Matthew A. Barish"
+        ],
+        "DOI": "10.1109/TVCG.2016.2598463",
+        "citation": 3,
+        "abstract": "We present a novel visualization framework, AnaFe, targeted at observing changes in the spleen over time through multiple image-derived features. Accurate monitoring of progressive changes is crucial for diseases that result in enlargement of the organ. Our system is comprised of multiple linked views combining visualization of temporal 3D organ data, related measurements, and features. Thus it enables the observation of progression and allows for simultaneous comparison within and between the subjects. AnaFe offers insights into the overall distribution of robustly extracted and reproducible quantitative imaging features and their changes within the population, and also enables detailed analysis of individual cases. It performs similarity comparison of temporal series of one subject to all other series in both sick and healthy groups. We demonstrate our system through two use case scenarios on a population of 189 spleen datasets from 68 subjects with various conditions observed over time."
+    },
+    {
+        "title": "Hairy Slices: Evaluating the Perceptual Effectiveness of Cutting Plane Glyphs for 3D Vector Fields",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Andrew H. Stevens",
+            "Thomas Butkiewicz",
+            "Colin Ware"
+        ],
+        "DOI": "10.1109/TVCG.2016.2598448",
+        "citation": 1,
+        "abstract": "Three-dimensional vector fields are common datasets throughout the sciences. Visualizing these fields is inherently difficult due to issues such as visual clutter and self-occlusion. Cutting planes are often used to overcome these issues by presenting more manageable slices of data. The existing literature provides many techniques for visualizing the flow through these cutting planes; however, there is a lack of empirical studies focused on the underlying perceptual cues that make popular techniques successful. This paper presents a quantitative human factors study that evaluates static monoscopic depth and orientation cues in the context of cutting plane glyph designs for exploring and analyzing 3D flow fields. The goal of the study was to ascertain the relative effectiveness of various techniques for portraying the direction of flow through a cutting plane at a given point, and to identify the visual cues and combinations of cues involved, and how they contribute to accurate performance. It was found that increasing the dimensionality of line-based glyphs into tubular structures enhances their ability to convey orientation through shading, and that increasing their diameter intensifies this effect. These tube-based glyphs were also less sensitive to visual clutter issues at higher densities. Adding shadows to lines was also found to increase perception of flow direction. Implications of the experimental results are discussed and extrapolated into a number of guidelines for designing more perceptually effective glyphs for 3D vector field visualizations."
+    },
+    {
+        "title": "Comparing Cross-Sections and 3D Renderings for Surface Matching Tasks Using Physical Ground Truths",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Andreas J. Lind",
+            "Stefan Bruckner"
+        ],
+        "DOI": "10.1109/TVCG.2016.2598602",
+        "citation": 1,
+        "abstract": "Within the visualization community there are some well-known techniques for visualizing 3D spatial data and some general assumptions about how perception affects the performance of these techniques in practice. However, there is a lack of empirical research backing up the possible performance differences among the basic techniques for general tasks. One such assumption is that 3D renderings are better for obtaining an overview, whereas cross sectional visualizations such as the commonly used Multi-Planar Reformation (MPR) are better for supporting detailed analysis tasks. In the present study we investigated this common assumption by examining the difference in performance between MPR and 3D rendering for correctly identifying a known surface. We also examined whether prior experience working with image data affects the participant's performance, and whether there was any difference between interactive or static versions of the visualizations. Answering this question is important because it can be used as part of a scientific and empirical basis for determining when to use which of the two techniques. An advantage of the present study compared to other studies is that several factors were taken into account to compare the two techniques. The problem was examined through an experiment with 45 participants, where physical objects were used as the known surface (ground truth). Our findings showed that: 1. The 3D renderings largely outperformed the cross sections; 2. Interactive visualizations were partially more effective than static visualizations; and 3. The high experience group did not generally outperform the low experience group."
+    },
+    {
+        "title": "Preface",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Gennady Andrienko",
+            "Shixia Liu",
+            "John Stasko",
+            "Niklas Elmqvist",
+            "Bongshin Lee",
+            "Kwan-Liu Ma",
+            "James Ahrens",
+            "Robert M. Kirby",
+            "Jos Roerdink"
+        ],
+        "DOI": "10.1109/TVCG.2016.2599300",
+        "citation": 0,
+        "abstract": "The papers in this special issue were presented at IEEE VIS 2016, held during October 23-28, 2016 in Baltimore, MD. VIS contains three conferences, held concurrently: the IEEE Visual Analytics Science and Technology Conference (IEEE VAST 2016), the IEEE Information Visualization Conference (IEEE InfoVis 2016), and the IEEE Scientific Visualization Conference (IEEE SciVis2016). "
+    },
+    {
+        "title": "Message from the Editor-in-Chief",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Leila De Floriani"
+        ],
+        "DOI": "10.1109/TVCG.2016.2599299",
+        "citation": 0,
+        "abstract": "Presents the message from the editor-in-chief for this issue of the publication.  "
+    },
+    {
+        "title": "IEEE Transactions on Visualization and Computer Graphics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2016.2599304",
+        "citation": 1,
+        "abstract": "Presents the inside cover for this issue of the publication."
+    },
+    {
+        "title": "Contents",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2016.2599309",
+        "citation": 0,
+        "abstract": "Presents the table of contents for this issue of the publication."
+    },
+    {
+        "title": "VIS Conference Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2016.2599311",
+        "citation": 0,
+        "abstract": "Provides a listing of the IEEE VIS 2016 conference committee members."
+    },
+    {
+        "title": "Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2016.2599308",
+        "citation": 0,
+        "abstract": "Provides a listing of the IEEE VIS 2016 conference committee members."
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC)",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "Cláudio T. Silva"
+        ],
+        "DOI": "10.1109/TVCG.2016.2599310",
+        "citation": 0,
+        "abstract": "Provides a listing of the Technical Committee members for this issue of the publication."
+    },
+    {
+        "title": "Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2016.2599312",
+        "citation": 0,
+        "abstract": "Provides a listing of the IEEE VIS 2016 conference committee members."
+    },
+    {
+        "title": "Author Index",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2016.2618199",
+        "citation": 0,
+        "abstract": "Presents the author index for this issue of the publication."
+    },
+    {
+        "title": "The 2016 Visualization Technical Achievement Award",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "David Ebert"
+        ],
+        "DOI": "10.1109/TVCG.2016.2599302",
+        "citation": 0,
+        "abstract": "The 2016 Visualization Technical Achievement Award goes to David Ebert in recognition of foundational work in visual analytics, both through development of fundamental predictive techniques and as Director of the Purdue/DHS Visual Analytics Center of Excellence."
+    },
+    {
+        "title": "Paper Reviewers",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2016.2599301",
+        "citation": 0,
+        "abstract": "Presents a listing of the reviewers who contributed to this issue of the publication."
+    },
+    {
+        "title": "The 2016 Visualization Career Award",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2017",
+        "authors": [
+            "John Dill"
+        ],
+        "DOI": "10.1109/TVCG.2016.2599298",
+        "citation": 0,
+        "abstract": "The 2016 Visualization Career Award goes to John Dill in recognition of major industrial and academic research advances spanning CAE/CAD, HCI, and data visualization as well as organizational leadership that helped develop the field of visual analytics."
     }
 ]

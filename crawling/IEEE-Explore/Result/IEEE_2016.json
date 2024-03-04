@@ -1402,5 +1402,201 @@
         "DOI": "10.1109/TVCG.2015.2467954",
         "citation": 8,
         "abstract": "Empirical, hypothesis-driven, experimentation is at the heart of the scientific discovery process and has become commonplace in human-factors related fields. To enable the integration of visual analytics in such experiments, we introduce VEEVVIE, the Visual Explorer for Empirical Visualization, VR and Interaction Experiments. VEEVVIE is comprised of a back-end ontology which can model several experimental designs encountered in these fields. This formalization allows VEEVVIE to capture experimental data in a query-able form and makes it accessible through a front-end interface. This front-end offers several multi-dimensional visualization widgets with built-in filtering and highlighting functionality. VEEVVIE is also expandable to support custom experimental measurements and data types through a plug-in visualization widget architecture. We demonstrate VEEVVIE through several case studies of visual analysis, performed on the design and data collected during an experiment on the scalability of high-resolution, immersive, tiled-display walls."
+    },
+    {
+        "title": "Visualization and Analysis of Rotating Stall for Transonic Jet Engine Simulation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "31 Jan. 2016",
+        "authors": [
+            "Chun-Ming Chen",
+            "Soumya Dutta",
+            "Xiaotong Liu",
+            "Gregory Heinlein",
+            "Han-Wei Shen",
+            "Jen-Ping Chen"
+        ],
+        "DOI": "10.1109/TVCG.2015.2467952",
+        "citation": 7,
+        "abstract": "Identification of early signs of rotating stall is essential for the study of turbine engine stability. With recent advancements of high performance computing, high-resolution unsteady flow fields allow in depth exploration of rotating stall and its possible causes. Performing stall analysis, however, involves significant effort to process large amounts of simulation data, especially when investigating abnormalities across many time steps. In order to assist scientists during the exploration process, we present a visual analytics framework to identify suspected spatiotemporal regions through a comparative visualization so that scientists are able to focus on relevant data in more detail. To achieve this, we propose efficient stall analysis algorithms derived from domain knowledge and convey the analysis results through juxtaposed interactive plots. Using our integrated visualization system, scientists can visually investigate the detected regions for potential stall initiation and further explore these regions to enhance the understanding of this phenomenon. Positive feedback from scientists demonstrate the efficacy of our system in analyzing rotating stall."
+    },
+    {
+        "title": "Visual Analytics for Development and Evaluation of Order Selection Criteria for Autoregressive Processes",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "31 Jan. 2016",
+        "authors": [
+            "Thomas Löwe",
+            "Emmy-Charlotte Förster",
+            "Georgia Albuquerque",
+            "Jens-Peter Kreiss",
+            "Marcus Magnor"
+        ],
+        "DOI": "10.1109/TVCG.2015.2467612",
+        "citation": 7,
+        "abstract": "Order selection of autoregressive processes is an active research topic in time series analysis, and the development and evaluation of automatic order selection criteria remains a challenging task for domain experts. We propose a visual analytics approach, to guide the analysis and development of such criteria. A flexible synthetic model generator-combined with specialized responsive visualizations-allows comprehensive interactive evaluation. Our fast framework allows feedback-driven development and fine-tuning of new order selection criteria in real-time. We demonstrate the applicability of our approach in three use-cases for two general as well as a real-world example."
+    },
+    {
+        "title": "Interactive Visualization for Singular Fibers of Functions f : R3 → R2",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "31 Jan. 2016",
+        "authors": [
+            "Daisuke Sakurai",
+            "Osamu Saeki",
+            "Hamish Carr",
+            "Hsiang-Yun Wu",
+            "Takahiro Yamamoto",
+            "David Duke",
+            "Shigeo Takahashi"
+        ],
+        "DOI": "10.1109/TVCG.2015.2467433",
+        "citation": 6,
+        "abstract": "Scalar topology in the form of Morse theory has provided computational tools that analyze and visualize data from scientific and engineering tasks. Contracting isocontours to single points encapsulates variations in isocontour connectivity in the Reeb graph. For multivariate data, isocontours generalize to fibers-inverse images of points in the range, and this area is therefore known as fiber topology. However, fiber topology is less fully developed than Morse theory, and current efforts rely on manual visualizations. This paper presents how to accelerate and semi-automate this task through an interface for visualizing fiber singularities of multivariate functions R3→R2. This interface exploits existing conventions of fiber topology, but also introduces a 3D view based on the extension of Reeb graphs to Reeb spaces. Using the Joint Contour Net, a quantized approximation of the Reeb space, this accelerates topological visualization and permits online perturbation to reduce or remove degeneracies in functions under study. Validation of the interface is performed by assessing whether the interface supports the mathematical workflow both of experts and of less experienced mathematicians."
+    },
+    {
+        "title": "Reconstruction and Visualization of Coordinated 3D Cell Migration Based on Optical Flow",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "31 Jan. 2016",
+        "authors": [
+            "Christopher P. Kappe",
+            "Lucas Schütz",
+            "Stefan Gunther",
+            "Lars Hufnagel",
+            "Steffen Lemke",
+            "Heike Leitte"
+        ],
+        "DOI": "10.1109/TVCG.2015.2467291",
+        "citation": 6,
+        "abstract": "Animal development is marked by the repeated reorganization of cells and cell populations, which ultimately determine form and shape of the growing organism. One of the central questions in developmental biology is to understand precisely how cells reorganize, as well as how and to what extent this reorganization is coordinated. While modern microscopes can record video data for every cell during animal development in 3D+t, analyzing these videos remains a major challenge: reconstruction of comprehensive cell tracks turned out to be very demanding especially with decreasing data quality and increasing cell densities. In this paper, we present an analysis pipeline for coordinated cellular motions in developing embryos based on the optical flow of a series of 3D images. We use numerical integration to reconstruct cellular long-term motions in the optical flow of the video, we take care of data validation, and we derive a LIC-based, dense flow visualization for the resulting pathlines. This approach allows us to handle low video quality such as noisy data or poorly separated cells, and it allows the biologists to get a comprehensive understanding of their data by capturing dynamic growth processes in stills. We validate our methods using three videos of growing fruit fly embryos."
+    },
+    {
+        "title": "Adaptive Multilinear Tensor Product Wavelets",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "31 Jan. 2016",
+        "authors": [
+            "Kenneth Weiss",
+            "Peter Lindstrom"
+        ],
+        "DOI": "10.1109/TVCG.2015.2467412",
+        "citation": 6,
+        "abstract": "Many foundational visualization techniques including isosurfacing, direct volume rendering and texture mapping rely on piecewise multilinear interpolation over the cells of a mesh. However, there has not been much focus within the visualization community on techniques that efficiently generate and encode globally continuous functions defined by the union of multilinear cells. Wavelets provide a rich context for analyzing and processing complicated datasets. In this paper, we exploit adaptive regular refinement as a means of representing and evaluating functions described by a subset of their nonzero wavelet coefficients. We analyze the dependencies involved in the wavelet transform and describe how to generate and represent the coarsest adaptive mesh with nodal function values such that the inverse wavelet transform is exactly reproduced via simple interpolation (subdivision) over the mesh elements. This allows for an adaptive, sparse representation of the function with on-demand evaluation at any point in the domain. We focus on the popular wavelets formed by tensor products of linear B-splines, resulting in an adaptive, nonconforming but crack-free quadtree (2D) or octree (3D) mesh that allows reproducing globally continuous functions via multilinear interpolation over its cells."
+    },
+    {
+        "title": "Effectiveness of Structured Textures on Dynamically Changing Terrain-like Surfaces",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "31 Jan. 2016",
+        "authors": [
+            "Thomas Butkiewicz",
+            "Andrew H. Stevens"
+        ],
+        "DOI": "10.1109/TVCG.2015.2467962",
+        "citation": 1,
+        "abstract": "Previous perceptual research and human factors studies have identified several effective methods for texturing 3D surfaces to ensure that their curvature is accurately perceived by viewers. However, most of these studies examined the application of these techniques to static surfaces. This paper explores the effectiveness of applying these techniques to dynamically changing surfaces. When these surfaces change shape, common texturing methods, such as grids and contours, induce a range of different motion cues, which can draw attention and provide information about the size, shape, and rate of change. A human factors study was conducted to evaluate the relative effectiveness of these methods when applied to dynamically changing pseudo-terrain surfaces. The results indicate that, while no technique is most effective for all cases, contour lines generally perform best, and that the pseudo-contour lines induced by banded color scales convey the same benefits."
+    },
+    {
+        "title": "VIS Conference Committee",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2469071",
+        "citation": 0,
+        "abstract": "Presents a listing of this VIS 2015 conference committee."
+    },
+    {
+        "title": "Message from the VIS Paper Chairs and Guest Editors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2468793",
+        "citation": 0,
+        "abstract": "The papers in this special issue were presented at IEEE VIS 2015, held during October 25-30, 2015 in Chicago, IL. VIS consists of three conferences, held concurrently: the IEEE Visual Analytics Science and Technology Conference (VAST 2015), the IEEE Information Visualization Conference (InfoVis 2015), and the IEEE Scientific Visualization Conference (SciVis 2015). Visualization continues to develop rapidly as a research discipline and the three conferences are maintaining their positions as the leading annual events for researchers and practitioners to share the most innovative and impactful results of an increasingly diverse and influential community."
+    },
+    {
+        "title": "Message from the Editor-in-Chief",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2469111",
+        "citation": 0,
+        "abstract": "Presents a message from the Editor-in-Chief for this issue of the publication."
+    },
+    {
+        "title": "VAST Paper Reviewers",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2469115",
+        "citation": 0,
+        "abstract": "Presents a listing of the conference reviewers."
+    },
+    {
+        "title": "The 2015 Visualization Technical Achievement Award",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2487020",
+        "citation": 0,
+        "abstract": "Presents the recipients of 2015 Visualization Technical Achievement Award."
+    },
+    {
+        "title": "[Front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2473376",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "Author Index IEEE Transactions on Visualization and Computer Graphics Vol. 20",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2471375",
+        "citation": 0,
+        "abstract": "Presents the author index from this conference."
+    },
+    {
+        "title": "VIS Steering and Executive Committees",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2471376",
+        "citation": 0,
+        "abstract": "Presents a listing of the conference steering and executive committee."
+    },
+    {
+        "title": "VIS International Program Committees",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2471377",
+        "citation": 0,
+        "abstract": "Presents a listing of the conference program committee."
+    },
+    {
+        "title": "The 2015 Visualization Career Award",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2469052",
+        "citation": 0,
+        "abstract": "Presents the recipients of the  2015 Visualization Career Award."
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC)",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2471378",
+        "citation": 0,
+        "abstract": "Presents a listing of this VGTC technical committee members."
+    },
+    {
+        "title": "Table of Contents",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2016",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2015.2471355",
+        "citation": 0,
+        "abstract": "Presents the table of contents from this conference."
     }
 ]
