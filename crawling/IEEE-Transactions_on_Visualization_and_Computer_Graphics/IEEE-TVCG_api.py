@@ -1,3 +1,6 @@
+# IEEE Transactions on Visualization and Computer Graphics
+# 2003 ~ 2023 데이터 수집 완료 : 2024.03.04 - 최서현
+
 import requests
 import json
 import os

@@ -1,0 +1,556 @@
+[
+    {
+        "title": "Spatiotemporal anomaly detection through visual analysis of geolocated Twitter messages",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Dennis Thom",
+            "Harald Bosch",
+            "Steffen Koch",
+            "Michael Wörner",
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183572",
+        "citation": 114,
+        "abstract": "Analyzing message streams from social blogging services such as Twitter is a challenging task because of the vast number of documents that are produced daily. At the same time, the availability of geolocated, realtime, and manually created status updates are an invaluable data source for situational awareness scenarios. In this work we present an approach that allows for an interactive analysis of location-based microblog messages in realtime by means of scalable aggregation and geolocated text visualization. For this purpose, we use a novel cluster analysis approach and distinguish between local event reports and global media reaction to detect spatiotemporal anomalies automatically. A workbench allows the scalable visual examination and analysis of messages featuring perspective and semantic layers on a world map representation. Our novel techniques can be used by analysts to classify the presented event candidates and examine them on a global scale."
+    },
+    {
+        "title": "Exploring the design space of composite visualization",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Waqas Javed",
+            "Niklas Elmqvist"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183556",
+        "citation": 110,
+        "abstract": "We propose the notion of composite visualization views (CVVs) as a theoretical model that unifies the existing coordinated multiple views (CMV) paradigm with other strategies for combining visual representations in the same geometrical space. We identify five such strategies - called CVV design patterns - based on an extensive review of the literature in composite visualization. We go on to show how these design patterns can all be expressed in terms of a design space describing the correlation between two visualizations in terms of spatial mapping as well as the data relationships between items in the visualizations. We also discuss how to use this design space to suggest potential directions for future research."
+    },
+    {
+        "title": "FluoRender: An application of 2D image space methods for 3D and 4D confocal microscopy data visualization in neurobiology research",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Yong Wan",
+            "Hideo Otsuna",
+            "Chi-Bin Chien",
+            "Charles Hansen"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183592",
+        "citation": 57,
+        "abstract": "2D image space methods are processing methods applied after the volumetric data are projected and rendered into the 2D image space, such as 2D filtering, tone mapping and compositing. In the application domain of volume visualization, most 2D image space methods can be carried out more efficiently than their 3D counterparts. Most importantly, 2D image space methods can be used to enhance volume visualization quality when applied together with volume rendering methods. In this paper, we present and discuss the applications of a series of 2D image space methods as enhancements to confocal microscopy visualizations, including 2D tone mapping, 2D compositing, and 2D color mapping. These methods are easily integrated with our existing confocal visualization tool, FluoRender, and the outcome is a full-featured visualization system that meets neurobiologists' demands for qualitative analysis of confocal microscopy data."
+    },
+    {
+        "title": "A network-based interface for the exploration of high-dimensional data spaces",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Zhiyuan Zhang",
+            "Kevin T. McDonnell",
+            "Klaus Mueller"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183569",
+        "citation": 25,
+        "abstract": "The navigation of high-dimensional data spaces remains challenging, making multivariate data exploration difficult. To be effective and appealing for mainstream application, navigation should use paradigms and metaphors that users are already familiar with. One such intuitive navigation paradigm is interactive route planning on a connected network. We have employed such an interface and have paired it with a prominent high-dimensional visualization paradigm showing the N-D data in undistorted raw form: parallel coordinates. In our network interface, the dimensions form nodes that are connected by a network of edges representing the strength of association between dimensions. A user then interactively specifies nodes/edges to visit, and the system computes an optimal route, which can be further edited and manipulated. In our interface, this route is captured by a parallel coordinate data display in which the dimension ordering is configured by the specified route. Our framework serves both as a data exploration environment and as an interactive presentation platform to demonstrate, explain, and justify any identified relationships to others. We demonstrate our interface within a business scenario and other applications."
+    },
+    {
+        "title": "Analysis and visualization of temporal changes in bloggers' activities and interests",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Masahiko Itoh",
+            "Naoki Yoshinaga",
+            "Masashi Toyoda",
+            "Masaru Kitsuregawa"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183574",
+        "citation": 25,
+        "abstract": "Social media such as blogs and microblogs enable users to easily and rapidly publish information on their personal activities and interests. They are considered to provide valuable information from the viewpoints of sociology, linguistics, and marketing. This paper proposes a novel system for analyzing temporal changes in the activities and interests of bloggers through a 3D visualization of phrase dependency structures in sentences. We first extract events that represent bloggers' activities and interests through analyzing the phrase dependencies of sentences in a blog archive. We roughly categorize the retrieved events according to the thematic roles (such as the experiencer, agent, and location) of the noun within the events, and then store them in a dependency database so that we can retrieve events that involve a given topic. Second, we present a 3D visualization framework for exploring temporal changes in events related to a topic. Our framework enables users to find events about a topic that appear within a specific timing, and drill down details of the events. It also enables users to compare events with different timings and/or on multiple topics. Moreover, it allows them to observe an overview of temporal changes in sets of events, and long-term changes in the frequency of events to assist users in finding trends. We implement the proposed system on our own five-year blog archive that focused on Japanese, and we report the usefulness of our system by using various examples."
+    },
+    {
+        "title": "The mental map and memorability in dynamic graphs",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Daniel Archambault",
+            "Helen C. Purchase"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183578",
+        "citation": 25,
+        "abstract": "In dynamic graph drawing, preserving the mental map, or ensuring that the location of nodes do not change significantly as the information evolves over time is considered an important property by algorithm designers. Many prior experiments have attempted to verify this principle, with surprisingly little success. These experiments have used several different algorithmic methods, a variety of graph interpretation questions on both real and fabricated data, and different presentation methods. However, none of the results have conclusively demonstrated the importance of mental map preservation on task performance. Our experiment measures the efficacy of the dynamic graph drawing in a different manner: we look at how memorable the evolving graph is, rather than how easy it is to interpret. As observed in the previous studies, we found no significant difference in terms of response time or error rate when preserving the mental map. While preserving the mental map is a good idea in principle, we find that it may not always support performance. However, our qualitative data suggests that, in terms of the user's perception, preserving the mental map makes memorability tasks easier. Our qualitative data also suggests that there may be two features of the dynamic graph drawing that may assist in their memorability: interesting subgraphs that remain visible over time and interesting patterns in node movement. The former is supported by preserving the mental map while the latter is not."
+    },
+    {
+        "title": "Embedding, clustering and coloring for dynamic maps",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Yifan Hu",
+            "Stephen G. Kobourov",
+            "Sankar Veeramoni"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183571",
+        "citation": 21,
+        "abstract": "We describe a practical approach for visualizing multiple relationships defined on the same dataset using a geographic map metaphor, where clusters of nodes form countries and neighboring countries correspond to nearby clusters. Our aim is to provide a visualization that allows us to compare two or more such maps (showing an evolving dynamic process, or obtained using different relationships). In the case where we are considering multiple relationships, e.g., different similarity metrics, we also provide an interactive tool to visually explore the effect of combining two or more such relationships. Our method ensures good readability and mental map preservation, based on dynamic node placement with node stability, dynamic clustering with cluster stability, and dynamic coloring with color stability."
+    },
+    {
+        "title": "Uncertainty visualization in HARDI based on ensembles of ODFs",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Fangxiang Jiao",
+            "Jeff M. Phillips",
+            "Yaniv Gur",
+            "Chris R. Johnson"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183591",
+        "citation": 21,
+        "abstract": "In this paper, we propose a new and accurate technique for uncertainty analysis and uncertainty visualization based on fiber orientation distribution function (ODF) glyphs, associated with high angular resolution diffusion imaging (HARDI). Our visualization applies volume rendering techniques to an ensemble of 3D ODF glyphs, which we call SIP functions of diffusion shapes, to capture their variability due to underlying uncertainty. This rendering elucidates the complex heteroscedastic structural variation in these shapes. Furthermore, we quantify the extent of this variation by measuring the fraction of the volume of these shapes, which is consistent across all noise levels, the certain volume ratio. Our uncertainty analysis and visualization framework is then applied to synthetic data, as well as to HARDI human-brain data, to study the impact of various image acquisition parameters and background noise levels on the diffusion shapes."
+    },
+    {
+        "title": "A benchmark for evaluating FTLE computations",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Alexander Kuhn",
+            "Christian Rössl",
+            "Tino Weinkauf",
+            "Holger Theisel"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183582",
+        "citation": 20,
+        "abstract": "The Finite Time Lyapunov Exponent (FTLE) has become a widespread tool for analyzing unsteady flow behavior. For its computation, several numerical methods have been introduced, which provide trade-offs between performance and accuracy. In order to decide which methods and parameter settings are suitable for a particular application, an evaluation of the different FTLE methods is necessary. We propose a general benchmark for FTLE computation, which consists of a number of 2D time-dependent flow fields and error measures. Evaluating the accuracy of a numerically computed FTLE field requires a ground truth, which is not available for realistic flow data sets, since such fields can generally not be described in a closed form. To overcome this, we introduce approaches to create non-trivial vector fields with a closed-form formulation of the FTLE field. Using this, we introduce a set of benchmark flow data sets that resemble relevant geometric aspects of Lagrangian structures, but have an analytic solution for FTLE. Based on this ground truth, we perform a comparative evaluation of three standard FTLE concepts. We suggest error measures based on the variance of both, the fields and the extracted ridge structures."
+    },
+    {
+        "title": "Object-space ambient occlusion for molecular dynamics",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Sebastian Grottel",
+            "Michael Krone",
+            "Katrin Scharnowski",
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183593",
+        "citation": 19,
+        "abstract": "In many different application fields particle-based simulation, like molecular dynamics, are used to study material properties and behavior. Nowadays, simulation data sets consist of millions of particles and thousands of time steps challenging interactive visualization. Direct glyph-based representations of the particle data are important for the visual analysis process and these rendering methods can be optimized to be able to work sufficiently fast with huge data sets. However, the perception of the implicit spatial structures formed by such data is often hindered by aliasing and visual clutter. Especially the depth of these structures can be grasped better if visual cues are applied, even in interactive representations. We hence present a method to apply object-space ambient occlusion, based on local neighborhood information, to large timedependent particle-based data sets without the need for any precomputations. Based on density information collected in real-time, glyph-based representations of the data sets can be visually enhanced without significant impact on the rendering performance allowing to visualize multi-million particle data sets interactively on commodity workstations."
+    },
+    {
+        "title": "A flow-guided file layout for out-of-core streamline computation",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Chun-Ming Chen",
+            "L. Xu",
+            "T. Lee",
+            "H. Shen",
+            "Lijie Xu",
+            "Teng-Yok Lee",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183585",
+        "citation": 18,
+        "abstract": "We present a file layout algorithm for flow fields to improve runtime I/O efficiency for out-of-core streamline computation. Because of the increasing discrepancy between the speed of processors and storage devices, the cost of I/O becomes a major bottleneck for out-of-core computation. To reduce the I/O cost, loading data with better spatial locality has proved to be effective. It is also known that sequential file access is more efficient. To facilitate efficient streamline computation, we propose to reorganize the data blocks in a file following the data access pattern so that more efficient I/O and effective prefetching can be accomplished. To achieve the goal, we divide the domain into small spatial blocks and order the blocks into a linear layout based on the underlying flow directions. The ordering is done using a weighted directed graph model which can be formulated as a linear graph arrangement problem. Our goal is to arrange the file in a way consistent with the data access pattern during streamline computation. This allows us to prefetch a contiguous segment of data at a time from disk and minimize the memory cache miss rate. We use a recursive partitioning method to approximate the optimal layout. Our experimental results show that the resulting file layout reduces I/O cost and hence enables more efficient out-of-core streamline computation."
+    },
+    {
+        "title": "Progressive parallel coordinates",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "René Rosenbaum",
+            "Jian Zhi",
+            "Bernd Hamann"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183570",
+        "citation": 15,
+        "abstract": "Progressive refinement is a methodology that makes it possible to elegantly integrate scalable data compression, access, and presentation into one approach. Specifically, this paper concerns the effective use of progressive parallel coordinates (PPCs), utilized routinely for high-dimensional data visualization. It discusses how the power of the typical stages of progressive data visualization can also be utilized fully for PPCs. Further, different implementations of the underlying methods and potential application domains are described. The paper also presents empirical results concerning the benefits of PPC with regard to efficient data management and improved presentation, indicating that the proposed approach is able to close the gap between data handling and visualization."
+    },
+    {
+        "title": "Implicit representation of molecular surfaces",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Julius Parulek",
+            "Ivan Viola"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183594",
+        "citation": 14,
+        "abstract": "Molecular surfaces are an established tool to analyze and to study the evolution and interaction of molecules. One of the most advanced representations of molecular surfaces is called the solvent excluded surface. We present a novel and a simple method for representing the solvent excluded surfaces (SES). Our method requires no precomputation and therefore allows us to vary SES parameters outright. We utilize the theory of implicit surfaces and their CSG operations to compose the implicit function representing the molecular surface locally. This function returns a minimal distance to the SES representation. Additionally, negative values of the implicit function determine that the point lies outside SES whereas positive ones that the point lies inside. We describe how to build this implicit function composed of three types of patches constituting the SES representation. Finally, we propose a method to visualize the iso-surface of the implicit function by means of ray-casting and the set of rendering parameters affecting the overall performance."
+    },
+    {
+        "title": "A statistics-based dimension reduction of the space of path line attributes for interactive visual flow analysis",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Armin Pobitzer",
+            "Alan Lež",
+            "Krešimir Matković",
+            "Helwig Hauser"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183581",
+        "citation": 12,
+        "abstract": "Recent work has shown the great potential of interactive flow analysis by the analysis of path lines. The choice of suitable attributes, describing the path lines, is, however, still an open question. This paper addresses this question performing a statistical analysis of the path line attribute space. In this way we are able to balance the usage of computing power and storage with the necessity to not loose relevant information. We demonstrate how a carefully chosen attribute set can improve the benefits of state-of-the art interactive flow analysis. The results obtained are compared to previously published work."
+    },
+    {
+        "title": "SideKnot: Revealing relation patterns for graph visualization",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Dichao Peng",
+            "Neng Lu",
+            "Wei Chen",
+            "Qunsheng Peng"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183575",
+        "citation": 11,
+        "abstract": "Graph is an intuitive and powerful tool to present relationships between entities. Efficiently visualizing graphs with node-link diagrams is a great challenge due to visual clutter induced by edge crossing and node-edge overlapping. Many edge bundling methods are proposed to disclose high-level edge patterns. Though previous methods can successfully reveal the coarse graph structure, the relation patterns at individual node level can be overlooked. In addition, many edge bundling algorithms are computationally complex to prevent them from scaling up for extremely large graphs. In this paper, we propose SideKnot, an efficient node-based bundling method to cluster and knot edges. SideKnot is light, runs faster than most existing algorithms, and can disclose the relation patterns of an individual node such as its standing in the graph and pattern of relations with its neighbors."
+    },
+    {
+        "title": "Visual 4D MRI blood flow analysis with line predicates",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Silvia Born",
+            "Matthias Pfeifle",
+            "Michael Markl",
+            "Gerik Scheuermann"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183580",
+        "citation": 10,
+        "abstract": "4D MRI is an in vivo flow imaging modality which has the potential to significantly enhance diagnostics and therapy of cardiovascular diseases. However, current analysis methods demand too much time and expert knowledge in order to apply 4D MRI in the clinics or larger clinical studies. One missing piece are methods allowing to gain a quick overview of the flow data's main properties. We present a line predicate approach that sorts precalculated integral lines, which capture the complete flow dynamics, into bundles with similar properties. We introduce several streamline and pathline predicates that allow to structure the flow according to various features useful for blood flow analysis, such as, e.g., velocity distribution, vortices, and flow paths. The user can combine these predicates flexibly and by that create flow structures that help to gain overview and carve out special features of the current dataset. We show the usefulness of our approach by means of a detailed discussion of 4D MRI datasets of healthy and pathological aortas."
+    },
+    {
+        "title": "Intelligent cutaway illustrations",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Stephan Sigg",
+            "Raphael Fuchs",
+            "Robert Carnecky",
+            "Ronald Peikert"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183590",
+        "citation": 8,
+        "abstract": "Artistic illustrations of important structures in fluid flow have a long-standing tradition and are appreciated as clearly perceivable, instructive, but still conveying all relevant information to the viewer. One important illustrative technique for such visualizations are cutaways. Currently cutaways are placed manually or using view-vector based approaches. We propose to optimize the visibility of important target features based on a degree-of-interest (DOI) function. The DOI is specified during interactive visual analysis, e.g., by brushing scatterplots. We show that the problem of placing cutaway boxes optimally is NP-hard in the number of boxes. To overcome this obstacle, we present an intelligent method to compute cutaways. Geometric cutaway objects are positioned using a view-dependent objective function which optimizes the visibility of all features. In order to approximate the optimal solution, we use a Monte Carlo method and exploit temporal coherence in dynamic scenes. Performance-critical parts are implemented on the GPU. The proposed method can be integrated easily into existing rendering frameworks and is general enough to be able to optimize other parameters besides cutaways as well. We evaluate the performance of the algorithm and provide a case study of vorticity visualization in a turbulent flow."
+    },
+    {
+        "title": "Output-coherent image-space LIC for surface flow visualization",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Jin Huang",
+            "Wenjie Pei",
+            "Chunfeng Wen",
+            "Guoning Chen",
+            "Wei Chen",
+            "Hujun Bao"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183584",
+        "citation": 8,
+        "abstract": "Image-space line integral convolution (LIC) is a popular approach for visualizing surface vector fields due to its simplicity and high efficiency. To avoid inconsistencies or color blur during the user interactions in the image-space approach, some methods use surface parameterization or 3D volume texture for the effect of smooth transition, which often require expensive computational or memory cost. Furthermore, those methods cannot achieve consistent LIC results in both granularity and color distribution on different scales. This paper introduces a novel image-space LIC for surface flows that preserves the texture coherence during user interactions. To make the noise textures under different viewpoints coherent, we propose a simple texture mapping technique that is local, robust and effective. Meanwhile, our approach pre-computes a sequence of mipmap noise textures in a coarse-to-fine manner, leading to consistent transition when the model is zoomed. Prior to perform LIC in the image space, the mipmap noise textures are mapped onto each triangle with randomly assigned texture coordinates. Then, a standard image-space LIC based on the projected vector fields is performed to generate the flow texture. The proposed approach is simple and very suitable for GPU acceleration. Our implementation demonstrates consistent and highly efficient LIC visualization on a variety of datasets."
+    },
+    {
+        "title": "A maxent-stress model for graph layout",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Emden R. Gansner",
+            "Yifan Hu",
+            "Stephen North"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183576",
+        "citation": 7,
+        "abstract": "In some applications of graph visualization, input edges have associated target lengths. Dealing with these lengths is a challenge, especially for large graphs. Stress models are often employed in this situation. However, the traditional full stress model is not scalable due to its reliance on an initial all-pairs shortest path calculation. A number of fast approximation algorithms have been proposed. While they work well for some graphs, the results are less satisfactory on graphs of intrinsically high dimension, because nodes overlap unnecessarily. We propose a solution, called the maxent-stress model, which applies the principle of maximum entropy to cope with the extra degrees of freedom. We describe a force-augmented stress majorization algorithm that solves the maxent-stress model. Numerical results show that the algorithm scales well, and provides acceptable layouts for large, non-rigid graphs. This also has potential applications to scalable algorithms for statistical multidimensional scaling (MDS) with variable distances."
+    },
+    {
+        "title": "As-Perpendicular-as-possible surfaces for flow visualization",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Maik Schulze",
+            "Christian Rössl",
+            "Tobias Germer",
+            "Holger Theisel"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183586",
+        "citation": 6,
+        "abstract": "We define APAP surfaces, surfaces that are as perpendicular as possible to steady 3D vector fields, and present a method to construct discrete representations of them. Since, in general, a perfectly perpendicular surface to a vector field does not exist, we propose and minimize an error metric to enforce perpendicularity as much as possible. Our algorithm constructs an APAP surface by deforming a seed surface anchored in a domain point. In the discrete setting this minimization results in iteratively solving linear least-squares problems and integrating a locally scaled version of the vector field. The definition of the error metric and its numerical minimization guarantee that the minimum zero is attained for the perfectly perpendicular surface if it exists. Otherwise, the minimization converges to the same local minimum independent of the seed configuration, and the resulting surface is - in a least-squares sense - as perpendicular as possible to the flow. We apply these APAP surfaces as an interactive flow visualization tool which we demonstrate on a number of synthetic and real flow data sets."
+    },
+    {
+        "title": "Centerline reformations of complex vascular structures",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Gabriel Mistelbauer",
+            "Andrej Varchola",
+            "Hamed Bouzari",
+            "Juraj Starinsky",
+            "Arnold Köchl",
+            "Rüdiger Schernthaner",
+            "Dominik Fleischmann",
+            "Meister Eduard Gröller",
+            "Milos Sramek"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183596",
+        "citation": 6,
+        "abstract": "Visualization of vascular structures is a common and frequently performed task in the field of medical imaging. There exist well established and applicable methods such as Maximum Intensity Projection (MIP) and Curved Planar Reformation (CPR). However, when calcified vessel walls are investigated, occlusion hinders exploration of the vessel interior with MIP. In contrast, CPR offers the possibility to visualize the vessel lumen by cutting a single vessel along its centerline. Extending the idea of CPR, we propose a novel technique, called Centerline Reformation (CR), which is capable of visualizing the lumen of spatially arbitrarily oriented vessels not necessarily connected in a tree structure. In order to visually emphasize depth, overlap and occlusion, halos can optionally envelope the vessel lumen. The required vessel centerlines are obtained from volumetric data by performing a scale-space based feature extraction. We present the application of the proposed technique in a focus and context setup. Further, we demonstrate how it facilitates the investigation of dense vascular structures, particularly cervical vessels or vessel data featuring peripheral arterial occlusive diseases or pulmonary embolisms. Finally, feedback from domain experts is given."
+    },
+    {
+        "title": "Topological analysis and visualization of cyclical behavior in memory reference traces",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "A.N.M. Imroz Choudhury",
+            "Bei Wang",
+            "Paul Rosen",
+            "Valerio Pascucci"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183557",
+        "citation": 5,
+        "abstract": "We demonstrate the application of topological analysis techniques to the rather unexpected domain of software visualization. We collect a memory reference trace from a running program, recasting the linear flow of trace records as a high-dimensional point cloud in a metric space. We use topological persistence to automatically detect significant circular structures in the point cloud, which represent recurrent or cyclical runtime program behaviors. We visualize such recurrences using radial plots to display their time evolution, offering multi-scale visual insights, and detecting potential candidates for memory performance optimization. We then present several case studies to demonstrate some key insights obtained using our techniques."
+    },
+    {
+        "title": "Effects of illumination, texture, and motion on task performance in 3D tensor-field streamtube visualizations",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Devon Penney",
+            "Jian Chen",
+            "David H. Laidlaw"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183579",
+        "citation": 5,
+        "abstract": "We present results from a user study of task performance on streamtube visualizations, such as those used in three-dimensional (3D) vector and tensor field visualizations. This study used a tensor field sampled from a full-brain diffusion tensor magnetic resonance imaging (DTI) dataset. The independent variables include illumination model (global illumination and OpenGL-style local illumination), texture (with and without), motion (with and without), and task. The three spatial analysis tasks are: (1) a depth-judgment task: determining which of two marked tubes is closer to the user's viewpoint, (2) a visual-tracing task: marking the endpoint of a tube, and (3) a contact-judgment task: analyzing tube-sphere penetration. Our results indicate that global illumination did not improve task completion time for the tasks we measured. Global illumination reduced the errors in participants' answers over local OpenGLstyle rendering for the visual-tracing task only when motion was present. Motion contributed to spatial understanding for all tasks, but at the cost of longer task completion time. A high-frequency texture pattern led to longer task completion times and higher error rates. These results can help in the design of lighting model, such as flow or diffusion-tensor field visualizations and identify situations when the lighting is more efficient and accurate."
+    },
+    {
+        "title": "Combined surface and volumetric occlusion shading",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Mathias Schott",
+            "Tobias Martin",
+            "A.V. Pascal Grosset",
+            "Carson Brownlee",
+            "Thomas Höllt",
+            "Benjamin P. Brown",
+            "Sean T. Smith",
+            "Charles D. Hansen"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183588",
+        "citation": 4,
+        "abstract": "In this paper, a method for interactive direct volume rendering is proposed that computes ambient occlusion effects for visualizations that combine both volumetric and geometric primitives, specifically tube shaped geometric objects representing streamlines, magnetic field lines or DTI fiber tracts. The proposed algorithm extends the recently proposed Directional Occlusion Shading model to allow the rendering of those geometric shapes in combination with a context providing 3D volume, considering mutual occlusion between structures represented by a volume or geometry."
+    },
+    {
+        "title": "Analyzing the evolution of large scale structures in the universe with velocity based methods",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Uliana Popov",
+            "Eddy Chandra",
+            "Katrin Heitmann",
+            "Salman Habib",
+            "James Ahrens",
+            "Alex Pang"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183573",
+        "citation": 3,
+        "abstract": "The formation of cosmic structure results from the action of gravity on matter in an expanding Universe. As the evolution proceeds, the velocity field changes from being single-valued almost everywhere in space to being multi-valued over a complex web of `multistreaming' regions associated with the formation of large-scale structure (LSS) such as halos (or clumps), filaments, and sheets. Until recently, these structures have been investigated primarily via the (scalar) mass density field. In this application paper we apply data analysis and visualization techniques to cosmological simulations with the aim of studying multistreaming regions using velocity-based probes. Compared to the current practice of using density information (e.g., morphology estimators, locating overdense regions with halo finders), we show that velocity-based methods can provide useful supporting, as well as complementary, information. Because the density field and multistreaming are correlated but do not contain the same information, new and interesting information about the properties of the large-scale structure may be extracted, e.g., capturing dynamical behavior not possible with density-based estimators. Incorporating a novel method for setting thresholds for the velocity-based estimators, we study the relationships between the density field as represented by compact overdense halos and the different properties of multistreaming regions as represented by different velocity-based estimators."
+    },
+    {
+        "title": "Dense flow visualization using wave interference",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Victor Matvienko",
+            "Jens Krüger"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183583",
+        "citation": 3,
+        "abstract": "Dense flow visualization and streamlines are among the most popular methods in numerous applications of scientific visualization. Because very few works synthesize the benefits of these approaches into one framework, we propose a hybrid technique. In this work, we present a novel method of dense flow visualization that produces high contrast images (typical of streamline approaches), with manageable spatial frequency. We begin by introducing a notion of a streamline thickness function and thickness wave sources, and then compute the resulting image as a coherent wave interference pattern. We show that this problem is equivalent to finding the dominant eigenvector of a sparse matrix and employ the power iterations numerical scheme to demonstrate an efficient parallel implementation. We conclude by discussing possible quality improvement strategies and extensions of our method to other domains, including 3D flows."
+    },
+    {
+        "title": "Volume rendering with multidimensional peak finding",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Natallia Kotava",
+            "Aaron Knoll",
+            "Mathias Schott",
+            "Christoph Garth",
+            "Xavier Tricoche",
+            "Christoph Kessler",
+            "Elaine Cohen",
+            "Charles D. Hansen",
+            "Michael E. Papka",
+            "Hans Hagen"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183587",
+        "citation": 3,
+        "abstract": "Peak finding provides more accurate classification for direct volume rendering by sampling directly at local maxima in a transfer function, allowing for better reproduction of high-frequency features. However, the 1D peak finding technique does not extend to higherdimensional classification. In this work, we develop a new method for peak finding with multidimensional transfer functions, which looks for peaks along the image of the ray. We use piecewise approximations to dynamically sample in transfer function space between world-space samples. As with unidimensional peak finding, this approach is useful for specifying transfer functions with greater precision, and for accurately rendering noisy volume data at lower sampling rates. Multidimensional peak finding produces comparable image quality with order-of-magnitude better performance, and can reproduce features omitted entirely by standard classification. With no precomputation or storage requirements, it is an attractive alternative to preintegration for multidimensional transfer functions."
+    },
+    {
+        "title": "Visualization of material interface stability",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Harald Obermaier",
+            "Fang Chen",
+            "Hans Hagen",
+            "Kenneth I. Joy"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183595",
+        "citation": 3,
+        "abstract": "Material interfaces and free surfaces are a topic of increasing interest in the field of computational fluid dynamics. In parts, reconstructed interfaces from such multi-fluid simulations behave like classic integral surfaces as known in the visualization community, while other regions of the surface undergo topological changes or behave orthogonally to what is expected by the underlying flow field. Thus, the analysis of the flow field in connection with material interface shape and topology is a challenging task. We develop a technique that facilitates visualization and analysis of such complex material interface behavior over time. For this matter, we track a surface parametrization of time-varying material interfaces and identify locations of interaction between material interfaces and fluid particles. Splatting and surface visualization techniques produce an intuitive representation of the derived interface stability. Our results demonstrate, how the interaction of the flow field with the material interface can be highlighted by appropriate extraction and visualization techniques and how the developed techniques can aid analysis of mixing and material interface consistency."
+    },
+    {
+        "title": "Numerical optimization-based graph drawing revisited",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Hiroshi Hosobe"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183577",
+        "citation": 2,
+        "abstract": "We present a numerical optimization-based method for visualizing undirected graphs. Our method is a variant of force-directed graph drawing, and has sufficient generality to adopt different basic force models including those for the Kamada-Kawai and Fruchterman-Reingold methods. To achieve efficiency, we use the L-BFGS method for numerical optimization. Our experimental results show that the method gives good performance when combined with the Kamada-Kawai model."
+    },
+    {
+        "title": "Interference microscopy volume illustration for biomedical data",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Hanqi Guo",
+            "Xiaoru Yuan",
+            "Jie Liu",
+            "Guihua Shan",
+            "Xuebin Chi",
+            "Fei Sun"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183589",
+        "citation": 0,
+        "abstract": "In this paper, we propose a novel volume illustration technique inspired by interference microscopy, which has been successfully used in biological, medical and material science over decades. Our approach simulates the optical phenomenon in interference microscopy that accounts light interference over transparent specimens, in order to generate contrast enhanced and illustrative volume visualization results. Specifically, we propose PCVR (Phase- Contrast Volume Rendering) and DICVR (Differential Interference Contrast Volume Rendering) corresponding to Phase-Contrast microscopy and Differential Interference Contrast (DIC) microscopy respectively. Without complex transfer function design, our proposed method can enhance the image contrast and structure details according to the subtle change of Optical Path Differences (OPD), and illustrate the thickness change and occluded structures with interferometry metaphors. In addition, we also develop a user interface to enable slicing specimen sections in volume data. Focus+ context lens are also included in the system for convenient data navigation and exploration. As the proposed methods are based upon widely applied microscopy techniques, they are intuitive for domain experts to explore and analyze the volume data with the proposed methods. The feedbacks from domain users suggest our proposed techniques are useful volume visualization approaches complimentary to the traditional ones."
+    },
+    {
+        "title": "Quantitative visualization in the computational biological sciences",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Chandrajit Bajaj"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183567",
+        "citation": 0,
+        "abstract": "Discoveries in computational molecular - cell biology and bioinformatics promise to provide new therapeutic interventions to disease. With the rapid growth of sequence and structural information for thousands of proteins and hundreds of cell types, computational processing are a restricting factor in obtaining quantitative understanding of molecular-cellular function. Processing and analysis is necessary both for input data (often from imaging) and simulation results. To make biological conclusions, this data must be input to and combined with results from computational analysis and simulations. Furthermore, as parallelism is increasingly prevalent, utilizing the available processing power is essential to development of scalable solutions needed for realistic scientific inquiry. However, complex image processing and even simulations performed on large clusters, multi-core CPU, GPU-type parallelization means that naïve cache unaware algorithms may not efficiently utilize available hardware. Future gains thus require improvements to a core suite of algorithms underpinning the data processing, simulation, optimization and visualization needed for scientific discovery. In this talk, I shall highlight current progress on these algorithms as well as provide several challenges for the visualization community."
+    },
+    {
+        "title": "[Cover image credits]",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2012.6183597",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Challenges for information visualization research: Visual quality and data quantity",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Ben Shneiderman"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183566",
+        "citation": 0,
+        "abstract": "Summary form only given. The remarkable adoption of information visualization has triggered worldwide application from researchers, companies, governments, and news media. The public interest in visually rich infographics has raised questions of how best to present insights and what interactive capabilities enable engaging exploration, while maintaining comprehensibility. Government professionals find that compelling visual presentations inform policy making. At the same time researchers and corporate decision makers have increased expectations of how visual analytics can support important discoveries and business decisions. Our research community is racing to deal with complex data, rich questions, and large-scale data streams. This talk will present some success stories and suggest promising research directions."
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC)",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2012.6183563",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members."
+    },
+    {
+        "title": "A message from the program chairs",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [
+            "Helwig Hauser",
+            "Stephen Kobourov",
+            "Huamin Qu"
+        ],
+        "DOI": "10.1109/PacificVis.2012.6183562",
+        "citation": 0,
+        "abstract": "Welcome to the proceedings of the Pacific Visualization Symposium 2012 (PacificVis 2012) at CEWIT Korea in Songdo, Korea, from February 28th to March 2nd, 2012. After a series of successful events in Kyoto (2008), Beijing (2009), Taipei (2010), and Hong Kong (2011), this meeting in Songdo is the fifth Pacific Visualization Symposium sponsored by the IEEE Computer Society Visualization and Graphics Technical Committee (VGTC). The objective of this symposium series is to foster greater exchange between visualization researchers and practitioners, with a focus on the Asia-Pacific region."
+    },
+    {
+        "title": "Organizing Committee",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2012.6183564",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members."
+    },
+    {
+        "title": "Supporting organizations",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2012.6183561",
+        "citation": 0,
+        "abstract": "The conference organizers greatly appreciate the support of the various corporate sponsors listed."
+    },
+    {
+        "title": "[Copyright notice]",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2012.6183559",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "[Front and back cover]",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2012.6183598",
+        "citation": 0,
+        "abstract": "The following topics are dealt with: information visualization; visual analytics; graph visualization; vector fields; flow visualization; volume rendering; medicine visualization; and natural science visualization."
+    },
+    {
+        "title": "Reviewers",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2012.6183565",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "Contents",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2012.6183560",
+        "citation": 0,
+        "abstract": "Presents the table of contents of the proceedings."
+    },
+    {
+        "title": "[Title page]",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2012.6183558",
+        "citation": 0,
+        "abstract": "Conference proceedings title page."
+    },
+    {
+        "title": "[Blank page]",
+        "conferenceTitle": "2012 IEEE Pacific Visualization Symposium",
+        "date": "28 Feb.-2 March 2012",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2012.6183568",
+        "citation": 0,
+        "abstract": "This page or pages intentionally left blank."
+    }
+]

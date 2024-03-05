@@ -1,0 +1,678 @@
+[
+    {
+        "title": "Fast & Accurate Gaussian Kernel Density Estimation",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Jeffrey Heer"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623323",
+        "citation": 6,
+        "abstract": "Kernel density estimation (KDE) models a discrete sample of data as a continuous distribution, supporting the construction of visualizations such as violin plots, heatmaps, and contour plots. This paper draws on the statistics and image processing literature to survey efficient and scalable density estimation techniques for the common case of Gaussian kernel functions. We evaluate the accuracy and running time of these methods across multiple visualization contexts and find that the combination of linear binning and a recursive filter approximation by Deriche efficiently produces pixel-perfect estimates across a compelling range of kernel bandwidths."
+    },
+    {
+        "title": "Histogram binning revisited with a focus on human perception",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Raphael Sahann",
+            "Torsten Müller",
+            "Johanna Schmidt"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623301",
+        "citation": 5,
+        "abstract": "This paper presents a quantitative user study to evaluate how well users can visually perceive the underlying data distribution from a histogram representation. We used different sample and bin sizes and four different distributions (uniform, normal, bimodal, and gamma). The study results confirm that, in general, more bins correlate with fewer errors by the viewers. However, upon a certain number of bins, the error rate cannot be improved by adding more bins. By comparing our study results with the outcomes of existing mathematical models for histogram binning (e.g., Sturges’ formula, Scott’s normal reference rule, the Rice Rule, or Freedman–Diaconis’ choice), we can see that most of them overestimate the number of bins necessary to make the distribution visible to a human viewer."
+    },
+    {
+        "title": "Jurassic Mark: Inattentional Blindness for a Datasaurus Reveals that Visualizations are Explored, not Seen",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Tal Boger",
+            "Steven B. Most",
+            "Steven L. Franconeri"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623273",
+        "citation": 5,
+        "abstract": "Graphs effectively communicate data because they capitalize on the visual system’s ability to rapidly extract patterns. Yet, this pattern extraction does not occur in a single glance. Instead, research on visual attention suggests that the visual system iteratively applies a sequence of filtering operations on an image, extracting patterns from subsets of visual information over time, while selectively inhibiting other information at each of these moments. To demonstrate that this powerful series of filtering operations also occurs during the perception of visualized data, we designed a task where participants made judgments from one class of marks on a scatterplot, presumably incentivizing them to relatively ignore other classes of marks. Participants consistently missed a conspicuous dinosaur in the ignored collection of marks (93% for a 1s presentation, and 61% for 2.5s), but not in a control condition where the incentive to ignore that collection was removed (25% for a 1s presentation, and 11% for 2.5s), revealing that data visualizations are not “seen” in a single glance, and instead require an active process of exploration."
+    },
+    {
+        "title": "Segmentation Driven Peeling for Visual Analysis of Electronic Transitions",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Mohit Sharma",
+            "Talha Bin Masood",
+            "Signe S. Thygesen",
+            "Mathieu Linares",
+            "Ingrid Hotz",
+            "Vijay Natarajan"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623300",
+        "citation": 4,
+        "abstract": "Electronic transitions in molecules due to absorption or emission of light is a complex quantum mechanical process. Their study plays an important role in the design of novel materials. A common yet challenging task in the study is to determine the nature of those electronic transitions, i.e. which subgroups of the molecule are involved in the transition by donating or accepting electrons, followed by an investigation of the variation in the donor-acceptor behavior for different transitions or conformations of the molecules. In this paper, we present a novel approach towards the study of electronic transitions based on the visual analysis of a bivariate field, namely the electron density in the hole and particle Natural Transition Orbital (NTO). The visual analysis focuses on the continuous scatter plots (CSPs) of the bivariate field linked to their spatial domain. The method supports selections in the CSP visualized as fiber surfaces in the spatial domain, the grouping of atoms, and segmentation of the density fields to peel the CSP. This peeling operator is central to the visual analysis process and helps identify donors and acceptors. We study different molecular systems, identifying local excitation and charge transfer excitations to demonstrate the utility of the method."
+    },
+    {
+        "title": "Time-Varying Fuzzy Contour Trees",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Anna-Pia Lohfink",
+            "Frederike Gartzky",
+            "Florian Wetzels",
+            "Luisa Vollmer",
+            "Christoph Garth"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623286",
+        "citation": 4,
+        "abstract": "We present a holistic, topology-based visualization technique for spatial time series data based on an adaptation of Fuzzy Contour Trees. Common analysis approaches for time dependent scalar fields identify and track specific features. To give a more general overview of the data, we extend Fuzzy Contour Trees, from the visualization and simultaneous analysis of the topology of multiple scalar fields, to time dependent scalar fields. The resulting time-varying Fuzzy Contour Trees allow the comparison of multiple time steps that are not required to be consecutive. We provide specific interaction and navigation possibilities that allow the exploration of individual time steps and time windows in addition to the behavior of the contour trees over all time steps. To achieve this, we reduce an existing alignment to multiple sub-alignments and adapt the Fuzzy Contour Tree-layout to continuously reflect changes and similarities in the sub-alignments. We apply time-varying Fuzzy Contour Trees to different real-world data sets and demonstrate their usefulness."
+    },
+    {
+        "title": "Uncertainty Visualization of the Marching Squares and Marching Cubes Topology Cases",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Tushar M. Athawale",
+            "Sudhanshu Sane",
+            "Chris R. Johnson"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623267",
+        "citation": 1,
+        "abstract": "Marching squares (MS) and marching cubes (MC) are widely used algorithms for level-set visualization of scientific data. In this paper, we address the challenge of uncertainty visualization of the topology cases of the MS and MC algorithms for uncertain scalar field data sampled on a uniform grid. The visualization of the MS and MC topology cases for uncertain data is challenging due to their exponential nature and the possibility of multiple topology cases per cell of a grid. We propose the topology case count and entropy-based techniques for quantifying uncertainty in the topology cases of the MS and MC algorithms when noise in data is modeled with probability distributions. We demonstrate the applicability of our techniques for independent and correlated uncertainty assumptions. We visualize the quantified topological uncertainty via color mapping proportional to uncertainty, as well as with interactive probability queries in the MS case and entropy isosurfaces in the MC case. We demonstrate the utility of our uncertainty quantification framework in identifying the isovalues exhibiting relatively high topological uncertainty. We illustrate the effectiveness of our techniques via results on synthetic, simulation, and hixel datasets."
+    },
+    {
+        "title": "Intercept Graph: An Interactive Radial Visualization for Comparison of State Changes",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Shaolun Ruan",
+            "Yong Wang",
+            "Qiang Guan"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623307",
+        "citation": 1,
+        "abstract": "State change comparison of multiple data items is often necessary in multiple application domains, such as medical science, financial engineering, sociology, biological science, etc. Slope graphs and grouped bar charts have been widely used to show a “before-and-after” story of different data states and indicate their changes. However, they visualize state changes as either slope or difference of bars, which has been proved less effective for quantitative comparison. Also, both visual designs suffer from visual clutter issues with an increasing number of data items. In this paper, we propose Intercept Graph, a novel visual design to facilitate effective interactive comparison of state changes. Specifically, a radial design is proposed to visualize the starting and ending states of each data item and the line segment length explicitly encodes the “state change By interactively adjusting the radius of the inner circular axis, Intercept Graph can smoothly filter the large state changes and magnify the difference between similar state changes, mitigating the visual clutter issues and enhancing the effective comparison of state changes. We conducted a case study through comparing Intercept Graph with slope graphs and grouped bar charts on real datasets to demonstrate the effectiveness of Intercept Graph."
+    },
+    {
+        "title": "VAINE: Visualization and AI for Natural Experiments",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Grace Guo",
+            "Maria Glenski",
+            "ZhuanYi Shaw",
+            "Emily Saldanha",
+            "Alex Endert",
+            "Svitlana Volkova",
+            "Dustin Arendt"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623285",
+        "citation": 1,
+        "abstract": "Natural experiments are observational studies where the assignment of treatment conditions to different populations occurs by chance“in the wild”. Researchers from fields such as economics, healthcare, and the social sciences leverage natural experiments to conduct hypothesis testing and causal effect estimation for treatment and outcome variables that would otherwise be costly, infeasible, or unethical. In this paper, we introduce VAINE (Visualization and AI for Natural Experiments), a visual analytics tool for identifying and understanding natural experiments from observational data. We then demonstrate how VAINE can be used to validate causal relationships, estimate average treatment effects, and identify statistical phenomena such as Simpson’s paradox through two usage scenarios."
+    },
+    {
+        "title": "Automatic Y-axis Rescaling in Dynamic Visualizations",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Jacob Fisher",
+            "Remco Chang",
+            "Eugene Wu"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623319",
+        "citation": 1,
+        "abstract": "Animated and interactive data visualizations dynamically change the data rendered in a visualization (e.g., bar chart). As the data changes, the y-axis may need to be rescaled as the domain of the data changes. Each axis rescaling potentially improves the readability of the current chart, but may also disorient the user. In contrast to static visualizations, where there is considerable literature to help choose the appropriate y-axis scale, there is a lack of guidance about how and when rescaling should be used in dynamic visualizations. Existing visualization systems and libraries adapt a fixed global y-axis, or rescale every time the data changes. Yet, professional visualizations, such as in data journalism, do not adopt either strategy. They instead carefully and manually choose when to rescale based on the analysis task and data. To this end, we conduct a series of Mechanical Turk experiments to study the potential of dynamic axis rescaling and the factors that affect its effectiveness. We find that the appropriate rescaling policy is both task- and data-dependent, and we do not find one clear policy choice for all situations."
+    },
+    {
+        "title": "Exact Analytical Parallel Vectors",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Hanqi Guo",
+            "Tom Peterka"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623310",
+        "citation": 0,
+        "abstract": "This paper demonstrates that parallel vector curves are piecewise cubic rational curves in 3D piecewise linear vector fields. Parallel vector curves—loci of points where two vector fields are parallel— have been widely used to extract features including ridges, valleys, and vortex core lines in scientific data. We define the term generalized and underdetermined eigensystem in the form of Ax + a = $\\lambda$(Bx + b) in order to derive the piecewise rational representation of 3D parallel vector curves. We discuss how singularities of the rationals lead to different types of intersections with tetrahedral cells."
+    },
+    {
+        "title": "Towards a Survey on Static and Dynamic Hypergraph Visualizations",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Maximilian T. Fischer",
+            "Alexander Frings",
+            "Daniel A. Keim",
+            "Daniel Seebacher"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623305",
+        "citation": 10,
+        "abstract": "Leveraging hypergraph structures to model advanced processes has gained much attention over the last few years in many areas, ranging from protein-interaction in computational biology to image retrieval using machine learning. Hypergraph models can provide a more accurate representation of the underlying processes while reducing the overall number of links compared to regular representations. However, interactive visualization methods for hypergraphs and hypergraph-based models have rarely been explored or systematically analyzed. This paper reviews the existing research landscape for hypergraph and hypergraph model visualizations and assesses the currently employed techniques. We provide an overview and a categorization of proposed approaches, focusing on performance, scalability, interaction support, successful evaluation, and the ability to represent different underlying data structures, including a recent demand for a temporal representation of interaction networks and their improvements beyond graph-based methods. Lastly, we discuss the strengths and weaknesses of the approaches and give an insight into the future challenges arising in this emerging research field."
+    },
+    {
+        "title": "Ray-traced Shell Traversal of Tetrahedral Meshes for Direct Volume Visualization",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Alper Şahıstan",
+            "Serkan Demirci",
+            "Nathan Morrical",
+            "Stefan Zellmann",
+            "Aytek Aman",
+            "Ingo Wald",
+            "Uğur Güdükbay"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623298",
+        "citation": 8,
+        "abstract": "A well-known method for rendering unstructured volumetric data is tetrahedral marching (tet marching), where rays are marched through a series of tetrahedral elements. Rowever, existing tet marching techniques do not easily generalize to rays with arbitrary origin and direction required for advanced shading effects or non-convex meshes. Additionally, the memory footprint of these methods may exceed GPU memory limits. Interactive performance and high image quality are opposing goals. Our approach significantly lowers the burden to render unstructured datasets with high image fidelity while maintaining real-time and interactive performance even for large datasets. To this end, we leverage hardware-accelerated ray tracing to find entry and exit faces for a given ray into a volume and utilize a compact mesh representation to enable the efficient marching of arbitrary rays, thus allowing for advanced shading effects that ultimately yields more convincing and grounded images. Our approach is also robust, supporting both convex and non-convex unstructured meshes. We show that our method achieves interactive rates even with moderately-sized datasets while secondary effects are applied."
+    },
+    {
+        "title": "An Exploration And Validation of Visual Factors in Understanding Classification Rule Sets",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Jun Yuan",
+            "Oded Nov",
+            "Enrico Bertini"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623303",
+        "citation": 8,
+        "abstract": "Rule sets are often used in Machine Learning (ML) as a way to communicate the model logic in settings where transparency and intelligibility are necessary. Rule sets are typically presented as a text-based list of logical statements (rules). Surprisingly, to date there has been limited work on exploring visual alternatives for presenting rules. In this paper, we explore the idea of designing alternative representations of rules, focusing on a number of visual factors we believe have a positive impact on rule readability and understanding. We then presents a user study exploring their impact. The results show that some design factors have a strong impact on how efficiently readers can process the rules while having minimal impact on accuracy. This work can help practitioners employ more effective solutions when using rules as a communication strategy to understand ML models."
+    },
+    {
+        "title": "AiR: An Augmented Reality Application for Visualizing Air Pollution",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Noble Saji Mathews",
+            "Sridhar Chimalakonda",
+            "Suresh Jain"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623287",
+        "citation": 7,
+        "abstract": "In order to effectively combat Air Pollution, it is necessary for the government and the community to work together. Easily comprehensible visualizations can play a major role in drawing public attention and spreading awareness about seemingly intangible air pollution. Considering the widespread usage of Android-based devices, in this paper, we propose an Augmented Reality based application called AiR, to help users to visualize pollutants in the air and to create an immersive user experience. It aims to interactively engage a wide variety of users and create awareness without overwhelming them with data. AiR visualizes 12 pollutants $[PM _{10}$, $PM _{2.5}$, NO, NO2, $NO _{x}$, CO, SO2, O3, NH3, C6 H6, (CH3)C6 H5 and (CH3)2 C6 H5] through unique models. We demonstrate our application on pollution data by CPCB from various weather stations across India collected over the initial lockdown period due to COVID-19 in India."
+    },
+    {
+        "title": "AdViCE: Aggregated Visual Counterfactual Explanations for Machine Learning Model Validation",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Oscar Gomez",
+            "Steffen Holter",
+            "Jun Yuan",
+            "Enrico Bertini"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623271",
+        "citation": 6,
+        "abstract": "Rapid improvements in the performance of machine learning models have pushed them to the forefront of data-driven decision-making. Meanwhile, the increased integration of these models into various application domains has further highlighted the need for greater interpretability and transparency. To identify problems such as bias, overfitting, and incorrect correlations, data scientists require tools that explain the mechanisms with which these model decisions are made. In this paper we introduce AdViCE, a visual analytics tool that aims to guide users in black-box model debugging and validation. The solution rests on two main visual user interface innovations: (1) an interactive visualization design that enables the comparison of decisions on user-defined data subsets; (2) an algorithm and visual design to compute and visualize counterfactual explanations - explanations that depict model outcomes when data features are perturbed from their original values. We provide a demonstration of the tool through a use case that showcases the capabilities and potential limitations of the proposed approach."
+    },
+    {
+        "title": "Visually Connecting Historical Figures Through Event Knowledge Graphs",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Shahid Latif",
+            "Shivam Agarwal",
+            "Simon Gottschalk",
+            "Carina Chrosch",
+            "Felix Feit",
+            "Johannes Jahn",
+            "Tobias Braun",
+            "Yanick Christian Tchenko",
+            "Elena Demidova",
+            "Fabian Beck"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623313",
+        "citation": 6,
+        "abstract": "Knowledge graphs store information about historical figures and their relationships indirectly through shared events. We developed a visualization system, VisKonnect, for analyzing the intertwined lives of historical figures based on the events they participated in. A user’s query is parsed for identifying named entities, and related data is retrieved from an event knowledge graph. While a short textual answer to the query is generated using the GPT-3 language model, various linked visualizations provide context, display additional information related to the query, and allow exploration."
+    },
+    {
+        "title": "Atlas: Grammar-based Procedural Generation of Data Visualizations",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Zhicheng Liu",
+            "Chen Chen",
+            "Francisco Morales",
+            "Yishan Zhao"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623315",
+        "citation": 6,
+        "abstract": "We present Atlas, a procedural grammar for constructing data visualizations. Unlike most visualization grammars which use declarative specifications to describe visualization components, Atlas exposes the generative process of a visualization through a set of concatenated high-level production rules. Each of these rules describes how an input graphical object is created, transformed, or joined with abstract data to derive an output object. The visualization state can thus be inspected throughout the generative process. We demonstrate Atlas’ expressivity through a catalog of visualization designs, and discuss the trade-offs in its design by comparing it to state-of-the-art grammars."
+    },
+    {
+        "title": "Gemini2: Generating Keyframe-Oriented Animated Transitions Between Statistical Graphics",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Younghoon Kim",
+            "Jeffrey Heer"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623291",
+        "citation": 5,
+        "abstract": "Complex animated transitions may be easier to understand when divided into separate, consecutive stages. However, effective staging requires careful attention to both animation semantics and timing parameters. We present Gemini2, a system for creating staged animations from a sequence of chart keyframes. Given only a start state and an end state, Gemini2 can automatically recommend intermediate keyframes for designers to consider. The Gemini2 recommendation engine leverages Gemini, our prior work, and GraphScape to itemize the given complex change into semantic edit operations and to recombine operations into stages with a guided order for clearly conveying the semantics. To evaluate Gemini2’s recommendations, we conducted a human-subject study in which participants ranked recommended animations from both Gemini2 and Gemini. We find that Gemini2’s animation recommendation ranking is well aligned with subjects’ preferences, and Gemini2 can recommend favorable animations that Gemini cannot support."
+    },
+    {
+        "title": "Fixation and Creativity in Data Visualization Design: Experiences and Perspectives of Practitioners",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Paul Parsons",
+            "Prakash Shukla",
+            "Chorong Park"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623297",
+        "citation": 4,
+        "abstract": "Data visualization design often requires creativity, and research is needed to understand its nature and means for promoting it. The current visualization literature on creativity is not well developed, especially with respect to the experiences of professional data visualization designers. We conducted semi-structured interviews with 15 data visualization practitioners, focusing on a specific aspect of creativity known as design fixation. Fixation occurs when designers adhere blindly or prematurely to a set of ideas that limit creative outcomes. We present practitioners’ experiences and perspectives from their own design practice, specifically focusing on their views of (i) the nature of fixation, (ii) factors encouraging fixation, and (iii) factors discouraging fixation. We identify opportunities for future research related to chart recommendations, inspiration, and perspective shifts in data visualization design."
+    },
+    {
+        "title": "Contrastive Identification of Covariate Shift in Image Data",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Matthew L. Olson",
+            "Thuy-Vy Nguyen",
+            "Gaurav Dixit",
+            "Neale Ratzlaff",
+            "Weng-Keen Wong",
+            "Minsuk Kahng"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623289",
+        "citation": 3,
+        "abstract": "Identifying covariate shift is crucial for making machine learning systems robust in the real world and for detecting training data biases that are not reflected in test data. However, detecting covariate shift is challenging, especially when the data consists of high-dimensional images, and when multiple types of localized covariate shift affect different subspaces of the data. Although automated techniques can be used to detect the existence of covariate shift, our goal is to help human users characterize the extent of covariate shift in large image datasets with interfaces that seamlessly integrate information obtained from the detection algorithms. In this paper, we design and evaluate a new visual interface that facilitates the comparison of the local distributions of training and test data. We conduct a quantitative user study on multi-attribute facial data to compare two different learned low-dimensional latent representations (pretrained ImageNet CNN vs. density ratio) and two user analytic workflows (nearest-neighbor vs. cluster-to-cluster). Our results indicate that the latent representation of our density ratio model, combined with a nearest-neighbor comparison, is the most effective at helping humans identify covariate shift."
+    },
+    {
+        "title": "Semantic Explanation of Interactive Dimensionality Reduction",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Yali Bian",
+            "Chris North",
+            "Eric Krokos",
+            "Sarah Joseph"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623322",
+        "citation": 3,
+        "abstract": "Interactive dimensionality reduction helps analysts explore the high-dimensional data based on their personal needs and domain-specific problems. Recently, expressive nonlinear models are employed to support these tasks. However, the interpretation of these human-steered nonlinear models during human-in-the-loop analysis has not been explored. To address this problem, we present a new visual explanation design called semantic explanation. Semantic explanation visualizes model behaviors in a manner that is similar to users’ direct projection manipulations. This design conforms to the spatial analytic process and enables analysts better understand the updated model in response to their interactions. We propose a pipeline to empower interactive dimensionality reduction with semantic explanation using counterfactuals. Based on the pipeline, we implement a visual text analytics system with nonlinear dimensionality reduction powered by deep learning via the BERT model. We demonstrate the efficacy of semantic explanation with two case studies of academic article exploration and intelligence analysis."
+    },
+    {
+        "title": "On the Potential of Zines as a Medium for Visualization",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Andrew McNutt"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623294",
+        "citation": 2,
+        "abstract": "Zines are a form of small-circulation self-produced publication often akin to a magazine. This free-form medium has a long history and has been used as means for personal or intimate expression, as a way for marginalized people to describe issues that are important to them, and as a venue for graphical experimentation. It would seem then that zines would make an ideal vehicle for the recent interest in applying feminist or humanist ideas to visualization. Yet, there has been little work combining visualization and zines. In this paper we explore the potential of this intersection by analyzing examples of zines that use data graphics and by describing the pedagogical value that they can have in a visualization classroom. In doing so, we argue that there are plentiful opportunities for visualization research and practice in this rich intersectional-medium."
+    },
+    {
+        "title": "Understanding the Effects of Visualizing Missing Values on Visual Data Exploration",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Hayeong Song",
+            "Yu Fu",
+            "Bahador Saket",
+            "John Stasko"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623328",
+        "citation": 2,
+        "abstract": "When performing data analysis, people often confront data sets containing missing values. We conducted an empirical study to understand the effect of visualizing those missing values on participants’ decision-making processes while performing a visual data exploration task. More specifically, our study participants purchased a hypothetical portfolio of stocks based on a data set where some stocks had missing values for attributes such as PE ratio, beta, and EPS. The experiment used scatterplots to communicate the stock data. For one group of participants, stocks with missing values simply were not shown, while the second group saw such stocks depicted with estimated values as points with error bars. We measured participants’ cognitive load involved in decision-making with data with missing values. Our results indicate that their decision-making workflow was different across two conditions."
+    },
+    {
+        "title": "Narrative Sensemaking: Strategies for Narrative Maps Construction",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Brian Felipe Keith Norambuena",
+            "Tanushree Mitra",
+            "Chris North"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623296",
+        "citation": 2,
+        "abstract": "Narrative sensemaking is a fundamental process to understand sequential information. Narrative maps are a visual representation framework that can aid analysts in this process. They allow analysts to understand the big picture of a narrative, uncover new relationships between events, and model connections between storylines. As a sensemaking tool, narrative maps have applications in intelligence analysis, misinformation modeling, and computational journalism. In this work, we seek to understand how analysts construct narrative maps in order to improve narrative map representation and extraction methods. We perform an experiment with a data set of news articles. Our main contribution is an analysis of how analysts construct narrative maps. The insights extracted from our study can be used to design narrative map visualizations, extraction algorithms, and visual analytics tools to support the sensemaking process."
+    },
+    {
+        "title": "CellProfiler Analyst Web (CPAW) - Exploration, analysis, and classification of biological images on the web",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Bella Baidak",
+            "Yahiya Hussain",
+            "Emma Kelminson",
+            "Thouis R. Jones",
+            "Loraine Franke",
+            "Daniel Haehn"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623317",
+        "citation": 2,
+        "abstract": "CellProfiler Analyst (CPA) has enabled the scientific research community to explore image-based data and classify complex biological phenotypes through an interactive user interface since its release in 2008. This paper describes CellProfiler Analyst Web (CPAW), a newly redesigned and web-based version of the software, allowing for greater accessibility, quicker setup, and facilitating a simple workflow for users. Installation and managing new versions has been challenging and time-consuming, historically. CPAW is an alternative that ensures installation and future updates are not a hassle to the user. CPAW ports the core iteration loop of CPA to a pure server-less browser environment using modern web-development technologies, allowing computationally heavy activities, like machine learning, to occur without freezing the user interface (UI). With a setup as simple as navigating to a website, CPAW presents a clean UI to the user to refine their classifier and explore pheno-typic data easily. We evaluated both the old and the new version of the software in an extensive domain expert study. We found that users could complete the essential classification tasks in CPAW and CPA 3.0 with the same efficiency. Additionally, users completed the tasks 20 percent faster using CPAW compared to CPA 3.0. The code of CellProfiler Analyst Web is open-source and available at https://mpsych.github.io/CellProfilerAnalystWeb/."
+    },
+    {
+        "title": "Inspecting the Process of Bank Credit Rating via Visual Analytics",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Qiangqiang Liu",
+            "Quan Li",
+            "Zhihua Zhu",
+            "Tangzhi Ye",
+            "Xiaojuan Ma"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623312",
+        "citation": 2,
+        "abstract": "Bank credit rating classifies banks into different levels based on publicly disclosed and internal information, serving as an important input in financial risk management. However, domain experts have a vague idea of exploring and comparing different bank credit rating schemes. A loose connection between subjective and quantitative analysis and difficulties in determining appropriate indicator weights obscure understanding of bank credit ratings. Furthermore, existing models fail to consider bank types by just applying a unified indicator weight set to all banks. We propose RatingVis to assist experts in exploring and comparing different bank credit rating schemes. It supports interactively inferring indicator weights for banks by involving domain knowledge and considers bank types in the analysis loop. We conduct a case study with real-world bank data to verify the efficacy of RatingVis. Expert feedback suggests that our approach helps them better understand different rating schemes."
+    },
+    {
+        "title": "When Red Means Good, Bad, or Canada: Exploring People’s Reasoning for Choosing Color Palettes",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Jarryullah Ahmad",
+            "Elaine Huynh",
+            "Fanny Chevalier"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623314",
+        "citation": 2,
+        "abstract": "Color palette selection is an essential aspect of visualization design, influencing data interpretation and evoking emotions in the viewer. Rules of thumb grounded in perceptual science and visual arts generally form the basis of recommendation tools to support color assignment, but palette design is more nuanced than optimizing for perceptual tasks. In this work, we investigate how the general public reconciles the varied facets of color design in visualization. Does their decision-making align with established rules of thumb? What factors do they take into consideration? Through a crowd-sourced study with 63 participants, we find that the majority of palette choices are perceptually motivated, but other factors such as semantic associations and bias also play a role. We identify some flaws in participant reasoning, highlight clashes in opinions, and present some implications for future work in this space."
+    },
+    {
+        "title": "Bayesian Modelling of Alluvial Diagram Complexity",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Anjana Arunkumar",
+            "Shashank Ginjpalli",
+            "Chris Bryan"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623282",
+        "citation": 2,
+        "abstract": "Alluvial diagrams are a popular technique for visualizing flow and relational data. However, successfully reading and interpreting the data shown in an alluvial diagram is likely influenced by factors such as data volume, complexity, and chart layout. To understand how alluvial diagram consumption is impacted by its visual features, we conduct two crowdsourced user studies with a set of alluvial diagrams of varying complexity, and examine (i) participant performance on analysis tasks, and (ii) the perceived complexity of the charts. Using the study results, we employ Bayesian modelling to predict participant classification of diagram complexity. We find that, while multiple visual features are important in contributing to alluvial diagram complexity, interestingly the importance of features seems to depend on the type of complexity being modeled, i.e. task complexity vs. perceived complexity."
+    },
+    {
+        "title": "Does the Layout Really Matter? A Study on Visual Model Accuracy Estimation",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Nicolas Grossmann",
+            "Jürgen Bernard",
+            "Michael Sedlmair",
+            "Manuela Waldner"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623326",
+        "citation": 2,
+        "abstract": "In visual interactive labeling, users iteratively assign labels to data items until the machine model reaches an acceptable accuracy. A crucial step of this process is to inspect the model’s accuracy and decide whether it is necessary to label additional elements. In scenarios with no or very little labeled data, visual inspection of the predictions is required. Similarity-preserving scatterplots created through a dimensionality reduction algorithm are a common visualization that is used in these cases. Previous studies investigated the effects of layout and image complexity on tasks like labeling. However, model evaluation has not been studied systematically. We present the results of an experiment studying the influence of image complexity and visual grouping of images on model accuracy estimation. We found that users outperform traditional automated approaches when estimating a model’s accuracy. Furthermore, while the complexity of images impacts the overall performance, the layout of the items in the plot has little to no effect on estimations."
+    },
+    {
+        "title": "CloudFindr: A Deep Learning Cloud Artifact Masker for Satellite DEM Data",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Kalina Borkiewicz",
+            "Viraj Shah",
+            "J.P. Naiman",
+            "Chuanyue Shen",
+            "Stuart Levy",
+            "Jeff Carpenter"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623327",
+        "citation": 1,
+        "abstract": "Artifact removal is an integral component of cinematic scientific visualization, and is especially challenging with big datasets in which artifacts are difficult to define. In this paper, we describe a method for creating cloud artifact masks which can be used to remove artifacts from satellite imagery using a combination of traditional image processing together with deep learning based on U-Net. Compared to previous methods, our approach does not require multi-channel spectral imagery but performs successfully on single-channel Digital Elevation Models (DEMs). DEMs are a representation of the topography of the Earth and have a variety applications including planetary science, geology, flood modeling, and city planning."
+    },
+    {
+        "title": "Where and Why is My Bot Failing? A Visual Analytics Approach for Investigating Failures in Chatbot Conversation Flows",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Avi Yaeli",
+            "Sergey Zeltyn"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623295",
+        "citation": 1,
+        "abstract": "The ongoing coronavirus pandemic has accelerated the adoption of AI-powered task-oriented chatbots by businesses and healthcare organizations. Despite advancements in chatbot platforms, implementing a successful and effective bot is still challenging and requires a lot of manual work. There is a strong need for tools to help conversation analysts quickly identify problem areas and, consequently, introduce changes to chatbot design. We present a visual analytics approach and tool for conversation analysts to identify and assess common patterns of failure in conversation flows. We focus on two key capabilities: path flow analysis and root cause analysis. Interim evaluation results from applying our tool in real-world customer production projects are presented."
+    },
+    {
+        "title": "Text Visualization and Close Reading for Journalism with Storifier",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Nicole Sultanum",
+            "Anastasia Bezerianos",
+            "Fanny Chevalier"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623264",
+        "citation": 1,
+        "abstract": "Journalistic inquiry often requires analysis and close study of large text collections around a particular topic. We argue that this practice could benefit from a more text- and reading-centered approach to journalistic text analysis, one that allows for a fluid transition between overview of entities of interest, the context of these entities in the text, down to the detailed documents they are extracted from. In this context, we present the design and development of Storifier, a text visualization tool created in close collaboration with a large francophone news office. We also discuss a case study on how our tool was used to analyze a text collection and helped publish a story."
+    },
+    {
+        "title": "“Why did my AI agent lose?”: Visual Analytics for Scaling Up After-Action Review",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Delyar Tabatabai",
+            "Anita Ruangrotsakun",
+            "Jed Irvine",
+            "Jonathan Dodge",
+            "Zeyad Shureih",
+            "Kin-Ho Lam",
+            "Margaret Burnett",
+            "Alan Fern",
+            "Minsuk Kahng"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623268",
+        "citation": 1,
+        "abstract": "How can we help domain-knowledgeable users who do not have expertise in AI analyze why an AI agent failed? Our research team previously developed a new structured process for such users to assess AI, called After-Action Review for AI (AAR/AI), consisting of a series of steps a human takes to assess an AI agent and formalize their understanding. In this paper, we investigate how the AAR/AI process can scale up to support reinforcement learning (RL) agents that operate in complex environments. We augment the AAR/AI process to be performed at three levels—episode-level, decision-level, and explanation-level—and integrate it into our redesigned visual analytics interface. We illustrate our approach through a usage scenario of analyzing why a RL agent lost in a complex real-time strategy game built with the StarCraft 2 engine. We believe integrating structured processes like AAR/AI into visualization tools can help visualization play a more critical role in AI interpretability."
+    },
+    {
+        "title": "TimeElide: Visual Analysis of Non-Contiguous Time Series Slices",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Michael Oppermann",
+            "Luce Liu",
+            "Tamara Munzner"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623320",
+        "citation": 1,
+        "abstract": "We introduce the design and implementation of TimeElide, a visual analysis tool for the novel data abstraction of non-contiguous time series slices, namely time intervals that contain a sequence of time-value pairs but are not adjacent to each other. This abstraction is relevant for analysis tasks where time periods of interest are known in advance or inferred from the data, rather than discovered through open-ended visual exploration. We present a visual encoding design space as an underpinning of TimeElide, and the new sparkbox technique for visualizing fine and coarse grained temporal structures within one view. Datasets from different domains and with varying characteristics guided the development and their analysis provides preliminary evidence of TimeElide’s utility. We provide open-source code and demo at https://github.com/UBC-InfoVis/time-elide and supplemental materials at https://osf.io/yqvmf/."
+    },
+    {
+        "title": "A Mixed-Initiative Visual Analytics Approach for Qualitative Causal Modeling",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Fahd Husain",
+            "Pascale Proulx",
+            "Meng-Wei Chang",
+            "Rosa Romero-Gómez",
+            "Holland Vasquez"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623318",
+        "citation": 1,
+        "abstract": "Modeling complex systems is a time-consuming, difficult and fragmented task, often requiring the analyst to work with disparate data, a variety of models, and expert knowledge across a diverse set of domains. Applying a user-centered design process, we developed a mixed-initiative visual analytics approach, a subset of the Causemos platform, that allows analysts to rapidly assemble qualitative causal models of complex socio-natural systems. Our approach facilitates the construction, exploration, and curation of qualitative models bringing together data across disparate domains. Referencing a recent user evaluation, we demonstrate our approach’s ability to interactively enrich user mental models and accelerate qualitative model building."
+    },
+    {
+        "title": "GeoSneakPique: Visual Autocompletion for Geospatial Queries",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Vidya Setlur",
+            "Sarah Battersby",
+            "Tracy Wong"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623324",
+        "citation": 1,
+        "abstract": "How many crimes occurred in the city center? And exactly which part of town is the “city center”? While location is at the heart of many data questions, geographic location can be difficult to specify in natural language (NL) queries. This is especially true when working with fuzzy cognitive regions or regions that may be defined based on data distributions instead of absolute administrative location (e.g., state, country). GeoSneakPique presents a novel method for using a mapping widget to support the NL query process, allowing users to specify location via direct manipulation with data-driven guidance on spatial distributions to help select the area of interest. Users receive feedback to help them evaluate and refine their spatial selection interactively and can save spatial definitions for re-use in subsequent queries. We conduct a qualitative evaluation of the GeoSneakPique that indicates the usefulness of the interface as well as opportunities for better supporting geospatial workflows in visual analysis tasks employing cognitive regions."
+    },
+    {
+        "title": "Conceptualizing Visual Analytic Interventions for Content Moderation",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Sahaj Vaidya",
+            "Jie Cai",
+            "Soumyadeep Basu",
+            "Azadeh Naderi",
+            "Donghee Yvette Wohn",
+            "Aritra Dasgupta"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623288",
+        "citation": 1,
+        "abstract": "Modern social media platforms like Twitch, YouTube, etc., embody an open space for content creation and consumption. However, an unintended consequence of such content democratization is the proliferation of toxicity and abuse that content creators get subjected to. Commercial and volunteer content moderators play an indispensable role in identifying bad actors and minimizing the scale and degree of harmful content. Moderation tasks are often laborious, complex, and even if semi-automated, they involve high-consequence human decisions that affect the safety and popular perception of the platforms. In this paper, through an interdisciplinary collaboration among researchers from social science, human-computer interaction, and visualization, we present a systematic understanding of how visual analytics can help in human-in-the-loop content moderation. We contribute a characterization of the data-driven problems and needs for proactive moderation and present a mapping between the needs and visual analytic tasks through a task abstraction framework. We discuss how the task abstraction framework can be used for transparent moderation, design interventions for moderators’ well-being, and ultimately, for creating futuristic human-machine interfaces for data-driven content moderation."
+    },
+    {
+        "title": "ConVIScope: Visual Analytics for Exploring Patient Conversations",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Raymond Li",
+            "Enamul Hoque",
+            "Giuseppe Carenini",
+            "Richard Lester",
+            "Raymond Chau"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623269",
+        "citation": 0,
+        "abstract": "The proliferation of text messaging for mobile health is generating a large amount of patient-doctor conversations that can be extremely valuable to health care professionals. We present ConVIScope, a visual text analytic system that tightly integrates interactive visualization with natural language processing in analyzing patient-doctor conversations. ConVIScope was developed in collaboration with healthcare professionals following a user-centered iterative design. Case studies with six domain experts suggest the potential utility of ConVIScope and reveal lessons for further developments."
+    },
+    {
+        "title": "How Learners Sketch Data Stories",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Rahul Bhargava",
+            "Dee Williams",
+            "Catherine D’Ignazio"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623299",
+        "citation": 0,
+        "abstract": "Learning data storytelling involves a complex web of skills. Professional and academic educational offerings typically focus on the computational literacies required, but professionals in the field employ many non-technical methods; sketching by hand on paper is a common practice. This paper introduces and classifies a corpus of 101 data sketches produced by participants as part of a guided learning activity in informal and formal settings. We manually code each sketch against 12 metrics related to visual encodings, representations, and story structure. We find evidence for preferential use of positional and shape-based encodings, frequent use of symbolic and textual representations, and a high prevalence of stories comparing subsets of data. These findings contribute to our understanding of how learners sketch with data. This case study can inform tool design for learners, and help create educational programs that introduce novices to sketching practices used by experts."
+    },
+    {
+        "title": "A Visual Analytics System for Water Distribution System Optimization",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Yiran Li",
+            "Erin Musabandesu",
+            "Takanori Fujiwara",
+            "Frank J. Loge",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623272",
+        "citation": 0,
+        "abstract": "The optimization of water distribution systems (WDSs) is vital to minimize energy costs required for their operations. A principal approach taken by researchers is identifying an optimal scheme for water pump controls through examining computational simulations of WDSs. However, due to a large number of possible control combinations and the complexity of WDS simulations, it remains non-trivial to identify the best pump controls by reviewing the simulation results. To address this problem, we design a visual analytics system that helps understand relationships between simulation inputs and outputs towards better optimization. Our system incorporates interpretable machine learning as well as multiple linked visualizations to capture essential input-output relationships from complex WDS simulations. We demonstrate our system’s effectiveness through a practical case study and evaluate its usability through expert reviews. Our results show that our system can lessen the burden of analysis and assist in determining optimal operating schemes."
+    },
+    {
+        "title": "Semantic Resizing of Charts Through Generalization: A Case Study with Line Charts",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [
+            "Vidya Setlur",
+            "Haeyong Chung"
+        ],
+        "DOI": "10.1109/VIS49827.2021.9623306",
+        "citation": 0,
+        "abstract": "Inspired by cartographic generalization principles, we present a generalization technique for rendering line charts at different sizes, preserving the important semantics of the data at that display size. The algorithm automatically determines the generalization operators to be applied at that size based on spatial density, distance, and the semantic importance of the various visualization elements in the line chart. A qualitative evaluation of the prototype that implemented the algorithm indicates that the generalized line charts preserved the general data shape, while minimizing visual clutter. We identify future opportunities where generalization can be extended and applied to other chart types and visual analysis authoring tools."
+    },
+    {
+        "title": "VIS 2021 Program Committee",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [],
+        "DOI": "10.1109/VIS49827.2021.9623277",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "VIS 2021 Area Curation Committee",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [],
+        "DOI": "10.1109/VIS49827.2021.9623281",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "VIS 2021 Steering Committee",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [],
+        "DOI": "10.1109/VIS49827.2021.9623279",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "VIS 2021 Conference Committee",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [],
+        "DOI": "10.1109/VIS49827.2021.9623283",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "VIS 2021 Executive Committee",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [],
+        "DOI": "10.1109/VIS49827.2021.9623276",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Message from the VIS 2021 General Chairs",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [],
+        "DOI": "10.1109/VIS49827.2021.9623292",
+        "citation": 0,
+        "abstract": "Presents the introductory welcome message from the conference proceedings. May include the conference officers' congratulations to all involved with the conference event and publication of the proceedings record."
+    },
+    {
+        "title": "Author Index",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [],
+        "DOI": "10.1109/VIS49827.2021.9623311",
+        "citation": 0,
+        "abstract": "Presents an index of the authors whose articles are published in the conference proceedings record."
+    },
+    {
+        "title": "[Title page i]",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [],
+        "DOI": "10.1109/VIS49827.2021.9623309",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "[Title page iii]",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [],
+        "DOI": "10.1109/VIS49827.2021.9623325",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "Table of Contents",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [],
+        "DOI": "10.1109/VIS49827.2021.9623304",
+        "citation": 0,
+        "abstract": "Presents the table of contents/splash page of the proceedings record."
+    },
+    {
+        "title": "[Copyright notice]",
+        "conferenceTitle": "2021 IEEE Visualization Conference (VIS)",
+        "date": "24-29 Oct. 2021",
+        "authors": [],
+        "DOI": "10.1109/VIS49827.2021.9623290",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    }
+]

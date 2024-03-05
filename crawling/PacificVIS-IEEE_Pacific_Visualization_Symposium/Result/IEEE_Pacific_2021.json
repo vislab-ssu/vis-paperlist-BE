@@ -1,0 +1,514 @@
+[
+    {
+        "title": "Sublinear-Time Attraction Force Computation for Large Complex Graph Drawing",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Amyra Meidiana",
+            "Seok-Hee Hong",
+            "Shijun Cai",
+            "Marnijati Torkel",
+            "Peter Eades"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00027",
+        "citation": 2,
+        "abstract": "Recent works in graph visualization attempt to reduce the runtime of repulsion force computation of force-directed algorithms using sampling, however they fail to reduce the runtime for attraction force computation to sublinear in the number of edges.We present new sublinear-time algorithms for the attraction force computation of force-directed algorithms and integrate them with sublinear-time repulsion force computation.Extensive experiments show that our algorithms, operated as part of a fully sublinear-time force computation framework, compute graph layouts on average 80% faster than existing linear-time force computation algorithm, with surprisingly significantly better quality metrics on edge crossing and shape-based metrics."
+    },
+    {
+        "title": "Louvain-based Multi-level Graph Drawing",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Seok-Hee Hong",
+            "Peter Eades",
+            "Marnijati Torkel",
+            "James Wood",
+            "Kunsoo Park"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00028",
+        "citation": 1,
+        "abstract": "The multi-level graph drawing is a popular approach to visualize large and complex graphs. It recursively coarsens a graph and then uncoarsens the drawing using layout refinement. In this paper, we leverage the Louvain community detection algorithm for the multi-level graph drawing paradigm.More specifically, we present the Louvain-based multi-level graph drawing algorithm, and compare with other community detection algorithms such as Label Propagation and Infomap clustering. Experiments show that Louvain-based multi-level algorithm performs best in terms of efficiency (i.e., fastest runtime), while Label Propagation and Infomap-based multi-level algorithms perform better in terms of effectiveness (i.e., better visualization in quality metrics)."
+    },
+    {
+        "title": "Keynotes",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [],
+        "DOI": "10.1109/PacificVis52677.2021.00008",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "Visualization of Topic Transitions in SNSs Using Document Embedding and Dimensionality Reduction",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Tiandong Xiao",
+            "Yosuke Onoue"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00035",
+        "citation": 0,
+        "abstract": "Social networking services (SNSs) have become the main avenue, where people speak their thoughts. Accordingly, we can explore people’s thoughts by analyzing topics in SNS. When do topics change? Do they ever come back? What do people mainly talk about? In this study, we design and propose a novel visual analytics system to answer these interesting questions. We abstract the topic per unit time as a point in a two-dimensional space through document embedding and dimensionality reduction techniques and provide supplemented charts that represent words appearing at a certain time and the time-series change of word occurrence over the entire period. We employ a novel text visualization technique, called semantic preserving word bubbles, to visualize words at a certain time. In addition, we demonstrate the effectiveness of our system using Twitter data about early COVID-19 trends in Japan. We propose our system to help users to explore and understand transitions in posted contents on SNS."
+    },
+    {
+        "title": "ADVISor: Automatic Visualization Answer for Natural-Language Question on Tabular Data",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Can Liu",
+            "Yun Han",
+            "Ruike Jiang",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00010",
+        "citation": 17,
+        "abstract": "We propose an automatic pipeline to generate visualization with annotations to answer natural-language questions raised by the public on tabular data. With a pre-trained language representation model, the input natural language questions and table headers are first encoded into vectors. According to these vectors, a multi-task end-to-end deep neural network extracts related data areas and corresponding aggregation type. We present the result with carefully designed visualization and annotations for different attribute types and tasks. We conducted a comparison experiment with state-of-the-art works and the best commercial tools. The results show that our method outperforms those works with higher accuracy and more effective visualization."
+    },
+    {
+        "title": "Mapper Interactive: A Scalable, Extendable, and Interactive Toolbox for the Visual Exploration of High-Dimensional Data",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Youjia Zhou",
+            "Nithin Chalapathi",
+            "Archit Rathore",
+            "Yaodong Zhao",
+            "Bei Wang"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00021",
+        "citation": 9,
+        "abstract": "The mapper algorithm is a popular tool from topological data analysis for extracting topological summaries of high-dimensional datasets. In this paper, we present Mapper Interactive, a web-based framework for the interactive analysis and visualization of high-dimensional point cloud data. It implements the mapper algorithm in an interactive, scalable, and easily extendable way, thus supporting practical data analysis. In particular, its command-line API can compute mapper graphs for 1 million points of 256 dimensions in about 3 minutes (4 times faster than the vanilla implementation). Its visual interface allows on-the-fly computation and manipulation of the mapper graph based on user-specified parameters and supports the addition of new analysis modules with a few lines of code. Mapper Interactive makes the mapper algorithm accessible to nonspecialists and accelerates topological analytics workflows."
+    },
+    {
+        "title": "A Visual Analytics Approach for the Diagnosis of Heterogeneous and Multidimensional Machine Maintenance Data",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Xiaoyu Zhang",
+            "Takanori Fujiwara",
+            "Senthil Chandrasegaran",
+            "Michael P. Brundage",
+            "Thurston Sexton",
+            "Alden Dima",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00033",
+        "citation": 7,
+        "abstract": "Analysis of large, high-dimensional, and heterogeneous datasets is challenging as no one technique is suitable for visualizing and clustering such data in order to make sense of the underlying information. For instance, heterogeneous logs detailing machine repair and maintenance in an organization often need to be analyzed to diagnose errors and identify abnormal patterns, formalize root-cause analyses, and plan preventive maintenance. Such real-world datasets are also beset by issues such as inconsistent and/or missing entries. To conduct an effective diagnosis, it is important to extract and understand patterns from the data with support from analytic algorithms (e.g., finding that certain kinds of machine complaints occur more in the summer) while involving the human-in-the-loop. To address these challenges, we adopt existing techniques for dimensionality reduction (DR) and clustering of numerical, categorical, and text data dimensions, and introduce a visual analytics approach that uses multiple coordinated views to connect DR + clustering results across each kind of the data dimension stated. To help analysts label the clusters, each clustering view is supplemented with techniques and visualizations that contrast a cluster of interest with the rest of the dataset. Our approach assists analysts to make sense of machine maintenance logs and their errors. Then the gained insights help them carry out preventive maintenance. We illustrate and evaluate our approach through use cases and expert studies respectively, and discuss generalization of the approach to other heterogeneous data."
+    },
+    {
+        "title": "KeywordMap: Attention-based Visual Exploration for Keyword Analysis",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Yamei Tu",
+            "Jiayi Xu",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00034",
+        "citation": 6,
+        "abstract": "With the high growth rate of text data, extracting meaningful information from a large corpus becomes increasingly difficult. Keyword extraction and analysis is a common approach to tackle the problem, but it is non-trivial to identify important words in the text and represent the multifaceted properties of those words effectively. Traditional topic modeling based keyword analysis algorithms require hyper-parameters which are often difficult to tune without enough prior knowledge. In addition, the relationships among the keywords are often difficult to obtain. In this paper, we utilize the attention scores extracted from Transformer-based language models to capture word relationships. We propose a domain-driven attention tuning method, guiding the attention to learn domain-specific word relationships. From the attention, we build a keyword network and propose a novel algorithm, Attention-based Word Influence (AWI), to compute how influential each word is in the network. An interactive visual analytics system, KeywordMap, is developed to support multi-level analysis of keywords and keyword relationships through coordinated views. We measure the quality of keywords captured by our AWI algorithm quantitatively. We also evaluate the usefulness and effectiveness of KeywordMap through case studies."
+    },
+    {
+        "title": "Investigating the Evolution of Tree Boosting Models with Visual Analytics",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Junpeng Wang",
+            "Wei Zhang",
+            "Liang Wang",
+            "Hao Yang"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00032",
+        "citation": 6,
+        "abstract": "Tree boosting models are widely adopted predictive models and have demonstrated superior performance than other conventional and even deep learning models, especially since the recent release of their parallel and distributed implementations, e.g., XGBoost, LightGMB, and CatBoost. Tree boosting uses a group of sequentially generated weak learners (i.e., decision trees), each learns from the mistakes of its predecessor, to push the model’s decision boundary towards the true boundary. As the number of trees keeps increasing over training, it is important to reveal how the newly-added trees change the predictions of individual data instances, and how the impacts of different data features evolve. To accomplish these goals, in this paper, we introduce a new design of the temporal confusion matrix, providing users with an effective interface to track data instances’ predictions across the tree boosting process. Also, we present an improved visualization to better illustrate and compare the impacts of individual data features (based on their SHAP values) across training iterations. Integrating these components with a tree structure visualization component, we propose a visual analytics system for tree boosting models. Through case studies with domain experts using real-world datasets, we validated the system’s effectiveness."
+    },
+    {
+        "title": "Papers101: Supporting the Discovery Process in the Literature Review Workflow for Novice Researchers",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Kiroong Choe",
+            "Seokweon Jung",
+            "Seokhyeon Park",
+            "Hwajung Hong",
+            "Jinwook Seo"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00037",
+        "citation": 6,
+        "abstract": "A literature review is a critical task in performing research. However, even browsing an academic database and choosing must-read items can be daunting for novice researchers. In this paper, we introduce Papers101, an interactive system that supports novice researchers' discovery of papers relevant to their research topics. Prior to system design, we performed a formative study to investigate what difficul-ties novice researchers often face and how experienced researchers address them. We found that novice researchers have difficulty in identifying appropriate search terms, choosing which papers to read first, and ensuring whether they have examined enough candidates. In this work, we identified key requirements for the system dedicated to novices: prioritizing search results, unifying the contexts of multiple search results, and refining and validating the search queries. Accordingly, Papers101 provides an opinionated perspective on selecting important metadata among papers. It also visualizes how the priority among papers is developed along with the users' knowledge discovery process. Finally, we demonstrate the potential usefulness of our system with the case study on the metadata collection of papers in visualization and HCI community."
+    },
+    {
+        "title": "On the Visualization of Hierarchical Multivariate Data",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Boyan Zheng",
+            "Filip Sadlo"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00026",
+        "citation": 5,
+        "abstract": "In this paper, we study the visual design of hierarchical multivariate data analysis. We focus on the extension of four hierarchical univariate concepts-the sunburst chart, the icicle plot, the circular treemap, and the bubble treemap-to the multivariate domain. Our study identifies several advantageous design variants, which we discuss with respect to previous approaches, and whose utility we evaluate with a user study and demonstrate for different analysis purposes and different types of data."
+    },
+    {
+        "title": "Context-Responsive Labeling in Augmented Reality",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Thomas Köppel",
+            "M. Eduard Gröller",
+            "Hsiang-Yun Wu"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00020",
+        "citation": 4,
+        "abstract": "Route planning and navigation are common tasks that often require additional information on points of interest. Augmented Reality (AR) enables mobile users to utilize text labels, in order to provide a composite view associated with additional information in a real-world environment. Nonetheless, displaying all labels for points of interest on a mobile device will lead to unwanted overlaps between information, and thus a context-responsive strategy to properly arrange labels is expected. The technique should remove overlaps, show the right level-of-detail, and maintain label coherence. This is necessary as the viewing angle in an AR system may change rapidly due to users’ behaviors. Coherence plays an essential role in retaining user experience and knowledge, as well as avoiding motion sickness. In this paper, we develop an approach that systematically manages label visibility and levels-of-detail, as well as eliminates unexpected incoherent movement. We introduce three label management strategies, including (1) occlusion management, (2) level-of-detail management, and (3) coherence management by balancing the usage of the mobile phone screen. A greedy approach is developed for fast occlusion handling in AR. A level-of-detail scheme is adopted to arrange various types of labels. A 3D scene manipulation is then built to simultaneously suppress the incoherent behaviors induced by viewing angle changes. Finally, we present the feasibility and applicability of our approach through one synthetic and two real-world scenarios, followed by a qualitative user study."
+    },
+    {
+        "title": "Visual Analysis of Spatio-Temporal Trends in Time-Dependent Ensemble Data Sets on the Example of the North Atlantic Oscillation",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Dominik Vietinghoff",
+            "Christian Heine",
+            "Michael Böttinger",
+            "Nicola Maher",
+            "Johann Jungclaus",
+            "Gerik Scheuermann"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00017",
+        "citation": 4,
+        "abstract": "A driving factor of the winter weather in Western Europe is the North Atlantic Oscillation (NAO), manifested by fluctuations in the difference of sea level pressure between the Icelandic Low and the Azores High. Different methods have been developed that describe the strength of this oscillation, but they rely on certain assumptions, e.g., fixed positions of these two pressure systems. It is possible that climate change affects the mean location of both the Low and the High and thus the validity of these descriptive methods. This study is the first to visually analyze large ensemble climate change simulations (the MPI Grand Ensemble) to robustly assess shifts of the drivers of the NAO phenomenon using the uncertain northern hemispheric surface pressure fields. For this, we use a sliding window approach and compute empirical orthogonal functions (EOFs) for each window and ensemble member, then compare the uncertainty of local extrema in the results as well as their temporal evolution across different CO2 scenarios. We find systematic northeastward shifts in the location of the pressure systems that correlate with the simulated warming. Applying visualization techniques for this analysis was not straightforward; we reflect and give some lessons learned for the field of visualization."
+    },
+    {
+        "title": "Automatic Generation of Unit Visualization-based Scrollytelling for Impromptu Data Facts Delivery",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Junhua Lu",
+            "Wei Chen",
+            "Hui Ye",
+            "Jie Wang",
+            "Honghui Mei",
+            "Yuhui Gu",
+            "Yingcai Wu",
+            "Xiaolong Luke Zhang",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00011",
+        "citation": 4,
+        "abstract": "Data-driven scrollytelling has become a prevalent way of visual communication because of its comprehensive delivery of perspectives derived from the data. However, creating an expressive scrollytelling story requires both data and design literacy and is time-consuming. As a result, scrollytelling has been mainly used only by professional journalists to disseminate opinions. In this paper, we present an automatic method to generate expressive scrollytelling visualization, which can present easy-to-understand data facts through a carefully arranged sequence of views. The method first enumerates data facts of a given dataset, and scores and organizes them. The facts are further assembled, sequenced into a story, with reader input taken into consideration. Finally, visual graphs, transitions, and text descriptions are generated to synthesize the scrollytelling visualization. In this way, non-professionals can easily explore and share interesting perspectives from selected data attributes and fact types. We demonstrate the effectiveness and usability of our method through both use cases and an in-lab user study."
+    },
+    {
+        "title": "Stable Visual Summaries for Trajectory Collections",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Jules Wulms",
+            "Juri Buchmüller",
+            "Wouter Meulemans",
+            "Kevin Verbeek",
+            "Bettina Speckmann"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00016",
+        "citation": 4,
+        "abstract": "The availability of devices that track moving objects has led to an explosive growth in trajectory data. When exploring the resulting large trajectory collections, visual summaries are a useful tool to identify time intervals of interest. A typical approach is to represent the spatial positions of the tracked objects at each time step via a one-dimensional ordering; visualizations of such orderings can then be placed in temporal order along a time line. There are two main criteria to assess the quality of the resulting visual summary: spatial quality – how well does the ordering capture the structure of the data at each time step, and stability – how coherent are the orderings over consecutive time steps or temporal ranges?In this paper we introduce a new Stable Principal Component (SPC) method to compute such orderings, which is explicitly parameterized for stability, allowing a trade-off between the spatial quality and stability. We conduct extensive computational experiments that quantitatively compare the orderings produced by ours and other stable dimensionality-reduction methods to various state-of-the-art approaches using a set of well-established quality metrics that capture spatial quality and stability. We conclude that stable dimensionality reduction outperforms existing methods on stability, without sacrificing spatial quality or efficiency; in particular, our new SPC method does so at a fraction of the computational costs."
+    },
+    {
+        "title": "Parsing and Summarizing Infographics with Synthetically Trained Icon Detection",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Spandan Madan",
+            "Zoya Bylinskii",
+            "Carolina Nobre",
+            "Matthew Tancik",
+            "Adria Recasens",
+            "Kimberli Zhong",
+            "Sami Alsheikh",
+            "Aude Oliva",
+            "Fredo Durand",
+            "Hanspeter Pfister"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00012",
+        "citation": 4,
+        "abstract": "Widely used in news, business, and educational media, infographics are handcrafted to effectively communicate messages about complex and often abstract topics including `ways to conserve the environment' and `coronavirus prevention'. The computational understanding of infographics required for future applications like automatic captioning, summarization, search, and question-answering, will depend on being able to parse the visual and textual elements contained within. However, being composed of stylistically and semantically diverse visual and textual elements, infographics pose challenges for current A.I. systems. While automatic text extraction works reasonably well on infographics, standard object detection algorithms fail to identify the stand-alone visual elements in infographics that we refer to as `icons'. In this paper, we propose a novel approach to train an object detector using synthetically-generated data, and show that it succeeds at generalizing to detecting icons within in-the-wild infographics. We further pair our icon detection approach with an icon classifier and a state-of-the-art text detector to demonstrate three demo applications: topic prediction, multi-modal summarization, and multi-modal search. Parsing the visual and textual elements within infographics provides us with the first steps towards automatic infographic understanding."
+    },
+    {
+        "title": "Mixed-Initiative Approach to Extract Data from Pictures of Medical Invoice",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Seokweon Jung",
+            "Kiroong Choe",
+            "Seokhyeon Park",
+            "Hyung-Kwon Ko",
+            "Youngtaek Kim",
+            "Jinwook Seo"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00022",
+        "citation": 2,
+        "abstract": "Extracting data from pictures of medical records is a common task in the insurance industry as the patients often send their medical invoices taken by smartphone cameras. However, the overall process is still challenging to be fully automated because of low image quality and variation of templates that exist in the status quo. In this paper, we propose a mixed-initiative pipeline for extracting data from pictures of medical invoices, where deep-learning-based automatic prediction models and task-specific heuristics work together under the mediation of a user. In the user study with 12 participants, we confirmed our mixed-initiative approach can supplement the drawbacks of a fully automated approach within an acceptable completion time. We further discuss the findings, limitations, and future works for designing a mixed-initiative system to extract data from pictures of a complicated table."
+    },
+    {
+        "title": "Visualization Support for Multi-criteria Decision Making in Software Issue Propagation",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Youngtaek Kim",
+            "Hyeon Jeon",
+            "Young-Ho Kim",
+            "Yuhoon Ki",
+            "Hyunjoo Song",
+            "Jinwook Seo"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00018",
+        "citation": 2,
+        "abstract": "Finding the propagation scope for various types of issues in Software Product Lines (SPLs) is a complicated Multi-Criteria Decision Making (MCDM) problem. This task often requires human-in-the-loop data analysis, which covers not only multiple product attributes but also contextual information (e.g., internal policy, customer requirements, exceptional cases, cost efficiency). We propose an interactive visualization tool to support MCDM tasks in software issue propagation based on the user's mental model. Our tool enables users to explore multiple criteria with their insight intuitively and find the appropriate propagation scope."
+    },
+    {
+        "title": "Visual Analysis on Machine Learning Assisted Prediction of Ionic Conductivity for Solid-State Electrolytes",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Hui Shao",
+            "Jiansu Pu",
+            "Yanlin Zhu",
+            "Boyang Gao",
+            "Zhengguo Zhu",
+            "Yunbo Rao"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00038",
+        "citation": 2,
+        "abstract": "Lithium ion batteries (LIBs) are widely used as the important energy sources in our daily life such as mobile phones, electric vehicles, and drones etc. Due to the potential safety risks caused by liquid electrolytes, the experts have tried to replace liquid electrolytes with solid ones. However, it is very difficult to find suitable alternatives materials in traditional ways for its incredible high cost in searching. Machine learning (ML) based methods are currently introduced and used for material prediction. But there is rarely an assisting learning tools designed for domain experts for institutive performance comparison and analysis of ML model. In this case, we propose an interactive visualization system for experts to select suitable ML models, understand and explore the predication results comprehensively. Our system employs a multi-faceted visualization scheme designed to support analysis from the perspective of feature composition, data similarity, model performance, and results presentation. A case study with real experiments in lab has been taken by the expert and the results of confirmed the effectiveness and helpfulness of our system."
+    },
+    {
+        "title": "FiberStars: Visual Comparison of Diffusion Tractography Data between Multiple Subjects",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Loraine Franke",
+            "Daniel Karl I. Weidele",
+            "Fan Zhang",
+            "Suheyla Cetin-Karayumak",
+            "Steve Pieper",
+            "Lauren J. O’Donnell",
+            "Yogesh Rathi",
+            "Daniel Haehn"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00023",
+        "citation": 2,
+        "abstract": "Tractography from high-dimensional diffusion magnetic resonance imaging (dMRI) data allows brain’s structural connectivity analysis. Recent dMRI studies aim to compare connectivity patterns across subject groups and disease populations to understand subtle abnormalities in the brain’s white matter connectivity and distributions of biologically sensitive dMRI derived metrics. Existing software products focus solely on the anatomy, are not intuitive or restrict the comparison of multiple subjects. In this paper, we present the design and implementation of FiberStars, a visual analysis tool for tractography data that allows the interactive visualization of brain fiber clusters combining existing 3D anatomy with compact 2D visualizations. With FiberStars, researchers can analyze and compare multiple subjects in large collections of brain fibers using different views. To evaluate the usability of our software, we performed a quantitative user study. We asked domain experts and non-experts to find patterns in a tractography dataset with either FiberStars or an existing dMRI exploration tool. Our results show that participants using FiberStars can navigate extensive collections of tractography faster and more accurately. All our research, software, and results are available openly."
+    },
+    {
+        "title": "Exploratory User Study on Graph Temporal Encodings",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Velitchko Filipov",
+            "Alessio Arleo",
+            "Silvia Miksch"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00025",
+        "citation": 2,
+        "abstract": "A temporal graph stores and reflects temporal information associated with its entities and relationships. Such graphs can be utilized to model a broad variety of problems in a multitude of domains. Re-searchers from different fields of expertise are increasingly applying graph visualization and analysis to explore unknown phenomena, complex emerging structures, and changes occurring over time in their data. While several empirical studies evaluate the benefits and drawbacks of different network representations, visualizing the temporal dimension in graphs still presents an open challenge. In this paper we propose an exploratory user study with the aim of evaluating different combinations of graph representations, namely node-link and adjacency matrix, and temporal encodings, such as superimposition, juxtaposition and animation, on typical temporal tasks. The study participants expressed positive feedback toward matrix representations, with generally quicker and more accurate responses than with the node-link representation."
+    },
+    {
+        "title": "Unravelling the Human Perspective and Considerations for Urban Data Visualization",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Sarah Goodwin",
+            "Sebastian Meier",
+            "Lyn Bartram",
+            "Alex Godwin",
+            "Till Nagel",
+            "Marian Dörk"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00024",
+        "citation": 2,
+        "abstract": "Effective use of data is an essential asset to modern cities. Visualization as a tool for analysis, exploration, and communication has become a driving force in the task of unravelling our complex urban fabrics. This paper outlines the findings from a series of three workshops from 2018-2020 bringing together experts in urban data visualization with the aim of exploring multidisciplinary perspectives from the human-centric lens. Based on the rich and detailed workshop discussions identifying challenges and opportunities for urban data visualization research, we outline major human-centric themes and considerations fundamental for CityVis design and introduce a framework for an urban visualization design space."
+    },
+    {
+        "title": "GDot: Drawing Graphs with Dots and Circles",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Seok-Hee Hong",
+            "Peter Eades",
+            "Marnijati Torkel"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00029",
+        "citation": 1,
+        "abstract": "This paper presents a new visual representation of graphs, inspired by the dot painting style of Central Australia. This painting style is established as a powerful medium for communicating information with abstraction, and has a long history of supporting storytelling.We propose a general framework GDot to visually represent in-formation as dot paintings. We describe computational techniques as well as the rendering effects to produce painterly representations of graphs and networks. We present visualization examples with various networks from diverse domains, from pure mathematics to social systems. Further, we briefly describe the extension of our dot painting visualization style to multi-dimensional data, dynamic data and geo-referenced data."
+    },
+    {
+        "title": "Know-What and Know-Who: Document Searching and Exploration using Topic-Based Two-Mode Networks",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Jian Zhao",
+            "Maoyuan Sun",
+            "Patrick Chiu",
+            "Francine Chen",
+            "Bee Liew"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00019",
+        "citation": 1,
+        "abstract": "This paper proposes a novel approach for analyzing search results of a document collection, which can help support know-what and know-who information seeking questions. Search results are grouped by topics, and each topic is represented by a two-mode network composed of related documents and authors (i.e., biclusters). We visualize these biclusters in a 2D layout to support interactive visual exploration of the analyzed search results, which highlights a novel way of organizing entities of biclusters. We evaluated our approach using a large academic publication corpus, by testing the distribution of the relevant documents and of lead and prolific authors. The results indicate the effectiveness of our approach compared to traditional 1D ranked lists. Moreover, a user study with 12 participants was conducted to compare our proposed visualization, a simplified variation without topics, and a text-based interface. We report on participants' task performance, their preference of the three interfaces, and the different strategies used in information seeking."
+    },
+    {
+        "title": "A Machine Learning Approach for Predicting Human Preference for Graph Layouts",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Shijun Cai",
+            "Seok-Hee Hong",
+            "Jialiang Shen",
+            "Tongliang Liu"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00009",
+        "citation": 1,
+        "abstract": "Understanding what graph layout human prefer and why they prefer such graph layout is significant and challenging due to the highly complex visual perception and cognition system in human brain. In this paper, we present the first machine learning approach for predicting human preference for graph layouts.In general, the data sets with human preference labels are limited and insufficient for training deep networks. To address this, we train our deep learning model by employing the transfer learning method, e.g., exploiting the quality metrics, such as shape-based metrics, edge crossing and stress, which are shown to be correlated to human preference on graph layouts. Experimental results using the ground truth human preference data sets show that our model can successfully predict human preference for graph layouts. To our best knowledge, this is the first approach for predicting qualitative evaluation of graph layouts using human preference experiment data."
+    },
+    {
+        "title": "Visualising Temporal Uncertainty: A Taxonomy and Call for Systematic Evaluation",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Yashvir Grewal",
+            "Sarah Goodwin",
+            "Tim Dwyer"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00013",
+        "citation": 0,
+        "abstract": "Increased reliance on data in decision-making has highlighted the importance of conveying uncertainty in data visualisations. Yet developing visualisation techniques that clearly and accurately convey uncertainty in data is an open challenge across a variety of fields. This is especially the case when visualising temporal uncertainty. To facilitate the development of innovative and accessible temporal uncertainty visualisation techniques and respond to an identified gap in the literature, we propose the first-ever survey of over 50 temporal uncertainty visualisation techniques deployed in numerous fields. Our paper offers two contributions. First, we propose a novel taxonomy to be applied when classifying temporal uncertainty visualisation techniques. This takes into account the visualisation's intended audience, as well as its level of discreteness in representing uncertainty. Second, we urge researchers and practitioners to use a greater variety of visualisations which differ in terms of their discreteness. In doing so, we believe that a more robust evaluation of visualisation techniques can be achieved."
+    },
+    {
+        "title": "NetScatter: Visual analytics of multivariate time series with a hybrid of dynamic and static variable relationships",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Bao D. Q. Nguyen",
+            "Rattikorn Hewett",
+            "Tommy Dang"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00015",
+        "citation": 0,
+        "abstract": "The ability to capture common characteristics among complex multi-variate time series variables can profoundly impact big data analytics in uncovering valuable insights into the relationships among them and enabling a dimensionality reduction technique. Two widely used data displays include time series and scatter plots. While the former focuses on the dynamics over time, the latter deals with static relationships among variables. Motivated by these distinctive perspectives, our research aims to maximally utilize the information captured by both at the same time. This paper presents NetScatter, a visual analytic approach to characterizing changes of pairwise relationships in a high-dimensional time series. Unlike most traditional techniques that employ a single perspective of the visual display, our approach combines static perspectives of two variables in multi-variate time series into a single representation by comparing all data instances over two different time steps. The paper also introduces a list of visual features of the representation to capture how overall data evolve. We have implemented a web-based prototype that supports a full range of operations, such as ranking, filtering, and details on demand. The paper illustrates the proposed approach on data of various sizes in different domains to demonstrate its benefits."
+    },
+    {
+        "title": "An Extension of Empirical Orthogonal Functions for the Analysis of Time-Dependent 2D Scalar Field Ensembles",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Dominik Vietinghoff",
+            "Christian Heine",
+            "Michael Böttinger",
+            "Gerik Scheuermann"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00014",
+        "citation": 0,
+        "abstract": "To assess the reliability of weather forecasts and climate simulations, common practice is to generate large ensembles of numerical simulations. Analyzing such data is challenging and requires pattern and feature detection. For single time-dependent scalar fields, empirical orthogonal functions (EOFs) are a proven means to identify the main variation. In this paper, we present an extension of that concept to time-dependent ensemble data. We applied our methods to two ensemble data sets from climate research in order to investigate the North Atlantic Oscillation (NAO) and East Atlantic (EA) pattern."
+    },
+    {
+        "title": "Sublinear-time Algorithms for Stress Minimization in Graph Drawing",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Amyra Meidiana",
+            "James Wood",
+            "Seok-Hee Hong"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00030",
+        "citation": 0,
+        "abstract": "We present algorithms reducing the runtime of the stress minimization iteration of stress-based layouts to sublinear in the number of vertices and edges. Specifically, we use vertex sampling to further reduce the number of vertex pairs considered in stress minimization iterations. Moreover, we use spectral sparsification to reduce the number of edges considered in stress minimization computations to sublinear in the number of edges, esp. for dense graphs.Specifically, we present new pivot selection methods using importance-based sampling. Then, we present two variations of sublinear-time stress minimization method on two popular stress-based layouts, Stress Majorization and Stochastic Gradient Descent.Experimental results demonstrate that our sublinear-time algorithms run, on average, about 35% faster than the state-of-art linear-time algorithms, while obtaining similar quality drawings based on stress and shape-based metrics."
+    },
+    {
+        "title": "Visual Analytics Methods for Interactively Exploring the Campus Lifestyle",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [
+            "Liang Liu",
+            "Song Wang",
+            "Ting Cai",
+            "Hanglin Li",
+            "Weixin Zhao",
+            "Yadong Wu"
+        ],
+        "DOI": "10.1109/PacificVis52677.2021.00031",
+        "citation": 0,
+        "abstract": "Exploring campus lifestyle is conducive to innovating education management, optimizing campus resources allocation, and providing personalized services, but little attention had been paid to the exploration campus lifestyle. A novel interactive system based on behavioral data of campus cards is presented in this paper to provide new ideas and technical support for campus management. Interactive visualization techniques are utilized to help users analyze campus lifestyle via intelligible diagrams. The system contains three functional modules: providing a decision-making reference to educators on students’ poverty subsidies, predicting students’ academic performance by quantitative analysis, and scheduling cafeteria repast based on the scheduling model during the outbreak of COVID-19. Finally, three exploratory case studies are presented to demonstrate the effectiveness of the system."
+    },
+    {
+        "title": "Committees",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [],
+        "DOI": "10.1109/PacificVis52677.2021.00006",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Program Committee",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [],
+        "DOI": "10.1109/PacificVis52677.2021.00007",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Welcome Message from the Chairs",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [],
+        "DOI": "10.1109/PacificVis52677.2021.00005",
+        "citation": 0,
+        "abstract": "Presents the introductory welcome message from the conference proceedings. May include the conference officers' congratulations to all involved with the conference event and publication of the proceedings record."
+    },
+    {
+        "title": "[Copyright notice]",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [],
+        "DOI": "10.1109/PacificVis52677.2021.00003",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "Author Index",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [],
+        "DOI": "10.1109/PacificVis52677.2021.00036",
+        "citation": 0,
+        "abstract": "Presents an index of the authors whose articles are published in the conference proceedings record."
+    },
+    {
+        "title": "[Title page iii]",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [],
+        "DOI": "10.1109/PacificVis52677.2021.00002",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "[Title page i]",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [],
+        "DOI": "10.1109/PacificVis52677.2021.00001",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "Table of Contents",
+        "conferenceTitle": "2021 IEEE 14th Pacific Visualization Symposium (PacificVis)",
+        "date": "19-21 April 2021",
+        "authors": [],
+        "DOI": "10.1109/PacificVis52677.2021.00004",
+        "citation": 0,
+        "abstract": "Presents the table of contents/splash page of the proceedings record."
+    }
+]
