@@ -1,0 +1,551 @@
+[
+    {
+        "title": "ZAME: Interactive Large-Scale Graph Visualization",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Niklas Elmqvist",
+            "Thanh-Nghi Do",
+            "Howard Goodell",
+            "Nathalie Henry",
+            "Jean-Daniel Fekete"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475479",
+        "citation": 111,
+        "abstract": "We present the zoomable adjacency matrix explorer (ZAME), a visualization tool for exploring graphs at a scale of millions of nodes and edges. ZAME is based on an adjacency matrix graph representation aggregated at multiple scales. It allows analysts to explore a graph at many levels, zooming and panning with interactive performance from an overview to the most detailed views. Several components work together in the ZAME tool to make this possible. Efficient matrix ordering algorithms group related elements. Individual data cases are aggregated into higher-order meta-representations. Aggregates are arranged into a pyramid hierarchy that allows for on-demand paging to GPU shader programs to support smooth multiscale browsing. Using ZAME, we are able to explore the entire French Wikipedia—over 500,000 articles and 6,000,000 links—with interactive performance on standard consumer-level computer hardware."
+    },
+    {
+        "title": "Effects of Crossing Angles",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Weidong Huang",
+            "Seok-Hee Hong",
+            "Peter Eades"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475457",
+        "citation": 78,
+        "abstract": "In visualizing graphs as node-link diagrams, it is commonly accepted and employed as a general rule that the number of link crossings should be minimized whenever possible. However, little attention has been paid to how to handle the remaining crossings in the visualization. The study presented in this paper examines the effects of crossing angles on performance of path tracing tasks. It was found that the effect varied with the size of crossing angles. In particular, task response time decreased as the crossing angle increased. However, the rate of the decrease tended to level off when the angle was close to 90 degrees. One of the implications of this study in graph visualization is that just minimizing the crossing number is not sufficient to reduce the negative impact to the minimum. The angles of remaining crossings should be maximized as well."
+    },
+    {
+        "title": "MobiVis: A Visualization System for Exploring Mobile Data",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Zeqian Shen",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475474",
+        "citation": 42,
+        "abstract": "The widespread use of mobile devices brings opportunities to capture large-scale, continuous information about human behavior. Mobile data has tremendous value, leading to business opportunities, market strategies, security concerns, etc. Visual analytics systems that support interactive exploration and discovery are needed to extracting insight from the data. However, visual analysis of complex social-spatial-temporal mobile data presents several challenges. We have created MobiVis, a visual analytics tool, which incorporates the idea of presenting social and spatial information in one heterogeneous network. The system supports temporal and semantic filtering through an interactive time chart and ontology graph, respectively, such that data subsets of interest can be isolated for close-up investigation. \"Behavior rings,\" a compact radial representation of individual and group behaviors, is introduced to allow easy comparison of behavior patterns. We demonstrate the capability of MobiVis with the results obtained from analyzing the MIT Reality Mining dataset."
+    },
+    {
+        "title": "Height Ridge Computation and Filtering for Visualization",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Ronald Peikert",
+            "Filip Sadlo"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475467",
+        "citation": 36,
+        "abstract": "Motivated by the growing interest in the use of ridges in scientific visualization, we analyze the two height ridge definitions by Eberly and Lindeberg. We propose a raw feature definition leading to a superset of the ridge points as obtained by these two definitions. The set of raw feature points has the correct dimensionality, and it can be narrowed down to either Eberly's or Lindeberg's ridges by using Boolean filters which we formulate. While the straight-forward computation of height ridges requires explicit eigenvalue calculation, this can be avoided by using an equivalent definition of the raw feature set, for which we give a derivation. We describe efficient algorithms for two special cases, height ridges of dimension one and of co-dimension one. As an alternative to the aforementioned filters, we propose a new criterion for filtering raw features based on the distance between contours which generally makes better decisions, as we demonstrate on a few synthetic fields, a topographical dataset, and a fluid flow simulation dataset. The same set of test data shows that it is unavoidable to use further filters to eliminate false positives. For this purpose, we use the angle between feature tangent and slope line as a quality measure and, based on this, formalize a previously published filter."
+    },
+    {
+        "title": "Interactive Storyboard for Overall Time-Varying Data Visualization",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Aidong Lu",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475470",
+        "citation": 31,
+        "abstract": "Large amounts of time-varying datasets create great challenges for users to understand and explore them. This paper proposes an efficient visualization method for observing overall data contents and changes throughout an entire time-varying dataset. We develop an interactive storyboard approach by composing sample volume renderings and descriptive geometric primitives that are generated through data analysis processes. Our storyboard system integrates automatic visualization generation methods and interactive adjustment procedures to provide new tools for visualizing and exploring time-varying datasets. We also provide a flexible framework to quantify data differences and automatically select representative datasets through exploring scientific data distribution features. Since this approach reduces the visualized data amount into a more understandable size and format for users, it can be used to effectively visualize, represent, and explore a large time-varying dataset. Initial user study results show that our approach shortens the exploration time and reduces the number of datasets that users visualized individually. This visualization method is especially useful for situations that require close observance or are not capable of interactive rendering, such as documentation and demonstration."
+    },
+    {
+        "title": "Illustrative Streamline Placement and Visualization",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Liya Li",
+            "Hsien-Hsi Hsieh",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475462",
+        "citation": 28,
+        "abstract": "Inspired by the abstracting, focusing and explanatory qualities of diagram drawing in art, in this paper we propose a novel seeding strategy to generate representative and illustrative streamlines in 2D vector fields to enforce visual clarity and evidence. A particular focus of our algorithm is to depict the underlying flow patterns effectively and succinctly with a minimum set of streamlines. To achieve this goal, 2D distance fields are generated to encode the distances from each grid point in the field to the nearby streamlines. A local metric is derived to measure the dissimilarity between the vectors from the original field and an approximate field computed from the distance fields. A global metric is used to measure the dissimilarity between streamlines based on the local errors to decide whether to drop a new seed at a local point. This process is iterated to generate streamlines until no more streamlines can be found that are dissimilar to the existing ones. We present examples of images generated from our algorithm and report results from qualitative analysis and user studies."
+    },
+    {
+        "title": "Energy-Based Hierarchical Edge Clustering of Graphs",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Hong Zhou",
+            "Xiaoru Yuan",
+            "Weiwei Cui",
+            "Huamin Qu",
+            "Baoquan Chen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475459",
+        "citation": 27,
+        "abstract": "Effectively visualizing complex node-link graphs which depict relationships among data nodes is a challenging task due to the clutter and occlusion resulting from an excessive amount of edges. In this paper, we propose a novel energy-based hierarchical edge clustering method for node-link graphs. Taking into the consideration of the graph topology, our method first samples graph edges into segments using Delaunay triangulation to generate the control points, which are then hierarchically clustered by energy-based optimization. The edges are grouped according to their positions and directions to improve comprehensibility through abstraction and thus reduce visual clutter. The experimental results demonstrate the effectiveness of our proposed method in clustering edges and providing good high level abstractions of complex graphs."
+    },
+    {
+        "title": "Visual Statistics for Collections of Clustered Graphs",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Ulrik Brandes",
+            "Jurgen Lerner",
+            "Miranda J. Lubbers",
+            "Chris McCarty",
+            "Jose Luis Molina"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475458",
+        "citation": 25,
+        "abstract": "We propose a method to visually summarize collections of networks on which a clustering of the vertices is given. Our method allows for efficient comparison of individual networks, as well as for visualizing the average composition and structure of a set of networks. As a concrete application we analyze a set of several hundred personal networks of migrants. On the individual level the network images provide visual hints for assessing the mode of acculturation of the respondent. On the population level they show how cultural integration varies with specific characteristics of the migrants such as country of origin, years of residence, or skin color."
+    },
+    {
+        "title": "Importance-Driven Particle Techniques for Flow Visualization",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Kai Burger",
+            "Polina Kondratieva",
+            "Jens Kruger",
+            "Rudiger Westermann"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475461",
+        "citation": 23,
+        "abstract": "Particle tracing has been established as a powerful visualization technique to show the dynamics of 3D flows. Particle tracing in 3D, however, quickly overextends the viewer due to the massive amount of visual information that is typically produced by this technique. In this paper, we present strategies to reduce this amount at the same time revealing important structures in the flow. As an importance measure, we introduce a simple, yet effective clustering approach for vector fields, and we use scalar flow quantities at different scales in combination with user-defined regions of interest. These measures are used to control the shape, the appearance, and the density of particles in such a way that the user can focus on the dynamics in important regions at the same time preserving context information. We also introduce a new focus for particle tracing, so called anchor lines. Anchor lines are used to analyze local flow features by visualizing how much particles separate over time and how long it takes until they have separated to a fixed distance. It is of particular interest if the finite time Lyapunov exponent - a scalar quantity that measures the rate of separation of infinitesimally close particles in the flow - is used to guide the placement of anchor lines. The effectiveness of our approaches for the visualization of 3D flow fields is validated using synthetic fields as well as real simulation data."
+    },
+    {
+        "title": "Optimizing Parallel Performance of Streamline Visualization for Large Distributed Flow Datasets",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Li Chen",
+            "Issei Fujishiro"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475463",
+        "citation": 21,
+        "abstract": "Parallel performance has been a challenging topic in streamline visualization for large unstructured flow datasets on parallel distributed-memory computers. It depends strongly on domain partitions. Unsuitable partitions often lead to severe load imbalance and high frequent communications among the domain partitions. To address the problem, we present an approach to flow data partitioning taking account of flow directions and features. Multilevel spectral graph bisection method is employed to reduce communication and synchronization overhead among distributed domains. Edge weights in the corresponding adjacent matrix is defined based on an anisotropic local diffusion operator which assigns strong coupling along flow direction and weak coupling orthogonal to flow. Meanwhile, the distributions of seed points and flow features such as vortex structure are also considered in partitioning so as to obtain good load balance. The experimental results are given to show the feasibility and effectiveness of our method."
+    },
+    {
+        "title": "A Treemap Based Method for Rapid Layout of Large Graphs",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Chris Muelder",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475481",
+        "citation": 21,
+        "abstract": "Abstract graphs or networks are a commonly recurring data type in many fields. In order to visualize such graphs effectively, the graph must be laid out on the screen coherently. Many algorithms exist to do this, but many of these algorithms tend to be very slow when the input graph is large. This paper presents a new approach to the large graph layout problem, which quickly generates an effective layout. This new method proceeds by generating a clustering hierarchy for the graph, applying a treemap to this hierarchy, and finally placing the graph vertices in their associated regions in the treemap. It is ideal for interactive systems where operations such as semantic zooming are to be performed, since most of the work is done in the initial hierarchy calculation, and it takes very little work to recalculate the layout. This method is also valuable in that the resulting layout can be used as the input to an iterative algorithm (e.g., a force directed method), which greatly reduces the number of iterations required to converge to a near optimal layout."
+    },
+    {
+        "title": "The Event Tunnel: Interactive Visualization of Complex Event Streams for Business Process Pattern Analysis",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Martin Suntinger",
+            "Hannes Obweger",
+            "Josef Schiefer",
+            "M. Eduard Groller"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475466",
+        "citation": 20,
+        "abstract": "Event-based systems are gaining increasing popularity for building loosely coupled and distributed systems. Since business processes are becoming more interconnected and event-driven, event-based systems fit well for supporting and monitoring business processes. In this paper, we present an event-based business intelligence tool, the Event Tunnel framework. It provides an interactive visualization of event streams to support business analysts in exploring business incidents. The visualization is based on the metaphor of considering the event stream as a cylindrical tunnel, which is presented to the user from multiple perspectives. The information of single events laid out in the Event Tunnel is encoded in event glyphs that allow for a selective mapping of event attributes to colors, size and position. Different policies for the placement of the events in the tunnel as well as a clustering mechanism generate various views on historical event data. The Event Tunnel is able to display the relationships between events. This facilitates users to discover root causes and causal dependencies of event patterns. Our framework couples the event-tunnel visualization with query tools that allow users to search for relevant events within a data repository. Using query, filler and highlighting operations the analyst can navigate through the Event Tunnel until the required information or event patterns become visible. We demonstrate our approach with use cases from the fraud management and logistics domain."
+    },
+    {
+        "title": "Multiple Uncertainties in Time-Variant Cosmological Particle Data",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Steve Haroz",
+            "Kwan-Liu Ma",
+            "Katrin Heitmann"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475478",
+        "citation": 18,
+        "abstract": "Though the mediums for visualization are limited, the potential dimensions of a dataset are not. In many areas of scientific study, understanding the correlations between those dimensions and their uncertainties is pivotal to mining useful information from a dataset. Obtaining this insight can necessitate visualizing the many relationships among temporal, spatial, and other dimensionalities of data and its uncertainties. We utilize multiple views for interactive dataset exploration and selection of important features, and we apply those techniques to the unique challenges of cosmological particle datasets. We show how interactivity and incorporation of multiple visualization techniques help overcome the problem of limited visualization dimensions and allow many types of uncertainty to be seen in correlation with other variables."
+    },
+    {
+        "title": "StarGate: A Unified, Interactive Visualization of Software Projects",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Michael Ogawa",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475476",
+        "citation": 15,
+        "abstract": "With the success of open source software projects, such as Apache and Mozilla, comes the opportunity to study the development process. In this paper, we present StarGate: a novel system for visualizing software projects. Whereas previous software project visualizations concentrated mainly on the source code changes, we literally place the developers in the center of our design. Developers are grouped visually into clusters corresponding to the areas of the file repository they work on the most. Connections are drawn between people who communicate via email. The changes to the repository are also displayed. With StarGate, it is easy to look beyond the source code and see trends in developer activity. The system can be used by anyone interested in the project, but it especially benefits project managers, project novices and software engineering researchers."
+    },
+    {
+        "title": "Second Order Pre-Integrated Volume Rendering",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Jean-Francois El Hajjar",
+            "Stephane Marchesin",
+            "Jean-Michel Dischler",
+            "Catherine Mongenet"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475453",
+        "citation": 11,
+        "abstract": "In the field of Volume Rendering, the pre-integration of arbitrary transfer functions has certainly led to the most significant and convincing results both quality and performance wise, allowing high quality visualization on standard PC consumer graphics. By showing that the ideal scalar signal along the cast rays is better approximated by a succession of polynomial curves as opposed to linear segments, we propose a new method for pre-integrated volume rendering. This method is based on a second order polynomial interpolation of the scalar values, allowing it to converge more rapidly towards the integration of a volume reconstructed by a trilinear filter. This approach manages to capture the smoothness of the volume's details without the need of further ray resampling, and consequently succeeds in reducing the visual artefacts in comparison to previous techniques. Futhermore, we adapt an existing technique to compute our pre-integration tables using the GPU, thus making our approach suitable for transfer function manipulations."
+    },
+    {
+        "title": "Visualizing Multivariate Networks: A Hybrid Approach",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Yingxin Wu",
+            "Masahiro Takatsuka"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475480",
+        "citation": 7,
+        "abstract": "Multivariate networks are data sets that describe not only the relationships between a set of entities but also their attributes. In this paper, we present a new technique to determine the layout of a multivariate network using geodesic self-organizing map (GeoSOM). During the training process of a GeoSOM, graph distances are non-linearly combined with attribute similarities based on the network's graph distance distribution. The resulted layout has less edge crossings than those generated by the previous methods. We conducted a user study to evaluate the effectiveness of this hybrid approach. The results were compared against the most commonly used glyph-based technique. The user study shows that the hybrid approach helps users draw conclusions from both the relationship and vertex attributes of a multivariate network more quickly and accurately. In addition, users found it easier to compare different relationships of the same set of entities. Finally, the capability of the hybrid approach is demonstrated using the world military expenditures and weapon transfer networks."
+    },
+    {
+        "title": "FanLens: A Visual Toolkit for Dynamically Exploring the Distribution of Hierarchical Attributes",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Xinghua Lou",
+            "Shixia Liu",
+            "Tianshu Wang"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475471",
+        "citation": 7,
+        "abstract": "Radial, space-filling visualization is very useful for representing the distribution of attributes in hierarchical data; however it also suffers from its drawbacks in terms of view transition, context preservation, thin slices, flexibility and large sized data support. To address these problems, we propose FanLens, an enhancement upon existing approaches with new features like incremental layout and fisheye distortion based selecting. This visual toolkit also features dynamic hierarchy specification, dynamic visual property mapping, smooth animation, etc. We illustrate the effectiveness of our technique with two examples of case study and results from informal user experiments."
+    },
+    {
+        "title": "Crossing Minimization meets Simultaneous Drawing",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Markus Chimani",
+            "Michael Junger",
+            "Michael Schulz"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475456",
+        "citation": 7,
+        "abstract": "We define the concept of crossing numbers for simultaneous graphs by extending the crossing number problem of traditional graphs. We discuss differences to the traditional crossing number problem, and give an NP-completeness proof and lower and upper bounds for the new problem. Furthermore, we show how existing heuristic and exact algorithms for the traditional problem can be adapted to the new task of simultaneous crossing minimization, and report on a brief experimental study of their implementations."
+    },
+    {
+        "title": "Multi-resolution Volume Rendering of Large Time-Varying Data using Video-based Compression",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Chia-Lin Ko",
+            "Horng-Shyang Liao",
+            "Tsai-Pei Wang",
+            "Kuang-Wei Fu",
+            "Ching-Yao Lin",
+            "Jung-Hong Chuang"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475469",
+        "citation": 6,
+        "abstract": "We present a new framework that combines the hierarchical multi-resolution representation with video-based compression to manage and render large scale time-varying data. In the preprocessing step, the proposed method first constructs a multi-resolution hierarchy using octree structure for each individual time step, and then applies a motion-compensation-based prediction to compress the octree nodes. During rendering stage, the data is decompressed on-the-fly and rendered using hardware texture mapping. The proposed approach eliminates the hierarchical decompression dependency commonly found in the conventional hierarchical wavelet representation methods, which leads to a more efficient reconstruction of data along the time axis. The system provides the user with a spatial region-of-interest (ROI) to adjust the spatial level-of-detail (LOD) selection, and a temporal ROI which is a sub-region only for frequent update during playback. With a suitable control of both ROIs, our system can reach an interactive playback frame rate. This allows the user to observe the dynamic nature of large time-varying data sets."
+    },
+    {
+        "title": "Multiple Views on System Traces",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "A. Johannes Pretorius",
+            "Jarke J. van Wijk"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475464",
+        "citation": 5,
+        "abstract": "We present a new method for the visual analysis of multivariate system traces. Our method combines three perspectives: (1) a schematic diagram, (2) time series plots and (3) a state transition graph. After we show how these perspectives are related, we discuss their integration into a single solution for the visual analysis of multivariate system traces. The combination of the three perspectives provides the user with a rich analysis interface that enables gaining significant insight into system behavior. We illustrate some of the advantages of our approach by providing a real-world use case."
+    },
+    {
+        "title": "WhatsOnWeb+ : An Enhanced Visual Search Clustering Engine",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Emilio Di Giacomo",
+            "Walter Didimo",
+            "Luca Grilli",
+            "Giuseppe Liotta",
+            "Pietro Palladino"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475473",
+        "citation": 5,
+        "abstract": "The paper describes WhatsOnWeb+, a search clustering engine that allows users to browse and analyze the results of a query by means of enhanced graph visualization techniques. WhatsOnWeb+ integrates a wide array of visual interfaces, animation and interaction functionalities, and clustering technologies. The effectiveness of the different visual interfaces and of the different clustering algorithms implemented in the system has been measured by means of an extensive experimental analysis. The described system represents a significant evolution of a previous clustering engine for the Web."
+    },
+    {
+        "title": "Interactive Visual Analysis of the NSF Funding Information",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Shixia Liu",
+            "Nan Cao",
+            "Hao Lv"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475475",
+        "citation": 5,
+        "abstract": "This paper presents an interactive visualization toolkit for navigating and analyzing the National Science Foundation (NSF) funding information. Our design builds upon the treemap layout and the stacked graph to contribute customized techniques for visually navigating and interacting with the hierarchical data of NSF programs and proposals, supporting visual search and analysis, and allowing the user to make informed decision. In this visualization toolkit, we propose two visualization techniques to simplify the navigation of the hierarchical data: 2.5 Dimensional treemaps to make the hierarchical structure more easily to be recognized, and labeled treemap to help the user to get a clear overview of the content of the structure and make the internal area of rectangles correspond to the weights of the data set. Furthermore, an incremental layout method is adopted to handle information on a large scale. The improved treemap visualization will help to visually analyze the static funding data and the stacked graph is utilized to analyze the time-series data. Through these visual analysis techniques, research trends of NSF, popular NSF programs are quickly identified. The primary contribution is a demonstration of novel ways to effectively present and analyze NSF funding data."
+    },
+    {
+        "title": "Pixelplexing: Gaining Display Resolution Through Time",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "James Shearer",
+            "Michael Ogawa",
+            "Kwan-Liu Ma",
+            "Toby Kohlenberg"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475472",
+        "citation": 4,
+        "abstract": "Animation is frequently utilized to visually depict change in time- varying data sets. For this task, it is a natural fit. Yet explicit animation is rarely employed for static data. We discuss the use of animation to overcome three common limitations faced by information visualization applications in the context of small-display devices: constraints on the output display, limited interaction possibilities, and high data density. We provide concrete examples of applying animation to combat such limitations for four common visualization types: geospatial data, treemaps, parallel coordinate displays, and large graphs. Unlike previous work which examines animation for maintaining user orientation during view changes or for displaying data variables, we discuss animation's utility for multiplexing available screen space. In the context of constrained displays, we demonstrate its ability to effectively gain screen resolution, to quickly uncover trends, to help find unexpected data patterns, and to reduce visual clutter."
+    },
+    {
+        "title": "Interactive Exploration of Remote Isosurfaces with Point-Based Non-Photorealistic Rendering",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Guangfeng Ji",
+            "Han-Wei Shen",
+            "Jinzhu Gao"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475455",
+        "citation": 4,
+        "abstract": "We present a non-photo realistic rendering technique for interactive exploration of isosurfaces generated from remote volumetric data. Instead of relying on the conventional smooth shading technique to render the isosurfaces, a point-based technique is used to represent and render the isosurfaces in a remote client-server environment. The non-photo realistic nature of the proposed rendering method enables the server to transmit only the essential surface features, which substantially reduces the network traffic. The algorithm also utilizes frame coherence and efficiently encodes the isosurface configuration inside each voxel cell to further minimize the network overhead. Finally, our algorithm can adjust the point distributions using different illumination settings to adapt to different network speeds."
+    },
+    {
+        "title": "Dynamic Shader Generation for Flexible Multi-Volume Visualization",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Friedemann RoBler",
+            "Ralf P. Botchen",
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475454",
+        "citation": 4,
+        "abstract": "Volume rendering of multiple intersecting volumetric objects is a difficult visualization task, especially if different rendering styles need to be applied to the components, in order to achieve the desired illustration effect. Real-time performance for even complex scenarios is obtained by exploiting the speed and flexibility of modern GPUs, but at the same time programming the necessary shaders turned into a task for GPU experts only. We foresee the demand for an intermediate level of programming abstraction where visualization specialists can realize advanced applications without the need to deal with shader programming intricacies. In this paper, we describe a generic technique for multi-volume rendering, which generates shader code dynamically from an abstract render graph. By combining pre-defined nodes, complex volume operations can be realized. Our system efficiently creates GPU-based fragment shader and vertex shader programs \"on-the-fly\" to achieve the desired visual results. We demonstrate the flexibility of our technique by applying several dynamically generated volume rendering styles to multi-modal medical datasets."
+    },
+    {
+        "title": "Finite-Time Transport Structures of Flow Fields",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Kuangyu Shi",
+            "Holger Theisel",
+            "Tino Weinkauf",
+            "Hans-Christian Hege",
+            "Hans-Peter Seidel"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475460",
+        "citation": 4,
+        "abstract": "Modern experimental and computational fluid mechanics are increasingly concerned with the structure nature of fluid motion. Recent research has highlighted the analysis of one transport structure which is called Lagrangian coherent structure. However, the quantity nature of the flow transport is still unclear. In this paper, we focus on the transport characteristics of physical quantities and propose an approach to visualize the finite-time transport structure of quantity advection. This is similar to an integral convolution over a scalar field along path-lines of a flow field. Applied to a well-chosen set of physical quantity fields this yields structures giving insights into the dynamical processes of the underlying flow. We demonstrate our approach on a number of test data sets."
+    },
+    {
+        "title": "Map Warping for the Annotation of Metro Maps",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Joachim Bottger",
+            "Ulrik Brandes",
+            "Oliver Deussen",
+            "Hendrik Ziezold"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475477",
+        "citation": 3,
+        "abstract": "We augment schematic maps of transportation systems by superimposing them on street-level maps that are fitted using image warping techniques. While schematic maps are successful in conveying information about lines and connections in a public transportation network, they usually contain little or no detail describing the environment of stations or their embedding in the surrounding area. The annotation of a distorted city map therefore alleviates this deficiency and improves further the usability of schematic transportation maps by merging two different navigational spaces. Our technique for fitting the street map to the schematic map is based on moving least squares in combination with an overlap control technique. We thus obtain an easily readable transportation network map on which we can show all the typical city map features such as rivers, streets, and parks without compromising on the schematization. Furthermore, for the interactive exploration we couple zooming with warping and control over the level of detail in what we call warping zoom."
+    },
+    {
+        "title": "Efficient Rendering of Extrudable Curvilinear Volumes",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Steven Martin",
+            "Han-Wei Shen",
+            "Ravi Samtaney"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475452",
+        "citation": 2,
+        "abstract": "We present a technique for memory-efficient and time-efficient volume rendering of curvilinear adaptive mesh refinement data defined within extrudable computational spaces. One of the main challenges in the ray casting of curvilinear volumes is that a linear viewing ray in physical space will typically correspond to a curved ray in computational space. The proposed method utilizes a specialized representation of curvilinear space that provides for the compact representation of parameters for transformations between computational space and physical space, without requiring extensive preprocessing. By simplifying the representation of computational space positions using an extrusion of a profile surface, the requisite transformations can be greatly simplified. Our implementation achieves interactive rates with minimal load time and memory overhead using commodity graphics hardware with real-world data."
+    },
+    {
+        "title": "An Adaptive Gauss Filtering Method",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Shyh-Kuang Ueng",
+            "Hai-Peng Cheng",
+            "Ruey-Yuan Lu"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475468",
+        "citation": 1,
+        "abstract": "An adaptive filtering method for volume data is presented in this paper. In this filtering method, the input data set is re-sampled to create a hierarchy of multiple-level data sets. A data classification task is performed at each level of the data pyramid to decide the local structure types. Data voxels are classified as linear, planar, or blob structures, based on the gradients and the eigenvalues of Hessian matrices. The classification results are used to adjust the shapes and orientations of filters such that noises are suppressed while key features are preserved."
+    },
+    {
+        "title": "A Novel Visualization System for Expressive Facial Motion Data Exploration",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Tanasai Sucontphunt",
+            "Xiaoru Yuan",
+            "Qing Li",
+            "Zhigang Deng"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475465",
+        "citation": 1,
+        "abstract": "Facial emotions and expressive facial motions have become an intrinsic part of many graphics systems and human computer interaction applications. The dynamics and high dimensionality of facial motion data make its exploration and processing challenging. In this paper, we propose a novel visualization system for expressive facial motion data exploration. Based on Principal Component Analysis (PCA) dimensionality reduction on anatomical facial sub regions, high dimensional facial motion data is mapped to 3D spaces. We further rendered it as colored 3D trajectories and color represents different emotion. We design an intuitive interface to allow users effectively explore and analyze high dimensional facial motion spaces. The applications of our visualization system on novel facial motion synthesis and emotion recognition are demonstrated."
+    },
+    {
+        "title": "Cover image credits",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475482",
+        "citation": 0,
+        "abstract": "Cover image credits."
+    },
+    {
+        "title": "Program Committee",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475447",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members."
+    },
+    {
+        "title": "Conference Committee",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475446",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members."
+    },
+    {
+        "title": "Steering Committee",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475448",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members."
+    },
+    {
+        "title": "Preface",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475443",
+        "citation": 0,
+        "abstract": "Presents the introductory welcome message from the conference proceedings."
+    },
+    {
+        "title": "VGTC Executive Committee",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475445",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members."
+    },
+    {
+        "title": "Visualization of High Dimensional Data in Brain and Information Sciences",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Masato Okada"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475451",
+        "citation": 0,
+        "abstract": "Research field of my laboratory includes statistical mechanics especially for random magnetic systems, brain and information sciences. These three research areas share common mathematical structure. Their common feature is that they commonly treat very large freedom systems, that is, magnetism which originates from cooperative phenomena of O(1023) spins, brain functions carried by the large number of neuron activities, digital information represented by the large number of bit sequences. The statistical mechanics plays an important role to treat such large freedom systems because it can deduce macroscopic and low dimensional descriptions like the Boyle-Charle's law from microscopic and high dimensional descriptions of Newtonian or quantum mechanics. Since the statistical mechanics is considered as a systematic tool for the dimension reduction, it can be applicable to the brain and information systems. Since the dimension reduction is a common feature between the visualization and the statistical mechanics, the visualization also plays an important role to treat these systems. The visualization offers effective and essential low dimensional visual representations which help us to intuitively understand these systems. In this talk, I will present two examples regarding the visualization of high dimensional data in the brain and information sciences where the principal component analysis (PCA) and the mixture of Gaussian analysis (MGA) are employed. Sugase et al. performed single unit recordings in the inferior temporal (IT) cortex in the monkey's brain which is one of crucial areas regarding the pattern recognition. They presented 38 images to the monkey."
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC)",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475444",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members."
+    },
+    {
+        "title": "Interactive Visualization - Beyond Standard Techniques for Irrelevant Datasets",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2008.4475450",
+        "citation": 0,
+        "abstract": "During the last 20 years visualization has developed into a scientific discipline of its own right at the crossroads of computer graphics, human-computer interaction, and data analysis. Today, interactive visualization techniques play a crucial role in the process of understanding the huge datasets resulting from simulations, sensor measurements, and information systems. The talk will look at the current state of the field which is characterized by the fact that by now elaborate algorithms and efficient GPU implementations exist for many classical visualization problems dealing with 3D scalar and vector data sets. Therefore, it has become obvious that future visualization research cannot only concentrate on optimizing standard techniques for well-known benchmark data sets. A closer cooperation with application domains very often leads to real-life problems whose size and dimension require new approaches often combining known techniques into innovative tools. In this context the talk will present some of the current research results of the visualization group at the University of Stuttgart in the areas of visualization of video streams, molecular dynamics simulations, and patent databases."
+    },
+    {
+        "title": "Contents",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475441",
+        "citation": 0,
+        "abstract": "Presents the table of contents of the proceedings."
+    },
+    {
+        "title": "IEEE Pacific Visualisation Symposium 2008",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475439",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "[Front cover]",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475484",
+        "citation": 0,
+        "abstract": "The following topics are dealt with: volume visualization; graph drawing; flow visualization; information visualization; features and time-varying data visualization; graph visualization."
+    },
+    {
+        "title": "list-reviewer",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475449",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "[Copyright notice]",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475440",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "Supporting organizations",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475442",
+        "citation": 0,
+        "abstract": "The conference organizers greatly appreciate the support of the various corporate sponsors listed."
+    },
+    {
+        "title": "Author index",
+        "conferenceTitle": "2008 IEEE Pacific Visualization Symposium",
+        "date": "5-7 March 2008",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2008.4475483",
+        "citation": 0,
+        "abstract": "The author index contains an entry for each author and coauthor included in the proceedings record."
+    }
+]

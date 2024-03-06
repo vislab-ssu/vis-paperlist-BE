@@ -1,0 +1,555 @@
+[
+    {
+        "title": "ComDia+: An Interactive Visual Analytics System for Comparing, Diagnosing, and Improving Multiclass Classifiers",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Chanhee Park",
+            "Jina Lee",
+            "Hyunwoo Han",
+            "Kyungwon Lee"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00044",
+        "citation": 6,
+        "abstract": "Performance analysis is essential for improving classification models. However, existing performance analysis tools do not provide actionable insights such as the cause of misclassification. Machine learning practitioners face difficulties such as prioritizing model, looking over confusion between classes. In addition, existing performance analysis tools that provide feature-level analysis are difficult to apply to image classification problems. This study has been proposed to solve these difficulties. In this paper, we present an interactive visual analytics system for diagnosing the performance of multiclass classification models. Our system is able to compare multiple models, find weaknesses, and obtain actionable insights for improving models. Our visualization consists of three views for analyzing performance at the class, confusion, and instance levels. We demonstrate our system using MNIST handwritten digits data."
+    },
+    {
+        "title": "GitViz: An Interactive Visualization System for Analyzing Development Trends in the Open-Source Software Community",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Chanhee Park",
+            "Sungjun Do",
+            "Eunjeong Lee",
+            "Hanna Jang",
+            "Sungchan Jung",
+            "Hyunwoo Han",
+            "Kyungwon Lee"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00028",
+        "citation": 0,
+        "abstract": "This study proposes a visualization that can assist computer scientists and data scientists to make decisions by exploring technology trends. While it is important for them to understand the technology trends in the rapidly changing computer science and data science fields, it takes considerable time and knowledge to acquire good information about these trends. Particularly, data/computer scientists with little experience in the field find it difficult to obtain information on such trends. Therefore, we propose a visualization system that can easily and quickly explore the technology trends in computer and data science. This study aims to identify the key technologies and developers in a specific field, and other technologies deeply related to specific technologies, and explore the changes in popularity of technologies, languages, and libraries over time. This study includes two case studies to obtain information using the proposed visualization. We demonstrate our system with GitHub repositories data."
+    },
+    {
+        "title": "Interactive Spatiotemporal Visualization of Phase Space Particle Trajectories Using Distance Plots",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Tyson Neuroth",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00035",
+        "citation": 0,
+        "abstract": "The distance plot (or unthresholded recurrence plot) has been shown to be a useful tool for analyzing spatiotemporal patterns in high-dimensional phase space trajectories. We incorporate this technique into an interactive visualization with multiple linked phase plots, and extend the distance plot to also visualize marker particle weights from particle-in-cell (PIC) simulations together with the phase space trajectories. By linking the distance plot with phase plots, one can more easily investigate the spatiotemporal patterns, and by extending the plot to visualize particle weights in conjunction with the phase space trajectories, the visualization better supports the needs of domain experts studying particle-in-cell simulations. We demonstrate our resulting visualization design using particles from an XGC Tokamak fusion simulation."
+    },
+    {
+        "title": "DNN-VolVis: Interactive Volume Visualization Supported by Deep Neural Network",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Fan Hong",
+            "Can Liu",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00041",
+        "citation": 22,
+        "abstract": "In this work, we propose a novel approach of volume visualization without explicit traditional rendering pipeline. In our proposed method, volumetric images can be interactively `reversed' given the volumetric data and a static volume rendered image under the desired rendering effect. Our pipeline enables 3D-navigation on it for exploring the given volumetric data without explicit transfer function. In our approach, deep neural networks, combined usage of Generative Adversarial Networks (GANs) and Convolutional Neural Networks (CNN) are employed to synthesize high-resolution and perceptually authentic images directly, inheriting the desired transfer function and viewing parameter implicitly given by the input images respectively."
+    },
+    {
+        "title": "An Interactive Chart of Biography",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Richard Khulusi",
+            "Jakob Kusnick",
+            "Josef Focht",
+            "Stefan Jänicke"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00038",
+        "citation": 15,
+        "abstract": "Joseph Priestley's Chart of Biography is a masterpiece of hand-drawn data visualization. He arranged the lifespans of around 2,000 individuals on a timeline, and the chart obtained great value for teaching purposes. We present a generic, interactive variant of the chart adopting Priestley's basic design principles. Our proposed visualization allows for dynamically defining person groups to be visually compared on different zoom levels. We designed the visualization in cooperation with musicologists having multifaceted research interests on a biographical database of musicians. On the one hand, we enable deriving new relationships between musicians in order to extend the underlying database, and on the other hand, our visualization supports analyzing time-dependent changes of musical institutions. Various usage scenarios outline the benefit of the Interactive Chart of Biography for research in musicology."
+    },
+    {
+        "title": "Collaborative Visual Analysis with Multi-level Information Sharing Using a Wall-Size Display and See-Through HMDs",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Tianchen Sun",
+            "Yucong Ye",
+            "Issei Fujishiro",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00010",
+        "citation": 14,
+        "abstract": "Solving complex data analysis problems can often benefit a collaborative effort. For synchronous co-located collaboration, a well-recognized challenge is to deliver different contents to people with different privileges and different responsibilities. This challenge is becoming more obvious with the use of a shared display space such as a wall-size display. In particular, scenarios often arise that a privileged participant needs to access sensitive information that other participants are not permitted to view. This is nearly impossible to achieve with only a single display. As a result, it becomes clear that additional devices are needed to provide some of the participants the capability to access and manage certain information in a private space. In this work, we investigate incorporating optical see-through head-mounted displays (OST-HMDs) with a wall-size display to deliver sensitive information in a synchronous co-located, collaborative setting. With our prototype system, we conduct a user study to observe the collaboration styles under this unique setup. We also present the lessons learned by reflecting on the iterative design process of our prototype system."
+    },
+    {
+        "title": "A Linear Time BVH Construction Algorithm for Sparse Volumes",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Stefan Zellmann",
+            "Matthias Hellmann",
+            "Ulrich Lang"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00033",
+        "citation": 9,
+        "abstract": "While fast spatial index construction for triangle meshes has gained a lot of attention from the research community in recent years, fast tree construction algorithms for volume data are still rare and usually do not focus on real-time processing. We propose a linear time bounding volume hierarchy construction algorithm based on a popular method for surface ray tracing of triangle meshes that we adapt for direct volume rendering with sparse volumes. We aim at interactive to real-time construction rates and evaluate our algorithm using a GPU implementation."
+    },
+    {
+        "title": "Analysis of Coupled Thermo-Hydro-Mechanical Simulations of a Generic Nuclear Waste Repository in Clay Rock Using Fiber Surfaces",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Christian Blecha",
+            "Felix Raith",
+            "Gerik Scheuermann",
+            "Thomas Nagel",
+            "Olaf Kolditz",
+            "Jobst Maßmann"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00030",
+        "citation": 7,
+        "abstract": "The use of clean and renewable energy and the abandoning of fossil energy have become goals of many national and international energy policies. But even when once accomplished, mankind has to take charge of the relics of the current energy supply system. For example, due to its harmful effects, nuclear waste has to be isolated from the biosphere safely and for sufficiently long times. The geological subsurface is considered as a promising option for the deposition of such by-or end products. In order to investigate the long-term evolution of a repository system, a multiphysics simulation was performed. It combines the structural mechanics of the host rock, the fluid dynamics of formation fluids, and the thermodynamics of all materials resulting in a highly multivariate data set. A visualization of such multiphysics data challenges the current methodology. In this article, we demonstrate how an analysis of a carefully selected subset of the variables in attribute space allows to visualize and interpret the simulation data. We apply a fiber surface extraction algorithm to explore the relationships between these variables. Studying the temporal evolution in attribute space, we found a regionally bulge that could be identified as an effect of the nuclear waste repository because it can be clearly separated from the natural geophysical state prior to waste disposal. Furthermore, we used the extracted fiber surface as a starting point to examine the distribution of other variables inside this area of the physical domain. We conclude this case study with lessons learned from the visualization as well as the geotechnical side."
+    },
+    {
+        "title": "Designing Narrative Slideshows for Learning Analytics",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Qing Chen",
+            "Zhen Li",
+            "Ting-Chuen Pong",
+            "Huamin Qu"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00036",
+        "citation": 6,
+        "abstract": "The practical power of data visualization is currently attracting much attention in the e-learning domain. A growing number of studies have been conducted in recent years to help instructors better analyze learner behavior and reflect on their teaching. However, current e-learning dashboards and visualization systems usually require a lot of time and effort into the exploration process. Moreover, the lack of communication power of existing systems constrains users from organizing the narrative of information pieces into a compelling data story. In this paper, we have proposed a narrative visualization approach with an interactive slideshow that helps instructors and education experts explore potential learning patterns and convey data stories. This approach contains three key components: guided-tour concept, drill-down path, and dig-in exploration dimension. The use cases further demonstrate the potential of employing this visual narrative approach in the e-learning context."
+    },
+    {
+        "title": "Challenges for Brain Data Analysis in VR Environments",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Sabrina Jaeger",
+            "Karsten Klein",
+            "Lucas Joos",
+            "Johannes Zagermann",
+            "Michael de Ridder",
+            "Jinman Kim",
+            "Jean Yang",
+            "Ulrike Pfeil",
+            "Harald Reiterer",
+            "Falk Schreiber"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00013",
+        "citation": 5,
+        "abstract": "Analysing and understanding brain function and disorder is the main focus of neuroscience. Due to the high complexity of the brain, directionality of the signal and changing activity over time, visual exploration and data analysis are difficult. For this reason, a vast amount of research challenges are still unsolved. We explored different challenges of the visual analysis of brain data and the design of corresponding immersive environments in collaboration with experts from the biomedical domain. We built a prototype of an immersive virtual reality environment to explore the design space and to investigate how brain data analysis can be supported by a variety of design choices. Our environment can be used to study the effect of different visualisations and combinations of brain data representation, as for example network layouts, anatomical mapping or time series. As a long-term goal, we aim to aid neuro-scientists in a better understanding of brain function and disorder."
+    },
+    {
+        "title": "Statistical Super Resolution for Data Analysis and Visualization of Large Scale Cosmological Simulations",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Ko-Chih Wang",
+            "Jiayi Xu",
+            "Jonathan Woodring",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00043",
+        "citation": 4,
+        "abstract": "Cosmologists build simulations for the evolution of the universe using different initial parameters. By exploring the datasets from different simulation runs, cosmologists can understand the evolution of our universe and approach its initial conditions. A cosmological simulation nowadays can generate datasets on the order of petabytes. Moving datasets from the supercomputers to post data analysis machines is infeasible. We propose a novel approach called statistical super-resolution to tackle the big data problem for cosmological data analysis and visualization. It uses datasets from a few simulation runs to create a prior knowledge, which captures the relation between low-and high-resolution data. We apply in situ statistical down-sampling to datasets generated from simulation runs to minimize the requirements of I/O bandwidth and storage. High-resolution datasets are reconstructed from the statistical down-sampled data by using the prior knowledge for scientists to perform advanced data analysis and render high-quality visualizations."
+    },
+    {
+        "title": "An Interactive Visual Analytics System for Incremental Classification Based on Semi-supervised Topic Modeling",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Yuyu Yan",
+            "Yubo Tao",
+            "Sichen Jin",
+            "Jin Xu",
+            "Hai Lin"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00025",
+        "citation": 4,
+        "abstract": "Text labeling for classification is a time-consuming and unintuitive process. Given an unannotated text collection, it is difficult for users to determine what label to create and how to label the initial training set for classification. Thus, we present an interactive visual analytics system for incremental text classification based on a semi-supervised topic modeling method, modified Gibbs sampling maximum entropy discrimination latent Dirichlet allocation (Gibbs MedLDA). Given a text collection, Gibbs MedLDA generates topics as a summary of the text collection. We design a scatter plot to display documents and topics simultaneously to show the topic information, and this helps users explore the text collection structurally and find labels for creating. After labeling documents, Gibbs MedLDA is applied to the text collection with labels again, and it generates both the topic and classification information. We also provide a scatter plot with the classifier boundary and a matrix view to present weights of classifiers. Users can iteratively label documents to refine each classifier. We evaluate our system via a user study with a benchmark corpus for text classification and case studies with two unannotated text collections."
+    },
+    {
+        "title": "Defamiliarization, Representation Granularity, and User Experience: A Qualitative Study with Two Situated Visualizations",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Luiz Augusto de Macêdo Morais",
+            "Nazareno Andrade",
+            "Dandara Maria Costa de Sousa",
+            "Lesandro Ponciano"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00019",
+        "citation": 3,
+        "abstract": "This work explores the user experience with two situated visualizations that lie on different points of design space. The first visualization - the Activity Clock - displays the aggregate presence of laboratory members into a wall clock. The second - Personal Activities - represents the same persons individually, in a conventional poster media. We interviewed 17 participants and leverage a theoretical lens of Continuous Engagement and Sense-Making to study how design decisions impact the user experience with respect to (1) which design factors attract users, (2) how design features affect users' understanding of the visualization, and (3) what kind of reflections are evoked by design. We discuss how the defamiliarizing effect of the Activity Clock plays a dual role in attracting users while also hindering their understanding of the data. We also consider the evidence that fine representation granularity in the Personal Activities evokes deeper reflections."
+    },
+    {
+        "title": "What-Why Analysis of Expert Interviews: Analysing Geographically-Embedded Flow Data",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Yalong Yang",
+            "Sarah Goodwin"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00022",
+        "citation": 3,
+        "abstract": "In this paper, we present our analysis of five expert interviews, each from a different application domain. Such analysis is crucial to understanding the real-world scenarios of analysing geographically-embedded flow data. The results of our analysis show that similar high-level tasks were conducted in different domains. To better describe the targets of these tasks, we proposed three flow-targets for analysing geographically-embedded flow data: single flow, total flow and regional flow."
+    },
+    {
+        "title": "A Visual Approach for the Comparative Analysis of Character Networks in Narrative Texts",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Markus John",
+            "Martin Baumann",
+            "David Schuetz",
+            "Steffen Koch",
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00037",
+        "citation": 3,
+        "abstract": "The analysis of a novel's plot and characters are challenging and time-consuming tasks in literary criticism. Typically, humanities scholars want to describe and compare characters' personality traits, their roles, their relationships, and the evolution of these aspects over the course of a novel. Nowadays, due to the digitization of literature, humanities scholars can be supported in these endeavors with computational methods. In this paper, we present an approach that offers several means to analyze the plot and characters of a novel visually. Analysts can easily switch between an adjacency matrix and a node-link representation, which provide an overview of the characters and the relationships between them. Both views enable analysts to select different text ranges of the novel for studying the commonalities and differences of the character constellations within these ranges. We offer interactive visual representations to help investigate the relationships between the characters in more detail. Additionally, we link the visual representations with the novels' texts to support the inspection and verification of previously generated ideas and hypotheses. To demonstrate the benefits and limitations of our approach, we present two usage scenarios. The first one is based on a fictitious analysis and the second one discusses applications that were carried out during joint workshops with humanities scholars. Finally, we present and discuss the insights gained by an expert study and the design decisions of our approach."
+    },
+    {
+        "title": "Visual Analysis of Ligand Trajectories in Molecular Dynamics",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Adam Jurčík",
+            "Katarína Furmanová",
+            "Jan Byška",
+            "Vojtěch Vonásek",
+            "Ondřej Vávra",
+            "Pavol Ulbrich",
+            "Helwig Hauser",
+            "Barbora Kozlíková"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00032",
+        "citation": 3,
+        "abstract": "In many cases, protein reactions with other small molecules (ligands) occur in a deeply buried active site. When studying these types of reactions, it is crucial for biochemists to examine trajectories of ligand motion. These trajectories are predicted with in-silico methods that produce large ensembles of possible trajectories. In this paper, we propose a novel approach to the interactive visual exploration and analysis of large sets of ligand trajectories, enabling the domain experts to understand protein function based on the trajectory properties. The proposed solution is composed of multiple linked 2D and 3D views, enabling the interactive exploration and filtering of trajectories in an informed way. In the workflow, we focus on the practical aspects of the interactive visual analysis specific to ligand trajectories. We adapt the small multiples principle to resolve an overly large number of trajectories into smaller chunks that are easier to analyze. We describe how drill-down techniques can be used to create and store selections of the trajectories with desired properties, enabling the comparison of multiple datasets. In appropriately designed 2D and 3D views, biochemists can either observe individual trajectories or choose to aggregate the information into a functional boxplot or density visualization. Our solution is based on a tight collaboration with the domain experts, aiming to address their needs as much as possible. The usefulness of our novel approach is demonstrated by two case studies, conducted by the collaborating protein engineers."
+    },
+    {
+        "title": "Space-Time Slicing: Visualizing Object Detector Performance in Driving Video Sequences",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Teng-Yok Lee",
+            "Kent Wittenburg"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00045",
+        "citation": 2,
+        "abstract": "Development of object detectors for video in applications such as autonomous driving requires an iterative training process with data that initially requires human labeling. Later stages of development require tuning a large set of parameters that may not have labeled data available. For each training iteration and parameter selection decision, insight is needed into object detector performance. This work presents a visualization method called Space-Time Slicing to assist a human developer in the development of object detectors for driving applications without requiring labeled data. Space-Time Slicing reveals patterns in the detection data that can suggest the presence of false positives and false negatives. It may be used to set such parameters as image pixel size in data preprocessing and confidence thresholds for object classifiers by comparing performance across different conditions."
+    },
+    {
+        "title": "EngineQV: Investigating External Cause of Engine Failures Based on Geo-Temporal Association",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Yanchao Wang",
+            "Qian Zhang",
+            "Feng Lin",
+            "Hock Soon Seah"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00029",
+        "citation": 2,
+        "abstract": "The heart of every vehicle is its engine. Many factors, either internal or external, contribute to the aircraft engine's durability and lifespan. In this paper, we aim to assist the analyst with a qualitative analysis of the possible external cause of engine failures. We work closely with domain experts to study the domain knowledge, analyze challenging tasks, and abstract user requirements. We present EngineQV, a visualization system that integrates multiple geo-temporal engine-associated records. It provides intuitive exploration and understanding of the data from various aspects. The system features a dynamic query on the datasets and incorporates several customized interactive visualizations. A user may query a certain group of engines or compare multiple engine groups, identify an issue, and find its potential causes. The functionality and usability of EngineQV are evaluated by two case studies, through knowledge discovery from records of a single engine and visual comparison of multiple engines. The validity of the system is confirmed by expert feedback."
+    },
+    {
+        "title": "Jacob's Ladder: The User Implications of Leveraging Graph Pivots",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Alex Bigelow",
+            "Megan Monroe"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00014",
+        "citation": 1,
+        "abstract": "This paper reports on a simple visual technique that boils extracting a subgraph down to two operations-pivots and filters-that is agnostic to both the data abstraction, and its visual complexity scales independent of the size of the graph. The system's design, as well as its qualitative evaluation with users, clarifies exactly when and how the user's intent in a series of pivots is ambiguous-and, more usefully, when it is not. Reflections on our results show how, in the event of an ambiguous case, this innately practical operation could be further extended into \"smart pivots\" that anticipate the user's intent beyond the current step. They also reveal ways that a series of graph pivots can expose the semantics of the data from the user's perspective, and how this information could be leveraged to create adaptive data abstractions that do not rely as heavily on a system designer to create a comprehensive abstraction that anticipates all the user's tasks."
+    },
+    {
+        "title": "Scatterplot Summarization by Constructing Fast and Robust Principal Graphs from Skeletons",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "José Matute",
+            "Marcel Fischer",
+            "Alexandru C. Telea",
+            "Lars Linsen"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00018",
+        "citation": 1,
+        "abstract": "Principal curves are a long-standing and well-known method for summarizing large scatterplots. They are defined as self-consistent curves (or curve sets in the more general case) that locally pass through the middle of the scatterplot data. However, computing principal curves that capture well complex scatterplot topologies and are robust to noise is hard and/or slow for large scatterplots. We present a fast and robust approach for computing principal graphs (a generalization of principal curves for more complex topologies) inspired by the similarity to medial descriptors (curves locally centered in a shape). Compared to state-of-the-art methods for computing principal graphs, we outperform these in terms of computational scalability and robustness to noise and resolution. We also demonstrate the advantages of our method over other scatterplot summarization approaches."
+    },
+    {
+        "title": "Visual Analytics of Taxi Trajectory Data via Topical Sub-trajectories",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Sichen Jin",
+            "Yubo Tao",
+            "Yuyu Yan",
+            "Jin Xu",
+            "Hai Lin"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00027",
+        "citation": 1,
+        "abstract": "GPS-based taxi trajectories contain valuable knowledge about movement behaviors for transportation and urban planning. Topic modeling is an effective tool to extract semantic information from taxi trajectories. However, previous methods generally ignore the direction of trajectories. In this paper, we employ the bigram topic model instead of traditional topic models to analyze textualized trajectories to take into account the direction information of trajectories. We further propose a modified Apriori algorithm to extract frequent sub-trajectories and use them to represent each topic as topical sub-trajectories. Finally, we design a visual analytics system with several linked views to facilitate users to interactively explore topics, sub-trajectories, and trips. We demonstrate the effectiveness of our system via case studies with Chengdu taxi trajectory data."
+    },
+    {
+        "title": "The Role of Working Memory Capacity in Graph Reading Performance",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Ciara Fletcher",
+            "Weidong Huang",
+            "David Arness",
+            "Quang Vinh Nguyen"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00017",
+        "citation": 1,
+        "abstract": "We process information in memory and different people have different memory capacity. It is therefore important to understand possible impact of memory capacity when it comes to graph comprehension. In an attempt towards this direction, we conducted a user study investigating the impact of working memory capacity on graph reading task performance. Forty-six university students participated in the study performing a graph reading task with one hundred graph drawings of different complexity levels. Their working memory capacity and task performance (accuracy and time) were measured and recorded. The results of regression analyses indicated that working memory capacity was a significant predictor of performance accuracy, but not for response time. In this paper, we present the details of the study and discuss our findings and limitations of the study. Possible future research directions are also suggested."
+    },
+    {
+        "title": "Object-in-Hand Feature Displacement with Physically-Based Deformation",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Cheng Li",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00011",
+        "citation": 1,
+        "abstract": "Data deformation has been widely used in visualization to obtain an improved view that better helps the comprehension of the data. It has been a consistent pursuit to conduct interactive deformation by operations that are natural to users. In this paper, we propose a deformation system following the object-in-hand metaphor. We utilize a touchscreen to directly manipulate the shape of the data by using fingers. Users can drag data features and move them along with the fingers. Users can also press their fingers to hold other parts of the data fixed during the deformation, or perform cutting on the data using a finger. The deformation is executed using a physically-based mesh, which is constructed to incorporate data properties to make the deformation authentic as well as informative. By manipulating data features as if handling an object in hand, we can successfully achieve less occluded view of the data, or improved feature layout for better view comparison. We present case studies on various types of scientific datasets, including particle data, volumetric data, and streamlines."
+    },
+    {
+        "title": "CorFish: Coordinating Emphasis Across Multiple Views Using Spatial Distortion",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Gaëlle Richer",
+            "Romain Bourqui",
+            "David Auber"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00009",
+        "citation": 1,
+        "abstract": "In the context of multiple views, coordination is essential to navigate and grasp the relationships lying behind the different juxtaposed views. Linked highlighting is a typical example of coordination where a subset of the data points is emphasized simultaneously on all views. The strength of this approach is that the selected data can be studied within its context. Other approaches have been used to implement coordination such as using varying levels of transparency or visual links. We propose to use spatial distortion to contribute a similar effect in multiple views. It is particularly suited to the context of multiple views since it alleviates the lack of screen space by reallocating it based on a certain definition of user interest. The proposed method targets coordination between views that represent the same entities and readily adapts to various visualization forms. It is based on a user degree-of-interest function, defined on these entities, that acts as a common ground for the distortion of all views. Views are distorted such that empty areas and areas holding entities of lesser interest are compressed to the benefit of areas holding entities of higher interest. To demonstrate its feasibility and versatility, we describe how to technically apply our approach to several common visualization techniques."
+    },
+    {
+        "title": "An Interactive System for Exploring Historical Fire Data",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Maksim Gomov",
+            "Tarik Crnovrsanin",
+            "Keshav Dasu",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00040",
+        "citation": 0,
+        "abstract": "Wildfires cause immense costs to human life, property, and the environment. As the impact of climate change increases the frequency and severity of wildfires, a renewed effort to understand these phenomena and their catalysts has increased. In this paper, we introduce a system that couples multiple sources of data and visualization to enable analysts to study historical fire data. We show two use cases to demonstrate the effectiveness of our system."
+    },
+    {
+        "title": "Emoji and Chernoff - A Fine Balancing Act or are we Biased?",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Ricardo Colasanti",
+            "Rita Borgo",
+            "Mark W. Jones"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00020",
+        "citation": 0,
+        "abstract": "We seek to answer the question on whether different geometrical attributes within a glyph can bias interpretation of data. We focus on a specific visual encoding, the Emoji, and evaluate its effectiveness at encoding multidimensional features. Given the anthropomorphic nature of the encoding we seek to quantify the amount of bias the encoding itself introduces, and use this to balance the Emoji glyph to remove that bias. We perform our analysis by comparing Emoji with Chernoff faces, of which they can be seen as direct descendant. Results shed light on how this new approach of feature-tuning in glyph design can influence overall effectiveness of novel multidimensional encodings."
+    },
+    {
+        "title": "Visual Analytics of Dynamic Interplay Between Behaviors in MMORPGs",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Junhua Lu",
+            "Xiao Xie",
+            "Ji Lan",
+            "Tai-Quan Peng",
+            "Wei Chen",
+            "Yingcai Wu"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00021",
+        "citation": 0,
+        "abstract": "The rapid development of massively multiplayer online role-playing games (MMORPGs) has led operators to record huge amounts of fine-grained data from the in-game activities of players. These data provide considerable opportunities with which to study the dynamic interplay among player behaviors and investigate the roles of various social structures that underlie such interplay. However, modeling and visualizing these behavioral data remain a challenge. In this study, we propose a novel influence-susceptible model to measure the dynamic interplay among multiple behaviors. Based on this model, we introduce a new visual analytics system called BeXplorer. BeXplorer enables analysts to interactively explore the dynamic interplay between player purchase and communication behaviors and to examine the manner in which this interplay is bound by social structures where players are embedded."
+    },
+    {
+        "title": "Smart Survey Tool: A Multi Device Platform for Museum Visitor Tracking and Tracking Data Visualization",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Paul Craig",
+            "Yiwen Wang",
+            "Joon Sik Kim",
+            "Gang Chen",
+            "Yu Liu",
+            "Jiabei Li",
+            "Zhiqiang Gao",
+            "Gao Du"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00039",
+        "citation": 0,
+        "abstract": "This paper describes the Smart Survey Tool, a novel multi-device application for museum visitor tracking and tracking data visualization. The application allows museum staff to capture detailed information describing how visitors move around an exhibition and interact with individual exhibits. They can then visualize the results of tracking either on a single mobile device or with multiple mobile devices connected to a large display. The platform uses orthogonal views of the exhibition space for tracking and visualization, with a chess-piece icon to represent visitors during tracking, and curved semi-transparent lines with animated semi-circles to communicate the path and direction of visitor movement. Our visualization is novel in its use of an orthogonal projection for pedestrian tracking and animation to communicate the flow of visitors around the exhibition space, as well as allowing users to dynamically switch between views representing different groups of visitors. The design of our application was informed through an extensive requirements analysis study conducted with Nanjing Museum and evaluated by conducting expert interviews with museum managers who considered that the application allowed for more effective and efficient recording and analysis of visitor tracking data."
+    },
+    {
+        "title": "Visual Quality Guidance for Document Exploration with Focus+Context Techniques",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Qi Han",
+            "Dennis Thom",
+            "Markus John",
+            "Steffen Koch",
+            "Thomas Ertl",
+            "Florian Heimerl"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00026",
+        "citation": 0,
+        "abstract": "Magic lens based focus+context techniques are powerful means for exploring document spatializations. Typically, they only offer additional summarized or abstracted views on focused documents. As a consequence, users might miss important information that is either not shown in aggregated form or that never happens to get focused. In this work, we present the design process and user study results for improving a magic lens based document exploration approach with exemplary visual quality cues to guide users in steering the exploration and support them in interpreting the summarization results. We contribute a thorough analysis of potential sources of information loss involved in these techniques, which include the visual spatialization of text documents, user-steered exploration, and the visual summarization. With lessons learned from previous research, we highlight the various ways those information losses could hamper the exploration. Furthermore, we formally define measures for the aforementioned different types of information losses and bias. Finally, we present the visual cues to depict these quality measures that are seamlessly integrated into the exploration approach. These visual cues guide users during the exploration and reduce the risk of misinterpretation and accelerate insight generation. We conclude with the results of a controlled user study and discuss the benefits and challenges of integrating quality guidance in exploration techniques."
+    },
+    {
+        "title": "Uncertainty-Aware Ramachandran Plots",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Robin Georg Claus Maack",
+            "Christina Gillmann",
+            "Hans Hagen"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00034",
+        "citation": 0,
+        "abstract": "Ramachandran Plots are an important tool for researchers in bio-chemistry to examine the stability of a molecule. In these plots, dihedral (torsion) angles of the protein's backbone are visualized ona plane, where different areas are known to be stable configurations. Unfortunately, the underlying atom positions are affected by uncer-tainty, which is usually captured and expressed using the b-value. For classic Ramachandran Plots, this uncertainty is not propagatedwhen computing the dihedral angles and neglected when visualizinga Ramachandran Plot. To solve this problem, this paper presentsan extended version of the Ramachandran Plot, which allows tocommunicate the uncertainty of atom positions along the compu-tation of dihedral angles and an intuitive visualization. We showthe effectiveness of the presented approach by examining differentRamachandran Plots for molecules and show how the inclusion ofuncertainty helps biochemistry researchers to determine the stabilityof a protein with higher accuracy."
+    },
+    {
+        "title": "User Evaluation of Group-in-a-Box Variants",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "Nozomi Aoyama",
+            "Yosuke Onoue",
+            "Yuki Ueno",
+            "Hiroaki Natsukawa",
+            "Koji Koyamada"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00023",
+        "citation": 0,
+        "abstract": "Group-in-a-box (GIB) is a graph-drawing method designed to facilitate the visualization of the group structure of a graph. GIB allows the user to simultaneously view group sizes and inter-and intra-group structures. Several GIB variants have been proposed in the literature; however, their advantages and disadvantages have not been studied from the perspective of human cognition. Therefore, herein, we used eye tracking analysis and user surveys to evaluate the user experience of four GIB variants: Squarified-Treemap GIB(ST-GIB), Croissant-and-Doughnut GIB (CD-GIB), Force-Directed GIB (FD-GIB), and Tree-Reordered GIB (TR-GIB). We found some trade-offs among the methods for each type of user task and that FD-GIB and TR-GIB are superior than the other variants. Although ST-GIB's results were good, links were difficult to read in this graph layout. Eye-tracking data was gathered to determine which elements in each visualization significantly affected user experience. The results of this study will promote the effective use of GIB to analyze networks such as social networks or web graphs."
+    },
+    {
+        "title": "Visual Exploration of Circulation Rolls in Convective Heat Flows",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [
+            "A. Frasson",
+            "M. Ender",
+            "Sebastian Weiss",
+            "M. Kanzler",
+            "Amrish Pandey",
+            "Joerg Schumacher",
+            "Ruediger Westermann"
+        ],
+        "DOI": "10.1109/PacificVis.2019.00031",
+        "citation": 0,
+        "abstract": "We present techniques to improve the understanding of pattern forming processes in Rayleigh-Bénard-type convective heat transport, through visually guided exploration of convection features in time-averaged turbulent flows. To enable the exploration of roll-like heat transfer pathways and pattern-forming anomalies, we combine feature extraction with interactive visualization of particle trajectories. To robustly determine boundaries between circulation rolls, we propose ridge extraction in a z-averaged temperature field, and in the extracted ridge network we automatically classify topological point defects hinting at pattern forming instabilities. An importance measure based on the circular movement of particles is employed to automatically control the density of 3D trajectories and, thus, enable insights into the heat flow in the interior of rolls. A quantitative analysis of the heat transport within and across cell boundaries, as well as investigations of pattern instabilities in the vicinity of defects, is supported by interactive particle visualization including instant computations of particle density maps. We demonstrate the use of the proposed techniques to explore direct numerical simulations of the 3D Boussinesq equations of convection, giving novel insights into Rayleigh-Bénard-type convective heat transport."
+    },
+    {
+        "title": "[Publisher's information]",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2019.00066",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Committees",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2019.00007",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Program Committees",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2019.00008",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Welcome from the Chairs",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2019.00005",
+        "citation": 0,
+        "abstract": "Presents the introductory welcome message from the conference proceedings. May include the conference officers' congratulations to all involved with the conference event and publication of the proceedings record."
+    },
+    {
+        "title": "TVCG Guest Editors' Introduction",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2019.00006",
+        "citation": 0,
+        "abstract": "Presents the introductory welcome message from the conference proceedings. May include the conference officers' congratulations to all involved with the conference event and publication of the proceedings record."
+    },
+    {
+        "title": "[Title page i]",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2019.00001",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "[Title page iii]",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2019.00002",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "[Copyright notice]",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2019.00003",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "Table of contents",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2019.00004",
+        "citation": 0,
+        "abstract": "Presents the table of contents/splash page of the proceedings record."
+    },
+    {
+        "title": "Author index",
+        "conferenceTitle": "2019 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "23-26 April 2019",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2019.00065",
+        "citation": 0,
+        "abstract": "Presents an index of the authors whose articles are published in the conference proceedings record."
+    }
+]

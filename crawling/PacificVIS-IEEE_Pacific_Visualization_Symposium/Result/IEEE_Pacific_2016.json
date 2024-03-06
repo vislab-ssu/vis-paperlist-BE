@@ -1,0 +1,658 @@
+[
+    {
+        "title": "Semantic word cloud generation based on word embeddings",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Jin Xu",
+            "Yubo Tao",
+            "Hai Lin"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465278",
+        "citation": 21,
+        "abstract": "Word clouds have been widely used to present the contents and themes in the text for summary and visualization. In this paper, we propose a new semantic word cloud taking into account the word semantic meanings. Distributed word representation is applied to accurately describe the semantic meaning of words, and a word similarity graph is constructed based on the semantic distance between words to lay out words in a more compact and aesthetic manner. Word-related interactions are introduced to guide users fast read and understand the text. We apply the proposed word cloud to user generated reviews in different fields to demonstrate the effectiveness of our method."
+    },
+    {
+        "title": "Multilayer graph edge bundling",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Romain Bourqui",
+            "Dino Ienco",
+            "Arnaud Sallaberry",
+            "Pascal Poncelet"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465267",
+        "citation": 9,
+        "abstract": "Many real world information can be represented by a graph with a set of nodes interconnected with each other by multiple type of relations called edge layers (e.g., social network, biological data). Edge bundling techniques have been proposed to solve cluttering issue for standard graphs while few efforts were done to deal with the similar issue for multilayer graphs. In multilayer graphs scenario, not only the clutter induced by large amount of edges is a problem but also the fact that different type of edges can overlap each other making useless the final visualization. In this paper we introduce a new multilayer graph edge bundling technique that firstly produces a preliminary edge bundling independently of the different edge layers and then deals with the specificity of multilayer graphs where more than one type of edges can be routed on the same bundle. The proposed visualization is tested on a real world case study and the outcomes point out the ability of our proposal to discover patterns present in the data."
+    },
+    {
+        "title": "A design study of personal bibliographic data visualization",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Tsai-Ling Fung",
+            "Jia-Kai Chou",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465279",
+        "citation": 9,
+        "abstract": "This paper presents a comparative study on personal visualizations of bibliographic data. We consider three designs for egocentric visualization: node-link diagrams, adjacency matrices, and botanical trees to depict one's academic career in terms of his/her publication records. Case studies are conducted to compare the effectiveness of resulting visualizations for conveying particular aspect of a researcher's bibliographic records. Based on our study, we find that node-link diagrams are better at revealing the overall distribution of certain attributes; adjacency matrices can convey more information with less clutter; and botanical trees are visually attractive and provide the best at a glance characterization of the mapped data, but mapping data to tree features must be carefully done to derive expressive visualization."
+    },
+    {
+        "title": "Visualizing the variations of ensemble of isosurfaces",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Subhashis Hazarika",
+            "Soumya Dutta",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465272",
+        "citation": 9,
+        "abstract": "Visualizing the similarities and differences among an ensemble of isosurfaces is a challenging problem mainly because the isosurfaces cannot be displayed together at the same time. For ensemble of isosurfaces, visualizing these spatial differences among the surfaces is essential to get useful insights as to how the individual ensemble simulations affect different isosurfaces. We propose a scheme to visualize the spatial variations of isosurfaces with respect to statistically significant isosurfaces within the ensemble. Understanding such variations among ensemble of isosurfaces at different spatial regions is helpful in analyzing the influence of different ensemble runs over the spatial domain. In this regard, we propose an isosurface-entropy based clustering scheme to divide the spatial domain into regions of high and low isosurface variation. We demonstrate the efficacy of our method by successfully applying it on real-world ensemble data sets from ocean simulation experiments and weather forecasts."
+    },
+    {
+        "title": "Visual analysis of body movement in serious games for healthcare",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Oky Purwantiningsih",
+            "Arnaud Sallaberry",
+            "Sebastien Andary",
+            "Antoine Seilles",
+            "Jérôme Azé"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465276",
+        "citation": 6,
+        "abstract": "The advancement of motion sensing input devices has enabled the collection of multivariate time-series body movement data. Analyzing such type of data is challenging due to the large amount of data and the task of mining for interesting temporal movement patterns. To address this problem, we propose an interface to visualize and analyze body movement data. This visualization enables users to navigate and explore the evolution of movement over time for different movement areas. We also propose a clustering method based on hierarchical clustering to group similar movement patterns. The proposed visualization is illustrated with a case study which demonstrates the ability of the interface to analyze body movements."
+    },
+    {
+        "title": "Effects of curves on graph perception",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Weidong Huang",
+            "Peter Eades",
+            "Seok-Hee Hong",
+            "Henry Been-Lirn Duh"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465270",
+        "citation": 6,
+        "abstract": "Curves have long been used for graph visualization with increased popularity in recent years. Curves are mainly used for two purposes: one is to increase readability and the other is to enhance visual aesthetic pleasingness. Although curves can be visually pleasing, the introduction of curves in graph drawing does not increase readability automatically. Attempts have been made to investigate the usability of curved drawings. However, the results on the effect of curves per se on human graph comprehension has not been conclusive. This paper presents a user study that is to examine the effect of curves when they are introduced to remove crossings. Twenty-six participants were recruited to perform typical graph reading tasks. Task performance and user preference data were collected for analysis. The results indicate that curves can be a useful alternative when crossings are to be present in straight-line drawings. The findings of the study are also discussed along with some of our future research activities in this paper."
+    },
+    {
+        "title": "A Bayesian approach for probabilistic streamline computation in uncertain flows",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Wenbin He",
+            "Chun-Ming Chen",
+            "Xiaotong Liu",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465273",
+        "citation": 4,
+        "abstract": "Streamline-based techniques play an important role in visualizing and analyzing uncertain steady vector fields. It is a challenging problem to generate accurate streamlines in uncertain vector fields due to the global uncertainty transportation. In this work, we present a novel probabilistic method for streamline computation on uncertain steady vector fields using a Bayesian framework. In our framework, a streamline is modeled as a state space model which captures the spatial coherence of integration steps and uncertainty in local distributions using the conditional prior density and the likelihood function. To approximate the posterior distribution for all the possible traces originating from a given seed position, a set of weighted samples are iteratively updated from which streamlines with higher likelihood can be derived. We qualitatively and quantitatively compare our method with alternative methods on different types of flow field data sets. Our method can generate possible streamlines with higher certainty and hence more accurate flow traces."
+    },
+    {
+        "title": "Bookwall: Visualizing books online based on user experience in physical bookstores",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Hsin-I Chen",
+            "Wei-Ting Lin",
+            "Bing-Yu Chen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465280",
+        "citation": 2,
+        "abstract": "Online bookstores have highly thrived and changed consumer behaviors in these years. However, most customers go to online bookstores only when they have specific targets. One reason is that the current web interfaces are usually too complex and cluttered for users to browse. In addition, current visualization interfaces only display the results associated with a single attribute, thus requiring users to interact intensively to find their targets. Inspired by the user experiences (UX) in physical bookstores, we present Bookwall, an online bookstore interface which comprises two components: Category Map and Wall View, enabling users to find their targets more efficiently and releasing users from the burden of complicated operations. Specifically, the category map produces a map with a \"natural\" map-like look, providing an overview of the clusters and neighborhood of book categories. The wall view enables displaying query results satisfying dual query attributes simultaneously. The results show that Bookwall can provide the users a favourable alternative visualization."
+    },
+    {
+        "title": "Visualization of origin-destination matrices using a connection barchart and coordinated maps",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Juan C. Ibarra",
+            "John A. Triana",
+            "José T. Hernández"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465268",
+        "citation": 2,
+        "abstract": "The origin-destination matrix is an useful tool for traffic and transport analysis. This kind of matrices are increasing in volume and complexity due to the availability of new technologies to gather new information. In this project we present a novel way of representing origin-destination matrices using a connection barchart and two coordinated maps. The main goal is to use the connection Barchart as the center of the interactive visualization providing an overview of the dataset. Through interaction, the information about specific origin-destination nodes in the origin-destination matrix is shown in both the connection barchart and the coordinated maps, giving the user information about origin, destination, direction, and volume of flow. Additionally, an evaluation with users was conducted to test the usefulness and usability of the interactive visualization using real data for the RBT system in Bogota, Colombia."
+    },
+    {
+        "title": "A visual analytics approach for exploring individual behaviors in smartphone usage data",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Mingming Lu",
+            "Dan Meng",
+            "Yanni Peng",
+            "Yong Li",
+            "Ying Zhao",
+            "Xiaoping Fan",
+            "Fangfang Zhou"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465275",
+        "citation": 1,
+        "abstract": "The percentage of individuals frequently using their smartphones in work and life is increasing steadily. The interactions between individuals and their smartphones can produce large amounts of usage data, which contain rich information about smartphone owners usage habits and their daily life. In this paper, a visual analytic tool is proposed to discover and understand individual behavior patterns in smartphone usage data. Four cooperated visualization views and many interactions are provided in this tool to visually explore the temporal features of various interactive events between smartphones and their users, the hierarchical associations among event types, and the detailed distributions of massive event sequences. In the case studies, plenty of interesting patterns are discovered by analyzing the data of two smartphone users with different usage styles."
+    },
+    {
+        "title": "SepMe: 2002 New visual separation measures",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Michael Aupetit",
+            "Michael Sedlmair"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465244",
+        "citation": 35,
+        "abstract": "Our goal is to accurately model human class separation judgements in color-coded scatterplots. Towards this goal, we propose a set of 2002 visual separation measures, by systematically combining 17 neighborhood graphs and 14 class purity functions, with different parameterizations. Using a Machine Learning framework, we evaluate these measures based on how well they predict human separation judgements. We found that more than 58% of the 2002 new measures outperform the best state-of-the-art Distance Consistency (DSC) measure. Among the 2002, the best measure is the average proportion of same-class neighbors among the 0.35-Observable Neighbors of each point of the target class (short GONG 0.35 DIR CPT), with a prediction accuracy of 92.9%, which is 11.7% better than DSC. We also discuss alternative, well-performing measures and give guidelines when to use which."
+    },
+    {
+        "title": "EnsembleGraph: Interactive visual analysis of spatiotemporal behaviors in ensemble simulation data",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Qingya Shu",
+            "Hanqi Guo",
+            "Jie Liang",
+            "Limei Che",
+            "Junfeng Liu",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465251",
+        "citation": 20,
+        "abstract": "This paper presents a novel visual analysis tool, EnsembleGraph, which aims at helping scientists understand spatiotemporal similarities across runs in time-varying ensemble simulation data. We abstract the input data into a graph, where each node represents a region with similar behaviors across runs and nodes in adjacent time frames are linked if their regions overlap spatially. The visualization of this graph, combined with multiple-linked views showing details, enables users to explore, select, and compare the extracted regions that have similar behaviors. The driving application of this paper is the study of regional emission influences over tropospheric ozone, based on the ensemble simulations conducted with different anthropogenic emission absences using MOZART-4. We demonstrate the effectiveness of our method by visualizing the MOZART-4 ensemble simulation data and evaluating the relative regional emission influences on tropospheric ozone concentrations."
+    },
+    {
+        "title": "TravelDiff: Visual comparison analytics for massive movement patterns derived from Twitter",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Robert Krueger",
+            "Guodao Sun",
+            "Fabian Beck",
+            "Ronghua Liang",
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465266",
+        "citation": 20,
+        "abstract": "Geo-tagged microblog data covers billions of movement patterns on a global and local scale. Understanding these patterns could guide urban and traffic planning or help coping with disaster situations. We present a visual analytics system to investigate travel trajectories of people reconstructed from microblog messages. To analyze seasonal changes and events and to validate movement patterns against other data sources, we contribute highly interactive visual comparison methods that normalize and contrast trajectories as well as density maps within a single view. We also compute an adaptive hierarchical graph from the trajectories to abstract individual movements into higher-level structures. Specific challenges that we tackle are, among others, the spatio-temporal sparsity of the data, the volume of data varying by region, and a diverse mix of means of transportation. The applicability of our approach is presented in three case studies."
+    },
+    {
+        "title": "Interactive visual co-cluster analysis of bipartite graphs",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Panpan Xu",
+            "Nan Cao",
+            "Huamin Qu",
+            "John Stasko"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465248",
+        "citation": 19,
+        "abstract": "A bipartite graph models the relation between two different types of entities. It is applicable, for example, to describe persons' affiliations to different social groups or their association with subjects such as topics of interest. In these applications, it is important to understand the connectivity patterns among the entities in the bipartite graph. For the example of a bipartite relation between persons and their topics of interest, people may form groups based on their common interests, and the topics also can be grouped or categorized based on the interested audiences. Co-clustering methods can identify such connectivity patterns and find clusters within the two types of entities simultaneously. In this paper, we propose an interactive visualization design that incorporates co-clustering methods to facilitate the identification of node clusters formed by their common connections in a bipartite graph. Besides highlighting the automatically detected node clusters and the connections among them, the visual interface also provides visual cues for evaluating the homogeneity of the bipartite connections in a cluster, identifying potential outliers, and analyzing the correlation of node attributes with the cluster structure. The interactive visual interface allows users to flexibly adjust the node grouping to incorporate their prior knowledge of the domain, either by direct manipulation (i.e., splitting and merging the clusters), or by providing explicit feedback on the cluster quality, based on which the system will learn a parametrization of the co-clustering algorithm to better align with the users' notion of node similarity. To demonstrate the utility of the system, we present two example usage scenarios on real world datasets."
+    },
+    {
+        "title": "Screen-space silhouettes for visualizing ensembles of 3D isosurfaces",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Ismail Demir",
+            "Johannes Kehrer",
+            "Rüdiger Westermann"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465271",
+        "citation": 18,
+        "abstract": "Visualizing sets of isosurfaces from 3D scalar ensemble fields is a difficult task due to inherent occlusion effects, yet it is often required to analyze the uncertainty represented by such an ensemble. In this paper, we present a novel visualization technique for ensembles of isosurfaces based on screen-space silhouettes. By using silhouettes, the displayed information is reduced to avoid occlusions, yet the major shape of the surfaces can be maintained. Our approach preserves spatial coherence and does not make any assumption about the underlying surface distribution. By providing additional mechanisms, i.e., picking, clustering, cutting and animation, we enable the user to explore an ensemble of surfaces interactively."
+    },
+    {
+        "title": "Topology-inspired Galilean invariant vector field analysis",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Roxana Bujack",
+            "Mario Hlawitschka",
+            "Kenneth I. Joy"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465253",
+        "citation": 17,
+        "abstract": "Vector field topology is one of the most powerful flow visualization tools, because it can break down huge amounts of data into a compact, sparse, and easy to read description with little information loss. It suffers from one main drawback though: The definition of critical points, which is the foundation of vector field topology, is highly dependent on the frame of reference. In this paper we propose to consider every point as a critical point and locally adjust the frame of reference to the most persistent ones, that means the extrema of the determinant of the Jacobian. The result is not the extraction of one well-suited frame of reference, but the simultaneous visualization of the dominating frames of reference in the different areas of the flow field. Each of them could individually be perceived by an observer traveling along these critical points. We show all important ones at once."
+    },
+    {
+        "title": "Comparative visualization of vector field ensembles based on longest common subsequence",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Richen Liu",
+            "Hanqi Guo",
+            "Jiang Zhang",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465256",
+        "citation": 17,
+        "abstract": "We propose a longest common subsequence (LCSS)-based approach to compute the distance among vector field ensembles. By measuring how many common blocks the ensemble pathlines pass through, the LCSS distance defines the similarity among vector field ensembles by counting the number of shared domain data blocks. Compared with traditional methods (e.g., pointwise Euclidean distance or dynamic time warping distance), the proposed approach is robust to outliers, missing data, and the sampling rate of the pathline timesteps. Taking advantage of smaller and reusable intermediate output, visualization based on the proposed LCSS approach reveals temporal trends in the data at low storage cost and avoids tracing pathlines repeatedly. We evaluate our method on both synthetic data and simulation data, demonstrating the robustness of the proposed approach."
+    },
+    {
+        "title": "Geo word clouds",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Kevin Buchin",
+            "Daan Creemers",
+            "Andrea Lazzarotto",
+            "Bettina Speckmann",
+            "Jules Wulms"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465262",
+        "citation": 17,
+        "abstract": "Word clouds are a popular method to visualize the frequency of words in textual data. Nowadays many text-based data sets, such as Flickr tags, are geo-referenced, that is, they have an important spatial component. However, existing automated methods to generate word clouds are unable to incorporate such spatial information. We introduce geo word clouds: word clouds which capture not only the frequency but also the spatial relevance of words. Our input is a set of locations from one (or more) geographic regions with (possibly several) text labels per location. We aggregate word frequencies according to point clusters and employ a greedy strategy to place appropriately sized labels without overlap as close as possible to their corresponding locations. While doing so we \"draw\" the spatial shapes of the geographic regions with the corresponding labels. We experimentally explore trade-offs concerning the location of labels, their relative sizes and the number of spatial clusters. The resulting word clouds are visually pleasing and have a low error in terms of relative scaling and locational accuracy of words, while using a small number of clusters per label."
+    },
+    {
+        "title": "MovementSlicer: Better Gantt charts for visualizing behaviors and meetings in movement data",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Shrey Gupta",
+            "Maxime Dumas",
+            "Michael J. McGuffin",
+            "Thomas Kapler"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465265",
+        "citation": 16,
+        "abstract": "Movement data collected through GPS or other technologies is increasingly common, but is difficult to visualize due to overplotting and occlusion of movements when displayed on 2D maps. An additional challenge is the extraction of useful higher-level information (such as meetings) derived from the raw movement data. We present a design study of MovementSlicer, a tool for visualizing the places visited, and behaviors of, individual actors, and also the meetings between multiple actors. We first present a taxonomy of visualizations of movement data, and then consider tasks to support when analyzing movement data and especially meetings of multiple actors. We argue that Gantt charts have many advantages for understanding the movements and meetings of small groups of moving entities, and present the design of a Gantt chart that can nest people within locations or locations within people along the vertical axis, and show time along the horizontal axis. The rows of our Gantt chart are sorted by activity level and can be filtered using a weighted adjacency matrix showing meetings between people. Empty time intervals in the Gantt chart can be automatically folded, with smoothly animated transitions, yielding a multi-focal view. Case studies demonstrate the utility of our prototype."
+    },
+    {
+        "title": "Dimension reconstruction for visual exploration of subspace clusters in high-dimensional data",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Fangfang Zhou",
+            "Juncai Li",
+            "Wei Huang",
+            "Ying Zhao",
+            "Xiaoru Yuan",
+            "Xing Liang",
+            "Yang Shi"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465260",
+        "citation": 16,
+        "abstract": "Subspace-based analysis has increasingly become the preferred method for clustering high-dimensional data. A visually interactive exploration of subspaces and clusters is a cyclic process. Every meaningful discovery will motivate users to re-search subspaces that can provide improved clustering results and reveal the relationships among clusters that can hardly coexist in the original subspaces. However, the combination of dimensions from the original subspaces is not always effective in finding the expected subspaces. In this study, we present an approach that enables users to reconstruct new dimensions from the data projections of subspaces to preserve interesting cluster information. The reconstructed dimensions are included into an analytical workflow with the original dimensions to help users construct target-oriented subspaces which clearly display informative cluster structures. We also provide a visualization tool that assists users in the exploration of subspace clusters by utilizing dimension reconstruction. Several case studies on synthetic and real-world data sets have been performed to prove the effectiveness of our approach. Lastly, further evaluation of the approach has been conducted via expert reviews."
+    },
+    {
+        "title": "NetworkSeer: Visual analysis for social network in MOOCs",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Tongshuang Wu",
+            "Yuan Yao",
+            "Yuqing Duan",
+            "Xinzhi Fan",
+            "Huamin Qu"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465269",
+        "citation": 13,
+        "abstract": "The rising trend of MOOCs has attracted wide ranging research interests. Among all the existing studies related to MOOCs, most of them focus on individuals' study behaviors and evaluations (e.g., analysis on click streams for video-watching behavior exploration, etc.) for course design purposes. However, in addition to traditional course materials, MOOCs also provide interactive user forums to encourage students to seek help from peers, which endows the courses with social network formation and interaction. Thus, we present NetworkSeer to help evaluate why MOOC students use forums, and what they do. NetworkSeer visualizes interactions in the forum, including where, when the interactions happen, and why. It also enables filtering out un-targeted groups. A case study is conducted to demonstrate its usefulness."
+    },
+    {
+        "title": "A visual analytics approach to high-dimensional logistic regression modeling and its application to an environmental health study",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Chong Zhang",
+            "Jing Yang",
+            "F. Benjamin Zhan",
+            "Xi Gong",
+            "Jean D. Brender",
+            "Peter H. Langlois",
+            "Scott Barlowe",
+            "Ye Zhao"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465261",
+        "citation": 10,
+        "abstract": "In the domain of epidemiology, logistic regression modeling is widely used to explain the relationships among explanatory variables and dichotomous outcome variables. However, logistic regression modeling faces challenges such as overfitting, confounding, and multicollinearity when there is a large number of explanatory variables. For example, in the birth defect study presented in this paper, variable selection for building high quality models to identify risk factors from hundreds of pollutant variables is difficult. To address this problem, we propose a novel visual analytics approach to logistic regression modeling for high-dimensional datasets. It leverages the traditional modeling pipeline by providing (1) intuitive visualizations for inspecting statistical indicators and the relationships among the variables and (2) a seamless, effective dimension reduction pipeline for selecting variables for inclusion in high quality logistic regression models. A fully working prototype of this approach has been developed and successfully applied to the birth defect study, which illustrates its effectiveness and efficiency. Its application in an insurance policy study and feedback from domain experts further demonstrate its usefulness."
+    },
+    {
+        "title": "Efficient unsteady flow visualization with high-order access dependencies",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Jiang Zhang",
+            "Hanqi Guo",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465254",
+        "citation": 10,
+        "abstract": "We present a novel high-order access dependencies-based model for efficient pathline computation in unsteady flow visualization. By taking longer access sequences into account to model more sophisticated data access patterns in particle tracing, our method greatly improves the accuracy and reliability in data access prediction. In our work, high-order access dependencies are calculated by tracing uniformly seeded pathlines in both forward and backward directions in a preprocessing stage. The effectiveness of our approach is demonstrated through a parallel particle tracing framework with high-order data prefetching. Results show that our method achieves higher data locality and hence improves the efficiency of pathline computation."
+    },
+    {
+        "title": "An integrated visualization system for interactive analysis of large, heterogeneous cosmology data",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Annie Preston",
+            "Ramyar Ghods",
+            "Jinrong Xie",
+            "Franz Sauer",
+            "Nick Leaf",
+            "Kwan-Liu Ma",
+            "Esteban Rangel",
+            "Eve Kovacs",
+            "Katrin Heitmann",
+            "Salman Habib"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465250",
+        "citation": 9,
+        "abstract": "Cosmological simulations produce a multitude of data types whose large scale makes them difficult to thoroughly explore in an interactive setting. One aspect of particular interest to scientists is the evolution of groups of dark matter particles, or \"halos,\" described by merger trees. However, in order to fully understand subtleties in the merger trees, other data types derived from the simulation must be incorporated as well. In this work, we develop a novel interactive linked-view visualization system that focuses on simultaneously exploring dark matter halos, their hierarchical evolution, corresponding particle data, and other quantitative information. We employ a parallel remote renderer and a local merger tree selection tool so that users can analyze large data sets interactively. This allows scientists to assess their simulation code, understand inconsistencies in extracted data, and intuitively understand simulation behavior on all scales. We demonstrate the effectiveness of our system through a set of case studies on large-scale cosmological data from the HACC (Hardware/Hybrid Accelerated Cosmology Code) simulation framework."
+    },
+    {
+        "title": "A crowdsourcing system for integrated and reproducible evaluation in scientific visualization",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Rickard Englund",
+            "Sathish Kottravel",
+            "Timo Ropinski"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465249",
+        "citation": 8,
+        "abstract": "User evaluations have gained increasing importance in visualization research over the past years, as in many cases these evaluations are the only way to support the claims made by visualization researchers. Unfortunately, recent literature reviews show that in comparison to algorithmic performance evaluations, the number of user evaluations is still very low. Reasons for this are the required amount of time to conduct such studies together with the difficulties involved in participant recruitment and result reporting. While it could be shown that the quality of evaluation results and the simplified participant recruitment of crowdsourcing platforms makes this technology a viable alternative to lab experiments when evaluating visualizations, the time for conducting and reporting such evaluations is still very high. In this paper, we propose a software system, which integrates the conduction, the analysis and the reporting of crowdsourced user evaluations directly into the scientific visualization development process. With the proposed system, researchers can conduct and analyze quantitative evaluations on a large scale through an evaluation-centric user interface with only a few mouse clicks. Thus, it becomes possible to perform iterative evaluations during algorithm design, which potentially leads to better results, as compared to the time consuming user evaluations traditionally conducted at the end of the design process. Furthermore, the system is built around a centralized database, which supports an easy reuse of old evaluation designs and the reproduction of old evaluations with new or additional stimuli, which are both driving challenges in scientific visualization research. We will describe the system's design and the considerations made during the design process, and demonstrate the system by conducting three user evaluations, all of which have been published before in the visualization literature."
+    },
+    {
+        "title": "Rethinking sensitivity analysis of nuclear simulations with topology",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Dan Maljovec",
+            "Bei Wang",
+            "Paul Rosen",
+            "Andrea Alfonsi",
+            "Giovanni Pastore",
+            "Cristian Rabiti",
+            "Valerio Pascucci"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465252",
+        "citation": 8,
+        "abstract": "In nuclear engineering, understanding the safety margins of the nuclear reactor via simulations is arguably of paramount importance in predicting and preventing nuclear accidents. It is therefore crucial to perform sensitivity analysis to understand how changes in the model inputs affect the outputs. Modern nuclear simulation tools rely on numerical representations of the sensitivity information — inherently lacking in visual encodings — offering limited effectiveness in communicating and exploring the generated data. In this paper, we design a framework for sensitivity analysis and visualization of multidimensional nuclear simulation data using partition-based, topology-inspired regression models and report on its efficacy. We rely on the established Morse-Smale regression technique, which allows us to partition the domain into monotonic regions where easily interpretable linear models can be used to assess the influence of inputs on the output variability. The underlying computation is augmented with an intuitive and interactive visual design to effectively communicate sensitivity information to nuclear scientists. Our framework is being deployed into the multipurpose probabilistic risk assessment and uncertainty quantification framework RAVEN (Reactor Analysis and Virtual Control Environment). We evaluate our framework using a simulation dataset studying nuclear fuel performance."
+    },
+    {
+        "title": "ICLIC: Interactive categorization of large image collections",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Paul van der Corput",
+            "Jarke J. van Wijk"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465263",
+        "citation": 7,
+        "abstract": "We present a new approach for the analysis of large image collections. We argue that categorization plays an important role in this process, not only to label images as end result, but also during exploration. Furthermore, to increase the effectiveness and efficiency of the categorization process we enable the use of all available metadata, treated as multivariate data. We identified images, attributes, and categories as important aspects and integrated these in a system called ICLIC. The system consists of four views that are connected by the selection of images, which is a central action in the approach. By using a minimalist interface with only standard metaphors, users are enabled to use the system in short time. The system enables complex queries in a natural way, and it can deal with collections containing more than 100,000 images and more than 1,000 metadata attributes. This was confirmed by two evaluation cycles with domain experts."
+    },
+    {
+        "title": "A study of using motion for comparative visualization",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Chien-Hsin Hsueh",
+            "Jia-Kai Chou",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465274",
+        "citation": 5,
+        "abstract": "While the assessment of using motion in visualizations has been polarized, we conjecture that motion may be more effective in comparative visualizations if applied properly, especially when dealing with large amounts of multi-dimensional data. We have designed visualizations to represent driver behaviors. A series of user studies have been conducted to verify if adding motion to the static visualization can help users make comparisons and separate drastically different behaviors. Results show that adding motion indeed leads to shorter completion time and less cognitive workload."
+    },
+    {
+        "title": "Accelerated visualization of transparent molecular surfaces in molecular dynamics",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Adam Jurčík",
+            "Julius Parulek",
+            "Jiří Sochor",
+            "Barbora Kozlikova"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465258",
+        "citation": 5,
+        "abstract": "The reactivity of the biomolecular structures is highly influenced by their structural features. Thus, studying these features along with the exploration of their dynamic behavior helps to understand the processes ongoing in living cells. This can be reached by the visual representation of these processes as visualization is one of the most natural ways to convey such information. However, none of the currently available techniques provides the biochemists with an intuitive real-time representation of the dynamic movements of molecules and precise geometrical based extraction of their structural features performed instantly. In this paper we introduce such a technique enabling the user to compute and also to visualize the molecular surface along with inner voids. To obtain a better insight into the molecule, our technique enables to visualize the molecular surface transparently. The opacity can be adjusted by changing user-defined parameters in order to enhance the perception of the surfaces of inner voids. All integrated algorithms run in real-time which gives the user a big variety of exploration possibilities. The importance of our approach is even amplified with respect to the fact that currently the size of molecular dynamics simulations is increasing dramatically and offline rendering thus becomes impracticable. The usability of our technique was evaluated by the domain experts."
+    },
+    {
+        "title": "Fostering comparisons: Designing an interactive exhibit that visualizes marine animal behaviors",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Chien-Hsin Hsueh",
+            "Jacqueline Chu",
+            "Kwan-Liu Ma",
+            "Joyce Ma",
+            "Jennifer Frazier"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465282",
+        "citation": 4,
+        "abstract": "We share our challenges and lessons learned in designing our exhibit prototype that encourages museum visitors to learn about marine animal behaviors through interactive visualization and data exploration. Our intent is to have visitors draw comparisons between animal behaviors, similarly to how scientists would, to make insights and discoveries. In our efforts, we have designed a set of visual encodings around the Tagging of Pelagic Predator (TOPP) data set to create the appropriate abstractions of this rich and complex field data. We have incorporated Multiple External Representations (MERs) and tangible user interfaces (TUIs) to provide a complementary representation of the data and promote self-learning. Through the formative evaluation, we can identify a few strengths and weaknesses of our prototype design. Our evaluation results suggest that we are progressing in the right direction - we observed the public making some comparisons and inferences - but still require further design iterations to improve our visualization exhibit."
+    },
+    {
+        "title": "STAC: Enhancing stacked graphs for time series analysis",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Yun Wang",
+            "Tongshuang Wu",
+            "Chen Zhu-Tian",
+            "Qiong Luo",
+            "Huamin Qu"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465277",
+        "citation": 4,
+        "abstract": "Stacked graphs have been widely used to represent multiple time series simultaneously to show the changes of individual values and their aggregation over time. However, when the number of time series becomes very large, the layers representing time series with small values take up only very small proportions in the stacked graph, making them hard to trace. As a result, it is challenging for analysts to detect the correlation of individual layers and their aggregation, and find trend similarities and differences between layers solely with stacked graphs. In this paper, we study the correlations of individual layers, and their aggregation in time series data presented with stacked graphs, focusing on the local regions within any given time intervals. Specifically, we present STAC, an interactive visual analytics system, to help analysts gain insights into the correlations in stacked graphs. While preserving the original stacked shape, we further link a stacked graph with auxiliary views to facilitate the in-depth analysis of correlations in time series data. A case study based on a real-world dataset demonstrates the effectiveness of our system in gaining insights into time series data analysis and facilitating various analytical tasks."
+    },
+    {
+        "title": "Mathematical foundations of arc length-based aspect ratio selection",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Fubo Han",
+            "Yunhai Wang",
+            "Jian Zhang",
+            "Oliver Deussen",
+            "Baoquan Chen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465245",
+        "citation": 3,
+        "abstract": "The aspect ratio of a plot can strongly influence the perception of trends in the data. Arc length based aspect ratio selection (AL) has demonstrated many empirical advantages over previous methods. However, it is still not clear why and when this method works. In this paper, we attempt to unravel its mystery by exploring its mathematical foundation. First, we explain the rationale why this method is parameterization invariant and follow the same rationale to extend previous methods which are not parameterization invariant. As such, we propose maximizing weighted local curvature (MLC), a parameterization invariant form of local orientation resolution (LOR) and reveal the theoretical connection between average slope (AS) and resultant vector (RV). Furthermore, we establish a mathematical connection between AL and banking to 45 degrees and derive the upper and lower bounds of its average absolute slopes. Finally, we conduct a quantitative comparison that revises the understanding of aspect ratio selection methods in three aspects: (1) showing that AL, AWO and RV always perform very similarly while MS is not; (2) demonstrating the advantages in the robustness of RV over AL; (3) providing a counterexample where all previous methods produce poor results while MLC works well."
+    },
+    {
+        "title": "Comparative visualization of multiple time surfaces by planar surface reformation",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Andrea Brambilla",
+            "Paolo Angelelli",
+            "Øyvind Andreassen",
+            "Helwig Hauser"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465255",
+        "citation": 3,
+        "abstract": "Comparing time surfaces at different integration time points, or from different seeding areas, can provide valuable insight into transport phenomena of fluid flows. Such a comparative study is challenging due to the often convoluted shapes of these surfaces. We propose a new approach for comparative flow visualization based on time surfaces, which exploits the idea of embedding the surfaces in a carefully designed, reformed 2D visualization space. Such an embedding enables new opportunities for comparative flow visualization. We present three different strategies for comparative flow visualization that take advantage of the reformation. By reforming the time surfaces, we not only mitigate occlusion issues, but we can devote also the third dimension of the visualization space to the comparative aspects of the visualization. Our approach is effective in a variety of flow study cases. The direct comparison of individual time surfaces reveals small scale differences and fine details about the fluid's motion. The concurrent study of multiple surface families enables the identification and the comparison of the most prominent motion patterns. This work was developed in close collaboration with an expert in fluid dynamics, who assessed the potential usefulness of this approach in his field."
+    },
+    {
+        "title": "Visual monitoring of process runs: An application study for stored procedures",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Matthias Meyer",
+            "Fabian Beck",
+            "Steffen Lohmann"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465264",
+        "citation": 3,
+        "abstract": "Stored procedures are used in database systems to process and aggregate data. Hundreds of stored procedures often form a complex process network with documented and hidden dependencies that is difficult to understand, maintain, and debug. This paper introduces a novel approach to support such tasks by visually comparing a specific process run to other runs of the same process. The visualization is based on a force-directed node-link diagram arranged on a timeline. Color coding, histograms, and trend charts are used to highlight temporal deviations. The approach has been implemented as an interactive web application and used by professional database developers for solving realistic maintenance and debugging tasks. The feedback of these expert users confirms the usefulness and practical relevance of the approach."
+    },
+    {
+        "title": "Visualizing knots and braids with touchable 3D manipulatives",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Hui Zhang",
+            "Yiwen Zhong",
+            "Jade Jiang"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465247",
+        "citation": 2,
+        "abstract": "In this paper we present a mathematical knot/braid diagram interface that exploits 3D computer graphics, interactive visualization, and multi-touch technology to enhance one's intuitive experience with mathematical theory of knots. Our interaction model is based on the clever but simple geometric construction named the Reide-meister moves, which allows 3D topological manipulations using rather simple 2D moves. Multi-touch interfaces can provide a natural way for us to interact with the extra degrees of freedom that characterize knots' mathematical, physical, and arithmetic properties. Relative to a specialized mouse-driven interface, the proposed multi-touch interface is easier and more intuitive to learn, and our pilot study shows that knot and braid manipulation with multi-touch is much faster and more efficient. All these combine to show that interactive computer graphics methods and computer interfaces can be used to construct virtual manipulatives and meet the challenge of exploring abstract mathematical worlds."
+    },
+    {
+        "title": "An integrated geometric and topological approach to connecting cavities in biomolecules",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Talha Bin Masood",
+            "Vijay Natarajan"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465257",
+        "citation": 1,
+        "abstract": "Study of cavities and channels in molecular structure is a crucial step in understanding the function of biomolecules. Current tools and techniques for extracting these structural features are sensitive to uncertainties in atomic position and radii. In this paper, we study the problem of cavity extraction in biomolecules while taking into account such uncertainties. We propose an approach that connects user-specified cavities by computing an optimal conduit within the region occupied by the molecule. The conduit is computed using a topological representation of the occupied and empty regions and is guaranteed to satisfy well defined geometric optimality criteria. Visualization of the set of all cavities with multiple linked views serves as a useful interface for interactive extraction of stable cavities. We demonstrate the utility of the proposed method in successfully identifying biologically significant pathways between molecular cavities using several case studies."
+    },
+    {
+        "title": "A design study to identify inconsistencies in kinship information: The case of the 1000 Genomes project",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Michaël Aupetit",
+            "Ehsan Ullah",
+            "Reda Rawi",
+            "Halima Bensmail"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465281",
+        "citation": 1,
+        "abstract": "Genome Wide Association Studies (GWAS) examine genetic variants in different individuals to detect variants associated to specific diseases. The 1000 Genomes project is such a collaborative research effort to sequence the genomes of at least 1000 participants of 26 different ethnicities, to establish a detailed summary of human genetic variation. The kinship information is a measure of individuals ancestor relationships within the considered populations. We study the design of kinship data visualizations allowing the experts to discover anomalies in GWAS data. The visual analysis of the 1000 Genomes Project kinship data reveals inconsistencies which call for a deeper analysis of the data quality within this project."
+    },
+    {
+        "title": "Spot-tracking lens: A zoomable user interface for animated bubble charts",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Yueqi Hu",
+            "Tom Polk",
+            "Jing Yang",
+            "Ye Zhao",
+            "Shixia Liu"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465246",
+        "citation": 1,
+        "abstract": "Zoomable user interfaces are widely used in static visualizations and have many benefits. However, they are not well supported in animated visualizations due to problems such as change blindness and information overload. We propose the spot-tracking lens, a new zoomable user interface for animated bubble charts, to tackle these problems. It couples zooming with automatic panning and provides a rich set of auxiliary techniques to enhance its effectiveness. Our preliminary user studies suggested that, besides allowing users to examine detail information, it can be an engaging approach to exploratory analysis for dynamic data."
+    },
+    {
+        "title": "Interactive exploration of atomic trajectories through relative-angle distribution and associated uncertainties",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Harsh Bhatia",
+            "Attila G. Gyulassy",
+            "Valerio Pascucci",
+            "Martina Bremer",
+            "Mitchell T. Ong",
+            "Vincenzo Lordi",
+            "Erik W. Draeger",
+            "John E. Pask",
+            "Peer-Timo Bremer"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465259",
+        "citation": 0,
+        "abstract": "Exploration of atomic trajectories is fundamental to understanding and characterizing complex chemical systems important in many applications. For instance, any new insight into the mechanisms of ionic migration in catalytic materials could lead to a substantial increase in battery performance. A new statistical measure, called the relative-angle distribution, has been proposed to understand complex motion - whether Brownian, ballistic, or diffusive. The relative-angle distribution can be represented as a collection of 1D histograms, but is currently created in a slow, offline process, making any parameter exploration a tedious and time-consuming task. Furthermore, the resulting plot can hide uncertainty in both the data and the visualization. As a result, once rastered or printed at a fixed resolution, these histograms can be misleading. We present a new analysis tool for the exploration of atomic trajectories that combines an interactive histogram visualization with uncertainty information for both data and plotting errors, and is also linked to an interactive 3D display of trajectories. Our tool enables a holistic exploration of trajectories previously not feasible, with the potential for significant scientific impact. In collaboration with domain experts, we have deployed our tool ta analyze molecular dynamics simulations of lithium-ion diffusion. Users have found that the tool significantly accelerates the exploration process and have used it to validate a number of previously unconfirmed hypotheses."
+    },
+    {
+        "title": "Keynote speaker: Visualization analysis and design",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Tamara Munzner"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465242",
+        "citation": 4,
+        "abstract": "Computer-based visualization (vis) systems provide visual representations of datasets designed to help people carry out tasks more effectively. Visualization is suitable when there is a need to augment human capabilities rather than replace people with computational decision-making methods. The design space of possible vis idioms is huge, and includes the considerations of both how to create and how to interact with visual representations. Vis design is full of trade-offs, and most possibilities in the design space are ineffective for a particular task, so validating the effectiveness of a design is both necessary and difficult. Vis designers must take into account three very different kinds of resource limitations: those of computers, of humans, and of displays. Vis usage can be analyzed in terms of why the user needs it, what data is shown, and how the idiom is designed. I will discuss this framework for analyzing the design of visualization systems."
+    },
+    {
+        "title": "Keynote speaker: Visualization for deep learning training",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [
+            "Tzi-Cker Chiueh"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2016.7465243",
+        "citation": 1,
+        "abstract": "The enormous successes of deep learning in many domains such as video, audio, speech, text, sequence, etc. has swept the aca-demia and industry alike, to the extent that many are touting deep learning training as an alternative form of programming future applications. Amid this excitement lies a more sombre question: if training for deep learning models is compared to software coding, what is the integrated development environment (IDE) for deep learning training? Specifically, what are the debugging and analysis tools required for manually refining and evolving a deep learning model towards its final form? In this presentation, I will survey related work in this area and outline the visualization requirements of a deep learning IDE that we are currently working on."
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC)",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2016.7465239",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Symposium organizing committee",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2016.7465240",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Chair message",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2016.7465238",
+        "citation": 0,
+        "abstract": "Presents the introductory welcome message from the conference proceedings. May include the conference officers' congratulations to all involved with the conference event and publication of the proceedings record."
+    },
+    {
+        "title": "Sponsors & supporters",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2016.7465237",
+        "citation": 0,
+        "abstract": "The conference organizers greatly appreciate the support of the various corporate sponsors listed."
+    },
+    {
+        "title": "Paper reviewers",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2016.7465241",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "[Title page]",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2016.7465234",
+        "citation": 0,
+        "abstract": "The following topics are dealt with: perception and user interaction; graph visualization; flow topology visualization; flow field visualization; molecular visualization; high dimensional, text and image visualization; behavior and pattern visualization; and visual analytics."
+    },
+    {
+        "title": "Contents",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2016.7465236",
+        "citation": 0,
+        "abstract": "Presents the table of contents/splash page of the proceedings record."
+    },
+    {
+        "title": "[Copyright notice]",
+        "conferenceTitle": "2016 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "19-22 April 2016",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2016.7465235",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    }
+]

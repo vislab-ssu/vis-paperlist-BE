@@ -1,0 +1,450 @@
+[
+    {
+        "title": "NCARVis: No-Code Visualization Creation System based on Free-hand",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Kehan Cheng",
+            "Jiansu Pu",
+            "Zhuoyue Cheng",
+            "Jinyue Huang",
+            "Xunchao Cong"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00007",
+        "citation": 0,
+        "abstract": "A low-code development platform (LCDP) is an efficient way to reduce the learning curve for programming languages. It provides a graphical user interface and configurable environment for application building. Users can focus on the design and functionality parts rather than the technical details of programming languages. This can lead to a faster and more efficient development process. However, most of the low-code platforms are mainly used on web pages through traditional interactive devices like mouse and keyboard. To the best of our knowledge, we found there are currently few tools for creating visual interfaces using free-hand manipulation in AR. Interactions in current AR are mostly limited to the two-dimensional display space of screens. Thus, we propose NCARVis, a LCDP that is a novel visualization interface-creating system, it can help users create and show visualization without any programming skills. To provide an environment for creating visualization in NCARVis, we have proposed an initial prototype (MARLP) that changes the interaction method of only touching the 2D screen in the traditional AR scene and provides more interaction methods in AR. Users can freely explore virtual worlds through it, interacting in different directions, and have more creative space to place all diagrams than a 2D scene. We present two tasks for five users without any programming skills to evaluate the usability and effectiveness of NCARVis in visualization creation and design. And we compare NCARVis with a graphical low-code development platform to evaluate the advantages of NCARVis on learning cost. We plan to explore more interesting interactive experiences and visualization design in the future."
+    },
+    {
+        "title": "Visually Guided Network Reconstruction Using Multiple Embeddings",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Daniel Witschard",
+            "Ilir Jusufi",
+            "Kostiantyn Kucher",
+            "Andreas Kerren"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00031",
+        "citation": 0,
+        "abstract": "Embeddings are powerful tools for transforming complex and unstructured data into numeric formats suitable for computational analysis tasks. In this paper, we extend our previous work on using multiple embeddings for text similarity calculations to the field of networks. The embedding ensemble approach improves network reconstruction performance compared to single-embedding strategies. Our visual analytics methodology is successful in handling both text and network data, which demonstrates its generalizability beyond its originally presented scope."
+    },
+    {
+        "title": "Feature Learning for Nonlinear Dimensionality Reduction toward Maximal Extraction of Hidden Patterns",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Takanori Fujiwara",
+            "Yun-Hsin Kuo",
+            "Anders Ynnerman",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00021",
+        "citation": 4,
+        "abstract": "Dimensionality reduction (DR) plays a vital role in the visual analysis of high-dimensional data. One main aim of DR is to reveal hidden patterns that lie on intrinsic low-dimensional manifolds. However, DR often overlooks important patterns when the manifolds are distorted or masked by certain influential data attributes. This paper presents a feature learning framework, FEALM, designed to generate a set of optimized data projections for nonlinear DR in order to capture important patterns in the hidden manifolds. These projections produce maximally different nearest-neighbor graphs so that resultant DR outcomes are significantly different. To achieve such a capability, we design an optimization algorithm as well as introduce a new graph dissimilarity measure, named neighbor-shape dissimilarity. Additionally, we develop interactive visualizations to assist comparison of obtained DR results and interpretation of each DR result. We demonstrate FEALM’s effectiveness through experiments and case studies using synthetic and real-world datasets."
+    },
+    {
+        "title": "LabelVizier: Interactive Validation and Relabeling for Technical Text Annotations",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Xiaoyu Zhang",
+            "Xiwei Xuan",
+            "Alden Dima",
+            "Thurston Sexton",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00026",
+        "citation": 2,
+        "abstract": "With the rapid accumulation of text data produced by data-driven techniques, the task of extracting \"data annotations\"—concise, high-quality data summaries from unstructured raw text—has become increasingly important. The recent advances in weak supervision and crowd-sourcing techniques provide promising solutions to efficiently create annotations (labels) for large-scale technical text data. However, such annotations may fail in practice because of the change in annotation requirements, application scenarios, and modeling goals, where label validation and relabeling by domain experts are required. To approach this issue, we present LabelVizier, a human-in-the-loop workflow that incorporates domain knowledge and user-specific requirements to reveal actionable insights into annotation flaws, then produce better-quality labels for large-scale multi-label datasets. We implement our workflow as an interactive notebook to facilitate flexible error profiling, in-depth annotation validation for three error types, and efficient annotation relabeling on different data scales. We evaluated our workflow in assisting the validation and relabelling of technical text annotation with two use cases and four expert reviews. The results show that LabelVizier is applicable in various application scenarios, and users with different knowledge backgrounds have diverse preferences for the tool usage."
+    },
+    {
+        "title": "Dimensionality Explorer for Single-Cell Analysis",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Haejin Jeong",
+            "Hyoung-oh Jeong",
+            "Semin Lee",
+            "Won-Ki Jeong"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00013",
+        "citation": 1,
+        "abstract": "Single-cell RNA sequencing (scRNA-seq) is becoming popular in studying the gene expression of cells at the single-cell level. ScRNA-seq enables analysts to characterize cell types, thereby providing a better understanding of dynamic biological processes. In scRNA-seq data analysis, principal component analysis (PCA) is commonly used to reduce at least thousands of dimensions in the raw data to a manageable size so that analysts can visualize and cluster cells to identify different cell types. The conventional process to determine the optimal dimensionality includes a laborious manual review of hundreds of different projection plots. To address this problem, we introduce a dimensionality explorer for single-cell analysis, which is a visualization system that helps analysts to effectively determine the optimal dimensionality of scRNA-seq data. It employs a hull heatmap, which provides a holistic view of overlaps among multiple cell types across various dimensionalities using a convex hull-embedded color map. The hull heatmap effectively reduces the burden of manually reviewing hundreds of projection plots to determine the optimal dimensionality. Our system also provides interactive gene expression level visualization and intuitive lasso selection, thereby allowing analysts to progressively refine the convex hulls of the hull heatmap. We demonstrate the usefulness of the proposed system through a user study and three case studies conducted by domain experts."
+    },
+    {
+        "title": "Studies of Part-to-Whole Glanceable Visualizations on Smartwatch Faces",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Tanja Blascheck",
+            "Lonni Besançon",
+            "Anastasia Bezerianos",
+            "Bongshin Lee",
+            "Alaul Islam",
+            "Tingying He",
+            "Petra Isenberg"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00028",
+        "citation": 1,
+        "abstract": "We present three studies that investigate the effectiveness of multiple glanceable part-to-whole proportion representations on smartwatch faces. Our goal was to understand how quickly and accurately people can make judgments about their progress toward multiple goals displayed in a small space. We designed our three studies with increasing external validity. The first study compared bar charts, radial bar charts, and text representations—shown with a digital time display. The second study added an analog time dial as a distractor to increase the complexity of the watch face. To emulate realistic viewing conditions, the third study investigated the effect of viewing angles. In Study 1 bar and radial bar charts outperformed text representations, in Study 2 adding an analog time dial as a distractor did not affect task performance, and in Study 3 only the most extreme angle led to some performance decrease. Supplementary material is available at https://osf.io/ad2z7/."
+    },
+    {
+        "title": "MetaStackVis: Visually-Assisted Performance Evaluation of Metamodels",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Ilya Ploshchik",
+            "Angelos Chatzimparmpas",
+            "Andreas Kerren"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00030",
+        "citation": 1,
+        "abstract": "Stacking (or stacked generalization) is an ensemble learning method with one main distinctiveness from the rest: even though several base models are trained on the original data set, their predictions are further used as input data for one or more metamodels arranged in at least one extra layer. Composing a stack of models can produce high-performance outcomes, but it usually involves a trial-and-error process. Therefore, our previously developed visual analytics sys-tem, StackGenVis, was mainly designed to assist users in choosing a set of top-performing and diverse models by measuring their predictive performance. However, it only employs a single logistic regression metamodel. In this paper, we investigate the impact of alternative metamodels on the performance of stacking ensembles using a novel visualization tool, called MetaStackVis. Our interactive tool helps users to visually explore different singular and pairs of metamodels according to their predictive probabilities and multiple validation metrics, as well as their ability to predict specific problematic data instances. MetaStackVis was evaluated with a usage scenario based on a medical data set and via expert interviews."
+    },
+    {
+        "title": "A Visual Analytics Inspired Approach to Correlate and Understand Multiple Mechanical Tensor Fields",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Vanessa Kretzschmar",
+            "Gerik Scheuermann",
+            "Markus Stommel",
+            "Christina Gillmann"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00019",
+        "citation": 0,
+        "abstract": "We develop an interactive approach for analyzing multi-field tensor data from simulations in close collaboration with domain scientists. Our approach is based on extensive application analysis and built around a multi-field clustering addressing multiple user-defined quantities which were required by the domain scientists. Established techniques like linked views complement the approach to support reasoning while offering an overview and detailed insight into the multi-field tensor data. Further, we include an evaluation containing a real-world use case and a user study with domain scientists to demonstrate the usefulness compared to existing tools."
+    },
+    {
+        "title": "Understanding People’s Needs in Viewing Diverse Social Opinions about Controversial Topics",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Hayeong Song",
+            "Zhengyang Qi",
+            "John Stasko",
+            "Diyi Yang"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00008",
+        "citation": 0,
+        "abstract": "Social media (i.e., Reddit) users are overloaded with people’s opinions when viewing discourses about divisive topics. Traditional user interfaces in such media present those opinions in a linear structure, which can limit users in viewing diverse social opinions at scale. Prior work has recognized this limitation, that the linear structure can reinforce biases, where a certain point of view becomes widespread simply because many viewers seem to believe it. This limitation can make it difficult for users to have a truly conversational mode of mediated discussion. Thus, when designing a user interface for viewing people’s opinions, we should consider ways to mitigate selective exposure to information and polarization of opinions. We conducted a needs-finding study with 11 Reddit users, who follow climate change threads and make posts and comments regularly. In the study, we aimed to understand key limitations in people viewing online controversial discourses and to extract design implications to address these problems. Our findings discuss potential future directions to address these problems."
+    },
+    {
+        "title": "MySemCloud: Semantic-aware Word Cloud Editing",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Michael Huber",
+            "Martin Nöllenburg",
+            "Anaïs Villedieu"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00024",
+        "citation": 0,
+        "abstract": "Word clouds are a popular text visualization technique that summarize an input text by displaying its most important words in a compact image. The traditional layout methods do not take proximity effects between words into account; this has been improved in semantic word clouds, where relative word placement is controlled by edges in a word similarity graph. We introduce MySemCloud, a new human-in-the-loop tool to visualize and edit semantic word clouds. MySemCloud lets users perform computer-assisted local moves of words, which improve or at least retain the semantic quality. To achieve this, we construct a word similarity graph on which a system of forces is applied to generate a compact initial layout with good semantic quality. The force system also allows us to maintain these attributes after each user interaction, as well as preserve the user’s mental map. The tool provides algorithmic support for the editing operations to help the user enhance the semantic quality of the visualization, while adjusting it to their personal preference. We show that MySemCloud provides high user satisfaction as well as permits users to create layouts of higher quality than state-of-the-art semantic word cloud generation tools."
+    },
+    {
+        "title": "Toward Reproducible Visual Analysis Results",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Max Franke",
+            "Guido Reina",
+            "Steffen Koch"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00018",
+        "citation": 0,
+        "abstract": "In visualization research, reproducibility is often not taken into account as a design goal. Reproducibility is desirable beyond ensuring scientific rigor: In the long-term, it helps advance sustainable visualization research, and in the short-term, it supports domain experts using the visualizations in their daily work. Designing for and ensuring reproducibility introduces costs, such as as storage cost or infrastructure maintenance. We propose a typology of reproducibility aspects that can be considered during visualization design. We then propose practical strategies to improve reproducibility and discuss their initial and running costs, their limits, and their tradeoffs. Finally, we discuss three concrete visualization approaches in the context of our typology and strategies."
+    },
+    {
+        "title": "Investigating Animal Infectious Diseases with Visual Analytics",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Yun-Hsin Kuo",
+            "Beatriz Martínez-López",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00015",
+        "citation": 0,
+        "abstract": "Animal infectious diseases interfere with the sustainability of livestock farming. Developing comprehensive strategies for disease prevention and control requires professionals to study livestock farms from a variety of data sources, such as veterinary medical tests, financial reports, and animal movements between farms. However, investigating animal health surveillance is challenging as the collected data is often heterogeneous, high-dimensional, and spatio-temporal. Furthermore, data missingness, one common challenge in disease surveillance, can limit the effectiveness of the analysis and induce the misinterpretation of the result due to the lack of uncertainty representation. In this paper, we present a visual analytics interface of coordinated views that supports investigating disease outbreaks by connecting the relationships of livestock farms from different aspects — geospatial, transactional, and financial. Coupled with unsupervised machine learning methods, we infer the health status of a farm, despite the absence of its diagnostic history, with uncertainty and provide interpretability to such inferences. With these functionalities, we further quantify the influence of a disease outbreak, severity and scale, guiding the user toward investigating important outbreaks. We demonstrate the analysis capability of our visual analytics interface with multiple use cases on a real-world swine production dataset."
+    },
+    {
+        "title": "NFTVis: Visual Analysis of NFT Performance",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Fan Yan",
+            "Xumeng Wang",
+            "Ketian Mao",
+            "Wei Zhang",
+            "Wei Chen"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00016",
+        "citation": 0,
+        "abstract": "A non-fungible token (NFT) is a data unit stored on the blockchain. Nowadays, more and more investors and collectors (NFT traders), who participate in transactions of NFTs, have an urgent need to assess the performance of NFTs. However, there are two challenges for NFT traders when analyzing the performance of NFT. First, the current rarity models have flaws and are sometimes not convincing. In addition, NFT performance is dependent on multiple factors, such as images (high-dimensional data), history transactions (network), and market evolution (time series). It is difficult to take comprehensive consideration and analyze NFT performance efficiently. To address these challenges, we propose NFTVis, a visual analysis system that facilitates assessing individual NFT performance. A new NFT rarity model is proposed to quantify NFTs with images. Four well-coordinated views are designed to represent the various factors affecting the performance of the NFT. Finally, we evaluate the usefulness and effectiveness of our system using two case studies and user studies."
+    },
+    {
+        "title": "How Can We Improve Data Quality for Machine Learning? A Visual Analytics System using Data and Process-driven Strategies",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Hyein Hong",
+            "Sangbong Yoo",
+            "Yejin Jin",
+            "Yun Jang"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00020",
+        "citation": 0,
+        "abstract": "ML (Machine learning) models are used to mine inconspicuous information in big data. The model and data quality influence the performance of a machine-learning model. However, it is inefficient to modify the model, which is a black box, and low-quality data tends to cause biased learning of the model. Therefore, it is crucial to improve the data quality. Different techniques have been used to improve data quality depending on the data conditions and the data quality issues. Therefore, improving data quality is time-consuming and challenging for users with insufficient knowledge of data. Visual analytics techniques have been proposed to focus on decision support to improve data quality. However, existing studies are complicated for users to consider a comprehensive DQI (Data Quality Improvement) method for generating data suitable for ML models. Also, it remains limited in that users must directly consider all combinations of DQI processes. This paper presents a novel visual analytics system that manages data quality for use in ML models. The proposed system suggests an optimal quality improvement process with visualization techniques such as heatmap, histogram, and scatter plot to support DQI."
+    },
+    {
+        "title": "An Empirical Guide for Visualization Consistency in Multiple Coordinated Views",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Shaocong Tan",
+            "Chufan Lai",
+            "Xiaolong Luke Zhang",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00011",
+        "citation": 0,
+        "abstract": "Visual analytic systems usually provide multiple coordinated views (MCVs) to support data analysis and exploration. Coordination in visual graphics plays an important role in facilitating comprehensive analytical tasks, such as data comparison and cognitive inference. However, individual views in MCVs are probably designed for a specific purpose based on a particular type of data, and insufficient consideration of the intricate relationships among views may lead to inconsistency in visual representation and user interaction across different views. To better understand the inconsistency issues in MCVs and their impacts on user behaviors, this paper reports a study on the analysis and classification of visualization inconsistency based on the reviews of interactive visualization designs and visual analytic systems, and the interviews with stakeholders. We find that inconsistencies are prevalent in MCVs and frequently lead to misleading or even incorrect results. We classify the discovered inconsistencies based on a coordination model of MCVs, and develop an empirical guide for systematic and efficient visualization consistency checking in the design, implementation, and evaluation stage."
+    },
+    {
+        "title": "Interactive Transformations and Visual Assessment of Noisy Event Sequences: An Application in En-Route Air Traffic Control",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Peilin Yu",
+            "Aida Nordman",
+            "Lothar Meyer",
+            "Supathida Boonsong",
+            "Katerina Vrotsou"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00017",
+        "citation": 0,
+        "abstract": "Real-world event sequence data, such as activity logs, eye-tracking data, simulation data, and electronic health records, often share characteristics such as a large alphabet of events, fragmentation, noise, and high complexity which makes them difficult to analyze in their raw form. Because of this, simplification and preprocessing through various data transformations are commonly required before the data can be effectively visualized and analyzed. Existing methods for such data transformation are either manually applied and rely heavily on user expertise, or use algorithmic approaches to apply bulk operations which can imply the loss of potentially important information without users being aware. To bridge this gap, we propose a visual analytics approach that aims to successively increase the quality of noisy event sequences by supporting an interactive, context-aware application of data transformations. This is achieved by providing cues concerning the potential loss of information that transformation operations may imply and allowing users to explore, and visually assess their impact on the data. Therefore, a central feature of the approach is that users can tune the data transformation process so that important identified data characteristics are preserved. We motivate the proposed approach in the domain of air traffic control and illustrate it through a usage example, using event sequences derived by merging eye-tracking and simulator data from a human-in-the-loop simulation experiment with 14 air traffic controllers."
+    },
+    {
+        "title": "Visualizing Interaction Networks and Evidence in Biomedical Corpora",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Enrique Noriega-Atala",
+            "Md. Rahat-Uz-Zaman",
+            "Ruchika Bhat",
+            "Mladen Jergovic",
+            "Stephen G. Kobourov",
+            "Janko Nikolich-Zugich"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00012",
+        "citation": 0,
+        "abstract": "The abundance of scientific articles published and indexed in publicly accessible repositories has spurred the research and development of automated information extraction systems. The output of such systems can be used to assemble large networks capturing the understanding of mechanistic pathways and their interactions as represented in the underlying body of research.We describe a system designed to help researchers search, visualize and interact with biological networks derived via information extraction tools. As input, the system takes a dataset of biological and biochemical interactions automatically generated by an information extraction system and provides an interface designed to search, visualize and interact with the data. The usage paradigm consists of identifying a starting point for a search, then using the data’s network structure by incrementally exploring the immediate neighborhood of the elements displayed by the system.Our system differs from prior work as it leverages both the network structure in the data and the natural language text backing those connections: every connection displayed is traceable back to the documents and phrases in the corpus that support that specific piece of information. We also present two case studies with immunobiology researchers using the system to find previously unknown relationships between biological entities. While the evidence suggesting these relationships already existed, it was scattered across the literature, and existing specialized web databases and domain-search engines could not find it. The system is open-source, with the code publicly available on GitHub."
+    },
+    {
+        "title": "A Study of Zooming, Interactive Lenses and Overview+Detail Techniques in Collaborative Map-based Tasks",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Yu Liu",
+            "Zhichao Zhang",
+            "Yushan Pan",
+            "Yue Li",
+            "Hai-Ning Liang",
+            "Paul Craig",
+            "Lingyun Yu"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00009",
+        "citation": 0,
+        "abstract": "The support for multi-focus data exploration is vital in collaborative visualization. In these scenarios, which often involve multiple devices and large displays, users may focus on specific information on their individual screens while also sharing contextual views with others. While many visualization techniques developed for single-user applications can be adapted for use in collaborative settings, little research has been done on how to design adaptive versions of these techniques or how they may impact collaborative tasks involving large datasets. In this work, we perform a comparative study of three collaborative visualization techniques (Zooming, Interactive lenses and Overview+Detail) on large displays in three map-based visualization tasks (Exploration, Comparison and Spatial Memorizing). These three collaborative techniques draw on three different classical visualization techniques in a single-user setting. Our results show that these techniques have different impacts on users’ task performance and preferences. The collaborative Overview+Detail technique benefits users most in supporting Spatial Memorizing. Closely coupled groups prefer collaborative Zooming in Target Exploration. Based on these results, we further discuss the design of collaborative visualization techniques and propose suggestions for adapting classical single-user visualization techniques to a collaborative setting."
+    },
+    {
+        "title": "Edit-History Vis: An Interactive Visual Exploration and Analysis on Wikipedia Edit History",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Yuhan Guo",
+            "Qin Han",
+            "Yuke Lou",
+            "Yiming Wang",
+            "Can Liu",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00025",
+        "citation": 0,
+        "abstract": "We propose Edit-History Vis, a visual analytics system designed to facilitate interactive exploration on Wikipedia edit history at a fine-grained level. The examination of detailed changes in Wikipedia articles is crucial for understanding how authors’ perspectives vary and conflict during the collaborative editing process. However, it is challenging to reveal the details while preserving the heterogeneous attributes of revisions, namely the time, content, and editor. The Edit-History Vis system integrates editor and textual changes of revisions by utilizing a force-directed revision graph that groups revisions based on standpoints. Through this revision graph, users can identify and analyze editing events such as edit wars, vandalism, repair, and normal updates. The effectiveness of the system in analyzing the edit history is validated through a qualitative comparison with prior work and a quantitative rating from a user study."
+    },
+    {
+        "title": "Efficient Raycasting of Volumetric Depth Images for Remote Visualization of Large Volumes at High Frame Rates",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Aryaman Gupta",
+            "Ulrik Günther",
+            "Pietro Incardona",
+            "Guido Reina",
+            "Steffen Frey",
+            "Stefan Gumhold",
+            "Ivo F. Sbalzarini"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00014",
+        "citation": 0,
+        "abstract": "We present an efficient raycasting algorithm for rendering Volumetric Depth Images (VDIs), and we show how it can be used in a remote visualization setting with VDIs generated and streamed from a remote server. VDIs are compact view-dependent volume representations that enable interactive visualization of large volumes at high frame rates by decoupling viewpoint changes from expensive rendering calculations. However, current rendering approaches for VDIs struggle with achieving interactive frame rates at high image resolutions. Here, we exploit the properties of perspective projection to simplify intersections of rays with the view-dependent frustums in a VDI and leverage spatial smoothness in the volume data to minimize memory accesses. Benchmarks show that responsive frame rates can be achieved close to the viewpoint of generation for HD display resolutions, providing high-fidelity approximate renderings of Gigabyte-sized volumes. We also propose a method to subsample the VDI for preview rendering, maintaining high frame rates even for large viewpoint deviations. We provide our implementation as an extension of an established open-source visualization library."
+    },
+    {
+        "title": "GraphDescriptor: Augmenting Node-Link Diagrams With Textual Descriptions",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Jiacheng Pan",
+            "Zihan Yan",
+            "Zihan Zhou",
+            "Xiaodong Zhao",
+            "Shenghui Cheng",
+            "Dongming Han",
+            "Jian Chen",
+            "Mingliang Xu",
+            "Wei Chen"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00027",
+        "citation": 0,
+        "abstract": "Node-link diagrams are the most popular form for graph visualization. Yet, salient information of a node-link diagram cannot be fully depicted by solely presenting the visualization. We propose to augment node-link diagrams by creating textual descriptions for interested information. We conduct an expert review and a user interview to identify six requirements of generated interpretations, including three requirements for connection extraction and three requirements for visual expression. Our solution, GraphDescriptor, generates textual descriptions with two stages: feature extraction and description generation. The first one identifies and extracts features of node-link diagrams, like node connections, visual designs, and types of graph layouts. The second stage creates a group of hierarchical sentences based on a pre-defined schema. To the best of our knowledge, our approach is the first attempt to generate textual descriptions automatically. Three use cases and the in-lab user study confirm the superiority of our approach."
+    },
+    {
+        "title": "EmbeddingTree: Hierarchical Exploration of Entity Features in Embedding",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Yan Zheng",
+            "Junpeng Wang",
+            "Chin-Chia Michael Yeh",
+            "Yujie Fan",
+            "Huiyuan Chen",
+            "Liang Wang",
+            "Wei Zhang"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00032",
+        "citation": 0,
+        "abstract": "Embedding learning transforms discrete data entities into continuous numerical representations, encoding features/properties of the entities. Despite the outstanding performance reported from different embedding learning algorithms, few efforts were devoted to structurally interpreting how features are encoded in the learned embedding space. This work proposes EmbeddingTree, a hierarchical embedding exploration algorithm that relates the semantics of entity features with the less-interpretable embedding vectors. An interactive visualization tool is also developed based on EmbeddingTree to explore high-dimensional embeddings. The tool helps users discover nuance features of data entities, perform feature denoising/injecting in embedding training, and generate embeddings for unseen entities. We demonstrate the efficacy of EmbeddingTree and our visualization tool through embeddings generated for industry-scale merchant data and the public 30Music listening/playlists dataset."
+    },
+    {
+        "title": "Understanding 3D Data Videos: From Screens to Virtual Reality",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Leni Yang",
+            "Aoyu Wu",
+            "Wai Tong",
+            "Xian Xu",
+            "Zheng Wei",
+            "Huamin Qu"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00029",
+        "citation": 0,
+        "abstract": "Data storytelling explores how to communicate data insights to the general public engagingly and effectively. It combines the power of data visualizations and storytelling techniques and is popular in various media such as newspapers, interactive websites, and videos. Recently, virtual reality has brought new opportunities to enhance data storytelling with an incomparable sense of immersion. However, there exists a limited understanding of data stories in virtual reality (VR) as they are still in the early stage. In this paper, we investigated the idea of VR data videos by drawing inspiration from popular 3D data videos and studying how to transfer them from screens to VR. We systematically analyzed 100 highly-watched 3D data videos from Youtube and Tiktok channels to derive their design space. We then conducted a user study with 12 participants to explore the effects of four design factors on user experience, including varying camera angles, showing chart overview, animation, and using anchors. Specifically, participants watched 3D data videos in desktop and VR environments. We collected and analyzed their quantitative and qualitative feedback regarding the story’s understandability, memorability, engagement, and emotional effects. Results suggested that data videos in VR were significantly more appreciated than on desktops. We concluded with design implications for future applications and research on VR data videos."
+    },
+    {
+        "title": "Neural Stream Functions",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Skylar W. Wurster",
+            "Hanqi Guo",
+            "Tom Peterka",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00022",
+        "citation": 0,
+        "abstract": "We present a neural network approach to compute stream functions, which are scalar functions with gradients orthogonal to a given vector field. As a result, isosurfaces of the stream function extract stream surfaces, which can be visualized to analyze flow features. Our approach takes a vector field as input and trains an implicit neural representation to learn a stream function for that vector field. The network learns to map input coordinates to a stream function value by minimizing the inner product of the gradient of the neural network’s output and the vector field. Since stream function solutions may not be unique, we give optional constraints for the network to learn particular stream functions of interest. Specifically, we introduce regularizing loss functions that can optionally be used to generate stream function solutions whose stream surfaces follow the flow field’s curvature, or that can learn a stream function that includes a stream surface passing through a seeding rake. We also discuss considerations for properly visualizing the trained implicit network and extracting artifact-free surfaces. We compare our results with other implicit solutions and present qualitative and quantitative results for several synthetic and simulated vector fields."
+    },
+    {
+        "title": "Parallel Assemblies Plot, a visualization tool to explore categorical and quantitative data: application to digital mobility outcomes",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Alma Cantu",
+            "Maria Encarna Micó-Amigo",
+            "Silvia Del Din",
+            "Sara Johansson Fernstad"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00010",
+        "citation": 0,
+        "abstract": "This paper presents a tool enabling the visual analysis of multivariate heterogeneous data. Large amounts of measured and contextual data are being gathered for a large number of applications, increasing connectivity across different data types. While measured data are often quantitative, contextual data tend to be categorical. This results in datasets containing multivariate data with heterogeneous properties. Difference in the natures of these properties raises challenges when combining them for analysis. This paper presents the design of a tool that enables the exploration of multivariate heterogeneous data by combining the strengths of Parallel Coordinates and Parallel Sets. The design relied on the application domain of real-life mobility monitoring that is particularly affected by the challenge mentioned above. To validate the suggested approach this paper presents the result of a usability evaluation, which confirms that the presented design is as efficient as other exiting tools while providing more features for correlation analysis."
+    },
+    {
+        "title": "Transparent Dashboards: Open data practices for promoting competition-as-motivation in business dashboards",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [
+            "Triana R. Hadiprawoto",
+            "Arran L. Ridley"
+        ],
+        "DOI": "10.1109/PacificVis56936.2023.00023",
+        "citation": 0,
+        "abstract": "Dashboards are a common and familiar format of data visualization and are deployed in a number of fields and across domains, such as business, medical and health, learning analytics, and urban analytics, amongst others. In this paper, we conduct interviews with users of business dashboards, in particular, performance dashboards and scorecards, in order to gain an understanding of how they might be used in daily practice. We discuss how dashboards are not only used, as the literature suggests, to gain a quick understanding of the data but are deployed, by making the data available to everyone, as a means of motivating the users through creating a competitive framing of the data. We discuss the implications of this and how our findings can inform and support approaches to dashboard design, implementation, and usage."
+    },
+    {
+        "title": "Welcome Message from the IEEE PacificVis 2023 Chairs",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [],
+        "DOI": "10.1109/PacificVis56936.2023.00005",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Title Page iii",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [],
+        "DOI": "10.1109/PacificVis56936.2023.00002",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Author Index",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [],
+        "DOI": "10.1109/PacificVis56936.2023.00033",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Copyright Page",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [],
+        "DOI": "10.1109/PacificVis56936.2023.00003",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Title Page i",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [],
+        "DOI": "10.1109/PacificVis56936.2023.00001",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Table of Contents",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [],
+        "DOI": "10.1109/PacificVis56936.2023.00004",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Conference Committees",
+        "conferenceTitle": "2023 IEEE 16th Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2023",
+        "authors": [],
+        "DOI": "10.1109/PacificVis56936.2023.00006",
+        "citation": 0,
+        "abstract": ""
+    }
+]

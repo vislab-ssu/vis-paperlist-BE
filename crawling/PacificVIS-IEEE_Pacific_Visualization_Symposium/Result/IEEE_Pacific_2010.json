@@ -1,0 +1,498 @@
+[
+    {
+        "title": "Context preserving dynamic word cloud visualization",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Weiwei Cui",
+            "Yingcai Wu",
+            "Shixia Liu",
+            "Furu Wei",
+            "Michelle X. Zhou",
+            "Huamin Qu"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429600",
+        "citation": 94,
+        "abstract": "In this paper, we introduce a visualization method that couples a trend chart with word clouds to illustrate temporal content evolutions in a set of documents. Specifically, we use a trend chart to encode the overall semantic evolution of document content over time. In our work, semantic evolution of a document collection is modeled by varied significance of document content, represented by a set of representative keywords, at different time points. At each time point, we also use a word cloud to depict the representative keywords. Since the words in a word cloud may vary one from another over time (e.g., words with increased importance), we use geometry meshes and an adaptive force-directed model to lay out word clouds to highlight the word differences between any two subsequent word clouds. Our method also ensures semantic coherence and spatial stability of word clouds over time. Our work is embodied in an interactive visual analysis system that helps users to perform text analysis and derive insights from a large collection of documents. Our preliminary evaluation demonstrates the usefulness and usability of our work."
+    },
+    {
+        "title": "GMap: Visualizing graphs and clusters as maps",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Emden R. Gansner",
+            "Yifan Hu",
+            "Stephen Kobourov"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429590",
+        "citation": 75,
+        "abstract": "Information visualization is essential in making sense out of large data sets. Often, high-dimensional data are visualized as a collection of points in 2-dimensional space through dimensionality reduction techniques. However, these traditional methods often do not capture well the underlying structural information, clustering, and neighborhoods. In this paper, we describe GMap, a practical algorithm for visualizing relational data with geographic-like maps. We illustrate the effectiveness of this approach with examples from several domains."
+    },
+    {
+        "title": "Caleydo: Design and evaluation of a visual analysis framework for gene expression data in its biological context",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Alexander Lex",
+            "Marc Streit",
+            "Ernst Kruijff",
+            "Dieter Schmalstieg"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429609",
+        "citation": 43,
+        "abstract": "The goal of our work is to support experts in the process of hypotheses generation concerning the roles of genes in diseases. For a deeper understanding of the complex interdependencies between genes, it is important to bring gene expressions (measurements) into context with pathways. Pathways, which are models of biological processes, are available in online databases. In these databases, large networks are decomposed into small sub-graphs for better manageability. This simplification results in a loss of context, as pathways are interconnected and genes can occur in multiple instances scattered over the network. Our main goal is therefore to present all relevant information, i.e., gene expressions, the relations between expression and pathways and between multiple pathways in a simple, yet effective way. To achieve this we employ two different multiple-view approaches. Traditional multiple views are used for large datasets or highly interactive visualizations, while a 2.5D technique is employed to support a seamless navigation of multiple pathways which simultaneously links to the expression of the contained genes. This approach facilitates the understanding of the interconnection of pathways, and enables a non-distracting relation to gene expression data. We evaluated Caleydo with a group of users from the life science community. Users were asked to perform three tasks: pathway exploration, gene expression analysis and information comparison with and without visual links, which had to be conducted in four different conditions. Evaluation results show that the system can improve the process of understanding the complex network of pathways and the individual effects of gene expression regulation considerably. Especially the quality of the available contextual information and the spatial organization was rated good for the presented 2.5D setup."
+    },
+    {
+        "title": "Explorable images for visualizing volume data",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Anna Tikhonova",
+            "Carlos D. Correa",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429595",
+        "citation": 33,
+        "abstract": "We present a technique which automatically converts a small number of single-view volume rendered images of the same 3D data set into a compact representation of that data set. This representation is a multi-layered image, or an explorable image, which enables interactive exploration of volume data in transfer function space without accessing the original data. We achieve this by automatically extracting layers depicted in composited images. The layers can then be recombined in different ways to simulate opacity changes and recoloring of individual features. Our results demonstrate that explorable images are especially useful when the volume data is too large for interactive exploration, takes too long to render due to the underlying mesh structure or desired shading effect, or if the original volume data is not available. Explorable images can offer real-time image-based interaction as a preview mechanism for remote visualization or visualization of large volume data on low-end hardware, within a mobile device, or a Web browser."
+    },
+    {
+        "title": "Interactive volumetric lighting simulating scattering and shadowing",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Timo Ropinski",
+            "Christian Döring",
+            "Christof Rezk-Salama"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429594",
+        "citation": 33,
+        "abstract": "In this paper we present a volumetric lighting model, which simulates scattering as well as shadowing in order to generate high quality volume renderings. By approximating light transport in inhomogeneous participating media, we are able to come up with an efficient GPU implementation, in order to achieve the desired effects at interactive frame rates. Moreover, in many cases the frame rates are even higher as those achieved with conventional gradient-based shading. To evaluate the impact of the proposed illumination model on the spatial comprehension of volumetric objects, we have conducted a user study, in which the participants had to perform depth perception tasks. The results of this study show, that depth perception is significantly improved when comparing our illumination model to conventional gradient-based volume shading. Additionally, since our volumetric illumination model is not based on gradient calculation, it is also less sensitive to noise and therefore also applicable to imaging modalities incorporating a higher degree of noise, as for instance magnet resonance tomography or 3D ultrasound."
+    },
+    {
+        "title": "Volume visualization based on statistical transfer-function spaces",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Martin Haidacher",
+            "Daniel Patel",
+            "Stefan Bruckner",
+            "Armin Kanitsar",
+            "M. Eduard Gröller"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429615",
+        "citation": 33,
+        "abstract": "It is a difficult task to design transfer functions for noisy data. In traditional transfer-function spaces, data values of different materials overlap. In this paper we introduce a novel statistical transfer-function space which in the presence of noise, separates different materials in volume data sets. Our method adaptively estimates statistical properties, i.e. the mean value and the standard deviation, of the data values in the neighborhood of each sample point. These properties are used to define a transfer-function space which enables the distinction of different materials. Additionally, we present a novel approach for interacting with our new transfer-function space which enables the design of transfer functions based on statistical properties. Furthermore, we demonstrate that statistical information can be applied to enhance visual appearance in the rendering process. We compare the new method with 1D, 2D, and LH transfer functions to demonstrate its usefulness."
+    },
+    {
+        "title": "Shape-based transfer functions for volume visualization",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Jörg-Stefan Praßni",
+            "Timo Ropinski",
+            "Jörg Mensmann",
+            "Klaus Hinrichs"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429624",
+        "citation": 29,
+        "abstract": "We present a novel classification technique for volume visualization that takes the shape of volumetric features into account. The presented technique enables the user to distinguish features based on their 3D shape and to assign individual optical properties to these. Based on a rough pre-segmentation that can be done by windowing, we exploit the curve-skeleton of each volumetric structure in order to derive a shape descriptor similar to those used in current shape recognition algorithms. The shape descriptor distinguishes three main shape classes: longitudinal, surface-like, and blobby shapes. In contrast to previous approaches, the classification is not performed on a per-voxel level but assigns a uniform shape descriptor to each feature and therefore allows a more intuitive user interface for the assignment of optical properties. By using the proposed technique, it becomes for instance possible to distinguish blobby heart structures filled with contrast agents from potentially occluding vessels and rib bones. After introducing the basic concepts, we show how the presented technique performs on real world data, and we discuss current limitations."
+    },
+    {
+        "title": "Stack zooming for multi-focus interaction in time-series data visualization",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Waqas Javed",
+            "Niklas Elmqvist"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429613",
+        "citation": 29,
+        "abstract": "Information visualization shows tremendous potential for helping both expert and casual users alike make sense of temporal data, but current time series visualization tools provide poor support for comparing several foci in a temporal dataset while retaining context and distance awareness. We introduce a method for supporting this kind of multi-focus interaction that we call stack zooming. The approach is based on the user interactively building hierarchies of 1D strips stacked on top of each other, where each subsequent stack represents a higher zoom level, and sibling strips represent branches in the visual exploration. Correlation graphics show the relation between stacks and strips of different levels, providing context and distance awareness among the focus points. The zoom hierarchies can also be used as graphical histories and for communicating insights to stakeholders. We also discuss how visual spaces that support stack zooming can be extended with annotation and local statistics computations that fit the hierarchical stacking metaphor."
+    },
+    {
+        "title": "A sketch-based interface for classifying and visualizing vector fields",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Jishang Wei",
+            "Chaoli Wang",
+            "Hongfeng Yu",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429603",
+        "citation": 28,
+        "abstract": "In flow visualization, field lines are often used to convey both global and local structure and movement of the flow. One challenge is to find and classify the representative field lines. Most existing solutions follow an automatic approach that generates field lines characterizing the flow and arranges these lines into a single picture. In our work, we advocate a user-centric approach to exploring 3D vector fields. Our method allows the user to sketch 2D curves for pattern matching in 2D and field lines clustering in 3D. Specifically, a 3D field line whose view-dependent 2D projection is most similar to the user drawing will be identified and utilized to extract all similar 3D field lines. Furthermore, we employ an automatic clustering method to generate field-line templates for the user to locate subfields of interest. This semi-automatic process leverages the user's knowledge about the flow field through intuitive user interaction, resulting in a promising alternative to existing flow visualization solutions. With our sketch-based interface, the user can effectively dissect the flow field and make more structured visualization for analysis or presentation."
+    },
+    {
+        "title": "Interactive local clustering operations for high dimensional data in parallel coordinates",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Peihong Guo",
+            "He Xiao",
+            "Zuchao Wang",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429608",
+        "citation": 21,
+        "abstract": "In this paper, we propose an approach of clustering data in parallel coordinates through interactive local operations. Different from many other methods in which clustering is globally applied to the whole dataset, our interactive scheme allows users to directly apply attractive and repulsive operators at regions of interests, taking advantages of an electricity interaction metaphor, for clutter reduction and cluster detection. Our design enables users to interact directly with the parallel coordinate plots and provides great flexibility in exploring and revealing underlying patterns. With instant feedback, our work allows users to dynamically adjust the clustering parameters to reach an optimum. We also supply the user with a graph indicating the logical relationship between clusters. Our experiments show that our scheme is more efficient than traditional methods in performing visual analysis tasks."
+    },
+    {
+        "title": "Motion track: Visualizing variations of human motion data",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Yueqi Hu",
+            "Shuangyuan Wu",
+            "Shihong Xia",
+            "Jinghua Fu",
+            "Wei Chen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429596",
+        "citation": 21,
+        "abstract": "This paper proposes a novel visualization approach, which can depict the variations between different human motion data. This is achieved by representing the time dimension of each animation sequence with a sequential curve in a locality-preserving reference 2D space, called the motion track representation. The principal advantage of this representation over standard representations of motion capture data - generally either a keyframed timeline or a 2D motion map in its entirety - is that it maps the motion differences along the time dimension into parallel perceptible spatial dimensions but at the same time captures the primary content of the source data. Latent semantic differences that are difficult to be visually distinguished can be clearly displayed, favoring effective summary, clustering, comparison and analysis of motion database."
+    },
+    {
+        "title": "Seismic volume visualization for horizon extraction",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Daniel Patel",
+            "Stefan Bruckner",
+            "Ivan Viola",
+            "Eduard M. Gröller"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429605",
+        "citation": 20,
+        "abstract": "Seismic horizons indicate change in rock properties and are central in geoscience interpretation. Traditional interpretation systems involve time consuming and repetitive manual volumetric seeding for horizon growing. We present a novel system for rapidly interpreting and visualizing seismic volumetric data. First we extract horizon surface-parts by preprocessing the seismic data. Then during interaction the user can assemble in realtime the horizon parts into horizons. Traditional interpretation systems use gradient-based illumination models in the rendering of the seismic volume and polygon rendering of horizon surfaces. We employ realtime gradient-free forward-scattering in the rendering of seismic volumes yielding results similar to high-quality global illumination. We use an implicit surface representation of horizons allowing for a seamless integration of horizon rendering and volume rendering. We present a collection of novel techniques constituting an interpretation and visualization system highly tailored to seismic data interpretation."
+    },
+    {
+        "title": "WikipediaViz: Conveying article quality for casual Wikipedia readers",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Fanny Chevalier",
+            "Stéphane Huot",
+            "Jean-Daniel Fekete"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429611",
+        "citation": 20,
+        "abstract": "As Wikipedia has become one of the most used knowledge bases worldwide, the problem of the trustworthiness of the information it disseminates becomes central. With WikipediaViz, we introduce five visual indicators integrated to the Wikipedia layout that can keep casual Wikipedia readers aware of important metainformation about the articles they read. The design of WikipediaViz was inspired by two participatory design sessions with expert Wikipedia writers and sociologists who explained the clues they used to quickly assess the trustworthiness of articles. According to these results, we propose five metrics for Maturity and Quality assessment of Wikipedia articles and their accompanying visualizations to provide the readers with important clues about the editing process at a glance. We also report and discuss about the results of the user studies we conducted. Two preliminary pilot studies show that all our subjects trust Wikipedia articles almost blindly. With the third study, we show that WikipediaViz significantly reduces the time required to assess the quality of articles while maintaining a good accuracy."
+    },
+    {
+        "title": "Crossing-free many-to-one boundary labeling with hyperleaders",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Chun-Cheng Lin"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429592",
+        "citation": 19,
+        "abstract": "In boundary labeling, each point site is uniquely connected to a label placed on the boundary of an enclosing rectangle by a leader, which may be a rectilinear or straight line segment. Most of the results reported in the literature for boundary labeling deal with the so-called one-to-one boundary labeling, i.e., different sites are labelled differently. In certain applications of boundary labeling, however, more than one site may be required to be connected to a common label. In this case, the presence of crossings among leaders often becomes inevitable such that the labeling often has a high degree of confusion in visualization. In this paper, for multi-site-to-one-label boundary labeling, crossings among leaders are avoided by substituting hyperleaders for leaders and by applying dummy labels (i.e., copies/duplicates of labels). Minimizing the number of dummy labels becomes a critical design issue as dummy labels are not required in the initial setting. Therefore, we consider the problem of minimizing the number of dummy labels for multi-site-to-one-label boundary labeling, i.e., finding the placements of labels and hyperleaders such that the total number of dummy labels is minimized and there are no crossings among hyperleaders. Furthermore, after the number of dummy labels is determined, minimizing the total hyperleader length as well as the bends of hyperleaders is also concerned in postprocessing procedure. In this paper, we present polynomial time algorithms for the above one-side and two-side labeling schemes, and show their correctness from a theoretical point of view. In addition, we provide a simulated annealing algorithm for the four-side labeling schemes with objective to minimize the total number of dummy labels as well as the total leader length. Experimental results show that our four-side solutions look promising, as compared to the optimal solutions."
+    },
+    {
+        "title": "Visual analysis of high dimensional point clouds using topological landscapes",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Patrick Oesterling",
+            "Christian Heine",
+            "Heike Jänicke",
+            "Gerik Scheuermann"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429601",
+        "citation": 19,
+        "abstract": "In this paper, we present a novel three-stage process to visualize the structure of point clouds in arbitrary dimensions. To get insight into the structure and complexity of a data set, we would most preferably just look into it, e.g. by plotting its corresponding point cloud. Unfortunately, for orthogonal scatter plots, this only works up to three dimensions, and other visualizations, like parallel coordinates or scatterplot matrices, also have problems handling many dimensions and visual overlap of data entities. The presented solution tackles the problem of visualizing point clouds indirectly by visualizing the topology of their density distribution. The benefit of this approach is that this topology can be computed in arbitrary dimensions. Similar to examining scatter plots, this gives the important information like the number, size and nesting structure of accumulated regions. We view our approach as an alternative to cluster visualization. To create the visualization, we first estimate the density function using a novel high-dimensional interpolation scheme. Second, we compute that function's topology by means of the join tree, generate a corresponding 3-D terrain using the topological landscape metaphor introduced by Weber et al. (2007), and finally augment that landscape by placing the original data points at suitable locations."
+    },
+    {
+        "title": "A model of symbol lightness discrimination in sparse scatterplots",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Jing Li",
+            "Jarke J. van Wijk",
+            "Jean-Bernard Martens"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429604",
+        "citation": 14,
+        "abstract": "Symbols are used in scatterplots to encode data in a way that is appropriate for perception through human visual channels. Color is believed to be the most dominant channel with lightness regarded as the most important one of three color dimensions. We study lightness perception in scatterplots in the context of analytic tasks requiring symbol discrimination. More specifically, we performed an experiment to measure human performance in three visual analytic tasks. Outlined circles and unframed spots, equally sized, with a uniform luminance that was varied at ten or eleven equispaced levels between black and white were used as symbols and displayed on a uniform white background. Sixteen subjects divided in two groups, participated in the experiment and their task performance times were recorded. We propose a model to describe the process. The perception of lightness is assumed to be an early step in the complex cognitive process to mediate discrimination, and psychophysical laws are used to describe this perceptual mapping. Different mapping schemes are compared by regression on the experimental data. The results show that approximate homogeneity of lightness perception exists in our complex tasks and can be closely described by a blended combination of two opposite power functions assuming either the light end or the dark end of the lightness scale as the starting point. The model further yields discriminability scales of lightness for sparse scatterplots with a white background."
+    },
+    {
+        "title": "Volume exploration using ellipsoidal Gaussian transfer functions",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Yunhai Wang",
+            "Wei Chen",
+            "Guihua Shan",
+            "Tingxin Dong",
+            "Xuebin Chi"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429612",
+        "citation": 12,
+        "abstract": "This paper presents an interactive transfer function design tool based on ellipsoidal Gaussian transfer functions (ETFs). Our approach explores volumetric features in the statistical space by modeling the space using the Gaussian mixture model (GMM) with a small number of Gaussians to maximize the likelihood of feature separation. Instant visual feedback is possible by mapping these Gaussians to ETFs and analytically integrating these ETFs in the context of the pre-integrated volume rendering process. A suite of intuitive control widgets is designed to offer automatic transfer function generation and flexible manipulations, allowing an inexperienced user to easily explore undiscovered features with several simple interactions. Our GPU implementation demonstrates interactive performance and plausible scalability which compare favorably with existing solutions. The effectiveness of our approach has been verified on several datasets."
+    },
+    {
+        "title": "A layer-oriented interface for visualizing time-series data from oscilloscopes",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Roberto Lopez-Hernandez",
+            "David Guilmaine",
+            "Michael J. McGuffin",
+            "Lee Barford"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429607",
+        "citation": 10,
+        "abstract": "We present a prototype interface for visualizing and interacting with univariate time-dependent digital signals, i.e., the kind of signals that might be measured using an oscilloscope and then analyzed to find anomalies in edge timing, overshoot, or other measured characteristics. Our prototype visualizes the data using a standard eye diagram that wraps the signal in time, as well as a parallel coordinates view, and a novel 2.5D layer-based technique based on a drawer metaphor for spreading the eye diagram apart and de-occluding the traces within it. Once a “drawer” is opened, the traces within it can be sorted or grouped according to various attributes, and drilling-down into data can be achieved by opening sub-drawers. We also present a novel technique for browsing eye diagrams called temporal brushing. Initial user feedback from students in electrical engineering is reported. A video demonstrating our prototype can be downloaded at http://profs.logti.etsmtl.ca/mmcguffin/"
+    },
+    {
+        "title": "Adaptive proxy geometry for direct volume manipulation",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Megumi Nakao",
+            "Kei Wai Cecilia Hung",
+            "Satoshi Yano",
+            "Koji Yoshimura",
+            "Kotaro Minato"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429597",
+        "citation": 8,
+        "abstract": "This paper introduces a new design to allow interactive, direct manipulation of volume data on volumetrically rendered images. We present an adaptive volume proxy mesh which serves not to define surfaces, but to encode the geometry and physical state of the volume. This system performs a modeling-free form of direct volume deformation by adaptively constructing the whole geometric structure on the background while keeping the structure transparent to the user. A complex, high-frequency structure is locally encoded into the mesh on-the-fly based on the user's volume of interest. This paper also presents a scheme for volume shading/shadowing applied in combination with our framework for improving reality in the visualization of time-varying deformable objects. We demonstrate examples of geometry-encoded direct volume manipulation and application to volume exploration and surgical simulation."
+    },
+    {
+        "title": "Visualizing field-measured seismic data",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Tung-Ju Hsieh",
+            "Cheng-Kai Chen",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429610",
+        "citation": 8,
+        "abstract": "This paper presents visualization of field-measured, time-varying multidimensional earthquake accelerograph readings. Direct volume rendering is used to depict the space-time relationships of seismic readings collected from sensor stations in an intuitive way such that the progress of seismic wave propagation of an earthquake event can be directly observed. The resulting visualization reveals the sequence of seismic wave initiation, propagation, attenuation over time, and energy releasing events. We provide a case study on the magnitude scale Mw 7.6 Chi-Chi earthquake in Taiwan, which is the most thoroughly recorded earthquake event ever in the history. More than 400 stations recorded this event, and the readings from this event increased global strong-motion records five folds. Each station measured east-west, north-south, and vertical component of acceleration for approximately 90 seconds. The sensor network released the initial raw data within minutes after the Chi-Chi mainshock. It is essential to have a visualization system for fast data exploring and analyzing, offering crucial visual analytical information for scientists to make quick judgments. Raw data requires preprocessing before it can be rendered. We generated a sequence of ground-motion wave-field maps of 350 × 200 regular grid covers the entire Taiwan island from the sensor network readings. The result is a total of 1000 ground-motion wave-field maps with 0.1 second interval, forming a 1000 × 350 × 200 volume data set. We show that visualizing the time-varying component of the data spatially uncovers the changing features hidden in the data."
+    },
+    {
+        "title": "CycleStack: Inferring periodic behavior via temporal sequence visualization in ultrasound video",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Teng-Yok Lee",
+            "Abon Chaudhuri",
+            "Fatih Porikli",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429602",
+        "citation": 6,
+        "abstract": "A range of well-known treatment methods for destroying tumor and similar harmful growth in human body utilizes the coherence between the inherently periodic movement of the affected body part and periodic respiratory signal of the patient, with the objective of minimizing damage to surrounding normal tissues. Such methods require constant monitoring by an operator who observes the 3D body motion via its 2D projection onto an ultrasound imaging plane and studies the synchronism of this motion with the respiratory signal. Keeping an attentive eye on the respiratory signal as well as the ultrasound video for the entire treatment period is often inconvenient and burdensome. In this paper, we propose a video visualization technique called CycleStack Plot which reduces this cognitive overhead by blending the video and the signal together in a stack-like layout. This visualization reveals the inherent synchronism between the target's movement and the respiratory signal, visually highlights significant phase shifts of either of the two cyclic phenomena, with the hope of arresting the operator's attention. Our proposed visualization also provides a visual overview for the post-treatment analysis which enables educated users to quickly and effectively skim through the excessively long process. This paper demonstrates the utility of CycleStack Plot with a case study using real ultrasound videos. In addition, a user study has been performed to evaluate the merits and limitations of the proposed method with respect to the conventional way of watching a video and a signal side-by-side. Even though the motivation of the proposed visualization is improvement of medical applications that use ultrasound, the core techniques discussed here have potential to be extended to other application domains requiring analysis of cyclic patterns from videos."
+    },
+    {
+        "title": "Verification of the time evolution of cosmological simulations via hypothesis-driven comparative and quantitative visualization",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Chung-Hsing Hsu",
+            "James P. Ahrens",
+            "Katrin Heitmann"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429606",
+        "citation": 5,
+        "abstract": "We describe a visualization-assisted process for the verification of cosmological simulation codes. The need for code verification stems from the requirement for very accurate predictions in order to interpret observational data confidently. We compare different simulation algorithms in order to reliably predict differences in simulation results and understand their dependence on input parameter settings. Our verification process consists of the integration of iterative hypothesis-verification with comparative, feature and quantitative visualization. We validate this process by verifying the time evolution results of three different cosmology simulation codes. The purpose of this verification is to study the accuracy of AMR methods versus other N-body simulation methods for cosmological simulations."
+    },
+    {
+        "title": "Visual analysis of large graphs using (X,Y)-clustering and hybrid visualizations",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Vladimir Batagelj",
+            "Walter Didimo",
+            "Giuseppe Liotta",
+            "Pietro Palladino",
+            "Maurizio Patrignani"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429591",
+        "citation": 5,
+        "abstract": "Many different approaches have been proposed for the challenging problem of visually analyzing large networks. Clustering is one of the most promising. In this paper we propose a new goal for clustering that is especially tailored to hybrid-visualization tools. Namely, that of producing both intra-cluster graphs and inter-cluster graph that are suitable for highly-readable visualizations within different representation conventions. We formalize this concept in the (X,Y)-clustering framework, where Y is the class that defines the desired topological properties of intra-cluster graphs and X is the class that defines the desired topological properties of the inter-cluster graph. By exploiting this approach hybrid-visualization tools can effectively combine different node-link and matrix-based representations, allowing the users to interactively explore the graph by expansion/contraction of clusters without loosing their mental map. As a proof of concept, we describe the system VHYXY (Visual Hybrid (X,Y)-clustering) that integrates our techniques and we present the results of case studies to the visual analysis of co-authorship networks."
+    },
+    {
+        "title": "Quantitative effectiveness measures for direct volume rendered images",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Yingcai Wu",
+            "Huamin Qu",
+            "Ka-Kei Chung",
+            "Ming-Yuen Chan",
+            "Hong Zhou"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429623",
+        "citation": 4,
+        "abstract": "With the rapid development in graphics hardware and volume rendering techniques, many volumetric datasets can now be rendered in real time on a standard PC equipped with a commodity graphics board. However, the effectiveness of the results, especially direct volume rendered images, is difficult to validate and users may not be aware of ambiguous or even misleading information in the results. This limits the applications of volume visualization. In this paper, we introduce four quantitative effectiveness measures: distinguishability, contour clarity, edge consistency, and depth coherence measures, which target different effectiveness issues for direct volume rendered images. Based on the measures, we develop a visualization system with automatic effectiveness assessment, providing users with instant feedback on the effectiveness of the results. The case study and user evaluation have demonstrated the high potential of our system."
+    },
+    {
+        "title": "Graph visualization techniques for conceptual Web site traffic analysis",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Walter Didimo",
+            "Giuseppe Liotta",
+            "Salvatore Agostino Romeo"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429593",
+        "citation": 4,
+        "abstract": "Systems that support Web site traffic analysis are core business intelligence applications for many companies. Recent papers remark that these systems are especially useful if they measure the users' interest into the relevant concepts described in a Web site rather than counting users' accesses to the distinct pages forming theWeb site. This paper extends existing measures of conceptual Web site traffic analysis and describes a system, called COWA, that supports this analysis by means of network models and graph visualization technologies. The graph drawing algorithmic core of the user interface of COWA is a force directed heuristic that computes a simultaneous embedding of two non-planar graphs. This heuristic optimizes the visualizations in terms of crossing resolution and user's geodesic tendency. Experimental results and case studies show the effectiveness of the proposed approach in practice."
+    },
+    {
+        "title": "Physically-based interactive schlieren flow visualization",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "C. Brownlee",
+            "V. Pegoraro",
+            "S. Shankar",
+            "P. McCormick",
+            "C. Hansen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429599",
+        "citation": 3,
+        "abstract": "Understanding fluid flow is a difficult problem and of increasing importance as computational fluid dynamics produces an abundance of simulation data. Experimental flow analysis has employed techniques such as shadowgraph and schlieren imaging for centuries which allow empirical observation of inhomogeneous flows. Shadowgraphs provide an intuitive way of looking at small changes in flow dynamics through caustic effects while schlieren cutoffs introduce an intensity gradation for observing large scale directional changes in the flow. The combination of these shading effects provides an informative global analysis of overall fluid flow. Computational solutions for these methods have proven too complex until recently due to the fundamental physical interaction of light refracting through the flow field. In this paper, we introduce a novel method to simulate the refraction of light to generate synthetic shadowgraphs and schlieren images of time-varying scalar fields derived from computational fluid dynamics (CFD) data. Our method computes physically accurate schlieren and shadowgraph images at interactive rates by utilizing a combination of GPGPU programming, acceleration methods, and data-dependent probabilistic schlieren cutoffs. Results comparing this method to previous schlieren approximations are presented."
+    },
+    {
+        "title": "An advection-reaction model for flow visualization",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Rüyam Acar"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429598",
+        "citation": 0,
+        "abstract": "A new method is presented for flow visualization based on an advection reaction model. The key point of the method is to use a flow dependent reaction source which couples advection and reaction dynamics. When embedded in semi-Lagrangian advection this reaction source provides systematic pattern generation and integration along pathlines. Based on this idea and a very simple equation with a stable and efficient numerical solution, a visualization model is developed which allows visualization of both Lagrangian and Eulerian structures in a flexible environment and with user control. This system also allows the emulation of conventional dense texture and reaction-diffusion type visualization techniques easily and provides solutions to the problems in these methods."
+    },
+    {
+        "title": "Symposium Committee",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2010.5429618",
+        "citation": 1,
+        "abstract": "Provides a listing of current committee members."
+    },
+    {
+        "title": "Advanced interaction for Information Visualization",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Jean-Daniel Fekete"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429617",
+        "citation": 4,
+        "abstract": "Summary form only given. Information Visualization (InfoVis) is a research field dedicated to the design and evaluation of visual representations and interactions to explore and understand large data set. Until recently, the focus of InfoVis has been more on the graphical representation and less on the interaction. However, several new interactive techniques have been published in the past few years, opening perspectives for InfoVis and HCI practitioners. I describe the work conducted at our group, AVIZ, linking traditional HCI interaction research with InfoVis interaction research. I present our latest techniques for navigating large information spaces with varying dimensionalities and topologies. I outline their applicability in HCI problems that are not traditionally viewed as InfoVis in the hope that they will be experimented and adopted in standard interfaces and, more importantly, to emphasize the fact that interaction design for large information spaces is required for our complex specialized applications as well as our everyday working environment."
+    },
+    {
+        "title": "Image-based biomedical computing and visualization",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Chris Johnson"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429616",
+        "citation": 0,
+        "abstract": "Increasingly, biomedical computing and visualization applications require building functional models from images (MRI, CT, EM, etc.). The ¿pipeline¿ for building such models includes image analysis (segmentation, registration, filtering), geometric modeling (surface and volume mesh generation), simulation (FE, FD, BE, linear and non-linear solves, etc.), visualization (scalars, vectors, tensors, etc) and evaluation (uncertainty, error, etc.). In this talk, I will present research challenges of image-based biomedical computing and visualization and discuss their application for solving important problems in neuro-science, cardiology, and genetics."
+    },
+    {
+        "title": "A message from the program chairs",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [
+            "Stephen North",
+            "Han-Wei Shen",
+            "Jarke J. van Wijk"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2010.5429620",
+        "citation": 0,
+        "abstract": "Greetings from the program committee of Pacific Visualization 2010. This was the third year of the conference. The quality of this year's program conveys exciting work that is being done in many areas of visualization. In the few years since the inception of the meeting, there has been a steady increase in the number of submissions and their overall technical strength. This reflects the maturity of the field, and perhaps increasing support for a spring meeting to complement VisWeek held in the fall."
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC)",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2010.5429621",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members."
+    },
+    {
+        "title": "Supporting organizations",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2010.5429627",
+        "citation": 0,
+        "abstract": "The conference organizers greatly appreciate the support of the various corporate sponsors listed."
+    },
+    {
+        "title": "[Blank page]",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2010.5429614",
+        "citation": 0,
+        "abstract": "This page or pages intentionally left blank."
+    },
+    {
+        "title": "Contents",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2010.5429622",
+        "citation": 0,
+        "abstract": "Presents the table of contents of the proceedings."
+    },
+    {
+        "title": "Author index",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2010.5429588",
+        "citation": 0,
+        "abstract": "The author index contains an entry for each author and coauthor included in the proceedings record."
+    },
+    {
+        "title": "[Copyright notice]",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2010.5429626",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "list-reviewer",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2010.5429619",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "[Title page]",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2010.5429625",
+        "citation": 0,
+        "abstract": "The paper deals with the following topics: transfer functions for volume rendering; information visualization; visualization in medicine and natural sciences; flow and motion; volume deformation, lighting, and exploration; graph visualization; etc."
+    },
+    {
+        "title": "[Front and back cover]",
+        "conferenceTitle": "2010 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "2-5 March 2010",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2010.5429589",
+        "citation": 0,
+        "abstract": "Presents the front and back cover or splash screen of the proceedings record."
+    }
+]

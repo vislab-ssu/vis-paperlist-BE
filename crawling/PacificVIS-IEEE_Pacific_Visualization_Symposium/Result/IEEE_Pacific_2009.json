@@ -1,0 +1,480 @@
+[
+    {
+        "title": "Keynote address Knots, maps, and tiles: Three visual puzzles",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Jarke J. van Wijk"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906828",
+        "citation": 0,
+        "abstract": "Visualization aims at providing insight to its users. Now and then I am a user myself, and use visualization trying to solve a puzzle and to satisfy my curiosity. Simple questions turn out to be challenging problems, leading to a personal quest for their solution and resulting in intriguing images and animations. In my presentation I will present three such puzzles, all in the area of mathematical visualization."
+    },
+    {
+        "title": "A hybrid space-filling and force-directed layout method for visualizing multiple-category graphs",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Takayuki Itoh",
+            "Chris Muelder",
+            "Kwan-Liu Ma",
+            "Jun Sese"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906846",
+        "citation": 38,
+        "abstract": "Many graphs used in real-world applications consist of nodes belonging to more than one category. We call such graph ldquomultiple-category graphsrdquo. Social networks are typical examples of multiple-category graphs: nodes are persons, links are friendships, and categories are communities that the persons belong to. It is often helpful to visualize both connectivity and categories of the graphs simultaneously. In this paper, we present a new visualization technique for multiple-category graphs. The technique firstly constructs hierarchical clusters of the nodes based on both connectivity and categories. It then places the nodes by a new hybrid space-filling and force-directed layout algorithm to clearly display both connectivity and category information. We show layout results using our hybrid method and compare it with other methods, and present a case study using an active biological network dataset."
+    },
+    {
+        "title": "A graph reading behavior: Geodesic-path tendency",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Weidong Huang",
+            "Peter Eades",
+            "Seok-Hee Hong"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906848",
+        "citation": 38,
+        "abstract": "The end result of graph visualization is that people read the graph and understand the data. To make this effective, it is essential to construct visualizations based on how people read graphs. Despite the popularity and importance of graph usage in a variety of application domains, little is known about how people read graphs. The lack of this knowledge has severely limited the effectiveness of graph visualizations. In attempts to understand how people read graphs, we previously observed that people have geodesic-path tendency based on subjective eye tracking data. This paper presents two controlled experiments. One is to approve the existence of the geodesic-path tendency. The other is to examine the effects of this tendency on people in reading graphs. The results show that in performing path search tasks, when eyes encounter a node that has more than one link, links that go toward the target node are more likely to be searched first. The results also indicate that when graphs are drawn with branch links on the path leading away from the target node, graph reading performance can be significantly improved."
+    },
+    {
+        "title": "Visibility-driven transfer functions",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Carlos D. Correa",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906854",
+        "citation": 37,
+        "abstract": "Direct volume rendering is an important tool for visualizing complex data sets. However, in the process of generating 2D images from 3D data, information is lost in the form of attenuation and occlusion. The lack of a feedback mechanism to quantify the loss of information in the rendering process makes the design of good transfer functions a difficult and time consuming task. In this paper, we present the notion of visibility-driven transfer functions, which are transfer functions that provide a good visibility of features of interest from a given viewpoint. To achieve this, we introduce visibility histograms. These histograms provide graphical cues that intuitively inform the user about the contribution of particular scalar values to the final image. By carefully manipulating the parameters of the opacity transfer function, users can now maximize the visibility of the intervals of interest in a volume data set. Based on this observation, we also propose a semi-automated method for generating transfer functions, which progressively improves a transfer function defined by the user, according to a certain importance metric. Now the user does not have to deal with the tedious task of making small changes to the transfer function parameters, but now he/she can rely on the system to perform these searches automatically. Our methodology can be easily deployed in most visualization systems and can be used together with traditional 1D opacity transfer functions based on scalar values, as well as with multidimensional transfer functions and other more sophisticated rendering algorithms."
+    },
+    {
+        "title": "Interactive feature extraction and tracking by utilizing region coherency",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Chris Muelder",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906833",
+        "citation": 34,
+        "abstract": "The ability to extract and follow time-varying flow features in volume data generated from large-scale numerical simulations enables scientists to effectively see and validate modeled phenomena and processes. Extracted features often take much less storage space and computing resources to visualize. Most feature extraction and tracking methods first identify features of interest in each time step independently, then correspond these features in consecutive time steps of the data. Since these methods handle each time step separately, they do not use the coherency of the feature along the time dimension in the extraction process. In this paper, we present a prediction-correction method that uses a prediction step to make the best guess of the feature region in the subsequent time step, followed by growing and shrinking the border of the predicted region to coherently extract the actual feature of interest. This method makes use of the temporal-space coherency of the data to accelerate the extraction process while implicitly solving the tedious correspondence problem that previous methods focus on. Our method is low cost with very little storage overhead, and thus facilitates interactive or runtime extraction and visualization, unlike previous methods which were largely suited for batch-mode processing due to high computational cost."
+    },
+    {
+        "title": "Dual streamline seeding",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Olufemi Rosanwo",
+            "Christoph Petz",
+            "Steffen Prohaska",
+            "Hans-Christian Hege",
+            "Ingrid Hotz"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906832",
+        "citation": 29,
+        "abstract": "This work introduces a novel streamline seeding technique based on dual streamlines that are orthogonal to the vector field, instead of tangential. The greedy algorithm presented here produces a net of orthogonal streamlines that is iteratively refined resulting in good domain coverage and a high degree of continuity and uniformity. The algorithm is easy to implement and efficient, and it naturally extends to curved surfaces."
+    },
+    {
+        "title": "Correlation study of time-varying multivariate climate data sets",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Jeffrey Sukharev",
+            "Chaoli Wang",
+            "Kwan-Liu Ma",
+            "Andrew T. Wittenberg"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906852",
+        "citation": 28,
+        "abstract": "We present a correlation study of time-varying multivariate volumetric data sets. In most scientific disciplines, to test hypotheses and discover insights, scientists are interested in looking for connections among different variables, or among different spatial locations within a data field. In response, we propose a suite of techniques to analyze the correlations in time-varying multivariate data. Various temporal curves are utilized to organize the data and capture the temporal behaviors. To reveal patterns and find connections, we perform data clustering and segmentation using the k-means clustering and graph partitioning algorithms. We study the correlation structure of a single or a pair of variables using pointwise correlation coefficients and canonical correlation analysis. We demonstrate our approach using results on time-varying multivariate climate data sets."
+    },
+    {
+        "title": "Toward effective insight management in visual analytics systems",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Yang Chen",
+            "Jing Yang",
+            "William Ribarsky"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906837",
+        "citation": 20,
+        "abstract": "Although significant progress has been made toward effective insight discovery in visual sense making approaches, there is a lack of effective and efficient approaches to manage the large amounts of insights discovered. In this paper, we propose a systematic approach to leverage this problem around the concept of facts. Facts refer to patterns, relationships, or anomalies extracted from data under analysis. They are the direct products of visual exploration and permit construction of insights together with user's mental model and evaluation. Different from the mental model, the type of facts that can be discovered from data is predictable and application-independent. Thus it is possible to develop a general fact management framework (FMF) to allow visualization users to effectively and efficiently annotate, browse, retrieve, associate, and exchange facts. Since facts are essential components of insights, it will be feasible to extend FMF to effective insight management in a variety of visual analytics approaches. Toward this goal, we first construct a fact taxonomy that categorizes various facts in multidimensional data and captures their essential attributes through extensive literature survey and user studies. We then propose a conceptual framework of fact management based upon this fact taxonomy. A concrete scenario of visual sense making on real data sets illustrates how this FMF will work."
+    },
+    {
+        "title": "Fast and sleek glyph rendering for interactive HARDI data exploration",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "T.H.J.M. Peeters",
+            "V. Prckovska",
+            "M. van Almsick",
+            "A. Vilanova",
+            "B.M. ter Haar Romeny"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906851",
+        "citation": 20,
+        "abstract": "High angular resolution diffusion imaging (HARDI) is an emerging magnetic resonance imaging (MRI) technique that overcomes some decisive limitations of its predecessor diffusion tensor imaging (DTI). HARDI can resolve locally more than one direction in the diffusion pattern of water molecules and thereby opens up the opportunity to display and track crossing fibers. Showing the local structure of the reconstructed, angular probability profiles in a fast, detailed, and interactive way can improve the quality of the research in this area and help to move it into clinical application. In this paper we present a novel approach for HARDI glyph visualization or, more generally, for the visualization of any function that resides on a sphere and that can be expressed by a Laplace series. Our GPU-accelerated glyph rendering improves the performance of the traditional way of HARDI glyph visualization as well as the visual quality of the reconstructed data, thus offering interactive HARDI data exploration of the local structure of the white brain matter in-vivo. In this paper we exploit the capabilities of modern GPUs to overcome the large, processor-intensive and memory-consuming data visualization."
+    },
+    {
+        "title": "HiMap: Adaptive visualization of large-scale online social networks",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Lei Shi",
+            "Nan Cao",
+            "Shixia Liu",
+            "Weihong Qian",
+            "Li Tan",
+            "Guodong Wang",
+            "Jimeng Sun",
+            "Ching-Yung Lin"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906836",
+        "citation": 19,
+        "abstract": "Visualizing large-scale online social network is a challenging yet essential task. This paper presents HiMap, a system that visualizes it by clustered graph via hierarchical grouping and summarization. HiMap employs a novel adaptive data loading technique to accurately control the visual density of each graph view, and along with the optimized layout algorithm and the two kinds of edge bundling methods, to effectively avoid the visual clutter commonly found in previous social network visualization tools. HiMap also provides an integrated suite of interactions to allow the users to easily navigate the social map with smooth and coherent view transitions to keep their momentum. Finally, we confirm the effectiveness of HiMap algorithms through graph-travesal based evaluations."
+    },
+    {
+        "title": "Moment curves",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Daniel Patel",
+            "Martin Haidacher",
+            "Jean-Paul Balabanian",
+            "Eduard M. Groller"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906857",
+        "citation": 18,
+        "abstract": "We define a transfer function based on the first and second statistical moments. We consider the evolution of the mean and variance with respect to a growing neighborhood around a voxel. This evolution defines a curve in 3D for which we identify important trends and project it back to 2D. The resulting 2D projection can be brushed for easy and robust classification of materials and material borders. The transfer function is applied to both CT and MR data."
+    },
+    {
+        "title": "TugGraph: Path-preserving hierarchies for browsing proximity and paths in graphs",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Daniel Archambault",
+            "Tamara Munzner",
+            "David Auber"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906845",
+        "citation": 17,
+        "abstract": "Many graph visualization systems use graph hierarchies to organize a large input graph into logical components. These approaches detect features globally in the data and place these features inside levels of a hierarchy. However, this feature detection is a global process and does not consider nodes of the graph near a feature of interest. TugGraph is a system for exploring paths and proximity around nodes and subgraphs in a graph. The approach modifies a pre-existing hierarchy in order to see how a node or subgraph of interest extends out into the larger graph. It is guaranteed to create path-preserving hierarchies, so that the abstraction shown is meaningful with respect to the structure of the graph. The system works well on graphs of hundreds of thousands of nodes and millions of edges. TugGraph is able to present views of this proximal information in the context of the entire graph in seconds, and does not require a layout of the full graph as input."
+    },
+    {
+        "title": "Optimized data transfer for time-dependent, GPU-based glyphs",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "S. Grottel",
+            "G. Reina",
+            "T. Ertl"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906839",
+        "citation": 15,
+        "abstract": "Particle-based simulations are a popular tool for researchers in various sciences. In combination with the availability of ever larger COTS clusters and the consequently increasing number of simulated particles the resulting datasets pose a challenge for real-time visualization. Additionally the semantic density of the particles exceeds the possibilities of basic glyphs, like splats or spheres and results in dataset sizes larger by at least an order of magnitude. Interactive visualization on common workstations requires a careful optimization of the data management, especially of the transfer between CPU and GPU. We propose a flexible benchmarking tool along with a series of tests to allow the evaluation of the performance of different CPU/GPU combinations in relation to a particular implementation. We evaluate different uploading strategies and rendering methods for point-based compound glyphs suitable for representing the aforementioned datasets. CPU and GPU-based approaches are compared with respect to their rendering and storage efficiency to point out the optimal solution when dealing with time-dependent datasets. The results of our research are of general interest since they can be transferred to other applications where CPU-GPU bandwidth and a high number of graphical primitives per dataset pose a problem. The employed tool set for streamlining the measurement process is made publicly available."
+    },
+    {
+        "title": "Visual support for the understanding of simulation processes",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Andrea Unger",
+            "Heidrun Schumann"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906838",
+        "citation": 15,
+        "abstract": "Current visualization systems are typically based on the concept of interactive post-processing. This decoupling of data visualization from the process of data generation offers a flexible application of visualization tools. It can also lead, however, to information loss in the visualization. Therefore, a combination of the visualization of the data generating process with the visualization of the produced data offers significant support for the understanding of the abstract data sets as well as the underlying process. Due to the application-specific characteristics of data generating processes, the task requires tailored visualization concepts. In this work, we focus on the application field of simulating biochemical reaction networks as discrete-event systems. These stochastic processes generate multi-run and multivariate time-series, which are analyzed and compared on three different process levels: model, experiment, and the level of multi-run simulation data, each associated with a broad range of analysis goals. To meet these challenging characteristics, we present visualization concepts specifically tailored to all three process levels. The fundament of all three visualization concepts is a compact view that relates the multi-run simulation data to the characteristics of the model structure and the experiment. The view provides the visualization at the experiment level. The visualization at the model level coordinates multiple instances of this view for the comparison of experiments. At the level of multi-run simulation data, the views gives an overview on the data, which can be analyzed in detail in time-series views suited for the analysis goals. Although we derive our visualization concepts for one concrete simulation process, our general concept of tailoring the visualization concepts to process levels is generally applicable for the visualization of simulation processes."
+    },
+    {
+        "title": "Evaluation of symbol contrast in scatterplots",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Jing Li",
+            "Jarke J. van Wijk",
+            "Jean-Bernard Martens"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906843",
+        "citation": 12,
+        "abstract": "Symbols are frequently used to represent data objects in visualization. An appropriate contrast between symbols is a precondition that determines the efficiency of a visual analysis process. We study the contrast between different types of symbols in the context of scatterplots, based on user testing and a quantitative model for symbol contrast. In total, 32 different symbols were generated by using four sizes, two classes (polygon-and asterisk shaped), and four categories of rotational symmetry; and used three different tasks. From the user test results an internal separation space is established for the symbol types under study. In this space, every symbol is represented by a point, and the visual contrasts defined by task performance between the symbols are represented by the distances between the points. The positions of the points in the space, obtained by multidimensional scaling (MDS), reveal the effects of different visual feature scales. Also, larger distances imply better symbol separation for visual tasks, and therefore indicate appropriate choices for symbols. The resulting configurations are discussed, and a number of patterns in the relation between properties of the symbols and the resulting contrast are identified. In short we found that the size effect in the space is not linear and more dominant than shape effect."
+    },
+    {
+        "title": "Visualization of signal transduction processes in the crowded environment of the cell",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Martin Falk",
+            "Michael Klann",
+            "Matthias Reuss",
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906853",
+        "citation": 11,
+        "abstract": "In this paper, we propose a stochastic simulation to model and analyze cellular signal transduction. The high number of objects in a simulation requires advanced visualization techniques: first to handle the large data sets, second to support the human perception in the crowded environment, and third to provide an interactive exploration tool. To adjust the state of the cell to an external signal, a specific set of signaling molecules transports the information to the nucleus deep inside the cell. There, key molecules regulate gene expression. In contrast to continuous ODE models we model all signaling molecules individually in a more realistic crowded and disordered environment. Beyond spatiotemporal concentration profiles our data describes the process on a mesoscopic, molecular level, allowing a detailed view of intracellular events. In our proposed schematic visualization individual molecules, their tracks, or reactions can be selected and brought into focus to highlight the signal transduction pathway. Segmentation, depth cues and depth of field are applied to reduce the visual complexity. We also provide a virtual microscope to display images for comparison with wet lab experiments. The method is applied to distinguish different transport modes of MAPK (mitogen-activated protein kinase) signaling molecules in a cell. In addition, we simulate the diffusion of drug molecules through the extracellular space of a solid tumor and visualize the challenges in cancer related therapeutic drug delivery."
+    },
+    {
+        "title": "Contextual picking of volumetric structures",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Peter Kohlmann",
+            "Stefan Bruckner",
+            "Armin Kanitsar",
+            "M. Eduard Groller"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906855",
+        "citation": 10,
+        "abstract": "This paper presents a novel method for the interactive identification of contextual interest points within volumetric data by picking on a direct volume rendered image. In clinical diagnostics the points of interest are often located in the center of anatomical structures. In order to derive the volumetric position which allows a convenient examination of the intended structure, the system automatically extracts contextual meta information from the DICOM (Digital Imaging and Communications in Medicine) images and the setup of the medical workstation. Along a viewing ray for a volumetric picking, the ray profile is analyzed for structures which are similar to predefined templates from a knowledge base. We demonstrate with our results that the obtained position in 3D can be utilized to highlight a structure in 2D slice views, to interactively calculate centerlines of tubular objects, or to place labels at contextually-defined volumetric positions."
+    },
+    {
+        "title": "Point-based tree representation: A new approach for large hierarchies",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Hans-Jorg Schulz",
+            "Steffen Hadlak",
+            "Heidrun Schumann"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906841",
+        "citation": 9,
+        "abstract": "Space-filling layout techniques for tree representations are frequently used when the available screen space is small or the data set is large. In this paper, we propose a new approach to space-filling tree representations, which uses mechanisms from the point-based rendering paradigm. Additionally, helpful interaction techniques that tie in with our layout are presented. We will relate our new technique to established space-filling techniques along the lines of a newly developed classification and also evaluate it numerically using the measures of the ink-paper-ratio and overplotted%."
+    },
+    {
+        "title": "A self-adaptive treemap-based technique for visualizing hierarchical data in 3D",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Abon Chaudhuri",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906844",
+        "citation": 9,
+        "abstract": "In this paper, we present a novel adaptive visualization technique where the constituting polygons dynamically change their geometry and other visual attributes depending on user interaction. These changes take place with the objective of conveying required level of detail to the user through each view. Our proposed technique is successfully applied to build a treemap-based but 3D visualization of hierarchical data, a widely used information structure. This new visualization exploits its adaptive nature to address issues like cluttered display, imperceptible hierarchy, lack of smooth zoom-in and out technique which are common in tree visualization. We also present an algorithm which utilizes the flexibility of our proposed technique to deal with occlusion, a problem inherent in any 3D information visualization. On one hand, our work establishes adaptive visualization as a means of displaying tree-structured data in 3D. On the other, it promotes the technique as a potential candidate for being employed to visualize other information structures also."
+    },
+    {
+        "title": "Visualizing metrics on areas of interest in software architecture diagrams",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Heorhiy Byelas",
+            "Alexandru Telea"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906835",
+        "citation": 8,
+        "abstract": "We present a new method for the combined visualization of software architecture diagrams, such as UML class diagrams or component diagrams, and software metrics defined on groups of diagram elements. Our method extends an existing rendering technique for the so-called areas of interest in system architecture diagrams to visualize several metrics, possibly having missing values, defined on overlapping areas of interest. For this, we use a solution that combines texturing, blending, and smooth scattered-data point interpolation. Our new method simplifies the task of visually correlating the distribution and outlier values of a multivariate metric dataset with a system's structure. We demonstrate the application of our method on component and class diagrams extracted from real-world systems."
+    },
+    {
+        "title": "Out-of-core volume rendering for time-varying fields using a space-partitioning time (SPT) tree",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Zhiyan Du",
+            "Yi-Jen Chiang",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906840",
+        "citation": 7,
+        "abstract": "In this paper, we propose a novel out-of-core volume rendering algorithm for large time-varying fields. Exploring temporal and spatial coherences has been an important direction for speeding up the rendering of time-varying data. Previously, there were techniques that hierarchically partition both the time and space domains into a data structure so as to re-use some results from the previous time step in multiresolution rendering; however, it has not been studied on which domain should be partitioned first to obtain a better re-use rate. We address this open question, and show both theoretically and experimentally that partitioning the time domain first is better. We call the resulting structure (a binary time tree as the primary structure and an octree as the secondary structure) the space-partitioning time (SPT) tree. Typically, our SPT-tree rendering has a higher level of details, a higher re-use rate, and runs faster. In addition, we devise a novel cut-finding algorithm to facilitate efficient out-of-core volume rendering using our SPT tree, we develop a novel out-of-core preprocessing algorithm to build our SPT tree I/O-efficiently, and we propose modified error metrics with a theoretical guarantee of a monotonicity property that is desirable for the tree search. The experiments on datasets as large as 25GB using a PC with only 2GB of RAM demonstrated the efficacy of our new approach."
+    },
+    {
+        "title": "Visualizing time-varying features with TAC-based distance fields",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Teng-Yok Lee",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906831",
+        "citation": 5,
+        "abstract": "To analyze time-varying data sets, tracking features over time is often necessary to better understand the dynamic nature of the underlying physical process. Tracking 3D time-varying features, however, is non-trivial when the boundaries of the features cannot be easily defined. In this paper, we propose a new framework to visualize time-varying features and their motion without explicit feature segmentation and tracking. In our framework, a time-varying feature is described by a time series or Time Activity Curve (TAC). To compute the distance, or similarity, between a voxel's time series and the feature, we use the Dynamic Time Warping (DTW) distance metric. The purpose of DTW is to compare the shape similarity between two time series with an optimal warping of time so that the phase shift of the feature in time can be accounted for. After applying DTW to compare each voxel's time series with the feature, a time-invariant distance field can be computed. The amount of time warping required for each voxel to match the feature provides an estimate of the time when the feature is most likely to occur. Based on the TAC-based distance field, several visualization methods can be derived to highlight the position and motion of the feature. We present several case studies to demonstrate and compare the effectiveness of our framework."
+    },
+    {
+        "title": "Visualizing diffusion tensor imaging data with merging ellipsoids",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Wei Chen",
+            "Song Zhang",
+            "Stephen Correia",
+            "David F. Tate"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906849",
+        "citation": 5,
+        "abstract": "Diffusion tensor fields reveal the underlying anatomical structures in biological tissues such as neural fibers in the brain. Most current methods for visualizing the diffusion tensor field can be categorized into two classes: integral curves and glyphs. Integral curves are continuous and represent the underlying fiber structures, but are prone to integration error and loss of local information. Glyphs are useful for representing local tensor information, but do not convey the connectivity in the anatomical structures well. We introduce a simple yet effective visualization technique that extends the streamball method in flow visualization to tensor ellipsoids. Each tensor ellipsoid represents a local tensor, and either blends with neighboring tensors or breaks away from them depending on their orientations and anisotropies. The resulting visualization shows the connectivity information in the underlying anatomy while characterizing the local tenors in detail. By interactively changing an iso-value parameter, users can examine the diffusion tensor field in the entire spectrum between the continuous integral curves and the discrete glyphs. Expert evaluation indicates that this method conveys very useful visual information about local anisotropy in white matter fibers. Such information was previously unavailable in tractography models. Our method provides a visual tool for assessing variability in DTI fiber tract integrity and its relation to function."
+    },
+    {
+        "title": "An organization topographic map for visualizing business hierarchical relationships",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Rieko Otsuka",
+            "Kazuo Yano",
+            "Nobuo Sato"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906834",
+        "citation": 5,
+        "abstract": "Visualization of the actual conditions of an organization is a very challenging issue. We propose a new system called a Business Microscope that senses the activities of people in an organization and provides visual feedback to users. We use name-tag shaped sensor nodes to measure face-to-face interaction between employees. The massive amount of data collected by the sensor-network terminal are signal-processed by the server and displayed as an organization's topographic map that displays the frequencies of organizational activities. To depict the organization's topographic map, our system creates a novel relation tree using the interaction data from all pairs of members. In this kind of map, some groups in the organization hierarchically form islands. Members in those islands who have relationships with many others form mountains that are plotted with contours. We can comprehend the actual conditions of organizations from our topographic map. We tested our technique in several experiments to evaluate this system."
+    },
+    {
+        "title": "Structure-aware viewpoint selection for volume visualization",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Yubo Tao",
+            "Hai Lin",
+            "Hujun Bao",
+            "Feng Dong",
+            "Gordon Clapworthy"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906856",
+        "citation": 3,
+        "abstract": "Viewpoint selection is becoming a useful part in the volume visualization pipeline, as it further improves the efficiency of data understanding by providing representative viewpoints. We present two structure-aware view descriptors, which are the shape view descriptor and the detail view descriptor, to select the optimal viewpoint with the maximum amount of the structural information. These two proposed structure-aware view descriptors are both based on the gradient direction, as the gradient is a well-defined measurement of boundary structures, which have been proved as features of interest in many applications. The shape view descriptor is designed to evaluate the overall orientation of features of interest. For estimating local details, we employ the bilateral filter to construct the shape volume. The bilateral filter is very effective in smoothing local details and preserving strong boundary structures at the same time. Therefore, large-scale global structures are in the shape volume, while small-scale local details still remain in the original volume. The detail view descriptor measures the amount of visible details on boundary structures in terms of variances in the local structure between the shape volume and the original volume. These two view descriptors can be integrated into a viewpoint selection framework, and this framework can emphasize global structures or local details with flexibility tailored to the user's specific situations. We performed experiments on various types of volume datasets. These experiments verify the effectiveness of our proposed view descriptors, and the proposed viewpoint selection framework actually locates the optimal viewpoints that show the maximum amount of the structural information."
+    },
+    {
+        "title": "Extending the spring-electrical model to overcome warping effects",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Yifan Hu",
+            "Yehuda Koren"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906847",
+        "citation": 2,
+        "abstract": "The spring-electrical model based force directed algorithm is widely used for drawing undirected graphs, and sophisticated implementations can be very efficient for visualizing large graphs. However, our practical experience shows that in many cases, layout quality suffers as a result of non-uniform vertex density. This gives rise to warping effects in that vertices on the outskirt of the drawing are often closer to each other than those near the center, and branches in a tree-like graph tend to cling together. In this paper we propose algorithms that overcome these effects. The algorithms combine the efficiency and good global structure of the spring-electrical model, with the flexibility of the Kamada-Kawai stress model of in specifying the ideal edge length, and are very effective in overcoming the warping effects."
+    },
+    {
+        "title": "A visual canonical adjacency matrix for graphs",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Hongli Li",
+            "Georges Grinstein",
+            "Loura Costello"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906842",
+        "citation": 0,
+        "abstract": "Graph data mining algorithms rely on graph canonical forms to compare different graph structures. These canonical form definitions depend on node and edge labels. In this paper, we introduce a unique canonical visual matrix representation that only depends on a graph's topological information, so that two structurally identical graphs will have exactly the same visual adjacency matrix representation. In this canonical matrix, nodes are ordered based on a breadth-first search spanning tree. Special rules and filters are designed to guarantee the uniqueness of an arrangement. Such a unique matrix representation provides persistence and a stability which can be used and harnessed in visualization, especially for data exploration and studies."
+    },
+    {
+        "title": "Capstone address Introduction to processing and visualization of Chang'e-1 Lunar exploration data",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [
+            "Zesheng Tang"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2009.4906829",
+        "citation": 0,
+        "abstract": "The Chang'e orbiter has successfully operated for more than 1 year. The exploration data sent back by Chang'e has been distributed to registered research institutes and universities after the pre-processing in National Astronomical Observatories of China (NAOC). This talk will introduce the processing and visualization of Chang'e-1 Lunar Exploration Data in Macau University of Science and Technology collaboratively with NAOC, CSSAR and Tsinghua University in the past few months. In this talk, the scientific objectives and its related data of Chang'e-1 will be firstly introduced. In order to study the topology of Lunar surface, the enhancement and automatic seamless stitching of the images from CCD camera will be shown and the data processing and its visualization of the laser altimeter will be discussed, then, followed by the comparison with the results of other countries. For the purpose to analyze the abundance of different elements and its distribution on lunar surface, the analysis of γray spectrum and the distribution of Thorium will be presented. To probe the space environment in the vicinity of the moon, the preliminary results for visualization of measurement data of sonar wind will also be shown. At last, future works will be discussed."
+    },
+    {
+        "title": "Cover image credits",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906858",
+        "citation": 0,
+        "abstract": "Cover image credits."
+    },
+    {
+        "title": "IEEE Computer Society Visualization & Graphics Technical Committee (VGTC)",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906825",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members."
+    },
+    {
+        "title": "Preface",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906824",
+        "citation": 0,
+        "abstract": "Presents the welcome message from the conference proceedings."
+    },
+    {
+        "title": "Committee",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906826",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members."
+    },
+    {
+        "title": "list-reviewer",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906827",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "[Title page]",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906820",
+        "citation": 0,
+        "abstract": "The following topics are dealt with: feature extraction; feature tracking; information visualization; visualization system; graph drawing; and volume visualization."
+    },
+    {
+        "title": "Contents",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906822",
+        "citation": 0,
+        "abstract": "Presents the table of contents of the proceedings."
+    },
+    {
+        "title": "[Front and back covers]",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906859",
+        "citation": 0,
+        "abstract": "Presents the front and back cover or splash screen of the proceedings record."
+    },
+    {
+        "title": "[Blank page]",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906830",
+        "citation": 0,
+        "abstract": "This page or pages intentionally left blank."
+    },
+    {
+        "title": "[Blank page]",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906850",
+        "citation": 0,
+        "abstract": "This page or pages intentionally left blank."
+    },
+    {
+        "title": "[Copyright notice]",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906821",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "Supporting organizations",
+        "conferenceTitle": "2009 IEEE Pacific Visualization Symposium",
+        "date": "20-23 April 2009",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2009.4906823",
+        "citation": 0,
+        "abstract": "The conference organizers greatly appreciate the support of the various corporate sponsors listed."
+    }
+]

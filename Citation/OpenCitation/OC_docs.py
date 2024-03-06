@@ -1,4 +1,4 @@
-## Open Citations api 연동
+## Open Citations api 연동 (전체)
 
 import os
 import csv
