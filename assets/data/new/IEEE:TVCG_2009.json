@@ -1,0 +1,240 @@
+[
+    {
+        "title": "Multiscale Time Activity Data Exploration via Temporal Clustering Visualization Spreadsheet",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Jonathan Woodring",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/TVCG.2008.69",
+        "citation": 45,
+        "abstract": "Time-varying data is usually explored by animation or arrays of static images. Neither is particularly effective for classifying data by different temporal activities. Important temporal trends can be missed due to the lack of ability to find them with current visualization methods. In this paper, we propose a method to explore data at different temporal resolutions to discover and highlight data based upon time-varying trends. Using the wavelet transform along the time axis, we transform data points into multi-scale time series curve sets. The time curves are clustered so that data of similar activity are grouped together, at different temporal resolutions. The data are displayed to the user in a global time view spreadsheet where she is able to select temporal clusters of data points, and filter and brush data across temporal scales. With our method, a user can interact with data based on time activities and create expressive visualizations."
+    },
+    {
+        "title": "Random Accessible Mesh Compression Using Mesh Chartification",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Sungyul Choe",
+            "Junho Kim",
+            "Haeyoung Lee",
+            "Seungyong Lee"
+        ],
+        "DOI": "10.1109/TVCG.2008.64",
+        "citation": 22,
+        "abstract": "Previous mesh compression techniques provide decent properties such as high compression ratio, progressive decoding, and out-of-core processing. However, only a few of them supports the random accessibility in decoding, which enables the details of any specific part to be available without decoding other parts. This paper proposes an effective framework for the random accessibility of mesh compression. The key component of the framework is a wire-net mesh constructed from a chartification of the given mesh. Charts are compressed separately for random access to mesh parts and a wire-net mesh provides an indexing and stitching structure for the compressed charts. Experimental results show that random accessibility can be achieved with competent compression ratio, which is only a little worse than single-rate and comparable to progressive encoding. To demonstrate the merits of the framework, we apply it to process huge meshes in an out-of-core manner, such as out-of-core rendering and out-of-core editing."
+    },
+    {
+        "title": "Illustration-Inspired Depth Enhanced Volumetric Medical Visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Nikolai A. Svakhine",
+            "David S. Ebert",
+            "William M. Andrews"
+        ],
+        "DOI": "10.1109/TVCG.2008.56",
+        "citation": 21,
+        "abstract": "Volume illustration can be used to provide insight into source data from CT/MRI scanners in much the same way as medical illustration depicts the important details of anatomical structures. As such, proven techniques used in medical illustration should be transferable to volume illustration, providing scientists with new tools to visualize their data. In recent years, a number of techniques have been developed to enhance the rendering pipeline and create illustrative effects similar to the ones found in medical textbooks and surgery manuals. Such effects usually highlight important features of the subject while subjugating its context and providing depth cues for correct perception. Inspired by traditional visual and line-drawing techniques found in medical illustration, we have developed a collection of fast algorithms for more effective emphasis/de-emphasis of data as well as conveyance of spatial relationships. Our techniques utilize effective outlining techniques and selective depth enhancement to provide perceptual cues of object importance as well as spatial relationships in volumetric datasets. Moreover, we have used illustration principles to effectively combine and adapt basic techniques so that they work together to provide consistent visual information and a uniform style."
+    },
+    {
+        "title": "Flow-Based Image Abstraction",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Henry Kang",
+            "Seungyong Lee",
+            "Charles K. Chui"
+        ],
+        "DOI": "10.1109/TVCG.2008.81",
+        "citation": 141,
+        "abstract": "We present a non-photorealistic rendering technique that automatically delivers a stylized abstraction of a photograph. Our approach is based on shape/color filtering guided by a vector field that describes the flow of salient features in the image. This flow-based filtering significantly improves the abstraction performance in terms of feature enhancement and stylization. Our method is simple, fast, and easy to implement. Experimental results demonstrate the effectiveness of our method in producing stylistic and feature-enhancing illustrations from photographs."
+    },
+    {
+        "title": "An Overview of 3D Software Visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Alfredo R. Teyseyre",
+            "Marcelo R. Campo"
+        ],
+        "DOI": "10.1109/TVCG.2008.86",
+        "citation": 109,
+        "abstract": "Software visualization studies techniques and methods for graphically representing different aspects of software. Its main goal is to enhance, simplify and clarify the mental representation a software engineer has of a computer system. During many years, visualization in 2D space has been actively studied, but in the last decade, researchers have begun to explore new 3D representations for visualizing software. In this article, we present an overview of current research in the area, describing several major aspects like: visual representations, interaction issues, evaluation methods and development tools. We also perform a survey of some representative tools to support different tasks, i.e., software maintenance and comprehension, requirements validation and algorithm animation for educational purposes, among others. Finally, we conclude identifying future research directions."
+    },
+    {
+        "title": "Calibration, Registration, and Synchronization for High Precision Augmented Reality Haptics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Matthias Harders",
+            "Gerald Bianchi",
+            "Benjamin Knoerlein",
+            "Gabor Szekely"
+        ],
+        "DOI": "10.1109/TVCG.2008.63",
+        "citation": 60,
+        "abstract": "In our current research we examine the application of visuo-haptic augmented reality setups in medical training. To this end, highly accurate calibration, system stability, and low latency are indispensable prerequisites. These are necessary to maintain user immersion and avoid breaks in presence which potentially diminish the training outcome. In this paper we describe the developed calibration methods for visuo-haptic integration, the hybrid tracking technique for stable alignment of the augmentation, and the distributed framework ensuring low latency and component synchronization. Finally, we outline an early prototype system based on the multimodal augmented reality framework. The latter allows colocated visuo-haptic interaction with real and virtual scene components in a simplified open surgery setting."
+    },
+    {
+        "title": "Asymmetric Tensor Analysis for Flow Visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Eugene Zhang",
+            "Harry Yeh",
+            "Zhongzang Lin",
+            "Robert S. Laramee"
+        ],
+        "DOI": "10.1109/TVCG.2008.68",
+        "citation": 44,
+        "abstract": "The gradient of a velocity vector field is an asymmetric tensor field which can provide critical insight that is difficult to infer from traditional trajectory-based vector field visualization techniques. We describe the structures in the eigenvalue and eigenvector fields of the gradient tensor and how these structures can be used to infer the behaviors of the velocity field. To illustrate the structures in asymmetric tensor fields, we introduce the notions of eigenvalue and eigenvector manifolds. These concepts afford a number of theoretical results that clarify the connections between symmetric and antisymmetric components in tensor fields. In addition, these manifolds naturally lead to partitions of tensor fields, which we use to design effective visualization strategies. Both eigenvalue manifold and eigenvector manifold are supported by a tensor reparameterization with physical meaning. This allows us to relate our tensor analysis to physical quantities such as rotation, angular deformation, and dilation, which provide physical interpretation of our tensor-driven vector field analysis in the context of fluid mechanics. To demonstrate the utility of our approach, we have applied our visualization techniques and interpretation to the study of the Sullivan vortex as well as computational fluid dynamics simulation data."
+    },
+    {
+        "title": "Edge Transformations for Improving Mesh Quality of Marching Cubes",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Carlos A. Dietrich",
+            "Carlos E. Scheidegger",
+            "John Schreiner",
+            "João L.D. Comba",
+            "Luciana P. Nedel",
+            "Cláudio T. Silva"
+        ],
+        "DOI": "10.1109/TVCG.2008.60",
+        "citation": 41,
+        "abstract": "Marching Cubes is a popular choice for isosurface extraction from regular grids due to its simplicity, robustness, and efficiency. One of the key shortcomings of this approach is the quality of the resulting meshes, which tend to have many poorly shaped and degenerate triangles. This issue is often addressed through post processing operations such as smoothing. As we demonstrate in experiments with several datasets, while these improve the mesh, they do not remove all degeneracies, and incur an increased and unbounded error between the resulting mesh and the original isosurface. Rather than modifying the resulting mesh, we propose a method to modify the grid on which Marching Cubes operates. This modification greatly increases the quality of the extracted mesh. In our experiments, our method did not create a single degenerate triangle, unlike any other method we experimented with. Our method incurs minimal computational overhead, requiring at most twice the execution time of the original Marching Cubes algorithm in our experiments. Most importantly, it can be readily integrated in existing Marching Cubes implementations, and is orthogonal to many Marching Cubes enhancements (particularly, performance enhancements such as out-of-core and acceleration structures)."
+    },
+    {
+        "title": "Real-Time Tracking of Visually Attended Objects in Virtual Environments and Its Application to LOD",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Sungkil Lee",
+            "Gerard Jounghyun Kim",
+            "Seungmoon Choi"
+        ],
+        "DOI": "10.1109/TVCG.2008.82",
+        "citation": 31,
+        "abstract": "This paper presents a real-time framework for computationally tracking objects visually attended by the user while navigating in interactive virtual environments. In addition to the conventional bottom-up (stimulus-driven) saliency map, the proposed framework uses top-down (goal-directed) contexts inferred from the user's spatial and temporal behaviors, and identifies the most plausibly attended objects among candidates in the object saliency map. The computational framework was implemented using GPU, exhibiting high computational performance adequate for interactive virtual environments. A user experiment was also conducted to evaluate the prediction accuracy of the tracking framework by comparing objects regarded as visually attended by the framework to actual human gaze collected with an eye tracker. The results indicated that the accuracy was in the level well supported by the theory of human cognition for visually identifying single and multiple attentive targets, especially owing to the addition of top-down contextual information. Finally, we demonstrate how the visual attention tracking framework can be applied to managing the level of details in virtual environments, without any hardware for head or eye tracking."
+    },
+    {
+        "title": "Interactive Navigation of Heterogeneous Agents Using Adaptive Roadmaps",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Russell Gayle",
+            "Avneesh Sud",
+            "Erik Andersen",
+            "Stephen J. Guy",
+            "Ming C. Lin",
+            "Dinesh Manocha"
+        ],
+        "DOI": "10.1109/TVCG.2008.84",
+        "citation": 29,
+        "abstract": "We present a novel algorithm for collision-free navigation of a large number of independent agents in complex and dynamic environments. We introduce adaptive roadmaps to perform global path planning for each agent simultaneously. Our algorithm takes into account dynamic obstacles and interagents interaction forces to continuously update the roadmap based on a physically-based dynamics simulator. In order to efficiently update the links, we perform adaptive particle-based sampling along the links. We also introduce the notion of \"link bands\" to resolve collisions among multiple agents. In practice, our algorithm can perform real-time navigation of hundreds and thousands of human agents in indoor and outdoor scenes."
+    },
+    {
+        "title": "Depth-Fused 3D Imagery on an Immaterial Display",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Cha Lee",
+            "Stephen DiVerdi",
+            "Tobias Hollerer"
+        ],
+        "DOI": "10.1109/TVCG.2008.83",
+        "citation": 23,
+        "abstract": "We present an immaterial display that uses a generalized form of depth-fused 3D (DFD) rendering to create unencumbered 3D visuals. To accomplish this result, we demonstrate a DFD display simulator that extends the established depth-fused 3D principle by using screens in arbitrary configurations and from arbitrary viewpoints. The feasibility of the generalized DFD effect is established with a user study using the simulator. Based on these results, we developed a prototype display using one or two immaterial screens to create an unencumbered 3D visual that users can penetrate, examining the potential for direct walk-through and reach-through manipulation of the 3D scene. We evaluate the prototype system in formative and summative user studies and report the tolerance thresholds discovered for both tracking and projector errors."
+    },
+    {
+        "title": "Hierarchical Photon Mapping",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Ben Spencer",
+            "Mark W. Jones"
+        ],
+        "DOI": "10.1109/TVCG.2008.67",
+        "citation": 10,
+        "abstract": "Photon mapping is an efficient method for producing high-quality, photorealistic images with full global illumination. In this paper we present a more accurate and efficient approach to final gathering using the photon map based upon hierarchical evaluation of the photons over each surface. We use the footprint of each gather ray to calculate the irradiance estimate area rather than deriving it from the local photon density. We then describe an efficient method for computing the irradiance from the photon map given an arbitrary estimate area. Finally, we demonstrate how the technique may be used to reduce variance and increase efficiency when sampling diffuse and glossy-specular BRDFs."
+    },
+    {
+        "title": "Editor's Note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/TVCG.2009.6",
+        "citation": 1,
+        "abstract": ""
+    },
+    {
+        "title": "Guest Editor's Introduction: Special Section on VRST",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [
+            "Werner Purgathofer"
+        ],
+        "DOI": "10.1109/TVCG.2009.7",
+        "citation": 0,
+        "abstract": "The three papers in this special section are extended versions of papers originally presented at the ACM Symposium on Virtual Reality Software and Technology (VRST) 2007."
+    },
+    {
+        "title": "[Front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2009.2",
+        "citation": 1,
+        "abstract": "Presents the table of contents for this issue of the periodical."
+    },
+    {
+        "title": "2008 TVCG Reviewers List",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2009.1",
+        "citation": 0,
+        "abstract": "Lists, in alphabetical order, the reviewers who contributed to the IEEE Transactions on Visualization and Computer Graphics from 5 October 2007 through 27 September 2008."
+    },
+    {
+        "title": "[Back cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2009.5",
+        "citation": 0,
+        "abstract": "Provides a listing of current staff, committee members and society officers."
+    },
+    {
+        "title": "TVCG Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2009.3",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
+    },
+    {
+        "title": "TVCG Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2009.4",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
+    },
+    {
+        "title": "2008 TVCG Annual Index",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2009",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2009.8",
+        "citation": 0,
+        "abstract": "This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the co-authors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under the primary entry in the Author Index."
+    }
+]

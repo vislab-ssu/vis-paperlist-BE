@@ -1,0 +1,204 @@
+[
+    {
+        "title": "Realistic haptic rendering of interacting deformable objects in virtual environments",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "C. Duriez",
+            "F. Dubois",
+            "A. Kheddar",
+            "C. Andriot"
+        ],
+        "DOI": "10.1109/TVCG.2006.13",
+        "citation": 159,
+        "abstract": "A new computer haptics algorithm to be used in general interactive manipulations of deformable virtual objects is presented. In multimodal interactive simulations, haptic feedback computation often comes from contact forces. Subsequently, the fidelity of haptic rendering depends significantly on contact space modeling. Contact and friction laws between deformable models are often simplified in up to date methods. They do not allow a \"realistic\" rendering of the subtleties of contact space physical phenomena (such as slip and stick effects due to friction or mechanical coupling between contacts). In this paper, we use Signorini's contact law and Coulomb's friction law as a computer haptics basis. Real-time performance is made possible thanks to a linearization of the behavior in the contact space, formulated as the so-called Delassus operator, and iteratively solved by a Gauss-Seidel type algorithm. Dynamic deformation uses corotational global formulation to obtain the Delassus operator in which the mass and stiffness ratio are dissociated from the simulation time step. This last point is crucial to keep stable haptic feedback. This global approach has been packaged, implemented, and tested. Stable and realistic 6D haptic feedback is demonstrated through a clipping task experiment."
+    },
+    {
+        "title": "Geometry-driven photorealistic facial expression synthesis",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "Qingshan Zhang",
+            "Zicheng Liu",
+            "Baining Guo",
+            "Demetri Terzopoulos",
+            "Heung-Yeung Shum"
+        ],
+        "DOI": "10.1109/TVCG.2006.9",
+        "citation": 116,
+        "abstract": "Expression mapping (also called performance driven animation) has been a popular method for generating facial animations. A shortcoming of this method is that it does not generate expression details such as the wrinkles due to skin deformations. In this paper, we provide a solution to this problem. We have developed a geometry-driven facial expression synthesis system. Given feature point positions (the geometry) of a facial expression, our system automatically synthesizes a corresponding expression image that includes photorealistic and natural looking expression details. Due to the difficulty of point tracking, the number of feature points required by the synthesis system is, in general, more than what is directly available from a performance sequence. We have developed a technique to infer the missing feature point motions from the tracked subset by using an example-based approach. Another application of our system is expression editing where the user drags feature points while the system interactively generates facial expressions with skin deformation details."
+    },
+    {
+        "title": "Predictive haptic guidance: intelligent user assistance for the control of dynamic tasks",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "B.A.C. Forsyth",
+            "K.E. Maclean"
+        ],
+        "DOI": "10.1109/TVCG.2006.11",
+        "citation": 100,
+        "abstract": "Intelligent systems are increasingly able to offer real-time information relevant to a user's manual control of an interactive system, such as dynamic system control space constraints for animation control and driving. However, it is difficult to present this information in a usable manner and other approaches which have employed haptic cues for manual control in \"slow\" systems often lead to instabilities in highly dynamic tasks. We present a predictive haptic guidance method based on a look-ahead algorithm, along with a user evaluation which compares it with other approaches (no guidance and a standard potential-field method) in a 1-DoF steered path-following scenario. Look-ahead guidance outperformed the other methods in both quantitative performance and subjective preference across a range of path complexity and visibility and a force analysis demonstrated that it applied smaller and fewer forces to users. These results (which appear to derive from the predictive guidance's supporting users in taking earlier and more subtle corrective action) suggest the potential of predictive methods in aiding manual control of dynamic interactive tasks where intelligent support is available."
+    },
+    {
+        "title": "Visualization task performance with 2D, 3D, and combination displays",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "M. Tory",
+            "A.E. Kirkpatrick",
+            "M.S. Atkins",
+            "T. Moller"
+        ],
+        "DOI": "10.1109/TVCG.2006.17",
+        "citation": 95,
+        "abstract": "We describe a series of experiments that compare 2D displays, 3D displays, and combined 2D/3D displays (orientation icon, ExoVis, and clip planes) for relative position estimation, orientation, and volume of interest tasks. Our results indicate that 3D displays can be very effective for approximate navigation and relative positioning when appropriate cues, such as shadows, are present. However, 3D displays are not effective for precise navigation and positioning except possibly in specific circumstances, for instance, when good viewing angles or measurement tools are available. For precise tasks in other situations, orientation icon and ExoVis displays were better than strict 2D or 3D displays (displays consisting exclusively of 2D or 3D views). The combined displays had as good or better performance, inspired higher confidence, and allowed natural, integrated navigation. Clip plane displays were not effective for 3D orientation because users could not easily view more than one 2D slice at a time and had to frequently change the visibility of individual slices. Major factors contributing to display preference and usability were task characteristics, orientation cues, occlusion, and spatial proximity of views that were used together."
+    },
+    {
+        "title": "Time-varying contour topology",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "B.-S. Sohn",
+            "Chandrajit Bajaj"
+        ],
+        "DOI": "10.1109/TVCG.2006.16",
+        "citation": 59,
+        "abstract": "The contour tree has been used to compute the topology of isosurfaces, generate a minimal seed set for accelerated isosurface extraction, and provide a user interface to segment individual contour components in a scalar field. In this paper, we extend the benefits of the contour tree to time-varying data visualization. We define temporal correspondence of contour components and describe an algorithm to compute the correspondence information in time-dependent contour trees. A graph representing the topology changes of time-varying isosurfaces is constructed in real-time for any selected isovalue using the precomputed correspondence information. Quantitative properties, such as surface area and volume of contour components, are computed and labeled on the graph. This topology change graph helps users to detect significant topological and geometric changes in time-varying isosurfaces. The graph is also used as an interactive user interface to segment, track, and visualize the evolution of any selected contour components over time."
+    },
+    {
+        "title": "Ray-tracing polymorphic multidomain spectral/hp elements for isosurface rendering",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "B. Nelson",
+            "R.M. Kirby"
+        ],
+        "DOI": "10.1109/TVCG.2006.12",
+        "citation": 30,
+        "abstract": "The purpose of this paper is to present a ray-tracing isosurface rendering algorithm for spectral/hp (high-order finite) element methods in which the visualization error is both quantified and minimized. Determination of the ray-isosurface intersection is accomplished by classic polynomial root-finding applied to a polynomial approximation obtained by projecting the finite element solution over element-partitioned segments along the ray. Combining the smoothness properties of spectral/hp elements with classic orthogonal polynomial approximation theory, we devise an adaptive scheme which allows the polynomial approximation along a ray-segment to be arbitrarily close to the true solution. The resulting images converge toward a pixel-exact image at a rate far faster than sampling the spectral/hp element solution and applying classic low-order visualization techniques such as marching cubes."
+    },
+    {
+        "title": "Thin structure segmentation and visualization in three-dimensional biomedical images: a shape-based approach",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "A. Huang",
+            "G.M. Nielson",
+            "Anshuman Razdan",
+            "G.E. Farin",
+            "D.P. Baluch",
+            "D.G. Capco"
+        ],
+        "DOI": "10.1109/TVCG.2006.15",
+        "citation": 24,
+        "abstract": "This paper presents a shape-based approach in extracting thin structures, such as lines and sheets, from three-dimensional (3D) biomedical images. Of particular interest is the capability to recover cellular structures, such as microtubule spindle fibers and plasma membranes, from laser scanning confocal microscopic (LSCM) data. Hessian-based shape methods are reviewed. A synthesized linear structure is used to evaluate the sensitivity of the multiscale filtering approach in extracting closely positioned fibers. We find that the multiscale approach tends to fuse lines together, which makes it unsuitable for visualizing mouse egg spindle fibers. Single-scale Gaussian filters, balanced between sensitivity and noise resistance, are adopted instead. In addition, through an ellipsoidal Gaussian model, the eigenvalues of the Hessian matrix are quantitatively associated with the standard deviations of the Gaussian model. Existing shape filters are simplified and applied to LSCM data. A significant improvement in extracting closely positioned thin lines is demonstrated by the resultant images. Further, the direct association of shape models and eigenvalues makes the processed images more understandable qualitatively and quantitatively."
+    },
+    {
+        "title": "A new combinatorial approach to surface reconstruction with sharp features",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "Chuan-Chu Kuo",
+            "Hong-Tzong Yau"
+        ],
+        "DOI": "10.1109/TVCG.2006.2",
+        "citation": 19,
+        "abstract": "This paper presents a new combinatorial approach to surface reconstruction with sharp features. Different from other postprocessing methods, the proposed method provides a systematic way to identify and reconstruct sharp features from unorganized sample points in one integrated reconstruction process. In addition, unlike other approximation methods, the reconstructed triangulated surface is guaranteed to pass through the original sample points. In this paper, the sample points in the sharp regions are defined as characteristic vertices (c-vertices), and their associated poles (c-poles) are used as a \"sculptor\" to extract triangles from a Delaunay structure for the sharp features. But, for smooth surface regions, an efficient region-growing scheme is used for triangle extraction and connection. Since only the c-poles associated with the sharp regions are used to participate in the Delaunay computation with the sample points, the proposed algorithm is adaptive in the sense that, given a sampled object with less sharp features, the triangulation becomes more efficient. To validate the proposed algorithm, some detailed illustrations are given. Experimental results show that it is robust and highly efficient."
+    },
+    {
+        "title": "Stylized and abstract painterly rendering system using a multiscale segmented sphere hierarchy",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "Ming-Te Chi",
+            "Tong-Yee Lee"
+        ],
+        "DOI": "10.1109/TVCG.2006.14",
+        "citation": 15,
+        "abstract": "This paper presents a novel system framework for interactive, three-dimensional, stylized, abstract painterly rendering. In this framework, the input models are first represented using 3D point sets and then this point-based representation is used to build a multiresolution bounding sphere hierarchy. From the leaf to root nodes, spheres of various sizes are rendered into multiple-size strokes on the canvas. The proposed sphere hierarchy is developed using multiscale region segmentation. This segmentation task assembles spheres with similar attribute regularities into a meaningful region hierarchy. These attributes include colors, positions, and curvatures. This hierarchy is very useful in the following respects: 1) it ensures the screen-space stroke density, 2) controls different input model abstractions, 3) maintains region structures such as the edges/boundaries at different scales, and 4) renders models interactively. By choosing suitable abstractions, brush stroke, and lighting parameters, we can interactively generate various painterly styles. We also propose a novel scheme that reduces the popping effect in animation sequences. Many different stylized images can be generated using the proposed framework."
+    },
+    {
+        "title": "Distance preserving flattening of surface sections",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "L. Saroul",
+            "O. Figueiredo",
+            "R.D. Hersch"
+        ],
+        "DOI": "10.1109/TVCG.2006.7",
+        "citation": 8,
+        "abstract": "Curved cross-sections extracted from medical volume images are useful for analyzing nonplanar anatomic structures such as the aorta arch or the pelvis. For visualization and for performing distance measurements, extracted surface sections need to be adequately flattened. We present two different distance preserving surface flattening methods which preserve distances according to a user-specified center of interest and according to user-specified orientations. The first method flattens surface sections by preserving distances along surface curves located within planes having a user specified constant orientation. The second method flattens surfaces along curves located within radial planes crossing the center of interest. We study and compare the properties of the two flattening methods by analyzing their distortion maps. Thanks to a multiresolution approach, we provide surface flattening at interactive rates, allowing users to displace their focus point while visualizing the resulting flattened surface. These distance preserving flattening methods provide new means of inspecting curved cross-sections extracted from medical images."
+    },
+    {
+        "title": "Mesh parameterization by minimizing the synthesized distortion metric with the coefficient-optimizing algorithm",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "Jingqi Yan",
+            "Xin Yang",
+            "Pengfei Shi",
+            "David Zhang"
+        ],
+        "DOI": "10.1109/TVCG.2006.10",
+        "citation": 3,
+        "abstract": "The parameterization of a 3D mesh into a planar domain requires a distortion metric and a minimizing process. Most previous work has sought to minimize the average area distortion, the average angle distortion, or a combination of these. Typical distortion metrics can reflect the overall performance of parameterizations but discount high local deformations. This affects the performance of postprocessing operations such as uniform remeshing and texture mapping. This paper introduces a new metric that synthesizes the average distortions and the variances of both the area deformations and the angle deformations over an entire mesh. Experiments show that, when compared with previous work, the use of synthesized distortion metric performs satisfactorily in terms of both the average area deformation and the average angle deformation; furthermore, the area and angle deformations are distributed more uniformly. This paper also develops a new iterative process for minimizing the synthesized distortion, the coefficient-optimizing algorithm. At each iteration, rather than updating the positions immediately after the local optimization, the coefficient-optimizing algorithm first update the coefficients for the linear convex combination and then globally updates the positions by solving the Laplace system. The high performance of the coefficient-optimizing algorithm has been demonstrated in many experiments."
+    },
+    {
+        "title": "Editor's Note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [
+            "D.S. Ebert"
+        ],
+        "DOI": "10.1109/TVCG.2006.8",
+        "citation": 6,
+        "abstract": ""
+    },
+    {
+        "title": "[Back cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2006.6",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "[Inside front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2006.4",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "TVCG Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2006.5",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
+    },
+    {
+        "title": "[Front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2006.3",
+        "citation": 0,
+        "abstract": "Presents the table of contents for this issue of the periodical."
+    },
+    {
+        "title": "2005 Reviewers List",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2006",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2006.1",
+        "citation": 0,
+        "abstract": "The publication offers a note of thanks and lists its reviewers."
+    }
+]

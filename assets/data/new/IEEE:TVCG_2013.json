@@ -1,0 +1,246 @@
+[
+    {
+        "title": "Linear Correlations between Spatial and Normal Noise in Triangle Meshes",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Ying Yang",
+            "Norbert Peyerimhoff",
+            "Ioannis Ivrissimtzis"
+        ],
+        "DOI": "10.1109/TVCG.2012.106",
+        "citation": 22,
+        "abstract": "We study the relationship between the noise in the vertex coordinates of a triangle mesh and normal noise. First, we compute in closed form the expectation for the angle θ between the new and the old normal when uniform noise is added to a single vertex of a triangle. Next, we propose and experimentally validate an approximation and lower and upper bounds for θ when uniform noise is added to all three vertices of the triangle. In all cases, for small amounts of spatial noise that do not severely distort the mesh, there is a linear correlation between θ and simple functions of the heights of the triangles and thus, θ can be computed efficiently. The addition of uniform spatial noise to a mesh can be seen as a dithered quantization of its vertices. We use the obtained linear correlations between spatial and normal noise to compute the level of dithered quantization of the mesh vertices when a tolerance for the average normal distortion is given."
+    },
+    {
+        "title": "Uncluttered Single-Image Visualization of Vascular Structures Using GPU and Integer Programming",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Joong-Ho Won",
+            "Yongkweon Jeon",
+            "Jarrett K. Rosenberg",
+            "Sungroh Yoon",
+            "Geoffrey D. Rubin",
+            "Sandy Napel"
+        ],
+        "DOI": "10.1109/TVCG.2012.25",
+        "citation": 5,
+        "abstract": "Direct projection of 3D branching structures, such as networks of cables, blood vessels, or neurons onto a 2D image creates the illusion of intersecting structural parts and creates challenges for understanding and communication. We present a method for visualizing such structures, and demonstrate its utility in visualizing the abdominal aorta and its branches, whose tomographic images might be obtained by computed tomography or magnetic resonance angiography, in a single 2D stylistic image, without overlaps among branches. The visualization method, termed uncluttered single-image visualization (USIV), involves optimization of geometry. This paper proposes a novel optimization technique that utilizes an interesting connection of the optimization problem regarding USIV to the protein structure prediction problem. Adopting the integer linear programming-based formulation for the protein structure prediction problem, we tested the proposed technique using 30 visualizations produced from five patient scans with representative anatomical variants in the abdominal aortic vessel tree. The novel technique can exploit commodity-level parallelism, enabling use of general-purpose graphics processing unit (GPGPU) technology that yields a significant speedup. Comparison of the results with the other optimization technique previously reported elsewhere suggests that, in most aspects, the quality of the visualization is comparable to that of the previous one, with a significant gain in the computation time of the algorithm."
+    },
+    {
+        "title": "Evaluation of Interactive Visualization on Mobile Computing Platforms for Selection of Deep Brain Stimulation Parameters",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Christopher R. Butson",
+            "Georg Tamm",
+            "Sanket Jain",
+            "Thomas Fogal",
+            "Jens Krüger"
+        ],
+        "DOI": "10.1109/TVCG.2012.92",
+        "citation": 47,
+        "abstract": "In recent years, there has been significant growth in the use of patient-specific models to predict the effects of neuromodulation therapies such as deep brain stimulation (DBS). However, translating these models from a research environment to the everyday clinical workflow has been a challenge, primarily due to the complexity of the models and the expertise required in specialized visualization software. In this paper, we deploy the interactive visualization system ImageVis3D Mobile, which has been designed for mobile computing devices such as the iPhone or iPad, in an evaluation environment to visualize models of Parkinson's disease patients who received DBS therapy. Selection of DBS settings is a significant clinical challenge that requires repeated revisions to achieve optimal therapeutic response, and is often performed without any visual representation of the stimulation system in the patient. We used ImageVis3D Mobile to provide models to movement disorders clinicians and asked them to use the software to determine: 1) which of the four DBS electrode contacts they would select for therapy; and 2) what stimulation settings they would choose. We compared the stimulation protocol chosen from the software versus the stimulation protocol that was chosen via clinical practice (independent of the study). Lastly, we compared the amount of time required to reach these settings using the software versus the time required through standard practice. We found that the stimulation settings chosen using ImageVis3D Mobile were similar to those used in standard of care, but were selected in drastically less time. We show how our visualization system, available directly at the point of care on a device familiar to the clinician, can be used to guide clinical decision making for selection of DBS settings. In our view, the positive impact of the system could also translate to areas other than DBS."
+    },
+    {
+        "title": "Animating Wrinkles by Example on Non-Skinned Cloth",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Javier S. Zurdo",
+            "Juan P. Brito",
+            "Miguel A. Otaduy"
+        ],
+        "DOI": "10.1109/TVCG.2012.79",
+        "citation": 40,
+        "abstract": "The simulation of cloth with rich folds and wrinkles is a computationally expensive process. In this paper, we introduce an example-based algorithm for fast animation of plausible cloth wrinkles. Our algorithm does not depend on a character's pose, therefore it is valid for loose dresses, curtains, etc., not just cloth defined by skinning techniques. Central to our approach is a correspondence between low and high-resolution cloth deformations, both at the training and synthesis stages. Based on this correspondence, we define an algorithm for synthesizing cloth wrinkles as a function of the deformation of a low-resolution cloth and a set of example poses. We demonstrate the animation of plausible high-resolution wrinkles at high frame rates, suitable for interactive applications such as video games."
+    },
+    {
+        "title": "Using Patterns to Encode Color Information for Dichromats",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Behzad Sajadi",
+            "Aditi Majumder",
+            "Manuel M. Oliveira",
+            "Rosália G. Schneider",
+            "Ramesh Raskar"
+        ],
+        "DOI": "10.1109/TVCG.2012.93",
+        "citation": 30,
+        "abstract": "Color is one of the most common ways to convey information in visualization applications. Color vision deficiency (CVD) affects approximately 200 million individuals worldwide and considerably degrades their performance in understanding such contents by creating red-green or blue-yellow ambiguities. While several content-specific methods have been proposed to resolve these ambiguities, they cannot achieve this effectively in many situations for contents with a large variety of colors. More importantly, they cannot facilitate color identification. We propose a technique for using patterns to encode color information for individuals with CVD, in particular for dichromats. We present the first content-independent method to overlay patterns on colored visualization contents that not only minimizes ambiguities but also allows color identification. Further, since overlaying patterns does not compromise the underlying original colors, it does not hamper the perception of normal trichromats. We validated our method with two user studies: one including 11 subjects with CVD and 19 normal trichromats, and focused on images that use colors to represent multiple categories; and another one including 16 subjects with CVD and 22 normal trichromats, which considered a broader set of images. Our results show that overlaying patterns significantly improves the performance of dichromats in several color-based visualization tasks, making their performance almost similar to normal trichromats'. More interestingly, the patterns augment color information in a positive manner, allowing normal trichromats to perform with greater accuracy."
+    },
+    {
+        "title": "Enhanced Spatial Stability with Hilbert and Moore Treemaps",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Susanne Tak",
+            "Andy Cockburn"
+        ],
+        "DOI": "10.1109/TVCG.2012.108",
+        "citation": 28,
+        "abstract": "Treemaps are a well known and powerful space-filling visualisation method for displaying hierarchical data. Many alternative treemap algorithms have been proposed, often with the aim being to optimise performance across several criteria, including spatial stability to assist users in locating and monitoring items of interest. In this paper, we demonstrate that spatial stability is not fully captured by the commonly used \"distance change” (DC) metric, and we introduce a new \"location drift” (LD) metric to more fully capture spatial stability. An empirical study examines the validity and usefulness of the location drift metric, showing that it explains some effects on user performance that distance change does not. Next, we introduce \"Hilbert” and \"Moore” treemap algorithms, which are designed to achieve high spatial stability. We assess their performance in comparison to other treemaps, showing that Hilbert and Moore treemaps perform well across all stability metrics."
+    },
+    {
+        "title": "Visuo-Haptic Mixed Reality with Unobstructed Tool-Hand Integration",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Francesco Cosco",
+            "Carlos Garre",
+            "Fabio Bruno",
+            "Maurizio Muzzupappa",
+            "Miguel A. Otaduy"
+        ],
+        "DOI": "10.1109/TVCG.2012.107",
+        "citation": 28,
+        "abstract": "Visuo-haptic mixed reality consists of adding to a real scene the ability to see and touch virtual objects. It requires the use of see-through display technology for visually mixing real and virtual objects, and haptic devices for adding haptic interaction with the virtual objects. Unfortunately, the use of commodity haptic devices poses obstruction and misalignment issues that complicate the correct integration of a virtual tool and the user's real hand in the mixed reality scene. In this work, we propose a novel mixed reality paradigm where it is possible to touch and see virtual objects in combination with a real scene, using commodity haptic devices, and with a visually consistent integration of the user's hand and the virtual tool. We discuss the visual obstruction and misalignment issues introduced by commodity haptic devices, and then propose a solution that relies on four simple technical steps: color-based segmentation of the hand, tracking-based segmentation of the haptic device, background repainting using image-based models, and misalignment-free compositing of the user's hand. We have developed a successful proof-of-concept implementation, where a user can touch virtual objects and interact with them in the context of a real scene, and we have evaluated the impact on user performance of obstruction and misalignment correction."
+    },
+    {
+        "title": "Automated Box-Cox Transformations for Improved Visual Encoding",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Ross Maciejewski",
+            "Avin Pattath",
+            "Sungahn Ko",
+            "Ryan Hafen",
+            "William S. Cleveland",
+            "David S. Ebert"
+        ],
+        "DOI": "10.1109/TVCG.2012.64",
+        "citation": 24,
+        "abstract": "The concept of preconditioning data (utilizing a power transformation as an initial step) for analysis and visualization is well established within the statistical community and is employed as part of statistical modeling and analysis. Such transformations condition the data to various inherent assumptions of statistical inference procedures, as well as making the data more symmetric and easier to visualize and interpret. In this paper, we explore the use of the Box-Cox family of power transformations to semiautomatically adjust visual parameters. We focus on time-series scaling, axis transformations, and color binning for choropleth maps. We illustrate the usage of this transformation through various examples, and discuss the value and some issues in semiautomatically using these transformations for more effective data visualization."
+    },
+    {
+        "title": "Abstracting Attribute Space for Transfer Function Exploration and Design",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Ross Maciejewski",
+            "Yun Jang",
+            "Insoo Woo",
+            "Heike Jänicke",
+            "Kelly P. Gaither",
+            "David S. Ebert"
+        ],
+        "DOI": "10.1109/TVCG.2012.105",
+        "citation": 21,
+        "abstract": "Currently, user centered transfer function design begins with the user interacting with a one or two-dimensional histogram of the volumetric attribute space. The attribute space is visualized as a function of the number of voxels, allowing the user to explore the data in terms of the attribute size/magnitude. However, such visualizations provide the user with no information on the relationship between various attribute spaces (e.g., density, temperature, pressure, x, y, z) within the multivariate data. In this work, we propose a modification to the attribute space visualization in which the user is no longer presented with the magnitude of the attribute; instead, the user is presented with an information metric detailing the relationship between attributes of the multivariate volumetric data. In this way, the user can guide their exploration based on the relationship between the attribute magnitude and user selected attribute information as opposed to being constrained by only visualizing the magnitude of the attribute. We refer to this modification to the traditional histogram widget as an abstract attribute space representation. Our system utilizes common one and two-dimensional histogram widgets where the bins of the abstract attribute space now correspond to an attribute relationship in terms of the mean, standard deviation, entropy, or skewness. In this manner, we exploit the relationships and correlations present in the underlying data with respect to the dimension(s) under examination. These relationships are often times key to insight and allow us to guide attribute discovery as opposed to automatic extraction schemes which try to calculate and extract distinct attributes a priori. In this way, our system aids in the knowledge discovery of the interaction of properties within volumetric data."
+    },
+    {
+        "title": "Efficient Boundary Extraction of BSP Solids Based on Clipping Operations",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Charlie C.L. Wang",
+            "Dinesh Manocha"
+        ],
+        "DOI": "10.1109/TVCG.2012.104",
+        "citation": 15,
+        "abstract": "We present an efficient algorithm to extract the manifold surface that approximates the boundary of a solid represented by a Binary Space Partition (BSP) tree. Our polygonization algorithm repeatedly performs clipping operations on volumetric cells that correspond to a spatial convex partition and computes the boundary by traversing the connected cells. We use point-based representations along with finite-precision arithmetic to improve the efficiency and generate the B-rep approximation of a BSP solid. The core of our polygonization method is a novel clipping algorithm that uses a set of logical operations to make it resistant to degeneracies resulting from limited precision of floating-point arithmetic. The overall BSP to B-rep conversion algorithm can accurately generate boundaries with sharp and small features, and is faster than prior methods. At the end of this paper, we use this algorithm for a few geometric processing applications including Boolean operations, model repair, and mesh reconstruction."
+    },
+    {
+        "title": "Admissible Diffusion Wavelets and Their Applications in Space-Frequency Processing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Tingbo Hou",
+            "Hong Qin"
+        ],
+        "DOI": "10.1109/TVCG.2012.111",
+        "citation": 13,
+        "abstract": "As signal processing tools, diffusion wavelets and biorthogonal diffusion wavelets have been propelled by recent research in mathematics. They employ diffusion as a smoothing and scaling process to empower multiscale analysis. However, their applications in graphics and visualization are overshadowed by nonadmissible wavelets and their expensive computation. In this paper, our motivation is to broaden the application scope to space-frequency processing of shape geometry and scalar fields. We propose the admissible diffusion wavelets (ADW) on meshed surfaces and point clouds. The ADW are constructed in a bottom-up manner that starts from a local operator in a high frequency, and dilates by its dyadic powers to low frequencies. By relieving the orthogonality and enforcing normalization, the wavelets are locally supported and admissible, hence facilitating data analysis and geometry processing. We define the novel rapid reconstruction, which recovers the signal from multiple bands of high frequencies and a low-frequency base in full resolution. It enables operations localized in both space and frequency by manipulating wavelet coefficients through space-frequency filters. This paper aims to build a common theoretic foundation for a host of applications, including saliency visualization, multiscale feature extraction, spectral geometry processing, etc."
+    },
+    {
+        "title": "Lighting System for Visual Perception Enhancement in Volume Rendering",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Lei Wang",
+            "Arie E. Kaufman"
+        ],
+        "DOI": "10.1109/TVCG.2012.91",
+        "citation": 12,
+        "abstract": "We introduce a lighting system that enhances the visual cues in a rendered image for the perception of 3D volumetric objects. We divide the lighting effects into global and local effects, and deploy three types of directional lights: the key light and accessory lights (fill and detail lights). The key light provides both lighting effects and carries the visual cues for the perception of local and global shapes and depth. The cues for local shapes are conveyed by gradient; those for global shapes are carried by shadows; and those for depth are provided by shadows and translucent objects. Fill lights produce global effects to increase the perceptibility. Detail lights generate local effects to improve the cues for local shapes. Our method quantifies the perception and uses an exhaustive search to set the lights. It configures accessory lights with the consideration of preserving the global impression conveyed by the key light. It ensures the feeling of smooth light movements in animations. With simplification, it achieves interactive frame rates and produces results that are visually indistinguishable from results using the nonsimplified algorithm. The major contributions of this paper are our lighting system, perception measurement and lighting design algorithm with our indistinguishable simplification."
+    },
+    {
+        "title": "Image-Based Remodeling",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Alex Colburn",
+            "Aseem Agarwala",
+            "Aaron Hertzmann",
+            "Brian Curless",
+            "Michael F. Cohen"
+        ],
+        "DOI": "10.1109/TVCG.2012.95",
+        "citation": 11,
+        "abstract": "Imagining what a proposed home remodel might look like without actually performing it is challenging. We present an image-based remodeling methodology that allows real-time photorealistic visualization during both the modeling and remodeling process of a home interior. Large-scale edits, like removing a wall or enlarging a window, are performed easily and in real time, with realistic results. Our interface supports the creation of concise, parameterized, and constrained geometry, as well as remodeling directly from within the photographs. Real-time texturing of modified geometry is made possible by precomputing view-dependent textures for all faces that are potentially visible to each original camera viewpoint, blending multiple viewpoints and hole-filling when necessary. The resulting textures are stored and accessed efficiently enabling intuitive real-time realistic visualization, modeling, and editing of the building interior."
+    },
+    {
+        "title": "Fast Sparse Level Sets on Graphics Hardware",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Andrei C. Jalba",
+            "Wladimir J. van der Laan",
+            "Jos B.T.M. Roerdink"
+        ],
+        "DOI": "10.1109/TVCG.2012.69",
+        "citation": 9,
+        "abstract": "The level-set method is one of the most popular techniques for capturing and tracking deformable interfaces. Although level sets have demonstrated great potential in visualization and computer graphics applications, such as surface editing and physically based modeling, their use for interactive simulations has been limited due to the high computational demands involved. In this paper, we address this computational challenge by leveraging the increased computing power of graphics processors, to achieve fast simulations based on level sets. Our efficient, sparse GPU level-set method is substantially faster than other state-of-the-art, parallel approaches on both CPU and GPU hardware. We further investigate its performance through a method for surface reconstruction, based on GPU level sets. Our novel multiresolution method for surface reconstruction from unorganized point clouds compares favorably with recent, existing techniques and other parallel implementations. Finally, we point out that both level-set computations and rendering of level-set surfaces can be performed at interactive rates, even on large volumetric grids. Therefore, many applications based on level sets can benefit from our sparse level-set method."
+    },
+    {
+        "title": "Editor's note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Ming C. Lin"
+        ],
+        "DOI": "10.1109/TVCG.2013.2",
+        "citation": 1,
+        "abstract": "THE IEEE Computer Society's policy limits the terms of the members of its Editorial Board. This allows new people and expertise to come in and benefi ts the growth and vitality of the journal. The success of the journal relies on the quality of the submissions and reviews, and the work of the associate editors. The dedication of associate editors is essential to the continuing growth of the journal. On behalf of the IEEE Computer Society and IEEE Transactions on Visualization and Computer Graphics (TVCG) Editorial Board, the Editor-in-Chief (EiC) would like to express our appreciation and gratitude to the retiring Associate Editors: Kavita Bala, Gerik Scheuermann, and Wenping Wang. It is the EiC's pleasure to introduce Doug Bowman and Alla Sheffer, who have recently joined the TVCG Editorial Board as Associate Editors. Biographical sketches listing their accomplishments and areas of expertise are provided. The TVCG Editorial Board is pleased to welcome these outstanding researchers to their new role."
+    },
+    {
+        "title": "Editor's Note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [
+            "Ming C. Lin"
+        ],
+        "DOI": "10.1109/TVCG.2013.3",
+        "citation": 0,
+        "abstract": "The journal continues to be in an excellent state. For the fi rst time, the entire proceedings of IEEE VR 2012 long papers became a special issue of TVCG (April 2012 issue). At the start of October 2012, TVCG had received more than 220 regular submissions, slightly fewer than last year at the same time, but more than years prior to 2011. This year, we also observed an excellent number of 95 and 437 submissions, respectively, to the IEEE VR Conference issue and the VisWeek Conference issue, which contains the Proceedings of the IEEE Visualization and Information Visualization 2011 Conferences, as well as the 10 best papers from the IEEE Conference on Visual Analytics Science and Technology (VAST). We are expecting a total of more than 800 submissions to TVCG by the end of 2012. A total of 145 articles were published in the fi rst 10 regular issues with 1,912 pages, and the VR and VisWeek special issues containing 15 and 96 conference papers, respectively. All submissions in both special issues went through a rigorous two-round journalquality review process. Practically all the 2011 papers have also been decided. From the 326 regular submissions (including 28 extended versions of Best Papers from several top venues in graphics and visualization), 70 regular papers and all 28 special section papers were eventually accepted; 93 out of 366 conference submissions were published in the VisWeek special issue. The acceptance rate is about 23 percent for the regular papers and 25 percent for the papers submitted to the VisWeek conference issue. TVCG continues to offer authors a remarkably effi cient processing of submitted manuscripts: The average time from submission to fi rst decision is less than three months and the average time from submission to publication as a preprint in the CSDL is less than seven months. With its 2011 impact factor of 2.22, TVCG remains clearly as the top journal in visualization and computer graphics overall. During 2012, the authors of TVCG regular papers were invited to give an oral presentation of their recent work at TVCG’s partner conferences. A total of 35 TVCG papers were presented at the IEEE Virtual Reality Conference, ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Pacifi c Graphics, and IEEE VisWeek 2012. Started in 2011, this new arrangement provides a unique opportunity for the audience of these conferences to keep abreast of high-quality research featured in TVCG, while encouraging more TVCG authors to attend these conferences. Both the TVCG authors and the conference attendees have been extremely positive about this new initiative and we plan to continue this conference-journal parternship in 2013."
+    },
+    {
+        "title": "2012 TVCG Reviewers List",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2013.1",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "2012 TVCG Annual Index",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2013.5",
+        "citation": 0,
+        "abstract": "This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the co-authors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under the primary entry in the Author Index."
+    },
+    {
+        "title": "IEEE Open Access Publishing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2013",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2013.4",
+        "citation": 0,
+        "abstract": "Advertisement: This publication offers open access options for authors. IEEE open access Publishing."
+    }
+]

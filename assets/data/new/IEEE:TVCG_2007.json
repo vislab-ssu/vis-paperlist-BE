@@ -1,0 +1,297 @@
+[
+    {
+        "title": "Interactive Tensor Field Design and Visualization on Surfaces",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Eugene Zhang",
+            "James Hays",
+            "Greg Turk"
+        ],
+        "DOI": "10.1109/TVCG.2007.16",
+        "citation": 95,
+        "abstract": "Designing tensor fields in the plane and on surfaces is a necessary task in many graphics applications, such as painterly rendering, pen-and-ink sketching of smooth surfaces, and anisotropic remeshing. In this article, we present an interactive design system that allows a user to create a wide variety of symmetric tensor fields over 3D surfaces either from scratch or by modifying a meaningful input tensor field such as the curvature tensor. Our system converts each user specification into a basis tensor field and combines them with the input field to make an initial tensor field. However, such a field often contains unwanted degenerate points which cannot always be eliminated due to topological constraints of the underlying surface. To reduce the artifacts caused by these degenerate points, our system allows the user to move a degenerate point or to cancel a pair of degenerate points that have opposite tensor indices. These operations provide control over the number and location of the degenerate points in the field. We observe that a tensor field can be locally converted into a vector field so that there is a one-to-one correspondence between the set of degenerate points in the tensor field and the set of singularities in the vector field. This conversion allows us to effectively perform degenerate point pair cancellation and movement by using similar operations for vector fields. In addition, we adapt the image-based flow visualization technique to tensor fields, therefore allowing interactive display of tensor fields on surfaces. We demonstrate the capabilities of our tensor field design system with painterly rendering, pen-and-ink sketching of surfaces, and anisotropic remeshing"
+    },
+    {
+        "title": "Robust Feature Classification and Editing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Yu-kun Lai",
+            "Qian-yi Zhou",
+            "Shi-min Hu",
+            "Johannes Wallner",
+            "Helmut Pottmann"
+        ],
+        "DOI": "10.1109/TVCG.2007.19",
+        "citation": 81,
+        "abstract": "Sharp edges, ridges, valleys, and prongs are critical for the appearance and an accurate representation of a 3D model. In this paper, we propose a novel approach that deals with the global shape of features in a robust way. Based on a remeshing algorithm which delivers an isotropic mesh in a feature-sensitive metric, features are recognized on multiple scales via integral invariants of local neighborhoods. Morphological and smoothing operations are then used for feature region extraction and classification into basic types such as ridges, valleys, and prongs. The resulting representation of feature regions is further used for feature-specific editing operations"
+    },
+    {
+        "title": "Advections with Significantly Reduced Dissipation and Diffusion",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Byungmoon Kim",
+            "Yingjie Liu",
+            "Ignacio Llamas",
+            "Jarek Rossignac"
+        ],
+        "DOI": "10.1109/TVCG.2007.3",
+        "citation": 67,
+        "abstract": "Back and forth error compensation and correction (BFECC) was recently developed for interface computation using a level set method. We show that BFECC can be applied to reduce dissipation and diffusion encountered in a variety of advection steps, such as velocity, smoke density, and image advections on uniform and adaptive grids and on a triangulated surface. BFECC can be implemented trivially as a small modification of the first-order upwind or semi-Lagrangian integration of advection equations. It provides second-order accuracy in both space and time. When applied to level set evolution, BFECC reduces volume loss significantly. We demonstrate the benefits of this approach on image advection and on the simulation of smoke, bubbles in water, and the highly dynamic interaction between water, a solid, and air. We also apply BFECC to dye advection to visualize vector fields"
+    },
+    {
+        "title": "Interactive Level-of-Detail Selection Using Image-Based Quality Metric for Large Volume Visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Chaoli Wang",
+            "Antonio Garcia",
+            "Han-wei Shen"
+        ],
+        "DOI": "10.1109/TVCG.2007.15",
+        "citation": 37,
+        "abstract": "For large volume visualization, an image-based quality metric is difficult to incorporate for level-of-detail selection and rendering without sacrificing the interactivity. This is because it is usually time-consuming to update view-dependent information as well as to adjust to transfer function changes. In this paper, we introduce an image-based level-of-detail selection algorithm for interactive visualization of large volumetric data. The design of our quality metric is based on an efficient way to evaluate the contribution of multiresolution data blocks to the final image. To ensure real-time update of the quality metric and interactive level-of-detail decisions, we propose a summary table scheme in response to runtime transfer function changes and a GPU-based solution for visibility estimation. Experimental results on large scientific and medical data sets demonstrate the effectiveness and efficiency of our algorithm"
+    },
+    {
+        "title": "Visual Simulation of Heat Shimmering and Mirage",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Ye Zhao",
+            "Yiping Han",
+            "Zhe Fan",
+            "Feng Qiu",
+            "Yu-chuan Kuo",
+            "Arie E. Kaufman",
+            "Klaus Mueller"
+        ],
+        "DOI": "10.1109/TVCG.2007.24",
+        "citation": 36,
+        "abstract": "We provide a physically-based framework for simulating the natural phenomena related to heat interaction between objects and the surrounding air. We introduce a heat transfer model between the heat source objects and the ambient flow environment, which includes conduction, convection, and radiation. The heat distribution of the objects is represented by a novel temperature texture. We simulate the thermal flow dynamics that models the air flow interacting with the heat by a hybrid thermal lattice Boltzmann model (HTLBM). The computational approach couples a multiple-relaxation-time LBM (MRTLBM) with a finite difference discretization of a standard advection-diffusion equation for temperature. In heat shimmering and mirage, the changes in the index of refraction of the surrounding air are attributed to temperature variation. A nonlinear ray tracing method is used for rendering. Interactive performance is achieved by accelerating the computation of both the MRTLBM and the heat transfer, as well as the rendering on contemporary graphics hardware (GPU)"
+    },
+    {
+        "title": "Real-Time Interaction with a Humanoid Avatar in an Immersive Table Tennis Simulation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Stephan Rusdorf",
+            "Guido Brunnett",
+            "Mario Lorenz",
+            "Tobias Winkler"
+        ],
+        "DOI": "10.1109/TVCG.2007.18",
+        "citation": 31,
+        "abstract": "In this paper, we report on the realization of an immersive table tennis simulation. After describing the hardware necessities of our system, we give insight into different aspects of the simulation. In particular, the developed methods for collision detection and physical simulation are presented. The design of the virtual opponent is of crucial importance to realize an enjoyable game. Therefore, we report on the implemented game strategy and the animation of the opponent. Since table tennis is one of the fastest sports, the synchronization of the human player's movements and the visual output on the projection wall is a very challenging problem to solve. To overcome the latencies in our system, we designed a prediction method that allows high speed interaction with our application"
+    },
+    {
+        "title": "SQ-Map: Efficient Layered Collision Detection and Haptic Rendering",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Konstantinos Moustakas",
+            "Dimitrios Tzovaras",
+            "Michael Gerassimos Strintzis"
+        ],
+        "DOI": "10.1109/TVCG.2007.20",
+        "citation": 31,
+        "abstract": "This paper presents a novel layered and fast framework for real-time collision detection and haptic interaction in virtual environments based on superquadric virtual object modeling. An efficient algorithm is initially proposed for decomposing the complex objects into subobjects suitable for superquadric modeling, based on visual salience and curvature constraints. The distance between the superquadrics and the mesh is then projected onto the superquadric surface, thus generating a distance map (SQ-Map). Approximate collision detection is then performed by computing the analytical equations and distance maps instead of triangle per triangle intersection tests. Collision response is then calculated directly from the superquadric models and realistic smooth force feedback is obtained using analytical formulae and local smoothing on the distance map. Experimental evaluation demonstrates that SQ-Map reduces significantly the computational cost when compared to accurate collision detection methods and does not require the huge amounts of memory demanded by distance field-based methods. Finally, force feedback is calculated directly from the distance map and the superquadric formulae."
+    },
+    {
+        "title": "Human Motion Capture Data Compression by Model-Based Indexing: A Power Aware Approach",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Siddhartha Chattopadhyay",
+            "Suchendra M. Bhandarkar",
+            "Kang Li"
+        ],
+        "DOI": "10.1109/TVCG.2007.13",
+        "citation": 28,
+        "abstract": "Human Motion Capture (MoCap) data can be used for animation of virtual human-like characters in distributed virtual reality applications and networked games. MoCap data compressed using the standard MPEG-4 encoding pipeline comprising of predictive encoding (and/or DCT decorrelation), quantization, and arithmetic/Huffman encoding, entails significant power consumption for the purpose of decompression. In this paper, we propose a novel algorithm for compression of MoCap data, which is based on smart indexing of the MoCap data by exploiting structural information derived from the skeletal virtual human model. The indexing algorithm can be fine-controlled using three predefined quality control parameters (QCPs). We demonstrate how an efficient combination of the three QCPs results in a lower network bandwidth requirement and reduced power consumption for data decompression at the client end when compared to standard MPEG-4 compression. Since the proposed algorithm exploits structural information derived from the skeletal virtual human model, it is observed to result in virtual human animation of visually acceptable quality upon decompression."
+    },
+    {
+        "title": "Constrained Texture Synthesis via Energy Minimization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Ganesh Ramanarayanan",
+            "Kavita Bala"
+        ],
+        "DOI": "10.1109/TVCG.2007.4",
+        "citation": 22,
+        "abstract": "This paper describes CMS (constrained minimization synthesis), a fast, robust texture synthesis algorithm that creates output textures while satisfying constraints. We show that constrained texture synthesis can be posed in a principled way as an energy minimization problem that requires balancing two measures of quality: constraint satisfaction and texture seamlessness. We then present an efficient algorithm for finding good solutions to this problem using an adaptation of graphcut energy minimization. CMS is particularly well suited to detail synthesis, the process of adding high-resolution detail to low-resolution images. It also supports the full image analogies framework, while providing superior image quality and performance. CMS is easily extended to handle multiple constraints on a single output, thus enabling novel applications that combine both user-specified and image-based control"
+    },
+    {
+        "title": "Streaming Simplification of Tetrahedral Meshes",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Huy T. Vo",
+            "Steven P. Callahan",
+            "Peter Lindstrom",
+            "Valerio Pascucci",
+            "Claudio T. Silva"
+        ],
+        "DOI": "10.1109/TVCG.2007.21",
+        "citation": 20,
+        "abstract": "Unstructured tetrahedral meshes are commonly used in scientific computing to represent scalar, vector, and tensor fields in three dimensions. Visualization of these meshes can be difficult to perform interactively due to their size and complexity. By reducing the size of the data, we can accomplish real-time visualization necessary for scientific analysis. We propose a two-step approach for streaming simplification of large tetrahedral meshes. Our algorithm arranges the data on disk in a streaming, I/O-efficient format that allows coherent access to the tetrahedral cells. A quadric-based simplification is sequentially performed on small portions of the mesh in-core. Our output is a coherent streaming mesh which facilitates future processing. Our technique is fast, produces high quality approximations, and operates out-of-core to process meshes too large for main memory"
+    },
+    {
+        "title": "Interactive Approximate Rendering of Reflections, Refractions, and Caustics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Wei Hu",
+            "Kaihuai Qin"
+        ],
+        "DOI": "10.1109/TVCG.2007.14",
+        "citation": 20,
+        "abstract": "Reflections, refractions, and caustics are very important for rendering global illumination images. Although many methods can be applied to generate these effects, the rendering performance is not satisfactory for interactive applications. In this paper, complex ray-object intersections are simplified so that the intersections can be computed on a GPU, and an iterative computing scheme based on the depth buffers is used for correcting the approximate results caused by the simplification. As a result, reflections and refractions of environment maps and nearby geometry can be rendered on a GPU interactively without preprocessing. We can even achieve interactive recursive reflections and refractions by using an object-impostor technique. Moreover, caustic effects caused by reflections and refractions can be rendered by placing the eye at the light. Rendered results prove that our method is sufficiently efficient to render plausible images interactively for many interactive applications."
+    },
+    {
+        "title": "Design and Evaluation of Tiled Parallel Coordinate Visualization of Multichannel EEG Data",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Michael Ten Caat",
+            "Natasha M. Maurits",
+            "Jos B.T.M. Roerdink"
+        ],
+        "DOI": "10.1109/TVCG.2007.9",
+        "citation": 15,
+        "abstract": "The field of visualization assists data interpretation in many areas, but does not manage all types of data equally well. This holds, in particular, for time-varying multichannel EEG data. No existing method can successfully visualize simultaneous information from all channels in use at all time steps. To address this problem, a new visualization method is presented based on the parallel coordinate method and making use of a tiled organization. This tiled organization employs a two-dimensional row-column representation, rather than a one-dimensional arrangement in columns as used for classical parallel coordinates. The usefulness of the new method, referred to as tiled parallel coordinates (TPC), is demonstrated by a particular type of EEG data. It can be applied to an arbitrary number of time steps, handling the maximum number of channels currently in use. An extensive user evaluation shows that, for a typical EEG assessment task, data evaluation by the TPC method is faster than by an existing clinical EEG visualization method, without loss of information. The generality of the TPC method makes it widely applicable to other time-varying multivariate data types."
+    },
+    {
+        "title": "Transferring of Speech Movements from Video to 3D Face Space",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Yuru Pei",
+            "Hongbin Zha"
+        ],
+        "DOI": "10.1109/TVCG.2007.22",
+        "citation": 15,
+        "abstract": "We present a novel method for transferring speech animation recorded in low quality videos to high resolution 3D face models. The basic idea is to synthesize the animated faces by an interpolation based on a small set of 3D key face shapes which span a 3D face space. The 3D key shapes are extracted by an unsupervised learning process in 2D video space to form a set of 2D visemes which are then mapped to the 3D face space. The learning process consists of two main phases: 1) isomap-based nonlinear dimensionality reduction to embed the video speech movements into a low-dimensional manifold and 2) k-means clustering in the low-dimensional space to extract 2D key viseme frames. Our main contribution is that we use the isomap-based learning method to extract intrinsic geometry of the speech video space and thus to make it possible to define the 3D key viseme shapes. To do so, we need only to capture a limited number of 3D key face models by using a general 3D scanner. Moreover, we also develop a skull movement recovery method based on simple anatomical structures to enhance 3D realism in local mouth movements. Experimental results show that our method can achieve realistic 3D animation effects with a small number of 3D key face models"
+    },
+    {
+        "title": "A Transparently Scalable Visualization Architecture for Exploring the Universe",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Chi-wing Fu",
+            "Andrew J. Hanson"
+        ],
+        "DOI": "10.1109/TVCG.2007.2",
+        "citation": 14,
+        "abstract": "Modern astronomical instruments produce enormous amounts of three-dimensional data describing the physical Universe. The currently available data sets range from the solar system to nearby stars and portions of the Milky Way Galaxy, including the interstellar medium and some extrasolar planets, and extend out to include galaxies billions of light years away. Because of its gigantic scale and the fact that it is dominated by empty space, modeling and rendering the Universe is very different from modeling and rendering ordinary three-dimensional virtual worlds at human scales. Our purpose is to introduce a comprehensive approach to an architecture solving this visualization problem that encompasses the entire Universe while seeking to be as scale-neutral as possible. One key element is the representation of model-rendering procedures using power scaled coordinates (PSC), along with various PSC-based techniques that we have devised to generalize and optimize the conventional graphics framework to the scale domains of astronomical visualization. Employing this architecture, we have developed an assortment of scale-independent modeling and rendering methods for a large variety of astronomical models, and have demonstrated scale-insensitive interactive visualizations of the physical Universe covering scales ranging from human scale to the Earth, to the solar system, to the Milky Way Galaxy, and to the entire observable Universe"
+    },
+    {
+        "title": "Low-Cost Telepresence for Collaborative Virtual Environments",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Seon-min Rhee",
+            "Remo Ziegler",
+            "Jiyoung Park",
+            "Martin Naef",
+            "Markus Gross",
+            "Myoung-hee Kim"
+        ],
+        "DOI": "10.1109/TVCG.2007.17",
+        "citation": 10,
+        "abstract": "We present a novel low-cost method for visual communication and telepresence in a CAVEtrade-like environment, relying on 2D stereo-based video avatars. The system combines a selection of proven efficient algorithms and approximations in a unique way, resulting in a convincing stereoscopic real-time representation of a remote user acquired in a spatially immersive display. The system was designed to extend existing projection systems with acquisition capabilities requiring minimal hardware modifications and cost. The system uses infrared-based image segmentation to enable concurrent acquisition and projection in an immersive environment without a static background. The system consists of two color cameras and two additional b/w cameras used for segmentation in the near-IR spectrum. There is no need for special optics as the mask and color image are merged using image-warping based on a depth estimation. The resulting stereo image stream is compressed, streamed across a network, and displayed as a frame-sequential stereo texture on a billboard in the remote virtual environment"
+    },
+    {
+        "title": "Usability of Multiviewpoint Images for Spatial Interaction in Projection-Based Display Systems",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Andreas Simon"
+        ],
+        "DOI": "10.1109/TVCG.2007.23",
+        "citation": 8,
+        "abstract": "In a common application scenario, large screen projection-based stereoscopic display systems are not used by a single user alone, but are shared by a small group of people. Using multiviewpoint images for multiuser interaction does not require special hardware and scales transparently with the number of colocated users in a system. We present a qualitative and quantitative study comparing usability and interaction performance for multiviewpoint images to non-head-tracked and head-tracked interaction for ray-casting selection and in-hand object manipulation. Results show that while direct first-person interaction in projection-based displays without head-tracking is difficult or even completely impractical, interaction with multiviewpoint images can produce similar or even better performance than fully head-tracked interaction. For ray-casting selection, interaction with multiviewpoint images is actually up to 10 percent faster than head-tracked interaction. For in-hand object manipulation in a simple docking task, multiviewpoint interaction performs only about 6 percent slower than fully head-tracked interaction."
+    },
+    {
+        "title": "Editorial: EIC Farewell and New EIC Introduction",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "David S. Ebert"
+        ],
+        "DOI": "10.1109/TVCG.2007.11",
+        "citation": 3,
+        "abstract": ""
+    },
+    {
+        "title": "Guest Editors' Introduction: Special Section on ACM VRST 2005",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Yiorgos L. Chrysanthou",
+            "Rynson W.h. Lau",
+            "Gurminder Singh"
+        ],
+        "DOI": "10.1109/TVCG.2007.12",
+        "citation": 0,
+        "abstract": "The three papers in this special section were presented at the 2005 ACM Virtual Reality Software and Technology (VRST) conference."
+    },
+    {
+        "title": "[Back cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2007.8",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Editorial: A Message from the New Editor-in-Chief",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/TVCG.2007.10",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "TVCG Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2007.7",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
+    },
+    {
+        "title": "[Front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2007.5",
+        "citation": 0,
+        "abstract": "Presents the table of contents for this issue of the periodical."
+    },
+    {
+        "title": "2006 Reviewers List",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2007.1",
+        "citation": 0,
+        "abstract": "Lists the reviewers who contributed to IEEE Transactions on Visualization and Computer Graphics in 2006."
+    },
+    {
+        "title": "[Inside front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2007",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2007.6",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    }
+]

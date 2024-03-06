@@ -1,0 +1,165 @@
+[
+    {
+        "title": "Human factors in visualization research",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [
+            "M. Tory",
+            "T. Moller"
+        ],
+        "DOI": "10.1109/TVCG.2004.1260759",
+        "citation": 256,
+        "abstract": "Visualization can provide valuable assistance for data analysis and decision making tasks. However, how people perceive and interact with a visualization tool can strongly influence their understanding of the data as well as the system's usefulness. Human factors therefore contribute significantly to the visualization process and should play an important role in the design and evaluation of visualization tools. Several research initiatives have begun to explore human factors in visualization, particularly in perception-based design. Nonetheless, visualization work involving human factors is in its infancy, and many potentially promising areas have yet to be explored. Therefore, we aim to 1) review known methodology for doing human factors research, with specific emphasis on visualization, 2) review current human factors research in visualization to provide a basis for future investigation, and 3) identify promising areas for future research."
+    },
+    {
+        "title": "Image registration using hierarchical B-splines",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [
+            "Z. Xie",
+            "G.E. Farin"
+        ],
+        "DOI": "10.1109/TVCG.2004.1260760",
+        "citation": 74,
+        "abstract": "Hierarchical B-splines have been widely used for shape modeling since their discovery by Forsey and Bartels. We present an application of this concept, in the form of free-form deformation, to image registration by matching two images at increasing levels of detail. Results using MRI brain data are presented that demonstrate high degrees of matching while unnecessary distortions are avoided. We compare our results with the nonlinear ICP (iterative closest point) algorithm (used for landmark-based registration) and optical flow (used for intensity-based registration)."
+    },
+    {
+        "title": "CartoDraw: a fast algorithm for generating contiguous cartograms",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [
+            "D.A. Keim",
+            "S.C. North",
+            "C. Panse"
+        ],
+        "DOI": "10.1109/TVCG.2004.1260761",
+        "citation": 66,
+        "abstract": "Cartograms are a well-known technique for showing geography-related statistical information, such as population demographics and epidemiological data. The basic idea is to distort a map by resizing its regions according to a statistical parameter, but in a way that keeps the map recognizable. We formally define a family of cartogram drawing problems. We show that even simple variants are unsolvable in the general case. Because the feasible variants are NP-complete, heuristics are needed to solve the problem. Previously proposed solutions suffer from problems with the quality of the generated drawings. For a cartogram to be recognizable, it is important to preserve the global shape or outline of the input map, a requirement that has been overlooked in the past. To address this, our objective function for cartogram drawing includes both global and local shape preservation. To measure the degree of shape preservation, we propose a shape similarity function, which is based on a Fourier transformation of the polygons' curvatures. Also, our application is visualization of dynamic data, for which we need an algorithm that recalculates a cartogram in a few seconds. None of the previous algorithms provides adequate performance with an acceptable level of quality for this application. We therefore propose an efficient iterative scanline algorithm to reposition edges while preserving local and global shapes. Scanlines may be generated automatically or entered interactively to guide the optimization process more closely. We apply our algorithm to several example data sets and provide a detailed comparison of the two variants of our algorithm and previous approaches."
+    },
+    {
+        "title": "Combining hierarchy and energy for drawing directed graphs",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [
+            "L. Carmel",
+            "D. Harel",
+            "Y. Koren"
+        ],
+        "DOI": "10.1109/TVCG.2004.1260757",
+        "citation": 25,
+        "abstract": "We present an algorithm for drawing directed graphs which is based on rapidly solving a unique one-dimensional optimization problem for each of the axes. The algorithm results in a clear description of the hierarchy structure of the graph. Nodes are not restricted to lie on fixed horizontal layers, resulting in layouts that convey the symmetries of the graph very naturally. The algorithm can be applied without change to cyclic or acyclic digraphs and even to graphs containing both directed and undirected edges. We also derive a hierarchy index from the input digraph, which quantitatively measures its amount of hierarchy."
+    },
+    {
+        "title": "Selective refinement queries for volume visualization of unstructured tetrahedral meshes",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [
+            "P. Cignoni",
+            "L. De Floriani",
+            "P. Magillo",
+            "E. Puppo",
+            "R. Scopigno"
+        ],
+        "DOI": "10.1109/TVCG.2004.1260756",
+        "citation": 25,
+        "abstract": "We address the problem of the efficient visualization of large irregular volume data sets by exploiting a multiresolution model based on tetrahedral meshes. Multiresolution models, also called Level-Of-Detail (LOD) models, allow encoding the whole data set at a virtually continuous range of different resolutions. We have identified a set of queries for extracting meshes at variable resolution from a multiresolution model, based on field values, domain location, or opacity of the transfer function. Such queries allow trading off between resolution and speed in visualization. We define a new compact data structure for encoding a multiresolution tetrahedral mesh built through edge collapses to support selective refinement efficiently and show that such a structure has a storage cost from 3 to 5.5 times lower than standard data structures used for tetrahedral meshes. The data structures and variable resolution queries have been implemented together with state-of-the art visualization techniques in a system for the interactive visualization of three-dimensional scalar fields defined on tetrahedral meshes. Experimental results show that selective refinement queries can support interactive visualization of large data sets."
+    },
+    {
+        "title": "High-quality animation of 2D steady vector fields",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [
+            "W. Lefer",
+            "B. Jobard",
+            "C. Leduc"
+        ],
+        "DOI": "10.1109/TVCG.2004.1260754",
+        "citation": 11,
+        "abstract": "Simulators for dynamic systems are now widely used in various application areas and raise the need for effective and accurate flow visualization techniques. Animation allows us to depict direction, orientation, and velocity of a vector field accurately. We extend a former proposal for a new approach to produce perfectly cyclic and variable-speed animations for 2D steady vector fields [B. Jobard, et al., (1997)] and [C. Chedot, et al., (1998)]. A complete animation of an arbitrary number of frames is encoded in a single image. The animation can be played using the color table animation technique, which is very effective even on low-end workstations. A cyclic set of textures can be produced as well and then encoded in a common animation format or used for texture mapping on 3D objects. As compared to other approaches, the method presented produces smoother animations and is more effective, both in memory requirements to store the animation, and in computation time."
+    },
+    {
+        "title": "Interactive stereoscopic rendering of volumetric environments",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [
+            "M. Wan",
+            "N. Zhang",
+            "H. Qu",
+            "A.E. Kaufman"
+        ],
+        "DOI": "10.1109/TVCG.2004.1260755",
+        "citation": 9,
+        "abstract": "We present an efficient stereoscopic rendering algorithm supporting interactive navigation through large-scale 3D voxel-based environments. In this algorithm, most of the pixel values of the right image are derived from the left image by a fast 3D warping based on a specific stereoscopic projection geometry. An accelerated volumetric ray casting then fills the remaining gaps in the warped right image. Our algorithm has been parallelized on a multiprocessor by employing effective task partitioning schemes and achieved a high cache coherency and load balancing. We also extend our stereoscopic rendering to include view-dependent shading and transparency effects. We have applied our algorithm in two virtual navigation systems, flythrough over terrain and virtual colonoscopy, and reached interactive stereoscopic rendering rates of more than 10 frames per second on a 16-processor SGI challenge."
+    },
+    {
+        "title": "Binary-space-partitioned images for resolving image-based visibility",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [
+            "C.-W. Fu",
+            "Tien-Tsin Wong",
+            "Wai-Shun Tong",
+            "Chi-Keung Tang",
+            "A.J. Hanson"
+        ],
+        "DOI": "10.1109/TVCG.2004.1260758",
+        "citation": 0,
+        "abstract": "We propose a novel 2D representation for 3D visibility sorting, the binary-space-partitioned image (BSPI), to accelerate real-time image-based rendering. BSPI is an efficient 2D realization of a 3D BSP tree, which is commonly used in computer graphics for time-critical visibility sorting. Since the overall structure of a BSP tree is encoded in a BSPI, traversing a BSPI is comparable to traversing the corresponding BSP tree. BSPI performs visibility sorting efficiently and accurately in the 2D image space by warping the reference image triangle-by-triangle instead of pixel-by-pixel. Multiple BSPIs can be combined to solve \"disocclusion,\" when an occluded portion of the scene becomes visible at a novel viewpoint. Our method is highly automatic, including a tensor voting preprocessing step that generates candidate image partition lines for BSPIs, filters the noisy input data by rejecting outliers, and interpolates missing information. Our system has been applied to a variety of real data, including stereo, motion, and range images."
+    },
+    {
+        "title": "Editor's note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [
+            "D.S. Ebert"
+        ],
+        "DOI": "10.1109/TVCG.2004.1260753",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "IEEE Computer Society",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2004.1304820",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "IEEE Transactions on Visualization and Computer Graphics",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2004.1304818",
+        "citation": 0,
+        "abstract": "Provides a listing of current staff, committee members and society officers."
+    },
+    {
+        "title": "IEEE Transactions on Visualization and Computer Graphics - Table of contents",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2004.1304817",
+        "citation": 0,
+        "abstract": "Presents the table of contents for this issue of the periodical."
+    },
+    {
+        "title": "Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2004.1304819",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
+    },
+    {
+        "title": "2003 Reviewers list",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2004",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2004.1260762",
+        "citation": 0,
+        "abstract": "The publication offers a note of thanks and lists its reviewers."
+    }
+]

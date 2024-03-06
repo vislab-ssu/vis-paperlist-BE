@@ -1,0 +1,320 @@
+[
+    {
+        "title": "On Linear Variational Surface Deformation Methods",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Mario Botsch",
+            "Olga Sorkine"
+        ],
+        "DOI": "10.1109/TVCG.2007.1054",
+        "citation": 397,
+        "abstract": "This survey reviews the recent advances in linear variational mesh deformation techniques. These methods were developed for editing detailed high-resolution meshes like those produced by scanning real-world objects. The challenge of manipulating such complex surfaces is threefold: The deformation technique has to be sufficiently fast, robust, intuitive, and easy to control to be useful for interactive applications. An intuitive and, thus, predictable deformation tool should provide physically plausible and aesthetically pleasing surface deformations, which, in particular, requires its geometric details to be preserved. The methods that we survey generally formulate surface deformation as a global variational optimization problem that addresses the differential properties of the edited surface. Efficiency and robustness are achieved by linearizing the underlying objective functional such that the global optimization amounts to solving a sparse linear system of equations. We review the different deformation energies and detail preservation techniques that were proposed in recent years, together with the various techniques to rectify the linearization artifacts. Our goal is to provide the reader with a systematic classification and comparative description of the different techniques, revealing the strengths and weaknesses of each approach in common editing scenarios."
+    },
+    {
+        "title": "Visual Methods for Analyzing Time-Oriented Data",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Wolfgang Aigner",
+            "Silvia Miksch",
+            "Wolfgang Müller",
+            "Heidrun Schumann",
+            "Christian Tominski"
+        ],
+        "DOI": "10.1109/TVCG.2007.70415",
+        "citation": 173,
+        "abstract": "Providing appropriate methods to facilitate the analysis of time-oriented data is a key issue in many application domains. In this paper, we focus on the unique role of the parameter time in the context of visually driven data analysis.We will discuss three major aspects — visualization, analysis, and the user. It will be illustrated that it is necessary to consider the characteristics of time when generating visual representations.For that purpose we take a look at different types of time and present visual examples. Integrating visual and analytical methods has become an increasingly important issue. Therefore, we present our experiences in temporal data abstraction, principal component analysis, and clustering of larger volumes of time-oriented data. The third main aspect we discuss is supporting user-centered visual analysis.We describe event-based visualization as a promising means to adapt the visualization pipeline to needs and tasks of users."
+    },
+    {
+        "title": "Promoting Insight-Based Evaluation of Visualizations: From Contest to Benchmark Repository",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Catherine Plaisant",
+            "Jean-Daniel Fekete",
+            "Georges Grinstein"
+        ],
+        "DOI": "10.1109/TVCG.2007.70412",
+        "citation": 83,
+        "abstract": "Information visualization (InfoVis) is now an accepted and growing field, but questions remain about the best uses for and the maturity of novel visualizations. Usability studies and controlled experiments are helpful, but generalization is difficult. We believe that the systematic development of benchmarks will facilitate the comparison of techniques and help identify their strengths under different conditions. We were involved in the organization and management of three InfoVis contests for the 2003, 2004, and 2005 IEEE InfoVis Symposia, which requested teams to report on insights gained while exploring data. We give a summary of the state of the art of evaluation in InfoVis, describe the three contests, summarize their results, discuss outcomes and lessons learned, and conjecture the future of visualization contests. All materials produced by the contests are archived in the InfoVis benchmark repository."
+    },
+    {
+        "title": "Real-Time Adaptive Radiometric Compensation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Anselm Grundhofer",
+            "Oliver Bimber"
+        ],
+        "DOI": "10.1109/TVCG.2007.1052",
+        "citation": 59,
+        "abstract": "Recent radiometric compensation techniques make it possible to project images onto colored and textured surfaces. This is realized with projector-camera systems by scanning the projection surface on a per-pixel basis. Using the captured information, a compensation image is calculated that neutralizes geometric distortions and color blending caused by the underlying surface. As a result, the brightness and the contrast of the input image is reduced compared to a conventional projection onto a white canvas. If the input image is not manipulated in its intensities, the compensation image can contain values that are outside the dynamic range of the projector. These will lead to clipping errors and to visible artifacts on the surface. In this article, we present an innovative algorithm that dynamically adjusts the content of the input images before radiometric compensation is carried out. This reduces the perceived visual artifacts while simultaneously preserving a maximum of luminance and contrast. The algorithm is implemented entirely on the GPU and is the first of its kind to run in real time."
+    },
+    {
+        "title": "A Sharpness-Dependent Filter for Recovering Sharp Features in Repaired 3D Mesh Models",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Chun-Yen Chen",
+            "Kuo-Young Cheng"
+        ],
+        "DOI": "10.1109/TVCG.2007.70625",
+        "citation": 40,
+        "abstract": "This paper presents a sharpness-based method for hole-filling that can repair a 3D model such that its shape conforms to that of the original model. The method involves two processes: interpolation-based hole-filling, which produces an initial repaired model, and postprocessing, which adjusts the shape of the initial repaired model to conform to that of the original model. In the interpolation-based hole-filling process, a surface interpolation algorithm based on the radial basis function creates a smooth implicit surface that fills the hole. Then, a regularized marching tetrahedral algorithm is used to triangulate the implicit surface. Finally, a stitching and regulating strategy is applied to the surface patch and its neighboring boundary polygon meshes to produce an initial repaired mesh model, which is a regular mesh model suitable for postprocessing. During postprocessing, a sharpness-dependent filtering algorithm is applied to the initial repaired model. This is an iterative procedure whereby each iteration step adjusts the face normal associated with each meshed polygon to recover the sharp features hidden in the repaired model. The experiment results demonstrate that the method is effective in repairing incomplete 3D mesh models."
+    },
+    {
+        "title": "Toward the Light Field Display: Autostereoscopic Rendering via a Cluster of Projectors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Ruigang Yang",
+            "Xinyu Huang",
+            "Sifang Li",
+            "Christopher Jaynes"
+        ],
+        "DOI": "10.1109/TVCG.2007.70410",
+        "citation": 39,
+        "abstract": "Ultimately, a display device should be capable of reproducing the visual effects observed in reality. In this paper, we introduce an autostereoscopic display that uses a scalable array of digital light projectors and a projection screen augmented with microlenses to simulate a light field for a given three-dimensional scene. Physical objects emit or reflect light in all directions to create a light field that can be approximated by the light field display. The display can simultaneously provide many viewers from different viewpoints a stereoscopic effect without head tracking or special viewing glasses. This work focuses on two important technical problems related to the light field display: calibration and rendering. We present a solution to automatically calibrate the light field display using a camera and introduce two efficient algorithms to render the special multiview images by exploiting their spatial coherence. The effectiveness of our approach is demonstrated with a four-projector prototype that can display dynamic imagery with full parallax."
+    },
+    {
+        "title": "A Fast and Stable Penalty Method for Rigid Body Simulation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Evan Drumwright"
+        ],
+        "DOI": "10.1109/TVCG.2007.70416",
+        "citation": 37,
+        "abstract": "Two methods have been used extensively to model resting contact for rigid-body simulation. The first approach, the penalty method, applies virtual springs to surfaces in contact to minimize interpenetration. This method, as typically implemented, results in oscillatory behavior and considerable penetration. The second approach, based on formulating resting contact as a linear complementarity problem, determines the resting contact forces analytically to prevent interpenetration. The analytical method exhibits an expected-case polynomial complexity in the number of contact points and may fail to find a solution in polynomial time when friction is modeled. We present a fast penalty method that minimizes oscillatory behavior and leads to little penetration during resting contact; our method compares favorably to the analytical method with regard to these two measures while exhibiting much faster performance both asymptotically and empirically."
+    },
+    {
+        "title": "Velocity-Aligned Discrete Oriented Polytopes for Dynamic Collision Detection",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Daniel S. Coming",
+            "Oliver G. Staadt"
+        ],
+        "DOI": "10.1109/TVCG.2007.70405",
+        "citation": 36,
+        "abstract": "We propose an acceleration scheme for many-body dynamic collision detection at interactive rates. We use the Velocity-Aligned Discrete Oriented Polytope (VADOP), a tight bounding volume representation that offers fast update rates and which is particularly suitable for applications with many fast-moving objects. The axes selection that determines the shape of our bounding volumes is based on spherical coverings. We demonstrate that we can robustly detect collisions that are missed by pseudodynamic collision detection schemes with even greater performance due to substantial collision pruning by our bounding volumes."
+    },
+    {
+        "title": "Computing Length-Preserved Free Boundary for Quasi-Developable Mesh Segmentation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Charlie Wang"
+        ],
+        "DOI": "10.1109/TVCG.2007.1067",
+        "citation": 31,
+        "abstract": "Stretch-free surface flattening has been requested by a variety of applications. At present, the most difficult problem is how to segment a given model into nearly developable atlases so that a nearly stretch-free flattening can be computed. The criterion for segmentation is needed to evaluate the possibility of flattening a given surface patch, which should be fast computed. In this paper, we present a method to compute the length-preserved free boundary (LPFB) of a mesh patch which speeds up the mesh parameterization. The distortion on parameterization can then be employed as the criterion in a trial-and-error algorithm for segmenting a given model into nearly developable atlases. The computation of LPFB is formulated as a numerical optimization problem in the angle space, where we are trying to optimize the angle excesses on the boundary while preserving the constraints derived from the closed-path theorem and the length preservation."
+    },
+    {
+        "title": "Hierarchical Tensor Approximation of Multi-Dimensional Visual Data",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Qing Wu",
+            "Tian Xia",
+            "Chun Chen",
+            "Hsueh-Yi Sean Lin",
+            "Hongcheng Wang",
+            "Yizhou Yu"
+        ],
+        "DOI": "10.1109/TVCG.2007.70406",
+        "citation": 27,
+        "abstract": "Visual data comprise of multiscale and inhomogeneous signals. In this paper, we exploit these characteristics and develop a compact data representation technique based on a hierarchical tensor-based transformation. In this technique, an original multidimensional data set is transformed into a hierarchy of signals to expose its multiscale structures. The signal at each level of the hierarchy is further divided into a number of smaller tensors to expose its spatially inhomogeneous structures. These smaller tensors are further transformed and pruned using a tensor approximation technique. Our hierarchical tensor approximation supports progressive transmission and partial decompression. Experimental results indicate that our technique can achieve higher compression ratios and quality than previous methods, including wavelet transforms, wavelet packet transforms, and single-level tensor approximation. We have successfully applied our technique to multiple tasks involving multidimensional visual data, including medical and scientific data visualization, data-driven rendering, and texture synthesis."
+    },
+    {
+        "title": "Volumetric Curved Planar Reformation for Virtual Endoscopy",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "David Williams",
+            "Soren Grimm",
+            "Ernesto Coto",
+            "Abdul Roudsari",
+            "Haralambos Hatzakis"
+        ],
+        "DOI": "10.1109/TVCG.2007.1068",
+        "citation": 23,
+        "abstract": "Curved Planar Reformation (CPR) has proved to be a practical and widely used tool for the visualization of curved tubular structures within the human body. It has been useful in medical procedures involving the examination of blood vessels and the spine. However, it is more difficult to use it for large, tubular, structures such as the trachea and the colon because abnormalities may be smaller relative to the size of the structure and may not have such distinct density and shape characteristics.Our new approach improves on this situation by using volume rendering for hollow regions and standard CPR for the surrounding tissue. This effectively combines gray scale contextual information with detailed color information from the area of interest. The approach is successfully used with each of the standard CPR types and the resulting images are promising as an alternative to virtual endoscopy.Because the CPR and the volume rendering are tightly coupled, the projection method used has a significant effect on properties of the volume renderer such as distortion and isometry. We describe and compare the different CPR projection methods and how they affect the volume rendering process.A version of the algorithm is also presented which makes use of importance driven techniques; this ensures the users attention is always focused on the area of interest and also improves the speed of the algorithm."
+    },
+    {
+        "title": "A Spreadsheet Approach to Facilitate Visualization of Uncertainty in Information",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Alexander Streit",
+            "Binh Pham",
+            "Ross Brown"
+        ],
+        "DOI": "10.1109/TVCG.2007.70426",
+        "citation": 19,
+        "abstract": "Information uncertainty is inherent in many problems and is often subtle and complicated to understand. Although visualization is a powerful means for exploring and understanding information, information uncertainty visualization is ad hoc and not widespread. This paper identifies two main barriers to the uptake of information uncertainty visualization: first, the difficulty of modeling and propagating the uncertainty information and, second, the difficulty of mapping uncertainty to visual elements. To overcome these barriers, we extend the spreadsheet paradigm to encapsulate uncertainty details within cells. This creates an inherent awareness of the uncertainty associated with each variable. The spreadsheet can hide the uncertainty details, enabling the user to think simply in terms of variables. Furthermore, the system can aid with automated propagation of uncertainty information, since it is intrinsically aware of the uncertainty. The system also enables mapping the encapsulated uncertainty to visual elements via the formula language and a visualization sheet. Support for such low-level visual mapping provides flexibility to explore new techniques for information uncertainty visualization."
+    },
+    {
+        "title": "Impulse-Based Control of Joints and Muscles",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Rachel Weinstein",
+            "Eran Guendelman",
+            "Ronald Fedkiw"
+        ],
+        "DOI": "10.1109/TVCG.2007.70437",
+        "citation": 12,
+        "abstract": "We propose a novel approach to proportional derivative (PD) control exploiting the fact that these equations can be solved analytically for a single degree of freedom. The analytic solution indicates what the PD controller would accomplish in isolation without interference from neighboring joints, gravity and external forces, outboard limbs, etc. Our approach to time integration includes an inverse dynamics formulation that automatically incorporates global feedback so that the per joint predictions are achieved. This effectively decouples stiffness from control so that we obtain the desired target regardless of the stiffness of the joint, which merely determines when we get there. We start with simple examples to illustrate our method and then move on to more complex examples including PD control of line segment muscle actuators."
+    },
+    {
+        "title": "Hand Motion Prediction for Distributed Virtual Environments",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Addison Chan",
+            "Rynson Lau",
+            "Lewis Li"
+        ],
+        "DOI": "10.1109/TVCG.2007.1056",
+        "citation": 11,
+        "abstract": "We use our hands to manipulate objects in our daily life. The hand is capable of accomplishing diverse tasks such as pointing, gripping, twisting and tearing. However, there is not much work that considers using the hand as input in distributed virtual environments (DVEs), in particular over the Internet. The main reasons are that the Internet suffers from high network latency, which affects interaction, and the hand has many degrees of freedom, which adds additional challenges to synchronizing the collaboration. In this paper, we propose a prediction method specifically designed for human hand motion to address the network latency problem in DVEs. Through a thorough analysis of finger motion, we have identified various finger motion constraints and we propose a constraint-based motion prediction method for hand motion. To reduce the average prediction error under high network latency, e.g., over the Internet, we further propose a revised dead reckoning scheme here. Our performance results show that the proposed prediction method produces a lower prediction error than some popular methods while the revised dead reckoning scheme produces a lower average prediction error than the traditional dead reckoning scheme, in particular at high network latency."
+    },
+    {
+        "title": "Layer-Based Representation of Polyhedrons for Point Containment Tests",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Wencheng Wang",
+            "Jing Li",
+            "Hanqiu Sun",
+            "Enhua Wu"
+        ],
+        "DOI": "10.1109/TVCG.2007.70407",
+        "citation": 8,
+        "abstract": "This paper presents the layer-based representation of polyhedrons and its use for point-in-polyhedron tests. In the representation, the facets and edges of a polyhedron are sequentially arranged, and so, the binary search algorithm is efficiently used to speed up inclusion tests. In comparison with conventional representation for polyhedrons, the layer-based representation that we propose greatly reduces the storage requirement because it represents much information implicitly though it still has a storage complexity O(n). It is simple to implement and robust for inclusion tests because many singularities are erased in constructing the layer-based representation. By incorporating an octree structure for organizing polyhedrons, our approach can run at a speed comparable with Binary space partitioning (BSP)-based inclusion tests and, at the same time, greatly reduce storage and preprocessing time in treating large polyhedrons. We have developed an efficient solution for point-in-polyhedron tests, with the time complexity varying between O(n) and O(logn), depending on the polyhedron shape and the constructed representation, and less than O(log3n) in most cases. The time complexity of preprocess is between O(n) and O(n2), varying with polyhedrons, where n is the edge number of a polyhedron."
+    },
+    {
+        "title": "Psychologically Inspired Anticipation and Dynamic Response for Impacts to the Head and Upper Body",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Ronald Metoyer",
+            "Victor Zordan",
+            "Benjamin Hermens",
+            "Chun-Chi Wu",
+            "Marc Soriano"
+        ],
+        "DOI": "10.1109/TVCG.2007.70427",
+        "citation": 7,
+        "abstract": "We present a psychology-inspired approach for generating a character's anticipation of and response to an impending head or upper body impact. Protective anticipatory movement is built upon several actions that have been identified in the psychology literature as response mechanisms in monkeys and in humans. These actions are parameterized by a model of the approaching object (the threat) and are defined as procedural rules. We present a hybrid forward and inverse kinematic blending technique to guide the character to the pose that results from these rules while maintaining properties of a balanced posture and characteristics of the behavior just prior to the interaction. In our case, these characteristics are determined by a motion capture sequence. We combine our anticipation model with a physically-based dynamic response to produce animations where a character anticipates an impact before collision and reacts to the contact, physically, after the collision. We present a variety of examples including threats that vary in approach direction, size, and speed."
+    },
+    {
+        "title": "Clip Art Rendering of Smooth Isosurfaces",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Matei Stroila",
+            "Elmar Eisemann",
+            "John Hart"
+        ],
+        "DOI": "10.1109/TVCG.2007.1058",
+        "citation": 6,
+        "abstract": "Clip art is a simplified illustration form consisting of layered filled polygons or closed curves used to convey 3D shape information in a 2D vector graphics format. This paper focuses on the problem of direct conversion of smooth surfaces, ranging from the free-form shapes of art and design to the mathematical structures of geometry and topology, into a clip art form suitable for illustration use in books, papers, and presentations. We show how to represent silhouette, shadow, gleam, and other surface feature curves as the intersection of implicit surfaces and derive equations for their efficient interrogation via particle chains. We further describe how to sort, orient, identify, and fill the closed regions that overlay to form clip art. We demonstrate the results with numerous renderings used to illustrate the paper itself."
+    },
+    {
+        "title": "A Parallelized Surface Extraction Algorithm for Large Binary Image Data Sets Based on an Adaptive 3-D Delaunay Subdivision Strategy",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "YingLiang Ma",
+            "Kurt Saetzler"
+        ],
+        "DOI": "10.1109/TVCG.2007.1057",
+        "citation": 5,
+        "abstract": "In this paper, we describe a novel 3D subdivision strategy to extract the surface of binary image data. This iterative approach generates a series of surface meshes that capture different levels of detail of the underlying structure. At the highest level of detail, the resulting surface mesh generated by our approach uses only about 10 percent of the triangles in comparison to the Marching Cube (MC) algorithm, even in settings where almost no image noise is present. Our approach also eliminates the so-called \"staircase effect,\" which voxel-based algorithms like the MC are likely to show, particularly if nonuniformly sampled images are processed. Finally, we show how the presented algorithm can be parallelized by subdividing 3D image space into rectilinear blocks of subimages. As the algorithm scales very well with an increasing number of processors in a multithreaded setting, this approach is suited to process large image data sets of several gigabytes. Although the presented work is still computationally more expensive than simple voxel-based algorithms, it produces fewer surface triangles while capturing the same level of detail, is more robust toward image noise, and eliminates the above-mentioned \"staircase\" effect in anisotropic settings. These properties make it particularly useful for biomedical applications, where these conditions are often encountered."
+    },
+    {
+        "title": "Reducing Photon-Mapping Bandwidth by Query Reordering",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "Joshua Steinhurst",
+            "Greg Coombe",
+            "Anselmo Lastra"
+        ],
+        "DOI": "10.1109/TVCG.2007.70413",
+        "citation": 2,
+        "abstract": "Photon mapping places an enormous burden on the memory hierarchy. Rendering a 512 x 512 image of a simple scene can require more than 196 Gbytes of raw bandwidth to the photon map data structure. This bandwidth is a major obstacle to real-time photon mapping. This paper investigates two approaches for reducing the required bandwidth: 1) reordering the kNN searches and 2) cache conscious data structures. Using a Hilbert curve reordering, we demonstrate an experimental lower bound of 15 Mbytes of bandwidth for the same scene. Unfortunately, this improvement of four orders of magnitude requires a prohibitive amount of intermediate storage. We introduce two novel cost-effective algorithms that reduce the bandwidth by one order of magnitude. Scenes of different complexities are shown to exhibit similar reductions in bandwidth. We explain why the choice of data structure does not achieve similar reductions. We also examine the interaction of query reordering with two photon map acceleration techniques, importance sampling, and the irradiance cache. Query reordering exploits the additional coherence that arises from the use of importance sampling in scenes with glossy surfaces. Irradiance caching also benefits from query reordering, even when complex surface geometry reduces the effectiveness of the irradiance cache."
+    },
+    {
+        "title": "Corrections to \"Time Dependent Processing in a Parallel Pipeline Architecture\"",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [
+            "John Biddiscombe",
+            "Berk Geveci",
+            "Ken Martin",
+            "Kenneth Moreland",
+            "David Thompson"
+        ],
+        "DOI": "10.1109/TVCG.2008.3",
+        "citation": 4,
+        "abstract": ""
+    },
+    {
+        "title": "[Inside front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2008.5",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "2007 Annual Index",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2008.1",
+        "citation": 0,
+        "abstract": "This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the coauthors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under the primary entry in the Author Index."
+    },
+    {
+        "title": "[Back cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2008.7",
+        "citation": 0,
+        "abstract": "Provides a listing of current staff, committee members and society officers."
+    },
+    {
+        "title": "[Front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2008.4",
+        "citation": 0,
+        "abstract": "Presents the table of contents for this issue of the periodical."
+    },
+    {
+        "title": "2007 Reviewers List",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2008.2",
+        "citation": 0,
+        "abstract": "Lists, in alphabetical order, the reviewers who contributed to IEEE Transactions on Visualization and Computer Graphics between 16 October 2006 and 05 October 2007."
+    },
+    {
+        "title": "TVCG Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2008",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2008.6",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
+    }
+]

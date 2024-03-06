@@ -1,0 +1,200 @@
+[
+    {
+        "title": "Dynamic range reduction inspired by photoreceptor physiology",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [
+            "E. Reinhard",
+            "K. Devlin"
+        ],
+        "DOI": "10.1109/TVCG.2005.9",
+        "citation": 268,
+        "abstract": "A common task in computer graphics is the mapping of digital high dynamic range images to low dynamic range display devices such as monitors and printers. This task is similar to the adaptation processes which occur in the human visual system. Physiological evidence suggests that adaptation already occurs in the photoreceptors, leading to a straightforward model that can be easily adapted for tone reproduction. The result is a fast and practical algorithm for general use with intuitive user parameters that control intensity, contrast, and level of chromatic adaptation, respectively."
+    },
+    {
+        "title": "Modal warping: real-time simulation of large rotational deformation and manipulation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [
+            "Min Gyu Choi",
+            "Hyeong-Seok Ko"
+        ],
+        "DOI": "10.1109/TVCG.2005.13",
+        "citation": 102,
+        "abstract": "This work proposes a real-time simulation technique for large deformations. Green's nonlinear strain tensor accurately models large deformations; however, time stepping of the resulting nonlinear system can be computationally expensive. Modal analysis based on a linear strain tensor has been shown to be suitable for real-time simulation, but is accurate only for moderately small deformations. In the present work, we identify the rotational component of an infinitesimal deformation and extend traditional linear modal analysis to track that component. We then develop a procedure to integrate the small rotations occurring at the nodal points. An interesting feature of our formulation is that it can implement both position and orientation constraints in a straightforward manner. These constraints can be used to interactively manipulate the shape of a deformable solid by dragging/twisting a set of nodes. Experiments show that the proposed technique runs in real-time, even for a complex model, and that it can simulate large bending and/or twisting deformations with acceptable realism."
+    },
+    {
+        "title": "Comparing 2D vector field visualization methods: a user study",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [
+            "D.H. Laidlaw",
+            "R.M. Kirby",
+            "C.D. Jackson",
+            "J.S. Davidson",
+            "T.S. Miller",
+            "M. da Silva",
+            "W.H. Warren",
+            "M.J. Tarr"
+        ],
+        "DOI": "10.1109/TVCG.2005.4",
+        "citation": 98,
+        "abstract": "We present results from a user study that compared six visualization methods for two-dimensional vector data. Users performed three simple but representative tasks using visualizations from each method: 1) locating all critical points in an image, 2) identifying critical point types, and 3) advecting a particle. Visualization methods included two that used different spatial distributions of short arrow icons, two that used different distributions of integral curves, one that used wedges located to suggest flow lines, and line-integral convolution (LIC). Results show different strengths and weaknesses for each method. We found that users performed these tasks better with methods that: 1) showed the sign of vectors within the vector field, 2) visually represented integral curves, and 3) visually represented the locations of critical points. Expert user performance was not statistically different from nonexpert user performance. We used several methods to analyze the data including omnibus analysis of variance, pairwise t-tests, and graphical analysis using inferential confidence intervals. We concluded that using the inferential confidence intervals for displaying the overall pattern of results for each task measure and for performing subsequent pairwise comparisons of the condition means was the best method for analyzing the data in this study. These results provide quantitative support for some of the anecdotal evidence concerning visualization methods. The tasks and testing framework also provide a basis for comparing other visualization methods, for creating more effective methods and for defining additional tasks to further understand the tradeoffs among the methods. In the future, we also envision extending this work to more ambitious comparisons, such as evaluating two-dimensional vectors on two-dimensional surfaces embedded in three-dimensional space and defining analogous tasks for three-dimensional visualization methods."
+    },
+    {
+        "title": "A parallel coordinates style interface for exploratory volume visualization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [
+            "M. Tory",
+            "S. Potts",
+            "T. Moller"
+        ],
+        "DOI": "10.1109/TVCG.2005.2",
+        "citation": 49,
+        "abstract": "We present a user interface, based on parallel coordinates, that facilitates exploration of volume data. By explicitly representing the visualization parameter space, the interface provides an overview of rendering options and enables users to easily explore different parameters. Rendered images are stored in an integrated history bar that facilitates backtracking to previous visualization options. Initial usability testing showed clear agreement between users and experts of various backgrounds (usability, graphic design, volume visualization, and medical physics) that the proposed user interface is a valuable data exploration tool."
+    },
+    {
+        "title": "Metamorphosis of 3D polyhedral models using progressive connectivity transformations",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [
+            "Chao-Hung Lin",
+            "Tong-Yee Lee"
+        ],
+        "DOI": "10.1109/TVCG.2005.12",
+        "citation": 28,
+        "abstract": "Three-dimensional (3D) metamorphosis is a powerful technique to produce a 3D shape transformation between two or more existing models. We propose a novel 3D morphing technique that avoids creating a merged embedding that contains the faces, edges, and vertices of two given embeddings. This novel 3D morphing technique dynamically adds or removes vertices to gradually transform the connectivity of 3D polyhedrons from a source model into a target model and simultaneously creates the intermediate shapes. In addition, a priority control function provides the animators with control of arising or dissolving of input models' features in a morphing sequence. This is a useful tool to control a morphing sequence more easily and flexibly. Several examples of aesthetically pleasing morphs are demonstrated using the proposed method."
+    },
+    {
+        "title": "A technique for rendering complex portals",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [
+            "N. Lowe",
+            "A. Datta"
+        ],
+        "DOI": "10.1109/TVCG.2005.1",
+        "citation": 17,
+        "abstract": "We identify a general paradigm for portal-based rendering and present an image-space algorithm for rendering complex portals. Our general paradigm is an abstraction of portal-based rendering that is independent of scene geometry. It provides a framework for flexible and dynamic scene composition by connecting cells with transformative portals. Our rendering algorithm maintains a visible volume in image-space and uses fragment culling to discard fragments outside of this volume. We discuss our implementation in OpenGL and present results that show it provides correct rendering of complex portals at interactive rates on current hardware. We believe that our work is useful in many applications that require a means of creating dynamic and meaningful visual connections between different sets of data."
+    },
+    {
+        "title": "vLOD: high-fidelity walkthrough of large virtual environments",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [
+            "J. Chhugani",
+            "B. Purnomo",
+            "Shankar Krishnan",
+            "J. Cohen",
+            "S. Venkatasubramanian",
+            "D.S. Johnson",
+            "Subodh Kumar"
+        ],
+        "DOI": "10.1109/TVCG.2005.17",
+        "citation": 11,
+        "abstract": "We present visibility computation and data organization algorithms that enable high-fidelity walkthroughs of large 3D geometric data sets. A novel feature of our walkthrough system is that it performs work proportional only to the required detail in visible geometry at the rendering time. To accomplish this, we use a precomputation phase that efficiently generates per cell vLOD: the geometry visible from a view-region at the right level of detail. We encode changes between neighboring cells' vLODs, which are not required to be memory resident. At the rendering time, we incrementally construct the vLOD for the current view-cell and render it. We have a small CPU and memory requirement for rendering and are able to display models with tens of millions of polygons at interactive frame rates with less than one pixel screen-space deviation and accurate visibility."
+    },
+    {
+        "title": "Light field morphing using 2D features",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [
+            "Lifeng Wang",
+            "S. Lin",
+            "Seungyong Lee",
+            "Baining Guo",
+            "Heung-Yeung Shum"
+        ],
+        "DOI": "10.1109/TVCG.2005.11",
+        "citation": 10,
+        "abstract": "We present a 2D feature-based technique for morphing 3D objects represented by light fields. Existing light field morphing methods require the user to specify corresponding 3D feature elements to guide morph computation. Since slight errors in 3D specification can lead to significant morphing artifacts, we propose a scheme based on 2D feature elements that is less sensitive to imprecise marking of features. First, 2D features are specified by the user in a number of key views in the source and target light fields. Then the two light fields are warped view by view as guided by the corresponding 2D features. Finally, the two warped light fields are blended together to yield the desired light field morph. Two key issues in light field morphing are feature specification and warping of light field rays. For feature specification, we introduce a user interface for delineating 2D features in key views of a light field, which are automatically interpolated to other views. For ray warping, we describe a 2D technique that accounts for visibility changes and present a comparison to the ideal morphing of light fields. Light field morphing based on 2D features makes it simple to incorporate previous image morphing techniques such as nonuniform blending, as well as to morph between an image and a light field."
+    },
+    {
+        "title": "Rendering deformable surface reflectance fields",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [
+            "T. Weyrich",
+            "H. Pfister",
+            "M. Gross"
+        ],
+        "DOI": "10.1109/TVCG.2005.14",
+        "citation": 8,
+        "abstract": "Animation of photorealistic computer graphics models is an important goal for many applications. Image-based modeling has emerged as a promising approach to capture and visualize real-world objects. Animating image-based models, however, is still a largely unsolved problem. In this paper, we extend a popular image-based representation called surface reflectance field to animate and render deformable real-world objects under arbitrary illumination. Deforming the surface reflectance field is achieved by modifying the underlying impostor geometry. We augment the impostor by a local parameterization that allows the correct evaluation of acquired reflectance images, preserving the original light model on the deformed surface. We present a deferred shading scheme to handle the increased amount of data involved in shading the deformable surface reflectance field. We show animations of various objects that were acquired with 3D photography."
+    },
+    {
+        "title": "Tetrahedralization of point sets using expanding spheres",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [
+            "M.S. Maltz"
+        ],
+        "DOI": "10.1109/TVCG.2005.16",
+        "citation": 2,
+        "abstract": "The expanding sphere algorithm computes an alpha shape tetrahedralization of a point set. Starting with a seed tetrahedron, the circumscribing sphere is squeezed through each face until it either touches another point or exceeds a preset radius. If no point is found, that face of the tetrahedron is part of the surface of an object. If a point is found, a new tetrahedron is constructed. This process is iterated until all the faces of the tetrahedra have been processed and no more connected points can be found. If there are points left over, the process is iterated, creating additional objects. The algorithm generates a list of objects, with an alpha shape tetrahedralization and a surface triangulation for each. Any points that cannot be made part of a valid tetrahedron are also returned in the extra points list. The algorithm is efficient for uniformly distributed point sets, with a running time that is linear in the number of points for such sets. Since the operations are local, it is also robust."
+    },
+    {
+        "title": "Editor's note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2005.10",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "[Back cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2005.8",
+        "citation": 1,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "[Inside front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2005.6",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "TVCG Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2005.7",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
+    },
+    {
+        "title": "Reviewers list",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2005.15",
+        "citation": 0,
+        "abstract": "The publication offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "[Front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2005.5",
+        "citation": 0,
+        "abstract": "Presents the front cover/table of contents for this issue of the periodical."
+    },
+    {
+        "title": "[Advertisement]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2005",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2005.3",
+        "citation": 0,
+        "abstract": ""
+    }
+]

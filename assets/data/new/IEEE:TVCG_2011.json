@@ -1,0 +1,215 @@
+[
+    {
+        "title": "Virtualized Traffic: Reconstructing Traffic Flows from Discrete Spatiotemporal Data",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [
+            "Jason Sewall",
+            "Jur van den Berg",
+            "Ming Lin",
+            "Dinesh Manocha"
+        ],
+        "DOI": "10.1109/TVCG.2010.27",
+        "citation": 62,
+        "abstract": "We present a novel concept, Virtualized Traffic, to reconstruct and visualize continuous traffic flows from discrete spatiotemporal data provided by traffic sensors or generated artificially to enhance a sense of immersion in a dynamic virtual world. Given the positions of each car at two recorded locations on a highway and the corresponding time instances, our approach can reconstruct the traffic flows (i.e., the dynamic motions of multiple cars over time) between the two locations along the highway for immersive visualization of virtual cities or other environments. Our algorithm is applicable to high-density traffic on highways with an arbitrary number of lanes and takes into account the geometric, kinematic, and dynamic constraints on the cars. Our method reconstructs the car motion that automatically minimizes the number of lane changes, respects safety distance to other cars, and computes the acceleration necessary to obtain a smooth traffic flow subject to the given constraints. Furthermore, our framework can process a continuous stream of input data in real time, enabling the users to view virtualized traffic events in a virtual world as they occur. We demonstrate our reconstruction technique with both synthetic and real-world input."
+    },
+    {
+        "title": "Automatic Metro Map Layout Using Multicriteria Optimization",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [
+            "Jonathan Stott",
+            "Peter Rodgers",
+            "Juan Carlos Martínez-Ovando",
+            "Stephen G. Walker"
+        ],
+        "DOI": "10.1109/TVCG.2010.24",
+        "citation": 65,
+        "abstract": "This paper describes an automatic mechanism for drawing metro maps. We apply multicriteria optimization to find effective placement of stations with a good line layout and to label the map unambiguously. A number of metrics are defined, which are used in a weighted sum to find a fitness value for a layout of the map. A hill climbing optimizer is used to reduce the fitness value, and find improved map layouts. To avoid local minima, we apply clustering techniques to the map-the hill climber moves both stations and clusters when finding improved layouts. We show the method applied to a number of metro maps, and describe an empirical study that provides some quantitative evidence that automatically-drawn metro maps can help users to find routes more efficiently than either published maps or undistorted maps. Moreover, we have found that, in these cases, study subjects indicate a preference for automatically-drawn maps over the alternatives."
+    },
+    {
+        "title": "Shape “Break-and-Repair” Strategy and Its Application to Automated Medical Image Segmentation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [
+            "Jiantao Pu",
+            "David S. Paik",
+            "Xin Meng",
+            "Justus Roos",
+            "Geoffrey D. Rubin"
+        ],
+        "DOI": "10.1109/TVCG.2010.56",
+        "citation": 41,
+        "abstract": "In three-dimensional medical imaging, segmentation of specific anatomy structure is often a preprocessing step for computer-aided detection/diagnosis (CAD) purposes, and its performance has a significant impact on diagnosis of diseases as well as objective quantitative assessment of therapeutic efficacy. However, the existence of various diseases, image noise or artifacts, and individual anatomical variety generally impose a challenge for accurate segmentation of specific structures. To address these problems, a shape analysis strategy termed “break-and-repair” is presented in this study to facilitate automated medical image segmentation. Similar to surface approximation using a limited number of control points, the basic idea is to remove problematic regions and then estimate a smooth and complete surface shape by representing the remaining regions with high fidelity as an implicit function. The innovation of this shape analysis strategy is the capability of solving challenging medical image segmentation problems in a unified framework, regardless of the variability of anatomical structures in question. In our implementation, principal curvature analysis is used to identify and remove the problematic regions and radial basis function (RBF) based implicit surface fitting is used to achieve a closed (or complete) surface boundary. The feasibility and performance of this strategy are demonstrated by applying it to automated segmentation of two completely different anatomical structures depicted on CT examinations, namely human lungs and pulmonary nodules. Our quantitative experiments on a large number of clinical CT examinations collected from different sources demonstrate the accuracy, robustness, and generality of the shape “break-and-repair” strategy in medical image segmentation."
+    },
+    {
+        "title": "Video Painting with Space-Time-Varying Style Parameters",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [
+            "Mizuki Kagaya",
+            "William Brendel",
+            "Qingqing Deng",
+            "Todd Kesterson",
+            "Sinisa Todorovic",
+            "Patrick J. Neill",
+            "Eugene Zhang"
+        ],
+        "DOI": "10.1109/TVCG.2010.25",
+        "citation": 36,
+        "abstract": "Artists use different means of stylization to control the focus on different objects in the scene. This allows them to portray complex meaning and achieve certain artistic effects. Most prior work on painterly rendering of videos, however, uses only a single painting style, with fixed global parameters, irrespective of objects and their layout in the images. This often leads to inadequate artistic control. Moreover, brush stroke orientation is typically assumed to follow an everywhere continuous directional field. In this paper, we propose a video painting system that accounts for the spatial support of objects in the images or videos, and uses this information to specify style parameters and stroke orientation for painterly rendering. Since objects occupy distinct image locations and move relatively smoothly from one video frame to another, our object-based painterly rendering approach is characterized by style parameters that coherently vary in space and time. Space-time-varying style parameters enable more artistic freedom, such as emphasis/de-emphasis, increase or decrease of contrast, exaggeration or abstraction of different objects in the scene in a temporally coherent fashion."
+    },
+    {
+        "title": "Inductively Generating Euler Diagrams",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [
+            "Gem Stapleton",
+            "Peter Rodgers",
+            "John Howse",
+            "Leishi Zhang"
+        ],
+        "DOI": "10.1109/TVCG.2010.28",
+        "citation": 33,
+        "abstract": "Euler diagrams have a wide variety of uses, from information visualization to logical reasoning. In all of their application areas, the ability to automatically layout Euler diagrams brings considerable benefits. In this paper, we present a novel approach to Euler diagram generation. We develop certain graphs associated with Euler diagrams in order to allow curves to be added by finding cycles in these graphs. This permits us to build Euler diagrams inductively, adding one curve at a time. Our technique is adaptable, allowing the easy specification, and enforcement, of sets of well-formedness conditions; we present a series of results that identify properties of cycles that correspond to the well-formedness conditions. This improves upon other contributions toward the automated generation of Euler diagrams which implicitly assume some fixed set of well-formedness conditions must hold. In addition, unlike most of these other generation methods, our technique allows any abstract description to be drawn as an Euler diagram. To establish the utility of the approach, a prototype implementation has been developed."
+    },
+    {
+        "title": "An Immersive Virtual Peer for Studying Social Influences on Child Cyclists' Road-Crossing Behavior",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [
+            "Sabarish V. Babu",
+            "Timofey Y. Grechkin",
+            "Benjamin Chihak",
+            "Christine Ziemer",
+            "Joseph K. Kearney",
+            "James F. Cremer",
+            "Jodie M. Plumert"
+        ],
+        "DOI": "10.1109/TVCG.2009.211",
+        "citation": 29,
+        "abstract": "The goal of our work is to develop a programmatically controlled peer to bicycle with a human subject for the purpose of studying how social interactions influence road-crossing behavior. The peer is controlled through a combination of reactive controllers that determine the gross motion of the virtual bicycle, action-based controllers that animate the virtual bicyclist and generate verbal behaviors, and a keyboard interface that allows an experimenter to initiate the virtual bicyclist's actions during the course of an experiment. The virtual bicyclist's repertoire of behaviors includes road following, riding alongside the human rider, stopping at intersections, and crossing intersections through specified gaps in traffic. The virtual cyclist engages the human subject through gaze, gesture, and verbal interactions. We describe the structure of the behavior code and report the results of a study examining how 10- and 12-year-old children interact with a peer cyclist that makes either risky or safe choices in selecting gaps in traffic. Results of our study revealed that children who rode with a risky peer were more likely to cross intermediate-sized gaps than children who rode with a safe peer. In addition, children were significantly less likely to stop at the last six intersections after the experience of riding with the risky than the safe peer during the first six intersections. The results of the study and children's reactions to the virtual peer indicate that our virtual peer framework is a promising platform for future behavioral studies of peer influences on children's bicycle riding behavior."
+    },
+    {
+        "title": "A Spatially Augmented Reality Sketching Interface for Architectural Daylighting Design",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [
+            "Yu Sheng",
+            "Theodore C. Yapo",
+            "Christopher Young",
+            "Barbara Cutler"
+        ],
+        "DOI": "10.1109/TVCG.2009.209",
+        "citation": 27,
+        "abstract": "We present an application of interactive global illumination and spatially augmented reality to architectural daylight modeling that allows designers to explore alternative designs and new technologies for improving the sustainability of their buildings. Images of a model in the real world, captured by a camera above the scene, are processed to construct a virtual 3D model. To achieve interactive rendering rates, we use a hybrid rendering technique, leveraging radiosity to simulate the interreflectance between diffuse patches and shadow volumes to generate per-pixel direct illumination. The rendered images are then projected on the real model by four calibrated projectors to help users study the daylighting illumination. The virtual heliodon is a physical design environment in which multiple designers, a designer and a client, or a teacher and students can gather to experience animated visualizations of the natural illumination within a proposed design by controlling the time of day, season, and climate. Furthermore, participants may interactively redesign the geometry and materials of the space by manipulating physical design elements and see the updated lighting simulation."
+    },
+    {
+        "title": "Unicube for Dynamic Environment Mapping",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [
+            "Tze-Yiu Ho",
+            "Liang Wan",
+            "Chi-Sing Leung",
+            "Ping-Man Lam",
+            "Tien-Tsin Wong"
+        ],
+        "DOI": "10.1109/TVCG.2009.205",
+        "citation": 10,
+        "abstract": "Cube mapping is widely used in many graphics applications due to the availability of hardware support. However, it does not sample the spherical surface evenly. Recently, a uniform spherical mapping, isocube mapping, was proposed. It exploits the six-face structure used in cube mapping and samples the spherical surface evenly. Unfortunately, some texels in isocube mapping are not rectilinear. This nonrectilinear property may degrade the filtering quality. This paper proposes a novel spherical mapping, namely unicube mapping. It has the advantages of cube mapping (exploitation of hardware and rectilinear structure) and isocube mapping (evenly sampling pattern). In the implementation, unicube mapping uses a simple function to modify the lookup vector before the conventional cube map lookup process. Hence, unicube mapping fully exploits the cube map hardware for real-time filtering and lookup. More importantly, its rectilinear partition structure allows a direct and real-time acquisition of the texture environment. This property facilitates dynamic environment mapping in a real time manner."
+    },
+    {
+        "title": "Radiance Transfer Biclustering for Real-Time All-Frequency Biscale Rendering",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [
+            "Xin Sun",
+            "Qiming Hou",
+            "Zhong Ren",
+            "Kun Zhou",
+            "Baining Guo"
+        ],
+        "DOI": "10.1109/TVCG.2010.58",
+        "citation": 7,
+        "abstract": "We present a real-time algorithm to render all-frequency radiance transfer at both macroscale and mesoscale. At a mesoscale, the shading is computed on a per-pixel basis by integrating the product of the local incident radiance and a bidirectional texture function. While at a macroscale, the precomputed transfer matrix, which transfers the global incident radiance to the local incident radiance at each vertex, is losslessly compressed by a novel biclustering technique. The biclustering is directly applied on the radiance transfer represented in a pixel basis, on which the BTF is naturally defined. It exploits the coherence in the transfer matrix and a property of matrix element values to reduce both storage and runtime computation cost. Our new algorithm renders at real-time frame rates realistic materials and shadows under all-frequency direct environment lighting. Comparisons show that our algorithm is able to generate images that compare favorably with reference ray tracing results, and has obvious advantages over alternative methods in storage and preprocessing time."
+    },
+    {
+        "title": "JanusVF: Accurate Navigation Using SCAAT and Virtual Fiducials",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [
+            "Malcolm Hutson",
+            "Dirk Reiners"
+        ],
+        "DOI": "10.1109/TVCG.2010.91",
+        "citation": 5,
+        "abstract": "Several critical limitations exist in the currently available tracking technologies for fully enclosed virtual reality (VR) systems. While several 6DOF tracking projects such as Hedgehog have successfully demonstrated excellent accuracy, precision, and robustness within moderate budgets, these projects still include elements of hardware that can interfere with the user's visual experience. The objective of this project is to design a tracking solution for fully enclosed VR displays that achieves comparable performance to available commercial solutions but without any artifacts that can obscure the user's view. JanusVF is a tracking solution involving a cooperation of both the hardware sensors and the software rendering system. A small, high-resolution camera is worn on the user's head, but faces backward (180 degree rotation about vertical from the user's perspective). After acquisition of the initial state, the VR rendering software draws specific fiducial markers with known size and absolute position inside the VR scene. These virtual markers are only drawn behind the user and in view of the camera. These fiducials are tracked by ARToolkitPlus and integrated by a single-constraint-at-a-time (SCAAT) filter algorithm to update the head pose. Experiments analyzing accuracy, precision, and latency in a six-sided CAVE-like system show performance that is comparable to alternative commercial technologies."
+    },
+    {
+        "title": "Guest Editor's Introduction Special Section on the Virtual Reality Conference (VR)",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [
+            "Anthony Steed",
+            "Robert W. Lindeman"
+        ],
+        "DOI": "10.1109/TVCG.2011.7",
+        "citation": 1,
+        "abstract": "The four papers in this special section are expanded versions of the four best papers from the IEEE Virtual Reality (VR) Proceedings."
+    },
+    {
+        "title": "[Inside front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2011.4",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "2010 Reviewers List",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2011.2",
+        "citation": 0,
+        "abstract": "Lists the reviewers who contributed to the IEEE Transactions on Visualization and Computer Graphics for 2010."
+    },
+    {
+        "title": "TVCG Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2011.5",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
+    },
+    {
+        "title": "[Front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2011.3",
+        "citation": 0,
+        "abstract": "Presents the front cover/table of contents for this issue of the periodical."
+    },
+    {
+        "title": "2010 Annual Index",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2011.1",
+        "citation": 0,
+        "abstract": "This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the coauthors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under the primary entry in the Author Index."
+    },
+    {
+        "title": "[Back cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2011",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2011.6",
+        "citation": 0,
+        "abstract": "Provides a listing of current staff, committee members and society officers."
+    }
+]

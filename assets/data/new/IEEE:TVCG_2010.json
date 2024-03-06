@@ -1,0 +1,264 @@
+[
+    {
+        "title": "High-Dynamic-Range Texture Compression for Rendering Systems of Different Capacities",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Wen Sun",
+            "Yan Lu",
+            "Feng Wu",
+            "Shipeng Li",
+            "John Tardif"
+        ],
+        "DOI": "10.1109/TVCG.2009.60",
+        "citation": 5,
+        "abstract": "In this paper, we propose a novel approach for high-dynamic-range (HDR) texture compression (TC) suitable for rendering systems of different capacities. Based on the previously proposed DHTC scheme, we first work out an improved joint-channel compression framework, which is robust and flexible enough to provide compressed HDR textures at different bit rates. Then, two compressed HDR texture formats based on the proposed framework are developed. The 8 bpp format is of near lossless visual quality, improving upon known state-of-the-art algorithms. And, to our knowledge, the 4 bpp format is the first workable 4 bpp solution with good quality. We also show that HDR textures in the proposed 4 bpp and 8 bpp formats can compose a layered architecture in the texture consumption pipeline, to significantly save the memory bandwidth and storage in real-time rendering. In addition, the 8 bpp format can also be used to handle traditional low dynamic range (LDR) RGBA textures. Our scheme exhibits a practical solution for compressing HDR textures at different rates and LDR textures with alpha maps."
+    },
+    {
+        "title": "Estimation of Detection Thresholds for Redirected Walking Techniques",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Frank Steinicke",
+            "Gerd Bruder",
+            "Jason Jerald",
+            "Harald Frenz",
+            "Markus Lappe"
+        ],
+        "DOI": "10.1109/TVCG.2009.62",
+        "citation": 408,
+        "abstract": "In immersive virtual environments (IVEs), users can control their virtual viewpoint by moving their tracked head and walking through the real world. Usually, movements in the real world are mapped one-to-one to virtual camera motions. With redirection techniques, the virtual camera is manipulated by applying gains to user motion so that the virtual world moves differently than the real world. Thus, users can walk through large-scale IVEs while physically remaining in a reasonably small workspace. In psychophysical experiments with a two-alternative forced-choice task, we have quantified how much humans can unknowingly be redirected on physical paths that are different from the visually perceived paths. We tested 12 subjects in three different experiments: (E1) discrimination between virtual and physical rotations, (E2) discrimination between virtual and physical straightforward movements, and (E3) discrimination of path curvature. In experiment E1, subjects performed rotations with different gains, and then had to choose whether the visually perceived rotation was smaller or greater than the physical rotation. In experiment E2, subjects chose whether the physical walk was shorter or longer than the visually perceived scaled travel distance. In experiment E3, subjects estimate the path curvature when walking a curved path in the real world while the visual display shows a straight path in the virtual world. Our results show that users can be turned physically about 49 percent more or 20 percent less than the perceived virtual rotation, distances can be downscaled by 14 percent and upscaled by 26 percent, and users can be redirected on a circular arc with a radius greater than 22 m while they believe that they are walking straight."
+    },
+    {
+        "title": "Opportunistic Tangible User Interfaces for Augmented Reality",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Steven Henderson",
+            "Steven Feiner"
+        ],
+        "DOI": "10.1109/TVCG.2009.91",
+        "citation": 50,
+        "abstract": "Opportunistic Controls are a class of user interaction techniques that we have developed for augmented reality (AR) applications to support gesturing on, and receiving feedback from, otherwise unused affordances already present in the domain environment. By leveraging characteristics of these affordances to provide passive haptics that ease gesture input, Opportunistic Controls simplify gesture recognition, and provide tangible feedback to the user. In this approach, 3D widgets are tightly coupled with affordances to provide visual feedback and hints about the functionality of the control. For example, a set of buttons can be mapped to existing tactile features on domain objects. We describe examples of Opportunistic Controls that we have designed and implemented using optical marker tracking, combined with appearance-based gesture recognition. We present the results of two user studies. In the first, participants performed a simulated maintenance inspection of an aircraft engine using a set of virtual buttons implemented both as Opportunistic Controls and using simpler passive haptics. Opportunistic Controls allowed participants to complete their tasks significantly faster and were preferred over the baseline technique. In the second, participants proposed and demonstrated user interfaces incorporating Opportunistic Controls for two domains, allowing us to gain additional insights into how user interfaces featuring Opportunistic Controls might be designed."
+    },
+    {
+        "title": "Metric-Driven RoSy Field Design and Remeshing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Yu-Kun Lai",
+            "Miao Jin",
+            "Xuexiang Xie",
+            "Ying He",
+            "Jonathan Palacios",
+            "Eugene Zhang",
+            "Shi-Min Hu",
+            "Xianfeng Gu"
+        ],
+        "DOI": "10.1109/TVCG.2009.59",
+        "citation": 45,
+        "abstract": "Designing rotational symmetry fields on surfaces is an important task for a wide range of graphics applications. This work introduces a rigorous and practical approach for automatic N-RoSy field design on arbitrary surfaces with user-defined field topologies. The user has full control of the number, positions, and indexes of the singularities (as long as they are compatible with necessary global constraints), the turning numbers of the loops, and is able to edit the field interactively. We formulate N-RoSy field construction as designing a Riemannian metric such that the holonomy along any loop is compatible with the local symmetry of N-RoSy fields. We prove the compatibility condition using discrete parallel transport. The complexity of N-RoSy field design is caused by curvatures. In our work, we propose to simplify the Riemannian metric to make it flat almost everywhere. This approach greatly simplifies the process and improves the flexibility such that it can design N-RoSy fields with single singularity and mixed-RoSy fields. This approach can also be generalized to construct regular remeshing on surfaces. To demonstrate the effectiveness of our approach, we apply our design system to pen-and-ink sketching and geometry remeshing. Furthermore, based on our remeshing results with high global symmetry, we generate Celtic knots on surfaces directly."
+    },
+    {
+        "title": "Crease Surfaces: From Theory to Extraction and Application to Diffusion Tensor MRI",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Thomas Schultz",
+            "Holger Theisel",
+            "Hans-Peter Seidel"
+        ],
+        "DOI": "10.1109/TVCG.2009.44",
+        "citation": 43,
+        "abstract": "Crease surfaces are two-dimensional manifolds along which a scalar field assumes a local maximum (ridge) or a local minimum (valley) in a constrained space. Unlike isosurfaces, they are able to capture extremal structures in the data. Creases have a long tradition in image processing and computer vision, and have recently become a popular tool for visualization. When extracting crease surfaces, degeneracies of the Hessian (i.e., lines along which two eigenvalues are equal) have so far been ignored. We show that these loci, however, have two important consequences for the topology of crease surfaces: First, creases are bounded not only by a side constraint on eigenvalue sign, but also by Hessian degeneracies. Second, crease surfaces are not, in general, orientable. We describe an efficient algorithm for the extraction of crease surfaces which takes these insights into account and demonstrate that it produces more accurate results than previous approaches. Finally, we show that diffusion tensor magnetic resonance imaging (DT-MRI) stream surfaces, which were previously used for the analysis of planar regions in diffusion tensor MRI data, are mathematically ill-defined. As an example application of our method, creases in a measure of planarity are presented as a viable substitute."
+    },
+    {
+        "title": "Visualizing the Semantic Structure in Classical Music Works",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Wing-Yi Chan",
+            "Huamin Qu",
+            "Wai-Ho Mak"
+        ],
+        "DOI": "10.1109/TVCG.2009.63",
+        "citation": 22,
+        "abstract": "A major obstacle in the appreciation of classical music is that extensive training is required to understand musical structure and compositional techniques toward comprehending the thoughts behind the musical work. In this paper, we propose an innovative visualization solution to reveal the semantic structure in classical orchestral works such that users can gain insights into musical structure and appreciate the beauty of music. We formulate the semantic structure into macrolevel layer interactions, microlevel theme variations, and macro-micro relationships between themes and layers to abstract the complicated construction of a musical composition. The visualization has been applied with success in understanding some classical music works as supported by highly promising user study results with the general audience and very positive feedback from music students and experts, demonstrating its effectiveness in conveying the sophistication and beauty of classical music to novice users with informative and intuitive displays."
+    },
+    {
+        "title": "The Medical Exploration Toolkit: An Efficient Support for Visual Computing in Surgical Planning and Training",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Konrad Muhler",
+            "Christian Tietjen",
+            "Felix Ritter",
+            "Bernhard Preim"
+        ],
+        "DOI": "10.1109/TVCG.2009.58",
+        "citation": 20,
+        "abstract": "Application development is often guided by the usage of software libraries and toolkits. For medical applications, the toolkits currently available focus on image analysis and volume rendering. Advanced interactive visualizations and user interface issues are not adequately supported. Hence, we present a toolkit for application development in the field of medical intervention planning, training, and presentation-the MEDICALEXPLORATIONTOOLKIT (METK). The METK is based on the rapid prototyping platform MeVisLab and offers a large variety of facilities for an easy and efficient application development process. We present dedicated techniques for advanced medical visualizations, exploration, standardized documentation, and interface widgets for common tasks. These include, e.g., advanced animation facilities, viewpoint selection, several illustrative rendering techniques, and new techniques for object selection in 3D surface models. No extended programming skills are needed for application building, since a graphical programming approach can be used. The toolkit is freely available and well documented to facilitate the use and extension of the toolkit."
+    },
+    {
+        "title": "Fluid Simulation with Articulated Bodies",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Nipun Kwatra",
+            "Chris Wojtan",
+            "Mark Carlson",
+            "Irfan A. Essa",
+            "Peter J. Mucha",
+            "Greg Turk"
+        ],
+        "DOI": "10.1109/TVCG.2009.66",
+        "citation": 19,
+        "abstract": "We present an algorithm for creating realistic animations of characters that are swimming through fluids. Our approach combines dynamic simulation with data-driven kinematic motions (motion capture data) to produce realistic animation in a fluid. The interaction of the articulated body with the fluid is performed by incorporating joint constraints with rigid animation and by extending a solid/fluid coupling method to handle articulated chains. Our solver takes as input the current state of the simulation and calculates the angular and linear accelerations of the connected bodies needed to match a particular motion sequence for the articulated body. These accelerations are used to estimate the forces and torques that are then applied to each joint. Based on this approach, we demonstrate simulated swimming results for a variety of different strokes, including crawl, backstroke, breaststroke, and butterfly. The ability to have articulated bodies interact with fluids also allows us to generate simulations of simple water creatures that are driven by simple controllers."
+    },
+    {
+        "title": "Directable Weathering of Concave Rock Using Curvature Estimation",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Michael D. Jones",
+            "McKay Farley",
+            "Joseph Butler",
+            "Matthew Beardall"
+        ],
+        "DOI": "10.1109/TVCG.2009.39",
+        "citation": 16,
+        "abstract": "We address the problem of directable weathering of exposed concave rock for use in computer-generated animation or games. Previous weathering models that admit concave surfaces are computationally inefficient and difficult to control. In nature, the spheroidal and cavernous weathering rates depend on the surface curvature. Spheroidal weathering is fastest in areas with large positive mean curvature and cavernous weathering is fastest in areas with large negative mean curvature. We simulate both processes using an approximation of mean curvature on a voxel grid. Both weathering rates are also influenced by rock durability. The user controls rock durability by editing a durability graph before and during weathering simulation. Simulations of rockfall and colluvium deposition further improve realism. The profile of the final weathered rock matches the shape of the durability graph up to the effects of weathering and colluvium deposition. We demonstrate the top-down directability and visual plausibility of the resulting model through a series of screenshots and rendered images. The results include the weathering of a cube into a sphere and of a sheltered inside corner into a cavern as predicted by the underlying geomorphological models."
+    },
+    {
+        "title": "Tiled++: An Enhanced Tiled Hi-Res Display Wall",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Achim Ebert",
+            "Sebastian Thelen",
+            "Peter-Scott Olech",
+            "Joerg Meyer",
+            "Hans Hagen"
+        ],
+        "DOI": "10.1109/TVCG.2009.57",
+        "citation": 12,
+        "abstract": "In recent years, high-resolution displays have become increasingly important to decision makers and scientists because large screens combined with a high pixel count facilitate content rich, simultaneous display of computer-generated imagery and high-definition video data from multiple sources. Tiled displays are attractive due to their extended screen real estate, scalability, and low cost. LCD panels are usually preferred over projectors because of their superior resolution. One of the drawbacks of LCD-based tiled displays is the fact that users sometimes get distracted by the screens' bezels, which cause discontinuities in rendered images, animations, or videos. Most conventional solutions either ignore the bezels and display all pixels, causing objects to become distorted, or eliminate the pixels that would normally fall under the bezels, causing pixels to be missing in the display of static images. In animations, the missing pixels will eventually reappear when the object moves, providing an experience that is similar to looking through a French window. In this paper, we present a new scalable approach that leads neither to discontinuities nor to significant loss of information. By projecting onto the bezels, we demonstrate that a combination of LCD-based tiled displays and projection significantly reduces the bezel problem. Our technique eliminates ambiguities that commonly occur on tiled displays in the fields of information visualization, visual data analysis, human-computer interaction, and scientific data display. It improves the usability of multimonitor systems by virtually eliminating the bezels. We describe a setup and provide results from an evaluation experiment conducted on a 3 times 3 and on a 10 times 5 tiled display wall."
+    },
+    {
+        "title": "Virtual Rheoscopic Fluids",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Florian Hecht",
+            "Peter J. Mucha",
+            "Greg Turk"
+        ],
+        "DOI": "10.1109/TVCG.2009.46",
+        "citation": 8,
+        "abstract": "We present a visualization technique for simulated fluid dynamics data that visualizes the gradient of the velocity field in an intuitive way. Our work is inspired by rheoscopic particles, which are small, flat particles that, when suspended in fluid, align themselves with the shear of the flow. We adopt the physical principles of real rheoscopic particles and apply them, in model form, to 3D velocity fields. By simulating the behavior and reflectance of these particles, we are able to render 3D simulations in a way that gives insight into the dynamics of the system. The results can be rendered in real time, allowing the user to inspect the simulation from all perspectives. We achieve this by a combination of precomputations and fast ray tracing on the GPU. We demonstrate our method on several different simulations, showing their complex dynamics in the process."
+    },
+    {
+        "title": "All-Frequency Lighting with Multiscale Spherical Radial Basis Functions",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Ping-Man Lam",
+            "Tze-Yiu Ho",
+            "Chi-Sing Leung",
+            "Tien-Tsin Wong"
+        ],
+        "DOI": "10.1109/TVCG.2009.56",
+        "citation": 8,
+        "abstract": "This paper proposes a novel multiscale spherical radial basis function (MSRBF) representation for all-frequency lighting. It supports the illumination of distant environment as well as the local illumination commonly used in practical applications, such as games. The key is to define a multiscale and hierarchical structure of spherical radial basis functions (SRBFs) with basis functions uniformly distributed over the sphere. The basis functions are divided into multiple levels according to their coverage (widths). Within the same level, SRBFs have the same width. Larger width SRBFs are responsible for lower frequency lighting while the smaller width ones are responsible for the higher frequency lighting. Hence, our approach can achieve the true all-frequency lighting that is not achievable by the single-scale SRBF approach. Besides, the MSRBF approach is scalable as coarser rendering quality can be achieved without reestimating the coefficients from the raw data. With the homogeneous form of basis functions, the rendering is highly efficient. The practicability of the proposed method is demonstrated with real-time rendering and effective compression for tractable storage."
+    },
+    {
+        "title": "A Programmable Display Layer for Virtual Reality System Architectures",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Ferdi Smit",
+            "Robert van Liere",
+            "Bernd Froehlich"
+        ],
+        "DOI": "10.1109/TVCG.2009.75",
+        "citation": 7,
+        "abstract": "Display systems typically operate at a minimum rate of 60 Hz. However, existing VR-architectures generally produce application updates at a lower rate. Consequently, the display is not updated by the application every display frame. This causes a number of undesirable perceptual artifacts. We describe an architecture that provides a programmable display layer (PDL) in order to generate updated display frames. This replaces the default display behavior of repeating application frames until an update is available. We will show three benefits of the architecture typical to VR. First, smooth motion is provided by generating intermediate display frames by per-pixel depth-image warping using 3D motion fields. Smooth motion eliminates various perceptual artifacts due to judder. Second, we implement fine-grained latency reduction at the display frame level using a synchronized prediction of simulation objects and the viewpoint. This improves the average quality and consistency of latency reduction. Third, a crosstalk reduction algorithm for consecutive display frames is implemented, which improves the quality of stereoscopic images. To evaluate the architecture, we compare image quality and latency to that of a classic level-of-detail approach."
+    },
+    {
+        "title": "Guest Editor's Introduction: Special Section on the ACM Symposium on Virtual Reality Software and Technology",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Martin Hachet",
+            "Ernst Kruijff"
+        ],
+        "DOI": "10.1109/TVCG.2010.8",
+        "citation": 0,
+        "abstract": "This special section contains the best three full papers from the ACM Symposium on Virtual Reality Software and Technology (VRST) 2008, held in Bordeaux, France. "
+    },
+    {
+        "title": "Editor's Note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/TVCG.2010.7",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "[Inside front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2010.4",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "[Back cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2010.6",
+        "citation": 0,
+        "abstract": "Provides a listing of current staff, committee members and society officers."
+    },
+    {
+        "title": "2009 Annual Index [IEEE Transactions on Visualization and Computer Graphics]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2010.1",
+        "citation": 0,
+        "abstract": "This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the coauthors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under the primary entry in the Author Index."
+    },
+    {
+        "title": "[Front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2010.3",
+        "citation": 0,
+        "abstract": "Presents the front cover/table of contents for this issue of the periodical."
+    },
+    {
+        "title": "2009 Reviewers List",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2010.2",
+        "citation": 0,
+        "abstract": "Lists the reviewers who contributed to the IEEE Transactions on Visualization and Computer Graphics from 28 September 2008 through 15 October 2009."
+    },
+    {
+        "title": "TVCG Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan.-Feb. 2010",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2010.5",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
+    }
+]

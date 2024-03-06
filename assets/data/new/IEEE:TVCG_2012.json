@@ -1,0 +1,277 @@
+[
+    {
+        "title": "Automated Illustration of Molecular Flexibility",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Aaron Bryden",
+            "George Phillips",
+            "Michael Gleicher"
+        ],
+        "DOI": "10.1109/TVCG.2010.250",
+        "citation": 20,
+        "abstract": "In this paper, we present an approach to creating illustrations of molecular flexibility using normal mode analysis (NMA). The output of NMA is a collection of points corresponding to the locations of atoms and associated motion vectors, where a vector for each point is known. Our approach abstracts the complex object and its motion by grouping the points, models the motion of each group as an affine velocity, and depicts the motion of each group by automatically choosing glyphs such as arrows. Affine exponentials allow the extrapolation of nonlinear effects such as near rotations and spirals from the linear velocities. Our approach automatically groups points by finding sets of neighboring points whose motions fit the motion model. The geometry and motion models for each group are used to determine glyphs that depict the motion, with various aspects of the motion mapped to each glyph. We evaluated the utility of our system in real work done by structural biologists both by utilizing it in our own structural biology work and quantitatively measuring its usefulness on a set of known protein conformation changes. Additionally, in order to allow ourselves and our collaborators to effectively use our techniques we integrated our system with commonly used tools for molecular visualization."
+    },
+    {
+        "title": "Shape Measures for Triangles",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Gerald Farin"
+        ],
+        "DOI": "10.1109/TVCG.2010.256",
+        "citation": 5,
+        "abstract": "We compare a variety of triangle shape measures using concepts such as smoothness and convexity. We show that one of these measures, the elongation measure, lends itself to an intuitive geometric interpretation."
+    },
+    {
+        "title": "EventRiver: Visually Exploring Text Collections with Temporal References",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Dongning Luo",
+            "Jing Yang",
+            "Milos Krstajic",
+            "William Ribarsky",
+            "Daniel Keim"
+        ],
+        "DOI": "10.1109/TVCG.2010.225",
+        "citation": 68,
+        "abstract": "Many text collections with temporal references, such as news corpora and weblogs, are generated to report and discuss real life events. Thus, event-related tasks, such as detecting real life events that drive the generation of the text documents, tracking event evolutions, and investigating reports and commentaries about events of interest, are important when exploring such text collections. To incorporate and leverage human efforts in conducting such tasks, we propose a novel visual analytics approach named EventRiver. EventRiver integrates event-based automated text analysis and visualization to reveal the events motivating the text generation and the long term stories they construct. On the visualization, users can interactively conduct tasks such as event browsing, tracking, association, and investigation. A working prototype of EventRiver has been implemented for exploring news corpora. A set of case studies, experiments, and a preliminary user test have been conducted to evaluate its effectiveness and efficiency."
+    },
+    {
+        "title": "Visual Reasoning about Social Networks Using Centrality Sensitivity",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Carlos Correa",
+            "Tarik Crnovrsanin",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/TVCG.2010.260",
+        "citation": 56,
+        "abstract": "In this paper, we study the sensitivity of centrality metrics as a key metric of social networks to support visual reasoning. As centrality represents the prestige or importance of a node in a network, its sensitivity represents the importance of the relationship between this and all other nodes in the network. We have derived an analytical solution that extracts the sensitivity as the derivative of centrality with respect to degree for two centrality metrics based on feedback and random walks. We show that these sensitivities are good indicators of the distribution of centrality in the network, and how changes are expected to be propagated if we introduce changes to the network. These metrics also help us simplify a complex network in a way that retains the main structural properties and that results in trustworthy, readable diagrams. Sensitivity is also a key concept for uncertainty analysis of social networks, and we show how our approach may help analysts gain insight on the robustness of key network metrics. Through a number of examples, we illustrate the need for measuring sensitivity, and the impact it has on the visualization of and interaction with social and other scale-free networks."
+    },
+    {
+        "title": "Graph Drawing Aesthetics—Created by Users, Not Algorithms",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Helen C. Purchase",
+            "Christopher Pilcher",
+            "Beryl Plimmer"
+        ],
+        "DOI": "10.1109/TVCG.2010.269",
+        "citation": 49,
+        "abstract": "Prior empirical work on layout aesthetics for graph drawing algorithms has concentrated on the interpretation of existing graph drawings. We report on experiments which focus on the creation and layout of graph drawings: participants were asked to draw graphs based on adjacency lists, and to lay them out \"nicely.” Two interaction methods were used for creating the drawings: a sketch interface which allows for easy, natural hand movements, and a formal point-and-click interface similar to a typical graph editing system. We find, in common with many other studies, that removing edge crossings is the most significant aesthetic, but also discover that aligning nodes and edges to an underlying grid is important. We observe that the aesthetics favored by participants during creation of a graph drawing are often not evident in the final product and that the participants did not make a clear distinction between the processes of creation and layout. Our results suggest that graph drawing systems should integrate automatic layout with the user's manual editing process, and provide facilities to support grid-based graph creation."
+    },
+    {
+        "title": "A Framework for 3D Model-Based Visual Tracking Using a GPU-Accelerated Particle Filter",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "James Anthony Brown",
+            "David W. Capson"
+        ],
+        "DOI": "10.1109/TVCG.2011.34",
+        "citation": 43,
+        "abstract": "A novel framework for acceleration of particle filtering approaches to 3D model-based, markerless visual tracking in monocular video is described. Specifically, we present a methodology for partitioning and mapping the computationally expensive weight-update stage of a particle filter to a graphics processing unit (GPU) to achieve particle- and pixel-level parallelism. Nvidia CUDA and Direct3D are employed to harness the massively parallel computational power of modern GPUs for simulation (3D model rendering) and evaluation (segmentation, feature extraction, and weight calculation) of hundreds of particles at high speeds. The proposed framework addresses the computational intensity that is intrinsic to all particle filter approaches, including those that have been modified to minimize the number of particles required for a particular task. Performance and tracking quality results for rigid object and articulated hand tracking experiments demonstrate markerless, model-based visual tracking on consumer-grade graphics hardware with pixel-level accuracy up to 95 percent at 60+ frames per second. The framework accelerates particle evaluation up to 49 times over a comparable CPU-only implementation, providing an increased particle count while maintaining real-time frame rates."
+    },
+    {
+        "title": "Fast Construction of SAH BVHs on the Intel Many Integrated Core (MIC) Architecture",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Ingo Wald"
+        ],
+        "DOI": "10.1109/TVCG.2010.251",
+        "citation": 35,
+        "abstract": "We investigate how to efficiently build bounding volume hierarchies (BVHs) with surface area heuristic (SAH) on the Intel Many Integrated Core (MIC) Architecture. To achieve maximum performance, we use four key concepts: progressive 10-bit quantization to reduce cache footprint with negligible loss in BVH quality; an AoSoA data layout that allows efficient streaming and SIMD processing; high-performance SIMD kernels for binning and partitioning; and a parallelization framework with several build-specific optimizations. The resulting system is more than an order of magnitude faster than today's high-end GPU builders for comparable BVHs; it is usually faster even than spatial median builders; it can build SAH BVHs almost as fast as existing GPUs and CPUs- and CPU-based approaches can build regular grids; and in aggregate \"build+render” performance is significantly faster than the best published numbers for either of these systems, be it CPU or GPU, BVH, kd-tree, or grid."
+    },
+    {
+        "title": "Hybrid Parallelism for Volume Rendering on Large-, Multi-, and Many-Core Systems",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Mark Howison",
+            "E. Wes Bethel",
+            "Hank Childs"
+        ],
+        "DOI": "10.1109/TVCG.2011.24",
+        "citation": 33,
+        "abstract": "With the computing industry trending toward multi- and many-core processors, we study how a standard visualization algorithm, raycasting volume rendering, can benefit from a hybrid parallelism approach. Hybrid parallelism provides the best of both worlds: using distributed-memory parallelism across a large numbers of nodes increases available FLOPs and memory, while exploiting shared-memory parallelism among the cores within each node ensures that each node performs its portion of the larger calculation as efficiently as possible. We demonstrate results from weak and strong scaling studies, at levels of concurrency ranging up to 216,000, and with data sets as large as 12.2 trillion cells. The greatest benefit from hybrid parallelism lies in the communication portion of the algorithm, the dominant cost at higher levels of concurrency. We show that reducing the number of participants with a hybrid approach significantly improves performance."
+    },
+    {
+        "title": "Output-Sensitive Construction of Reeb Graphs",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Harish Doraiswamy",
+            "Vijay Natarajan"
+        ],
+        "DOI": "10.1109/TVCG.2011.37",
+        "citation": 19,
+        "abstract": "The Reeb graph of a scalar function represents the evolution of the topology of its level sets. This paper describes a near-optimal output-sensitive algorithm for computing the Reeb graph of scalar functions defined over manifolds or non-manifolds in any dimension. Key to the simplicity and efficiency of the algorithm is an alternate definition of the Reeb graph that considers equivalence classes of level sets instead of individual level sets. The algorithm works in two steps. The first step locates all critical points of the function in the domain. Critical points correspond to nodes in the Reeb graph. Arcs connecting the nodes are computed in the second step by a simple search procedure that works on a small subset of the domain that corresponds to a pair of critical points. The paper also describes a scheme for controlled simplification of the Reeb graph and two different graph layout schemes that help in the effective presentation of Reeb graphs for visual analysis of scalar fields. Finally, the Reeb graph is employed in four different applications-surface segmentation, spatially-aware transfer function design, visualization of interval volumes, and interactive exploration of time-varying data."
+    },
+    {
+        "title": "Modified Dendrogram of Attribute Space for Multidimensional Transfer Function Design",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Lei Wang",
+            "Xin Zhao",
+            "Arie E. Kaufman"
+        ],
+        "DOI": "10.1109/TVCG.2011.23",
+        "citation": 18,
+        "abstract": "We introduce a modified dendrogram (MD) (with subtrees to represent clusters) and display it in 2D for multidimensional transfer function design. Such a transfer function for direct volume rendering employs a multidimensional space, termed attribute space. The MD reveals the hierarchical structure information of the attribute space. The user can design a transfer function in an intuitive and informative manner using the MD user interface in 2D instead of multidimensional space, where it is hard to ascertain the relationship of the space. In addition, we provide the capability to interactively modify the granularity of the MD. The coarse-grained MD primarily shows the global information of the attribute space while the fine-grained MD reveals the finer details, and the separation ability of the attribute space is completely preserved in the finest granularity. With this so called multigrained method, the user can efficiently create a transfer function using the coarse-grained MD, and then fine tune it with the fine-grained MDs. Our method is independent on the type of the attributes and supports arbitrary-dimension attribute space."
+    },
+    {
+        "title": "Raytracing Dynamic Scenes on the GPU Using Grids",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Sashidhar Guntury",
+            "P. J. Narayanan"
+        ],
+        "DOI": "10.1109/TVCG.2011.46",
+        "citation": 11,
+        "abstract": "Raytracing dynamic scenes at interactive rates have received a lot of attention recently. We present a few strategies for high performance raytracing on a commodity GPU. The construction of grids needs sorting, which is fast on today's GPUs. The grid is thus the acceleration structure of choice for dynamic scenes as per-frame rebuilding is required. We advocate the use of appropriate data structures for each stage of raytracing, resulting in multiple structure building per frame. A perspective grid built for the camera achieves perfect coherence for primary rays. A perspective grid built with respect to each light source provides the best performance for shadow rays. Spherical grids handle lights positioned inside the model space and handle spotlights. Uniform grids are best for reflection and refraction rays with little coherence. We propose an Enforced Coherence method to bring coherence to them by rearranging the ray to voxel mapping using sorting. This gives the best performance on GPUs with only user-managed caches. We also propose a simple, Independent Voxel Walk method, which performs best by taking advantage of the L1 and L2 caches on recent GPUs. We achieve over 10 fps of total rendering on the Conference model with one light source and one reflection bounce, while rebuilding the data structure for each stage. Ideas presented here are likely to give high performance on the future GPUs as well as other manycore architectures."
+    },
+    {
+        "title": "Drawing-Based Procedural Modeling of Chinese Architectures",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Fei Hou",
+            "Yue Qi",
+            "Hong Qin"
+        ],
+        "DOI": "10.1109/TVCG.2011.22",
+        "citation": 11,
+        "abstract": "This paper presents a novel modeling framework to build 3D models of Chinese architectures from elevation drawing. Our algorithm integrates the capability of automatic drawing recognition with powerful procedural modeling to extract production rules from elevation drawing. First, different from the previous symbol-based floor plan recognition, based on the novel concept of repetitive pattern trees, small horizontal repetitive regions of the elevation drawing are clustered in a bottom-up manner to form architectural components with maximum repetition, which collectively serve as building blocks for 3D model generation. Second, to discover the global architectural structure and its components' interdependencies, the components are structured into a shape tree in a top-down subdivision manner and recognized hierarchically at each level of the shape tree based on Markov Random Fields (MRFs). Third, shape grammar rules can be derived to construct 3D semantic model and its possible variations with the help of a 3D component repository. The salient contribution lies in the novel integration of procedural modeling with elevation drawing, with a unique application to Chinese architectures."
+    },
+    {
+        "title": "Video Painting Based on a Stabilized Time-Varying Flow Field",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Jong-Chul Yoon",
+            "In-Kwon Lee",
+            "Henry Kang"
+        ],
+        "DOI": "10.1109/TVCG.2011.47",
+        "citation": 7,
+        "abstract": "We present a method for constructing 3D feature flow from video and its application to video stylization. Our method extracts smoothly aligned 3D vectors that describe the smallest variation of colors within a spatiotemporal video cube, and thus effectively preserves both spatial and temporal coherence in a relatively inexpensive manner. As an application of this flow field we present a particle-based video stylization technique to rerender the video in a feature enhancing, painterly style. Our method consists of per-pixel operations and is suitable for GPU implementation, which enables real-time video stylization."
+    },
+    {
+        "title": "The Topological Effects of Smoothing",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Sohail Shafii",
+            "Scott E. Dillard",
+            "Mario Hlawitschka",
+            "Bernd Hamann"
+        ],
+        "DOI": "10.1109/TVCG.2011.74",
+        "citation": 4,
+        "abstract": "Scientific data sets generated by numerical simulations or experimental measurements often contain a substantial amount of noise. Smoothing the data removes noise but can have potentially drastic effects on the qualitative nature of the data, thereby influencing its characterization and visualization via topological analysis, for example. We propose a method to track topological changes throughout the smoothing process. As a preprocessing step, we oversmooth the data and collect a list of topological events, specifically the creation and destruction of extremal points. During rendering, it is possible to select the number of topological events by interactively manipulating a merging parameter. The result that a specific amount of smoothing has on the topology of the data is illustrated using a topology-derived transfer function that relates region connectivity of the smoothed data to the original regions of the unsmoothed data. This approach enables visual as well as quantitative analysis of the topological effects of smoothing."
+    },
+    {
+        "title": "Call for Participation: IEEE Virtual Reality 2012",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.3",
+        "citation": 0,
+        "abstract": "Prospective authors are requested to submit new, unpublished manuscripts for inclusion in the upcoming event described in this call for papers."
+    },
+    {
+        "title": "Editor's Note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Ming C. Lin"
+        ],
+        "DOI": "10.1109/TVCG.2012.9",
+        "citation": 1,
+        "abstract": ""
+    },
+    {
+        "title": "Guest Editor's Introduction: Special Section on the Eurographics Symposium on Parallel Graphics and Visualization (EGPGV)",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "James Ahrens",
+            "Kurt Debattista"
+        ],
+        "DOI": "10.1109/TVCG.2012.10",
+        "citation": 0,
+        "abstract": "The articles in this special section contain selected papers from the Eurographics Symposium on Parallel Graphics and Visualization (EGPGV)."
+    },
+    {
+        "title": "[Cover 2]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.5",
+        "citation": 0,
+        "abstract": "Provides a listing of current society officers."
+    },
+    {
+        "title": "Editor's Note",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [
+            "Ming C. Lin"
+        ],
+        "DOI": "10.1109/TVCG.2012.8",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "[Cover 4]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.7",
+        "citation": 0,
+        "abstract": "Provides a listing of current society officers."
+    },
+    {
+        "title": "TVCG Information for authors",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.6",
+        "citation": 0,
+        "abstract": "Provides instructions and guidelines to prospective authors who wish to submit manuscripts."
+    },
+    {
+        "title": "2011 Reviewers List",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.2",
+        "citation": 0,
+        "abstract": "The publication offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "[Front cover]",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.4",
+        "citation": 0,
+        "abstract": "Presents the front cover/table of contents for this issue of the periodical."
+    },
+    {
+        "title": "2011 Annual Index",
+        "conferenceTitle": "IEEE Transactions on Visualization and Computer Graphics",
+        "date": "Jan. 2012",
+        "authors": [],
+        "DOI": "10.1109/TVCG.2012.1",
+        "citation": 0,
+        "abstract": "This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the coauthors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under the primary entry in the Author Index."
+    }
+]
