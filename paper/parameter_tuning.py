@@ -31,12 +31,12 @@ def preprocess_text(text):
 # Grid-Search 실행 및 시각화 함수
 def run_grid_search_visualization(input_data):
     param_grid = {
-        'vector_size': [100, 200],
+        'vector_size': [100, 300],
         'window': [5, 10],
-        'min_count': [1, 2],
+        'min_count': [10, 20],
         'epochs': [20, 40],
-        # 'perplexity': [20, 30, 40, 50],
-        'n_neighbors': [20, 30, 40, 50]
+        'perplexity': [20, 30, 40, 50],
+        # 'n_neighbors': [20, 30, 40, 50]
     }
     
     # 파라미터 조합의 수를 계산하여 subplot의 행과 열 결정
@@ -58,16 +58,16 @@ def run_grid_search_visualization(input_data):
         model.train(tagged_data, total_examples=model.corpus_count, epochs=model.epochs)
         
         doc_vectors = np.array([model.dv[i] for i in range(len(tagged_data))])
-        # tsne = TSNE(n_components=2, random_state=0, perplexity=params['perplexity'])
-        # doc_vectors_2d = tsne.fit_transform(doc_vectors)
-        PaCMAP = pacmap.PaCMAP(n_components=2, n_neighbors=params['n_neighbors'], MN_ratio=0.5, FP_ratio=2.0)
-        doc_vectors_2d = PaCMAP.fit_transform(doc_vectors)
+        tsne = TSNE(n_components=2, random_state=0, perplexity=params['perplexity'])
+        doc_vectors_2d = tsne.fit_transform(doc_vectors)
+        # PaCMAP = pacmap.PaCMAP(n_components=2, n_neighbors=params['n_neighbors'], MN_ratio=0.5, FP_ratio=2.0)
+        # doc_vectors_2d = PaCMAP.fit_transform(doc_vectors)
         clustering = DBSCAN(eps=0.2, min_samples=5).fit(doc_vectors_2d)
         
         ax.axis('off')
         ax.scatter(doc_vectors_2d[:, 0], doc_vectors_2d[:, 1], alpha=0.5, c=clustering.labels_)
-        # ax.set_title(f"VecSize: {params['vector_size']}, Window: {params['window']},\nMinCount: {params['min_count']}, Epochs: {params['epochs']}, perplexity: {params['perplexity']}", fontsize=5)
-        ax.set_title(f"VecSize: {params['vector_size']}, Window: {params['window']},\nMinCount: {params['min_count']}, Epochs: {params['epochs']}, neighbors: {params['n_neighbors']}", fontsize=5)
+        ax.set_title(f"VecSize: {params['vector_size']}, Window: {params['window']},\nMinCount: {params['min_count']}, Epochs: {params['epochs']}, perplexity: {params['perplexity']}", fontsize=5)
+        # ax.set_title(f"VecSize: {params['vector_size']}, Window: {params['window']},\nMinCount: {params['min_count']}, Epochs: {params['epochs']}, neighbors: {params['n_neighbors']}", fontsize=5)
 
     # 사용되지 않는 subplot 숨기기
     for j in range(i + 1, num_rows * num_cols):

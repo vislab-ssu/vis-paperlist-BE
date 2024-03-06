@@ -246,7 +246,7 @@ def calculate_Doc2Vec(input_data):
     tagged_data = [TaggedDocument(words=preprocess_text(doc['abstract']), tags=[i]) for i, doc in enumerate(input_data)]
 
     # Doc2Vec 모델 초기화 및 학습
-    model = Doc2Vec(vector_size=100, window=5, min_count=1, workers=4, epochs=40)
+    model = Doc2Vec(vector_size=300, window=5, min_count=10, workers=4, sample=1e-5, negative=5, epochs=400)
     model.build_vocab(tagged_data)
     model.train(tagged_data, total_examples=model.corpus_count, epochs=model.epochs)
 
@@ -266,8 +266,8 @@ def main():
 
     # Doc2Vec 모델 학습
     model_Doc2Vec = calculate_Doc2Vec(input_data)
-    mergeDoc2VecAndMetadata_tSNE(model_Doc2Vec, papers_info)
-    # mergeDoc2VecAndMetadata_PaCMAP(model_Doc2Vec, papers_info)
+    # mergeDoc2VecAndMetadata_tSNE(model_Doc2Vec, papers_info)
+    mergeDoc2VecAndMetadata_PaCMAP(model_Doc2Vec, papers_info)
     
     # t-SNE 시각화 실행
     # tSNE_visualize(model_Word2Vec)
