@@ -1,0 +1,516 @@
+[
+    {
+        "title": "Uncertainty Visualisation: An Interactive Visual Survey",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Amit Jena",
+            "Ulrich Engelke",
+            "Tim Dwyer",
+            "Venkatesh Raiamanickam",
+            "Cecile Paris"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1014",
+        "citation": 9,
+        "abstract": "There exists a gulf between the rhetoric in visualisation research about the significance of uncertainty and the inclusion of representations of uncertainty in visualisations used in practice. The graphical representation of uncertainty information has emerged as a problem of great importance in visualisation research. This contribution presents a survey of 286 uncertainty visualisation research publications. All publications are categorised with regard to publication type, publication venue, application domain, target user, and evaluation type. We present an interactive web-based browser that facilitates easy visual search and exploration of the publications included in the survey. We conclude that uncertainty visualisation is severely limited by the quality and scope of uncertainty data, by the limited confidence in the data, and by the perceptual and cognitive confusion that the graphical representation of the data can generate."
+    },
+    {
+        "title": "PansyTree: Merging Multiple Hierarchies",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Yu Dong",
+            "Alex Fauth",
+            "Maolin Huang",
+            "Yi Chen",
+            "Jie Liang"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1007",
+        "citation": 5,
+        "abstract": "Hierarchical structures are very common in the real world for recording all kinds of relational data generated in our daily life and business procedures. A very popular visualization method for displaying such data structures is called \"Tree\". So far, there are a variety of Tree visualization methods that have been proposed and most of them can only visualize one hierarchical dataset at a time. Hence, it raises the difficulty of comparison between two or more hierarchical datasets.In this paper, we proposed Pansy Tree which used a tree metaphor to visualize merged hierarchies. We design a unique icon named pansy to represent each merged node in the structure. Each Pansy is encoded by three colors mapping data items from three different datasets in the same hierarchical position (or tree node). The petals and sepal on Pansy are designed for showing each attribute’s values and hierarchical information. We also redefine the links in force layout encoded by width and animation to better convey hierarchical information. We further apply Pansy Tree into CNCEE datasets and demonstrate two use cases to verify its effectiveness.The main contribution of this work is to merge three datasets into one tree that makes it much easier to explore and compare the structures, data items and data attributes with visual tools."
+    },
+    {
+        "title": "A Conference Paper Exploring System Based on Citing Motivation and Topic",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Taerin Yoon",
+            "Hyunwoo Han",
+            "Hyoji Ha",
+            "Juwon Hong",
+            "Kyungwon Lee"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1010",
+        "citation": 5,
+        "abstract": "Understanding and maintaining the intended meaning of original text used for citations is essential for unbiased and accurate scholarly work. To this end, this study aims to provide a visual system for exploring the citation relationships and motivations for citations within papers. For this purpose, papers from the IEEE Information Visualization Conference that introduce research on data visualization were collected, and based on the internal citation relationships, citation sentences were extracted and the text were analyzed. In addition, a visualization interface was provided to identify the citation relationships, citation pattern information, and citing motivation. Lastly, the pattern analysis of the citation relationships along with the citing motivation and topic was demonstrated through a case study. Our paper exploring system can confirm the purpose of specific papers being cited by other authors. Furthermore, the findings can help identify the characteristics of related studies based on the target papers."
+    },
+    {
+        "title": "Quality Metrics for Symmetric Graph Drawings",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Amyra Meidiana",
+            "Seok-Hee Hong",
+            "Peter Eades",
+            "Daniel Keim"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1022",
+        "citation": 3,
+        "abstract": "In this paper, we present a framework for quality metrics that measure symmetry, that is, how faithfully a drawing of a graph displays the ground truth geometric automorphisms as symmetries. The quality metrics are based on group theory as well as geometry. More specifically, we introduce two types of symmetry quality metrics for displaying: (1) a single geometric automorphism as a symmetry (axial or rotational) and (2) a group of geometric automorphisms (cyclic or dihedral). We also present algorithms to compute the symmetry quality metrics in O(n log n) time. We validate our symmetry quality metrics using deformation experiments. We then use the metrics to evaluate existing graph layouts to compare how faithfully they display geometric automorphisms of a graph as symmetries."
+    },
+    {
+        "title": "Dynamic Graph Map Animation",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Seok-Hee Hong",
+            "Peter Eades",
+            "Marnijati Torkel",
+            "Weidong Huang",
+            "Cristina Cifuentes"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1042",
+        "citation": 2,
+        "abstract": "Recent methods for visualizing graphs have used a map metaphor: vertices are represented as regions in the plane, and proximity between regions represents edges between vertices.In many real world applications, the data changes over time, resulting in a dynamic map. This paper introduces new methods for representing dynamic graphs with map animation. More specifically, we present three different animation methods: MDSV (Multidimensional scaling - Voronoi), TV (Tutte - Voronoi) and TD (Tutte - dual). These methods support operations such as addition and deletion of vertices and edges. Each of our methods uses a kind of matrix interpolation."
+    },
+    {
+        "title": "A Radial Visualisation for Model Comparison and Feature Identification",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Jianlong Zhou",
+            "Weidong Huang",
+            "Fang Chen"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1028",
+        "citation": 2,
+        "abstract": "Machine Learning (ML) plays a key role in various intelligent systems, and building an effective ML model for a data set is a difficult task involving various steps including data cleaning, feature definition and extraction, ML algorithms development, model training and evaluation as well as others. One of the most important steps in the process is to compare generated substantial amounts of ML models to find the optimal one for the deployment. It is challenging to compare such models with dynamic number of features. This paper proposes a novel visualisation approach based on a radial net to compare ML models trained with a different number of features of a given data set while revealing implicit dependent relations. In the proposed approach, ML models and features are represented by lines and arcs respectively. The dependence of ML models with dynamic number of features is encoded into the structure of visualisation, where ML models and their dependent features are directly revealed from related line connections. ML model performance information is encoded with colour and line width in the innovative visualisation. Together with the structure of visualization, feature importance can be directly discerned to help to understand ML models."
+    },
+    {
+        "title": "Interactive Assigning of Conference Sessions with Visualization and Topic Modeling",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Yun Han",
+            "Zhenhuang Wang",
+            "Siming Chen",
+            "Guozheng Li",
+            "Xiaolong Zhang",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1027x",
+        "citation": 1,
+        "abstract": "Creating thematic sessions based on accepted papers is important to the success of a conference. Facing a large number of papers from multiple topics, conference organizers need to identify the topics of papers and group them into sessions by considering the constraints on session numbers and paper numbers in individual sessions. In this paper, we present a system using visualization and topic modeling to help the construction of conference sessions. The system provides multiple automatically generated session schemes and allows users to create, evaluate, and manipulate paper sessions with given constraints. A case study based on our system on the VAST papers shows that our method can help users successfully construct coherent conference sessions. In addition to conference session management, our method can be extended to other tasks, such as event and class schedule."
+    },
+    {
+        "title": "SSR-VFD: Spatial Super-Resolution for Vector Field Data Analysis and Visualization",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Li Guo",
+            "Shaojie Ye",
+            "Jun Han",
+            "Hao Zheng",
+            "Han Gao",
+            "Danny Z. Chen",
+            "Jian-Xun Wang",
+            "Chaoli Wang"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.8737",
+        "citation": 37,
+        "abstract": "We present SSR-VFD, a novel deep learning framework that produces coherent spatial super-resolution (SSR) of three-dimensional vector field data (VFD). SSR-VFD is the first work that advocates a machine learning approach to generate high-resolution vector fields from low-resolution ones. The core of SSR-VFD lies in the use of three separate neural nets that take the three components of a low-resolution vector field as input and jointly output a synthesized high-resolution vector field. To capture spatial coherence, we take into account magnitude and angle losses in network optimization. Our method can work in the in situ scenario where VFD are down-sampled at simulation time for storage saving and these reduced VFD are upsampled back to their original resolution during postprocessing. To demonstrate the effectiveness of SSR-VFD, we show quantitative and qualitative results with several vector field data sets of different characteristics and compare our method against volume upscaling using bicubic interpolation, and two solutions based on CNN and GAN, respectively."
+    },
+    {
+        "title": "AutoCaption: An Approach to Generate Natural Language Description from Visualization Automatically",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Can Liu",
+            "Liwenhan Xie",
+            "Yun Han",
+            "Datong Wei",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1043",
+        "citation": 24,
+        "abstract": "In this paper, we propose a novel approach to generate captions for visualization charts automatically. In the proposed method, visual marks and visual channels, together with the associated text information in the original charts, are first extracted and identified with a multilayer perceptron classifier. Meanwhile, data information can also be retrieved by parsing visual marks with extracted mapping relationships. Then a 1-D convolutional residual network is employed to analyze the relationship between visual elements, and recognize significant features of the visualization charts, with both data and visual information as input. In the final step, the full description of the visual charts can be generated through a template-based approach. The generated captions can effectively cover the main visual features of the visual charts and support major feature types in commons charts. We further demonstrate the effectiveness of our approach through several cases."
+    },
+    {
+        "title": "ExplainExplore: Visual Exploration of Machine Learning Explanations",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Dennis Collaris",
+            "Jarke J. van Wijk"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.7090",
+        "citation": 22,
+        "abstract": "Machine learning models often exhibit complex behavior that is difficult to understand. Recent research in explainable AI has produced promising techniques to explain the inner workings of such models using feature contribution vectors. These vectors are helpful in a wide variety of applications. However, there are many parameters involved in this process and determining which settings are best is difficult due to the subjective nature of evaluating interpretability. To this end, we introduce EXPLAINEXPLORE: an interactive explanation system to explore explanations that fit the subjective preference of data scientists. We leverage the domain knowledge of the data scientist to find optimal parameter settings and instance perturbations, and enable the discussion of the model and its explanation with domain experts. We present a use case on a real-world dataset to demonstrate the effectiveness of our approach for the exploration and tuning of machine learning explanations."
+    },
+    {
+        "title": "Visual Interpretation of Recurrent Neural Network on Multi-dimensional Time-series Forecast",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Qiaomu Shen",
+            "Yanhong Wu",
+            "Yuzhe Jiang",
+            "Wei Zeng",
+            "Alexis K H LAU",
+            "Anna Vianova",
+            "Huamin Qu"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.2785",
+        "citation": 16,
+        "abstract": "Recent attempts at utilizing visual analytics to interpret Recurrent Neural Networks (RNNs) mainly focus on natural language processing (NLP) tasks that take symbolic sequences as input. However, many real-world problems like environment pollution forecasting apply RNNs on sequences of multi-dimensional data where each dimension represents an individual feature with semantic meaning such as PM2.5 and SO2. RNN interpretation on multi-dimensional sequences is challenging as users need to analyze what features are important at different time steps to better understand model behavior and gain trust in prediction. This requires effective and scalable visualization methods to reveal the complex many-to-many relations between hidden units and features. In this work, we propose a visual analytics system to interpret RNNs on multi-dimensional time-series forecasts. Specifically, to provide an overview to reveal the model mechanism, we propose a technique to estimate the hidden unit response by measuring how different feature selections affect the hidden unit output distribution. We then cluster the hidden units and features based on the response embedding vectors. Finally, we propose a visual analytics system which allows users to visually explore the model behavior from the global and individual levels. We demonstrate the effectiveness of our approach with case studies using air pollutant forecast applications."
+    },
+    {
+        "title": "A Study of Mental Maps in Immersive Network Visualization",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Joseph Kotlarek",
+            "Oh-Hyun Kwon",
+            "Kwan-Liu Ma",
+            "Peter Eades",
+            "Andreas Kerren",
+            "Karsten Klein",
+            "Falk Schreiber"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.4722",
+        "citation": 13,
+        "abstract": "The visualization of a network influences the quality of the mental map that the viewer develops to understand the network. In this study, we investigate the effects of a 3D immersive visualization environment compared to a traditional 2D desktop environment on the comprehension of a network’s structure. We compare the two visualization environments using three tasks—interpreting network structure, memorizing a set of nodes, and identifying the structural changes—commonly used for evaluating the quality of a mental map in network visualization. The results show that participants were able to interpret network structure more accurately when viewing the network in an immersive environment, particularly for larger networks. However, we found that 2D visualizations performed better than immersive visualization for tasks that required spatial memory."
+    },
+    {
+        "title": "Toward Feature-Preserving 2D and 3D Vector Field Compression",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Xin Liang",
+            "Hanqi Guo",
+            "Sheng Di",
+            "Franck Cappello",
+            "Mukund Raj",
+            "Chunhui Liu",
+            "Kenji Ono",
+            "Zizhong Chen",
+            "Tom Peterka"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.6431",
+        "citation": 12,
+        "abstract": "The objective of this work is to develop error-bounded lossy compression methods to preserve topological features in 2D and 3D vector fields. Specifically, we explore the preservation of critical points in piecewise linear vector fields. We define the preservation of critical points as, without any false positive, false negative, or false type change in the decompressed data, (1) keeping each critical point in its original cell and (2) retaining the type of each critical point (e.g., saddle and attracting node). The key to our method is to adapt a vertex-wise error bound for each grid point and to compress input data together with the error bound field using a modified lossy compressor. Our compression algorithm can be also embarrassingly parallelized for large data handling and in situ processing. We benchmark our method by comparing it with existing lossy compressors in terms of false positive/negative/type rates, compression ratio, and various vector field visualizations with several scientific applications."
+    },
+    {
+        "title": "Space-Reclaiming Icicle Plots",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Huub van de Wetering",
+            "Nico Klaassen",
+            "Michael Burch"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.4908",
+        "citation": 11,
+        "abstract": "This paper describes the space-reclaiming icicle plots, hierarchy visualizations based on the visual metaphor of icicles. As a novelty, our approach tries to reclaim empty space in all hierarchy levels. This reclaiming results in an improved visibility of the hierarchy elements especially those in deeper levels. We implemented an algorithm that is capable of producing more space-reclaiming icicle plot variants. Several visual parameters can be tweaked to change the visual appearance and readability of the plots: among others, a space-reclaiming parameter, an empty space shrinking parameter, and a gap size. To illustrate the usefulness of the novel visualization technique we applied it, among others, to an NCBI taxonomy dataset consisting of more than 300,000 elements and with maximum depth 42. Moreover, we explore the parameter and design space by applying several values for the visual parameters. We also conducted a controlled user study with 17 participants and received qualitative feedback from 112 students from a visualization course."
+    },
+    {
+        "title": "Uncertainty Treemaps",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Max Sondag",
+            "Wouter Meulemans",
+            "Christoph Schulz",
+            "Kevin Verbeek",
+            "Daniel Weiskopf",
+            "Bettina Speckmann"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.7614",
+        "citation": 8,
+        "abstract": "Rectangular treemaps visualize hierarchical numerical data by recursively partitioning an input rectangle into smaller rectangles whose areas match the data. Numerical data often has uncertainty associated with it. To visualize uncertainty in a rectangular treemap, we identify two conflicting key requirements: (i) to assess the data value of a node in the hierarchy, the area of its rectangle should directly match its data value, and (ii) to facilitate comparison between data and uncertainty, uncertainty should be encoded using the same visual variable as the data, that is, area. We present Uncertainty Treemaps, which meet both requirements simultaneously by introducing the concept of hierarchical uncertainty masks. First, we define a new cost function that measures the quality of Uncertainty Treemaps. Then, we show how to adapt existing treemapping algorithms to support uncertainty masks. Finally, we demonstrate the usefulness and quality of our technique through an expert review and a computational experiment on real-world datasets."
+    },
+    {
+        "title": "DynamicsExplorer: Visual Analytics for Robot Control Tasks involving Dynamics and LSTM-based Control Policies",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Wenbin He",
+            "Teng-Yok Lee",
+            "Jeroen van Baar",
+            "Kent Wittenburg",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.7127",
+        "citation": 8,
+        "abstract": "Deep reinforcement learning (RL), where a policy represented by a deep neural network is trained, has shown some success in playing video games and chess. However, applying RL to real-world tasks like robot control is still challenging. Because generating a massive number of samples to train control policies using RL on real robots is very expensive, hence impractical, it is common to train in simulations, and then transfer to real environments. The trained policy, however, may fail in the real world because of the difference between the training and the real environments, especially the difference in dynamics. To diagnose the problems, it is crucial for experts to understand (1) how the trained policy behaves under different dynamics settings, (2) which part of the policy affects the behaviors the most when the dynamics setting changes, and (3) how to adjust the training procedure to make the policy robust.This paper presents DynamicsExplorer, a visual analytics tool to diagnose the trained policy on robot control tasks under different dynamics settings. DynamicsExplorer allows experts to overview the results of multiple tests with different dynamics-related parameter settings so experts can visually detect failures and analyze the sensitivity of different parameters. Experts can further examine the internal activations of the policy for selected tests and compare the activations between success and failure tests. Such comparisons help experts form hypotheses about the policy and allows them to verify the hypotheses via DynamicsExplorer. Multiple use cases are presented to demonstrate the utility of DynamicsExplorer."
+    },
+    {
+        "title": "A Visual Analytics Framework for Reviewing Streaming Performance Data",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Suraj P Kesavan",
+            "Takanori Fujiwara",
+            "Jianping Kelvin Li",
+            "Caitlin Ross",
+            "Misbah Mubarak",
+            "Christopher D. Carothers",
+            "Robert B. Ross",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.9280",
+        "citation": 7,
+        "abstract": "Understanding and tuning the performance of extreme-scale parallel computing systems demands a streaming approach due to the computational cost of applying offline algorithms to vast amounts of performance log data. Analyzing large streaming data is challenging because the rate of receiving data and limited time to comprehend data make it difficult for the analysts to sufficiently examine the data without missing important changes or patterns. To support streaming data analysis, we introduce a visual analytic framework comprising of three modules: data management, analysis, and interactive visualization. The data management module collects various computing and communication performance metrics from the monitored system using streaming data processing techniques and feeds the data to the other two modules. The analysis module automatically identifies important changes and patterns at the required latency. In particular, we introduce a set of online and progressive analysis methods for not only controlling the computational costs but also helping analysts better follow the critical aspects of the analysis results. Finally, the interactive visualization module provides the analysts with a coherent view of the changes and patterns in the continuously captured performance data. Through a multi-faceted case study on performance analysis of parallel discrete-event simulation, we demonstrate the effectiveness of our framework for identifying bottlenecks and locating outliers."
+    },
+    {
+        "title": "Interactive Attention Model Explorer for Natural Language Processing Tasks with Unbalanced Data Sizes",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Zhihang Dong",
+            "Tongshuang Wu",
+            "Sicheng Song",
+            "Mingrui Zhang"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1031",
+        "citation": 7,
+        "abstract": "Conventional attention visualization tools compromise either the readability or the information conveyed when documents are lengthy, especially when these documents have imbalanced sizes. Our work strives toward a more intuitive visualization for a subset of Natural Language Processing tasks, where attention is mapped between documents with imbalanced sizes. We extend the flow map visualization to enhance the readability of the attention-augmented documents. Through interaction, our design enables semantic filtering that helps users prioritize important tokens and meaningful matching for an in-depth exploration. Case studies and informal user studies in machine comprehension prove that our visualization effectively helps users gain initial understandings about what their models are \"paying attention to.\" We discuss how the work can be extended to other domains, as well as being plugged into more end-to-end systems for model error analysis."
+    },
+    {
+        "title": "SCANViz: Interpreting the Symbol-Concept Association Captured by Deep Neural Networks through Visual Analytics",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Junpeng Wang",
+            "Wei Zhang",
+            "Hao Yang"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.3542",
+        "citation": 6,
+        "abstract": "Two fundamental problems in machine learning are recognition and generation. Apart from the tremendous amount of research efforts devoted to these two problems individually, finding the association between them has attracted increasingly more attention recently. Symbol-Concept Association Network (SCAN) is one of the most popular models for this problem proposed by Google DeepMind lately, which integrates an unsupervised concept abstraction process and a supervised symbol-concept association process. Despite the outstanding performance of this deep neural network, interpreting and evaluating it remain challenging. Guided by the practical needs from deep learning experts, this paper proposes a visual analytics attempt, i.e., SCANViz, to address this challenge in the visual domain. Specifically, SCANViz evaluates the performance of SCAN through its power of recognition and generation, facilitates the exploration of the latent space derived from both the unsupervised extraction and supervised association processes, empowers interactive training of SCAN to interpret the model’s understanding on a particular visual concept. Through concrete case studies with multiple deep learning experts, we validate the effectiveness of SCANViz."
+    },
+    {
+        "title": "Immersive WYSIWYG (What You See is What You Get) Volume Visualization",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Song Wang",
+            "Dong Zhu",
+            "Hao Yu",
+            "Yadong Wu"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1001",
+        "citation": 5,
+        "abstract": "Extended to immersive environment, volume visualization has the analytical superiority in spatial immersion, user engagement, multidimensional awareness and other aspects. But in a highly immersive virtual environment, traditional single-channel precise interactive methods cannot be applied directly to the immersive environment. Inspired by how users typically interact with everyday objects, a novel non-contact gesture interaction method base on What You See is What You Get(WYSIWYG)for volume rendering results is proposed in this paper. Just likes grab interaction in real scene, a full set of tools have been developed to enable direct volume rendering manipulation of color, saturation, contrast, brightness, and other optical properties by gestural motions in our method. Simultaneously, in order to improve the interactive experience in immersive environment, the evaluation model of motion comfort is introduced to design the interactive hand gestures, the cursor model is defined to estimating the gesture state combined with context gestural motions. Finally, the test platform is established with Oculus Rift + Leap Motion to verify the functionality and effectiveness of our method in improving the visual cognitive ability for volume visualization."
+    },
+    {
+        "title": "Leveraging Peer Feedback to Improve Visualization Education",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Zachariah Beasley",
+            "Alon Friedman",
+            "Les Pieg",
+            "Paul Rosen"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1261",
+        "citation": 5,
+        "abstract": "Peer review is a widely utilized pedagogical feedback mechanism for engaging students, which has been shown to improve educational outcomes. However, we find limited discussion and empirical measurement of peer review in visualization coursework. In addition to engagement, peer review provides direct and diverse feedback and reinforces recently-learned course concepts through critical evaluation of others’ work. In this paper, we discuss the construction and application of peer review in a computer science visualization course, including: projects that reuse code and visualizations in a feedback-guided, continual improvement process and a peer review rubric to reinforce key course concepts. To measure the effectiveness of the approach, we evaluate student projects, peer review text, and a post-course questionnaire from 3 semesters of mixed undergraduate and graduate courses. The results indicate that course concepts are reinforced with peer review—82% reported learning more because of peer review, and 75% of students recommended continuing it. Finally, we provide a road-map for adapting peer review to other visualization courses to produce more highly engaged students."
+    },
+    {
+        "title": "BatchLayout: A Batch-Parallel Force-Directed Graph Layout Algorithm in Shared Memory",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Md. Khaledur Rahman",
+            "Majedul Haque Sujon",
+            "Ariful Azad"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.3756",
+        "citation": 5,
+        "abstract": "Force-directed algorithms are widely used to generate aesthetically-pleasing layouts of graphs or networks arisen in many scientific disciplines. To visualize large-scale graphs, several parallel algorithms have been discussed in the literature. However, existing parallel algorithms do not utilize memory hierarchy efficiently and often offer limited parallelism. This paper addresses these limitations with BatchLayout, an algorithm that groups vertices into minibatches and processes them in parallel. BatchLayout also employs cache blocking techniques to utilize memory hierarchy efficiently. More parallelism and improved memory accesses coupled with force approximating techniques, better initialization, and optimized learning rate make BatchLayout significantly faster than other state-of-the-art algorithms such as ForceAtlas2 and OpenOrd. The visualization quality of layouts from BatchLayout is comparable or better than similar visualization tools. All of our source code, links to datasets, results and log files are available at https://github.com/khaled-rahman/BatchLayout."
+    },
+    {
+        "title": "Tensor Spines - A Hyperstreamlines Variant Suitable for Indefinite Symmetric Second-Order Tensors",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Vanessa Kretzschmar",
+            "Fabian Günther",
+            "Markus Stommel",
+            "Gerik Scheuermann"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1008",
+        "citation": 4,
+        "abstract": "Modern engineering uses optimization to design long-living and robust components. One part of this process is to find the optimal stress-aware design under given geometric constraints and loading conditions. Tensor visualization provides techniques to show and evaluate the stress distribution based on finite element method simulations. One such technique are hyperstreamlines. They allow us to explore the stress along a line following one principal stress direction while showing the other principal stress directions and their values. In this paper, we show shortcomings of this approach from an engineer’s point of view and propose a variant called tensor spines. It provides an improved perception of the relation between the principal stresses helping engineers to optimize their designs further."
+    },
+    {
+        "title": "Distribution-based Particle Data Reduction for In-situ Analysis and Visualization of Large-scale N-body Cosmological Simulations",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Guan Li",
+            "Jiayi Xu",
+            "Tianchi Zhang",
+            "Guihua Shan",
+            "Han-Wei Shen",
+            "Ko-Chih Wang",
+            "Shihong Liao",
+            "Zhonghua Lu"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1186",
+        "citation": 3,
+        "abstract": "Cosmological N-body simulation is an important tool for scientists to study the evolution of the universe. With the increase of computing power, billions of particles of high space-time fidelity can be simulated by supercomputers. However, limited computer storage can only hold a small subset of the simulation output for analysis, which makes the understanding of the underlying cosmological phenomena difficult. To alleviate the problem, we design an in-situ data reduction method for large-scale unstructured particle data. During the data generation phase, we use a combined k-dimensional partitioning and Gaussian mixture model approach to reduce the data by utilizing probability distributions. We offer a model evaluation criterion to examine the quality of the probabilistic distribution models, which allows us to identify and improve low-quality models. After the in-situ processing, the particle data size is greatly reduced, which satisfies the requirements from the domain experts. By comparing the astronomical attributes and visualizations of the reconstructed data with the raw data, we demonstrate the effectiveness of our in-situ particle data reduction technique."
+    },
+    {
+        "title": "Towards Rigorously Designed Preference Visualizations for Group Decision Making",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Emily Hindalong",
+            "Jordon Johnson",
+            "Giuseppe Carenini",
+            "Tamara Munzner"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.5111",
+        "citation": 2,
+        "abstract": "Group decision making is when two or more individuals must collectively choose among a competing set of alternatives based on their individual preferences. In these situations, it can be helpful for decision makers to model and visually compare their preferences in order to better understand each others’ points of view. Although a number of tools for preference modelling and inspection exist, none are based on detailed data and task models that capture the demands of group decision making in particular. This paper is a first step in addressing this gap. By going through the four stages of the nested model of visualization design, we have developed and tested a prototype to support group decision making when decision makers express their preferences directly on the alternatives."
+    },
+    {
+        "title": "Representing Multivariate Data by Optimal Colors to Uncover Events of Interest in Time Series Data",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Ding-Bang Chen",
+            "Chien-Hsun Lai",
+            "Yun-Hsuan Lien",
+            "Yu-Hsuan Lin",
+            "Yu-Shuen Wang",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.9915",
+        "citation": 2,
+        "abstract": "In this paper, we present a visualization system for users to study multivariate time series data. They first identify trends or anomalies from a global view and then examine details in a local view. Specifically, we train a neural network to project high-dimensional data to a two dimensional (2D) planar space while retaining global data distances. By aligning the 2D points with a predefined color map, high-dimensional data can be represented by colors. Because perceptual color differentiation may fail to reflect data distance, we optimize perceptual color differentiation on each map region by deformation. The region with large perceptual color differentiation will expand, whereas the region with small differentiation will shrink. Since colors do not occupy any space in visualization, we convey the overview of multivariate time series data by a calendar view. Cells in the view are color-coded to represent multivariate data at different time spans. Users can observe color changes over time to identify events of interest. Afterward, they study details of an event by examining parallel coordinate plots. Cells in the calendar view and the parallel coordinate plots are dynamically linked for users to obtain insights that are barely noticeable in large datasets. The experiment results, comparisons, conducted case studies, and the user study indicate that our visualization system is feasible and effective."
+    },
+    {
+        "title": "PINGU Principles of Interactive Navigation for Geospatial Understanding",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Zoltán Orémuš",
+            "Kahin Akram Hassan",
+            "Jiří Chmelík",
+            "Michaela Kňažková",
+            "Jan Byška",
+            "Renata Georgia Raidou",
+            "Barbora Kozlíková"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.7567",
+        "citation": 1,
+        "abstract": "Monitoring conditions in the periglacial areas of Antarctica helps geographers and geologists to understand physical processes associated with mesoscale land systems. Analyzing these unique temporal datasets poses a significant challenge for domain experts, due to the complex and often incomplete data, for which corresponding exploratory tools are not available. In this paper, we present a novel visual analysis tool for extraction and interactive exploration of temporal measurements captured at the polar station at the James Ross Island in Antarctica. The tool allows domain experts to quickly extract information about the snow level, originating from a series of photos acquired by trail cameras. Using linked views, the domain experts can interactively explore and combine this information with other spatial and non-spatial measures, such as temperature or wind speed, to reveal the interplay of periglacial and aeolian processes. An abstracted interactive map of the area indicates the position of measurement spots to facilitate navigation. The design of the tool was made in tight collaboration with geographers, which resulted in an early prototype, tested in the pilot study. The following version of the tool and its usability has been evaluated in the user study with five domain experts and their feedback was incorporated into the final version, presented in this paper. This version was again discussed with two experts in an informal interview. Within these evaluations, they confirmed the significant benefit of the tool for their research tasks."
+    },
+    {
+        "title": "Efficient Morphing of Shape-preserving Star Coordinates",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Vladimir Molchanov",
+            "Sagad Hamid",
+            "Lars Linsen"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.8199",
+        "citation": 0,
+        "abstract": "Data tours follow an exploratory multi-dimensional data visualization concept that provides animations of projections of the multidimensional data to a 2D visual space. To create an animation, a sequence of key projections is provided and morphings between each pair of consecutive key projections are computed, which then can be stitched together to form the data tour. The morphings should be smooth so that a user can easily follow the transformations, and their computations shall be fast to allow for their integration into an interactive visual exploration process. Moreover, if the key projections are chosen to satisfy additional conditions, it is desirable that these conditions are maintained during morphing. Shape preservation is such a desirable condition, as it avoids shape distortions that may otherwise be caused by a projection. We develop a novel efficient morphing algorithms for computing shape-preserving data tours, i.e., data tours constructed for a sequence of shape-preserving linear projections. We propose a stepping strategy for the morphing to avoid discontinuities in the evolution of the projections, where we represent the linear projections using a star-coordinates system. Our algorithms are less computationally involved, produce smoother morphings, and require less user-defined parameter settings than existing state-of-the-art approaches."
+    },
+    {
+        "title": "Visualization of Unsteady Flow Using Heat Kernel Signatures",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Kairong Jiang",
+            "Matthew Berger",
+            "Joshua A. Levine"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1718",
+        "citation": 0,
+        "abstract": "We introduce a new technique to visualize complex flowing phenomena by using concepts from shape analysis. Our approach uses techniques that examine the intrinsic geometry of manifolds through their heat kernel, to obtain representations of such manifolds that are isometry-invariant and multi-scale. These representations permit us to compute heat kernel signatures of each point on that manifold, and we can use these signatures as features for classification and segmentation that identify points that have similar structural properties. Our approach adapts heat kernel signatures to unsteady flows by formulating a notion of shape where pathlines are observations of a manifold living in a high-dimensional space. We use this space to compute and visualize heat kernel signatures associated with each pathline. Besides being able to capture the structural features of a pathline, heat kernel signatures allow the comparison of pathlines from different flow datasets through a shape matching pipeline. We demonstrate the analytic power of heat kernel signatures by comparing both (1) different timesteps from the same unsteady flow as well as (2) flow datasets taken from ensemble simulations with varying simulation parameters. Our analysis only requires the pathlines themselves, and thus it does not utilize the underlying vector field directly. We make minimal assumptions on the pathlines: while we assume they are sampled from a continuous, unsteady flow, our computations can tolerate pathlines that have varying density and potential unknown boundaries. We evaluate our approach through visualizations of a variety of two-dimensional unsteady flows."
+    },
+    {
+        "title": "LBVis: Interactive Dynamic Load Balancing Visualization for Parallel Particle Tracing",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [
+            "Jiang Zhang",
+            "Changhe Yang",
+            "Yanda Li",
+            "Li Chen",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PacificVis48177.2020.1029",
+        "citation": 0,
+        "abstract": "We propose an interactive visual analytical approach to exploring and diagnosing the dynamic load balance (data and task partition) process of parallel particle tracing in flow visualization. To understand the complex nature of the parallel processes, it is necessary to integrate the information of the behaviors and patterns of the computing processes, data changes and movements, task status and exchanges, and gain the insight of the relationships among them. In our proposed approach, the data and task behaviors are visualized through a graph with a fine-designed layout, in which node glyphs are dedicated to showing the status of processes and the links represent the data or task transfer between different computation rounds and processes. User interactions are supported to facilitate the exploration of performance analysis. We provide a case study to demonstrate that the proposed approach enables users to identify the bottlenecks during this process, and thus help optimize the related algorithms."
+    },
+    {
+        "title": "PacificVis 2020 Executive Committee",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [],
+        "DOI": "10.1109/PacificVis48177.2020.9086191",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "PacificVis 2020 Chair Message",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [],
+        "DOI": "10.1109/PacificVis48177.2020.9086225",
+        "citation": 0,
+        "abstract": "Presents the introductory welcome message from the conference proceedings. May include the conference officers' congratulations to all involved with the conference event and publication of the proceedings record."
+    },
+    {
+        "title": "PacificVis 2020 Committees",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [],
+        "DOI": "10.1109/PacificVis48177.2020.9086294",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "[PacificVis 2020 Title Page]",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [],
+        "DOI": "10.1109/PacificVis48177.2020.9086280",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "[Copyright notice]",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [],
+        "DOI": "10.1109/PacificVis48177.2020.9086188",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "PacificVis 2020 Paper Reviewers",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [],
+        "DOI": "10.1109/PacificVis48177.2020.9086232",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "PacificVis 2020 Contents",
+        "conferenceTitle": "2020 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "3-5 June 2020",
+        "authors": [],
+        "DOI": "10.1109/PacificVis48177.2020.9086197",
+        "citation": 0,
+        "abstract": "Presents the table of contents/splash page of the proceedings record."
+    }
+]

@@ -1,0 +1,516 @@
+[
+    {
+        "title": "Optimal Sankey Diagrams Via Integer Programming",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "David Cheng Zarate",
+            "Pierre Le Bodic",
+            "Tim Dwyer",
+            "Graeme Gange",
+            "Peter Stuckey"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00025",
+        "citation": 13,
+        "abstract": "We present the first practical Integer Linear Programming model for Sankey Diagram layout. We show that this approach is viable in terms of running time for reasonably complex diagrams and also that the quality of the layout is measurably and visibly better than heuristic approaches in terms of crossing reduction. Finally, we demonstrate that the model is easily extensible through the addition of constraints, such as arbitrary grouping of nodes."
+    },
+    {
+        "title": "TagNet: Toward Tag-Based Sentiment Analysis of Large Social Media Data",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Yang Chen"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00032",
+        "citation": 6,
+        "abstract": "Hashtags and replies, originally introduced on Twitter, have become the most popular ways to tag short messages in social networks. While the primary uses of these human-labeled metadata are still for message retrieval and clustering, there have been increasing attempts to use them as subject or topic indicators in measuring people's continuous sentiments in large message corpora. However, conducting the analysis for large social media data is still challenging due to the message volume, heterogeneity, and temporal dependence. In this paper, we present TagNet, a novel visualization approach tailored to the tag-based sentiment analysis. TagNet combines traditional tag clouds with an improved node-link diagram to represent the time-varying heterogeneous information with reduced visual clutter. A force model is leveraged to generate layout aesthetics from which the temporal patterns of tags can be easily compared across different subsets of data. It is enhanced by visual encodings for quickly estimating the time-varying sentiment. Interaction tools are provided to improve the scalability for exploring large corpora. An example Twitter corpus illustrates the applicability and usefulness of TagNet."
+    },
+    {
+        "title": "A Comparative 3D Visualization Tool for Observation of Mode Water",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Midori Yano",
+            "Takayuki Itoh",
+            "Yuusuke Tanaka",
+            "Daisuke Matsuoka",
+            "Fumiaki Araki"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00037",
+        "citation": 4,
+        "abstract": "Mode water forms a 3D region of seawater mass, which has similar physical characteristics values. Research and observation of mode water have a long history in physical oceanography because analysis of mode water brings the understanding of various natural phenomena. There have been various definitions of mode water, and comparison of mode water regions extracted with such various definitions is an important issue in this field. This paper presents our study on comparative 3D visualization tool for the comparison of mode water regions. We extract pairs of outer boundaries of mode water regions as isosurfaces and calculate dissimilarity values between the pairs. The tool visualizes the multi-dimensional vectors of the dissimilarity values by Parallel Coordinate Plots (PCP) and provides a user interface to specify particular pairs of mode water regions so that we can comparatively visualize the shapes of the regions. This paper introduces our experiment on a comparison of mode water regions between an observation and a simulation datasets using the presented tool."
+    },
+    {
+        "title": "Modeling and Visualization of Uncertainty-Aware Geometry Using Multi-variate Normal Distributions",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Christina Gillmann",
+            "Thomas Wischgoll",
+            "Bernd Hamann",
+            "James Ahrens"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00021",
+        "citation": 3,
+        "abstract": "Many applications are dealing with geometric data that are affected by uncertainty. This uncertainty is important to analyze, visualize, and understand. We present a methodology to model uncertain geometry based on multi-variate normal distributions. In addition, we propose a visualization technique to represent a hull for uncertain geometry capturing a user-defined percentage of the underlying uncertain geometry. To show the effectiveness of our approach, we have modeled and visualized uncertain datasets from different applications."
+    },
+    {
+        "title": "An Evolutionary Signature for Animated Meshes",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Guoliang Luo",
+            "Haopeng Lei",
+            "Yugen Yi",
+            "Yuhua Li",
+            "Chuahua Xian"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00038",
+        "citation": 0,
+        "abstract": "With the rapid growing advancement of animation technologies, 3D animated meshes are becoming one of the major data in the industry such as virtual reality. However, treating the animated mesh data efficiently remains a challenging task due to its large scale and limited feature descriptors. In this paper, we present an evolutionary signature for animated meshes based on tempo-spatial segmentation. In specific, we first conduct temporal segmentation to a given animated meshes with sub-motions, then apply spatial segmentation within each temporal segment, and intersect spatial segmentation result for over segmentation. Thirdly, we represent the segmentation results into graphs. Finally, we devise an edge evolution matrix based on the dynamic behaviour of each edge for the evolutionary signature of the input animated mesh. Our experimental results on similarity measurement by using the proposed signature reflect the effectiveness of our method."
+    },
+    {
+        "title": "Keynote Abstracts",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2018.00009",
+        "citation": 0,
+        "abstract": "Provides an abstract for each of the keynote presentations and may include a brief professional biography of each presenter. The complete presentations were not made available for publication as part of the conference proceedings."
+    },
+    {
+        "title": "A Visual Analytics Approach for Equipment Condition Monitoring in Smart Factories of Process Industry",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Wenchao Wu",
+            "Yixian Zheng",
+            "Kaiyuan Chen",
+            "Xiangyu Wang",
+            "Nan Cao"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00026",
+        "citation": 34,
+        "abstract": "Monitoring equipment conditions is of great value in manufacturing, which can not only reduce unplanned downtime by early detecting anomalies of equipment but also avoid unnecessary routine maintenance. With the coming era of Industry 4.0 (or industrial internet), more and more assets and machines in plants are equipped with various sensors and information systems, which brings an unprecedented opportunity to capture large-scale and fine-grained data for effective on-line equipment condition monitoring. However, due to the lack of systematic methods, analysts still find it challenging to carry out efficient analyses and extract valuable information from the mass volume of data collected, especially for process industry (e.g., a petrochemical plant) with complex manufacturing procedures. In this paper, we report the design and implementation of an interactive visual analytics system, which helps managers and operators at manufacturing sites leverage their domain knowledge and apply substantial human judgements to guide the automated analytical approaches, thus generating understandable and trustable results for real-world applications. Our system integrates advanced analytical algorithms (e.g., Gaussian mixture model with a Bayesian framework) and intuitive visualization designs to provide a comprehensive and adaptive semi-supervised solution to equipment condition monitoring. The example use cases based on a real-world manufacturing dataset and interviews with domain experts demonstrate the effectiveness of our system."
+    },
+    {
+        "title": "Visual Detection of Structural Changes in Time-Varying Graphs Using Persistent Homology",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Mustafa Hajij",
+            "Bei Wang",
+            "Carlos Scheidegger",
+            "Paul Rosen"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00024",
+        "citation": 28,
+        "abstract": "Topological data analysis is an emerging area in exploratory data analysis and data mining. Its main tool, persistent homology, has become a popular technique to study the structure of complex, high-dimensional data. In this paper, we propose a novel method using persistent homology to quantify structural changes in time-varying graphs. Specifically, we transform each instance of the time-varying graph into a metric space, extract topological features using persistent homology, and compare those features over time. We provide a visualization that assists in time-varying graph exploration and helps to identify patterns of behavior within the data. To validate our approach, we conduct several case studies on real-world datasets and show how our method can find cyclic patterns, deviations from those patterns, and one-time events in time-varying graphs. We also examine whether a persistence-based similarity measure satisfies a set of well-established, desirable properties for graph metrics."
+    },
+    {
+        "title": "Visual Analytics for Networked-Guarantee Loans Risk Management",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Zhibin Niu",
+            "Dawei Cheng",
+            "Liqing Zhang",
+            "Jiawan Zhang"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00028",
+        "citation": 19,
+        "abstract": "Groups of enterprises can guarantee each other and form complex networks in order to try to obtain loans from banks. Monitoring the financial status of a network, and preventing or reducing systematic risk in case of a crisis, is an area of great concern for the regulatory commission and for the banks. We set the ultimate goal of developing a visual analytic approach and tool for risk dissolving and decision-making. We have consolidated four main analysis tasks conducted by financial experts: i) Multi-faceted Default Risk Visualization, whereby a hybrid representation is devised to predict the default risk and an interface developed to visualize key indicators; ii) Risk Guarantee Patterns Discovery. We follow the Shneiderman mantra guidance for designing interactive visualization applications, whereby an interactive risk guarantee community detection and a motif detection based risk guarantee pattern discovery approach are described; iii) Network Evolution and Retrospective, whereby animation is used to help users to understand the guarantee dynamic; iv) Risk Communication Analysis. The temporal diffusion path analysis can be useful for the government and banks to monitor the spread of the default status. It also provides insight for taking precautionary measures to prevent and dissolve systematic financial risk. We implement the system with case studies using real-world bank loan data. Two financial experts are consulted to endorse the developed tool. To the best of our knowledge, this is the first visual analytics tool developed to explore networked-guarantee loan risks in a systematic manner."
+    },
+    {
+        "title": "Access Pattern Learning with Long Short-Term Memory for Parallel Particle Tracing",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Fan Hong",
+            "Jiang Zhang",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00018",
+        "citation": 18,
+        "abstract": "In this work, we present a novel access pattern estimation approach for parallel particle tracing in flow field visualization based on deep neural networks. With strong generalization ability, we develop a Long Short-term Memory (LSTM)-based model, which is capable of learning accurate access patterns with only a few training samples and representing the learned patterns with small storage overhead. Equipped with prediction and prefetching functions driven by the developed model, our parallel particle tracing framework employs CPUs and GPUs together for particle tracing tasks. We demonstrate the accuracy and time efficiency of our approach with various flow visualization applications in three different flow datasets."
+    },
+    {
+        "title": "Image and Distribution Based Volume Rendering for Large Data Sets",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Ko-Chih Wang",
+            "Naeem Shareef",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00013",
+        "citation": 14,
+        "abstract": "Analyzing scientific datasets created from simulations on modern supercomputers is a daunting challenge due to the fast pace at which these datasets continue to grow. Low cost post analysis machines used by scientists to view and analyze these massive datasets are severely limited by their deficiencies in storage bandwidth, capacity, and computational power. Trying to simply move these datasets to these platforms is infeasible. Any approach to view and analyze these datasets on post analysis machines will have to effectively address the inevitable problem of data loss. Image based approaches are well suited for handling very large datasets on low cost platforms. Three challenges with these approaches are how to effectively represent the original data with minimal data loss, analyze the data in regards to transfer function exploration, which is a key analysis tool, and quantify the error from data loss during analysis. We present a novel image based approach using distributions to preserve data integrity. At each view sample, view dependent data is summarized at each pixel with distributions to define a compact proxy for the original dataset. We present this representation along with how to manipulate and render large scale datasets on post analysis machines. We show that our approach is a good trade off between rendering quality and interactive speed and provides uncertainty quantification for the information that is lost."
+    },
+    {
+        "title": "Information Guided Data Sampling and Recovery Using Bitmap Indexing",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Tzu-Hsuan Wei",
+            "Soumya Dutta",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00016",
+        "citation": 13,
+        "abstract": "Creating a data representation is a common approach for efficient and effective data management and exploration. The compressed bitmap indexing is one of the emerging data representation used for large-scale data exploration. Performing sampling on the bitmapindexing based data representation allows further reduction of storage overhead and be more flexible to meet the requirements of different applications. In this paper, we propose two approaches to solve two potential limitations when exploring and visualizing the data using sampling-based bitmap indexing data representation. First, we propose an adaptive sampling approach called information guided stratified sampling (IGStS) for creating compact sampled datasets that preserves the important characteristics of the raw data. Furthermore, we propose a novel data recovery approach to reconstruct the irregular subsampled dataset into a volume dataset with regular grid structure for qualitative post-hoc data exploration and visualization. The quantitative and visual efficacy of our proposed data sampling and recovery approaches are demonstrated through multiple experiments and applications."
+    },
+    {
+        "title": "Topologically Controlled Lossy Compression",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Maxime Soler",
+            "Mélanie Plainchault",
+            "Bruno Conche",
+            "Julien Tierny"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00015",
+        "citation": 12,
+        "abstract": "This paper presents a new algorithm for the lossy compression of scalar data defined on 2D or 3D regular grids, with topological control. Certain techniques allow users to control the pointwise error induced by the compression. However, in many scenarios it is desirable to control in a similar way the preservation of higher-level notions, such as topological features, in order to provide guarantees on the outcome of post-hoc data analyses. This paper presents the first compression technique for scalar data which supports a strictly controlled loss of topological features. It provides users with specific guarantees both on the preservation of the important features and on the size of the smaller features destroyed during compression. In particular, we present a simple compression strategy based on a topologically adaptive quantization of the range. Our algorithm provides strong guarantees on the bottleneck distance between persistence diagrams of the input and decompressed data, specifically those associated with extrema. A simple extension of our strategy additionally enables a control on the pointwise error. We also show how to combine our approach with state-of-the-art compressors, to further improve the geometrical reconstruction. Extensive experiments, for comparable compression rates, demonstrate the superiority of our algorithm in terms of the preservation of topological features. We show the utility of our approach by illustrating the compatibility between the output of post-hoc topological data analysis pipelines, executed on the input and decompressed data, for simulated or acquired data sets. We also provide a lightweight VTK-based C++ implementation of our approach for reproduction purposes."
+    },
+    {
+        "title": "In Situ Prediction Driven Feature Analysis in Jet Engine Simulations",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Soumya Dutta",
+            "Han-Wei Shen",
+            "Jen-Ping Chen"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00017",
+        "citation": 11,
+        "abstract": "Efficient feature exploration in large-scale data sets using traditional post-hoc analysis approaches is becoming prohibitive due to the bottleneck stemming from I/O and output data sizes. This problem becomes more challenging when an ensemble of simulations are required to run for studying the influence of input parameters on the model output. As a result, scientists are inclining more towards analyzing the data in situ while it resides in the memory. In situ analysis aims at minimizing expensive data movement while maximizing the resource utilization for extraction of important information from the data. In this work, we study the evolution of rotating stall in jet engines using data generated from a large-scale flow simulation under various input conditions. Since the features of interest lack a precise descriptor, we adopt a fuzzy rule-based machine learning algorithm for efficient and robust extraction of such features. For scalable exploration, we advocate for an off-line learning and in situ prediction driven strategy that facilitates in-depth study of the stall. Task-specific information estimated in situ is visualized interactively during the post-hoc analysis revealing important details about the inception and evolution of stall. We verify and validate our method through comprehensive expert evaluation demonstrating the efficacy of our approach."
+    },
+    {
+        "title": "HeloVis: A Helical Visualization for SIGINT Analysis Using 3D Immersion",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Alma Cantu",
+            "Thierry Duval",
+            "Olivier Grisvard",
+            "Gilles Coppin"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00030",
+        "citation": 8,
+        "abstract": "In this paper we present HeloVis: a 3D interactive visualization that relies on immersive properties to improve the user performance during SIGINT analysis. SIGINT, which stands for SIGnal INTelligence, is a field facing many challenges like huge amounts of data, complex data and novice users. HeloVis draws on perceptive biases, highlighted by Gestalt laws, and on depth perception to enhance the recurrence properties contained into the data and to abstract from interferences such as noise or missing data. In this paper, we first present SIGINT and the challenges that it brings to visual analytics. Then, we present the existing work that is currently used in or that fits the SIGINT context. Finally, we present HeloVis, an innovative application on an immersive context that allows performing SIGINT analysis and we present its evaluation performed with military operators who are the end-users of SIGINT analysis."
+    },
+    {
+        "title": "Know Your Enemy: Identifying Quality Problems of Time Series Data",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Theresia Gschwandtner",
+            "Oliver Erhart"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00034",
+        "citation": 8,
+        "abstract": "Sensible data analysis requires data quality control. An essential part of this is data profiling, which is the identification and assessment of data quality problems as a prerequisite for adequately handling these problems. Differentiating between actual quality problems and unusual, but valid data values requires the \"human-in-the-loop\" through the use of visual analytics. Unfortunately, existing approaches for data profiling do not adequately support the special characteristics of time, which is imperative to identify quality problems in time series data - a data type prevalent in a multitude of disciplines. In this design study paper, we outline the design, implementation, and evaluation of \"Know Your Enemy\" (KYE) - a visual analytics approach to assess the quality of time series data. KYE supports the task of data profiling with (1) predefined data quality checks, (2) user-definable, customized quality checks, (3) interactive visualization to explore and reason about automatically detected problems, and (4) the visual identification of hidden quality problems."
+    },
+    {
+        "title": "BC Tree-Based Proxy Graphs for Visualization of Big Graphs",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Seok-Hee Hong",
+            "Quan Nguyen",
+            "Amyra Meidiana",
+            "Jiaxi Li",
+            "Peter Eades"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00011",
+        "citation": 7,
+        "abstract": "Recent work for visualizing big graphs uses a proxy graph approach: the original graph is replaced by a proxy graph, which is much smaller than the original graph. The challenge for the proxy graph approach is to ensure that the proxy graph is a good representation of the original graph. However, previous work to compute proxy graphs using graph sampling techniques often fails to preserve connectivity and important global skeletal structure in the original graph. This paper introduces two new families of proxy graph methods BCP-W and BCP-E, tightly integrating graph sampling methods with the BC (Block Cut-vertex) tree, which represents the decomposition of a graph into biconnected components. Experimental results using graph sampling quality metrics show that our new BC treebased proxy graph methods produce significantly better results than existing sampling-based proxy graph methods: 25% improvement by BCP-W and 15% by BCP-E on average. We also present DBCP, a BC tree-based proxy graph method for distributed environment. Experiments on the Amazon Cloud EC2 demonstrate that DBCP is scalable for big graph data sets; runtime speed-up of 77% for distributed 5-server on average. Visual comparison using a graph layout method and the proxy quality metrics confirm that our new BC tree-based proxy graph methods are significantly better than existing sampling-based proxy graph method. Our main results lead to guidelines for computing sampling-based proxy graphs for visualization of big graphs."
+    },
+    {
+        "title": "Visualizing Deep Neural Networks for Text Analytics",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Shaoliang Nie",
+            "Christopher Healey",
+            "Kalpesh Padia",
+            "Samuel Leeman-Munk",
+            "Jordan Benson",
+            "Dave Caira",
+            "Saratendu Sethi",
+            "Ravi Devarajan"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00031",
+        "citation": 7,
+        "abstract": "Deep neural networks (DNNs) have made tremendous progress in many different areas in recent years. How these networks function internally, however, is often not well understood. Advances in under-standing DNNs will benefit and accelerate the development of the field. We present TNNVis, a visualization system that supports un-derstanding of deep neural networks specifically designed to analyze text. TNNVis focuses on DNNs composed of fully connected and convolutional layers. It integrates visual encodings and interaction techniques chosen specifically for our tasks. The tool allows users to: (1) visually explore DNN models with arbitrary input using a combination of node-link diagrams and matrix representation; (2) quickly identify activation values, weights, and feature map patterns within a network; (3) flexibly focus on visual information of interest with threshold, inspection, insight query, and tooltip operations; (4) discover network activation and training patterns through animation; and (5) compare differences between internal activation patterns for different inputs to the DNN. These functions allow neural network researchers to examine their DNN models from new perspectives, producing insights on how these models function. Clustering and summarization techniques are employed to support large convolutional and fully connected layers. Based on several part of speech models with different structure and size, we present multiple use cases where visualization facilitates an understanding of the models."
+    },
+    {
+        "title": "FraudVis: Understanding Unsupervised Fraud Detection Algorithms",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Jiao Sun",
+            "Qixin Zhu",
+            "Zhifei Liu",
+            "Xin Liu",
+            "Jihae Lee",
+            "Zhigang Su",
+            "Lei Shi",
+            "Ling Huang",
+            "Wei Xu"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00029",
+        "citation": 7,
+        "abstract": "Discovering fraud user behaviors is vital to keeping online websites healthy. Fraudsters usually exhibit grouping behaviors, and researchers have effectively leveraged this behavior to design unsupervised algorithms to detect fraud user groups. In this work, we propose a visualization system, FraudVis, to visually analyze the unsupervised fraud detection algorithms from temporal, intra-group correlation, inter-group correlation, feature selection, and the individual user perspectives. FraudVis helps domain experts better understand the algorithm output and the detected fraud behaviors. Meanwhile, FraudVis also helps algorithm experts to fine-tune the algorithm design through the visual comparison. By using the visualization system, we solve two real-world cases of fraud detection, one for a social video website and another for an e-commerce website. The results on both cases demonstrate the effectiveness of FraudVis in understanding unsupervised fraud detection algorithms."
+    },
+    {
+        "title": "An Evaluation of Perceptually Complementary Views for Multivariate Data",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Chunlei Chang",
+            "Tim Dwyer",
+            "Kim Marriott"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00033",
+        "citation": 7,
+        "abstract": "We evaluate the relative merits of three techniques for visualising multivariate data: parallel coordinates; scatterplot matrix; and a side-by-side, coordinated combination of these views. In particular, we report on: (1) the most effective visual encoding of multivariate data for each of the six common tasks considered; (2) common strategies that our participants used when the two views were combined based on eye-tracking data analysis; (3) the finding that these views are perceptually complementary in the sense that they both show the same information, but with different and complementary support for different types of analysis. For the combined view, our studies show that there is a perceptually complementary effect in terms of significantly improved accuracy for certain tasks, but that there is a small cost in terms of slightly longer completion time than the faster of the two techniques alone. Eye-movement data shows that for many tasks participants were able to swiftly switch their strategies after trying both in the training phase."
+    },
+    {
+        "title": "Uncertainty Visualization for Secondary Structures of Proteins",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Christoph Schulz",
+            "Karsten Schatz",
+            "Michael Krone",
+            "Matthias Braun",
+            "Thomas Ertl",
+            "Daniel Weiskopf"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00020",
+        "citation": 6,
+        "abstract": "We present a technique that conveys the uncertainty in the secondary structure of proteins-an abstraction model based on atomic coordinates. While protein data inherently contains uncertainty due to the acquisition method or the simulation algorithm, we argue that it is also worth investigating uncertainty induced by analysis algorithms that precede visualization. Our technique helps researchers investigate differences between multiple secondary structure assignment methods. We modify established algorithms for fuzzy classification and introduce a discrepancy-based approach to project an ensemble of sequences to a single importance-weighted sequence. In 2D, we depict the aggregated secondary structure assignments based on the per-residue deviation in a collapsible sequence diagram. In 3D, we extend the ribbon diagram using visual variables such as transparency, wave form, frequency, or amplitude to facilitate qualitative analysis of uncertainty. We evaluated the effectiveness and acceptance of our technique through expert reviews using two example applications: the combined assignment against established algorithms and time-dependent structural changes originating from simulated protein dynamics."
+    },
+    {
+        "title": "Visual Analysis of Collective Anomalies Through High-Order Correlation Graph",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Jun Tao",
+            "Lei Shi",
+            "Zhou Zhuang",
+            "Congcong Huang",
+            "Rulei Yu",
+            "Purui Su",
+            "Chaoli Wang",
+            "Yang Chen"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00027",
+        "citation": 6,
+        "abstract": "Detecting, analyzing and reasoning collective anomalies is important for many real-life application domains such as facility monitoring, software analysis and security. The main challenges include the overwhelming number of low-risk events and their multifaceted relationships which form the collective anomaly, the diversity in various data and anomaly types, and the difficulty to incorporate domain knowledge in the anomaly analysis process. In this paper, we propose a novel concept of high-order correlation graph (HOCG). Compared with the previous correlation graph definition, HOCG achieves better user interactivity, computational scalability, and domain generality through synthesizing heterogeneous types of nodes, attributes, and multifaceted relationships in a single graph. We design elaborate visual metaphors, interaction models, and the coordinated multiple view based interface to allow users to fully unleash the visual analytics power over HOCG. We conduct case studies in two real-life application domains, i.e., facility monitoring and software analysis. The results demonstrate the effectiveness of HOCG in the overview of point anomalies, detection of collective anomalies, and reasoning process of root cause analysis."
+    },
+    {
+        "title": "Exploring the Role of Sound in Augmenting Visualization to Enhance User Engagement",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Meng Du",
+            "Jia-Kai Chou",
+            "Chen Ma",
+            "Senthil Chandrasegaran",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00036",
+        "citation": 5,
+        "abstract": "Studies on augmenting visualization with sound are typically based on the assumption that sound can be complementary and assist in data analysis tasks. While sound promotes a different sense of engagement than vision, we conjecture that by augmenting non-speech audio to a visualization can not only help enhance the users' perception of the data but also increase their engagement with the data exploration process. We have designed a preliminary user study to test users' performance and engagement while exploring in a data visualization system under two different settings: visual-only and audiovisual. For our study, we used basketball player movement data in a game and created an interactive visualization system with three linked views. We supplemented sound to the visualization to enhance the users' understanding of a team's offensive/defensive behavior. The results of our study suggest that we need to better understand the effect of sound choice and encoding before considering engagement. We also find that sound can be useful to draw novice users' attention to patterns or anomalies in the data. Finally, we propose follow-up studies with designs informed by the findings from this study."
+    },
+    {
+        "title": "Composite Visual Mapping for Time Series Visualization",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Ali Jabbari",
+            "Renaud Blanch",
+            "Sophie Dupuy-Chessa"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00023",
+        "citation": 5,
+        "abstract": "In the information visualization reference model, visual mapping is the most crucial step in producing a visualization from a data set. The conventional visual mapping maps each data attribute onto a single visual channel (e.g. the year of production of a car to the position on the horizontal axis). In this work, we investigate composite visual mapping: mapping single data attributes onto several visual channels, each one representing one aspect of the data attribute (e.g. its order of magnitude, or its trend component). We first propose a table which allows us to explore the design space of composite mappings by offering a systematic overview of channel combinations. We expect that using more than one visual channel for communicating a data attribute increases the bandwidth of information presentation by displaying separable information on different aspects of data. In order to evaluate this point, we compare horizon graph, an existing technique which successfully adopts a composite visual mapping, with a selection of alternative composite mappings. We show that some of those mappings perform as well as –and in some cases even better than– horizon graph in terms of accuracy and speed. Our results confirm that the benefits of composite visual mapping are not limited to horizon graph. We thus recommend the use of composite visual mapping when users are simultaneously interested in several aspects of data attributes."
+    },
+    {
+        "title": "Dynamic Data Repartitioning for Load-Balanced Parallel Particle Tracing",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Jiang Zhang",
+            "Hanqi Guo",
+            "Xiaoru Yuan",
+            "Tom Peterka"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00019",
+        "citation": 4,
+        "abstract": "We present a novel dynamic load-balancing algorithm based on data repartitioning for parallel particle tracing in flow visualization. Instead of static data assignment, we dynamically repartition the data into blocks and reassign the blocks to processes to balance the workload distribution among the processes. Block repartitioning is performed based on a dynamic workload estimation method that predicts the workload in the flow field on the fly as the input. In our approach, we allow data duplication in the repartitioning, enabling the same data blocks to be assigned to multiple processes. Load balance is achieved by regularly exchanging the blocks (together with the particles in the blocks) among processes according to the output of the data repartitioning. Compared with other load-balancing algorithms, our approach does not need any preprocessing on the raw data and does not require any dedicated process for work scheduling, while it has the capability to balance uneven workload efficiently. Results show improved load balance and high efficiency of our method on tracing particles in both steady and unsteady flow."
+    },
+    {
+        "title": "Optimal Algorithms for Compact Linear Layouts",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Willem Sonke",
+            "Kevin Verbeek",
+            "Wouter Meulemans",
+            "Eric Verbeek",
+            "Bettina Speckmann"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00010",
+        "citation": 2,
+        "abstract": "Linear layouts are a simple and natural way to draw a graph: all vertices are placed on a single line and edges are drawn as arcs between the vertices. Despite its simplicity, a linear layout can be a very meaningful visualization if there is a particular order defined on the vertices. Common examples of such ordered - and often also directed - graphs are event sequences and processes. A main drawback of linear layouts are the usually (very) large aspect ratios of the resulting drawings, which prevent users from obtaining a good overview of the whole graph. In this paper we present a novel and versatile algorithm to optimally fold a linear layout of a graph such that it can be drawn nicely in a specified aspect ratio, while still clearly communicating the linearity of the layout. Our algorithm allows vertices to be drawn as blocks or rectangles of specified sizes to incorporate different drawing styles, label sizes, and even recursive structures. For reasonably-sized drawings the folded layout can be computed interactively. We demonstrate the applicability of our algorithm on graphs that represent process trees, a particular type of process model. Our algorithm arguably produces much more readable layouts than existing methods."
+    },
+    {
+        "title": "Development of an Integrated Visualization System for Phenotypic Character Networks",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Yosuke Onoue",
+            "Koji Kyoda",
+            "Miki Kioka",
+            "Kazutaka Baba",
+            "Shuichi Onami",
+            "Koji Koyamada"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00012",
+        "citation": 2,
+        "abstract": "Wet and dry biological data are potentially complementary. By visually integrating the initiation and developmental processes of organisms, we might reveal new causalities in biological data. Here we present an integrated visualization system for a causality network constructed from phenotypic developmental characters and their related scientific literature. To obtain the phenotypic characters, we applied bio-imaging informatics techniques to the data of wet experiments. The phenotypic character network was visually rendered in the CausalNet system, which provides both explanatory and verification visualization functions. Statistical analysis and scientific literature mining proved useful for determining the mechanisms underlying the phenotypic trait network. The validity of the system was confirmed in an application example and expert feedback on the developmental process of the nematode Caenorhabditis elegans. The discussed methodology is applicable to other multicellular organisms."
+    },
+    {
+        "title": "Smart Surrogate Widgets for Direct Volume Manipulation",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Sergej Stoppel",
+            "Stefan Bruckner"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00014",
+        "citation": 2,
+        "abstract": "Interaction is an essential aspect in volume visualization, yet common manipulation tools such as bounding boxes or clipping plane widgets provide rather crude tools as they neglect the complex structure of the underlying data. In this paper, we introduce a novel volume interaction approach based on smart widgets that are automatically placed directly into the data in a visibility-driven manner. By adapting to what the user actually sees, they act as proxies that allow for goal-oriented modifications while still providing an intuitive set of simple operations that is easy to control. In particular, our method is well-suited for direct manipulation scenarios such as touch screens, where traditional user interface elements commonly exhibit limited utility. To evaluate out approach we conducted a qualitative user study with nine participants with various backgrounds."
+    },
+    {
+        "title": "An Automatic Deformation Approach for Occlusion Free Egocentric Data Exploration",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Cheng Li",
+            "Joachim Moortgat",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00035",
+        "citation": 1,
+        "abstract": "Occlusion management is an important task for three dimension data exploration. For egocentric data exploration, the occlusion problems, caused by the camera being too close to opaque data elements, have not been well addressed by previous studies. In this paper, we propose an automatic approach to resolve these problems and provide an occlusion free egocentric data exploration. Our system utilizes a state transition model to monitor both the camera and the data, and manages the initiation, duration, and termination of deformation with animation. Our method can be applied to multiple types of scientific datasets, including volumetric data, polygon mesh data, and particle data. We demonstrate our method with different exploration tasks, including camera navigation, isovalue adjustment, transfer function adjustment, and time varying exploration. We have collaborated with a domain expert and received positive feedback."
+    },
+    {
+        "title": "Visualization of Fullerene Fragmentation",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [
+            "Kai Sdeo",
+            "Bastian Rieck",
+            "Filip Sadlo"
+        ],
+        "DOI": "10.1109/PacificVis.2018.00022",
+        "citation": 0,
+        "abstract": "In this paper, we present a novel visualization approach for the analysis of fragmentation of molecules, with a particular focus on fullerenes. Our approach consists of different components at different levels of detail. Whereas one component is geometric but invariant to rotations, two other components are based on the topological structure of the molecules and thus additionally invariant to deformations. By combining these three components, which aim at the analysis of simulation ensembles of such molecules, and complementing them with a space-time representation that enables detailed interactive inspection of individual simulations, we obtain a versatile tool for the analysis of the fragmentation of structured, symmetrical molecules such as fullerenes. We exemplify the utility of our approach using a tightly coupled simulation approach for the dynamics of fullerenes."
+    },
+    {
+        "title": "[Publisher's information]",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2018.00040",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Organizing Committee",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2018.00006",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Welcome Message from the Co-Chairs",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2018.00005",
+        "citation": 0,
+        "abstract": "The following topics are dealt with: data visualisation; data analysis; learning (artificial intelligence); data mining; computational geometry; graph theory; rendering (computer graphics); interactive systems; trees (mathematics); and user interfaces."
+    },
+    {
+        "title": "Papers Program Committee",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2018.00007",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "[Title page i]",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2018.00001",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "[Copyright notice]",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2018.00003",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "[Title page iii]",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2018.00002",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "Table of contents",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2018.00004",
+        "citation": 0,
+        "abstract": "Presents the table of contents/splash page of the proceedings record."
+    },
+    {
+        "title": "Author index",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2018.00039",
+        "citation": 0,
+        "abstract": "Presents an index of the authors whose articles are published in the conference proceedings record."
+    },
+    {
+        "title": "Reviewers",
+        "conferenceTitle": "2018 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "10-13 April 2018",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2018.00008",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    }
+]

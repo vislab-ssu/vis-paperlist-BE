@@ -1,0 +1,580 @@
+[
+    {
+        "title": "Keynote speaker: Big data: A scientific visualization perspective",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Charles Hansen"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596119",
+        "citation": 0,
+        "abstract": "Summary form only given. Modern high performance computers have speeds measured in petaflops and handle data set sizes measured in terabytes and petabytes. In the next decade (or less) we will see exascale computational resources. Although these machines offer enormous potential for solving very large-scale realistic computational problems, their effectiveness will hinge upon the ability of human experts to interact with their simulation results and extract useful information. One of the greatest scientific challenges of the 21st century is to effectively understand and make use of the vast amount of information being produced. Visual data analysis will be among our most important tools in helping to understand such large-scale information."
+    },
+    {
+        "title": "Keynote speaker: Graph animation",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Giuseppe Di Battista"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596118",
+        "citation": 0,
+        "abstract": "In several applications there is the need of visualizing a graph whose structure evolves over time. A few examples: in the networking field it is often necessary to show how the flow of packets changes according to network modifications; in the Internet Domain Name System it is useful to study the evolution of the relationship between name servers sending queries and name servers answering such queries; and in Web crawling it is interesting to study, during the Web exploration, how the structure of the visited hyperlinks depends on the actual search strategy. From the point of view of the graph drawing field these animation requirements pose difficult challenges for at least three reasons. First, instead of constructing just one layout of one graph, graph animation requires to construct several layouts, depending on the duration of the animation. This poses nontrivial efficiency issues. Second, the user's mental map should be preserved. Hence, the graph layouts of consecutive steps cannot be too much different. Third, to help the user in easily perceiving the changes, morphing problems must be tackled. Namely, the same portion of the graph might be represented in two different ways in two different times of the animation. Hence, the problem arises of how to compute a smooth morphing between the two representations. I will survey experiences of graph animation at the Graph Drawing Lab of the Università Roma Tre both from the pragmatic and from the methodological points of view."
+    },
+    {
+        "title": "Visual task solution strategies in tree diagrams",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Michael Burch",
+            "Gennady Andrienko",
+            "Natalia Andrienko",
+            "Markus Höferlin",
+            "Michael Raschke",
+            "Daniel Weiskopf"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596142",
+        "citation": 42,
+        "abstract": "We investigate visual task solution strategies when exploring traditional, orthogonal, and radial node-link tree layouts, four orientations of the non-radial layouts, as well as varying difficulty of the task. The strategies are identified by examining eye movement data recorded in a controlled user study previously conducted by Burch et al. For detailed analysis of the spatio-temporal structures and patterns in the eye tracking data, we employ visual analytics techniques adopted from related methodology for geographic movement data by Andrienko et al. In this way, we complement the statistical analysis of task completion times and error rates reported by Burch et al. with spatio-temporal strategies that explain the variation in completion times. We identify differences between task solution strategies dependent on layout type, orientation, and task difficulty. Furthermore, we examine differences between groups of participants split according to completion time. Our analysis identifies that for all layouts it took nearly the same time to find the task solution node, but in the radial layout the solution was not confirmed directly. Instead, a more frequent cross-checking occurs afterwards, which is the main reason for the impaired performance of radial layouts."
+    },
+    {
+        "title": "Exploring vector fields with distribution-based streamline analysis",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Kewei Lu",
+            "Abon Chaudhuri",
+            "Teng-Yok Lee",
+            "Han-Wei Shen",
+            "Pak Chung Wong"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596153",
+        "citation": 28,
+        "abstract": "Streamline-based techniques are designed based on the idea that properties of streamlines are indicative of features in the underlying field. In this paper, we show that statistical distributions of measurements along the trajectory of a streamline can be used as a robust and effective descriptor to measure the similarity between streamlines. With the distribution-based approach, we present a framework for interactive exploration of 3D vector fields with streamline query and clustering. Streamline queries allow us to rapidly identify streamlines that share similar geometric features to the target streamline. Streamline clustering allows us to group together streamlines of similar shapes. Based on user's selection, different clusters with different features at different levels of detail can be visualized to highlight features in 3D flow fields. We demonstrate the utility of our framework with simulation data sets of varying nature and size."
+    },
+    {
+        "title": "Visual analysis of uncertainties in ocean forecasts for planning and operation of off-shore structures",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Thomas Höllt",
+            "Ahmed Magdy",
+            "Guoning Chen",
+            "Ganesh Gopalakrishnan",
+            "Ibrahim Hoteit",
+            "Charles D. Hansen",
+            "Markus Hadwiger"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596144",
+        "citation": 23,
+        "abstract": "We present a novel integrated visualization system that enables interactive visual analysis of ensemble simulations used in ocean forecasting, i.e, simulations of sea surface elevation. Our system enables the interactive planning of both the placement and operation of off-shore structures. We illustrate this using a real-world simulation of the Gulf of Mexico. Off-shore structures, such as those used for oil exploration, are vulnerable to hazards caused by strong loop currents. The oil and gas industry therefore relies on accurate ocean forecasting systems for planning their operations. Nowadays, these forecasts are based on multiple spatio-temporal simulations resulting in multidimensional, multivariate and multivalued data, so-called ensemble data. Changes in sea surface elevation are a good indicator for the movement of loop current eddies, and our visualization approach enables their interactive exploration and analysis. We enable analysis of the spatial domain, for planning the placement of structures, as well as detailed exploration of the temporal evolution at any chosen position, for the prediction of critical ocean states that require the shutdown of rig operations."
+    },
+    {
+        "title": "Self-organizing maps for multi-objective pareto frontiers",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Shahar Chen",
+            "David Amid",
+            "Ofer M. Shir",
+            "Lior Limonad",
+            "David Boaz",
+            "Ateret Anaby-Tavor",
+            "Tobias Schreck"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596140",
+        "citation": 22,
+        "abstract": "Decision makers often need to take into account multiple conflicting objectives when selecting a solution for their problem. This can result in a potentially large number of candidate solutions to be considered. Visualizing a Pareto Frontier, the optimal set of solutions to a multi-objective problem, is considered a difficult task when the problem at hand spans more than three objective functions. We introduce a novel visual-interactive approach to facilitate coping with multi-objective problems. We propose a characterization of the Pareto Frontier data and the tasks decision makers face as they reach their decisions. Following a comprehensive analysis of the design alternatives, we show how a semantically-enhanced Self-Organizing Map, can be utilized to meet the identified tasks. We argue that our newly proposed design provides both consistent orientation of the 2D mapping as well as an appropriate visual representation of individual solutions. We then demonstrate its applicability with two real-world multi-objective case studies. We conclude with a preliminary empirical evaluation and a qualitative usefulness assessment."
+    },
+    {
+        "title": "On the faithfulness of graph visualizations",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Quan Nguyen",
+            "Peter Eades",
+            "Seok-Hee Hong"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596147",
+        "citation": 20,
+        "abstract": "Readability criteria have been commonly used to measure the quality of graph visualizations. In this paper we argue that readability criteria, while necessary, are not sufficient. We propose a new kind of criterion, generically termed faithfulness, for evaluating graph layout methods. We propose a general model for quantifying faithfulness, and contrast it with the well established readability criteria. We use examples of multidimensional scaling, edge bundling and several other visualization metaphors (including matrix-based and map-based visualizations) to illustrate faithfulness."
+    },
+    {
+        "title": "Smooth bundling of large streaming and sequence graphs",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "C. Hurter",
+            "O. Ersoy",
+            "A. Telea"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596126",
+        "citation": 19,
+        "abstract": "Dynamic graphs are increasingly pervasive in modern information systems. However, understanding how a graph changes in time is difficult. We present here two techniques for simplified visualization of dynamic graphs using edge bundles. The first technique uses a recent image-based graph bundling method to create smoothly changing bundles from streaming graphs. The second technique incorporates additional edge-correspondence data and is thereby suited to visualize discrete graph sequences. We illustrate our methods with examples from real-world large dynamic graph datasets."
+    },
+    {
+        "title": "Illustrative visualization of cardiac and aortic blood flow from 4D MRI data",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Silvia Born",
+            "Michael Markl",
+            "Matthias Gutberlet",
+            "Gerik Scheuermann"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596137",
+        "citation": 17,
+        "abstract": "In the last years, illustrative methods have found their way into flow visualization since they communicate difficult information in a comprehensible way. This is of great benefit especially in domains where the audience does not necessarily have flow expertise. One such domain is the medical field where the development of 4D MR imaging (for in-vivo 3D blood flow measurement) lead to an increased demand for easy flow analysis techniques. The goal and the challenge is to transfer the data into simple visualizations supporting the physician with flow interpretation and decision making. In this work, we take one step towards this goal. We present an approach for the illustrative visualization of steady flow features occurring in 4D MRI data of heart and aorta. Like shown in manually created illustrations, we restrict our visualization to the main data characteristics and do not depict every flow detail. The input for our method are flow features extracted from a dataset's complete set of streamlines with the help of line predicates. We create an abstract depiction of these line bundles by selecting a set of bundle representatives reflecting the most important flow aspects. These lines are rendered as three-dimensional arrows that are fused in areas where they represent the same flow. Since vortices are another important flow information for a physician, we identify these regions in the 4D MRI data and display them as unobtrusive, tube-like structures. A hatching texture provides for a visual effect of rotational blood flow. By applying our illustration technique to diverse flow structures of several 4D MRI datasets, we demonstrate that the abstract visualization is useful to gain an easier insight into the data. Feedback of medical experts confirmed the usefulness and revealed limitations of our work. The images are restricted to the essential flow features and, therefore, clearer and less cluttered. Our method has great potential and offers many possible applications, e.g., in comparative visualization and also beyond the medical domain."
+    },
+    {
+        "title": "Visual summaries for graph collections",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "David Koop",
+            "Juliana Freire",
+            "Cláudio T. Silva"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596128",
+        "citation": 17,
+        "abstract": "Graphs can be used to represent a variety of information, from molecular structures to biological pathways to computational workflows. With a growing volume of data represented as graphs, the problem of understanding and analyzing the variations in a collection of graphs is of increasing importance. We present an algorithm to compute a single summary graph that efficiently encodes an entire collection of graphs by finding and merging similar nodes and edges. Instead of only merging nodes and edges that are exactly the same, we use domain-specific comparison functions to collapse similar nodes and edges which allows us to generate more compact representations of the collection. In addition, we have developed methods that allow users to interactively control the display of these summary graphs. These interactions include the ability to highlight individual graphs in the summary, control the succinctness of the summary, and explicitly define when specific nodes should or should not be merged. We show that our approach to generating and interacting with graph summaries leads to a better understanding of a graph collection by allowing users to more easily identify common substructures and key differences between graphs."
+    },
+    {
+        "title": "Transfer function design based on user selected samples for intuitive multivariate volume exploration",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Liang Zhou",
+            "Charles Hansen"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596130",
+        "citation": 16,
+        "abstract": "Multivariate volumetric datasets are important to both science and medicine. We propose a transfer function (TF) design approach based on user selected samples in the spatial domain to make multivariate volumetric data visualization more accessible for domain users. Specifically, the user starts the visualization by probing features of interest on slices and the data values are instantly queried by user selection. The queried sample values are then used to automatically and robustly generate high dimensional transfer functions (HDTFs) via kernel density estimation (KDE). Alternatively, 2D Gaussian TFs can be automatically generated in the dimensionality reduced space using these samples. With the extracted features rendered in the volume rendering view, the user can further refine these features using segmentation brushes. Interactivity is achieved in our system and different views are tightly linked. Use cases show that our system has been successfully applied for simulation and complicated seismic data sets."
+    },
+    {
+        "title": "Joint Contour Nets: Computation and properties",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Hamish Carr",
+            "David Duke"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596141",
+        "citation": 15,
+        "abstract": "Contour trees and Reeb graphs are firmly embedded in scientific visualization for analysing univariate (scalar) fields. We generalize this analysis to multivariate fields with a data structure called the Joint Contour Net that quantizes the variation of multiple variables simultaneously. We report the first algorithm for constructing the Joint Contour Net and demonstrate that Contour Trees for individual variables can be extracted from the Joint Contour Net."
+    },
+    {
+        "title": "FlowGraph: A compound hierarchical graph for flow field exploration",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Jun Ma",
+            "Chaoli Wang",
+            "Ching-Kuang Shene"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596150",
+        "citation": 14,
+        "abstract": "Visual exploration of large and complex 3D flow fields is critically important for understanding many aero- and hydro-dynamical systems that dominate various physical and natural phenomena in the world. In this paper, we introduce the FlowGraph, a novel compound graph representation that organizes streamline clusters and spatial regions hierarchically for occlusion-free and controllable visual exploration. Our approach works with any seeding strategies as long as the domain is well covered and important flow features are captured. By transforming a flow field to a graph representation, we enable observation and exploration of the relationships among streamline clusters, spatial regions and their interconnection in the transformed space. The FlowGraph not only provides a visual mapping that abstracts streamline clusters and spatial regions in various levels of detail, but also serves as a navigation tool that guides flow field exploration and understanding. Through brushing and linking in conjunction with the spatial streamline view, we demonstrate the effectiveness of FlowGraph with several visual exploration and comparison tasks that can not be well accomplished using the streamline view alone. As occlusion and clutter are almost ubiquitous in 3D flows, the FlowGraph represents a promising direction for enhancing our ability to understand large and complex flow field data."
+    },
+    {
+        "title": "Reordering Massive Sequence Views: Enabling temporal and structural analysis of dynamic networks",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Stef van den Elzen",
+            "Danny Holten",
+            "Jorik Blaas",
+            "Jarke J. van Wijk"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596125",
+        "citation": 14,
+        "abstract": "Networks are present in many fields such as finance, sociology, and transportation. Often these networks are dynamic: they have a structural as well as a temporal aspect. We present a technique that extends the Massive Sequence View (MSV) for the analysis of the temporal and structural aspects of dynamic networks. Using features in the data as well as in the visualization based on the Gestalt principles closure, proximity, and similarity, we developed node reordering strategies for the MSV to make these features stand out. This enables users to find temporal properties such as trends, counter trends, periodicity, temporal shifts, and anomalies in the network as well as structural properties such as communities and stars. We show the effectiveness of the reordering methods on both synthetic and real-world transaction data sets."
+    },
+    {
+        "title": "Local WYSIWYG volume visualization",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Hanqi Guo",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596129",
+        "citation": 14,
+        "abstract": "In this paper, we propose a novel volume visualization system enabling local transfer function specification through direct painting or sketching on the rendered image, in a WYSIWYG style. Localized transfer functions are defined on scalar topology regions specified by the user. Intelligent and fast feature inference algorithms have been developed to convert user's input to the region specification and to achieve desirable feature styles with the local transfer functions. In our system, users can not only manipulate the color appearance of the object volume, but also apply style transfer and generate various illustration styles with a unified input gesture. Without manual transfer function editing and without parameter specification, our system is capable of generating informative illustrations that intuitively highlight user specified local features."
+    },
+    {
+        "title": "iTree: Exploring time-varying data using indexable tree",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Yi Gu",
+            "Chaoli Wang"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596138",
+        "citation": 10,
+        "abstract": "Significant advances have been made in time-varying data analysis and visualization, mainly in improving our ability to identify temporal trends and classify the underlying data. However, the ability to perform cost-effective data querying and indexing is often not incorporated, which posts a serious limitation as the size of time-varying data continue to grow. In this paper, we present a new approach that unifies data compacting, indexing and classification into a single framework. We achieve this by transforming the time-activity curve representation of a time-varying data set into a hierarchical symbolic representation. We further build an indexable version of the data hierarchy, from which we create the iTree for visual representation of the time-varying data. A hyperbolic layout algorithm is employed to draw the iTree with a large number of nodes and provide focus+context visualization for interaction. We achieve effective querying, searching and tracking of time-varying data sets by enabling multiple coordinated views consisting of the iTree, the symbolic view and the spatial view."
+    },
+    {
+        "title": "Circular-arc cartograms",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Jan-Hinrich Kämper",
+            "Stephen G. Kobourov",
+            "Martin Nöllenburg"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596121",
+        "citation": 10,
+        "abstract": "We present a new circular-arc cartogram model in which countries are drawn as polygons with circular arcs instead of straight-line segments. Given a political map and values associated with each country in the map, a cartogram is a distorted map in which the areas of the countries are proportional to the corresponding values. In the circular-arc cartogram model straight-line segments can be replaced by circular arcs in order to modify the areas of the polygons, while the corners of the polygons remain fixed. The countries in circular-arc cartograms have the aesthetically pleasing appearance of clouds or snowflakes, depending on whether their edges are bent outwards or inwards. This makes it easy to determine whether a country has grown or shrunk, just by its overall shape. We show that determining whether a given map and given area-values can be realized as a circular-arc cartogram is an NP-hard problem. Next we describe a heuristic method for constructing circular-arc cartograms, which uses a max-flow computation on the dual graph of the map, along with a computation of the straight skeleton of the underlying polygonal decomposition. Our method is implemented and produces cartograms that, while not yet perfectly accurate, achieve many of the desired areas in our real-world examples."
+    },
+    {
+        "title": "Constrained optimization for disoccluding geographic landmarks in 3D urban maps",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Daichi Hirono",
+            "Hsiang-Yun Wu",
+            "Masatoshi Arikawa",
+            "Shigeo Takahashi"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596123",
+        "citation": 10,
+        "abstract": "In composing hand-drawn 3D urban maps, the most common design problem is to avoid overlaps between geographic features such as roads and buildings by displacing them consistently over the map domain. Nonetheless, automating this map design process is still a challenging task because we have to maximally retain the 3D depth perception inherent in pairs of parallel lines embedded in the original layout of such geographic features. This paper presents a novel approach to disoccluding important geographic features when creating 3D urban maps for enhancing their visual readability. This is accomplished by formulating the design criteria as a constrained optimization problem based on the linear programming approach. Our mathematical formulation allows us to systematically eliminate occlusions of landmark roads and buildings, and further controls the degree of local 3D map deformation by devising an objective function to be minimized. Various design examples together with a user study are presented to demonstrate the robustness and feasibility of the proposed approach."
+    },
+    {
+        "title": "Evaluation of Depth of Field for depth perception in DVR",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "A.V.Pascal Grosset",
+            "Mathias Schott",
+            "Georges-Pierre Bonneau",
+            "Charles D. Hansen"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596131",
+        "citation": 9,
+        "abstract": "In this paper we present a user study on the use of Depth of Field for depth perception in Direct Volume Rendering. Direct Volume Rendering with Phong shading and perspective projection is used as the baseline. Depth of Field is then added to see its impact on the correct perception of ordinal depth. Accuracy and response time are used as the metrics to evaluate the usefulness of Depth of Field. The onsite user study has two parts: static and dynamic. Eye tracking is used to monitor the gaze of the subjects. From our results we see that though Depth of Field does not act as a proper depth cue in all conditions, it can be used to reinforce the perception of which feature is in front of the other. The best results (high accuracy & fast response time) for correct perception of ordinal depth occurs when the front feature (out of the two features users were to choose from) is in focus and perspective projection is used."
+    },
+    {
+        "title": "A generative layout approach for rooted tree drawings",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Hans-Jörg Schulz",
+            "Zabedul Akbar",
+            "Frank Maurer"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596149",
+        "citation": 9,
+        "abstract": "In response to the large number of existing tree layouts, generic “meta-layouts” have recently been proposed. These generic approaches utilize layout design spaces to pinpoint a tree drawing with desired characteristics in the wealth of available drawing options and parameters. While design-space-based generic layouts work well for the confined set of implicit space-filling tree layouts, they have so far eluded their extension to explicit node-link diagrams. In order to produce both, implicit and explicit tree layouts, this paper parts with the descriptive nature of the design spaces and instead takes a generative approach based on operators. As these operators can be combined into operator sequences and be used at different stages of the layout process, a small operator set already suffices to yield a large number of different tree layouts. To this end, we present a generic tree layout pipeline and give examples of suitable layout operators to plug into the pipeline. A prototypical implementation of our pipeline and operators is presented, and it is illustrated with space-filling and node-link examples. Furthermore, the paper presents results from a user study evaluating our generative approach as it is realized by the prototype."
+    },
+    {
+        "title": "Visualization of piecewise linear interface calculation",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Grzegorz K. Karch",
+            "Filip Sadlo",
+            "Christian Meister",
+            "Philipp Rauschenberger",
+            "Kathrin Eisenschmidt",
+            "Bernhard Weigand",
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596136",
+        "citation": 8,
+        "abstract": "Piecewise linear interface calculation (PLIC) is one of the most widely employed reconstruction schemes for the simulation of multiphase flow. In this visualization paper we focus on the reconstruction from the simulation point of view, i.e., we present a framework for the analysis of this reconstruction scheme together with its implications on the overall simulation. By interpreting PLIC reconstruction as an isosurface extraction problem from the first-order Taylor approximation of the underlying volume of fluid field, we obtain a framework for error analysis and geometric representation of the reconstruction including the fluxes involved in the simulation. At the same time this generalizes PLIC to higher-order approximation. We exemplify the utility and versatility of our visualization approach on several multiphase CFD examples."
+    },
+    {
+        "title": "GraphCharter: Combining browsing with query to explore large semantic graphs",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Ying Tu",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596127",
+        "citation": 6,
+        "abstract": "Large scale semantic graphs such as social networks and knowledge graphs contain rich and useful information. However, due to combined challenges in scale, density, and heterogeneity, it is impractical for users to answer many interesting questions by visual inspection alone. This is because even a semantically simple question, such as which of my extended friends are also fans of my favorite band, can in fact require information from a non-trivial number of nodes to answer. In this paper, we propose a method that combines graph browsing with query to overcome the limitation of visual inspection. By using query as the main way for information discovery in graph exploration, our “query, expand, and query again” model enables users to probe beyond the visible part of the graph and only bring in the interesting nodes, leaving the view clutter-free. We have implemented a prototype called GraphCharter and demonstrated its effectiveness and usability in a case study and a user study on Freebase knowledge graph with millions of nodes and edges."
+    },
+    {
+        "title": "Improved grid map layout by point set matching",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "David Eppstein",
+            "Marc van Kreveld",
+            "Bettina Speckmann",
+            "Frank Staals"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596124",
+        "citation": 6,
+        "abstract": "Associating the regions of a geographic subdivision with the cells of a grid is a basic operation that is used in various types of maps, like spatially ordered treemaps and OD maps. In these cases the regular shapes of the grid cells allows easy representation of extra information about the regions. The main challenge is to find an association that allows a user to find a region in the grid quickly. We call the representation of a set of regions as a grid a grid map."
+    },
+    {
+        "title": "Visualizing edge-edge relations in graphs",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Corinna Vehlow",
+            "Jan Hasenauer",
+            "Fabian J. Theis",
+            "Daniel Weiskopf"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596146",
+        "citation": 5,
+        "abstract": "Graphs are used to model relations between sets of objects. Objects are represented by vertices and relations by edges of the graph. Besides vertex-vertex relations, in some application domains also relations between edges exist. Our new visualization approach supports the investigation of both relation types in one diagram. Edge-edge relations are visualized as curves that are directly integrated into the node-link diagram that represents the object-relation structure. In contrast, vertex-vertex relations are illustrated distinguishably from edge-edge relations using straight links as representations. While the shape of links is used to differentiate between the relation types, the weights of the edge-edge relations are mapped to the width and color of the curves. To facilitate an extensive analysis of interrelations, our approach incorporates several interaction techniques that can be used for filtering and highlighting. The usability of our visualization is demonstrated with two case studies in the application domains of bioinformatics and financial services."
+    },
+    {
+        "title": "Automatic, tensor-guided illustrative vector field visualization",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Cornelia Auer",
+            "Jens Kasten",
+            "Andrea Kratz",
+            "Eugene Zhang",
+            "Ingrid Hotz"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596154",
+        "citation": 5,
+        "abstract": "This paper proposes a vector field visualization, which mimics a sketch-like representation. The visualization combines two major perspectives: Large scale trends based on a strongly simplified field as background visualization and a local visualization highlighting strongly expressed features at their exact position. Each component considers the vector field itself and its spatial derivatives. The derivate is an asymmetric tensor field, which allows the deduction of scalar quantities reflecting distinctive field properties like strength of rotation or shear. The basis of the background visualization is a vector and scalar clustering approach. The local features are defined as the extrema of the respective scalar fields. Applying scalar field topology provides a profound mathematical basis for the feature extraction. All design decisions are guided by the goal of generating a simple to read visualization. To demonstrate the effectiveness of our approach, we show results for three different data sets with different complexity and characteristics."
+    },
+    {
+        "title": "Exploring entities in text with descriptive non-photorealistic rendering",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Meng-Wei Chang",
+            "Christopher Collins"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596122",
+        "citation": 5,
+        "abstract": "We present a novel approach to text visualization called descriptive non-photorealistic rendering which exploits the inherent spatial and abstract dimensions in text documents to integrate 3D non-photorealistic rendering with information visualization. The visualization encodes text data onto 3D models, emphasizing the relative significance of words in the text and the physical, real-world relationships between those words. Analytic exploration is supported through a collection of interactive widgets and direct multitouch interaction with the 3D models. We applied our method to analyze a collection of vehicle complaint reports from the National Highway Traffic Safety Administration (NHTSA), and through a qualitative study, we demonstrate how our system can support tasks such as comparing the reliability of different models, finding interesting facts, and revealing possible causal relations between car parts."
+    },
+    {
+        "title": "Transformations for volumetric range distribution queries",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Steven Martin",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596132",
+        "citation": 5,
+        "abstract": "Volumetric datasets continue to grow in size, and there is continued demand for interactive analysis on these datasets. Because storage device throughputs are not increasing as quickly, interactive analysis workflows are becoming working set-constrained. In an ideal workflow, the working set complexity of the interactive analysis portion of the workflow should depend primarily on the size of the analysis result being produced, rather than on the size of the data being analyzed. Past works in online analytical processing and visualization have addressed this problem within application-specific contexts, but have not generalized their solutions to a wider variety of visualization applications. We propose a general framework for reducing the working set complexity of the interactive portion of visualization workflows that can be built on top of distribution range queries, as well as a technique within this framework able to support multiple visualization applications. Transformations are applied in the preprocessing phase of the workflow to enable fast, approximate volumetric distribution range queries with low working set complexity. Interactive application algorithms are then adapted to make use of these distribution range queries, enabling efficient interactive workflows on large-scale data. We show that the proposed technique enables these applications to be scaled primarily in terms of the application result dataset size, rather than the input data size, enabling increased interactivity and scalability."
+    },
+    {
+        "title": "Guiding Deep Brain Stimulation interventions by fusing multimodal uncertainty regions",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Alexander Bock",
+            "Norbert Lang",
+            "Gianpaolo Evangelista",
+            "Ralph Lehrke",
+            "Timo Ropinski"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596133",
+        "citation": 4,
+        "abstract": "Deep Brain Stimulation (DBS) is a surgical intervention that is known to reduce or eliminate the symptoms of common movement disorders, such as Parkinson's disease, dystonia, or tremor. During the intervention the surgeon places electrodes inside of the patient's brain to stimulate specific regions. Since these regions span only a couple of millimeters, and electrode misplacement has severe consequences, reliable and accurate navigation is of great importance. Usually the surgeon relies on fused CT and MRI data sets, as well as direct feedback from the patient. More recently Microelectrode Recordings (MER), which support navigation by measuring the electric field of the patient's brain, are also used. We propose a visualization system that fuses the different modalities: imaging data, MER and patient checks, as well as the related uncertainties, in an intuitive way to present placement-related information in a consistent view with the goal of supporting the surgeon in the final placement of the stimulating electrode. We will describe the design considerations for our system, the technical realization, present the outcome of the proposed system, and provide an evaluation."
+    },
+    {
+        "title": "FlexGD: A flexible force-directed model for graph drawing",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Anne-Marie Kermarrec",
+            "Afshin Moin"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596148",
+        "citation": 3,
+        "abstract": "We propose FlexGD, a force-directed algorithm for straightline undirected graph drawing. The algorithm strives to draw graph layouts encompassing from uniform vertex distribution to extreme structure abstraction. It is flexible for it is parameterized so that the emphasis can be put on either of the two drawing criteria. The parameter determines how much the edges are shorter than the average distance between vertices. Extending the clustering property of the LinLog model, FlexGD is efficient for cluster visualization in an adjustable level. The energy function of FlexGD is minimized through a multilevel approach, particularly designed to work in contexts where edge length distribution is not uniform. Applying FlexGD on several real datasets, we illustrate both the good quality of the layout on various topologies, and the ability of the algorithm to meet the addressed drawing criteria."
+    },
+    {
+        "title": "A visual analytics approach to exploring protein flexibility subspaces",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Scott Barlowe",
+            "Jing Yang",
+            "Donald J. Jacobs",
+            "Dennis R. Livesay",
+            "Jamal Alsakran",
+            "Ye Zhao",
+            "Deeptak Verma",
+            "James Mottonen"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596145",
+        "citation": 3,
+        "abstract": "Understanding what causes proteins to change shape and how the resulting shape influences function will expedite the design of more narrowly focused drugs and therapies. Shape alterations are often the result of flexibility changes in a set of localized neighborhoods that may or may not act in concert. Computational models have been developed to predict flexibility changes under varying empirical parameters. In this paper, we tackle a significant challenge facing scientists when analyzing outputs of a computational model, namely how to identify, examine, compare, and group interesting neighborhoods of proteins under different parameter sets. This is a difficult task since comparisons over protein subunits that comprise diverse neighborhoods are often too complex to characterize with a simple metric and too numerous to analyze manually. Here, we present a series of novel visual analytics approaches toward addressing this task. User scenarios illustrate the utility of these approaches and feedback from domain experts confirms their effectiveness."
+    },
+    {
+        "title": "Poisson-based tools for flow visualization",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Janick Martinez Esturo",
+            "Maik Schulze",
+            "Christian Röss",
+            "Holger Theisel"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596151",
+        "citation": 3,
+        "abstract": "This paper applies Poisson-based methods to assist in interactive exploration of steady flow fields. Using data-driven deformations we obtain flow-orthogonal and flow-tangential surfaces by a flux-based optimization. Surfaces are positioned interactively and deformed in real-time according to local flow. The deformed surfaces are particularly useful for defining seed structures. We show how the same gradient-based computational framework can be applied to obtain parametrizations of flow-aligned surfaces. This way it is easy to define nontrivial seed structures for integration-based flow visualization methods. Additionally, the flow-aligned parametrizations are employed for view-independent surface-based LIC visualizations. We apply our method to a number of data sets to show the effectiveness of our deformations and parametrization-based seed extraction methods for interactive flow exploration."
+    },
+    {
+        "title": "Interactive selection of multivariate features in large spatiotemporal data",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Jingyuan Wang",
+            "Robert Sisneros",
+            "Jian Huang"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596139",
+        "citation": 2,
+        "abstract": "Selecting meaningful features is central in the analysis of scientific data. Today's multivariate scientific datasets are often large and complex making it difficult to define general features of interest significant to scientific applications. To address this problem, we propose three general, spatiotemporal metrics to quantify the significant properties of data features-concentration, continuity and co-occurrence, named collectively as CO3. We implemented an interactive visualization system to investigate complex multivariate time-varying data from satellite remote sensing with great spatial resolutions, as well as from real-time continental-scale power grid monitoring with great temporal resolutions. The system integrates CO3 metrics with an elegant multi-space user interaction tool to provide various forms of quantitative user feedback. Through these, the system supports an iterative user-driven analysis process. Our findings demonstrate that the CO3 metrics are useful for simplifying the problem space and revealing potential unknown possibilities of scientific discoveries by assisting users to effectively select significant features and groups of features for visualization and analysis. Users can then comprehend the problem better and design future studies using newly discovered scientific hypotheses."
+    },
+    {
+        "title": "Visualizing linear neighborhoods in non-linear vector fields",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Stefan Koch",
+            "Alexander Wiebel",
+            "Jens Kasten",
+            "Mario Hlawitschka"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596152",
+        "citation": 1,
+        "abstract": "Linear approximation plays an important role in many areas employing numerical algorithms. Particularly in the field of vector field visualization, it is the basis of widely used techniques. In this paper, we introduce two methods to extract areas in two- and three-dimensional vector fields that are connected to linear flow behavior. We propose a region-growing algorithm that extracts the linear neighborhood for a certain position. The region is characterized by linear flow behavior up to a user-defined approximation threshold. While this first method computes the size of a region given the mentioned threshold, our second method computes the quality of a linear approximation given a user-defined n-ring neighborhood. The scalar field resulting from the second method is, therefore, called affine linear approximation error. Isosurfaces of this field show regions of close-to-linear and non-linear flow behavior. We demonstrate the expressiveness and discuss the properties of the extracted regions using analytical examples and several datasets from the domain of computational fluid dynamics (CFD)."
+    },
+    {
+        "title": "A topologically-enhanced juxtaposition tool for hybrid wind tunnel",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Yuriko Takeshima",
+            "Issei Fujishiro",
+            "Shigeo Takahashi",
+            "Toshiyuki Hayase"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596135",
+        "citation": 1,
+        "abstract": "We have developed a hybrid wind tunnel, where 2D measurement-integrated (MI) simulation, which utilizes actual data acquired from real air flow behind a square cylinder, plays an important role in improving the accuracy of the numerical analysis. The wind tunnel requires an accompanying visual analysis tool with which we can effectively peer into the relationships between the actual and simulated flow fields. In this paper, we attempt to exploit an augmented reality display to that end. The basic idea is to superimpose the computationally-visualized MI simulated pressure field onto the actual flow velocity structure physically-visualized with oil misttraced streaklines instantaneously. Spatial registration of these two visual sources is rather straight-forward since the fixed cylinder of the wind tunnel is easily identified, whereas visualizing the MI simulated pressure field can be characterized with a sophisticated scheme based on differential topology. Considering the fact that vortex centers are located at local minima in the pressure field, and each minimum is surrounded by a derived topological feature called ridge cycle, we can colorize the field adaptively and keep track of Karman vortex streets robustly, regardless of drastic change in the Reynolds number of the flow field."
+    },
+    {
+        "title": "Exploring agent-based simulations in political science using Aggregate Temporal Graphs",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "R. Jordan Crouser",
+            "Jeremy G. Freeman",
+            "Andrew Winslow",
+            "Remco Chang"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596143",
+        "citation": 1,
+        "abstract": "Agent-based simulation has become a key technique for modeling and simulating dynamic, complicated behaviors in social and behavioral sciences. As these simulations become more complex, they generate an increasingly large amount of data. Lacking the appropriate tools and support, it has become difficult for social scientists to interpret and analyze the results of these simulations. In this paper, we introduce the Aggregate Temporal Graph (ATG), a graph formulation that can be used to capture complex relationships between discrete simulation states in time. Using this formulation, we can assist social scientists in identifying critical simulation states by examining graph substructures. In particular, we define the concept of a Gateway and its inverse, a Terminal, which capture the relationships between pivotal states in the simulation and their inevitable outcomes. We propose two real-time computable algorithms to identify these relationships and provide a proof of correctness, complexity analysis, and empirical run-time analysis. We demonstrate the use of these algorithms on a large-scale social science simulation of political power and violence in present-day Thailand, and discuss broader applications of the ATG and associated algorithms in other domains such as analytic provenance."
+    },
+    {
+        "title": "Discovering and visualizing patterns in EEG data",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Erik W. Anderson",
+            "Catherine Chong",
+            "Gilbert A. Preston",
+            "Cláudio T. Silva"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596134",
+        "citation": 1,
+        "abstract": "Brain activity data is often collected through the use of electroencephalography (EEG). In this data acquisition modality, the electric fields generated by neurons are measured at the scalp. Although this technology is capable of measuring activity from a group of neurons, recent efforts provide evidence that these small neuronal collections communicate with other, distant assemblies in the brain's cortex. These collaborative neural assemblies are often found by examining the EEG record to find shared activity patterns. In this paper, we present a system that focuses on extracting and visualizing potential neural activity patterns directly from EEG data. Using our system, neuroscientists may investigate the spectral dynamics of signals generated by individual electrodes or groups of sensors. Additionally, users may interactively generate queries which are processed to reveal which areas of the brain may exhibit common activation patterns across time and frequency. The utility of this system is highlighted in a case study in which it is used to analyze EEG data collected during a working memory experiment."
+    },
+    {
+        "title": "IEEE visualization and graphics technical committee (VGTC)",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2013.6596115",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "Message from the Program Chairs",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [
+            "Sheelagh Carpendale",
+            "Wei Chen",
+            "Seokhee Hong"
+        ],
+        "DOI": "10.1109/PacificVis.2013.6596114",
+        "citation": 0,
+        "abstract": "Welcome to the proceedings of the Pacific Visualization Symposium 2013 (PacificVis 2013), held in Sydney, Australia from February 26th to March 1st, 2013. PacificVis 2013 is the sixth in a series of successful events - Kyoto (2008), Beijing (2009), Taipei (2010), Hong Kong (2011), and Songdo (2012) - that have been sponsored by the IEEE Computer Society Visualization and Graphics Technical Committee (VGTC)."
+    },
+    {
+        "title": "Committee",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2013.6596116",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "[Title page]",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2013.6596111",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "Contents",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2013.6596113",
+        "citation": 0,
+        "abstract": "The following topics are dealt with: map visualization; text visualization; volume rendering; medicine visualization; natural sciences visualization; multivariate visualization; time-varying visualization; visual analytics; graph visualization; tree visualization; tensor fields visualization; and vector fields visualization."
+    },
+    {
+        "title": "Paper reviewers",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2013.6596117",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    },
+    {
+        "title": "[Blank page]",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2013.6596112",
+        "citation": 0,
+        "abstract": "This page or pages intentionally left blank."
+    },
+    {
+        "title": "[Blank page]",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2013.6596120",
+        "citation": 0,
+        "abstract": "This page or pages intentionally left blank."
+    },
+    {
+        "title": "Author index",
+        "conferenceTitle": "2013 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "27 Feb.-1 March 2013",
+        "authors": [],
+        "DOI": "10.1109/PacificVis.2013.6596155",
+        "citation": 0,
+        "abstract": "Presents an index of the authors whose articles are published in the conference proceedings record."
+    }
+]

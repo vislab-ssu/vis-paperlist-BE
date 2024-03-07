@@ -1,0 +1,647 @@
+[
+    {
+        "title": "CactusTree: A tree drawing approach for hierarchical edge bundling",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Tommy Dang",
+            "Angus Forbes"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031596",
+        "citation": 8,
+        "abstract": "This paper introduces CactusTree, a novel visualization technique for representing hierarchical datasets. We introduce details about the construction of CactusTrees and describe how they can be used to represent nested data and relationships between elements in the data. We explain how our design decisions were informed by tasks common to a range of scientific domains. A key contribution of this article is the introduction of descriptive features that can be used to characterize trees in terms of their structural and connective qualities."
+    },
+    {
+        "title": "DrugPathSeeker: Interactive UI for exploring drug-ADR relation via pathways",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Janu Verma",
+            "Heng Luo",
+            "Jianying Hu",
+            "Ping Zhang"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031602",
+        "citation": 5,
+        "abstract": "Biological interpretation and understanding of machine learning based predictive models are highly desirable in healthcare analytics. Predicting Adverse Drug Reactions (ADRs) is extremely important for safe and precision medicine. There are various machine learning based approaches to predict adverse reactions for drugs. These models, though effective, lack biological interpretation and are treated as black-boxes. We propose DrugPathSeeker, a novel interactive user interface that integrates the machine learning model, database query API, statistical analysis, and visualization for exploring and understanding of the association between drugs and ADRs. The proposed UI can take a query drug, and provide a visual interface designed to support exploration of the predictions from the machine learning model for further understanding and interpretation. DrugPathSeeker uses a machine learning model, Small Molecular Risk Profiler, to make ADR predictions for a given drug. The visualization uses Sankey type flow diagrams for highlighting the relation between the drugs and ADRs. The main goal of Drug-PathSeeker is to mine the gene-pathways from public databases and analyze them in a visual manner to generate a biological hypothesis. DrugPathSeeker's effectiveness is demonstrated with two use cases: mechanisms of action for carbamazepine-induced dystonia, and fluorometholone-induced diabetes mellitus."
+    },
+    {
+        "title": "dNNG: Quality metrics and layout for neighbourhood faithfulness",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Quan Hoang Nguyen",
+            "Seok-Hee Hong",
+            "Peter Eades"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031607",
+        "citation": 5,
+        "abstract": "This paper introduces a new kind of geometric graph, called the degree-sensitive neighbourhood graph (dNNG), for a more precise modelling of neighbourhoods. Based on dNNG, we define better shape-based metrics and then propose a neighbourhood-driven force-directed algorithm, called NEFO, for neighbourhood faithfulness. Our evaluation on both real-world and randomly generated graphs shows that the dNNG gives more effective shape-based measures when compared to existing geometric graphs. The NEFO algorithm is shown to be effective for improving neighbourhood faithfulness of graph drawings."
+    },
+    {
+        "title": "Efficient GPU-accelerated computation of isosurface similarity maps",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Martin Imre",
+            "Jun Tao",
+            "Chaoli Wang"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031592",
+        "citation": 4,
+        "abstract": "We present an efficient GPU-based solution to compute isosurface similarity maps for scientific volume data sets. Our approach first replaces exact isosurface extraction with a binary volume indicating whether each voxel intersects the surface or not. We then employ bounding volume hierarchy (BVH)-trees to speed up the distance field computation. Finally, a self-similarity map is generated from which we identify representative isosurfaces. We apply our approach to compute isosurface similarity maps from different volume data sets of varying sizes and characteristics. The results demonstrate significant speed gain with acceptable loss of accuracy, showing the potential of our solution for handling large-scale time-varying multivariate data sets."
+    },
+    {
+        "title": "BioLinker: Bottom-up exploration of protein interaction networks",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Tommy Dang",
+            "Paul Murray",
+            "Angus Forbes"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031603",
+        "citation": 3,
+        "abstract": "Systems biologists and cancer researchers require interactive visualization tools that enable them to more easily navigate and discover patterns at different levels of the biological hierarchy of signaling pathways. Furthermore, biologists are often interested in understanding and exploring the causal biochemical links between processes. When exploring the literature of particular biological pathways or specific proteins within those pathways, biologists find it useful to know the contexts in which biochemical links are active and, importantly, to be aware of potential conflicts when different experiments introduce alternative interpretations of the function of a pathway or biochemical reaction. We introduce BioLinker, a interactive visualization system that helps users to perform bottom-up exploration of complex protein interaction networks. Five interconnected views provide the user with a range of ways to explore pathway data, including views that show potential conflicts within pathway databases and publications and that highlight contextual information about individual proteins. Additionally, we discuss system details to show how our system manages the large amount of protein interactions extracted from the literature of biological pathways."
+    },
+    {
+        "title": "Quasi-biclique edge concentration: A visual analytics method for biclustering",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Yosuke Onoue",
+            "Koji Koyamada"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031597",
+        "citation": 2,
+        "abstract": "Biclustering is a well-known approach for data mining, and it is applied in many fields, such as genome analyses, security services, and social network analyses. Biclustering finds bicliques contained in a bipartite graph. However, in real data, a biclique may lack several edges because of various reasons, such as errors. In this situation, traditional biclustering methods cannot find correct biclusters. A novel biclustering method that can analyze real data under uncertainty is needed. Quasi-biclique is a mathematical concept that represents incomplete bicliques. We propose the quasi-biclique edge concentration (QBEC) method, which is a visual analysis method for biclustering using quasi-biclique mining. QBEC includes visual representations and user interactions for quasi-bicliques. Quasi-bicliques contained in a bipartite graph are represented based on edge concentration. The incompleteness of a quasi-biclique is reflected in edge opacity. Users can interactively explore data by adjusting the incompleteness parameter of the quasi-biclique. We demonstrate the effectiveness of QBEC using real-world data."
+    },
+    {
+        "title": "Making many-to-many parallel coordinate plots scalable by asymmetric biclustering",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Hsiang-Yun Wu",
+            "Yusuke Niibe",
+            "Kazuho Watanabe",
+            "Shigeo Takahashi",
+            "Makoto Uemura",
+            "Issei Fujishiro"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031609",
+        "citation": 2,
+        "abstract": "Datasets obtained through recently advanced measurement techniques tend to possess a large number of dimensions. This leads to explosively increasing computation costs for analyzing such datasets, thus making formulation and verification of scientific hypotheses very difficult. Therefore, an efficient approach to identifying feature subspaces of target datasets, that is, the subspaces of dimension variables or subsets of the data samples, is required to describe the essence hidden in the original dataset. This paper proposes a visual data mining framework for supporting semiautomatic data analysis that builds upon asymmetric biclustering to explore highly correlated feature subspaces. For this purpose, a variant of parallel coordinate plots, many-to-many parallel coordinate plots, is extended to visually assist appropriate selections of feature subspaces as well as to avoid intrinsic visual clutter. In this framework, biclustering is applied to dimension variables and data samples of the dataset simultaneously and asymmetrically. A set of variable axes are projected to a single composite axis while data samples between two consecutive variable axes are bundled using polygonal strips. This makes the visualization method scalable and enables it to play a key role in the framework. The effectiveness of the proposed framework has been empirically proven, and it is remarkably useful for many-to-many parallel coordinate plots."
+    },
+    {
+        "title": "Interactive visualization of assembly instruction for stone tools restoration",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Xi Yang",
+            "Katsutsugu Matsuyama",
+            "Kouichi Konno"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031604",
+        "citation": 1,
+        "abstract": "3D exploded views have been widely used for assembly instructions in many fields but have seldom been used in archaeology. For studying stone tools, relics are repeatedly assembled using indistinct traditional illustrations. We apply this powerful presentation technique on the stone tool models, and study algorithms for point cloud data. In addition to presenting principles for the restoration of stone tools, we designed our system based on archaeological rules. In this paper, we propose an interactive visualization method of assembly instruction using 3D visualization technology to assist in the efficient restoration of stone tools."
+    },
+    {
+        "title": "Implicit Sphere Shadow Maps",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Michael Krone",
+            "Guido Reina",
+            "Sebastian Zahn",
+            "Tina Tremel",
+            "Carsten Bahnmüller",
+            "Thomas Ertl"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031605",
+        "citation": 1,
+        "abstract": "Particle data are commonly visualized by rendering a sphere for each particle. Since interactive rendering usually relies on fast local lighting, the spatial arrangement of the spheres is often very hard to perceive. That is, larger functional structures formed by the particles are not easily recognizable. Using global effects such as ambient occlusion or shadows adds important depth cues. In this work, we present Implicit Sphere Shadow Maps (ISSM), an application-tailored approach for large, dynamic particle data sets. This approach can be combined with state-of-the-art object-space ambient occlusion to further emphasize the spatial structure of molecules. We compare our technique against state-of-the-art methods for interactive rendering with respect to image quality and performance."
+    },
+    {
+        "title": "NetSet: A systematic integration of visualization for analyzing set intersections with network",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Heungseok Park",
+            "Hongjun Lim",
+            "Wonjae Lee",
+            "Kyungwon Lee"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031575",
+        "citation": 0,
+        "abstract": "Many researchers have been studied visualization techniques to represent relationships between sets. However, most recent studies focused on the scalability of visualizing set relations, rather than on set-typed data itself. Although solving such problems is important, understanding the structural context of the entire data is also essential for analyzing data. We propose NetSet, which combines two techniques to resolve the limitations in representing set relationships. First, we construct a network to provide a structural overview of the set system. Then, we place a matrix layout to visualize intersections among sets. Finally, by combining these two techniques, NetSet enables them to complement each other. The combination gives analysts both the overview and specific views of the data. Furthermore, NetSet provides both flexible exploration of a set system and quantitative analysis of set intersections. We conducted a case study to demonstrate how the combination can be successfully applied to real data, namely topic-talks data from the TED organization."
+    },
+    {
+        "title": "ChartAccent: Annotation for data-driven storytelling",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Donghao Ren",
+            "Matthew Brehmer",
+            "Bongshin Lee",
+            "Tobias Höllerer",
+            "Eun Kyoung Choe"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031599",
+        "citation": 60,
+        "abstract": "Annotation plays an important role in conveying key points in visual data-driven storytelling; it helps presenters explain and emphasize core messages and specific data. However, the visualization research community has a limited understanding of annotation and its role in data-driven storytelling, and existing charting software provides limited support for creating annotations. In this paper, we characterize a design space of chart annotations, one informed by a survey of 106 annotated charts published by six prominent news graphics desks. Using this design space, we designed and developed ChartAccent, a tool that allows people to quickly and easily augment charts via a palette of annotation interactions that generate manual and data-driven annotations. We also report on a study in which participants reproduced a series of annotated charts using ChartAccent, beginning with unadorned versions of the same charts. Finally, we discuss the lessons learned during the process of designing and evaluating ChartAccent, and suggest directions for future research."
+    },
+    {
+        "title": "Statistical visualization and analysis of large data using a value-based spatial distribution",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Ko-Chih Wang",
+            "Kewei Lu",
+            "Tzu-Hsuan Wei",
+            "Naeem Shareef",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031590",
+        "citation": 29,
+        "abstract": "The size of large-scale scientific datasets created from simulations and computed on modern supercomputers continues to grow at a fast pace. A daunting challenge is to analyze and visualize these intractable datasets on commodity hardware. A recent and promising area of research is to replace the dataset with a distribution based proxy representation that summarizes scalar information into a much reduced memory footprint. Proposed representations subdivide the dataset into local blocks, where each block holds important statistical information, such as a histogram. A key drawback is that a distribution representing the scalar values in a block lacks spatial information. This manifests itself as large errors in visualization algorithms. We present a novel statistically-based representation by augmenting the block-wise distribution based representation with location information, called a value-based spatial distribution. Information from both spatial and scalar spaces are combined using Bayes' rule to accurately estimate the data value at a given spatial location. The representation is compact using the Gaussian Mixture Model. We show that our approach is able to preserve important features in the data and alleviate uncertainty."
+    },
+    {
+        "title": "Design space for spatio-data coordination: Tangible interaction devices for immersive information visualisation",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Maxime Cordeil",
+            "Benjamin Bach",
+            "Yongchao Li",
+            "Elliott Wilson",
+            "Tim Dwyer"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031578",
+        "citation": 28,
+        "abstract": "We introduce the concept of “spatio-data coordination” (SD coordination) which defines the mapping of user actions in physical space into the space of data in a visualisation. SD coordination is intended to lower the user's cognitive load when exploring complex multi-dimensional data such as biomedical data, multiple data attributes vs time in a space-time-cube visualisation, or three-dimensional projections of three-or-higher-dimensional data sets. To inform the design of interaction devices to allow for SD coordination, we define a design space and demonstrate it with sketches and early prototypes of three exemplar devices for SD coordinated interaction."
+    },
+    {
+        "title": "Homogeneity guided probabilistic data summaries for analysis and visualization of large-scale data sets",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Soumya Dutta",
+            "Jonathan Woodring",
+            "Han-Wei Shen",
+            "Jen-Ping Chen",
+            "James Ahrens"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031585",
+        "citation": 22,
+        "abstract": "High-resolution simulation data sets provide plethora of information, which needs to be explored by application scientists to gain enhanced understanding about various phenomena. Visual-analytics techniques using raw data sets are often expensive due to the data sets' extreme sizes. But, interactive analysis and visualization is crucial for big data analytics, because scientists can then focus on the important data and make critical decisions quickly. To assist efficient exploration and visualization, we propose a new region-based statistical data summarization scheme. Our method is superior in quality, as compared to the existing statistical summarization techniques, with a more compact representation, reducing the overall storage cost. The quantitative and visual efficacy of our proposed method is demonstrated using several data sets along with an in situ application study for an extreme-scale flow simulation."
+    },
+    {
+        "title": "FFTEB: Edge bundling of huge graphs by the Fast Fourier Transform",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Antoine Lhuillier",
+            "Christophe Hurter",
+            "Alexandru Telea"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031594",
+        "citation": 19,
+        "abstract": "Edge bundling techniques provide a visual simplification of cluttered graph drawings or trail sets. While many bundling techniques exist, only few recent ones can handle large datasets and also allow selective bundling based on edge attributes. We present a new technique that improves on both above points, in terms of increasing both the scalability and computational speed of bundling, while keeping the quality of the results on par with state-of-the-art techniques. For this, we shift the bundling process from the image space to the spectral (frequency) space, thereby increasing computational speed. We address scalability by proposing a data streaming process that allows bundling of extremely large datasets with limited GPU memory. We demonstrate our technique on several real-world datasets and by comparing it with state-of-the-art bundling methods."
+    },
+    {
+        "title": "MobiSeg: Interactive region segmentation using heterogeneous mobility data",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Wenchao Wu",
+            "Yixian Zheng",
+            "Nan Cao",
+            "Haipeng Zeng",
+            "Bing Ni",
+            "Huamin Qu",
+            "Lionel M. Ni"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031583",
+        "citation": 19,
+        "abstract": "With the acceleration of urbanization and modern civilization, more and more complex regions are formed in urban area. Although understanding these regions could provide huge insights to facilitate valuable applications for urban planning and business intelligence, few methods have been developed to effectively capture the rapid transformation of urban regions. In recent years, the widely applied location-acquisition technologies offer a more effective way to capture the dynamics of a city through analyzing people's movement activities based on mobility data. However, several challenges exist, including data sparsity and difficulties in result understanding and validation. To tackle these challenges, in this paper, we propose MobiSeg, an interactive visual analytics system, which supports the exploration of people's movement activities to segment the urban area into regions sharing similar activity patterns. A joint analysis is conducted on three types of heterogeneous mobility data (i.e., taxi trajectories, metro passenger RFID card data, and telco data), which can complement each other and provide a full picture of people's activities in a region. In addition, advanced analytical algorithms (e.g., non-negative matrix factorization (NMF) based method to capture latent activity patterns, as well as metric learning to calibrate and supervise the underlying analysis) and novel visualization designs are integrated into our system to provide a comprehensive solution to region segmentation in urban areas. We demonstrate the effectiveness of our system via case studies with real-world datasets and qualitative interviews with domain experts."
+    },
+    {
+        "title": "A gesture system for graph visualization in virtual reality environments",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Yi-Jheng Huang",
+            "Takanori Fujiwara",
+            "Yun-Xuan Lin",
+            "Wen-Chieh Lin",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031577",
+        "citation": 18,
+        "abstract": "As virtual reality (VR) hardware technology becomes more mature and affordable, it is timely to develop visualization applications making use of such technology. How to interact with data in an immersive 3D space is both an interesting and challenging problem, demanding more research investigations. In this paper, we present a gesture input system for graph visualization in a stereoscopic 3D space. We compare desktop mouse input with gesture input with bare hands for performing a set of tasks on graphs. Our study results indicate that users are able to effortlessly manipulate and analyze graphs using gesture input. Furthermore, the results also show that using gestures is more efficient when exploring the complicated graph."
+    },
+    {
+        "title": "Aeonium: Visual analytics to support collaborative qualitative coding",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Margaret Drouhard",
+            "Nan-Chen Chen",
+            "Jina Suh",
+            "Rafal Kocielnik",
+            "Vanessa Peña-Araya",
+            "Keting Cen",
+            "Xiangyi Zheng",
+            "Cecilia R. Aragon"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031598",
+        "citation": 16,
+        "abstract": "Qualitative coding offers the potential to obtain deep insights into social media, but the technique can be inconsistent and hard to scale. Researchers using qualitative coding impose structure on unstructured data through “codes” that represent categories for analysis. Our visual analytics interface, Aeonium, supports human insight in collaborative coding through visual overviews of codes assigned by multiple researchers and distributions of important keywords and codes. The underlying machine learning model highlights ambiguity and inconsistency. Our goal was not to reduce qualitative coding to a machine-solvable problem, but rather to bolster human understanding gained from coding and reinterpreting the data collaboratively. We conducted an experimental study with 39 participants who coded tweets using our interface. In addition to increased understanding of the topic, participants reported that Aeonium's collaborative coding functionality helped them reflect on their own interpretations. Feedback from participants demonstrates that visual analytics can help facilitate rich qualitative analysis and suggests design implications for future exploration."
+    },
+    {
+        "title": "A visual analytics system for brain functional connectivity comparison across individuals, groups, and time points",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Takanori Fujiwara",
+            "Jia-Kai Chou",
+            "Andrew M. McCullough",
+            "Charan Ranganath",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031601",
+        "citation": 14,
+        "abstract": "Neuroscientists study brain functional connectivity in order to obtain a deeper understanding of how the brain functions. Current studies are mainly based on analyzing the averaged brain connectivity of a group (or groups) due to the high complexity of the collected data in terms of dimensionality, variability, and volume. While it is more desirable for the researchers to explore the potential variability between individual subjects or groups, a data analysis solution meeting this need is absent. In this paper, we present the design and capabilities of such a visual analytics system, which enables neuroscientists to visually compare the differences of brain networks between individual subjects as well as group averages, to explore a large dataset and examine sub-groups of participants that may not have been expected a priori to be of interest, to review detailed information as needed, and to manipulate the data and views to fit their analytical needs with easy interactions. We demonstrate the utility and strengths of this system with case studies using a representative functional connectivity dataset."
+    },
+    {
+        "title": "Privacy preserving visualization for social network data with ontology information",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Jia-Kai Chou",
+            "Chris Bryan",
+            "Kwan-Liu Ma"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031573",
+        "citation": 13,
+        "abstract": "Analyzing social network data helps sociologists understand the behaviors of individuals and groups as well as the relationships between them. With additional ontology information, the semantics behind the network structure can be further explored. Unfortunately, creating network visualizations with these datasets for presentation can inadvertently expose the private and sensitive information of individuals that reside in the data. To deal with this problem, we generalize conventional data anonymization models (originally designed for relational data) and formally apply them in the context of privacy preserving ontological network visualization. We use these models to identify the privacy leaks that exist in a visualization, provide graph modification actions that remove and/or perceptually minimize the effect of the identified leaks, and discuss strategies for what types of privacy actions to choose depending on the context of the leaks. We implement an ontological visualization interface with associated privacy preserving operations, and demonstrate with two case studies using real-world datasets to show that our approach can identify and solve potential privacy issues while balancing overall graph readability and utility."
+    },
+    {
+        "title": "Exploring the evolution of pressure-perturbations to understand atmospheric phenomena",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Wathsala Widanagamaachchi",
+            "Alexander Jacques",
+            "Bei Wang",
+            "Erik Crosman",
+            "Peer-Timo Bremer",
+            "Valerio Pascucci",
+            "John Horel"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031584",
+        "citation": 9,
+        "abstract": "Atmospheric sciences is the study of physical and chemical phenomena occurring within the Earth's atmosphere. The study entails understanding the state of the Earth's atmosphere, how it is changing over time and why. Understanding how various weather events develop and evolve is often conducted through retrospective analysis of past atmospheric events. Atmospheric scientists can then utilize tools to better predict potential hazards and provide earlier warnings for events that may impact life and property. Several atmospheric state variables can be measured to identify high-impact events, one of which is surface atmospheric pressure. Many weather events are characterized by variations in surface pressure from the mean pressure value (i.e., pressure-perturbations). Accordingly, there is significant interest in extracting and tracking pressure-perturbations both spatially and temporally to better understand the evolution of weather events. Here, we present a visualization and analysis environment that allows interactive exploration of pressure-perturbation data sets. Our system, for the first time, enables atmospheric scientists to interactively explore the spatiotemporal behaviors of pressure-perturbations for a range of values and provides support to leverage other conventional data sets such as radar imagery and wind observations. It also allows atmospheric scientists to evaluate model and parameter sensitivity, which is difficult if not impossible with conventional visualization tools in atmospheric sciences. Finally, we demonstrate the utility of our approach for retrospective analysis using different case studies of recorded severe weather events."
+    },
+    {
+        "title": "Efficient distribution-based feature search in multi-field datasets",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Tzu-Hsuan Wei",
+            "Chun-Ming Chen",
+            "Jonathan Woodring",
+            "HuiJie Zhang",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031586",
+        "citation": 8,
+        "abstract": "Local distribution search is used in query-driven visualization for identifying salient features. Due to the high computational and storage costs, local distribution search in multi-field datasets is challenging. In this paper, we introduce two high performance, memory efficient algorithms for searching for local distributions that are characterized by marginal and joint features in multi-field datasets. They leverage bitmap indexing and local voting to efficiently extract regions that match a target distribution, by first approximating search results and refining to generate the final result. The first algorithm, merged-bin-comparison (MBC), reduces the computation of histogram dissimilarity measures by clustering bins. The second algorithm, sampled-active voxels (SAV), adopts stratified sampling to reduce the workload for searching local distributions with large spatial neighborhoods. The efficiency and efficacy of our algorithms are demonstrated in multiple experiments."
+    },
+    {
+        "title": "Range likelihood tree: A compact and effective representation for visual exploration of uncertain data sets",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Wenbin He",
+            "Xiaotong Liu",
+            "Han-Wei Shen",
+            "Scott M. Collis",
+            "Jonathan J. Helmus"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031589",
+        "citation": 8,
+        "abstract": "Uncertain data visualization plays a fundamental role in many applications such as weather forecast and analysis of fluid flows. Exploring scalar uncertain data modeled as probability distribution fields is a challenging task because the underlying features are often more complex, and the data associated with each grid point are high dimensional. In this work, we present a compact and effective representation, called range likelihood tree, to summarize and explore probability distribution fields. The key idea is to decompose and summarize each complex probability distribution over a few representative subranges by cumulative probabilities, and allow users to consider the roles that different subranges play in understanding the probability distributions. In our method, the value domain is first partitioned into subranges, then the distribution at each grid point is transformed according to the cumulative probabilities of the point's distribution in those subranges. Organizing the subranges into a hierarchical structure based on how these cumulative probabilities are spatially distributed in the grid points, the new range likelihood tree representation allows effective classification and identification of features through user query and exploration. We present an exploration framework with multiple interactive views to explore probability distribution fields, and provide guidelines for visual exploration using our framework. We demonstrate the effectiveness and usefulness of our approach in exploratory analysis using several representative uncertain data sets."
+    },
+    {
+        "title": "In situ magnetic flux vortex visualization in time-dependent Ginzburg-Landau superconductor simulations",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Hanqi Guo",
+            "Tom Peterka",
+            "Andreas Glatz"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031581",
+        "citation": 7,
+        "abstract": "We present an in situ visualization framework to capture comprehensive details of vortex dynamics in superconductor simulations. Vortices, which determine all electromagnetic properties of type-II superconductors, are extracted and tracked at the same time with GPU-based time-dependent Ginzburg-Landau superconductor simulations. The in situ workflow involves three parts: (1) a tightly coupled GPU-accelerated algorithm that detects primitives for ambiguity-free vortex tracking, (2) a loosely coupled task-parallel feature-tracking method, and (3) a web-based remote visualization tool for vortex dynamics analysis. Our design minimizes the data movement and storage, maximizes the resource utilization, and reduces the slowdown of the simulation. Our solution captures all vortex dynamics in the simulation, previously impossible with traditional post hoc methods. We also demonstrate in situ visualization cases that help scientists understand how vortices cut each other and recombine into new vortices, which are directly related to energy dissipation of superconducting materials."
+    },
+    {
+        "title": "Exploring controversy via sentiment divergences of aspects in reviews",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Jin Xu",
+            "Yubo Tao",
+            "Hai Lin",
+            "Rongjie Zhu",
+            "Yuyu Yan"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031600",
+        "citation": 6,
+        "abstract": "A visual summary of the controversial aspects of an item enables both customers and marketers to identify and address complaints and concerns about the item effectively. In this paper, we propose a novel visual analytics system, to visually explore when a controversy occurs and the causes behind the controversy via user-generated reviews with text and ratings in various domains, such as restaurants, home goods, and cultural products. Quantitative analysis of the ratings of an item is first applied to characterize the evolution of controversy over time. A novel aspect-extraction method based on hierarchical clustering is proposed to identify aspect-level reasons garnered from review texts that explain why a controversy occurs. Our system allows the user to interactively explore the time-evolving controversy trend, major aspects of reviews, and sentiment divergences of aspects to understand in depth the controversy in reviews. We evaluate the effectiveness of the proposed aspect-extraction method by means of accuracy of aspect identification, the usefulness of our system using three case studies in different domains, and a user study."
+    },
+    {
+        "title": "Designing interactive distance cartograms to support urban travelers",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Sungsoo Hong",
+            "Rafal Kocielnik",
+            "Min-Joon Yoo",
+            "Sarah Battersby",
+            "Juho Kim",
+            "Cecilia Aragon"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031582",
+        "citation": 6,
+        "abstract": "A distance cartogram (DC) is a technique that alters distances between a user-specified origin and the other locations in a map with respect to travel time. With DC, users can weigh the relative travel time costs between the origin and potential destinations at a glance because travel times are projected in a linearly interpolated time space from the origin. Such glance-ability is known to be useful for travelers who are mindful of travel time when finding their travel destinations. When constructing DC, however, uneven urban traffic conditions introduce excessive distortion and challenge user intuition. In addition, there has been little research focusing on DC's user interaction design. To tackle these challenges and realize the potential of DC as an interactive decision-making support tool, we derive a set of useful interactions through two formative studies and devise two novel techniques called Geo-contextual Anchoring Projection and Scalable Road-network Construction. We develop an interactive map system using these techniques and evaluate this system by comparing it against an equidistant map (EM), a widely used conventional layout that preserves the geographical reality. Based on the analysis of user behavior and qualitative feedback, we identify several benefits of using DC itself and of the interaction techniques we derived. We also analyze the specific reasons behind these identified benefits."
+    },
+    {
+        "title": "k-core based multi-level graph visualization for scale-free networks",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "An Nguyen",
+            "Seok-Hee Hong"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031574",
+        "citation": 5,
+        "abstract": "We present a new multi-level graph drawing algorithm based on the k-core coarsening, a well-known cohesive subgroup analysis method in social network analysis. The k-core of a graph is also known as the degeneracy in graph theory, and can be computed in linear time. Our k-core based multi-level algorithm also includes a new concentric circle placement and a variation of force-directed layout to display the structure of graphs effectively. Experiments with real-world networks suggest that our algorithm performs well for visualization of large and complex scale-free networks, with a power-law degree distribution, a short diameter and a high clustering coefficient. Comparison with other multi-level algorithms shows that our method is fast and effective, in particular performs better than Walshaw [26] and FM3 [15]."
+    },
+    {
+        "title": "Radial contour labeling with straight leaders",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Benjamin Niedermann",
+            "Martin Nöllenburg",
+            "Ignaz Rutter"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031608",
+        "citation": 4,
+        "abstract": "The usefulness of technical drawings as well as scientific illustrations such as medical drawings of human anatomy essentially depends on the placement of labels that describe all relevant parts of the figure. In order to not spoil or clutter the figure with text, the labels are often placed around the figure and are associated by thin connecting lines to their features, respectively. This labeling technique is known as external label placement. In this paper we introduce a flexible and general approach for external label placement assuming a contour of the figure prescribing the possible positions of the labels. While much research on external label placement aims for fast labeling procedures for interactive systems, we focus on highest-quality illustrations. Based on interviews with domain experts and a semi-automatic analysis of 202 handmade anatomical drawings, we identify a set of 18 layout quality criteria, naturally not all of equal importance. We design a new geometric label placement algorithm that is based only on the most important criteria. Yet, other criteria can flexibly be included in the algorithm, either as hard constraints not to be violated or as soft constraints whose violation is penalized by a general cost function. We formally prove that our approach yields labelings that satisfy all hard constraints and have minimum overall cost. Introducing several speedup techniques, we further demonstrate how to deploy our approach in practice. In an experimental evaluation on real-world anatomical drawings we show that the resulting labelings are of high quality and can be produced in adequate time."
+    },
+    {
+        "title": "Virtual retractor: An interactive data exploration system using physically based deformation",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Cheng Li",
+            "Xin Tong",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031579",
+        "citation": 3,
+        "abstract": "Interactive data exploration plays a fundamental role in analyzing three dimensional scientific data. Occlusion management and context preservation are among the key factors to ensure effective identification and extraction of three-dimensional features. In this paper, we present an interactive data exploration system that utilizes a physically based deformation method to investigate hidden structures of data in three dimensional data sets. While non-physically based methods are popular for visual analytic applications due to their lower computational cost, physically based deformation methods can often better preserve features and their context. Our physically based deformation method preserves data features by setting the mesh properties according to interesting data attributes. We design effective and intuitive interfaces by using a metaphor of virtual retractor, which reflects the cutting and splitting of data that our system is simulating. We demonstrate case studies on multiple particle datasets and volume datasets, and present feedback from a domain user."
+    },
+    {
+        "title": "Transfer Function design toolbox for full-color volume datasets",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Martin Falk",
+            "Ingrid Hotz",
+            "Patric Ljung",
+            "Darren Treanor",
+            "Anders Ynnerman",
+            "Claes Lundström"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031591",
+        "citation": 3,
+        "abstract": "In this paper, we tackle the challenge of effective Transfer Function (TF) design for Direct Volume Rendering (DVR) of full-color datasets. We propose a novel TF design toolbox based on color similarity which is used to adjust opacity as well as replacing colors. We show that both CIE L*u*v* chromaticity and the chroma component of YCBCR are equally suited as underlying color space for the TF widgets. In order to maximize the area utilized in the TF editor, we renormalize the color space based on the histogram of the dataset. Thereby, colors representing a higher share of the dataset are depicted more prominently, thus providing a higher sensitivity for fine-tuning TF widgets. The applicability of our TF design toolbox is demonstrated by volume ray casting challenging full-color volume data including the visible male cryosection dataset and examples from 3D histology."
+    },
+    {
+        "title": "HoNVis: Visualizing and exploring higher-order networks",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Jun Tao",
+            "Jian Xu",
+            "Chaoli Wang",
+            "Nitesh V. Chawla"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031572",
+        "citation": 2,
+        "abstract": "Unlike the conventional first-order network (FoN), the higher-order network (HoN) provides a more accurate description of transitions by creating additional nodes to encode higher-order dependencies. However, there exists no visualization and exploration tool for the HoN. For applications such as the development of strategies to control species invasion through global shipping which is known to exhibit higher-order dependencies, the existing FoN visualization tools are limited. In this paper, we present HoNVis, a novel visual analytics framework for exploring higher-order dependencies of the global ocean shipping network. Our framework leverages coordinated multiple views to reveal the network structure at three levels of detail (i.e., the global, local, and individual port levels). Users can quickly identify ports of interest at the global level and specify a port to investigate its higher-order nodes at the individual port level. Investigating a larger-scale impact is enabled through the exploration of HoN at the local level. Using the global ocean shipping network data, we demonstrate the effectiveness of our approach with a real-world use case conducted by domain experts specializing in species invasion. Finally, we discuss the generalizability of this framework to other real-world applications such as information diffusion in social networks and epidemic spreading through air transportation."
+    },
+    {
+        "title": "A visual analytics approach for understanding egocentric intimacy network evolution and impact propagation in MMORPGs",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Quan Li",
+            "Qiaomu Shen",
+            "Yao Ming",
+            "Peng Xu",
+            "Yun Wang",
+            "Xiaojuan Ma",
+            "Huamin Qu"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031576",
+        "citation": 2,
+        "abstract": "Massively Multiplayer Online Role-playing Games (MMORPGs) feature a large number of players socially interacting with one another in an immersive gaming environment. A successful MMORPG should engage players and meet their needs to achieve different categories of gratifications. Research on the evolution of player social interaction network and the dynamics of inter-player intimacy could provide insights into players' gratification-oriented behaviors in MMORPGs. Such understanding could in turn guide game designs for better engaging existing players and marketing strategies for attracting newcomers. Conventional dynamic network analysis may help investigate game-based social interactions at the macroscopic level. However, current dynamic network visualization techniques mainly focus on illustrating topological changes of the entire network, which are unsuitable for analyzing player-specific social interactions in the virtual world from an egocentric perspective. In general, game designers and operators find it difficult to analyze the way players with different gratification needs may interact with one another and the consequences on their relationships with direct ties, using a decentralized social graph with complicated time-varying structures. In this paper, we present MMOSeer, a visual analytics system for exploring the evolution of egocentric player intimacy network. MMOSeer focuses on the relationship between a player (ego) and his/her directly-linked friends (alters). We follow a user-centered design process to develop the system with game analysts and apply novel visualization techniques in conjunction with well-established algorithms to depict the evolution of intimacy egocentric network. We also derive a centrality change metric to infer how the impact of changes in an ego's interactive behaviors may propagate through the intimacy network, reshaping the structure of the alters' social circles at both micro and macro levels. Finally, we validate the usability of MMOSeer by discovering different user interaction patterns and the corresponding ego-network structural changes in a real-world gameplay dataset from a commercial MMORPG."
+    },
+    {
+        "title": "Interaction+: Interaction enhancement for web-based visualizations",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Min Lu",
+            "Jie Liang",
+            "Yu Zhang",
+            "Guozheng Li",
+            "Siming Chen",
+            "Zongru Li",
+            "Xiaoru Yuan"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031580",
+        "citation": 2,
+        "abstract": "In this work, we present Interaction+, a tool that enhances the interactive capability of existing web-based visualizations. Different from the toolkits for authoring interactions during the visualization construction, Interaction+ takes existing visualizations as input, analyzes the visual objects, and provides users with a suite of interactions to facilitate the visual exploration, including selection, aggregation, arrangement, comparison, filtering, and annotation. Without accessing the underlying data or process how the visualization is constructed, Interaction+ is application-independent and can be employed in various visualizations on the web. We demonstrate its usage in two scenarios and evaluate its effectiveness with a qualitative user study."
+    },
+    {
+        "title": "SwiftTuna: Responsive and incremental visual exploration of large-scale multidimensional data",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Jaemin Jo",
+            "Wonjae Kim",
+            "Seunghoon Yoo",
+            "Bohyoung Kim",
+            "Jinwook Seo"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031587",
+        "citation": 2,
+        "abstract": "For interactive exploration of large-scale data, a preprocessing scheme (e.g., data cubes) has often been used to summarize the data and provide low-latency responses. However, such a scheme suffers from a prohibitively large amount of memory footprint as more dimensions are involved in querying, and a strong prerequisite that specific data structures have to be built from the data before querying. In this paper, we present SwiftTuna, a holistic system that streamlines the visual information seeking process on large-scale multidimensional data. SwiftTuna exploits an in-memory computing engine, Apache Spark, to achieve both scalability and performance without building precomputed data structures. We also present a novel interactive visualization technique, tailed charts, to facilitate large-scale multidimensional data exploration. To support responsive querying on large-scale data, SwiftTuna leverages an incremental processing approach, providing immediate low-fidelity responses (i.e., prompt responses) as well as delayed high-fidelity responses (i.e., incremental responses). Our performance evaluation demonstrates that SwiftTuna allows data exploration of a real-world dataset with four billion records while preserving the latency between incremental responses within a few seconds."
+    },
+    {
+        "title": "Visualizing the uncertainty induced by graph layout algorithms",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Kai Yan",
+            "Weiwei Cui"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031595",
+        "citation": 1,
+        "abstract": "Given a graph structure, different layout algorithms (even different settings of the same algorithm) usually result in different arrangements of vertices, and each layout may reflect certain aspects/parts of the graph more accurately than others. Thus, for high-level graph analysis tasks that rely on the overall arrangement of vertices, drawing conclusions only from one layout is risky. To alleviate the risk, we propose an ensemble framework to capture the commonalities and differences among possible layouts, and help users obtain a comprehensive view of the structure patterns. We leverage a set of layouts that represents the distribution of algorithm outputs. Then, visual features are extracted and analyzed based on various measures of visual similarity. Our framework supports users to analyze individual layouts in the context of the distribution, so that users can quickly identify structures of interest and discover patterns more accurately and comprehensively. We demonstrate the effectiveness of our framework by applying it to three datasets."
+    },
+    {
+        "title": "Compression and shifting to reduce occlusion in multiple short time series",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Maxime Dumas",
+            "Michael J. McGuffin",
+            "Patrick Chassé"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031606",
+        "citation": 1,
+        "abstract": "Visualization of multiple time series often suffers from overplotting, making it difficult to read the values of curves that are hidden by other curves. We present techniques for horizontally displacing the endpoints of line segments in discrete time series data that (1) enable the depiction of subsets of data and (2) reduce occlusion of endpoints. Because endpoints are not displaced vertically, their y values can still be read and compared. Unlike small multiples, our techniques do not move points with the same x or y values far from each other, making some comparison tasks easier. We present three novel techniques: compressed-superposed, compressed-juxtaposed, and shifted layers. One limitation of our techniques is that they work best when there is only a small number of x values being visualized, and additionally, one of them (compressed-superposed) modifies the slopes of curves in a way that makes the slopes incomparable. Our experimental comparison with three status quo techniques (conventional overlaid, vertically-stacked small multiples, and horizontally-stacked small multiples) shows that our proposed techniques are competitive with status quo techniques and in some cases superior."
+    },
+    {
+        "title": "Using interactive particle-based rendering to visualize a large-scale time-varying unstructured volume with mixed cell types",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Kun Zhao",
+            "Naohisa Sakamoto",
+            "Koji Koyamada"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031593",
+        "citation": 1,
+        "abstract": "The primary challenge in the visualization of a large-scale unstructured volume data with mixed cell types is to dissolve a bottleneck caused by visibility sorting of unstructured cells. In this paper, we implement an interactive particle-based rendering method to solve this complex visualization problem. This technique uses opaque particles as the proxy geometry of the mixed unstructured cells so that the visibility sorting process is not needed. This characteristic makes the rendering of mixed-cell unstructured volume efficient. We also construct a resizing function to adjust the particle radius depending on the assigned transfer function so that the transfer function can be adjusted in real time. Furthermore, we develop a time-varying level-of-detail (LOD) rendering to efficiently handle the large-scale time-varying data. This LOD rendering can provide high-speed rendering for animation rendering and high-quality rendering when the animation is stopped at any time step of interest. These features facilitate the detailed analysis of the temporal features of the data."
+    },
+    {
+        "title": "Multivariate volumetric data analysis and visualization through bottom-up subspace exploration",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Kewei Lu",
+            "Han-Wei Shen"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031588",
+        "citation": 0,
+        "abstract": "Multivariate volumetric datasets are often encountered in results generated by scientific simulations. Compared to univariate datasets, analysis and visualization of multivariate datasets are much more challenging due to the complex relationships among the variables. As an effective way to visualize and analyze multivariate datasets, volume rendering has been frequently used, although designing good multivariate transfer functions is still non-trivial. In this paper, we present an interactive workflow to allow users to design multivariate transfer functions. To handle large scale datasets, in the preprocessing stage we reduce the number of data points through data binning and aggregation, and then a new set of data points with a much smaller size are generated. The relationship between all pairs of variables is presented in a matrix juxtaposition view, where users can navigate through the different subspaces. An entropy based method is used to help users to choose which subspace to explore. We proposed two weights: scatter weight and size weight that are associated with each projected point in those different subspaces. Based on those two weights, data point filter and kernel density estimation operations are employed to assist users to discover interesting features. For each user-selected feature, a Gaussian function is constructed and updated incrementally. Finally, all those selected features are visualized through multivariate volume rendering to reveal the structure of data. With our system, users can interactively explore different subspaces and specify multivariate transfer functions in an effective way. We demonstrate the effectiveness of our system with several multivariate volumetric datasets."
+    },
+    {
+        "title": "Keynote speaker: Changing the world with visual analytics",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "David Ebert"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031570",
+        "citation": 1,
+        "abstract": "To solve the world's challenges requires not only advancing computer science and big data analytics but requires new analysis and decision-making environments that effectively couple human decision making with advanced, guided analytics in a human-computer collaborative discourse and decision making (HCCD). While many researchers and companies are focusing solely on Big Data Analytics to harness the potential power in available massive, multisource, multivariate, evolving digital data, many of these big data solutions don't effectively factor the human decision maker into their proposed solution. The HCCD approach builds upon visual analytics and focuses on empowering the decision maker through interactive visual analytic environments where visual cognition, guided discovery, and non-digital human expertise and experience can be combined with state-of-the-art analytical techniques. When we combine this approach with real-world application-driven research, not only does the pace of scientific innovation accelerate, but impactful change occurs. This work and these systems can be applied to social change, advancing engineering, and science and solving some of the world's greatest challenges such as sustainability and security. In this talk, I'll outline this approach and highlight the potential and impact of application driven HCCD research."
+    },
+    {
+        "title": "Sponsors & supporters",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2017.8031565",
+        "citation": 0,
+        "abstract": "The conference organizers greatly appreciate the support of the various corporate sponsors listed."
+    },
+    {
+        "title": "Keynote speaker: Requirements and recent directions in augmented reality visualization",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Gerard Jounghyun Kim"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031571",
+        "citation": 0,
+        "abstract": "The field of information visualization studies the interactive visual representations of data to reinforce human cognition, thereby facilitate the discovery of new tacit knowledge and even amplify human intelligence. Augmented reality (AR) shares the same objective and it can be treated as one particular form of information visualization where the data are both the real objects and the augmentations for them. As such, it presents a unique set of problems within the general requirements for an effective information visualization method. In this talk, I will first outline and put forth four main requirements for AR visualization, namely, (1) naturalness, (2) visibility (3) persistance/stability and (4) glass/hmd ergonomics. Then I will present a short survey of the existing AR visualization techniques and characterize them by their attributes and categorize them in terms of how they satisfy or address the proposed requirements. Finally, I will also introduce some of my own on-going research work in this area, specifically, for real time contrast adjustment for mobile augmented reality, usability with glasses, augmentation data organization, and multimodal AR data presentation. I hope that this work can instigate and shed some light on the future directions for further research in AR visualization techniques."
+    },
+    {
+        "title": "Chair message",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [
+            "Daniel Weiskopf",
+            "Yingcai Wu",
+            "Tim Dwyer",
+            "Yun Jang",
+            "Naohisa Sakamoto"
+        ],
+        "DOI": "10.1109/PACIFICVIS.2017.8031566",
+        "citation": 0,
+        "abstract": "Welcome to the proceedings of the IEEE Pacific Visualization Symposium 2017 (IEEE PacificVis 2017), tenth in a series of successful events that have been sponsored by the IEEE Computer Society Visualization and Graphics Technical Committee (VGTC). Past IEEE PacificVis symposia were held in Kyoto (2008), Beijing (2009), Taipei (2010), Hong Kong (2011), Songdo (2012), Sydney (2013), Yokohama (2014), Hangzhou (2015), and Taipei (2016). This year, PacificVis is held at Seoul, Korea from April 18 to 21, 2017, hosted by Seoul National University."
+    },
+    {
+        "title": "Committees",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2017.8031568",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC)",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2017.8031567",
+        "citation": 0,
+        "abstract": "Provides a listing of current committee members and society officers."
+    },
+    {
+        "title": "[Title page]",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2017.8031562",
+        "citation": 0,
+        "abstract": "Presents the title page of the proceedings record."
+    },
+    {
+        "title": "Contents",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2017.8031564",
+        "citation": 0,
+        "abstract": "The following topics are dealt with: data visualization; graph visualization; geospatial visualization; volume visualization; and visual analytics."
+    },
+    {
+        "title": "[Copyright notice]",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2017.8031563",
+        "citation": 0,
+        "abstract": "Presents the copyright information for the conference. May include reprint permission information."
+    },
+    {
+        "title": "Reviewers",
+        "conferenceTitle": "2017 IEEE Pacific Visualization Symposium (PacificVis)",
+        "date": "18-21 April 2017",
+        "authors": [],
+        "DOI": "10.1109/PACIFICVIS.2017.8031569",
+        "citation": 0,
+        "abstract": "The conference offers a note of thanks and lists its reviewers."
+    }
+]
