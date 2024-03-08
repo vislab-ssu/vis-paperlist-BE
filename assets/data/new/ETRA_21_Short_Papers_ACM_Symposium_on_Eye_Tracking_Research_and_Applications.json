@@ -1,531 +1,451 @@
 [
-    {
-        "title": "Synchronization of Spontaneous Eyeblink during Formula Car Driving",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Applications",
-        "data": "May 2021",
-        "authors": [
-            "Ryota Nishizono",
-            "Naoki Saijo",
-            "Makio Kashino"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458002",
-        "citation": "1",
-        "abstract": "Formula car racing is a highly competitive sport. Previous studies have investigated the physiological characteristics and motor behaviors of drivers; however, little is known about how they modulate their cognitive states to improve their skills. Spontaneous eyeblink is a noteworthy factor because it reflects attentional states and is important for drivers to minimize the chance of losing critical visual information. In this study, we investigated whether the blink rate, blink synchronization among laps in each driver, and synchronization across drivers were related to their performance. Toward this end, we recorded the blinks and car behavior data of two professional drivers in quasi-racing environments. The results showed higher synchronization in higher-performance laps of each driver and across drivers but no significant change in blink rate. These results suggest that blink synchronization could reflect the changes in performance mode during formula car driving."
-    },
-    {
-        "title": "Towards gaze-based prediction of the intent to interact in virtual reality",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Applications",
-        "data": "May 2021",
-        "authors": [
-            "Brendan David-John",
-            "Candace Peacock",
-            "Ting Zhang",
-            "T. Scott Murdison",
-            "Hrvoje Benko",
-            "Tanya R. Jonker"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458008",
-        "citation": "27",
-        "abstract": "With the increasing frequency of eye tracking in consumer products, including head-mounted augmented and virtual reality displays, gaze-based models have the potential to predict user intent and unlock intuitive new interaction schemes. In the present work, we explored whether gaze dynamics can predict when a user intends to interact with the real or digital world, which could be used to develop predictive interfaces for low-effort input. Eye-tracking data were collected from 15 participants performing an item-selection task in virtual reality. Using logistic regression, we demonstrated successful prediction of the onset of item selection. The most prevalent predictive features in the model were gaze velocity, ambient/focal attention, and saccade dynamics, demonstrating that gaze features typically used to characterize visual attention can be applied to model interaction intent. In the future, these types of models can be used to infer user’s near-term interaction goals and drive ultra-low-friction predictive interfaces."
-    },
-    {
-        "title": "Pupillary response reflects vocabulary comprehension",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Applications",
-        "data": "May 2021",
-        "authors": [
-            "Takashi Hirata",
-            "Yutaka Hirata"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457999",
-        "citation": "0",
-        "abstract": "It has been known that the pupil of the human eye responds not only to changes in brightness, but also those in cognitive activities. A recent study reported that pupillary dilation reflects one's ability to discriminate English sounds /l/ and /r/, suggesting that pupillary responses may be used to evaluate learner's listening comprehension. Presently, we recorded English learners’ pupillary responses in three situations: pre- (Control), in- (Study), and post-study (Test). We then classified our participants into two groups based upon their test scores (high and low), and compared their pupillary responses in the three situations. As the result, significantly different pupillary responses (dilatation) were observed between the two groups in Study. This result suggests that quantitative observation of pupillary responses may replace or be employed in parallel with traditional vocabulary tests to make vocabulary learning more efficient."
-    },
-    {
-        "title": "Understanding Game Roles and Strategy Using a Mixed Methods Approach",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Applications",
-        "data": "May 2021",
-        "authors": [
-            "Kaitlyn M Roose",
-            "Elizabeth S. Veinott"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458006",
-        "citation": "0",
-        "abstract": "In this paper, we use the Tracer Method to examine a complex and team-oriented, first-person shooter game to determine how the output can better inform Esports training. The Tracer Method combines eye tracking with Critical Decision Method to focus the analyses on the critical aspects of gameplay, while providing insight into the most frequent visual search transitions across game areas of interest. We examined the differences across three in-game roles and three decision types (strategic, operational, and tactical) using network centrality diagrams and entropy measures. No differences in overall stationary entropy were found for either role or decision type. However, each game role and decision type produced a different network centrality diagram, indicating different visual search transitions, which could support training of Esport players."
-    },
-    {
-        "title": "Understanding Urban Devotion through the Eyes of an Observer",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Applications",
-        "data": "May 2021",
-        "authors": [
-            "Margarita Vinnikov",
-            "Kian Motahari",
-            "Louis I. Hamilton",
-            "Burcak Ozludil Altin"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458003",
-        "citation": "0",
-        "abstract": "If and how an individual’s social, economic, and cultural backgrounds affect their perception of the built environment, is a fundamental problem for architects, anthropologists, historians, and urban planners alike. Similar factors affect an individual’s religious beliefs and tendencies. Our research addresses the intersection of personal background and perception of sacred space by examining people’s responses to a virtual replica of a “madonella,” a street shrine in Rome. The shrine was virtually recreated using photogrammetry. It was optimized for user studies employing VIVE Pro Eye. The study looked at the gaze behavior of 24 participants and compared their gaze patterns with demographic background and social-communal responses. The study finds that certain religious habits of an individual could predict their fixational features, including the number and total duration of fixations, on pivotal areas of interest in the shrine environment (even though these areas were placed outside of immediate sight). These results are a promising start to our ongoing study of the perception and received meaning of sacred space."
-    },
-    {
-        "title": "Repetition effects in task-driven eye movement analyses after longer time-spans",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Methods",
-        "data": "May 2021",
-        "authors": [
-            "Thomas Berger",
-            "Michael Raschke"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458005",
-        "citation": "1",
-        "abstract": "Visualizations are an important tool in risk management to support decision-making of recipients of risk reports. Many trainings aim at helping managers to better understand how to read such visualizations. In this paper we present first results of an ongoing large study on the effect of repeated presentation of risk visualizations from annual reports. This is of importance to find out if such repetitions have an effect on accuracy and the behavior of readers. Contrary to other studies we had longer time-spans of months and weeks between two trials. We found that fixation durations are different after second presentation and that the number of fixations generally are lower. We also analyzed scan paths, indicating that regions that are more semantically meaningful are more often in the center of attention. We call for more studies with longer time spans between two trials as we found some interesting patterns."
-    },
-    {
-        "title": "Eye Gaze Estimation using Imperceptible Marker Presented on High-Speed Display",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Methods",
-        "data": "May 2021",
-        "authors": [
-            "Kento Seida",
-            "Kentaro Takemura"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458000",
-        "citation": "1",
-        "abstract": "Advanced eye-tracking methods require a dedicated display equipped with near-infrared LEDs (light-emitting diodes). However, this requirement hinders the widespread adoption of such methods. Additionally, some glints may pass undetected when a large display is employed. To avoid these problems, we propose eye gaze estimation using imperceptible markers presented on a commercially available high-speed display. The marker reference points reflected on the cornea are extracted instead of glints, and the point-of-gaze can be estimated using the cross-ratio method. The accuracy of the estimated point-of-gaze was approximately 1.64 degrees, as verified from experimental evaluations of the estimation using a high-speed display."
-    },
-    {
-        "title": "Semi-Supervised Learning for Eye Image Segmentation",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Methods",
-        "data": "May 2021",
-        "authors": [
-            "Aayush Kumar Chaudhary",
-            "Prashnna K Gyawali",
-            "Linwei Wang",
-            "Jeff B Pelz"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458009",
-        "citation": "1",
-        "abstract": "Recent advances in appearance-based models have shown improved eye tracking performance in difficult scenarios like occlusion due to eyelashes, eyelids or camera placement, and environmental reflections on the cornea and glasses. The key reason for the improvement is the accurate and robust identification of eye parts (pupil, iris, and sclera regions). The improved accuracy often comes at the cost of labeling an enormous dataset, which is complex and time-consuming. This work presents two semi-supervised learning frameworks to identify eye-parts by taking advantage of unlabeled images where labeled datasets are scarce. With these frameworks, leveraging the domain-specific augmentation and novel spatially varying transformations for image segmentation, we show improved performance on various test cases with limited labeled samples. For instance, for a model trained on just 4 and 48 labeled images, these frameworks improved by at least 4.7% and 0.4% respectively, in segmentation performance over the baseline model, which is trained only with the labeled dataset."
-    },
-    {
-        "title": "Modelling of Blink-Related Eyelid-Induced Shunting on the Electrooculogram",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Methods",
-        "data": "May 2021",
-        "authors": [
-            "Nathaniel Barbara",
-            "Tracey A. Camilleri",
-            "Kenneth P. Camilleri"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457994",
-        "citation": "1",
-        "abstract": "Besides the traditional regression model-based techniques to estimate the gaze angles (GAs) from electrooculography (EOG) signals, more recent works have investigated the use of a battery model for GA estimation. This is a white-box, explicit and physically-driven model which relates the monopolar EOG potential to the electrode-cornea and electrode-retina distances. In this work, this model is augmented to cater for the blink-induced EOG signal characteristics, by modelling the eyelid-induced shunting effect during blinks. Specifically, a channel-dependent parameter representing the extent to which the amount of eyelid opening affects the particular EOG channel is introduced. A method to estimate these parameters is also proposed and the proposed model is validated by incorporating it in a Kalman filter to estimate the eyelid opening during blinks. The results obtained have demonstrated that the proposed model can accurately represent the blink-related eyelid-induced shunting."
-    },
-    {
-        "title": "Visualizing Prediction Correctness of Eye Tracking Classifiers",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Methods",
-        "data": "May 2021",
-        "authors": [
-            "Martin H.U. Prinzler",
-            "Christoph Schröder",
-            "Sahar Mahdie Klim Al Zaidawi",
-            "Gabriel Zachmann",
-            "Sebastian Maneth"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457997",
-        "citation": "0",
-        "abstract": "Eye tracking data is often used to train machine learning algorithms for classification tasks. The main indicator of performance for such classifiers is typically their prediction accuracy. However, this number does not reveal any information about the specific intrinsic workings of the classifier. In this paper we introduce novel visualization methods which are able to provide such information. We introduce the Prediction Correctness Value (PCV). It is the difference between the calculated probability for the correct class and the maximum calculated probability for any other class. Based on the PCV we present two visualizations:  (1) coloring segments of eye tracking trajectories according to their PCV, thus indicating how beneficial certain parts are towards correct classification, and (2) overlaying similar information for all participants to produce a heatmap that indicates at which places fixations are particularly beneficial towards correct classification. Using these new visualizations we compare the performance of two classifiers (RF and RBFN)."
-    },
-    {
-        "title": "OpenNEEDS: A Dataset of Gaze, Head, Hand, and Scene Signals During Exploration in Open-Ended VR Environments",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Methods",
-        "data": "May 2021",
-        "authors": [
-            "Kara J Emery",
-            "Marina Zannoli",
-            "James Warren",
-            "Lei Xiao",
-            "Sachin S Talathi"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457996",
-        "citation": "6",
-        "abstract": "We present OpenNEEDS, the first large-scale, high frame rate, comprehensive, and open-source dataset of Non-Eye (head, hand, and scene) and Eye (3D gaze vectors) data captured for 44 participants as they freely explored two virtual environments with many potential tasks (i.e., reading, drawing, shooting, object manipulation, etc.). With this dataset, we aim to enable research on the relationship between head, hand, scene, and gaze spatiotemporal statistics and its applications to gaze estimation. To demonstrate the power of OpenNEEDS, we show that gaze estimation models using individual non-eye sensors and an early fusion model combining all non-eye sensors outperform all baseline gaze estimation models considered, suggesting the possibility of considering non-eye sensors in the design of robust eye trackers. We anticipate that this dataset will support research progress in many areas and applications such as gaze estimation and prediction, sensor fusion, human-computer interaction, intent prediction, perceptuo-motor control, and machine learning."
-    },
-    {
-        "title": "Enhancing the precision of remote eye-tracking using iris velocity estimation",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Methods",
-        "data": "May 2021",
-        "authors": [
-            "Aayush Kumar Chaudhary",
-            "Jeff B Pelz"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458010",
-        "citation": "1",
-        "abstract": "Most of the previous work on eye-tracking has focused on positional information of the eye features. Recent advances in camera technology such as high-resolution and event cameras allow consideration of the velocity estimate for eye tracking. Some previous work on velocity-based estimates has demonstrated high-precision gaze estimation by tracking the motion of iris features on high-resolution images rather than by exploiting pupil edges. While these methods provide high precision, the bottleneck for velocity-based methods are temporal drift and the inability to track across blinks. In this work, we present a new theoretical methodology (πt) to address these issues by optimally combining low-temporal frequency components of the pupil edges with the high-temporal frequency components from the iris textures. We show improved precision with this method while fixating a series of small targets and following a smoothly moving target. Further, we demonstrate the capability to reliably identify microsaccades between targets separated by 0.2°."
-    },
-    {
-        "title": "Gaze+Lip: Rapid, Precise and Expressive Interactions Combining Gaze Input and Silent Speech Commands for Hands-free Smart TV Control",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: User Interfaces and Interaction",
-        "data": "May 2021",
-        "authors": [
-            "Zixiong Su",
-            "Xinlei Zhang",
-            "Naoki Kimura",
-            "Jun Rekimoto"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458011",
-        "citation": "5",
-        "abstract": "As eye-tracking technologies develop, gaze becomes more and more popular as an input modality. However, in situations that require fast and precise object selection, gaze is hard to use because of limited accuracy. We present Gaze+Lip, a hands-free interface that combines gaze and lip reading to enable rapid and precise remote controls when interacting with big displays. Gaze+Lip takes advantage of gaze for target selection and leverages silent speech to ensure accurate and reliable command execution in noisy scenarios such as watching TV or playing videos on a computer. For evaluation, we implemented a system on a TV, and conducted an experiment to compare our method with the dwell-based gaze-only input method. Results showed that Gaze+Lip outperformed the gaze-only approach in accuracy and input speed. Furthermore, subjective evaluations indicated that Gaze+Lip is easy to understand, easy to use, and has higher perceived speed than the gaze-only approach."
-    },
-    {
-        "title": "EyeLogin - Calibration-free Authentication Method for Public Displays Using Eye Gaze",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: User Interfaces and Interaction",
-        "data": "May 2021",
-        "authors": [
-            "Omair Shahzad Bhatti",
-            "Michael Barz",
-            "Daniel Sonntag"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458001",
-        "citation": "3",
-        "abstract": "The usage of interactive public displays has increased including the number of sensitive applications and, hence, the demand for user authentication methods. In this context, gaze-based authentication was shown to be effective and more secure, but significantly slower than touch- or gesture-based methods. We implement a calibration-free and fast authentication method for situated displays based on saccadic eye movements. In a user study (n = 10), we compare our new method with CueAuth from Khamis et al. (IMWUT’18), an authentication method based on smooth pursuit eye movements. The results show a significant improvement in accuracy from 82.94% to 95.88%. At the same time, we found that the entry speed can be increased enormously with our method, on average, 18.28s down to 5.12s, which is comparable to touch-based input."
-    },
-    {
-        "title": "Pinch, Click, or Dwell: Comparing Different Selection Techniques for Eye-Gaze-Based Pointing in Virtual Reality",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: User Interfaces and Interaction",
-        "data": "May 2021",
-        "authors": [
-            "Aunnoy K Mutasim",
-            "Anil Ufuk Batmaz",
-            "Wolfgang Stuerzlinger"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457998",
-        "citation": "17",
-        "abstract": "While a pinch action is gaining popularity for selection of virtual objects in eye-gaze-based systems, it is still unknown how well this method performs compared to other popular alternatives, e.g., a button click or a dwell action. To determine pinch’s performance in terms of execution time, error rate, and throughput, we implemented a Fitts’ law task in Virtual Reality (VR) where the subjects pointed with their (eye-)gaze and selected / activated the targets by pinch, clicking a button, or dwell. Results revealed that although pinch was slower, made more errors, and had less throughput compared to button clicks, none of these differences were significant. Dwell exhibited the least errors but was significantly slower and achieved less throughput compared to the other conditions. Based on these findings, we conclude that the pinch gesture is a reasonable alternative to button clicks for eye-gaze-based VR systems."
-    },
-    {
-        "title": "A Multimodal Eye Movement Dataset and a Multimodal Eye Movement Segmentation Analysis",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Eye Movements and Attention",
-        "data": "May 2021",
-        "authors": [
-            "Wolfgang Fuhl",
-            "Enkelejda Kasneci"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458004",
-        "citation": "4",
-        "abstract": "We present a new dataset with annotated eye movements. The dataset consists of over 800,000 gaze points recorded during a car ride in the real world and in the simulator. In total, the eye movements of 19 subjects were annotated. In this dataset, there are several data sources including the eyelid closure, the pupil center, the optical vector, and a vector into the pupil center starting from the center of the eye corners. These different data sources are analyzed and evaluated individually as well as in combination with respect to their suitability for eye movement classification. These results will help developers of real-time systems and algorithms to find the best data sources for their application. Also, new algorithms can be trained and evaluated on this data set. Link to code and dataset https://atreus.informatik.uni-tuebingen.de/seafile/d/8e2ab8c3fdd444e1a135/?p=%2FA%20Multimodal%20Eye%20Movement%20Dataset%20and%20...&mode=list"
-    },
-    {
-        "title": "55 Rides: attention annotated head and gaze data during naturalistic driving",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Eye Movements and Attention",
-        "data": "May 2021",
-        "authors": [
-            "Thomas C Kübler",
-            "Wolfgang Fuhl",
-            "Elena Wagner",
-            "Enkelejda Kasneci"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457993",
-        "citation": "2",
-        "abstract": "Trained eye patterns are essential for safe driving. Whether for exploration of the surrounding traffic or to make sure that a lane is clear through a shoulder check - quick and effective perception is the key to driving safety. Surprisingly though, free and open access data on gaze behavior during driving are yet extremely sparse. The environment inside a vehicle is challenging for eye-tracking technology due to rapidly changing illumination conditions, such as exiting a tunnel to brightest sunlight, proper calibration and safety. So far, available data exhibits environments that likely influence the viewing behavior, sometimes dramatically (e.g., driving simulators without mirrors, limited field of view)."
-    },
-    {
-        "title": "Fixation: A universal framework for experimental eye movement research✱",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Eye Movements and Attention",
-        "data": "May 2021",
-        "authors": [
-            "Mostafa Elshamy",
-            "Peter Khooshabeh"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458007",
-        "citation": "0",
-        "abstract": "We propose a free and open-source framework for experimental eye movement research, whereby a researcher can record and visualize gaze data and export it for analysis using an offline web application without proprietary components or licensing restrictions. The framework is agnostic to the source of the raw gaze stream and can be used with any eye tracking platform by mapping data to a standard json-based format and streaming it in real time. We leverage web technologies to address data privacy concerns and demonstrate support for recording at 300 Hz and real-time visualization."
-    },
-    {
-        "title": "Estimation of Visual Attention using Microsaccades in response to Vibrations in the Peripheral Field of Vision",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Eye Movements and Attention",
-        "data": "May 2021",
-        "authors": [
-            "Takahiro Ueno",
-            "Minoru Nakayama"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458012",
-        "citation": "2",
-        "abstract": "Viewer’s eye movements and behavioural responses were analysed in order to determine the relationship between selective perception and visual attention during a dual detection task in the central and peripheral fields of vision, in order to design a better functioning information display. Changes in visual attention levels were evaluated using the temporal frequency of microsaccades. Accurate rates of stimulus detection response and microsaccade frequency were estimated using a hierarchical Bayesian model. In the results, the dominance of the response in the peripheral field of vision is confirmed. Also, chronological changes in levels of attention and the contribution of these changes to behavioural responses were examined. The relationship between behavioural responses, micorsaccade frequency, and the directional dominance of certain viewing areas in the peripheral field of vision were discussed, in order to evaluate the level of visual attention of viewers."
-    },
-    {
-        "title": "Saccades, attentional orienting and disengagement: the effects of anodal tDCS over right posterior parietal cortex (PPC) and frontal eye field (FEF)",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: Eye Movements and Attention",
-        "data": "May 2021",
-        "authors": [
-            "Lorenzo Diana",
-            "Patrick Pilastro",
-            "Edoardo N. Aiello",
-            "Aleksandra K. Eberhard-Moscicka",
-            "René M. Müri",
-            "Nadia Bolognini"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457995",
-        "citation": "0",
-        "abstract": "In the present work, we applied anodal transcranial direct current stimulation (tDCS) over the posterior parietal cortex (PPC) and frontal eye field (FEF) of the right hemisphere in healthy subjects to modulate attentional orienting and disengagement in a gap-overlap task. Both stimulations led to bilateral improvements in saccadic reaction times (SRTs), with larger effects for gap trials. However, analyses showed that the gap effect was not affected by tDCS. Importantly, we observed significant effects of baseline performance that may mediate side- and task-specific effects of brain stimulation."
-    },
-    {
-        "title": "Minimizing Cognitive Load in Cyber Learning Materials – An Eye Tracking Study",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: EYESEC: Workshop on Eye-Gaze for Security Applications",
-        "data": "May 2021",
-        "authors": [
-            "Leon Bernard",
-            "Sagar Raina",
-            "Blair Taylor",
-            "Siddharth Kaza"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458617",
-        "citation": "0",
-        "abstract": "Cybersecurity education is critical in addressing the global cyber crisis. However, cybersecurity is inherently complex and teaching cyber can lead to cognitive overload among students. Cognitive load includes: 1) intrinsic load (IL- due to inherent difficulty of the topic), 2) extraneous (EL- due to presentation of material), and 3) germane (GL- due to extra effort put in for learning). The challenge is to minimize IL and EL and maximize GL. We propose a model to develop cybersecurity learning materials that incorporate both the Bloom's taxonomy cognitive framework and the design principles of content segmentation and interactivity. We conducted a randomized control/treatment group study to test the proposed model by measuring cognitive load using two eye-tracking metrics (fixation duration and pupil size) between two cybersecurity learning modalities – 1) segmented and interactive modules, and 2) traditional-without segmentation and interactivity (control). Nineteen computer science majors in a large comprehensive university participated in the study and completed a learning module focused on integer overflow in a popular programming language."
-    },
-    {
-        "title": "Eye-GUAna: Higher Gaze-Based Entropy and Increased Password Space in Graphical User Authentication Through Gamification",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: EYESEC: Workshop on Eye-Gaze for Security Applications",
-        "data": "May 2021",
-        "authors": [
-            "Christina Katsini",
-            "George E. Raptis",
-            "Andrew Jian-lan Cen",
-            "Nalin Asanka Gamagedara Arachchilage",
-            "Lennart E. Nacke"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458615",
-        "citation": "0",
-        "abstract": "Graphical user authentication (GUA) is a common alternative to text-based user authentication, where people are required to draw graphical passwords on background images. Recent research provides evidence that gamification of the graphical password creation process influences people to make less predictable choices. Aiming to understand the underlying reasons from a visual behavior perspective, in this paper, we report a small-scale eye-tracking study that compares the visual behavior developed by people who follow a gamified approach and people who follow a non-gamified approach to make their graphical password choices. The results show that people who follow a gamified approach have higher gaze-based entropy, as they fixate on more image areas and for longer periods, and thus, they have an increased effective password space, which could lead to better and less predictable password choices."
-    },
-    {
-        "title": "Effects of measurement time and presentation size conditions on biometric identification using eye movements",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: EYESEC: Workshop on Eye-Gaze for Security Applications",
-        "data": "May 2021",
-        "authors": [
-            "Yudai Niitsu",
-            "Minoru Nakayama"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458616",
-        "citation": "0",
-        "abstract": "Biometric identification using eye movements is an identification method with low risk of spoofing, however the problem with it is that the eye movement measurement time is long. In this paper, we studied pattern lock authentication using eye movement features. As a result of 1-to-N identification using the data of six subjects, it was found that the identification rate was maximized at a measurement time of 3 seconds, indicating that it was possible to identify individuals in a short measurement time. In addition, we examined the effects of the data measurement time conditions and the presentation size on the rate of identification. The condition which maximized the identification rate was a measurement time limit of 3 seconds or the presentation of a stimulus pattern using a visual angle of 27.20°. Furthermore, the Mel-Frequency Cepstral Coefficient (MFCC) of the viewpoint coordinates and the diameter of the pupil were the features that contributed most to identification."
-    },
-    {
-        "title": "EyeTell: Tablet-based Calibration-free Eye-typing using Smooth-pursuit movements",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: COGAIN Symposium 2021",
-        "data": "May 2021",
-        "authors": [
-            "Tanya Bafna",
-            "Per Bækgaard",
-            "John Paulin Paulin Hansen"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458015",
-        "citation": "2",
-        "abstract": "Gaze tracking technology, with the increasingly robust and lightweight equipment, can have tremendous applications. To use the technology during short interactions, such as in public displays or hospitals to communicate non-verbally after a surgery, the application needs to be intuitive without requiring a calibration. Gaze gestures such as smooth-pursuit eye movements can be detected without calibration. We report the working performance of a calibration-free eye-typing application using only the front-facing camera of a tablet. In a user study with 29 participants, we obtained an average typing speed of 1.27 WPM after four trials and a maximum typing speed of 1.95 WPM."
-    },
-    {
-        "title": "Did you Understand this?: Leveraging Gaze Behavior to Assess Questionnaire Comprehension",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: COGAIN Symposium 2021",
-        "data": "May 2021",
-        "authors": [
-            "Radiah Rivu",
-            "Yasmeen Abdrabou",
-            "Yomna Abdelrahman",
-            "Ken Pfeuffer",
-            "Dagmar Kern",
-            "Cornelia Neuert",
-            "Daniel Buschek",
-            "Florian Alt"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458018",
-        "citation": "1",
-        "abstract": "We investigate how problems in understanding text – specifically a word or a sentence – while filling in questionnaires are reflected in gaze behaviour. To identify text comprehension problems, while filling a questionnaire, and their correlation with the gaze features, we collected data from 42 participant. In a follow-up study (N=30), we evoked comprehension problems and features they affect and quantified users’ gaze behaviour. Our findings implies that comprehension problems could be reflected in a set of gaze features, namely, in the number of fixations, duration of fixations, and number of regressions. Our findings not only demonstrate the potential of eye tracking for assessing reading comprehension but also pave the way for researchers and designers to build novel questionnaire tools that instantly mitigate problems in reading comprehension."
-    },
-    {
-        "title": "Multi-user Gaze-based Interaction Techniques on Collaborative Touchscreens",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: COGAIN Symposium 2021",
-        "data": "May 2021",
-        "authors": [
-            "Ken Pfeuffer",
-            "Jason Alexander",
-            "Hans Gellersen"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458016",
-        "citation": "1",
-        "abstract": "Eye-gaze is a technology for implicit, fast, and hands-free input for a variety of use cases, with the majority of techniques focusing on single-user contexts. In this work, we present an exploration into gaze techniques of users interacting together on the same surface. We explore interaction concepts that exploit two states in an interactive system: 1) users visually attending to the same object in the UI, or 2) users focusing on separate targets. Interfaces can exploit these states with increasing availability of eye-tracking. For example, to dynamically personalise content on the UI to each user, and to provide a merged or compromised view on an object when both users’ gaze are falling upon it. These concepts are explored with a prototype horizontal interface that tracks gaze of two users facing each other. We build three applications that illustrate different mappings of gaze to multi-user support: an indoor map with gaze-highlighted information, an interactive tree-of-life visualisation that dynamically expands on users’ gaze, and a worldmap application with gaze-aware fisheye zooming. We conclude with insights from a public deployment of this system, pointing toward the engaging and seamless ways how eye based input integrates into collaborative interaction."
-    },
-    {
-        "title": "Combining Oculo-motor Indices to Measure Cognitive Load of Synthetic Speech in Noisy Listening Conditions.",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: COGAIN Symposium 2021",
-        "data": "May 2021",
-        "authors": [
-            "Mateusz Dubiel",
-            "Minoru Nakayama",
-            "Xin Wang"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458013",
-        "citation": "1",
-        "abstract": "Gaze-based assistive technologies (ATs) that feature speech have the potential to improve the life of people with communication disorders. However, due to a limited understanding of how different speech types affect the cognitive load of users, an evaluation of ATs remains a challenge. Expanding on previous work, we combined temporal changes in pupil size and ocular movements (saccades and fixation differentials) to evaluate cognitive workload of two types of speech (natural and synthetic) mixed with noise, through a listening test. While observed pupil sizes were significantly larger at lower signal-to-noise levels, as participants listened and memorised speech stimuli; saccadic eye-movements were significantly more frequent for synthetic speech. In the synthetic condition, there was a strong negative correlation between pupil dilation and fixation differentials, indicating a higher strain on participants’ cognitive resources. These results suggest that combining oculo-motor indices can aid our understanding of the cognitive implications of different speech types."
-    },
-    {
-        "title": "Using Deep Learning to Classify Saccade Direction from Brain Activity",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: COGAIN Symposium 2021",
-        "data": "May 2021",
-        "authors": [
-            "Ard Kastrati",
-            "Martyna Beata Plomecka",
-            "Roger Wattenhofer",
-            "Nicolas Langer"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458014",
-        "citation": "1",
-        "abstract": "We present first insights into our project that aims to develop an Electroencephalography (EEG) based Eye-Tracker. Our approach is tested and validated on a large dataset of simultaneously recorded EEG and infrared video-based Eye-Tracking, serving as ground truth. We compared several state-of-the-art neural network architectures for time series classification: InceptionTime, EEGNet, and investigated other architectures such as convolutional neural networks (CNN) with Xception modules and Pyramidal CNN. We prepared and tested these architectures with our rich dataset and obtained a remarkable accuracy of the left/right saccades direction classification (94.8 %) for the InceptionTime network, after hyperparameter tuning."
-    },
-    {
-        "title": "Feasibility of evaluating temporal changes in cognitive load factors using ocular features",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: COGAIN Symposium 2021",
-        "data": "May 2021",
-        "authors": [
-            "Tomomi Okano",
-            "Minoru Nakayama"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3458019",
-        "citation": "1",
-        "abstract": "In this paper, we have focused on microsaccade, pupil diameter and eye movements to discover the relationship between cognitive load. In detail, we have confirmed the relevance of factors of mental workload and oculomotor reactions. Utilizing a visual search task, we measured how eye features change by combining subjective evaluation assessment data. To evaluate the amount of cognitive load gained, we used a systematic evaluation index, NASA-TLX and analyzed with correct rate and reaction time. As a result, we have discovered that oculomotor indices brings correlation relationship on specific cognitive load items."
-    },
-    {
-        "title": "Determining Differences in Reading Behavior Between Experts and Novices by Investigating Eye Movement on Source Code Constructs During a Bug Fixing Task",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: EMIP: Eye Movements in Programming",
-        "data": "May 2021",
-        "authors": [
-            "Salwa Aljehane",
-            "Bonita Sharif",
-            "Jonathan Maletic"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457424",
-        "citation": "3",
-        "abstract": "This research compares the eye movement of expert and novice programmers working on a bug fixing task. This comparison aims at investigating which source code elements programmers focus on when they review Java source code. Programmer code reading behaviors at the line and term levels are used to characterize the differences between experts and novices. The study analyzes programmers’ eye movements over identified source code areas using an existing eye tracking dataset of 12 experts and 10 novices. The results show that the difference between experts and novices is significant in source code element coverage. Specifically, novices read more method signatures, variable declarations, identifiers, and keywords compared to experts. However, experts are better at finishing the task using fewer source code elements when compared to novices. Moreover, programmers tend to focus on the method signatures the most while reading the code."
-    },
-    {
-        "title": "A Deeper Analysis of AOI Coverage in Code Reading",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: EMIP: Eye Movements in Programming",
-        "data": "May 2021",
-        "authors": [
-            "Teresa Busjahn",
-            "Sascha Tamm"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457422",
-        "citation": "2",
-        "abstract": "The proportion of areas of interest that are covered with gaze is employed as metric to compare natural-language text and source code reading, as well as novice and expert programmers’ code reading behavior. Two levels of abstraction are considered for AOIs: lines and elements. AOI coverage is significantly higher on natural-language text than on code, so a detailed account is provided on the areas that are skipped. Between novice and expert programmers, the overall AOI coverage is comparable. However, segmenting the stimuli into meaningful components revealed that they distribute their gaze differently and partly look at different AOIs. Thus, while programming expertise does not strongly influence AOI coverage quantitatively, it does so qualitatively."
-    },
-    {
-        "title": "Estimation of reading ability of program codes using features of eye movements",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: EMIP: Eye Movements in Programming",
-        "data": "May 2021",
-        "authors": [
-            "Hiroto Harada",
-            "Minoru Nakayama"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457421",
-        "citation": "3",
-        "abstract": "A prediction model for code reading ability using eye movement features was developed, and analysed in order to evaluate reader’s level of mastery and provide appropriate support. Sixty-nine features were extracted from eye movements during the reading of two program codes. These codes consisted of three areas of interest (AOIs) that were modules of code which performed 3 functions. Also, code reader’s performance ability was estimated using responses to question surveys and item response theory. The relationships between estimated ability and the metrics of eye movements were generated using a support vector regression technique. Factors of the extracted metrics were analysed. These results confirm the relationship between code comprehension reading behaviour and reading comprehension performance."
-    },
-    {
-        "title": "Eye Tracking Analysis of Code Layout, Crowding and Dyslexia - An Open Data Set",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: EMIP: Eye Movements in Programming",
-        "data": "May 2021",
-        "authors": [
-            "Ian McChesney",
-            "Raymond Bond"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457420",
-        "citation": "2",
-        "abstract": "Within computer science there is increasing recognition of the need for research data sets to be openly available to facilitate transparency and reproducibility of studies. In this short paper an open data set is described which contains the eye tracking recordings from an experiment in which programmers with and without dyslexia reviewed and described Java code. The aim of the experiment was to investigate if crowding in code layout affected the gaze behaviour and program comprehension of programmers with dyslexia. The data set provides data from 30 participants (14 dyslexia, 16 control) and their eye gaze behaviour in reviewing three small Java programs in various combinations of crowded and spaced configurations. The key features of the data set are described and observations made on the effect of alternative area of interest configurations. The paper concludes with some observations on enhancing access to data sets through metadata, data provenance and visualizations."
-    },
-    {
-        "title": "EMIP Toolkit: A Python Library for Customized Post-processing of the Eye Movements in Programming Dataset",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: EMIP: Eye Movements in Programming",
-        "data": "May 2021",
-        "authors": [
-            "Naser Al Madi",
-            "Drew Guarnera",
-            "Bonita Sharif",
-            "Jonathan Maletic"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457425",
-        "citation": "2",
-        "abstract": "The use of eye tracking in the study of program comprehension in software engineering allows researchers to gain a better understanding of the strategies and processes applied by programmers. Despite the large number of eye tracking studies in software engineering, very few datasets are publicly available. The existence of the large Eye Movements in Programming Dataset (EMIP) opens the door for new studies and makes reproducibility of existing research easier. In this paper, a Python library (the EMIP Toolkit) for customized post-processing of the EMIP dataset is presented. The toolkit is specifically designed to make using the EMIP dataset easier and more accessible. It implements features for fixation detection and correction, trial visualization, source code lexical data enrichment, and mapping fixation data over areas of interest. In addition to the toolkit, a filtered token-level dataset with scored recording quality is presented for all Java trials (accounting for 95.8% of the data) in the EMIP dataset."
-    },
-    {
-        "title": "REyeker: Remote Eye Tracker",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: EMIP: Eye Movements in Programming",
-        "data": "May 2021",
-        "authors": [
-            "Jonas Mucke",
-            "Marc Schwarzkopf",
-            "Janet Siegmund"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3457423",
-        "citation": "0",
-        "abstract": "Eye tracking allows us to shed light on how developers read and understand source code and how that is linked to cognitive processes. However, studies with eye trackers are usually tied to a laboratory, requiring to observe participants one at a time, which is especially challenging in the current pandemic. To allow for safe and parallel observation, we present our tool REyeker, which allows researchers to observe developers remotely while they understand source code from their own computer without having to directly interact with the experimenter. The original image is blurred to distort text regions and disable legibility, requiring participants to click on areas of interest to deblur them to make them readable. While REyeker naturally can only track eye movements to a limited degree, it allows researchers to get a basic understanding of developers’ reading behavior."
-    },
-    {
-        "title": "What the Eyes Can Tell: Analyzing Visual Attention with an Educational Video Game",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: PLEY: 2nd Eye Tracking in Games and Play Workshop",
-        "data": "May 2021",
-        "authors": [
-            "Wenyi Lu",
-            "Hao He",
-            "Alex Urban",
-            "Joe Griffin"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3459654",
-        "citation": "0",
-        "abstract": "3D video games show potential as educational tools that improve learner engagement. Integrating 3D games into school curricula, however, faces various challenges. One challenge is providing visualizations on learning dashboards for instructors. Such dashboards provide needed information so that instructors may conduct timely and appropriate interventions when students need it. Another challenge is identifying contributive learning predictors for a computational model, which can be the core algorithm used to make games more intelligent for tutoring and assessment purposes. Previous studies have found that students' visual-attention is a vital aspect of engagement during gameplay. However, few studies have examined whether attention visualization patterns can distinguish students from different performance groups. Complicating this research is the relatively nascent investigation into gaze metrics for learning-prediction models. In this exploratory study, we used eye-tracking data from an educational game, Mission HydroSci, to examine visual-attention pattern differences between low and high performers and how their self-reported demographics affect such patterns. Results showed different visual-attention patterns between low and high performers. Additionally, self-reported science, gaming, and navigational expertise levels were significantly correlated to several gaze metric features."
-    },
-    {
-        "title": "Analyzing Scanpaths From A Field Dependence-Independence Perspective When Playing A Visual Search Game",
-        "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: PLEY: 2nd Eye Tracking in Games and Play Workshop",
-        "data": "May 2021",
-        "authors": [
-            "George E. Raptis",
-            "Christina Katsini"
-        ],
-        "DOI": "https://doi.org/10.1145/3448018.3459655",
-        "citation": "1",
-        "abstract": "People tend to develop different cognitive styles, which influence how we process information when interacting with computer systems. Field Dependence-Independence is one of the most well-known cognitive styles that influences how we process information in visual search tasks. Considering that such tasks are common in video games, this paper investigates whether information processing differences, derived from Field Dependence-Independence cognitive style, reflect on different eye trajectories when playing a visual search game. We performed a small-scale eye-tracking study to investigate it. The results of the scanpath analysis indicated that such differences exist. The study results provide a first step towards understanding how people who share different cognitive styles differ in the scanpaths they develop when playing a visual search game."
-    }
+  {
+    "title": "Synchronization of Spontaneous Eyeblink during Formula Car Driving",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Applications",
+    "data": "May 2021",
+    "authors": ["Ryota Nishizono", "Naoki Saijo", "Makio Kashino"],
+    "DOI": "https://doi.org/10.1145/3448018.3458002",
+    "citation": "1",
+    "abstract": "Formula car racing is a highly competitive sport. Previous studies have investigated the physiological characteristics and motor behaviors of drivers; however, little is known about how they modulate their cognitive states to improve their skills. Spontaneous eyeblink is a noteworthy factor because it reflects attentional states and is important for drivers to minimize the chance of losing critical visual information. In this study, we investigated whether the blink rate, blink synchronization among laps in each driver, and synchronization across drivers were related to their performance. Toward this end, we recorded the blinks and car behavior data of two professional drivers in quasi-racing environments. The results showed higher synchronization in higher-performance laps of each driver and across drivers but no significant change in blink rate. These results suggest that blink synchronization could reflect the changes in performance mode during formula car driving."
+  },
+  {
+    "title": "Towards gaze-based prediction of the intent to interact in virtual reality",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Applications",
+    "data": "May 2021",
+    "authors": [
+      "Brendan David-John",
+      "Candace Peacock",
+      "Ting Zhang",
+      "T. Scott Murdison",
+      "Hrvoje Benko",
+      "Tanya R. Jonker"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3458008",
+    "citation": "27",
+    "abstract": "With the increasing frequency of eye tracking in consumer products, including head-mounted augmented and virtual reality displays, gaze-based models have the potential to predict user intent and unlock intuitive new interaction schemes. In the present work, we explored whether gaze dynamics can predict when a user intends to interact with the real or digital world, which could be used to develop predictive interfaces for low-effort input. Eye-tracking data were collected from 15 participants performing an item-selection task in virtual reality. Using logistic regression, we demonstrated successful prediction of the onset of item selection. The most prevalent predictive features in the model were gaze velocity, ambient/focal attention, and saccade dynamics, demonstrating that gaze features typically used to characterize visual attention can be applied to model interaction intent. In the future, these types of models can be used to infer user’s near-term interaction goals and drive ultra-low-friction predictive interfaces."
+  },
+  {
+    "title": "Pupillary response reflects vocabulary comprehension",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Applications",
+    "data": "May 2021",
+    "authors": ["Takashi Hirata", "Yutaka Hirata"],
+    "DOI": "https://doi.org/10.1145/3448018.3457999",
+    "citation": "0",
+    "abstract": "It has been known that the pupil of the human eye responds not only to changes in brightness, but also those in cognitive activities. A recent study reported that pupillary dilation reflects one's ability to discriminate English sounds /l/ and /r/, suggesting that pupillary responses may be used to evaluate learner's listening comprehension. Presently, we recorded English learners’ pupillary responses in three situations: pre- (Control), in- (Study), and post-study (Test). We then classified our participants into two groups based upon their test scores (high and low), and compared their pupillary responses in the three situations. As the result, significantly different pupillary responses (dilatation) were observed between the two groups in Study. This result suggests that quantitative observation of pupillary responses may replace or be employed in parallel with traditional vocabulary tests to make vocabulary learning more efficient."
+  },
+  {
+    "title": "Understanding Game Roles and Strategy Using a Mixed Methods Approach",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Applications",
+    "data": "May 2021",
+    "authors": ["Kaitlyn M Roose", "Elizabeth S. Veinott"],
+    "DOI": "https://doi.org/10.1145/3448018.3458006",
+    "citation": "0",
+    "abstract": "In this paper, we use the Tracer Method to examine a complex and team-oriented, first-person shooter game to determine how the output can better inform Esports training. The Tracer Method combines eye tracking with Critical Decision Method to focus the analyses on the critical aspects of gameplay, while providing insight into the most frequent visual search transitions across game areas of interest. We examined the differences across three in-game roles and three decision types (strategic, operational, and tactical) using network centrality diagrams and entropy measures. No differences in overall stationary entropy were found for either role or decision type. However, each game role and decision type produced a different network centrality diagram, indicating different visual search transitions, which could support training of Esport players."
+  },
+  {
+    "title": "Understanding Urban Devotion through the Eyes of an Observer",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Applications",
+    "data": "May 2021",
+    "authors": [
+      "Margarita Vinnikov",
+      "Kian Motahari",
+      "Louis I. Hamilton",
+      "Burcak Ozludil Altin"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3458003",
+    "citation": "0",
+    "abstract": "If and how an individual’s social, economic, and cultural backgrounds affect their perception of the built environment, is a fundamental problem for architects, anthropologists, historians, and urban planners alike. Similar factors affect an individual’s religious beliefs and tendencies. Our research addresses the intersection of personal background and perception of sacred space by examining people’s responses to a virtual replica of a “madonella,” a street shrine in Rome. The shrine was virtually recreated using photogrammetry. It was optimized for user studies employing VIVE Pro Eye. The study looked at the gaze behavior of 24 participants and compared their gaze patterns with demographic background and social-communal responses. The study finds that certain religious habits of an individual could predict their fixational features, including the number and total duration of fixations, on pivotal areas of interest in the shrine environment (even though these areas were placed outside of immediate sight). These results are a promising start to our ongoing study of the perception and received meaning of sacred space."
+  },
+  {
+    "title": "Repetition effects in task-driven eye movement analyses after longer time-spans",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Methods",
+    "data": "May 2021",
+    "authors": ["Thomas Berger", "Michael Raschke"],
+    "DOI": "https://doi.org/10.1145/3448018.3458005",
+    "citation": "1",
+    "abstract": "Visualizations are an important tool in risk management to support decision-making of recipients of risk reports. Many trainings aim at helping managers to better understand how to read such visualizations. In this paper we present first results of an ongoing large study on the effect of repeated presentation of risk visualizations from annual reports. This is of importance to find out if such repetitions have an effect on accuracy and the behavior of readers. Contrary to other studies we had longer time-spans of months and weeks between two trials. We found that fixation durations are different after second presentation and that the number of fixations generally are lower. We also analyzed scan paths, indicating that regions that are more semantically meaningful are more often in the center of attention. We call for more studies with longer time spans between two trials as we found some interesting patterns."
+  },
+  {
+    "title": "Eye Gaze Estimation using Imperceptible Marker Presented on High-Speed Display",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Methods",
+    "data": "May 2021",
+    "authors": ["Kento Seida", "Kentaro Takemura"],
+    "DOI": "https://doi.org/10.1145/3448018.3458000",
+    "citation": "1",
+    "abstract": "Advanced eye-tracking methods require a dedicated display equipped with near-infrared LEDs (light-emitting diodes). However, this requirement hinders the widespread adoption of such methods. Additionally, some glints may pass undetected when a large display is employed. To avoid these problems, we propose eye gaze estimation using imperceptible markers presented on a commercially available high-speed display. The marker reference points reflected on the cornea are extracted instead of glints, and the point-of-gaze can be estimated using the cross-ratio method. The accuracy of the estimated point-of-gaze was approximately 1.64 degrees, as verified from experimental evaluations of the estimation using a high-speed display."
+  },
+  {
+    "title": "Semi-Supervised Learning for Eye Image Segmentation",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Methods",
+    "data": "May 2021",
+    "authors": [
+      "Aayush Kumar Chaudhary",
+      "Prashnna K Gyawali",
+      "Linwei Wang",
+      "Jeff B Pelz"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3458009",
+    "citation": "1",
+    "abstract": "Recent advances in appearance-based models have shown improved eye tracking performance in difficult scenarios like occlusion due to eyelashes, eyelids or camera placement, and environmental reflections on the cornea and glasses. The key reason for the improvement is the accurate and robust identification of eye parts (pupil, iris, and sclera regions). The improved accuracy often comes at the cost of labeling an enormous dataset, which is complex and time-consuming. This work presents two semi-supervised learning frameworks to identify eye-parts by taking advantage of unlabeled images where labeled datasets are scarce. With these frameworks, leveraging the domain-specific augmentation and novel spatially varying transformations for image segmentation, we show improved performance on various test cases with limited labeled samples. For instance, for a model trained on just 4 and 48 labeled images, these frameworks improved by at least 4.7% and 0.4% respectively, in segmentation performance over the baseline model, which is trained only with the labeled dataset."
+  },
+  {
+    "title": "Modelling of Blink-Related Eyelid-Induced Shunting on the Electrooculogram",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Methods",
+    "data": "May 2021",
+    "authors": [
+      "Nathaniel Barbara",
+      "Tracey A. Camilleri",
+      "Kenneth P. Camilleri"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3457994",
+    "citation": "1",
+    "abstract": "Besides the traditional regression model-based techniques to estimate the gaze angles (GAs) from electrooculography (EOG) signals, more recent works have investigated the use of a battery model for GA estimation. This is a white-box, explicit and physically-driven model which relates the monopolar EOG potential to the electrode-cornea and electrode-retina distances. In this work, this model is augmented to cater for the blink-induced EOG signal characteristics, by modelling the eyelid-induced shunting effect during blinks. Specifically, a channel-dependent parameter representing the extent to which the amount of eyelid opening affects the particular EOG channel is introduced. A method to estimate these parameters is also proposed and the proposed model is validated by incorporating it in a Kalman filter to estimate the eyelid opening during blinks. The results obtained have demonstrated that the proposed model can accurately represent the blink-related eyelid-induced shunting."
+  },
+  {
+    "title": "Visualizing Prediction Correctness of Eye Tracking Classifiers",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Methods",
+    "data": "May 2021",
+    "authors": [
+      "Martin H.U. Prinzler",
+      "Christoph Schröder",
+      "Sahar Mahdie Klim Al Zaidawi",
+      "Gabriel Zachmann",
+      "Sebastian Maneth"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3457997",
+    "citation": "0",
+    "abstract": "Eye tracking data is often used to train machine learning algorithms for classification tasks. The main indicator of performance for such classifiers is typically their prediction accuracy. However, this number does not reveal any information about the specific intrinsic workings of the classifier. In this paper we introduce novel visualization methods which are able to provide such information. We introduce the Prediction Correctness Value (PCV). It is the difference between the calculated probability for the correct class and the maximum calculated probability for any other class. Based on the PCV we present two visualizations:  (1) coloring segments of eye tracking trajectories according to their PCV, thus indicating how beneficial certain parts are towards correct classification, and (2) overlaying similar information for all participants to produce a heatmap that indicates at which places fixations are particularly beneficial towards correct classification. Using these new visualizations we compare the performance of two classifiers (RF and RBFN)."
+  },
+  {
+    "title": "OpenNEEDS: A Dataset of Gaze, Head, Hand, and Scene Signals During Exploration in Open-Ended VR Environments",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Methods",
+    "data": "May 2021",
+    "authors": [
+      "Kara J Emery",
+      "Marina Zannoli",
+      "James Warren",
+      "Lei Xiao",
+      "Sachin S Talathi"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3457996",
+    "citation": "7",
+    "abstract": "We present OpenNEEDS, the first large-scale, high frame rate, comprehensive, and open-source dataset of Non-Eye (head, hand, and scene) and Eye (3D gaze vectors) data captured for 44 participants as they freely explored two virtual environments with many potential tasks (i.e., reading, drawing, shooting, object manipulation, etc.). With this dataset, we aim to enable research on the relationship between head, hand, scene, and gaze spatiotemporal statistics and its applications to gaze estimation. To demonstrate the power of OpenNEEDS, we show that gaze estimation models using individual non-eye sensors and an early fusion model combining all non-eye sensors outperform all baseline gaze estimation models considered, suggesting the possibility of considering non-eye sensors in the design of robust eye trackers. We anticipate that this dataset will support research progress in many areas and applications such as gaze estimation and prediction, sensor fusion, human-computer interaction, intent prediction, perceptuo-motor control, and machine learning."
+  },
+  {
+    "title": "Enhancing the precision of remote eye-tracking using iris velocity estimation",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Methods",
+    "data": "May 2021",
+    "authors": ["Aayush Kumar Chaudhary", "Jeff B Pelz"],
+    "DOI": "https://doi.org/10.1145/3448018.3458010",
+    "citation": "1",
+    "abstract": "Most of the previous work on eye-tracking has focused on positional information of the eye features. Recent advances in camera technology such as high-resolution and event cameras allow consideration of the velocity estimate for eye tracking. Some previous work on velocity-based estimates has demonstrated high-precision gaze estimation by tracking the motion of iris features on high-resolution images rather than by exploiting pupil edges. While these methods provide high precision, the bottleneck for velocity-based methods are temporal drift and the inability to track across blinks. In this work, we present a new theoretical methodology (πt) to address these issues by optimally combining low-temporal frequency components of the pupil edges with the high-temporal frequency components from the iris textures. We show improved precision with this method while fixating a series of small targets and following a smoothly moving target. Further, we demonstrate the capability to reliably identify microsaccades between targets separated by 0.2°."
+  },
+  {
+    "title": "Gaze+Lip: Rapid, Precise and Expressive Interactions Combining Gaze Input and Silent Speech Commands for Hands-free Smart TV Control",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: User Interfaces and Interaction",
+    "data": "May 2021",
+    "authors": ["Zixiong Su", "Xinlei Zhang", "Naoki Kimura", "Jun Rekimoto"],
+    "DOI": "https://doi.org/10.1145/3448018.3458011",
+    "citation": "5",
+    "abstract": "As eye-tracking technologies develop, gaze becomes more and more popular as an input modality. However, in situations that require fast and precise object selection, gaze is hard to use because of limited accuracy. We present Gaze+Lip, a hands-free interface that combines gaze and lip reading to enable rapid and precise remote controls when interacting with big displays. Gaze+Lip takes advantage of gaze for target selection and leverages silent speech to ensure accurate and reliable command execution in noisy scenarios such as watching TV or playing videos on a computer. For evaluation, we implemented a system on a TV, and conducted an experiment to compare our method with the dwell-based gaze-only input method. Results showed that Gaze+Lip outperformed the gaze-only approach in accuracy and input speed. Furthermore, subjective evaluations indicated that Gaze+Lip is easy to understand, easy to use, and has higher perceived speed than the gaze-only approach."
+  },
+  {
+    "title": "EyeLogin - Calibration-free Authentication Method for Public Displays Using Eye Gaze",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: User Interfaces and Interaction",
+    "data": "May 2021",
+    "authors": ["Omair Shahzad Bhatti", "Michael Barz", "Daniel Sonntag"],
+    "DOI": "https://doi.org/10.1145/3448018.3458001",
+    "citation": "3",
+    "abstract": "The usage of interactive public displays has increased including the number of sensitive applications and, hence, the demand for user authentication methods. In this context, gaze-based authentication was shown to be effective and more secure, but significantly slower than touch- or gesture-based methods. We implement a calibration-free and fast authentication method for situated displays based on saccadic eye movements. In a user study (n = 10), we compare our new method with CueAuth from Khamis et al. (IMWUT’18), an authentication method based on smooth pursuit eye movements. The results show a significant improvement in accuracy from 82.94% to 95.88%. At the same time, we found that the entry speed can be increased enormously with our method, on average, 18.28s down to 5.12s, which is comparable to touch-based input."
+  },
+  {
+    "title": "Pinch, Click, or Dwell: Comparing Different Selection Techniques for Eye-Gaze-Based Pointing in Virtual Reality",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: User Interfaces and Interaction",
+    "data": "May 2021",
+    "authors": [
+      "Aunnoy K Mutasim",
+      "Anil Ufuk Batmaz",
+      "Wolfgang Stuerzlinger"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3457998",
+    "citation": "18",
+    "abstract": "While a pinch action is gaining popularity for selection of virtual objects in eye-gaze-based systems, it is still unknown how well this method performs compared to other popular alternatives, e.g., a button click or a dwell action. To determine pinch’s performance in terms of execution time, error rate, and throughput, we implemented a Fitts’ law task in Virtual Reality (VR) where the subjects pointed with their (eye-)gaze and selected / activated the targets by pinch, clicking a button, or dwell. Results revealed that although pinch was slower, made more errors, and had less throughput compared to button clicks, none of these differences were significant. Dwell exhibited the least errors but was significantly slower and achieved less throughput compared to the other conditions. Based on these findings, we conclude that the pinch gesture is a reasonable alternative to button clicks for eye-gaze-based VR systems."
+  },
+  {
+    "title": "A Multimodal Eye Movement Dataset and a Multimodal Eye Movement Segmentation Analysis",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Eye Movements and Attention",
+    "data": "May 2021",
+    "authors": ["Wolfgang Fuhl", "Enkelejda Kasneci"],
+    "DOI": "https://doi.org/10.1145/3448018.3458004",
+    "citation": "6",
+    "abstract": "We present a new dataset with annotated eye movements. The dataset consists of over 800,000 gaze points recorded during a car ride in the real world and in the simulator. In total, the eye movements of 19 subjects were annotated. In this dataset, there are several data sources including the eyelid closure, the pupil center, the optical vector, and a vector into the pupil center starting from the center of the eye corners. These different data sources are analyzed and evaluated individually as well as in combination with respect to their suitability for eye movement classification. These results will help developers of real-time systems and algorithms to find the best data sources for their application. Also, new algorithms can be trained and evaluated on this data set. Link to code and dataset https://atreus.informatik.uni-tuebingen.de/seafile/d/8e2ab8c3fdd444e1a135/?p=%2FA%20Multimodal%20Eye%20Movement%20Dataset%20and%20...&mode=list"
+  },
+  {
+    "title": "55 Rides: attention annotated head and gaze data during naturalistic driving",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Eye Movements and Attention",
+    "data": "May 2021",
+    "authors": [
+      "Thomas C Kübler",
+      "Wolfgang Fuhl",
+      "Elena Wagner",
+      "Enkelejda Kasneci"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3457993",
+    "citation": "2",
+    "abstract": "Trained eye patterns are essential for safe driving. Whether for exploration of the surrounding traffic or to make sure that a lane is clear through a shoulder check - quick and effective perception is the key to driving safety. Surprisingly though, free and open access data on gaze behavior during driving are yet extremely sparse. The environment inside a vehicle is challenging for eye-tracking technology due to rapidly changing illumination conditions, such as exiting a tunnel to brightest sunlight, proper calibration and safety. So far, available data exhibits environments that likely influence the viewing behavior, sometimes dramatically (e.g., driving simulators without mirrors, limited field of view)."
+  },
+  {
+    "title": "Fixation: A universal framework for experimental eye movement research✱",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Eye Movements and Attention",
+    "data": "May 2021",
+    "authors": ["Mostafa Elshamy", "Peter Khooshabeh"],
+    "DOI": "https://doi.org/10.1145/3448018.3458007",
+    "citation": "0",
+    "abstract": "We propose a free and open-source framework for experimental eye movement research, whereby a researcher can record and visualize gaze data and export it for analysis using an offline web application without proprietary components or licensing restrictions. The framework is agnostic to the source of the raw gaze stream and can be used with any eye tracking platform by mapping data to a standard json-based format and streaming it in real time. We leverage web technologies to address data privacy concerns and demonstrate support for recording at 300 Hz and real-time visualization."
+  },
+  {
+    "title": "Estimation of Visual Attention using Microsaccades in response to Vibrations in the Peripheral Field of Vision",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Eye Movements and Attention",
+    "data": "May 2021",
+    "authors": ["Takahiro Ueno", "Minoru Nakayama"],
+    "DOI": "https://doi.org/10.1145/3448018.3458012",
+    "citation": "2",
+    "abstract": "Viewer’s eye movements and behavioural responses were analysed in order to determine the relationship between selective perception and visual attention during a dual detection task in the central and peripheral fields of vision, in order to design a better functioning information display. Changes in visual attention levels were evaluated using the temporal frequency of microsaccades. Accurate rates of stimulus detection response and microsaccade frequency were estimated using a hierarchical Bayesian model. In the results, the dominance of the response in the peripheral field of vision is confirmed. Also, chronological changes in levels of attention and the contribution of these changes to behavioural responses were examined. The relationship between behavioural responses, micorsaccade frequency, and the directional dominance of certain viewing areas in the peripheral field of vision were discussed, in order to evaluate the level of visual attention of viewers."
+  },
+  {
+    "title": "Saccades, attentional orienting and disengagement: the effects of anodal tDCS over right posterior parietal cortex (PPC) and frontal eye field (FEF)",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: Eye Movements and Attention",
+    "data": "May 2021",
+    "authors": [
+      "Lorenzo Diana",
+      "Patrick Pilastro",
+      "Edoardo N. Aiello",
+      "Aleksandra K. Eberhard-Moscicka",
+      "René M. Müri",
+      "Nadia Bolognini"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3457995",
+    "citation": "0",
+    "abstract": "In the present work, we applied anodal transcranial direct current stimulation (tDCS) over the posterior parietal cortex (PPC) and frontal eye field (FEF) of the right hemisphere in healthy subjects to modulate attentional orienting and disengagement in a gap-overlap task. Both stimulations led to bilateral improvements in saccadic reaction times (SRTs), with larger effects for gap trials. However, analyses showed that the gap effect was not affected by tDCS. Importantly, we observed significant effects of baseline performance that may mediate side- and task-specific effects of brain stimulation."
+  },
+  {
+    "title": "Minimizing Cognitive Load in Cyber Learning Materials – An Eye Tracking Study",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: EYESEC: Workshop on Eye-Gaze for Security Applications",
+    "data": "May 2021",
+    "authors": [
+      "Leon Bernard",
+      "Sagar Raina",
+      "Blair Taylor",
+      "Siddharth Kaza"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3458617",
+    "citation": "0",
+    "abstract": "Cybersecurity education is critical in addressing the global cyber crisis. However, cybersecurity is inherently complex and teaching cyber can lead to cognitive overload among students. Cognitive load includes: 1) intrinsic load (IL- due to inherent difficulty of the topic), 2) extraneous (EL- due to presentation of material), and 3) germane (GL- due to extra effort put in for learning). The challenge is to minimize IL and EL and maximize GL. We propose a model to develop cybersecurity learning materials that incorporate both the Bloom's taxonomy cognitive framework and the design principles of content segmentation and interactivity. We conducted a randomized control/treatment group study to test the proposed model by measuring cognitive load using two eye-tracking metrics (fixation duration and pupil size) between two cybersecurity learning modalities – 1) segmented and interactive modules, and 2) traditional-without segmentation and interactivity (control). Nineteen computer science majors in a large comprehensive university participated in the study and completed a learning module focused on integer overflow in a popular programming language."
+  },
+  {
+    "title": "Eye-GUAna: Higher Gaze-Based Entropy and Increased Password Space in Graphical User Authentication Through Gamification",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: EYESEC: Workshop on Eye-Gaze for Security Applications",
+    "data": "May 2021",
+    "authors": [
+      "Christina Katsini",
+      "George E. Raptis",
+      "Andrew Jian-lan Cen",
+      "Nalin Asanka Gamagedara Arachchilage",
+      "Lennart E. Nacke"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3458615",
+    "citation": "0",
+    "abstract": "Graphical user authentication (GUA) is a common alternative to text-based user authentication, where people are required to draw graphical passwords on background images. Recent research provides evidence that gamification of the graphical password creation process influences people to make less predictable choices. Aiming to understand the underlying reasons from a visual behavior perspective, in this paper, we report a small-scale eye-tracking study that compares the visual behavior developed by people who follow a gamified approach and people who follow a non-gamified approach to make their graphical password choices. The results show that people who follow a gamified approach have higher gaze-based entropy, as they fixate on more image areas and for longer periods, and thus, they have an increased effective password space, which could lead to better and less predictable password choices."
+  },
+  {
+    "title": "Effects of measurement time and presentation size conditions on biometric identification using eye movements",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: EYESEC: Workshop on Eye-Gaze for Security Applications",
+    "data": "May 2021",
+    "authors": ["Yudai Niitsu", "Minoru Nakayama"],
+    "DOI": "https://doi.org/10.1145/3448018.3458616",
+    "citation": "0",
+    "abstract": "Biometric identification using eye movements is an identification method with low risk of spoofing, however the problem with it is that the eye movement measurement time is long. In this paper, we studied pattern lock authentication using eye movement features. As a result of 1-to-N identification using the data of six subjects, it was found that the identification rate was maximized at a measurement time of 3 seconds, indicating that it was possible to identify individuals in a short measurement time. In addition, we examined the effects of the data measurement time conditions and the presentation size on the rate of identification. The condition which maximized the identification rate was a measurement time limit of 3 seconds or the presentation of a stimulus pattern using a visual angle of 27.20°. Furthermore, the Mel-Frequency Cepstral Coefficient (MFCC) of the viewpoint coordinates and the diameter of the pupil were the features that contributed most to identification."
+  },
+  {
+    "title": "EyeTell: Tablet-based Calibration-free Eye-typing using Smooth-pursuit movements",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: COGAIN Symposium 2021",
+    "data": "May 2021",
+    "authors": ["Tanya Bafna", "Per Bækgaard", "John Paulin Paulin Hansen"],
+    "DOI": "https://doi.org/10.1145/3448018.3458015",
+    "citation": "2",
+    "abstract": "Gaze tracking technology, with the increasingly robust and lightweight equipment, can have tremendous applications. To use the technology during short interactions, such as in public displays or hospitals to communicate non-verbally after a surgery, the application needs to be intuitive without requiring a calibration. Gaze gestures such as smooth-pursuit eye movements can be detected without calibration. We report the working performance of a calibration-free eye-typing application using only the front-facing camera of a tablet. In a user study with 29 participants, we obtained an average typing speed of 1.27 WPM after four trials and a maximum typing speed of 1.95 WPM."
+  },
+  {
+    "title": "Did you Understand this?: Leveraging Gaze Behavior to Assess Questionnaire Comprehension",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: COGAIN Symposium 2021",
+    "data": "May 2021",
+    "authors": [
+      "Radiah Rivu",
+      "Yasmeen Abdrabou",
+      "Yomna Abdelrahman",
+      "Ken Pfeuffer",
+      "Dagmar Kern",
+      "Cornelia Neuert",
+      "Daniel Buschek",
+      "Florian Alt"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3458018",
+    "citation": "1",
+    "abstract": "We investigate how problems in understanding text – specifically a word or a sentence – while filling in questionnaires are reflected in gaze behaviour. To identify text comprehension problems, while filling a questionnaire, and their correlation with the gaze features, we collected data from 42 participant. In a follow-up study (N=30), we evoked comprehension problems and features they affect and quantified users’ gaze behaviour. Our findings implies that comprehension problems could be reflected in a set of gaze features, namely, in the number of fixations, duration of fixations, and number of regressions. Our findings not only demonstrate the potential of eye tracking for assessing reading comprehension but also pave the way for researchers and designers to build novel questionnaire tools that instantly mitigate problems in reading comprehension."
+  },
+  {
+    "title": "Multi-user Gaze-based Interaction Techniques on Collaborative Touchscreens",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: COGAIN Symposium 2021",
+    "data": "May 2021",
+    "authors": ["Ken Pfeuffer", "Jason Alexander", "Hans Gellersen"],
+    "DOI": "https://doi.org/10.1145/3448018.3458016",
+    "citation": "1",
+    "abstract": "Eye-gaze is a technology for implicit, fast, and hands-free input for a variety of use cases, with the majority of techniques focusing on single-user contexts. In this work, we present an exploration into gaze techniques of users interacting together on the same surface. We explore interaction concepts that exploit two states in an interactive system: 1) users visually attending to the same object in the UI, or 2) users focusing on separate targets. Interfaces can exploit these states with increasing availability of eye-tracking. For example, to dynamically personalise content on the UI to each user, and to provide a merged or compromised view on an object when both users’ gaze are falling upon it. These concepts are explored with a prototype horizontal interface that tracks gaze of two users facing each other. We build three applications that illustrate different mappings of gaze to multi-user support: an indoor map with gaze-highlighted information, an interactive tree-of-life visualisation that dynamically expands on users’ gaze, and a worldmap application with gaze-aware fisheye zooming. We conclude with insights from a public deployment of this system, pointing toward the engaging and seamless ways how eye based input integrates into collaborative interaction."
+  },
+  {
+    "title": "Combining Oculo-motor Indices to Measure Cognitive Load of Synthetic Speech in Noisy Listening Conditions.",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: COGAIN Symposium 2021",
+    "data": "May 2021",
+    "authors": ["Mateusz Dubiel", "Minoru Nakayama", "Xin Wang"],
+    "DOI": "https://doi.org/10.1145/3448018.3458013",
+    "citation": "1",
+    "abstract": "Gaze-based assistive technologies (ATs) that feature speech have the potential to improve the life of people with communication disorders. However, due to a limited understanding of how different speech types affect the cognitive load of users, an evaluation of ATs remains a challenge. Expanding on previous work, we combined temporal changes in pupil size and ocular movements (saccades and fixation differentials) to evaluate cognitive workload of two types of speech (natural and synthetic) mixed with noise, through a listening test. While observed pupil sizes were significantly larger at lower signal-to-noise levels, as participants listened and memorised speech stimuli; saccadic eye-movements were significantly more frequent for synthetic speech. In the synthetic condition, there was a strong negative correlation between pupil dilation and fixation differentials, indicating a higher strain on participants’ cognitive resources. These results suggest that combining oculo-motor indices can aid our understanding of the cognitive implications of different speech types."
+  },
+  {
+    "title": "Using Deep Learning to Classify Saccade Direction from Brain Activity",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: COGAIN Symposium 2021",
+    "data": "May 2021",
+    "authors": [
+      "Ard Kastrati",
+      "Martyna Beata Plomecka",
+      "Roger Wattenhofer",
+      "Nicolas Langer"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3458014",
+    "citation": "1",
+    "abstract": "We present first insights into our project that aims to develop an Electroencephalography (EEG) based Eye-Tracker. Our approach is tested and validated on a large dataset of simultaneously recorded EEG and infrared video-based Eye-Tracking, serving as ground truth. We compared several state-of-the-art neural network architectures for time series classification: InceptionTime, EEGNet, and investigated other architectures such as convolutional neural networks (CNN) with Xception modules and Pyramidal CNN. We prepared and tested these architectures with our rich dataset and obtained a remarkable accuracy of the left/right saccades direction classification (94.8 %) for the InceptionTime network, after hyperparameter tuning."
+  },
+  {
+    "title": "Feasibility of evaluating temporal changes in cognitive load factors using ocular features",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: COGAIN Symposium 2021",
+    "data": "May 2021",
+    "authors": ["Tomomi Okano", "Minoru Nakayama"],
+    "DOI": "https://doi.org/10.1145/3448018.3458019",
+    "citation": "1",
+    "abstract": "In this paper, we have focused on microsaccade, pupil diameter and eye movements to discover the relationship between cognitive load. In detail, we have confirmed the relevance of factors of mental workload and oculomotor reactions. Utilizing a visual search task, we measured how eye features change by combining subjective evaluation assessment data. To evaluate the amount of cognitive load gained, we used a systematic evaluation index, NASA-TLX and analyzed with correct rate and reaction time. As a result, we have discovered that oculomotor indices brings correlation relationship on specific cognitive load items."
+  },
+  {
+    "title": "Determining Differences in Reading Behavior Between Experts and Novices by Investigating Eye Movement on Source Code Constructs During a Bug Fixing Task",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: EMIP: Eye Movements in Programming",
+    "data": "May 2021",
+    "authors": ["Salwa Aljehane", "Bonita Sharif", "Jonathan Maletic"],
+    "DOI": "https://doi.org/10.1145/3448018.3457424",
+    "citation": "3",
+    "abstract": "This research compares the eye movement of expert and novice programmers working on a bug fixing task. This comparison aims at investigating which source code elements programmers focus on when they review Java source code. Programmer code reading behaviors at the line and term levels are used to characterize the differences between experts and novices. The study analyzes programmers’ eye movements over identified source code areas using an existing eye tracking dataset of 12 experts and 10 novices. The results show that the difference between experts and novices is significant in source code element coverage. Specifically, novices read more method signatures, variable declarations, identifiers, and keywords compared to experts. However, experts are better at finishing the task using fewer source code elements when compared to novices. Moreover, programmers tend to focus on the method signatures the most while reading the code."
+  },
+  {
+    "title": "A Deeper Analysis of AOI Coverage in Code Reading",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: EMIP: Eye Movements in Programming",
+    "data": "May 2021",
+    "authors": ["Teresa Busjahn", "Sascha Tamm"],
+    "DOI": "https://doi.org/10.1145/3448018.3457422",
+    "citation": "2",
+    "abstract": "The proportion of areas of interest that are covered with gaze is employed as metric to compare natural-language text and source code reading, as well as novice and expert programmers’ code reading behavior. Two levels of abstraction are considered for AOIs: lines and elements. AOI coverage is significantly higher on natural-language text than on code, so a detailed account is provided on the areas that are skipped. Between novice and expert programmers, the overall AOI coverage is comparable. However, segmenting the stimuli into meaningful components revealed that they distribute their gaze differently and partly look at different AOIs. Thus, while programming expertise does not strongly influence AOI coverage quantitatively, it does so qualitatively."
+  },
+  {
+    "title": "Estimation of reading ability of program codes using features of eye movements",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: EMIP: Eye Movements in Programming",
+    "data": "May 2021",
+    "authors": ["Hiroto Harada", "Minoru Nakayama"],
+    "DOI": "https://doi.org/10.1145/3448018.3457421",
+    "citation": "3",
+    "abstract": "A prediction model for code reading ability using eye movement features was developed, and analysed in order to evaluate reader’s level of mastery and provide appropriate support. Sixty-nine features were extracted from eye movements during the reading of two program codes. These codes consisted of three areas of interest (AOIs) that were modules of code which performed 3 functions. Also, code reader’s performance ability was estimated using responses to question surveys and item response theory. The relationships between estimated ability and the metrics of eye movements were generated using a support vector regression technique. Factors of the extracted metrics were analysed. These results confirm the relationship between code comprehension reading behaviour and reading comprehension performance."
+  },
+  {
+    "title": "Eye Tracking Analysis of Code Layout, Crowding and Dyslexia - An Open Data Set",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: EMIP: Eye Movements in Programming",
+    "data": "May 2021",
+    "authors": ["Ian McChesney", "Raymond Bond"],
+    "DOI": "https://doi.org/10.1145/3448018.3457420",
+    "citation": "2",
+    "abstract": "Within computer science there is increasing recognition of the need for research data sets to be openly available to facilitate transparency and reproducibility of studies. In this short paper an open data set is described which contains the eye tracking recordings from an experiment in which programmers with and without dyslexia reviewed and described Java code. The aim of the experiment was to investigate if crowding in code layout affected the gaze behaviour and program comprehension of programmers with dyslexia. The data set provides data from 30 participants (14 dyslexia, 16 control) and their eye gaze behaviour in reviewing three small Java programs in various combinations of crowded and spaced configurations. The key features of the data set are described and observations made on the effect of alternative area of interest configurations. The paper concludes with some observations on enhancing access to data sets through metadata, data provenance and visualizations."
+  },
+  {
+    "title": "EMIP Toolkit: A Python Library for Customized Post-processing of the Eye Movements in Programming Dataset",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: EMIP: Eye Movements in Programming",
+    "data": "May 2021",
+    "authors": [
+      "Naser Al Madi",
+      "Drew Guarnera",
+      "Bonita Sharif",
+      "Jonathan Maletic"
+    ],
+    "DOI": "https://doi.org/10.1145/3448018.3457425",
+    "citation": "2",
+    "abstract": "The use of eye tracking in the study of program comprehension in software engineering allows researchers to gain a better understanding of the strategies and processes applied by programmers. Despite the large number of eye tracking studies in software engineering, very few datasets are publicly available. The existence of the large Eye Movements in Programming Dataset (EMIP) opens the door for new studies and makes reproducibility of existing research easier. In this paper, a Python library (the EMIP Toolkit) for customized post-processing of the EMIP dataset is presented. The toolkit is specifically designed to make using the EMIP dataset easier and more accessible. It implements features for fixation detection and correction, trial visualization, source code lexical data enrichment, and mapping fixation data over areas of interest. In addition to the toolkit, a filtered token-level dataset with scored recording quality is presented for all Java trials (accounting for 95.8% of the data) in the EMIP dataset."
+  },
+  {
+    "title": "REyeker: Remote Eye Tracker",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: EMIP: Eye Movements in Programming",
+    "data": "May 2021",
+    "authors": ["Jonas Mucke", "Marc Schwarzkopf", "Janet Siegmund"],
+    "DOI": "https://doi.org/10.1145/3448018.3457423",
+    "citation": "0",
+    "abstract": "Eye tracking allows us to shed light on how developers read and understand source code and how that is linked to cognitive processes. However, studies with eye trackers are usually tied to a laboratory, requiring to observe participants one at a time, which is especially challenging in the current pandemic. To allow for safe and parallel observation, we present our tool REyeker, which allows researchers to observe developers remotely while they understand source code from their own computer without having to directly interact with the experimenter. The original image is blurred to distort text regions and disable legibility, requiring participants to click on areas of interest to deblur them to make them readable. While REyeker naturally can only track eye movements to a limited degree, it allows researchers to get a basic understanding of developers’ reading behavior."
+  },
+  {
+    "title": "What the Eyes Can Tell: Analyzing Visual Attention with an Educational Video Game",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: PLEY: 2nd Eye Tracking in Games and Play Workshop",
+    "data": "May 2021",
+    "authors": ["Wenyi Lu", "Hao He", "Alex Urban", "Joe Griffin"],
+    "DOI": "https://doi.org/10.1145/3448018.3459654",
+    "citation": "0",
+    "abstract": "3D video games show potential as educational tools that improve learner engagement. Integrating 3D games into school curricula, however, faces various challenges. One challenge is providing visualizations on learning dashboards for instructors. Such dashboards provide needed information so that instructors may conduct timely and appropriate interventions when students need it. Another challenge is identifying contributive learning predictors for a computational model, which can be the core algorithm used to make games more intelligent for tutoring and assessment purposes. Previous studies have found that students' visual-attention is a vital aspect of engagement during gameplay. However, few studies have examined whether attention visualization patterns can distinguish students from different performance groups. Complicating this research is the relatively nascent investigation into gaze metrics for learning-prediction models. In this exploratory study, we used eye-tracking data from an educational game, Mission HydroSci, to examine visual-attention pattern differences between low and high performers and how their self-reported demographics affect such patterns. Results showed different visual-attention patterns between low and high performers. Additionally, self-reported science, gaming, and navigational expertise levels were significantly correlated to several gaze metric features."
+  },
+  {
+    "title": "Analyzing Scanpaths From A Field Dependence-Independence Perspective When Playing A Visual Search Game",
+    "conferenceTitle": "ETRA '21 Short Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: PLEY: 2nd Eye Tracking in Games and Play Workshop",
+    "data": "May 2021",
+    "authors": ["George E. Raptis", "Christina Katsini"],
+    "DOI": "https://doi.org/10.1145/3448018.3459655",
+    "citation": "1",
+    "abstract": "People tend to develop different cognitive styles, which influence how we process information when interacting with computer systems. Field Dependence-Independence is one of the most well-known cognitive styles that influences how we process information in visual search tasks. Considering that such tasks are common in video games, this paper investigates whether information processing differences, derived from Field Dependence-Independence cognitive style, reflect on different eye trajectories when playing a visual search game. We performed a small-scale eye-tracking study to investigate it. The results of the scanpath analysis indicated that such differences exist. The study results provide a first step towards understanding how people who share different cognitive styles differ in the scanpaths they develop when playing a visual search game."
+  }
 ]

@@ -1,229 +1,213 @@
 [
-    {
-        "title": "A Highly Integrated Ambient Light Robust Eye-Tracking Sensor for Retinal Projection AR Glasses Based on Laser Feedback Interferometry",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Johannes Meyer",
-            "Thomas Schlebusch",
-            "Enkelejda Kasneci"
-        ],
-        "DOI": "https://doi.org/10.1145/3530881",
-        "citation": "0",
-        "abstract": "Robust and highly integrated eye-tracking is a key technology to improve resolution of near-eye-display technologies for augmented reality (AR) glasses such as focus-free retinal projection as it enables display enhancements like foveated rendering. Furthermore, eye-tracking sensors enables novel ways to interact with user interfaces of AR glasses, improving thus the user experience compared to other wearables. In this work, we present a novel approach to track the user's eye by scanned laser feedback interferometry sensing. The main advantages over modern video-oculography (VOG) systems are the seamless integration of the eye-tracking sensor and the excellent robustness to ambient light with significantly lower power consumption. We further present an algorithm to track the bright pupil signal captured by our sensor with a significantly lower computational effort compared to VOG systems. We evaluate a prototype to prove the high robustness against ambient light and achieve a gaze accuracy of 1.62\\,$^\\circ$, which is comparable to other state-of-the-art scanned laser eye-tracking sensors. The outstanding robustness and high integrability of the proposed sensor will pave the way for everyday eye-tracking in consumer AR glasses."
-    },
-    {
-        "title": "A Spiral into the Mind: Gaze Spiral Visualization for Mobile Eye Tracking",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Maurice Koch",
-            "Daniel Weiskopf",
-            "Kuno Kurzhals"
-        ],
-        "DOI": "https://doi.org/10.1145/3530795",
-        "citation": "1",
-        "abstract": "Comparing mobile eye tracking data from multiple participants without information about areas of interest (AOIs) is challenging because of individual timing and coordinate systems. We present a technique, the gaze spiral, that visualizes individual recordings based on image content of the stimulus. The spiral layout of the slitscan visualization is used to create a compact representation of scanpaths. The visualization provides an overview of multiple recordings even for long time spans and helps identify and annotate recurring patterns within recordings. The gaze spirals can also serve as glyphs that can be projected to 2D space based on established scanpath metrics in order to interpret the metrics and identify groups of similar viewing behavior. We present examples based on two egocentric datasets to demonstrate the effectiveness of our approach for annotation and comparison tasks. Our examples show that the technique has the potential to let users compare even long-term recordings of pervasive scenarios without manual annotation."
-    },
-    {
-        "title": "Automatic Generation of Customized Areas of Interest and Evaluation of Observers' Gaze in Portrait Videos",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Leslie Woehler",
-            "Moritz von Estorff",
-            "Susana Castillo",
-            "Marcus Magnor"
-        ],
-        "DOI": "https://doi.org/10.1145/3530885",
-        "citation": "0",
-        "abstract": "We present a novel framework for the evaluation of eye tracking data in portrait videos including the automatic generation of customized areas of interest (AOIs) based on facial landmarks. In contrast to previous work, our framework allows the user to flexibly create AOIs by grouping the detected landmarks. Moreover, their shape and size can be modified to better fit both the research question and the precision of the eye tracker. The framework can be used as an integrated solution to not only generate AOIs but also to evaluate viewing behavior like the overall fixation times, the similarity of scanpaths, and the number of saccades between AOIs. Other functionalities include the visualization of gaze paths and the creation of heatmaps. We demonstrate the benefits of our framework and user-defined AOI layouts via an exemplary application, i.e., the investigation of face swapping artifacts."
-    },
-    {
-        "title": "Exploring Gaze for Assisting Freehand Selection-based Text Entry in AR",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Mathias N. Lystbæk",
-            "Ken Pfeuffer",
-            "Jens Emil Sloth Grønbæk",
-            "Hans Gellersen"
-        ],
-        "DOI": "https://doi.org/10.1145/3530882",
-        "citation": "10",
-        "abstract": "With eye-tracking increasingly available in Augmented Reality, we explore how gaze can be used to assist freehand gestural text entry. Here the eyes are often coordinated with manual input across the spatial positions of the keys. Inspired by this, we investigate gaze-assisted selection-based text entry through the concept of spatial alignment of both modalities. Users can enter text by aligning both gaze and manual pointer at each key, as a novel alternative to existing dwell-time or explicit manual triggers. We present a text entry user study comparing two of such alignment techniques to a gaze-only and a manual-only baseline. The results show that one alignment technique reduces physical finger movement by more than half compared to standard in-air finger typing, and is faster and exhibits less perceived eye fatigue than an eyes-only dwell-time technique. We discuss trade-offs between uni and multimodal text entry techniques, pointing to novel ways to integrate eye movements to facilitate virtual text entry."
-    },
-    {
-        "title": "Eye Tracking-Based Stress Classification of Athletes in Virtual Reality",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Maike Stoeve",
-            "Markus Wirth",
-            "Rosanna Farlock",
-            "André Antunovic",
-            "Victoria Müller",
-            "Bjoern M. Eskofier"
-        ],
-        "DOI": "https://doi.org/10.1145/3530796",
-        "citation": "2",
-        "abstract": "Monitoring stress is relevant in many areas, including sports science. In that scope, various studies showed the feasibility of stress classification using eye tracking data. In most cases, the screen-based experimental design restricted the motion of participants. Consequently, the transferability of results to dynamic sports applications remains unclear. To address this research gap, we conducted a virtual reality-based stress test consisting of a football goalkeeping scenario. We contribute by proposing a stress classification pipeline solely relying on gaze behaviour and pupil diameter metrics extracted from the recorded data. To optimize the analysis pipeline, we applied feature selection and compared the performance of different classification methods. Results show that the Random Forest classifier achieves the best performance with 87.3% accuracy, comparable to state-of-the-art approaches fusing eye tracking data and additional biosignals. Moreover, our approach outperforms existing methods exclusively relying on eye measures."
-    },
-    {
-        "title": "Gaze as an Indicator of Input Recognition Errors",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Candace E. Peacock",
-            "Ben Lafreniere",
-            "Ting Zhang",
-            "Stephanie Santosa",
-            "Hrvoje Benko",
-            "Tanya R. Jonker"
-        ],
-        "DOI": "https://doi.org/10.1145/3530883",
-        "citation": "6",
-        "abstract": "Input recognition errors are common in gesture- and touch-based recognition systems, and negatively affect user experience and performance. When errors occur, systems are unaware of them, but the user's gaze following an error may provide valuable cues for error detection. A study was conducted using a manual serial selection task to investigate whether gaze could be used to discriminate user-initiated selections from injected false positive selection errors. Logistic regression models of gaze dynamics could successfully identify injected selection errors as early as 50 milliseconds following a selection, with performance peaking at 550 milliseconds. A two-phase gaze pattern was observed in which users exhibited high gaze motion immediately following errors, and then decreased gaze motion as the error was noticed. Together, these results provide the first demonstration that gaze dynamics can be used to detect input recognition errors, and open new possibilities for systems that can assist with error recovery."
-    },
-    {
-        "title": "Pupillary Light Reflex Correction for Robust Pupillometry in Virtual Reality",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Marie Eckert",
-            "Thomas Robotham",
-            "Emanuël A. P. Habets",
-            "Olli S. Rummukainen"
-        ],
-        "DOI": "https://doi.org/10.1145/3530798",
-        "citation": "0",
-        "abstract": "Virtual reality (VR) headsets with an integrated eye tracker enable the measurement of pupil size fluctuations correlated with cognition during a VR experience. We present a method to correct for the light-induced pupil size changes, otherwise masking the more subtle cognitively-driven effects, such as cognitive load and emotional state. We explore multiple calibration sequences to find individual mapping functions relating the luminance to pupil dilation that can be employed in real-time during a VR experience. The resulting mapping functions are evaluated in a VR-based n-back task and in free exploration of a six-degrees-of-freedom VR scene. Our results show estimating luminance from a weighted average of the fixation area and the background yields the best performance. Calibration sequence composed of either solid gray or realistic scene brightness levels shown for 6 s in a pseudo-random order proved most robust."
-    },
-    {
-        "title": "Rethinking Model-Based Gaze Estimation",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Harsimran Kaur",
-            "Swati Jindal",
-            "Roberto Manduchi"
-        ],
-        "DOI": "https://doi.org/10.1145/3530797",
-        "citation": "0",
-        "abstract": "Over the past several years, a number of data-driven gaze tracking algorithms have been proposed, which have been shown to outperform classic model-based methods in terms of gaze direction accuracy. These algorithms leverage the recent development of sophisticated CNN architectures, as well as the availability of large gaze datasets captured under various conditions. One shortcoming of black-box, end-to-end methods, though, is that any unexpected behaviors are difficult to explain. In addition, there is always the risk that a system trained with a certain dataset may not perform well when tested on data from a different source (the \"domain gap\" problem.) In this work, we propose a novel method to embed eye geometry information in an end-to-end gaze estimation network by means of a \"geometric layer\". Our experimental results show that our system outperforms other state-of-the-art methods in cross-dataset evaluation, while producing competitive performance over within dataset tests. In addition, the proposed system is able to extrapolate gaze angles outside the range of those considered in the training data."
-    },
-    {
-        "title": "U-HAR: A Convolutional Approach to Human Activity Recognition Combining Head and Eye Movements for Context-Aware Smart Glasses",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Johannes Meyer",
-            "Adrian Frank",
-            "Thomas Schlebusch",
-            "Enkelejda Kasneci"
-        ],
-        "DOI": "https://doi.org/10.1145/3530884",
-        "citation": "1",
-        "abstract": "After the success of smartphones and smartwatches, smart glasses are expected to be the next smart wearable. While novel display technology allows the seamlessly embedding of content into the FOV, interaction methods with glasses, requiring the user for active interaction, limiting the user experience. One way to improve this and drive immersive augmentation is to reduce user interactions to a necessary minimum by adding context awareness to smart glasses. For this, we propose an approach based on human activity recognition, which incorporates features, derived from the user's head- and eye-movement. Towards this goal, we combine an commercial eye-tracker and an IMU to capture eye- and head-movement features of 7 activities performed by 20 participants. From a methodological perspective, we introduce U-HAR, a convolutional network optimized for activity recognition. By applying a few-shot learning, our model reaches an macro-F1-score of 86.59%, allowing us to derive contextual information."
-    },
-    {
-        "title": "Where and What: Driver Attention-based Object Detection",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Yao Rong",
-            "Naemi-Rebecca Kassautzki",
-            "Wolfgang Fuhl",
-            "Enkelejda Kasneci"
-        ],
-        "DOI": "https://doi.org/10.1145/3530887",
-        "citation": "1",
-        "abstract": "Human drivers use their attentional mechanisms to focus on critical objects and make decisions while driving. As human attention can be revealed from gaze data, capturing and analyzing gaze information has emerged in recent years to benefit autonomous driving technology. Previous works in this context have primarily aimed at predicting \"where\" human drivers look at and lack knowledge of \"what\" objects drivers focus on. Our work bridges the gap between pixel-level and object-level attention prediction. Specifically, we propose to integrate an attention prediction module into a pretrained object detection framework and predict the attention in a grid-based style. Furthermore, critical objects are recognized based on predicted attended-to areas. We evaluate our proposed method on two driver attention datasets, BDD-A and DR(eye)VE. Our framework achieves competitive state-of-the-art performance in the attention prediction on both pixel-level and object-level but is far more efficient (75.3 GFLOPs less) in computation."
-    },
-    {
-        "title": "EllSeg-Gen, towards Domain Generalization for Head-Mounted Eyetracking",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Rakshit S. Kothari",
-            "Reynold J. Bailey",
-            "Christopher Kanan",
-            "Jeff B. Pelz",
-            "Gabriel J. Diaz"
-        ],
-        "DOI": "https://doi.org/10.1145/3530880",
-        "citation": "0",
-        "abstract": "The study of human gaze behavior in natural contexts requires algorithms for gaze estimation that are robust to a wide range of imaging conditions. However, algorithms often fail to identify features such as the iris and pupil centroid in the presence of reflective artifacts and occlusions. Previous work has shown that convolutional networks excel at extracting gaze features despite the presence of such artifacts. However, these networks often perform poorly on data unseen during training. This work follows the intuition that jointly training a convolutional network with multiple datasets learns a generalized representation of eye parts. We compare the performance of a single model trained with multiple datasets against a pool of models trained on individual datasets. Results indicate that models tested on datasets in which eye images exhibit higher appearance variability benefit from multiset training. In contrast, dataset-specific models generalize better onto eye images with lower appearance variability."
-    },
-    {
-        "title": "Feasibility of Longitudinal Eye-Gaze Tracking in the Workplace",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Stephen Hutt",
-            "Angela E.B. Stewart",
-            "Julie Gregg",
-            "Stephen Mattingly",
-            "Sidney K. D'Mello"
-        ],
-        "DOI": "https://doi.org/10.1145/3530889",
-        "citation": "1",
-        "abstract": "Eye movements provide a window into cognitive processes, but much of the research harnessing this data has been confined to the laboratory. We address whether eye gaze can be passively, reliably, and privately recorded in real-world environments across extended timeframes using commercial-off-the-shelf (COTS) sensors. We recorded eye gaze data from a COTS tracker embedded in participants (N=20) work environments at pseudorandom intervals across a two-week period. We found that valid samples were recorded approximately 30% of the time despite calibrating the eye tracker only once and without placing any other restrictions on participants. The number of valid samples decreased over days with the degree of decrease dependent on contextual variables (i.e., frequency of video conferencing) and individual difference attributes (e.g., sleep quality and multitasking ability). Participants reported that sensors did not change or impact their work. Our findings suggest the potential for the collection of eye-gaze in authentic environments."
-    },
-    {
-        "title": "Gaze-Hand Alignment: Combining Eye Gaze and Mid-Air Pointing for Interacting with Menus in Augmented Reality",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Mathias N. Lystbæk",
-            "Peter Rosenberg",
-            "Ken Pfeuffer",
-            "Jens Emil Grønbæk",
-            "Hans Gellersen"
-        ],
-        "DOI": "https://doi.org/10.1145/3530886",
-        "citation": "15",
-        "abstract": "Gaze and freehand gestures suit Augmented Reality as users can interact with objects at a distance without need for a separate input device. We propose Gaze-Hand Alignment as a novel multimodal selection principle, defined by concurrent use of both gaze and hand for pointing and alignment of their input on an object as selection trigger. Gaze naturally precedes manual action and is leveraged for pre-selection, and manual crossing of a pre-selected target completes the selection. We demonstrate the principle in two novel techniques, Gaze&Finger for input by direct alignment of hand and finger raised into the line of sight, and Gaze&Hand for input by indirect alignment of a cursor with relative hand movement. In a menu selection experiment, we evaluate the techniques in comparison with Gaze&Pinch and a hands-only baseline. The study showed the gaze-assisted techniques to outperform hands-only input, and gives insight into trade-offs in combining gaze with direct or indirect, and spatial or semantic freehand gestures."
-    },
-    {
-        "title": "Gaze-enhanced Crossmodal Embeddings for Emotion Recognition",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Ahmed Abdou",
-            "Ekta Sood",
-            "Philipp Müller",
-            "Andreas Bulling"
-        ],
-        "DOI": "https://doi.org/10.1145/3530879",
-        "citation": "1",
-        "abstract": "Emotional expressions are inherently multimodal -- integrating facial behavior, speech, and gaze -- but their automatic recognition is often limited to a single modality, e.g. speech during a phone call. While previous work proposed crossmodal emotion embeddings to improve monomodal recognition performance, despite its importance, an explicit representation of gaze was not included. We propose a new approach to emotion recognition that incorporates an explicit representation of gaze in a crossmodal emotion embedding framework. We show that our method outperforms the previous state of the art for both audio-only and video-only emotion classification on the popular One-Minute Gradual Emotion Recognition dataset. Furthermore, we report extensive ablation experiments and provide detailed insights into the performance of different state-of-the-art gaze representations and integration strategies. Our results not only underline the importance of gaze for emotion recognition but also demonstrate a practical and highly effective approach to leveraging gaze information for this task."
-    },
-    {
-        "title": "Model-based Gaze Estimation with Transparent Markers on Large Screens",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Koki Koshikawa",
-            "Takashi Nagamatsu",
-            "Kentaro Takemura"
-        ],
-        "DOI": "https://doi.org/10.1145/3530888",
-        "citation": "1",
-        "abstract": "Several technical issues that affect eye-tracking have arisen concomitantly with the steadily increasing sizes of personal displays recently. One such issue is the loss of the illumination reflection of the near-infrared light-emitting diodes used as reference points around the edge of the display. Another issue is that reference identification is required for practical usage. Therefore, this paper proposes gaze estimation with transparent markers for large display environments to solve these problems. The transparent markers can be distributed on the screen, and a unique ID is assigned to each marker using linear polarization angles. The reference is detected using a polarization camera through the reflection on the cornea. The results of experiments conducted using a 50-inch display indicate that the proposed method can estimate the point-of-gaze to within 2.1 degrees of error. We confirmed that on-screen markers in sizable displays could be effectively used as references instead of illumination sources."
-    },
-    {
-        "title": "PACMHCI V6, ETRA, May 2022 Editorial",
-        "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Hans Gellersen",
-            "Enkelejda Kasneci",
-            "Krzysztof Krejtz",
-            "Daniel Weiskopf"
-        ],
-        "DOI": "https://doi.org/10.1145/3530878",
-        "citation": "0",
-        "abstract": "We are delighted to present a first issue of the Proceedings of the ACM on Human-Computer Interaction to focus on contributions from the Eye Tracking Research and Applications (ETRA) community."
-    }
+  {
+    "title": "A Highly Integrated Ambient Light Robust Eye-Tracking Sensor for Retinal Projection AR Glasses Based on Laser Feedback Interferometry",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": ["Johannes Meyer", "Thomas Schlebusch", "Enkelejda Kasneci"],
+    "DOI": "https://doi.org/10.1145/3530881",
+    "citation": "0",
+    "abstract": "Robust and highly integrated eye-tracking is a key technology to improve resolution of near-eye-display technologies for augmented reality (AR) glasses such as focus-free retinal projection as it enables display enhancements like foveated rendering. Furthermore, eye-tracking sensors enables novel ways to interact with user interfaces of AR glasses, improving thus the user experience compared to other wearables. In this work, we present a novel approach to track the user's eye by scanned laser feedback interferometry sensing. The main advantages over modern video-oculography (VOG) systems are the seamless integration of the eye-tracking sensor and the excellent robustness to ambient light with significantly lower power consumption. We further present an algorithm to track the bright pupil signal captured by our sensor with a significantly lower computational effort compared to VOG systems. We evaluate a prototype to prove the high robustness against ambient light and achieve a gaze accuracy of 1.62\\,$^\\circ$, which is comparable to other state-of-the-art scanned laser eye-tracking sensors. The outstanding robustness and high integrability of the proposed sensor will pave the way for everyday eye-tracking in consumer AR glasses."
+  },
+  {
+    "title": "A Spiral into the Mind: Gaze Spiral Visualization for Mobile Eye Tracking",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": ["Maurice Koch", "Daniel Weiskopf", "Kuno Kurzhals"],
+    "DOI": "https://doi.org/10.1145/3530795",
+    "citation": "1",
+    "abstract": "Comparing mobile eye tracking data from multiple participants without information about areas of interest (AOIs) is challenging because of individual timing and coordinate systems. We present a technique, the gaze spiral, that visualizes individual recordings based on image content of the stimulus. The spiral layout of the slitscan visualization is used to create a compact representation of scanpaths. The visualization provides an overview of multiple recordings even for long time spans and helps identify and annotate recurring patterns within recordings. The gaze spirals can also serve as glyphs that can be projected to 2D space based on established scanpath metrics in order to interpret the metrics and identify groups of similar viewing behavior. We present examples based on two egocentric datasets to demonstrate the effectiveness of our approach for annotation and comparison tasks. Our examples show that the technique has the potential to let users compare even long-term recordings of pervasive scenarios without manual annotation."
+  },
+  {
+    "title": "Automatic Generation of Customized Areas of Interest and Evaluation of Observers' Gaze in Portrait Videos",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Leslie Woehler",
+      "Moritz von Estorff",
+      "Susana Castillo",
+      "Marcus Magnor"
+    ],
+    "DOI": "https://doi.org/10.1145/3530885",
+    "citation": "0",
+    "abstract": "We present a novel framework for the evaluation of eye tracking data in portrait videos including the automatic generation of customized areas of interest (AOIs) based on facial landmarks. In contrast to previous work, our framework allows the user to flexibly create AOIs by grouping the detected landmarks. Moreover, their shape and size can be modified to better fit both the research question and the precision of the eye tracker. The framework can be used as an integrated solution to not only generate AOIs but also to evaluate viewing behavior like the overall fixation times, the similarity of scanpaths, and the number of saccades between AOIs. Other functionalities include the visualization of gaze paths and the creation of heatmaps. We demonstrate the benefits of our framework and user-defined AOI layouts via an exemplary application, i.e., the investigation of face swapping artifacts."
+  },
+  {
+    "title": "Exploring Gaze for Assisting Freehand Selection-based Text Entry in AR",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Mathias N. Lystbæk",
+      "Ken Pfeuffer",
+      "Jens Emil Sloth Grønbæk",
+      "Hans Gellersen"
+    ],
+    "DOI": "https://doi.org/10.1145/3530882",
+    "citation": "10",
+    "abstract": "With eye-tracking increasingly available in Augmented Reality, we explore how gaze can be used to assist freehand gestural text entry. Here the eyes are often coordinated with manual input across the spatial positions of the keys. Inspired by this, we investigate gaze-assisted selection-based text entry through the concept of spatial alignment of both modalities. Users can enter text by aligning both gaze and manual pointer at each key, as a novel alternative to existing dwell-time or explicit manual triggers. We present a text entry user study comparing two of such alignment techniques to a gaze-only and a manual-only baseline. The results show that one alignment technique reduces physical finger movement by more than half compared to standard in-air finger typing, and is faster and exhibits less perceived eye fatigue than an eyes-only dwell-time technique. We discuss trade-offs between uni and multimodal text entry techniques, pointing to novel ways to integrate eye movements to facilitate virtual text entry."
+  },
+  {
+    "title": "Eye Tracking-Based Stress Classification of Athletes in Virtual Reality",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Maike Stoeve",
+      "Markus Wirth",
+      "Rosanna Farlock",
+      "André Antunovic",
+      "Victoria Müller",
+      "Bjoern M. Eskofier"
+    ],
+    "DOI": "https://doi.org/10.1145/3530796",
+    "citation": "4",
+    "abstract": "Monitoring stress is relevant in many areas, including sports science. In that scope, various studies showed the feasibility of stress classification using eye tracking data. In most cases, the screen-based experimental design restricted the motion of participants. Consequently, the transferability of results to dynamic sports applications remains unclear. To address this research gap, we conducted a virtual reality-based stress test consisting of a football goalkeeping scenario. We contribute by proposing a stress classification pipeline solely relying on gaze behaviour and pupil diameter metrics extracted from the recorded data. To optimize the analysis pipeline, we applied feature selection and compared the performance of different classification methods. Results show that the Random Forest classifier achieves the best performance with 87.3% accuracy, comparable to state-of-the-art approaches fusing eye tracking data and additional biosignals. Moreover, our approach outperforms existing methods exclusively relying on eye measures."
+  },
+  {
+    "title": "Gaze as an Indicator of Input Recognition Errors",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Candace E. Peacock",
+      "Ben Lafreniere",
+      "Ting Zhang",
+      "Stephanie Santosa",
+      "Hrvoje Benko",
+      "Tanya R. Jonker"
+    ],
+    "DOI": "https://doi.org/10.1145/3530883",
+    "citation": "6",
+    "abstract": "Input recognition errors are common in gesture- and touch-based recognition systems, and negatively affect user experience and performance. When errors occur, systems are unaware of them, but the user's gaze following an error may provide valuable cues for error detection. A study was conducted using a manual serial selection task to investigate whether gaze could be used to discriminate user-initiated selections from injected false positive selection errors. Logistic regression models of gaze dynamics could successfully identify injected selection errors as early as 50 milliseconds following a selection, with performance peaking at 550 milliseconds. A two-phase gaze pattern was observed in which users exhibited high gaze motion immediately following errors, and then decreased gaze motion as the error was noticed. Together, these results provide the first demonstration that gaze dynamics can be used to detect input recognition errors, and open new possibilities for systems that can assist with error recovery."
+  },
+  {
+    "title": "Pupillary Light Reflex Correction for Robust Pupillometry in Virtual Reality",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Marie Eckert",
+      "Thomas Robotham",
+      "Emanuël A. P. Habets",
+      "Olli S. Rummukainen"
+    ],
+    "DOI": "https://doi.org/10.1145/3530798",
+    "citation": "1",
+    "abstract": "Virtual reality (VR) headsets with an integrated eye tracker enable the measurement of pupil size fluctuations correlated with cognition during a VR experience. We present a method to correct for the light-induced pupil size changes, otherwise masking the more subtle cognitively-driven effects, such as cognitive load and emotional state. We explore multiple calibration sequences to find individual mapping functions relating the luminance to pupil dilation that can be employed in real-time during a VR experience. The resulting mapping functions are evaluated in a VR-based n-back task and in free exploration of a six-degrees-of-freedom VR scene. Our results show estimating luminance from a weighted average of the fixation area and the background yields the best performance. Calibration sequence composed of either solid gray or realistic scene brightness levels shown for 6 s in a pseudo-random order proved most robust."
+  },
+  {
+    "title": "Rethinking Model-Based Gaze Estimation",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": ["Harsimran Kaur", "Swati Jindal", "Roberto Manduchi"],
+    "DOI": "https://doi.org/10.1145/3530797",
+    "citation": "0",
+    "abstract": "Over the past several years, a number of data-driven gaze tracking algorithms have been proposed, which have been shown to outperform classic model-based methods in terms of gaze direction accuracy. These algorithms leverage the recent development of sophisticated CNN architectures, as well as the availability of large gaze datasets captured under various conditions. One shortcoming of black-box, end-to-end methods, though, is that any unexpected behaviors are difficult to explain. In addition, there is always the risk that a system trained with a certain dataset may not perform well when tested on data from a different source (the \"domain gap\" problem.) In this work, we propose a novel method to embed eye geometry information in an end-to-end gaze estimation network by means of a \"geometric layer\". Our experimental results show that our system outperforms other state-of-the-art methods in cross-dataset evaluation, while producing competitive performance over within dataset tests. In addition, the proposed system is able to extrapolate gaze angles outside the range of those considered in the training data."
+  },
+  {
+    "title": "U-HAR: A Convolutional Approach to Human Activity Recognition Combining Head and Eye Movements for Context-Aware Smart Glasses",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Johannes Meyer",
+      "Adrian Frank",
+      "Thomas Schlebusch",
+      "Enkelejda Kasneci"
+    ],
+    "DOI": "https://doi.org/10.1145/3530884",
+    "citation": "1",
+    "abstract": "After the success of smartphones and smartwatches, smart glasses are expected to be the next smart wearable. While novel display technology allows the seamlessly embedding of content into the FOV, interaction methods with glasses, requiring the user for active interaction, limiting the user experience. One way to improve this and drive immersive augmentation is to reduce user interactions to a necessary minimum by adding context awareness to smart glasses. For this, we propose an approach based on human activity recognition, which incorporates features, derived from the user's head- and eye-movement. Towards this goal, we combine an commercial eye-tracker and an IMU to capture eye- and head-movement features of 7 activities performed by 20 participants. From a methodological perspective, we introduce U-HAR, a convolutional network optimized for activity recognition. By applying a few-shot learning, our model reaches an macro-F1-score of 86.59%, allowing us to derive contextual information."
+  },
+  {
+    "title": "Where and What: Driver Attention-based Object Detection",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Yao Rong",
+      "Naemi-Rebecca Kassautzki",
+      "Wolfgang Fuhl",
+      "Enkelejda Kasneci"
+    ],
+    "DOI": "https://doi.org/10.1145/3530887",
+    "citation": "1",
+    "abstract": "Human drivers use their attentional mechanisms to focus on critical objects and make decisions while driving. As human attention can be revealed from gaze data, capturing and analyzing gaze information has emerged in recent years to benefit autonomous driving technology. Previous works in this context have primarily aimed at predicting \"where\" human drivers look at and lack knowledge of \"what\" objects drivers focus on. Our work bridges the gap between pixel-level and object-level attention prediction. Specifically, we propose to integrate an attention prediction module into a pretrained object detection framework and predict the attention in a grid-based style. Furthermore, critical objects are recognized based on predicted attended-to areas. We evaluate our proposed method on two driver attention datasets, BDD-A and DR(eye)VE. Our framework achieves competitive state-of-the-art performance in the attention prediction on both pixel-level and object-level but is far more efficient (75.3 GFLOPs less) in computation."
+  },
+  {
+    "title": "EllSeg-Gen, towards Domain Generalization for Head-Mounted Eyetracking",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Rakshit S. Kothari",
+      "Reynold J. Bailey",
+      "Christopher Kanan",
+      "Jeff B. Pelz",
+      "Gabriel J. Diaz"
+    ],
+    "DOI": "https://doi.org/10.1145/3530880",
+    "citation": "1",
+    "abstract": "The study of human gaze behavior in natural contexts requires algorithms for gaze estimation that are robust to a wide range of imaging conditions. However, algorithms often fail to identify features such as the iris and pupil centroid in the presence of reflective artifacts and occlusions. Previous work has shown that convolutional networks excel at extracting gaze features despite the presence of such artifacts. However, these networks often perform poorly on data unseen during training. This work follows the intuition that jointly training a convolutional network with multiple datasets learns a generalized representation of eye parts. We compare the performance of a single model trained with multiple datasets against a pool of models trained on individual datasets. Results indicate that models tested on datasets in which eye images exhibit higher appearance variability benefit from multiset training. In contrast, dataset-specific models generalize better onto eye images with lower appearance variability."
+  },
+  {
+    "title": "Feasibility of Longitudinal Eye-Gaze Tracking in the Workplace",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Stephen Hutt",
+      "Angela E.B. Stewart",
+      "Julie Gregg",
+      "Stephen Mattingly",
+      "Sidney K. D'Mello"
+    ],
+    "DOI": "https://doi.org/10.1145/3530889",
+    "citation": "1",
+    "abstract": "Eye movements provide a window into cognitive processes, but much of the research harnessing this data has been confined to the laboratory. We address whether eye gaze can be passively, reliably, and privately recorded in real-world environments across extended timeframes using commercial-off-the-shelf (COTS) sensors. We recorded eye gaze data from a COTS tracker embedded in participants (N=20) work environments at pseudorandom intervals across a two-week period. We found that valid samples were recorded approximately 30% of the time despite calibrating the eye tracker only once and without placing any other restrictions on participants. The number of valid samples decreased over days with the degree of decrease dependent on contextual variables (i.e., frequency of video conferencing) and individual difference attributes (e.g., sleep quality and multitasking ability). Participants reported that sensors did not change or impact their work. Our findings suggest the potential for the collection of eye-gaze in authentic environments."
+  },
+  {
+    "title": "Gaze-Hand Alignment: Combining Eye Gaze and Mid-Air Pointing for Interacting with Menus in Augmented Reality",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Mathias N. Lystbæk",
+      "Peter Rosenberg",
+      "Ken Pfeuffer",
+      "Jens Emil Grønbæk",
+      "Hans Gellersen"
+    ],
+    "DOI": "https://doi.org/10.1145/3530886",
+    "citation": "15",
+    "abstract": "Gaze and freehand gestures suit Augmented Reality as users can interact with objects at a distance without need for a separate input device. We propose Gaze-Hand Alignment as a novel multimodal selection principle, defined by concurrent use of both gaze and hand for pointing and alignment of their input on an object as selection trigger. Gaze naturally precedes manual action and is leveraged for pre-selection, and manual crossing of a pre-selected target completes the selection. We demonstrate the principle in two novel techniques, Gaze&Finger for input by direct alignment of hand and finger raised into the line of sight, and Gaze&Hand for input by indirect alignment of a cursor with relative hand movement. In a menu selection experiment, we evaluate the techniques in comparison with Gaze&Pinch and a hands-only baseline. The study showed the gaze-assisted techniques to outperform hands-only input, and gives insight into trade-offs in combining gaze with direct or indirect, and spatial or semantic freehand gestures."
+  },
+  {
+    "title": "Gaze-enhanced Crossmodal Embeddings for Emotion Recognition",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Ahmed Abdou",
+      "Ekta Sood",
+      "Philipp Müller",
+      "Andreas Bulling"
+    ],
+    "DOI": "https://doi.org/10.1145/3530879",
+    "citation": "1",
+    "abstract": "Emotional expressions are inherently multimodal -- integrating facial behavior, speech, and gaze -- but their automatic recognition is often limited to a single modality, e.g. speech during a phone call. While previous work proposed crossmodal emotion embeddings to improve monomodal recognition performance, despite its importance, an explicit representation of gaze was not included. We propose a new approach to emotion recognition that incorporates an explicit representation of gaze in a crossmodal emotion embedding framework. We show that our method outperforms the previous state of the art for both audio-only and video-only emotion classification on the popular One-Minute Gradual Emotion Recognition dataset. Furthermore, we report extensive ablation experiments and provide detailed insights into the performance of different state-of-the-art gaze representations and integration strategies. Our results not only underline the importance of gaze for emotion recognition but also demonstrate a practical and highly effective approach to leveraging gaze information for this task."
+  },
+  {
+    "title": "Model-based Gaze Estimation with Transparent Markers on Large Screens",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": ["Koki Koshikawa", "Takashi Nagamatsu", "Kentaro Takemura"],
+    "DOI": "https://doi.org/10.1145/3530888",
+    "citation": "1",
+    "abstract": "Several technical issues that affect eye-tracking have arisen concomitantly with the steadily increasing sizes of personal displays recently. One such issue is the loss of the illumination reflection of the near-infrared light-emitting diodes used as reference points around the edge of the display. Another issue is that reference identification is required for practical usage. Therefore, this paper proposes gaze estimation with transparent markers for large display environments to solve these problems. The transparent markers can be distributed on the screen, and a unique ID is assigned to each marker using linear polarization angles. The reference is detected using a polarization camera through the reflection on the cornea. The results of experiments conducted using a 50-inch display indicate that the proposed method can estimate the point-of-gaze to within 2.1 degrees of error. We confirmed that on-screen markers in sizable displays could be effectively used as references instead of illumination sources."
+  },
+  {
+    "title": "PACMHCI V6, ETRA, May 2022 Editorial",
+    "conferenceTitle": "ETRA '22: 2022 Symposium on Eye Tracking Research and Applications",
+    "data": "May 2022",
+    "authors": [
+      "Hans Gellersen",
+      "Enkelejda Kasneci",
+      "Krzysztof Krejtz",
+      "Daniel Weiskopf"
+    ],
+    "DOI": "https://doi.org/10.1145/3530878",
+    "citation": "0",
+    "abstract": "We are delighted to present a first issue of the Proceedings of the ACM on Human-Computer Interaction to focus on contributions from the Eye Tracking Research and Applications (ETRA) community."
+  }
 ]

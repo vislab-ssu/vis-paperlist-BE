@@ -1,209 +1,194 @@
 [
-    {
-        "title": "A Unified Look at Cultural Heritage: Comparison of Aggregated Scanpaths over Architectural Artifacts",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Krzysztof Krejtz",
-            "Patryk Szczecinski",
-            "Aneta Pawlowska",
-            "Daria Rutkowska-Siuda",
-            "Katarzyna Wisiecka",
-            "Piotr Milczarski",
-            "Artur Hlobaz",
-            "Andrew T. Duchowski",
-            "Izabela Krejtz"
-        ],
-        "DOI": "https://doi.org/10.1145/3591138",
-        "citation": "2",
-        "abstract": "The paper contributes to scanpath bundling methods. We propose an analytical approach for statistical comparisons of aggregated scanpath visualizations by means of second-order gaze analysis metrics. The present study explores differences in attention distribution and cognitive processing over architectural objects between architects, art historians, and non-experts. The results show between-group differences in attention dynamics of the aggregated scanpaths. The aggregated scanpaths of both expert groups were focal, while non-experts' scanpaths were ambient. Experts also paid more attention to and tended to remember better the architectural details and their location. The discussion explores the scalability of the proposed approach for Human-Computer Interaction and accessibility technologies designed to enhance the experience of cultural heritage."
-    },
-    {
-        "title": "Classification of Alzheimer's using Deep-learning Methods on Webcam-based Gaze Data",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Anuj Harisinghani",
-            "Harshinee Sriram",
-            "Cristina Conati",
-            "Giuseppe Carenini",
-            "Thalia Field",
-            "Hyeju Jang",
-            "Gabriel Murray"
-        ],
-        "DOI": "https://doi.org/10.1145/3591126",
-        "citation": "0",
-        "abstract": "There has been increasing interest in non-invasive predictors of Alzheimer's disease (AD) as an initial screen for this condition. Previously, successful attempts leveraged eye-tracking and language data generated during picture narration and reading tasks. These results were obtained with high-end, expensive eye-trackers. Instead, we explore classification using eye-tracking data collected with a webcam, where our classifiers are built using a deep-learning approach. Our results show that the webcam gaze classifier is not as good as the classifier based on high-end eye-tracking data. However, the webcam-based classifier still beats the majority-class baseline classifier in terms of AU-ROC, indicating that predictive signals can be extracted from webcam gaze tracking. Hence, although our results indicate that there is still a long way to go before webcam gaze tracking can reach practical relevance, they still provide an encouraging proof of concept that this technology should be further explored as an affordable alternative to high-end eye-trackers for the detection of AD."
-    },
-    {
-        "title": "DynamicRead: Exploring Robust Gaze Interaction Methods for Reading on Handheld Mobile Devices under Dynamic Conditions",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Yaxiong Lei",
-            "Yuheng Wang",
-            "Tyler Caslin",
-            "Alexander Wisowaty",
-            "Xu Zhu",
-            "Mohamed Khamis",
-            "Juan Ye"
-        ],
-        "DOI": "https://doi.org/10.1145/3591127",
-        "citation": "0",
-        "abstract": "Enabling gaze interaction in real-time on handheld mobile devices has attracted significant attention in recent years. An increasing number of research projects have focused on sophisticated appearance-based deep learning models to enhance the precision of gaze estimation on smartphones. This inspires important research questions, including how the gaze can be used in a real-time application, and what type of gaze interaction methods are preferable under dynamic conditions in terms of both user acceptance and delivering reliable performance. To address these questions, we design four types of gaze scrolling techniques: three explicit technique based on Gaze Gesture, Dwell time, and Pursuit; and one implicit technique based on reading speed to support touch-free, page-scrolling on a reading application. We conduct a 20-participant user study under both sitting and walking settings and our results reveal that Gaze Gesture and Dwell time-based interfaces are more robust while walking and Gaze Gesture has achieved consistently good scores on usability while not causing high cognitive workload."
-    },
-    {
-        "title": "Exploring Dwell-time from Human Cognitive Processes for Dwell Selection",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Toshiya Isomoto",
-            "Shota Yamanaka",
-            "Buntarou Shizuki"
-        ],
-        "DOI": "https://doi.org/10.1145/3591128",
-        "citation": "1",
-        "abstract": "In order to develop future implicit interactions, it is important to understand the duration a user needs to recognize a visual object. By providing interactions that are triggered after a user recognizes an object, confusion resulting from the discrepancy between completing a cognitive process, which we define as the process from perceiving a visual stimulus to determining a selection, and triggering an interaction can be reduced. To understand this duration, we developed a model to derive dwell-times, allowing dwell selection to be performed after completing a cognitive process based on the Model Human Processor and the number of fixations. Our model revealed a minimum dwell-time of 144.2 ms for a colored target selection task. For an image selection task, the minimum dwell-time was 272.5 ms, which increased to 835.8 ms when a participant had not previously fixated on the object."
-    },
-    {
-        "title": "Exploring Gaze-assisted and Hand-based Region Selection in Augmented Reality",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Rongkai Shi",
-            "Yushi Wei",
-            "Xueying Qin",
-            "Pan Hui",
-            "Hai-Ning Liang"
-        ],
-        "DOI": "https://doi.org/10.1145/3591129",
-        "citation": "3",
-        "abstract": "Region selection is a fundamental task in interactive systems. In 2D user interfaces, users typically use a rectangle selection tool to formulate a region using a mouse or touchpad. Region selection in 3D spaces, especially in Augmented Reality (AR) Head-Mounted Displays (HMDs) is different and challenging because users need to select an intended region via freehand mid-air gestures or eye-based actions that are touchless interactions. In this work, we aim to fill in the gap in the design of region selection techniques in AR HMDs. We first analyzed and discretized the interaction procedure of region selection and explored design possibilities for each step. We then developed four techniques for region selection in AR HMDs, which leveraged users' hand and gaze for unimodal or multimodal interaction. The techniques were evaluated via a user study with a controlled region selection task. The findings led to three design recommendations and two proof-of-concept application examples."
-    },
-    {
-        "title": "Exploring the Effects of Scanpath Feature Engineering for Supervised Image Classification Models",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Sean Anthony Byrne",
-            "Virmarie Maquiling",
-            "Adam Peter Frederick Reynolds",
-            "Luca Polonio",
-            "Nora Castner",
-            "Enkelejda Kasneci"
-        ],
-        "DOI": "https://doi.org/10.1145/3591130",
-        "citation": "1",
-        "abstract": "Image classification models are becoming a popular method of analysis for scanpath classification. To implement these models, gaze data must first be reconfigured into a 2D image. However, this step gets relatively little attention in the literature as focus is mostly placed on model configuration. As standard model architectures have become more accessible to the wider eye-tracking community, we highlight the importance of carefully choosing feature representations within scanpath images as they may heavily affect classification accuracy. To illustrate this point, we create thirteen sets of scanpath designs incorporating different eye-tracking feature representations from data recorded during a task-based viewing experiment. We evaluate each scanpath design by passing the sets of images through a standard pre-trained deep learning model as well as a SVM image classifier. Results from our primary experiment show an average accuracy improvement of 25 percentage points between the best-performing set and one baseline set."
-    },
-    {
-        "title": "Eyettention: An Attention-based Dual-Sequence Model for Predicting Human Scanpaths during Reading",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Shuwen Deng",
-            "David R. Reich",
-            "Paul Prasse",
-            "Patrick Haller",
-            "Tobias Scheffer",
-            "Lena A. Jäger"
-        ],
-        "DOI": "https://doi.org/10.1145/3591131",
-        "citation": "1",
-        "abstract": "Eye movements during reading offer insights into both the reader's cognitive processes and the characteristics of the text that is being read. Hence, the analysis of scanpaths in reading have attracted increasing attention across fields, ranging from cognitive science over linguistics to computer science. In particular, eye-tracking-while-reading data has been argued to bear the potential to make machine-learning-based language models exhibit a more human-like linguistic behavior. However, one of the main challenges in modeling human scanpaths in reading is their dual-sequence nature: the words are ordered following the grammatical rules of the language, whereas the fixations are chronologically ordered. As humans do not strictly read from left-to-right, but rather skip or refixate words and regress to previous words, the alignment of the linguistic and the temporal sequence is non-trivial. In this paper, we develop Eyettention, the first dual-sequence model that simultaneously processes the sequence of words and the chronological sequence of fixations. The alignment of the two sequences is achieved by a cross-sequence attention mechanism. We show that Eyettention outperforms state-of-the-art models in predicting scanpaths. We provide an extensive within- and across-data set evaluation on different languages. An ablation study and qualitative analysis support an in-depth understanding of the model's behavior."
-    },
-    {
-        "title": "G-DAIC: A Gaze Initialized Framework for Description and Aesthetic-Based Image Cropping",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Nora Horanyi",
-            "Yuqi Hou",
-            "Ales Leonardis",
-            "Hyung Jin Chang"
-        ],
-        "DOI": "https://doi.org/10.1145/3591132",
-        "citation": "0",
-        "abstract": "We propose a new gaze-initialised optimisation framework to generate aesthetically pleasing image crops based on user description. We extended the existing description-based image cropping dataset by collecting user eye movements corresponding to the image captions. To best leverage the contextual information to initialise the optimisation framework using the collected gaze data, this work proposes two gaze-based initialisation strategies, Fixed Grid and Region Proposal. In addition, we propose the adaptive Mixed scaling method to find the optimal output despite the size of the generated initialisation region and the described part of the image. We address the runtime limitation of the state-of-the-art method by implementing the Early termination strategy to reduce the number of iterations required to produce the output. Our experiments show that G-DAIC reduced the runtime by 92.11%, and the quantitative and qualitative experiments demonstrated that the proposed framework produces higher quality and more accurate image crops w.r.t. user intention."
-    },
-    {
-        "title": "Investigating Privacy Perceptions and Subjective Acceptance of Eye Tracking on Handheld Mobile Devices",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Noora Alsakar",
-            "Yasmeen Abdrabou",
-            "Simone Stumpf",
-            "Mohamed Khamis"
-        ],
-        "DOI": "https://doi.org/10.1145/3591133",
-        "citation": "0",
-        "abstract": "Although eye tracking brings many benefits to users of mobile devices and developers of mobile applications, it poses significant privacy risks to both: the users of mobile devices, and the bystanders that surround users, are within the front-facing camera's field of view. Recent research demonstrates that tracking an individual's gaze reveals personal and sensitive information. This paper presents an investigation of the privacy perceptions and the subjective acceptance of users towards eye tracking on handheld mobile devices. In a four-phase user study (N=17), participants used a smartphone eye tracking app, were interviewed before and after viewing a video showing the amount of sensitive and personal data that could be derived from eye movements, and had their privacy concerns measured. Our findings 1) show factors that influence users' and bystanders' attitudes toward eye tracking on mobile devices such as the algorithms' transparency and the developers' credibility and 2) support designing mechanisms to allow for privacy-aware eye tracking solutions on mobile-devices."
-    },
-    {
-        "title": "PACMHCI V7, ETRA, May 2023 Editorial",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Andrew T. Duchowski",
-            "Krzysztof Krejtz",
-            "Zoya Bylinskii",
-            "Hans Gellersen"
-        ],
-        "DOI": "https://doi.org/10.1145/3591125",
-        "citation": "0",
-        "abstract": "In 2022, ETRA moved its publication of full papers to a journal-based model, and we are delighted to present the second issue of the Proceedings of the ACM on Human-Computer Interaction to focus on contributions from the Eye Tracking Research and Applications (ETRA) community. ETRA is the premier eye-tracking conference that brings together researchers from across disciplines to present advances and innovations in oculomotor research, eye tracking systems, eye movement data analysis, eye tracking applications, and gaze-based interaction. This issue presents 13 full papers accepted for presentation at ETRA 2023 (May 30 - June 2, 2023, in Tübingen, Germany) selected from 37 submissions (35% acceptance rate). We are grateful to all authors for the exciting contributions they have produced and to the Editorial Board and external reviewers for their effort during the entire rigorous reviewing process which resulted in high-quality and insightful reviews for all submitted articles."
-    },
-    {
-        "title": "Practical Perception-Based Evaluation of Gaze Prediction for Gaze Contingent Rendering",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Samantha Aziz",
-            "Dillon J. Lohr",
-            "Razvan Stefanescu",
-            "Oleg Komogortsev"
-        ],
-        "DOI": "https://doi.org/10.1145/3591134",
-        "citation": "0",
-        "abstract": "This paper proposes a novel evaluation framework, termed \"critical evaluation periods,\" for evaluating continuous gaze prediction models. This framework emphasizes prediction performance when it is most critical for gaze prediction to be accurate relative to user perception. Based on perceptual characteristics of the human visual system such as saccadic suppression, this framework provides a more practical assessment of gaze prediction performance for gaze-contingent rendering compared to the dominant sample-by-sample evaluation strategy employed in literature, which overemphasizes performance during easy-to-predict periods of fixation. Using a case study with a lightweight deep learning gaze prediction model, we observe a significant discrepancy in the reported prediction accuracy between the proposed critical evaluation periods and the dominant evaluation strategy employed in literature. Based on our findings, we suggest that the proposed framework is more suitable for evaluating the performance of continuous gaze prediction models intended for gaze-contingent rendering applications."
-    },
-    {
-        "title": "Studying Developer Eye Movements to Measure Cognitive Workload and Visual Effort for Expertise Assessment",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Salwa D. Aljehane",
-            "Bonita Sharif",
-            "Jonathan I. Maletic"
-        ],
-        "DOI": "https://doi.org/10.1145/3591135",
-        "citation": "0",
-        "abstract": "Eye movement data provides valuable insights that help test hypotheses about a software developer's comprehension process. The pupillary response is successfully used to assess mental processing effort and attentional focus. Relatively little is known about the impact of expertise level in cognitive effort during programming tasks. This paper presents a quantitative analysis that compares the eye movements of 207 experts and novices collected while solving program comprehension tasks. The goal is to examine changes of developers' eye movement metrics in accordance with their expertise. The results indicate significant increase in pupil size with the novice group compared to the experts, explaining higher cognitive effort for novices. Novices also tend to have a significant number of fixations and higher gaze time compared to experts when they comprehend code. Moreover, a correlation study found that programming experience is still a powerful indicator when explaining expertise in this eye-tracking dataset among other expertise variables."
-    },
-    {
-        "title": "Towards Modeling Human Attention from Eye Movements for Neural Source Code Summarization",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Aakash Bansal",
-            "Bonita Sharif",
-            "Collin McMillan"
-        ],
-        "DOI": "https://doi.org/10.1145/3591136",
-        "citation": "0",
-        "abstract": "Neural source code summarization is the task of generating natural language descriptions of source code behavior using neural networks. A fundamental component of most neural models is an attention mechanism. The attention mechanism learns to connect features in source code to specific words to use when generating natural language descriptions. Humans also pay attention to some features in code more than others. This human attention reflects experience and high-level cognition well beyond the capability of any current neural model. In this paper, we use data from published eye-tracking experiments to create a model of this human attention. The model predicts which words in source code are the most important for code summarization. Next, we augment a baseline neural code summarization approach using our model of human attention. We observe an improvement in prediction performance of the augmented approach in line with other bio-inspired neural models."
-    },
-    {
-        "title": "Unconscious Frustration: Dynamically Assessing User Experience using Eye and Mouse Tracking",
-        "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
-        "data": "NONE",
-        "authors": [
-            "Scott A. Stone",
-            "Craig S. Chapman"
-        ],
-        "DOI": "https://doi.org/10.1145/3591137",
-        "citation": "0",
-        "abstract": "Eye-tracking has become easier to deploy in user experience (UX) studies to get a sense of where users attend to during interactions. Additionally, mouse tracking grants insights into the cognition driving the user's behaviours and end goals, as can measuring the coordination between the eye and mouse-cursor. We created a menu navigation task based on a popular video game to assess two populations: a local cohort, and a remote cohort. We used two different eye trackers (monitor-mounted hardware, and a webcam-based algorithm; local used both simultaneously, remote used webcam only) with concurrent mouse tracking to detect friction in the UX. We found that both eye trackers had similar performance and revealed a previously undetected friction point. We argue this friction point was only detected because of the use of quantified, coordinated unconscious behaviours (eye and hand movements). The methods demonstrated are easily integrated into current UX studies with minimal cost."
-    }
+  {
+    "title": "A Unified Look at Cultural Heritage: Comparison of Aggregated Scanpaths over Architectural Artifacts",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": [
+      "Krzysztof Krejtz",
+      "Patryk Szczecinski",
+      "Aneta Pawlowska",
+      "Daria Rutkowska-Siuda",
+      "Katarzyna Wisiecka",
+      "Piotr Milczarski",
+      "Artur Hlobaz",
+      "Andrew T. Duchowski",
+      "Izabela Krejtz"
+    ],
+    "DOI": "https://doi.org/10.1145/3591138",
+    "citation": "2",
+    "abstract": "The paper contributes to scanpath bundling methods. We propose an analytical approach for statistical comparisons of aggregated scanpath visualizations by means of second-order gaze analysis metrics. The present study explores differences in attention distribution and cognitive processing over architectural objects between architects, art historians, and non-experts. The results show between-group differences in attention dynamics of the aggregated scanpaths. The aggregated scanpaths of both expert groups were focal, while non-experts' scanpaths were ambient. Experts also paid more attention to and tended to remember better the architectural details and their location. The discussion explores the scalability of the proposed approach for Human-Computer Interaction and accessibility technologies designed to enhance the experience of cultural heritage."
+  },
+  {
+    "title": "Classification of Alzheimer's using Deep-learning Methods on Webcam-based Gaze Data",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": [
+      "Anuj Harisinghani",
+      "Harshinee Sriram",
+      "Cristina Conati",
+      "Giuseppe Carenini",
+      "Thalia Field",
+      "Hyeju Jang",
+      "Gabriel Murray"
+    ],
+    "DOI": "https://doi.org/10.1145/3591126",
+    "citation": "0",
+    "abstract": "There has been increasing interest in non-invasive predictors of Alzheimer's disease (AD) as an initial screen for this condition. Previously, successful attempts leveraged eye-tracking and language data generated during picture narration and reading tasks. These results were obtained with high-end, expensive eye-trackers. Instead, we explore classification using eye-tracking data collected with a webcam, where our classifiers are built using a deep-learning approach. Our results show that the webcam gaze classifier is not as good as the classifier based on high-end eye-tracking data. However, the webcam-based classifier still beats the majority-class baseline classifier in terms of AU-ROC, indicating that predictive signals can be extracted from webcam gaze tracking. Hence, although our results indicate that there is still a long way to go before webcam gaze tracking can reach practical relevance, they still provide an encouraging proof of concept that this technology should be further explored as an affordable alternative to high-end eye-trackers for the detection of AD."
+  },
+  {
+    "title": "DynamicRead: Exploring Robust Gaze Interaction Methods for Reading on Handheld Mobile Devices under Dynamic Conditions",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": [
+      "Yaxiong Lei",
+      "Yuheng Wang",
+      "Tyler Caslin",
+      "Alexander Wisowaty",
+      "Xu Zhu",
+      "Mohamed Khamis",
+      "Juan Ye"
+    ],
+    "DOI": "https://doi.org/10.1145/3591127",
+    "citation": "0",
+    "abstract": "Enabling gaze interaction in real-time on handheld mobile devices has attracted significant attention in recent years. An increasing number of research projects have focused on sophisticated appearance-based deep learning models to enhance the precision of gaze estimation on smartphones. This inspires important research questions, including how the gaze can be used in a real-time application, and what type of gaze interaction methods are preferable under dynamic conditions in terms of both user acceptance and delivering reliable performance. To address these questions, we design four types of gaze scrolling techniques: three explicit technique based on Gaze Gesture, Dwell time, and Pursuit; and one implicit technique based on reading speed to support touch-free, page-scrolling on a reading application. We conduct a 20-participant user study under both sitting and walking settings and our results reveal that Gaze Gesture and Dwell time-based interfaces are more robust while walking and Gaze Gesture has achieved consistently good scores on usability while not causing high cognitive workload."
+  },
+  {
+    "title": "Exploring Dwell-time from Human Cognitive Processes for Dwell Selection",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": ["Toshiya Isomoto", "Shota Yamanaka", "Buntarou Shizuki"],
+    "DOI": "https://doi.org/10.1145/3591128",
+    "citation": "1",
+    "abstract": "In order to develop future implicit interactions, it is important to understand the duration a user needs to recognize a visual object. By providing interactions that are triggered after a user recognizes an object, confusion resulting from the discrepancy between completing a cognitive process, which we define as the process from perceiving a visual stimulus to determining a selection, and triggering an interaction can be reduced. To understand this duration, we developed a model to derive dwell-times, allowing dwell selection to be performed after completing a cognitive process based on the Model Human Processor and the number of fixations. Our model revealed a minimum dwell-time of 144.2 ms for a colored target selection task. For an image selection task, the minimum dwell-time was 272.5 ms, which increased to 835.8 ms when a participant had not previously fixated on the object."
+  },
+  {
+    "title": "Exploring Gaze-assisted and Hand-based Region Selection in Augmented Reality",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": [
+      "Rongkai Shi",
+      "Yushi Wei",
+      "Xueying Qin",
+      "Pan Hui",
+      "Hai-Ning Liang"
+    ],
+    "DOI": "https://doi.org/10.1145/3591129",
+    "citation": "3",
+    "abstract": "Region selection is a fundamental task in interactive systems. In 2D user interfaces, users typically use a rectangle selection tool to formulate a region using a mouse or touchpad. Region selection in 3D spaces, especially in Augmented Reality (AR) Head-Mounted Displays (HMDs) is different and challenging because users need to select an intended region via freehand mid-air gestures or eye-based actions that are touchless interactions. In this work, we aim to fill in the gap in the design of region selection techniques in AR HMDs. We first analyzed and discretized the interaction procedure of region selection and explored design possibilities for each step. We then developed four techniques for region selection in AR HMDs, which leveraged users' hand and gaze for unimodal or multimodal interaction. The techniques were evaluated via a user study with a controlled region selection task. The findings led to three design recommendations and two proof-of-concept application examples."
+  },
+  {
+    "title": "Exploring the Effects of Scanpath Feature Engineering for Supervised Image Classification Models",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": [
+      "Sean Anthony Byrne",
+      "Virmarie Maquiling",
+      "Adam Peter Frederick Reynolds",
+      "Luca Polonio",
+      "Nora Castner",
+      "Enkelejda Kasneci"
+    ],
+    "DOI": "https://doi.org/10.1145/3591130",
+    "citation": "1",
+    "abstract": "Image classification models are becoming a popular method of analysis for scanpath classification. To implement these models, gaze data must first be reconfigured into a 2D image. However, this step gets relatively little attention in the literature as focus is mostly placed on model configuration. As standard model architectures have become more accessible to the wider eye-tracking community, we highlight the importance of carefully choosing feature representations within scanpath images as they may heavily affect classification accuracy. To illustrate this point, we create thirteen sets of scanpath designs incorporating different eye-tracking feature representations from data recorded during a task-based viewing experiment. We evaluate each scanpath design by passing the sets of images through a standard pre-trained deep learning model as well as a SVM image classifier. Results from our primary experiment show an average accuracy improvement of 25 percentage points between the best-performing set and one baseline set."
+  },
+  {
+    "title": "Eyettention: An Attention-based Dual-Sequence Model for Predicting Human Scanpaths during Reading",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": [
+      "Shuwen Deng",
+      "David R. Reich",
+      "Paul Prasse",
+      "Patrick Haller",
+      "Tobias Scheffer",
+      "Lena A. Jäger"
+    ],
+    "DOI": "https://doi.org/10.1145/3591131",
+    "citation": "1",
+    "abstract": "Eye movements during reading offer insights into both the reader's cognitive processes and the characteristics of the text that is being read. Hence, the analysis of scanpaths in reading have attracted increasing attention across fields, ranging from cognitive science over linguistics to computer science. In particular, eye-tracking-while-reading data has been argued to bear the potential to make machine-learning-based language models exhibit a more human-like linguistic behavior. However, one of the main challenges in modeling human scanpaths in reading is their dual-sequence nature: the words are ordered following the grammatical rules of the language, whereas the fixations are chronologically ordered. As humans do not strictly read from left-to-right, but rather skip or refixate words and regress to previous words, the alignment of the linguistic and the temporal sequence is non-trivial. In this paper, we develop Eyettention, the first dual-sequence model that simultaneously processes the sequence of words and the chronological sequence of fixations. The alignment of the two sequences is achieved by a cross-sequence attention mechanism. We show that Eyettention outperforms state-of-the-art models in predicting scanpaths. We provide an extensive within- and across-data set evaluation on different languages. An ablation study and qualitative analysis support an in-depth understanding of the model's behavior."
+  },
+  {
+    "title": "G-DAIC: A Gaze Initialized Framework for Description and Aesthetic-Based Image Cropping",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": [
+      "Nora Horanyi",
+      "Yuqi Hou",
+      "Ales Leonardis",
+      "Hyung Jin Chang"
+    ],
+    "DOI": "https://doi.org/10.1145/3591132",
+    "citation": "0",
+    "abstract": "We propose a new gaze-initialised optimisation framework to generate aesthetically pleasing image crops based on user description. We extended the existing description-based image cropping dataset by collecting user eye movements corresponding to the image captions. To best leverage the contextual information to initialise the optimisation framework using the collected gaze data, this work proposes two gaze-based initialisation strategies, Fixed Grid and Region Proposal. In addition, we propose the adaptive Mixed scaling method to find the optimal output despite the size of the generated initialisation region and the described part of the image. We address the runtime limitation of the state-of-the-art method by implementing the Early termination strategy to reduce the number of iterations required to produce the output. Our experiments show that G-DAIC reduced the runtime by 92.11%, and the quantitative and qualitative experiments demonstrated that the proposed framework produces higher quality and more accurate image crops w.r.t. user intention."
+  },
+  {
+    "title": "Investigating Privacy Perceptions and Subjective Acceptance of Eye Tracking on Handheld Mobile Devices",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": [
+      "Noora Alsakar",
+      "Yasmeen Abdrabou",
+      "Simone Stumpf",
+      "Mohamed Khamis"
+    ],
+    "DOI": "https://doi.org/10.1145/3591133",
+    "citation": "0",
+    "abstract": "Although eye tracking brings many benefits to users of mobile devices and developers of mobile applications, it poses significant privacy risks to both: the users of mobile devices, and the bystanders that surround users, are within the front-facing camera's field of view. Recent research demonstrates that tracking an individual's gaze reveals personal and sensitive information. This paper presents an investigation of the privacy perceptions and the subjective acceptance of users towards eye tracking on handheld mobile devices. In a four-phase user study (N=17), participants used a smartphone eye tracking app, were interviewed before and after viewing a video showing the amount of sensitive and personal data that could be derived from eye movements, and had their privacy concerns measured. Our findings 1) show factors that influence users' and bystanders' attitudes toward eye tracking on mobile devices such as the algorithms' transparency and the developers' credibility and 2) support designing mechanisms to allow for privacy-aware eye tracking solutions on mobile-devices."
+  },
+  {
+    "title": "PACMHCI V7, ETRA, May 2023 Editorial",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": [
+      "Andrew T. Duchowski",
+      "Krzysztof Krejtz",
+      "Zoya Bylinskii",
+      "Hans Gellersen"
+    ],
+    "DOI": "https://doi.org/10.1145/3591125",
+    "citation": "0",
+    "abstract": "In 2022, ETRA moved its publication of full papers to a journal-based model, and we are delighted to present the second issue of the Proceedings of the ACM on Human-Computer Interaction to focus on contributions from the Eye Tracking Research and Applications (ETRA) community. ETRA is the premier eye-tracking conference that brings together researchers from across disciplines to present advances and innovations in oculomotor research, eye tracking systems, eye movement data analysis, eye tracking applications, and gaze-based interaction. This issue presents 13 full papers accepted for presentation at ETRA 2023 (May 30 - June 2, 2023, in Tübingen, Germany) selected from 37 submissions (35% acceptance rate). We are grateful to all authors for the exciting contributions they have produced and to the Editorial Board and external reviewers for their effort during the entire rigorous reviewing process which resulted in high-quality and insightful reviews for all submitted articles."
+  },
+  {
+    "title": "Practical Perception-Based Evaluation of Gaze Prediction for Gaze Contingent Rendering",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": [
+      "Samantha Aziz",
+      "Dillon J. Lohr",
+      "Razvan Stefanescu",
+      "Oleg Komogortsev"
+    ],
+    "DOI": "https://doi.org/10.1145/3591134",
+    "citation": "0",
+    "abstract": "This paper proposes a novel evaluation framework, termed \"critical evaluation periods,\" for evaluating continuous gaze prediction models. This framework emphasizes prediction performance when it is most critical for gaze prediction to be accurate relative to user perception. Based on perceptual characteristics of the human visual system such as saccadic suppression, this framework provides a more practical assessment of gaze prediction performance for gaze-contingent rendering compared to the dominant sample-by-sample evaluation strategy employed in literature, which overemphasizes performance during easy-to-predict periods of fixation. Using a case study with a lightweight deep learning gaze prediction model, we observe a significant discrepancy in the reported prediction accuracy between the proposed critical evaluation periods and the dominant evaluation strategy employed in literature. Based on our findings, we suggest that the proposed framework is more suitable for evaluating the performance of continuous gaze prediction models intended for gaze-contingent rendering applications."
+  },
+  {
+    "title": "Studying Developer Eye Movements to Measure Cognitive Workload and Visual Effort for Expertise Assessment",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": ["Salwa D. Aljehane", "Bonita Sharif", "Jonathan I. Maletic"],
+    "DOI": "https://doi.org/10.1145/3591135",
+    "citation": "0",
+    "abstract": "Eye movement data provides valuable insights that help test hypotheses about a software developer's comprehension process. The pupillary response is successfully used to assess mental processing effort and attentional focus. Relatively little is known about the impact of expertise level in cognitive effort during programming tasks. This paper presents a quantitative analysis that compares the eye movements of 207 experts and novices collected while solving program comprehension tasks. The goal is to examine changes of developers' eye movement metrics in accordance with their expertise. The results indicate significant increase in pupil size with the novice group compared to the experts, explaining higher cognitive effort for novices. Novices also tend to have a significant number of fixations and higher gaze time compared to experts when they comprehend code. Moreover, a correlation study found that programming experience is still a powerful indicator when explaining expertise in this eye-tracking dataset among other expertise variables."
+  },
+  {
+    "title": "Towards Modeling Human Attention from Eye Movements for Neural Source Code Summarization",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": ["Aakash Bansal", "Bonita Sharif", "Collin McMillan"],
+    "DOI": "https://doi.org/10.1145/3591136",
+    "citation": "0",
+    "abstract": "Neural source code summarization is the task of generating natural language descriptions of source code behavior using neural networks. A fundamental component of most neural models is an attention mechanism. The attention mechanism learns to connect features in source code to specific words to use when generating natural language descriptions. Humans also pay attention to some features in code more than others. This human attention reflects experience and high-level cognition well beyond the capability of any current neural model. In this paper, we use data from published eye-tracking experiments to create a model of this human attention. The model predicts which words in source code are the most important for code summarization. Next, we augment a baseline neural code summarization approach using our model of human attention. We observe an improvement in prediction performance of the augmented approach in line with other bio-inspired neural models."
+  },
+  {
+    "title": "Unconscious Frustration: Dynamically Assessing User Experience using Eye and Mouse Tracking",
+    "conferenceTitle": "ETRA '23: Symposium on Eye Tracking Research and Applications",
+    "data": "May 2023",
+    "authors": ["Scott A. Stone", "Craig S. Chapman"],
+    "DOI": "https://doi.org/10.1145/3591137",
+    "citation": "0",
+    "abstract": "Eye-tracking has become easier to deploy in user experience (UX) studies to get a sense of where users attend to during interactions. Additionally, mouse tracking grants insights into the cognition driving the user's behaviours and end goals, as can measuring the coordination between the eye and mouse-cursor. We created a menu navigation task based on a popular video game to assess two populations: a local cohort, and a remote cohort. We used two different eye trackers (monitor-mounted hardware, and a webcam-based algorithm; local used both simultaneously, remote used webcam only) with concurrent mouse tracking to detect friction in the UX. We found that both eye trackers had similar performance and revealed a previously undetected friction point. We argue this friction point was only detected because of the use of quantified, coordinated unconscious behaviours (eye and hand movements). The methods demonstrated are easily integrated into current UX studies with minimal cost."
+  }
 ]
