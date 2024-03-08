@@ -151,6 +151,8 @@ for paper_idx in range(1, len(papers)):
             # print("10")
             # print(papers[paper_idx][DATE_IDX])
             month, year = papers[paper_idx][DATE_IDX].split()
+            
+        # DATE 형식 'YYYY-MM-DD' 표준화
         papers[paper_idx][DATE_IDX] = f'{year}-{month_to_number[month]:02d}-01'
 
     # CITATION
