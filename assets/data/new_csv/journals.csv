@@ -1,0 +1,1738 @@
+id,name,upper_category_id,year
+1,CHI,,2000
+2,CHI,,2001
+3,CHI,,2002
+4,SESSION: Contextual Displays,3,2002
+5,SESSION: Input Devices,3,2002
+6,SESSION: Gaze,3,2002
+7,SESSION: Input: Smooth Moves,3,2002
+8,SESSION: Structure and Flow,3,2002
+9,SESSION: Two-Handed Interaction,3,2002
+10,SESSION: Confidence and Trust,3,2002
+11,SESSION: Controlling Complexity,3,2002
+12,"SESSION: I Think, therefore IM",3,2002
+13,SESSION: Spatial Cognition,3,2002
+14,SESSION: Technology to help poeple find information,3,2002
+15,SESSION: Web Behavior Patterns,3,2002
+16,SESSION: Focue and Context,3,2002
+17,"SESSION: Speech, Audio, Gesture",3,2002
+18,SESSION: Interactive Design,3,2002
+19,SESSION: Collaborative Filtering,3,2002
+20,SESSION: Hands-On Interfaces,3,2002
+21,SESSION: Web Site Analysis,3,2002
+22,SESSION: Communities and Organizations,3,2002
+23,SESSION: Ubiquity,3,2002
+24,SESSION: Visualizing Patterns,3,2002
+25,SESSION: Group Spaces,3,2002
+26,SESSION: Design Methods,3,2002
+27,CHI,,2003
+28,DEMONSTRATION SESSION: Interaction techniques for handheld devices,27,2003
+29,SESSION: Domesticated design,27,2003
+30,SESSION: Accessibility interfaces,27,2003
+31,SESSION: Sharable displays,27,2003
+32,SESSION: New techniques for presenting instructions and transcripts,27,2003
+33,SESSION: Input interaction,27,2003
+34,SESSION: Privacy and trust,27,2003
+35,SESSION: Usability of large scale public systems,27,2003
+36,SESSION: Peripheral and ambient displays,27,2003
+37,SESSION: Pointing and manipulation,27,2003
+38,SESSION: Large displays,27,2003
+39,SESSION: Designing design,27,2003
+40,SESSION: Modeling user behavior,27,2003
+41,SESSION: Digital sociability,27,2003
+42,SESSION: Issues in software development,27,2003
+43,SESSION: Designing applications for handheld devices,27,2003
+44,SESSION: Integrating tools and tasks,27,2003
+45,"SESSION: Techniques for on-screen shapes, text and handwriting",27,2003
+46,SESSION: Searching and organizing,27,2003
+47,SESSION: Psychology and physiology,27,2003
+48,SESSION: Design for the socially mobile,27,2003
+49,DEMONSTRATION SESSION: Camera-based input and video techniques,27,2003
+50,DEMONSTRATION SESSION: Interaction techniques for constrained Ddsplays,27,2003
+51,SESSION: Web usability,27,2003
+52,SESSION: New directions in video conferencing,27,2003
+53,SESSION: Between u and i,27,2003
+54,SESSION: People at leisure: social mixed reality,27,2003
+55,SESSION: Recommender systems and social computing,27,2003
+56,CHI,,2004
+57,CHI,,2005
+58,SESSION: Large communities,57,2005
+59,SESSION: Web interactions,57,2005
+60,SESSION: Basic level interaction techniques,57,2005
+61,SESSION: Privacy 1,57,2005
+62,SESSION: Document interaction,57,2005
+63,SESSION: Eyes on interaction,57,2005
+64,SESSION: Personal technologies,57,2005
+65,SESSION: Small devices 1,57,2005
+66,SESSION: Eye gaze and multimodal integration patterns,57,2005
+67,SESSION: Touch & such,57,2005
+68,SESSION: Smart interaction techniques 1,57,2005
+69,"SESSION: Take a number, stand in line (interruptions & attention 1)",57,2005
+70,SESSION: Design thoughts & methods,57,2005
+71,SESSION: Smart interaction techniques 2,57,2005
+72,SESSION: Methods & usability,57,2005
+73,SESSION: Interactive information visualization,57,2005
+74,SESSION: Pen-based interfaces,57,2005
+75,SESSION: Affect and intimacy,57,2005
+76,SESSION: Assistive applications,57,2005
+77,SESSION: Educational & help systems,57,2005
+78,SESSION: In-vehicle interfaces,57,2005
+79,SESSION: Physical interaction,57,2005
+80,SESSION: Technology in the home,57,2005
+81,SESSION: Safety in a complex world,57,2005
+82,SESSION: Small devices 2,57,2005
+83,SESSION: Email and security,57,2005
+84,SESSION: Public life,57,2005
+85,SESSION: Social behaviors,57,2005
+86,SESSION: Display,57,2005
+87,SESSION: Enhancing virtual spaces and large displays,57,2005
+88,SESSION: Look,57,2005
+89,SESSION: Papers on presenting papers,57,2005
+90,SESSION: Designing for and with kids,57,2005
+91,SESSION: Educational issues,57,2005
+92,SESSION: Understanding users and usage patterns,57,2005
+93,SESSION: Interruptions and attention 2: attending to interruptions,57,2005
+94,CHI,,2006
+95,SESSION: Navigation,94,2006
+96,SESSION: Mobile surfing and effects of wearables,94,2006
+97,SESSION: Games,94,2006
+98,SESSION: Privacy 1,94,2006
+99,SESSION: Social computing 1,94,2006
+100,SESSION: Participatory design,94,2006
+101,SESSION: Interaction techniques: haptic and gestural,94,2006
+102,SESSION: Activity: design implications,94,2006
+103,SESSION: End user programming,94,2006
+104,SESSION: Personal information management,94,2006
+105,SESSION: Multidisplay environments,94,2006
+106,SESSION: Managing voice input,94,2006
+107,SESSION: Interaction methods,94,2006
+108,SESSION: Understanding programs and interfaces,94,2006
+109,SESSION: Games and performances,94,2006
+110,SESSION: Designing for tangible interactions,94,2006
+111,SESSION: Text input,94,2006
+112,SESSION: Visualization and search,94,2006
+113,SESSION: Design: creative and historical perspectives,94,2006
+114,SESSION: Information handling,94,2006
+115,SESSION: Security,94,2006
+116,SESSION: Automatic generation and usability,94,2006
+117,SESSION: Media,94,2006
+118,SESSION: Ubiquitous computing,94,2006
+119,SESSION: Search and navigation: mobiles and audio,94,2006
+120,SESSION: Using knowledge to predict and manage,94,2006
+121,SESSION: Collecting and editing photos,94,2006
+122,SESSION: Visualization 1,94,2006
+123,SESSION: Privacy 2,94,2006
+124,SESSION: Pen,94,2006
+125,SESSION: Everyday use of mobiles,94,2006
+126,SESSION: Awareness and presence,94,2006
+127,SESSION: Healthcare,94,2006
+128,SESSION: Online communities,94,2006
+129,SESSION: Visualization 2,94,2006
+130,"SESSION: Novel methods: emotions, gestures, events",94,2006
+131,SESSION: Social computing 2,94,2006
+132,SESSION: Menus,94,2006
+133,SESSION: Selecting and tracking,94,2006
+134,SESSION: Disabilities,94,2006
+135,SESSION: Beliefs and affect,94,2006
+136,SESSION: Gestures and visualizations,94,2006
+137,SESSION: Social computing 3,94,2006
+138,SESSION: Usability methods,94,2006
+139,SESSION: Interacting with large surfaces,94,2006
+140,SESSION: Computer-mediated communication,94,2006
+141,CHI,,2007
+142,SESSION: Faces & bodies in interaction,141,2007
+143,SECTION: Presentations,141,2007
+144,SESSION: Attention & interruption,141,2007
+145,SESSION: Capturing life experiences,141,2007
+146,SESSION: Large displays,141,2007
+147,"SESSION: Shake, rattle and roll: new forms of input and output",141,2007
+148,SESSION: Ubicomp tools,141,2007
+149,SESSION: Mobile interaction,141,2007
+150,SESSION: Politics & activism,141,2007
+151,SESSION: Navigation & interaction,141,2007
+152,SESSION: Medical,141,2007
+153,SESSION: Task & attention,141,2007
+154,SESSION: Expert/novice,141,2007
+155,SESSION: Mobile applications,141,2007
+156,SESSION: Navigation,141,2007
+157,SESSION: Photo sharing,141,2007
+158,SESSION: Empirical studies of web interaction,141,2007
+159,SESSION: Gaze & eye tracking,141,2007
+160,SESSION: Online representation of self,141,2007
+161,SESSION: Innovative interactions,141,2007
+162,SESSION: Design theory,141,2007
+163,SESSION: Play & exercise,141,2007
+164,SESSION: Home spirituality,141,2007
+165,SESSION: Programming by professionals,141,2007
+166,SESSION: Web usability,141,2007
+167,SESSION: Empirical models,141,2007
+168,SESSION: Mobile interaction techniques I,141,2007
+169,SESSION: Tasks,141,2007
+170,SESSION: Emergency action,141,2007
+171,SESSION: Design methods,141,2007
+172,SESSION: Mobile interaction techniques II,141,2007
+173,SESSION: Tangibility,141,2007
+174,SESSION: Games,141,2007
+175,SESSION: Video,141,2007
+176,SESSION: Security,141,2007
+177,SESSION: Emotion & empathy,141,2007
+178,SESSION: Collaboration at work,141,2007
+179,"SESSION: Tags, tagging & notetaking",141,2007
+180,SESSION: Multimodal interactions,141,2007
+181,SESSION: Distributed interaction,141,2007
+182,SESSION: Learning & education,141,2007
+183,SESSION: Designing for specific cultures,141,2007
+184,SESSION: Mobile kits & stuff,141,2007
+185,SESSION: Novel navigation,141,2007
+186,"SESSION: People, looking at people",141,2007
+187,SESSION: Input techniques,141,2007
+188,SESSION: Location aware systems,141,2007
+189,SESSION: Social network sharing,141,2007
+190,"SESSION: Augmentation, automation & agents",141,2007
+191,SESSION: Distributed coordination,141,2007
+192,SESSION: Usability,141,2007
+193,SESSION: Kids & family,141,2007
+194,SESSION: Alternative interaction,141,2007
+195,SESSION: Usability evaluation,141,2007
+196,SESSION: Programming by & with end-users,141,2007
+197,SESSION: Trust & engagement,141,2007
+198,SESSION: Models of mobile interaction,141,2007
+199,SESSION: Color/blind,141,2007
+200,SESSION: Social influence,141,2007
+201,SESSION: Learning,141,2007
+202,CHI,,2008
+203,SECTION: Presentations,202,2008
+204,SESSION: Socio-Cultural Impact,202,2008
+205,SESSION: Interactive Image Search,202,2008
+206,SESSION: Stories and Memories,202,2008
+207,SESSION: Don't Interrupt Me,202,2008
+208,SESSION: Invited Session: Usability Evaluation Considered H,202,2008
+209,SESSION: Human-Robot Interaction,202,2008
+210,SESSION: Learning Support,202,2008
+211,SESSION: Trust and Security,202,2008
+212,SESSION: Post-WIMP,202,2008
+213,SESSION: Improved Video Navigation and Capture,202,2008
+214,SESSION: Visual Synthesis,202,2008
+215,SESSION: Touch and Target Selection,202,2008
+216,SESSION: Green Day,202,2008
+217,SESSION: Kid's Stuff,202,2008
+218,SESSION: Collaborative User Interfaces,202,2008
+219,"SESSION: Aesthetics, Awareness, and Sketching",202,2008
+220,SESSION: Data Collection,202,2008
+221,SESSION: Health and Wellness,202,2008
+222,SESSION: I am here. Where are you?,202,2008
+223,SESSION: Physiological Sensing for Input,202,2008
+224,"SESSION: Policy, Telemedicine, and Enterprise",202,2008
+225,SESSION: Post-QWERTY QWERTY,202,2008
+226,SESSION: Beyond End-User Programming,202,2008
+227,SESSION: Dignity in Design,202,2008
+228,SESSION: Knowledge Elicitation,202,2008
+229,SESSION: Tools for Education,202,2008
+230,SESSION: Sound of Music,202,2008
+231,SESSION: Healthcare in the Developing World,202,2008
+232,SESSION: Displayful and Displayless,202,2008
+233,"SESSION: Friends, Foe, and Family",202,2008
+234,"SESSION: Cognition, Perception, and Memory",202,2008
+235,SESSION: Exploring Web Content,202,2008
+236,"SESSION: Measuring, Business, and Voting",202,2008
+237,SESSION: Multiple and Large Displays,202,2008
+238,SESSION: Mixed-Initiative Interaction,202,2008
+239,SESSION: Help Me Search,202,2008
+240,SESSION: Online Social Networks,202,2008
+241,SESSION: Am I Safe,202,2008
+242,SESSION: Search,202,2008
+243,SESSION: Shared Authoring,202,2008
+244,SESSION: Tangibles: Input & Output,202,2008
+245,SESSION: On the Move,202,2008
+246,SESSION: Web Visits in the Long,202,2008
+247,SESSION: Visualization to Support Information Work,202,2008
+248,SESSION: Adaptation,202,2008
+249,SESSION: Multitouch and Surface Computing,202,2008
+250,SESSION: Activity-Based Prototyping and Software,202,2008
+251,SESSION: Multidimensional Visualization,202,2008
+252,SESSION: Menu and Command Selection,202,2008
+253,SESSION: Model Interaction,202,2008
+254,SESSION: Domesticity and Design,202,2008
+255,SESSION: Game Zone,202,2008
+256,SESSION: Visualizations,202,2008
+257,SESSION: Character Development,202,2008
+258,SESSION: Social Presence,202,2008
+259,SESSION: Tactile and Haptic User Interfaces,202,2008
+260,SESSION: Culture and Technology,202,2008
+261,SESSION: Fitt's Law Lives,202,2008
+262,SESSION: Collaboration and Cooperation,202,2008
+263,SESSION: Driving in My Car,202,2008
+264,SESSION: Pointing and Flicking,202,2008
+265,SESSION: End-Users Sharing and Tailoring Software,202,2008
+266,SESSION: Picture Perfect,202,2008
+267,SESSION: Finding your way,202,2008
+268,SESSION: Personal Health,202,2008
+269,CHI,,2009
+270,SESSION: Understanding information,269,2009
+271,SESSION: Designing for other cultures,269,2009
+272,SESSION: Expertise/people finding,269,2009
+273,SESSION: Design methods,269,2009
+274,SESSION: Navigation,269,2009
+275,SESSION: New tabletop input and output methods,269,2009
+276,SESSION: Robots,269,2009
+277,SESSION: Online relationships,269,2009
+278,SESSION: Education and science,269,2009
+279,SESSION: Personal information management,269,2009
+280,SESSION: Clicking on buttons,269,2009
+281,SESSION: Privacy and trust,269,2009
+282,SESSION: Accessibility/special needs,269,2009
+283,SESSION: Sustainability 1,269,2009
+284,SESSION: Creating thought and self-improvement,269,2009
+285,SESSION: Telepresence and online media,269,2009
+286,SESSION: Learning challenges,269,2009
+287,SESSION: Tangibles on tables,269,2009
+288,SESSION: Computer mediated communication 1,269,2009
+289,SESSION: Non-traditional interaction techniques,269,2009
+290,SESSION: In the living room,269,2009
+291,SESSION: Information foraging,269,2009
+292,SESSION: Prototyping and interaction,269,2009
+293,SESSION: Understanding UI 1,269,2009
+294,SESSION: Metrics,269,2009
+295,SESSION: Cross culture CMC,269,2009
+296,SESSION: Scientometric analysis of the CHI proceedings,269,2009
+297,SESSION: User experience,269,2009
+298,SESSION: In the home,269,2009
+299,SESSION: Q&A systems,269,2009
+300,SESSION: Looking at videos,269,2009
+301,SESSION: Art creation,269,2009
+302,SESSION: Programming tools and architectures,269,2009
+303,SESSION: The status of ethnography in systems design,269,2009
+304,SESSION: Security,269,2009
+305,SESSION: Techniques for mobile interaction,269,2009
+306,SESSION: Social networking sites,269,2009
+307,SESSION: Software developers and programmers,269,2009
+308,SESSION: Large displays/multi-display environments,269,2009
+309,SESSION: Sustainability 2,269,2009
+310,SESSION: Tabletop gestures,269,2009
+311,SESSION: Visualization 1,269,2009
+312,SESSION: Design theory,269,2009
+313,SESSION: New media experiences 1,269,2009
+314,SESSION: Classifying and recommending content,269,2009
+315,"SESSION: Using tabletops for education, science, and media",269,2009
+316,"SESSION: Helping out users with ""extreme jobs""",269,2009
+317,SESSION: Visualization 2,269,2009
+318,SESSION: User studies and design,269,2009
+319,SESSION: Cognitive modeling and assessment,269,2009
+320,SESSION: Finding info online,269,2009
+321,SESSION: Pointing and cursor techniques,269,2009
+322,SESSION: The beauty dilemma,269,2009
+323,SESSION: New media experiences 2,269,2009
+324,SESSION: Personal and online information,269,2009
+325,SESSION: Studying Wikipedia,269,2009
+326,SESSION: Multimodal mobile interaction,269,2009
+327,SESSION: New gaming experiences,269,2009
+328,SESSION: Software development,269,2009
+329,SESSION: Usability methods,269,2009
+330,SESSION: Studying cell phone use,269,2009
+331,SESSION: Desktop techniques,269,2009
+332,SESSION: Designing for senior citizens,269,2009
+333,SESSION: Photos and life logging,269,2009
+334,SESSION: Mobile applications for the developing world,269,2009
+335,SESSION: Social search and sensemaking,269,2009
+336,SESSION: Understanding UI 2,269,2009
+337,SESSION: Supporting blind users,269,2009
+338,SESSION: Advanced web scenarios,269,2009
+339,SESSION: Enhancing reality,269,2009
+340,SESSION: New mobile interactions,269,2009
+341,SESSION: Technology for museums,269,2009
+342,SESSION: Security and privacy,269,2009
+343,SESSION: Web searching and browsing,269,2009
+344,SESSION: Hospitals,269,2009
+345,SESSION: Social software in office,269,2009
+346,SESSION: Studying intelligent systems,269,2009
+347,SESSION: Tabletops and single display groupware,269,2009
+348,SESSION: Systems for children,269,2009
+349,SESSION: New input modalities,269,2009
+350,SESSION: Reflecting on design,269,2009
+351,SESSION: Tactile UI,269,2009
+352,SESSION: Gesture UIs,269,2009
+353,SESSION: Understanding graphs,269,2009
+354,SESSION: Computer mediated communication 2,269,2009
+355,SESSION: Informed design,269,2009
+356,SECTION: Presentations,269,2009
+357,CHI,,2010
+358,SESSION: EPIC #FAIL,357,2010
+359,SESSION: Exploratory search,357,2010
+360,SESSION: Making meaning in large displays,357,2010
+361,SESSION: Multitasking,357,2010
+362,SESSION: Organizations and communities,357,2010
+363,SESSION: Privacy awareness and attitudes,357,2010
+364,SESSION: Social support for cancer patients,357,2010
+365,SESSION: Visualization,357,2010
+366,SESSION: Games and players,357,2010
+367,SESSION: Interfaces and visualization,357,2010
+368,SESSION: Language 2.0,357,2010
+369,SESSION: Market models for Q&A services,357,2010
+370,SESSION: Mobile device interaction,357,2010
+371,SESSION: Privacy behaviors,357,2010
+372,SESSION: The age of searching,357,2010
+373,SESSION: The infrastructure problem in HCI,357,2010
+374,SESSION: Computing on the body,357,2010
+375,"SESSION: Dance, dust, and drama: designing design",357,2010
+376,SESSION: End-user programming I,357,2010
+377,SESSION: Organizing and organizations,357,2010
+378,"SESSION: Performance, stagecraft, and magic",357,2010
+379,SESSION: Speech and touch,357,2010
+380,SESSION: Writing in the real world,357,2010
+381,SESSION: At home with computing,357,2010
+382,SESSION: Browsing,357,2010
+383,SESSION: End-user programming II,357,2010
+384,SESSION: HCI and India,357,2010
+385,SESSION: Sharing in social media,357,2010
+386,SESSION: Tactile interaction,357,2010
+387,SESSION: User characteristics and large-scale tracking,357,2010
+388,SESSION: Brains and brawn,357,2010
+389,SESSION: Gesturing and drawing,357,2010
+390,SESSION: Medical exploration,357,2010
+391,SESSION: Sense and sustainability,357,2010
+392,SESSION: Sharing content and searches,357,2010
+393,SESSION: Tagging,357,2010
+394,SESSION: Understanding and supporting programming,357,2010
+395,SESSION: Avatars and virtual environments,357,2010
+396,SESSION: Crisis informatics,357,2010
+397,"SESSION: Input, security, and privacy policies",357,2010
+398,SESSION: Seniors using technologies,357,2010
+399,SESSION: Tangible UI,357,2010
+400,SESSION: Understanding comments,357,2010
+401,SESSION: Caring for ourselves,357,2010
+402,SESSION: Communicating,357,2010
+403,"SESSION: Driving, interrupted",357,2010
+404,SESSION: HCI for all,357,2010
+405,SESSION: Interaction techniques,357,2010
+406,SESSION: Machine learning and web interactions,357,2010
+407,SESSION: Pointing and selecting,357,2010
+408,SESSION: Bang a table,357,2010
+409,SESSION: Expressing and understanding opinions in social media,357,2010
+410,SESSION: Humans and sociability,357,2010
+411,SESSION: Looking with video,357,2010
+412,SESSION: Pixels and perception,357,2010
+413,SESSION: Privacy,357,2010
+414,SESSION: Storytelling,357,2010
+415,SESSION: Classroom technologies,357,2010
+416,SESSION: Devising input,357,2010
+417,SESSION: Expertise,357,2010
+418,SESSION: Interactions in the world,357,2010
+419,SESSION: Sound and speech,357,2010
+420,SESSION: Using your social network,357,2010
+421,SESSION: Working with medical records,357,2010
+422,SESSION: Bikes and buses,357,2010
+423,SESSION: Death and fear,357,2010
+424,"SESSION: Earth, wind, and flyer",357,2010
+425,SESSION: Medical data,357,2010
+426,SESSION: Social media users,357,2010
+427,SESSION: Subtle expressions through sound and text,357,2010
+428,SESSION: Tools affecting the enterprise,357,2010
+429,SESSION: Mapping the landscape of sustainable HCI,357,2010
+430,SESSION: Home eco behavior,357,2010
+431,SESSION: On the phone,357,2010
+432,SESSION: Remember and reflect,357,2010
+433,SESSION: Sharing in specific communities,357,2010
+434,SESSION: Something eye catching,357,2010
+435,SESSION: Therapy and rehabilitation,357,2010
+436,SESSION: Everyday gestures,357,2010
+437,SESSION: HCI in China,357,2010
+438,SESSION: Multitouch,357,2010
+439,SESSION: Perspectives on design,357,2010
+440,SESSION: Public displays,357,2010
+441,SESSION: Sensing,357,2010
+442,SESSION: Usability methods and new domains,357,2010
+443,SESSION: We are family,357,2010
+444,SESSION: 1001 users,357,2010
+445,"SESSION: Cooking, classrooms, and craft",357,2010
+446,SESSION: Displays where you least expect them,357,2010
+447,SESSION: Domestic life,357,2010
+448,SESSION: Finding your mojo and doing some good,357,2010
+449,SESSION: Software understanding and maintenance,357,2010
+450,SESSION: Users and attention on the web,357,2010
+451,SESSION: Going to the mall: shopping and product design,357,2010
+452,SESSION: Graphs,357,2010
+453,SESSION: HCI and the developing world,357,2010
+454,SESSION: No touch,357,2010
+455,SECTION: Presentations,357,2010
+456,CHI,,2011
+457,SESSION: Health 1: technology challenges,456,2011
+458,SESSION: Telepresence,456,2011
+459,"SESSION: Olfaction, breath & biofeedback",456,2011
+460,SESSION: Research methods,456,2011
+461,SESSION: Machine learning,456,2011
+462,SESSION: Mid-air pointing & gestures,456,2011
+463,SESSION: Twitter systems,456,2011
+464,SESSION: Sex & bodies,456,2011
+465,SESSION: Watching together,456,2011
+466,SESSION: Health 2: persuasive systems,456,2011
+467,SESSION: Brain & bio-sensor interactions,456,2011
+468,SESSION: Gestures,456,2011
+469,"SESSION: Designing for values, democracy & peace",456,2011
+470,SESSION: Driving,456,2011
+471,SESSION: Meetings & interaction spaces,456,2011
+472,"SESSION: Art, music & movement",456,2011
+473,SESSION: Facebook,456,2011
+474,SESSION: Health 3: online communities & social interaction,456,2011
+475,SESSION: Human-robot interaction,456,2011
+476,SESSION: Tagging,456,2011
+477,SESSION: HCI for all,456,2011
+478,SESSION: Emotional states,456,2011
+479,SESSION: Identity & virtual social interactions,456,2011
+480,"SESSION: Gestures, body & touch",456,2011
+481,SESSION: Pointing 1,456,2011
+482,SESSION: Ambient & peripheral computing,456,2011
+483,SESSION: Museums & public exhibitions,456,2011
+484,SESSION: Everyday information management,456,2011
+485,SESSION: Low-cost ICT4D,456,2011
+486,SESSION: Predicting & modeling human behaviors,456,2011
+487,SESSION: Death & bereavement,456,2011
+488,SESSION: Non-flat Displays,456,2011
+489,SESSION: Design theory,456,2011
+490,SESSION: Microblogging behavior,456,2011
+491,SESSION: Inter-cultural interaction,456,2011
+492,SESSION: Eye tracking,456,2011
+493,SESSION: Families,456,2011
+494,SESSION: Search & information seeking,456,2011
+495,SESSION: Expression & perception,456,2011
+496,SESSION: Flexible grips & gestures,456,2011
+497,SESSION: 3D interaction,456,2011
+498,SESSION: Crowdsourcing,456,2011
+499,SESSION: User studies/ethnography in developing regions,456,2011
+500,SESSION: Visualization & perception,456,2011
+501,SESSION: Digital content & collections,456,2011
+502,SESSION: Search & stuff,456,2011
+503,SESSION: Design materiality,456,2011
+504,SESSION: Multi-touch,456,2011
+505,SESSION: Pointing 2: Fitts law,456,2011
+506,SESSION: Evaluation and/or design based on many users,456,2011
+507,SESSION: Homeless users,456,2011
+508,SESSION: Visual analytics,456,2011
+509,SESSION: Photo sharing,456,2011
+510,SESSION: Web search & usability,456,2011
+511,SESSION: Performing arts,456,2011
+512,SESSION: Collaboration & creativity,456,2011
+513,SESSION: Wireless networks,456,2011
+514,SESSION: Storytelling & perceptual crossing,456,2011
+515,SESSION: Emergency response & scheduling,456,2011
+516,SESSION: Learning,456,2011
+517,SESSION: Time/animations,456,2011
+518,SESSION: Touch 1: tactile & haptics,456,2011
+519,SESSION: Security (systems),456,2011
+520,SESSION: Home automation,456,2011
+521,SESSION: Sustainability 1,456,2011
+522,SESSION: Mobile issues,456,2011
+523,SESSION: Website & application design,456,2011
+524,SESSION: New approaches to usability,456,2011
+525,SESSION: Design Methods,456,2011
+526,SESSION: Decision making & the web,456,2011
+527,SESSION: Security (social),456,2011
+528,SESSION: Games,456,2011
+529,SESSION: Sustainability 2,456,2011
+530,SESSION: Location sharing,456,2011
+531,SESSION: Text entry & typing,456,2011
+532,SESSION: Touch 2: tactile & targets,456,2011
+533,SESSION: Methods to aid & structure design,456,2011
+534,SESSION: Touch 3: sensing,456,2011
+535,SESSION: Authentication,456,2011
+536,"SESSION: Cats, dogs, sports, games & books",456,2011
+537,SESSION: User experience,456,2011
+538,SESSION: Interaction on mobile devices,456,2011
+539,SESSION: Shortcuts commands & expertise,456,2011
+540,SESSION: Sound interactions,456,2011
+541,SESSION: Innovation & design,456,2011
+542,SESSION: Tabletop synchronous collaboration,456,2011
+543,SESSION: Social Q & A,456,2011
+544,SESSION: Empowering users in developing regions,456,2011
+545,SESSION: Organizations & distributed work,456,2011
+546,SESSION: Reading & writing,456,2011
+547,SESSION: Engaging youth,456,2011
+548,SESSION: Tangibles,456,2011
+549,SESSION: Groups around the table,456,2011
+550,SESSION: Rehabilitation,456,2011
+551,SESSION: Software development & product support,456,2011
+552,SESSION: Multitasking & interruption,456,2011
+553,SESSION: Organizations & enterprise,456,2011
+554,SESSION: Books & language,456,2011
+555,SESSION: Privacy,456,2011
+556,SESSION: Tactile interaction,456,2011
+557,SESSION: Tabletop & wall displays,456,2011
+558,SESSION: Doctor-patient care,456,2011
+559,SESSION: Developers & end-user programmers,456,2011
+560,SESSION: Incentives & user generated content,456,2011
+561,SESSION: Courriel,456,2011
+562,SECTION: Presentations,456,2011
+563,CHI,,2012
+564,SESSION: AI & machine-learning & translation,563,2012
+565,SESSION: Teaching with new interfaces,563,2012
+566,SESSION: Game experiences,563,2012
+567,SESSION: Eating + cooking,563,2012
+568,SESSION: Touch in context,563,2012
+569,SESSION: Curves & mirages: gestures & interaction with nonplanar surfaces,563,2012
+570,SESSION: Leveraging the crowd,563,2012
+571,"SESSION: Getting around: menus, scrolling, & advanced navigation",563,2012
+572,SESSION: Spectators,563,2012
+573,SESSION: Immateriality as a design feature,563,2012
+574,SESSION: Privacy + self disclosure,563,2012
+575,SESSION: Supporting visually impaired users,563,2012
+576,SESSION: Text visualization,563,2012
+577,SESSION: Brain & body,563,2012
+578,SESSION: Empathy & technology: focus on the end user,563,2012
+579,SESSION: Workplace,563,2012
+580,SESSION: Uses of media & creation of web experiences,563,2012
+581,SESSION: Tools for video + images,563,2012
+582,SESSION: Sustainability & behavior change,563,2012
+583,SESSION: Interacting with robots & agents,563,2012
+584,SESSION: Hot moves: shape-changing & thermal interfaces,563,2012
+585,SESSION: Intimacy & connection,563,2012
+586,SESSION: HCI4D: business,563,2012
+587,SESSION: Pen + touch,563,2012
+588,SESSION: Affective presence,563,2012
+589,SESSION: Games: community + communication,563,2012
+590,SESSION: Healthcare + technology: putting patients first,563,2012
+591,SESSION: Critical perspectives on design,563,2012
+592,SESSION: I am how i touch: authenticating users,563,2012
+593,SESSION: Visionary models + tools,563,2012
+594,SESSION: It's a big web!,563,2012
+595,SESSION: Tools & stats in evaluation studies,563,2012
+596,SESSION: Values in research practice,563,2012
+597,SESSION: Literacy on the margin,563,2012
+598,SESSION: Participatory design with older people,563,2012
+599,SESSION: Personas & design,563,2012
+600,SESSION: Kick it! interfaces for feet & walking,563,2012
+601,SESSION: Music across CHI,563,2012
+602,SESSION: Space: the interaction frontier,563,2012
+603,SESSION: The tools of the trade,563,2012
+604,SESSION: Publics & civic virtues,563,2012
+605,SESSION: Promoting educational opportunity,563,2012
+606,SESSION: Interfaces for health & well being,563,2012
+607,SESSION: Needle in the haystack,563,2012
+608,SESSION: Understanding online communication,563,2012
+609,SESSION: Performative emergency simulation,563,2012
+610,SESSION: Crowdsourcing & peer production I,563,2012
+611,SESSION: Pasts + futures,563,2012
+612,SESSION: Mobile computing & interaction,563,2012
+613,SESSION: Future design,563,2012
+614,SESSION: Visualization + visual analysis,563,2012
+615,SESSION: Outside the box,563,2012
+616,SESSION: Sensing + sensible interaction,563,2012
+617,SESSION: Time + task: managing work life,563,2012
+618,SESSION: Search interfaces,563,2012
+619,SESSION: Music,563,2012
+620,SESSION: ICT4D,563,2012
+621,SESSION: Movement-based gameplay,563,2012
+622,SESSION: Beyond paper,563,2012
+623,SESSION: Sensory interaction modalities,563,2012
+624,"SESSION: Old mouse, new tricks: desktop interfaces",563,2012
+625,SESSION: Social support & collaboration,563,2012
+626,"SESSION: Culture, playfulness, & creativity",563,2012
+627,SESSION: I did that! being in control,563,2012
+628,SESSION: Teaching with games,563,2012
+629,SESSION: Health + design,563,2012
+630,SESSION: Usability methods,563,2012
+631,SESSION: Dimensions of sensory interaction,563,2012
+632,SESSION: Phone fun: extending mobile interaction,563,2012
+633,SESSION: Check this out: recommender systems,563,2012
+634,SESSION: See hear speak: redesigning I/O for effectiveness,563,2012
+635,"SESSION: Triple t: touch, tables, tablets",563,2012
+636,SESSION: Defying environmental behavior changes,563,2012
+637,SESSION: Learning with children,563,2012
+638,SESSION: Morphing & tracking & stacking: 3D interaction,563,2012
+639,SESSION: Social computing: business & beyond,563,2012
+640,"SESSION: Programming, performance, & sense making",563,2012
+641,SESSION: Design theory & practice,563,2012
+642,SESSION: Interactions beyond the desktop,563,2012
+643,SESSION: Right where i am: UX in complex environments,563,2012
+644,SESSION: Health & children,563,2012
+645,SESSION: Comfortable aging,563,2012
+646,SESSION: Touch text entry,563,2012
+647,SESSION: Programming & debugging,563,2012
+648,SESSION: Organizing the recovery,563,2012
+649,"SESSION: Tweet, tweet, tweet!",563,2012
+650,SESSION: Me & my mobile,563,2012
+651,SESSION: Understanding gamers,563,2012
+652,SESSION: Better together,563,2012
+653,SESSION: Bigger is better: large & multiple display environments,563,2012
+654,SESSION: What a lovely gesture,563,2012
+655,SESSION: Crowdsourcing & peer production II,563,2012
+656,SESSION: Usability & user research,563,2012
+657,SESSION: Do you see what eye see,563,2012
+658,SESSION: Home & family,563,2012
+659,SESSION: Designing for learners' complex needs,563,2012
+660,SESSION: Groups @ work,563,2012
+661,SESSION: Use the force,563,2012
+662,SESSION: Human performance gives us Fitts',563,2012
+663,SESSION: With a little help from my friends,563,2012
+664,CHI,,2013
+665,SESSION: Papers: managing social media,664,2013
+666,SESSION: Papers: enhancing access,664,2013
+667,SESSION: Papers: learning,664,2013
+668,SESSION: Papers: interaction in the wild,664,2013
+669,SESSION: Papers: 3D user interfaces,664,2013
+670,SESSION: Papers: crowdsourcing: people power,664,2013
+671,SESSION: Papers: multitouch and gesture,664,2013
+672,SESSION: Papers: gaze,664,2013
+673,SESSION: Papers: technologies for life 1,664,2013
+674,SESSION: Papers: evaluation methods 1,664,2013
+675,SESSION: Papers: co-design with users,664,2013
+676,SESSION: Papers: language and translation,664,2013
+677,SESSION: Papers: brain sensing and analysis,664,2013
+678,SESSION: Papers: crowdwork and online communities,664,2013
+679,SESSION: Papers: keyboards and hotkeys,664,2013
+680,SESSION: Papers: flexible displays,664,2013
+681,"SESSION: Papers: smart tools, smart work",664,2013
+682,SESSION: Papers: creating and authoring,664,2013
+683,SESSION: Papers: exploring games,664,2013
+684,SESSION: Papers: tables and floors,664,2013
+685,SESSION: Papers: design for classrooms 1,664,2013
+686,SESSION: Papers: crowds and activism,664,2013
+687,SESSION: Papers: large and public displays,664,2013
+688,SESSION: Papers: interacting around devices,664,2013
+689,SESSION: Papers: design for the home,664,2013
+690,SESSION: Papers: social creativity,664,2013
+691,SESSION: Papers: design for classrooms 2,664,2013
+692,SESSION: Papers: reflecting on phones,664,2013
+693,SESSION: Papers: technologies for life 2,664,2013
+694,SESSION: Papers: gesture studies,664,2013
+695,SESSION: Papers: manipulating video,664,2013
+696,SESSION: Papers: sustainable energy,664,2013
+697,SESSION: Papers: impairment and rehabilitation,664,2013
+698,SESSION: Papers: exergames and beyond,664,2013
+699,SESSION: Papers: full-body interaction,664,2013
+700,SESSION: Papers: video communication,664,2013
+701,SESSION: Papers: ideation methods,664,2013
+702,SESSION: Papers: pointing and Fitts Law,664,2013
+703,SESSION: Papers: sensing touch,664,2013
+704,SESSION: Papers: displays everywhere,664,2013
+705,SESSION: Papers: clinical settings,664,2013
+706,SESSION: Papers: game design,664,2013
+707,SESSION: Papers: novel programming,664,2013
+708,SESSION: Papers: temporal design,664,2013
+709,SESSION: Papers: tactile experiences,664,2013
+710,SESSION: Papers: public displays,664,2013
+711,SESSION: Papers: communicating health,664,2013
+712,SESSION: Papers: reading and writing,664,2013
+713,SESSION: Papers: studying digital artifacts,664,2013
+714,SESSION: Papers: ethics in HCI,664,2013
+715,SESSION: Papers: embodied interaction 2,664,2013
+716,SESSION: Papers: design research,664,2013
+717,SESSION: Papers: developing the world,664,2013
+718,SESSION: Papers: collaborative creation,664,2013
+719,SESSION: Papers: aesthetics and the web,664,2013
+720,SESSION: Papers: evaluation methods 2,664,2013
+721,SESSION: Papers: design for the blind,664,2013
+722,SESSION: Papers: mobile interaction,664,2013
+723,SESSION: Papers: performing interaction,664,2013
+724,SESSION: Papers: engagement,664,2013
+725,SESSION: Papers: knowledge managment,664,2013
+726,SESSION: Papers: touch interaction,664,2013
+727,SESSION: Papers: data navigation,664,2013
+728,SESSION: Papers: passwords and errors,664,2013
+729,SESSION: Papers: social tagging,664,2013
+730,SESSION: Papers: food and health,664,2013
+731,SESSION: Papers: mobile applications,664,2013
+732,SESSION: Papers: crime and conflicts,664,2013
+733,SESSION: Papers: haptics,664,2013
+734,SESSION: Papers: fabrication,664,2013
+735,SESSION: Papers: mental health,664,2013
+736,SESSION: Papers: consent and privacy,664,2013
+737,SESSION: Papers: text visualization,664,2013
+738,SESSION: Papers: sustainability,664,2013
+739,SESSION: Papers: mobile text entry,664,2013
+740,SESSION: Papers: design for development,664,2013
+741,SESSION: Papers: narrative and materiality,664,2013
+742,SESSION: Papers: design for children,664,2013
+743,SESSION: Papers: evaluation methods 3,664,2013
+744,SESSION: Papers: visual perception,664,2013
+745,SESSION: Papers: searching and finding,664,2013
+746,SESSION: Papers: mobile gestures,664,2013
+747,SESSION: Papers: design for developers,664,2013
+748,SESSION: Papers: perception and awareness,664,2013
+749,SESSION: Papers: spatial interfaces,664,2013
+750,SESSION: Papers: autism,664,2013
+751,SESSION: Papers: information visualization,664,2013
+752,SESSION: Papers: social media practices,664,2013
+753,SESSION: Papers: different perspectives,664,2013
+754,SESSION: Papers: multi-device interaction,664,2013
+755,SESSION: Papers: On the move,664,2013
+756,SESSION: Papers: understanding privacy,664,2013
+757,SESSION: Papers: design strategies,664,2013
+758,SESSION: Papers: tensions in social media,664,2013
+759,CHI,,2014
+760,SESSION: Visualization and aesthetics,759,2014
+761,SESSION: Stress,759,2014
+762,SESSION: Social local mobile,759,2014
+763,SESSION: Coordination and collaboration,759,2014
+764,SESSION: Watches and small devices,759,2014
+765,SESSION: The third dimension,759,2014
+766,SESSION: Audio interaction,759,2014
+767,SESSION: Sustainability and everyday practices,759,2014
+768,SESSION: Studying online communities,759,2014
+769,SESSION: Image and animation authoring,759,2014
+770,SESSION: Studying and designing gameplay,759,2014
+771,SESSION: Force input and haptic feedback,759,2014
+772,"SESSION: Hackerspaces, making and breaking",759,2014
+773,SESSION: Activity recognition,759,2014
+774,SESSION: Managing income,759,2014
+775,SESSION: Designing and understanding visualizations,759,2014
+776,SESSION: Crowdfunding and crowd storage,759,2014
+777,SESSION: Novel approaches to navigation,759,2014
+778,SESSION: Interfaces for care and support,759,2014
+779,SESSION: Research through design,759,2014
+780,SESSION: Pointing and cursors,759,2014
+781,SESSION: Always connected: email and social media,759,2014
+782,SESSION: Smart homes and sustainability,759,2014
+783,SESSION: Multilingual communication,759,2014
+784,SESSION: Interactive visualization and visual elements,759,2014
+785,SESSION: Understanding and designing games,759,2014
+786,SESSION: Personal values and preferences,759,2014
+787,SESSION: Enabling interactive performances,759,2014
+788,SESSION: Battery life and energy harvesting,759,2014
+789,SESSION: Mid-air gestures,759,2014
+790,SESSION: Touch and stylus interaction,759,2014
+791,SESSION: Quantified self,759,2014
+792,SESSION: Sustainability perspectives,759,2014
+793,SESSION: Navigating video,759,2014
+794,SESSION: Crowds and creativity,759,2014
+795,SESSION: Interacting with the web,759,2014
+796,"SESSION: Music, dance, and television",759,2014
+797,SESSION: Social media and health,759,2014
+798,SESSION: On and above the surface,759,2014
+799,SESSION: Interactive whiteboards and public displays,759,2014
+800,SESSION: Human-robot interaction,759,2014
+801,SESSION: Emergency response,759,2014
+802,SESSION: Sensemaking and information in use,759,2014
+803,SESSION: Presentation technologies,759,2014
+804,SESSION: Personal health and wellbeing,759,2014
+805,SESSION: Design theory,759,2014
+806,SESSION: Novel keyboards,759,2014
+807,SESSION: DIY and hacking,759,2014
+808,SESSION: User models and prediction,759,2014
+809,SESSION: Engage and educate children,759,2014
+810,SESSION: Studying visualization,759,2014
+811,SESSION: Exploring exergames,759,2014
+812,SESSION: Narratives and storytelling,759,2014
+813,SESSION: Designing for older adults and demographic change,759,2014
+814,SESSION: Critical design,759,2014
+815,SESSION: Understanding and modeling touch,759,2014
+816,SESSION: 3D interaction: modeling and prototyping,759,2014
+817,SESSION: The eyes have it,759,2014
+818,SESSION: Learning and education,759,2014
+819,SESSION: Telepresence and connecting over video,759,2014
+820,SESSION: Exergame design,759,2014
+821,SESSION: Designing and modeling GUIs,759,2014
+822,SESSION: Health and everyday life,759,2014
+823,SESSION: Text entry and evaluation,759,2014
+824,SESSION: Emotions and mobiles,759,2014
+825,SESSION: Privacy,759,2014
+826,SESSION: Issues that matter,759,2014
+827,SESSION: Understanding and using social media,759,2014
+828,SESSION: Working together,759,2014
+829,SESSION: Programming and development tools,759,2014
+830,SESSION: Interactive technologies for rehabilitation,759,2014
+831,SESSION: Shape-changing interfaces,759,2014
+832,SESSION: Touch input,759,2014
+833,SESSION: Risks and security,759,2014
+834,SESSION: CHI for social development,759,2014
+835,SESSION: Question and answer systems,759,2014
+836,SESSION: Cross-device interaction,759,2014
+837,SESSION: Exergaming for health and fitness,759,2014
+838,SESSION: Sensory experiences: smell and taste,759,2014
+839,SESSION: Multitouch interaction,759,2014
+840,SESSION: Authentication and passwords,759,2014
+841,SESSION: Policies and practice: doing the right thing,759,2014
+842,SESSION: Journalism and social news,759,2014
+843,SESSION: Interruptions and distractions,759,2014
+844,"SESSION: Decisions, recommendations, and machine learning",759,2014
+845,SESSION: Accessibility,759,2014
+846,SESSION: Tangible interactions and technologies,759,2014
+847,SESSION: Head-worn displays,759,2014
+848,SESSION: Applications of body sensing,759,2014
+849,SESSION: Urban communities and social media,759,2014
+850,SESSION: Social media usage,759,2014
+851,SESSION: Games and education,759,2014
+852,SESSION: Learning and games,759,2014
+853,SESSION: Persuasive technologies and applications,759,2014
+854,SESSION: Whole body sensing and interaction,759,2014
+855,SESSION: Novel mobile displays and devices,759,2014
+856,"SESSION: HCI paradigms: past, present and future",759,2014
+857,SESSION: PolitiCHI,759,2014
+858,SESSION: Location-based services and navigation,759,2014
+859,SESSION: Crowdsourcing,759,2014
+860,SESSION: Desktop search and history,759,2014
+861,SESSION: Lost and found in translation,759,2014
+862,SESSION: Participatory design,759,2014
+863,SESSION: Brain computer interfaces,759,2014
+864,SESSION: 3D printing and fabrication,759,2014
+865,SESSION: Modeling users and interaction,759,2014
+866,SESSION: Engaging older adults through technology,759,2014
+867,SESSION: Computer mediated intimacy and romance,759,2014
+868,SESSION: Network of care,759,2014
+869,TUTORIAL SESSION: Tutorials,759,2014
+870,SESSION: Driving interfaces and evaluations,759,2014
+871,SESSION: Gesture-based interaction,759,2014
+872,SESSION: Interactive surfaces and pervasive displays,759,2014
+873,SESSION: Social Media for Relationships,759,2014
+874,CHI,,2015
+875,SESSION: Non-Rigid Interaction Surfaces,874,2015
+876,SESSION: What do I hear? Communicating with Sound,874,2015
+877,SESSION: Rethinking Evaluation for Today's HCI,874,2015
+878,SESSION: Improving Game Experiences,874,2015
+879,SESSION: Facebook Newsfeeds & Friendships,874,2015
+880,SESSION: Activism in Wikipedia & Beyond,874,2015
+881,SESSION: HMDs & Wearables to Overcome Disabilities,874,2015
+882,SESSION: Visualizing Data,874,2015
+883,SESSION: Interaction in 3D Space,874,2015
+884,SESSION: Understanding & Evaluating Performance,874,2015
+885,SESSION: Music & Art,874,2015
+886,SESSION: Supporting Change in Developing Countries,874,2015
+887,"SESSION: Privacy, Security & Interruptions",874,2015
+888,SESSION: Making & Sharing Assistive Technologies,874,2015
+889,SESSION: Matching & Facilitating Social Interactions,874,2015
+890,SESSION: Reflecting Upon Design Reflection,874,2015
+891,SESSION: Makers & Hackers,874,2015
+892,SESSION: How Fast Can you Type on your Phone?,874,2015
+893,SESSION: Understand & Enhancing Learning,874,2015
+894,SESSION: Family Communication,874,2015
+895,SESSION: Crowdsourcing Fans & Friends,874,2015
+896,SESSION: Managing Personal Privacy,874,2015
+897,SESSION: Health Sensors & Monitoring,874,2015
+898,"SESSION: Collaborative Tables, Walls & Rooms",874,2015
+899,SESSION: The Value of Things,874,2015
+900,SESSION: Muscle-Computer Interfaces,874,2015
+901,SESSION: Phones for more than Just Talking & Text,874,2015
+902,SESSION: Search & Recommendations,874,2015
+903,"SESSION: Kids Haptic, Wearable, Tangible Learning",874,2015
+904,SESSION: Motivation & Participation,874,2015
+905,SESSION: Sustainability & Recycling,874,2015
+906,SESSION: The Value of the Village in Caregiving,874,2015
+907,SESSION: I Like What I See - Interface Aesthetics,874,2015
+908,SESSION: Supporting Creativity through UX Design,874,2015
+909,SESSION: Smartwatch Interaction,874,2015
+910,SESSION: Tangible Interactions,874,2015
+911,SESSION: New Evaluation Approaches,874,2015
+912,SESSION: Evaluating Crowdsourcing,874,2015
+913,SESSION: Smart Smartphone Authentication,874,2015
+914,"SESSION: Healthcare Bias, Engagement & Adaptation",874,2015
+915,SESSION: Storytelling in InfoVis,874,2015
+916,"SESSION: Grip, Move & Tilt: Novel Interaction",874,2015
+917,SESSION: Interactive Video & Collaborative Annotations,874,2015
+918,SESSION: HCI for the Elderly,874,2015
+919,SESSION: The Impact of Crowd Work on Workers,874,2015
+920,SESSION: Social Media and Mobile Camera Privacy,874,2015
+921,SESSION: DIY Healthcare: Apps & Wearables,874,2015
+922,SESSION: Social Embodied Interaction,874,2015
+923,SESSION: Innovation in Theories & Products,874,2015
+924,SESSION: Design and 3D Object Fabrication,874,2015
+925,SESSION: Understanding & Extending Touch Interfaces,874,2015
+926,SESSION: Sharing & Collaboration @ Work,874,2015
+927,SESSION: Families and Their Use of Technology,874,2015
+928,SESSION: Understanding Crowdwork in Many Domains,874,2015
+929,SESSION: Eco-Green: Encouraging Energy Conservation,874,2015
+930,SESSION: Sports Tracking & Training,874,2015
+931,SESSION: Feeling & Communicating Emotions,874,2015
+932,SESSION: Critical Design,874,2015
+933,SESSION: HMDs in Augmented & Virtual Reality,874,2015
+934,SESSION: Tangible Interaction with Phones,874,2015
+935,SESSION: UI Impact on Performance & Decisions,874,2015
+936,SESSION: Player Performance & Experience in Games,874,2015
+937,SESSION: Neighborhoods & Disadvantaged Communities,874,2015
+938,SESSION: Enhanced Security with Passwords & CAPTCHAs,874,2015
+939,SESSION: Accessibility at Home & on The Go,874,2015
+940,"SESSION: Telepresence Video, Robots, and Walls",874,2015
+941,SESSION: Experience Design for Games,874,2015
+942,SESSION: Digital & Materials Fabrication,874,2015
+943,SESSION: Tactile Notifications for Phones & Wearables,874,2015
+944,SESSION: Automation and Interactive Feedback,874,2015
+945,SESSION: Art & Performance,874,2015
+946,SESSION: Bridging People & Beliefs with Social Media,874,2015
+947,SESSION: Quantified Self for Humans & Pets,874,2015
+948,SESSION: Visualizing Statistics & Graphs,874,2015
+949,SESSION: Understanding Everyday Use of Mobile Phones,874,2015
+950,"SESSION: GUI Size, Resolution & Layout",874,2015
+951,"SESSION: Kids Social, Emotional & Special Needs",874,2015
+952,SESSION: HCI for Civic Engagement,874,2015
+953,SESSION: Security Feedback & Warnings,874,2015
+954,SESSION: Wellness & Wearables,874,2015
+955,SESSION: Task Interruption & Resumption,874,2015
+956,SESSION: Using Random Body Parts for Input,874,2015
+957,SESSION: Brain & Physiological Data use for HCI,874,2015
+958,SESSION: Software Engineering Tools,874,2015
+959,SESSION: HCI at Home,874,2015
+960,SESSION: Voting & Volunteerism,874,2015
+961,SESSION: Socio-Political Interactions,874,2015
+962,SESSION: Understanding Health through Online Behavior,874,2015
+963,SESSION: Natural User Interfaces for InfoVis,874,2015
+964,SESSION: UX Methods 4,874,2015
+965,SESSION: Augmented & Virtual Reality in the Real World,874,2015
+966,SESSION: Gesture Elicitation & Recognition,874,2015
+967,SESSION: Programming Environments,874,2015
+968,"SESSION: Digital Collections, Practice & Legacy",874,2015
+969,SESSION: Multilingual Communication,874,2015
+970,SESSION: Empowering Users,874,2015
+971,SESSION: Accessibility for Vision Impaired Users,874,2015
+972,SESSION: Interactive & Multi-Surface Maps,874,2015
+973,SESSION: Robot Personalities,874,2015
+974,SESSION: Mid-Air Gestures and Interaction,874,2015
+975,SESSION: MOOCS & e-Learning,874,2015
+976,SESSION: Understanding Gamers,874,2015
+977,SESSION: Bridging Communities,874,2015
+978,SESSION: Gender & Technology,874,2015
+979,SESSION: Coping & Wellbeing Through HCI,874,2015
+980,SESSION: Interacting with Floors & Situated Displays,874,2015
+981,SESSION: Multi-Device Interaction,874,2015
+982,SESSION: Speech & Auditory Interfaces,874,2015
+983,SESSION: Email & Social Media at Work,874,2015
+984,SESSION: Understanding & Protecting Kids Tech Use,874,2015
+985,SESSION: Social Media & Citizen Science,874,2015
+986,SESSION: Disasters & Humanitarian Events,874,2015
+987,SESSION: Home Physiotherapy & Rehabilitation,874,2015
+988,SESSION: Interaction Techniques for Tables & Walls,874,2015
+989,SESSION: Interacting with GUIs,874,2015
+990,CHI,,2016
+991,SESSION: Social Media and Location Data,990,2016
+992,SESSION: How Fast Can You Type on Your Phone?,990,2016
+993,SESSION: Front Stage on Social Media,990,2016
+994,SESSION: Families and Assistive Technology,990,2016
+995,SESSION: 3D Virtual Space,990,2016
+996,SESSION: Mining Human Behaviors,990,2016
+997,SESSION: Behavioral Change,990,2016
+998,SESSION: Vulnerable Populations and Technological Support,990,2016
+999,SESSION: Online Behaviors,990,2016
+1000,SESSION: Collaborative Fabricatio? Making Much of Machines,990,2016
+1001,SESSION: Learning Feedback,990,2016
+1002,SESSION: Visual Design Principles for Unconventional Displays,990,2016
+1003,SESSION: Privacy - Social and Geolocated,990,2016
+1004,SESSION: Social Media Engagement,990,2016
+1005,SESSION: Computer Supported Parenting,990,2016
+1006,SESSION: Personal informatic Dear Data,990,2016
+1007,SESSION: Older Adult Support,990,2016
+1008,SESSION: Real Reality Interfaces,990,2016
+1009,"SESSION: Sociotechnical Assemblage, Participation, Interaction & Materiality",990,2016
+1010,SESSION: Thinking Critically,990,2016
+1011,"SESSION: Prototyping for Fabricatio, 3D Designing, Modelling & Printing",990,2016
+1012,SESSION: Learning @ School,990,2016
+1013,SESSION: Learning Facilitaton,990,2016
+1014,SESSION: Paying Attention to Smartphones,990,2016
+1015,SESSION: Interaction Design for Audio Interfaces,990,2016
+1016,SESSION: Living Healthy,990,2016
+1017,SESSION: Designing Quality in Social Media,990,2016
+1018,SESSION: Physical and Digital Collections,990,2016
+1019,SESSION: Augmented AR and VR Experiences,990,2016
+1020,SESSION: Technological Care for Autism,990,2016
+1021,"SESSION: Sustainability, Design and Environmental Sensibilities",990,2016
+1022,SESSION: Authentication and Privacy,990,2016
+1023,SESSION: (Re)understanding Makin? A Critical Broadening of Maker Cultures,990,2016
+1024,SESSION: Learning Programming,990,2016
+1025,SESSION: Tracking Fingers,990,2016
+1026,SESSION: VR for Collaboration,990,2016
+1027,"SESSION: I want to know my data Democratizing, Opening and Comprehending Data",990,2016
+1028,SESSION: The Economics of Being Online,990,2016
+1029,SESSION: Designing Physical Games,990,2016
+1030,"SESSION: Work, Multitasking, and Distraction",990,2016
+1031,SESSION: Physical Disability and Assistive Technologies,990,2016
+1032,SESSION: Citizenry and the Science? Design as Inquiry and Participation,990,2016
+1033,SESSION: Evaluating Technological Application in Education,990,2016
+1034,SESSION: Quantifying Efficiency of Input Methods,990,2016
+1035,SESSION: Mobile Behaviors,990,2016
+1036,SESSION: Touchscreen Interactions,990,2016
+1037,SESSION: VR & Feedback,990,2016
+1038,SESSION: Gamification,990,2016
+1039,SESSION: Displays and Shared Interactions,990,2016
+1040,SESSION: Mental Health in Technology Design and Social Media,990,2016
+1041,SESSION: Visual Impairment and Technology,990,2016
+1042,SESSION: What lies beyond? Design and Infrastructure through a Critical Lens,990,2016
+1043,"SESSION: Design, Labour and the Invisible Perils of Crowdsourcing",990,2016
+1044,SESSION: HCI and Physiological Interactions,990,2016
+1045,SESSION: In-Air Gesture,990,2016
+1046,SESSION: Curation and Algorithms,990,2016
+1047,SESSION: Contextual Awareness,990,2016
+1048,SESSION: Distance Still Matters,990,2016
+1049,SESSION: Enabling End-Users and Designers,990,2016
+1050,SESSION: Interventions to Design Theory,990,2016
+1051,SESSION: HCI and Gender,990,2016
+1052,SESSION: Complex Tasks and Learning in Crowdsourcing,990,2016
+1053,SESSION: Game and Design,990,2016
+1054,SESSION: Crowdsourcing and Creation: Large-scale Ideas and Content Production,990,2016
+1055,SESSION: Embodied Interaction,990,2016
+1056,SESSION: Big Data and Local Society,990,2016
+1057,SESSION: Touch Interaction,990,2016
+1058,SESSION: Managing Design for Life Disruptions,990,2016
+1059,"SESSION: Civic Tech, Participation and Society",990,2016
+1060,SESSION: Players' Motivations in Games,990,2016
+1061,SESSION: Workplace Social Performance,990,2016
+1062,SESSION: Patients' Participation in Online and Offline Settings,990,2016
+1063,SESSION: User Experience and Performance,990,2016
+1064,SESSION: Microtasks and Crowdsourcing,990,2016
+1065,SESSION: Software and Programming Tools,990,2016
+1066,SESSION: Did you feel the vibration-- Haptic Feedback Everywhere),990,2016
+1067,SESSION: Designing for Attention and Multitasking,990,2016
+1068,SESSION: Politics on Social Media,990,2016
+1069,SESSION: Gesture Elicitation and Interaction,990,2016
+1070,SESSION: Supporting Player Performance,990,2016
+1071,SESSION: End-User Programming,990,2016
+1072,SESSION: Health Support,990,2016
+1073,SESSION: Participating in Well-Being and Family,990,2016
+1074,SESSION: Input Technology,990,2016
+1075,SESSION: Comprehension through Visualization,990,2016
+1076,SESSION: Haptic Sensation Meets Screens,990,2016
+1077,SESSION: Smartphone Authentication,990,2016
+1078,SESSION: Shape Changing Displays,990,2016
+1079,"SESSION: Fat Fingers, Small Watches",990,2016
+1080,SESSION: Online Communities - Identities and Behaviors,990,2016
+1081,SESSION: Affording Collective Action in Social Media,990,2016
+1082,SESSION: Designing New Player Experiences,990,2016
+1083,SESSION: Usability and User Burden,990,2016
+1084,SESSION: Reflection on UX Design,990,2016
+1085,SESSION: Display and Visualizations,990,2016
+1086,SESSION: Reward me! Motivating and Incentivising Crowdsourcing,990,2016
+1087,SESSION: Making Interfaces Work for Each Individual,990,2016
+1088,SESSION: Everyday Objects as Interaction Surfaces,990,2016
+1089,SESSION: Fingers and Technology,990,2016
+1090,SESSION: Privacy over Time and Relationships,990,2016
+1091,SESSION: Supporting Player Social Experiences,990,2016
+1092,SESSION: How Does It Look? Evaluating Visual Design,990,2016
+1093,SESSION: Participatory Design (PD) and Applications,990,2016
+1094,SESSION: Health Support & Management,990,2016
+1095,SESSION: UX and Usability Methods,990,2016
+1096,"SESSION: Backstage of Crowdsourcing Legitimacy, Performance and Crowd Support",990,2016
+1097,SESSION: Expressive HCI,990,2016
+1098,SESSION: Search and Discovery,990,2016
+1099,SESSION: Interaction with Small Displays,990,2016
+1100,SESSION: How can Smartphones Fit Our Lives?,990,2016
+1101,SESSION: Video Sharing,990,2016
+1102,SESSION: Privacy and Security Interfaces,990,2016
+1103,SESSION: Detecting User Emotion,990,2016
+1104,SESSION: Diverse Disabilities and Technological Support,990,2016
+1105,SESSION: Robot Personalities,990,2016
+1106,SESSION: Problem-solving or not? The Boundaries of HCI Research,990,2016
+1107,SESSION: Visualization Methods and Evaluation,990,2016
+1108,SESSION: Transportation and HCI,990,2016
+1109,SESSION: Interaction Techniques for Mobile Interfaces,990,2016
+1110,SESSION: Eye Gaze,990,2016
+1111,SESSION: Mental Models of Privacy,990,2016
+1112,SESSION: Living in Smart Environments,990,2016
+1113,SESSION: Design for Health Care,990,2016
+1114,SESSION: Representing User Experience,990,2016
+1115,SESSION: Making Music on the Brain,990,2016
+1116,SESSION: Natural User Interfaces for InfoVis,990,2016
+1117,SESSION: Multi-Device Interaction,990,2016
+1118,SESSION: Social Media and Health,990,2016
+1119,SESSION: Engaging Players in Games,990,2016
+1120,SESSION: Food as Method and Inquiry,990,2016
+1121,SESSION: Medical Device Sensing,990,2016
+1122,SESSION: Supporting Information Seeking,990,2016
+1123,SESSION: Designing New Materials and Manufacturing Techniques,990,2016
+1124,SESSION: Eye Tracking Applications,990,2016
+1125,SESSION: Large Display Interaction,990,2016
+1126,SESSION: IoT and HCI ASAP!,990,2016
+1127,"SESSION: Smart Homes, Devices and Data",990,2016
+1128,"SESSION: Seams of Craft, Design and Fabrication",990,2016
+1129,SESSION: Body and Fashion,990,2016
+1130,CHI,,2017
+1131,SESSION: Innovative Sensing,1130,2017
+1132,SESSION: Interruptions and Email,1130,2017
+1133,SESSION: Learning to be Makers,1130,2017
+1134,SESSION: Mental Health,1130,2017
+1135,SESSION: Perceptions of Visualizations,1130,2017
+1136,SESSION: Targets and Paths,1130,2017
+1137,SESSION: Technology & Adoption,1130,2017
+1138,SESSION: Telepresence and Robots,1130,2017
+1139,SESSION: Authentication and Access Control,1130,2017
+1140,SESSION: Cars and Automation,1130,2017
+1141,SESSION: Design Theory,1130,2017
+1142,SESSION: Fabrication via 3D Printing,1130,2017
+1143,SESSION: Learning and Reading,1130,2017
+1144,SESSION: Robots at Work & Home,1130,2017
+1145,SESSION: Self-tracking Mental Health,1130,2017
+1146,SESSION: Smartwatch Interactions and Displays,1130,2017
+1147,SESSION: Social & Collaborative Technologies,1130,2017
+1148,SESSION: Sustainability and Public Service,1130,2017
+1149,SESSION: Understanding Data Visualization,1130,2017
+1150,SESSION: Clinical Settings,1130,2017
+1151,SESSION: Digital Privacy & Security,1130,2017
+1152,SESSION: Educational Assessment,1130,2017
+1153,SESSION: Fabricating New Materials,1130,2017
+1154,SESSION: Motivation in Games,1130,2017
+1155,SESSION: Self-Monitored Healthcare,1130,2017
+1156,SESSION: Toolkits and UIs,1130,2017
+1157,SESSION: Uniqueness of Geographic Information,1130,2017
+1158,SESSION: Visual Perception based Decisions,1130,2017
+1159,SESSION: All about Data,1130,2017
+1160,SESSION: Design and Cognitive Impairment,1130,2017
+1161,SESSION: Evaluating Visual Perceptions,1130,2017
+1162,SESSION: HCI/UX Education and Industry,1130,2017
+1163,SESSION: Novel Game Interfaces,1130,2017
+1164,SESSION: Novel Interfaces,1130,2017
+1165,"SESSION: Players, Spectators, Communities",1130,2017
+1166,SESSION: Smart Monitoring in Physical Spaces,1130,2017
+1167,SESSION: Social Computing and Health,1130,2017
+1168,SESSION: Supporting Local Space,1130,2017
+1169,SESSION: Temperature Interfaces,1130,2017
+1170,SESSION: Behavior in Online Communities,1130,2017
+1171,"SESSION: Connect, Move, Touch, Build",1130,2017
+1172,SESSION: Crowd-powered Systems,1130,2017
+1173,SESSION: Gesture as Input,1130,2017
+1174,SESSION: Human Performance Gaming,1130,2017
+1175,SESSION: Interdisciplinary Techniques,1130,2017
+1176,SESSION: It Could Be This Way,1130,2017
+1177,SESSION: Methods and Theories,1130,2017
+1178,SESSION: Perspectives on Cognitive Impairment,1130,2017
+1179,SESSION: Precautionary Behaviors,1130,2017
+1180,SESSION: Second Screen,1130,2017
+1181,SESSION: Civic Technology,1130,2017
+1182,SESSION: Crowdfunding and Crowdsourcing,1130,2017
+1183,SESSION: Designing for the Workplace,1130,2017
+1184,SESSION: Designing Haptic Interfaces,1130,2017
+1185,"SESSION: Exertion, Sport, Bodies",1130,2017
+1186,SESSION: Human Computer Integration,1130,2017
+1187,SESSION: Improving Gaze Mechanisms,1130,2017
+1188,SESSION: Innovative Fabrication Techniques,1130,2017
+1189,SESSION: Intelligent Visualization Systems,1130,2017
+1190,SESSION: Mindfulness and Reflection,1130,2017
+1191,SESSION: Supporting Low Resource Communities,1130,2017
+1192,SESSION: Technology Augmented Driving,1130,2017
+1193,"SESSION: Autism, disabilities and assistive technology",1130,2017
+1194,SESSION: Big Data Intelligent Visualization Systems,1130,2017
+1195,SESSION: Data as Design Material,1130,2017
+1196,SESSION: Designing Gaze-based Gestures and Features,1130,2017
+1197,SESSION: Enabling Healthy Behaviors,1130,2017
+1198,SESSION: Haptics on Skin,1130,2017
+1199,SESSION: HCI and Collective Action,1130,2017
+1200,SESSION: Online Content,1130,2017
+1201,"SESSION: Pens, Ink, Input",1130,2017
+1202,SESSION: Sensing and Input,1130,2017
+1203,SESSION: Social Justice,1130,2017
+1204,SESSION: Wild Methods,1130,2017
+1205,SESSION: Chatbot Interfaces,1130,2017
+1206,SESSION: Collaborative Crowdwork,1130,2017
+1207,SESSION: Contextual Smartwatch Use,1130,2017
+1208,SESSION: Data Culture,1130,2017
+1209,SESSION: Fabrication and DIY,1130,2017
+1210,SESSION: Haptic Feedback,1130,2017
+1211,SESSION: Passwords and Authentication,1130,2017
+1212,SESSION: Social Media Privacy,1130,2017
+1213,SESSION: Technology & Spatial Landmarks,1130,2017
+1214,SESSION: Wearable Technology,1130,2017
+1215,SESSION: Camera-based Tracking,1130,2017
+1216,SESSION: Ubiquitous Sensing,1130,2017
+1217,SESSION: Experiences with Virtual Reality,1130,2017
+1218,SESSION: Food & Nutrition,1130,2017
+1219,SESSION: Impaired Vision and Navigation,1130,2017
+1220,SESSION: Innovative Text Entry Systems,1130,2017
+1221,SESSION: Models of Use and Gestures,1130,2017
+1222,SESSION: Sound of Music,1130,2017
+1223,SESSION: Technology Enabled Commerce,1130,2017
+1224,SESSION: Unusual Displays,1130,2017
+1225,SESSION: User Perceptions in Sociotechnical Systems,1130,2017
+1226,SESSION: 360 Video,1130,2017
+1227,SESSION: Civic Engagement,1130,2017
+1228,SESSION: Cross Device Interaction,1130,2017
+1229,SESSION: Crowdwork,1130,2017
+1230,SESSION: Improving Touch Interfaces,1130,2017
+1231,SESSION: Innovative Input Techniques,1130,2017
+1232,SESSION: Markets in the Global South,1130,2017
+1233,SESSION: Performative Interactions,1130,2017
+1234,SESSION: Serious + Educational + Exer Games,1130,2017
+1235,SESSION: Technology in Households,1130,2017
+1236,SESSION: Textures and Haptics,1130,2017
+1237,SESSION: Design and Games,1130,2017
+1238,SESSION: Design Frameworks,1130,2017
+1239,SESSION: Difficulty and Challenge in Games,1130,2017
+1240,SESSION: Embodied Interaction,1130,2017
+1241,SESSION: Emerging Privacy,1130,2017
+1242,SESSION: Family Health,1130,2017
+1243,SESSION: Improving Video Communication,1130,2017
+1244,SESSION: Online and On-the-go,1130,2017
+1245,SESSION: Speculation & Storytelling,1130,2017
+1246,SESSION: Virtual Reality,1130,2017
+1247,SESSION: Visualization for the People,1130,2017
+1248,SESSION: Classroom Tools,1130,2017
+1249,SESSION: Finger and Pen,1130,2017
+1250,SESSION: Interactions in Virtual Reality,1130,2017
+1251,SESSION: Mobility and Navigation in Many Forms,1130,2017
+1252,SESSION: Participant Design with Children,1130,2017
+1253,SESSION: Patient-generated Data in the Clinic,1130,2017
+1254,SESSION: Personal Object Recognizers: Feasibility and Challenges,1130,2017
+1255,SESSION: Spatial Manipulation and Navigation,1130,2017
+1256,SESSION: Technology Use Around the Globe,1130,2017
+1257,SESSION: What Things Look Like,1130,2017
+1258,SESSION: Accessibility,1130,2017
+1259,SESSION: Cultural Heritage,1130,2017
+1260,SESSION: Explorative Engineering,1130,2017
+1261,SESSION: Health Volunteers,1130,2017
+1262,SESSION: Helping Software Developers,1130,2017
+1263,SESSION: Interactive Design Methodologies,1130,2017
+1264,SESSION: Motivation in Peer-production Communities,1130,2017
+1265,SESSION: Older Adults and Computers,1130,2017
+1266,SESSION: Spatial & Temporal Design,1130,2017
+1267,SESSION: The Infrastructure of Trust,1130,2017
+1268,"SESSION: Video ""Smart"" Viewers",1130,2017
+1269,SESSION: 3D Tangibles,1130,2017
+1270,SESSION: Appropriation and Individuation,1130,2017
+1271,SESSION: Data Extraction,1130,2017
+1272,SESSION: Displays and Collaboration,1130,2017
+1273,SESSION: Drones,1130,2017
+1274,SESSION: Online Experiments,1130,2017
+1275,SESSION: Personal Informatics & Self-Tracking,1130,2017
+1276,SESSION: Presentation in Online Communities,1130,2017
+1277,"SESSION: Sharing, People and Communities",1130,2017
+1278,SESSION: Technology in the Workplace,1130,2017
+1279,SESSION: Technology Use Challenges for Older Adults,1130,2017
+1280,CHI,,2019
+1281,CHI,,2020
+1282,CHI,,2021
+1283,SESSION: Vision and Sensing,1282,2021
+1284,SESSION: Designing Effective Visualizations,1282,2021
+1285,SESSION: Access for People with Visual Impairment,1282,2021
+1286,SESSION: Tech for Specific Situations,1282,2021
+1287,SESSION: Education,1282,2021
+1288,SESSION: Privacy Design,1282,2021
+1289,SESSION: Computational AI Development and Explanation,1282,2021
+1290,SESSION: Technology Resistance/HCI and Distinct Populations/Queering Technologies,1282,2021
+1291,SESSION: Engineering Interactive Applications,1282,2021
+1292,SESSION: Game Design and Player Experience,1282,2021
+1293,SESSION: AR and VR,1282,2021
+1294,"SESSION: Cross-cultural Design / Reflection, Design, & Participation",1282,2021
+1295,"SESSION: Human-AI, Automation, Vehicles & Drones / Trust & Explainability",1282,2021
+1296,SESSION: Care(ful) Design / Other Worthy Topics,1282,2021
+1297,"SESSION: Trust, Transparency & Sharing Online",1282,2021
+1298,SESSION: Interaction Techniques / Sketch and Illustration / Privacy,1282,2021
+1299,SESSION: Personal Health Data,1282,2021
+1300,SESSION: Haptics,1282,2021
+1301,SESSION: Health & Behavior Change,1282,2021
+1302,"SESSION: Human, ML & AI",1282,2021
+1303,"SESSION: Meetings, Chats, and Speech",1282,2021
+1304,SESSION: Design and Bodily Action,1282,2021
+1305,SESSION: Accessible Content Creation,1282,2021
+1306,SESSION: Computational Physical Interaction,1282,2021
+1307,SESSION: Transformation and Sustainability / Activism and Critique,1282,2021
+1308,SESSION: Engineering Development Support,1282,2021
+1309,"SESSION: eSports, Streaming, Social Play",1282,2021
+1310,SESSION: Affection and Support in a Digital World,1282,2021
+1311,SESSION: Remote / Kids,1282,2021
+1312,"SESSION: UX and Interaction Design and Research: Techniques, Insights & Prototyping / Reflection, Behavior, Change & Learning",1282,2021
+1313,SESSION: Understanding Accessibility,1282,2021
+1314,SESSION: Computational Human-AI Conversation,1282,2021
+1315,"SESSION: HCI Confronting Issues of Race, Genders, Feminisms, Reproductive Health",1282,2021
+1316,SESSION: Engineering Real-World Interaction,1282,2021
+1317,SESSION: Design Tools / Machine Learning / Fabrication / Visual Artifacts in Design and Ideation,1282,2021
+1318,"SESSION: Virtual Reality, Embodied Experiences, Toxicity",1282,2021
+1319,SESSION: Combining Digital and Analogue Presence in Online Work,1282,2021
+1320,SESSION: Novel Visualization Techniques,1282,2021
+1321,SESSION: Tech for Learning and Families,1282,2021
+1322,SESSION: Accessible Interaction,1282,2021
+1323,"SESSION: Wearables, Tangibles, and Fabrics",1282,2021
+1324,"SESSION: Video, XR, Perception, & Visualization",1282,2021
+1325,SESSION: XR/VR/360°,1282,2021
+1326,SESSION: Mental Health,1282,2021
+1327,SESSION: Privacy Behaviors,1282,2021
+1328,SESSION: Various People,1282,2021
+1329,SESSION: Computational Design,1282,2021
+1330,SESSION: Justice / Critical Reflections on the Field / The Art of Making,1282,2021
+1331,SESSION: Understanding Visualizations,1282,2021
+1332,SESSION: Design Methods / Speculative Futures / Performance / Gustation,1282,2021
+1333,SESSION: Design for Public Spaces / VR Memorials / Textiles and Jewelry / Voice and Conversation / New Value Transactions,1282,2021
+1334,"SESSION: Mobile Studies, Mediation, & Sharing / COVID-19 Pandemic Response",1282,2021
+1335,SESSION: Clinical Support,1282,2021
+1336,SESSION: Fabrication,1282,2021
+1337,SESSION: Systems for Learning,1282,2021
+1338,SESSION: Developers / Authentication / Privacy Risks from Children to Adults,1282,2021
+1339,"SESSION: Justice, Wellbeing, and Health",1282,2021
+1340,"SESSION: Smart Home, Bot, Robot, & Drone / Input & Measurement",1282,2021
+1341,SESSION: Augmented Reality / Interacting with Text & Notes,1282,2021
+1342,SESSION: Input / Spatial Interaction / Practice Support,1282,2021
+1343,CHI,,2022
+1344,SESSION: Papers: Supporting Motor Impairments through Technology,1343,2022
+1345,SESSION: Papers: AI: Design and Studies,1343,2022
+1346,"SESSION: Papers: Intelligent Systems, Human-AI Collaboration",1343,2022
+1347,SESSION: Papers: Strategies for Design,1343,2022
+1348,SESSION: Papers: Health and Social Media,1343,2022
+1349,SESSION: Papers: Immersion and Interaction in Visualization,1343,2022
+1350,SESSION: Papers: Emotions & Communication in Visualizations,1343,2022
+1351,"SESSION: Papers: Social media, Privacy, and Mitigations",1343,2022
+1352,SESSION: Papers: Predictive Modelling and Simulating Users,1343,2022
+1353,SESSION: Papers: Technology for Health and Sustainability,1343,2022
+1354,SESSION: Papers: Material Speculations,1343,2022
+1355,SESSION: Papers: Intelligent Systems and Applications,1343,2022
+1356,"SESSION: Papers: Voice, Conversation and Design",1343,2022
+1357,SESSION: Papers: Interaction Schemes and Patterns I,1343,2022
+1358,SESSION: Papers: Tools for Programmers/Developers,1343,2022
+1359,SESSION: Papers: Users' Preferences and Needs,1343,2022
+1360,SESSION: Papers: COVID Technologies,1343,2022
+1361,"SESSION: Papers: Vis Right Here, Right Now",1343,2022
+1362,SESSION: Papers: Games affect Players and Players affect Games,1343,2022
+1363,SESSION: Papers: Video for Learning,1343,2022
+1364,SESSION: Papers: Interacting with Data,1343,2022
+1365,SESSION: Papers: Making and Unmaking,1343,2022
+1366,"SESSION: Papers: Privacy, Policy and Politics",1343,2022
+1367,SESSION: Papers: Let's get Physical,1343,2022
+1368,SESSION: Papers: Agents in the Loop,1343,2022
+1369,SESSION: Papers: Helping People,1343,2022
+1370,SESSION: Papers: Socio-technical aspects of cybercrime,1343,2022
+1371,SESSION: Papers: Crowdwork & Collaboration,1343,2022
+1372,SESSION: Papers: Design and Mixed Reality,1343,2022
+1373,SESSION: Papers: Visual Perception & Exploration,1343,2022
+1374,SESSION: Papers: Connection,1343,2022
+1375,SESSION: Papers: Deviance Online,1343,2022
+1376,SESSION: Papers: Children and Learning,1343,2022
+1377,SESSION: Papers: How Technology Matters in Games,1343,2022
+1378,SESSION: Papers: Bias and Ethics,1343,2022
+1379,SESSION: Papers: Voice and Audio in Learning,1343,2022
+1380,SESSION: Papers: Haptic Sensing,1343,2022
+1381,SESSION: Papers: Fabricating Devices and Tools,1343,2022
+1382,SESSION: Papers: Design for Self,1343,2022
+1383,"SESSION: Papers: Mistakes, Explainability",1343,2022
+1384,SESSION: Papers: Improving VR Experiences,1343,2022
+1385,SESSION: Papers: Getting Realistic in Games,1343,2022
+1386,SESSION: Papers: Technologies to Support Accessibility,1343,2022
+1387,SESSION: Papers: Emotions,1343,2022
+1388,SESSION: Papers: Understanding Online Experiences,1343,2022
+1389,SESSION: Papers: AI: Content Generation,1343,2022
+1390,SESSION: Papers: Improving Input and Output,1343,2022
+1391,SESSION: Papers: Children and Parents,1343,2022
+1392,SESSION: Papers: Dance and Sound,1343,2022
+1393,SESSION: Papers: Interactive Learning Support Systems,1343,2022
+1394,SESSION: Papers: Programming and Coding Support,1343,2022
+1395,SESSION: Papers: At-Home with Technology & Data,1343,2022
+1396,SESSION: Papers: Justice & Equity II,1343,2022
+1397,SESSION: Papers: Information and Misinformation,1343,2022
+1398,"SESSION: Papers: Learning Online, Remotely, and Synchronously",1343,2022
+1399,SESSION: Papers: Living with Emerging Technologies,1343,2022
+1400,SESSION: Papers: Improving Information Access,1343,2022
+1401,SESSION: Papers: Shape Displays,1343,2022
+1402,SESSION: Papers: Accessibility and Aging - Methods & Studies,1343,2022
+1403,SESSION: Papers: Fabrication: 3D Printing,1343,2022
+1404,SESSION: Papers: Mouth-based Interaction,1343,2022
+1405,SESSION: Papers: Health Informatics and Visualization,1343,2022
+1406,SESSION: Papers: Everyday Life and Technologies,1343,2022
+1407,SESSION: Papers: Sensing,1343,2022
+1408,SESSION: Papers: UX of XR,1343,2022
+1409,SESSION: Papers: Technology for Developing Regions and Underserved Populations,1343,2022
+1410,SESSION: Papers: Communities,1343,2022
+1411,SESSION: Papers: Audio for Accessibility,1343,2022
+1412,SESSION: Papers: Creativity Support Tools,1343,2022
+1413,SESSION: Papers: Technology for Classrooms,1343,2022
+1414,SESSION: Papers: Interaction Schemes and Patterns II,1343,2022
+1415,SESSION: Papers: Think Critically,1343,2022
+1416,SESSION: Papers: Mental Health and Wellbeing of Young People,1343,2022
+1417,SESSION: Papers: Sustainability,1343,2022
+1418,SESSION: Papers: Text & Pen,1343,2022
+1419,"SESSION: Papers: Health, Medicine, and Therapy",1343,2022
+1420,SESSION: Papers: Input Techniques,1343,2022
+1421,SESSION: Papers: Helping Doctors and Caregivers,1343,2022
+1422,SESSION: Papers: Interacting with VR,1343,2022
+1423,SESSION: Papers: Models and Theories,1343,2022
+1424,SESSION: Papers: Out and About,1343,2022
+1425,SESSION: Papers: Improving the Built and Natural Environments,1343,2022
+1426,SESSION: Papers: User Modeling,1343,2022
+1427,SESSION: Papers: Creativity Support,1343,2022
+1428,SESSION: Papers: Natural Language,1343,2022
+1429,SESSION: Papers: Wearables Devices,1343,2022
+1430,SESSION: Papers: Gender and Communities,1343,2022
+1431,SESSION: Papers: Touch and tangibility,1343,2022
+1432,"SESSION: Papers: Phone, Homes, and Privacy",1343,2022
+1433,SESSION: Papers: Computation & Recommendation with Visualization,1343,2022
+1434,SESSION: Papers: Mobility,1343,2022
+1435,SESSION: Papers: Agents,1343,2022
+1436,SESSION: Papers: Virtual Agents and Environments,1343,2022
+1437,SESSION: Papers: Hands & Fingers,1343,2022
+1438,SESSION: Papers: Multimodality,1343,2022
+1439,SESSION: Papers: VR and Agents for Health,1343,2022
+1440,SESSION: Papers: Caring for Mental Health and Well-being,1343,2022
+1441,SESSION: Papers: The Privacy of Everyday Smart Things,1343,2022
+1442,SESSION: Papers: Speculative Design & Design Fictions,1343,2022
+1443,SESSION: Papers: Design for Wellbeing and Resilience,1343,2022
+1444,"SESSION: Papers: Captioning Images, Videos and Applications",1343,2022
+1445,SESSION: Papers: UX Methodology,1343,2022
+1446,SESSION: Papers: Emotions & Morality in Games,1343,2022
+1447,"SESSION: Papers: Nudging, Recommending, Notifying",1343,2022
+1448,SESSION: Papers: Accessibility and Data Visualization,1343,2022
+1449,SESSION: Papers: Design Practice,1343,2022
+1450,"SESSION: Papers: Trust, Recommendation, and Explanable AI (XAI)",1343,2022
+1451,SESSION: Papers: Authoring Data,1343,2022
+1452,SESSION: Papers: Intelligent Interaction Techniques,1343,2022
+1453,SESSION: Papers: Video Authoring,1343,2022
+1454,SESSION: Papers: Tangibles and Ambient Computing,1343,2022
+1455,SESSION: Papers: Supporting Virtual Work,1343,2022
+1456,SESSION: Papers: Supporting Dementia,1343,2022
+1457,SESSION: Papers: Games: Advancing the State of the Art,1343,2022
+1458,SESSION: Papers: Care in the Long Term,1343,2022
+1459,SESSION: Papers: Instant Messaging & Texting,1343,2022
+1460,SESSION: Papers: Broadening Design,1343,2022
+1461,SESSION: Papers: Interacting with Smart Technology,1343,2022
+1462,SESSION: Papers: Design Foundations,1343,2022
+1463,SESSION: Papers: Justice & Equity I,1343,2022
+1464,SESSION: Papers: Augmented or Diminished Reality?,1343,2022
+1465,SESSION: Papers: UI Design & Development,1343,2022
+1466,SESSION: Papers: Games in the World,1343,2022
+1467,"SESSION: Papers: VR, AR, and 3D for Learning",1343,2022
+1468,SESSION: Papers: Trust and Control in AI Systems,1343,2022
+1469,SESSION: Papers: Social Justice and Urban Research,1343,2022
+1470,SESSION: Papers: Working with Intelligent Systems and Tools,1343,2022
+1471,SESSION: Papers: Collecting and Structuring Data,1343,2022
+1472,"SESSION: Papers: Hacking, Developering, and Privacy Ops",1343,2022
+1473,"SESSION: Papers: More Accessible, More Inclusive",1343,2022
+1474,SESSION: Papers: Visualization Authoring & Creation,1343,2022
+1475,SESSION: Papers: Accessibility and Aging - Design & Experiences,1343,2022
+1476,SESSION: Papers: Accessibility - Video Conferencing & Online Communities,1343,2022
+1477,SESSION: Papers: UX of VR,1343,2022
+1478,SESSION: Papers: Cyborg Interactions,1343,2022
+1479,SESSION: Papers: Privacy Decisions,1343,2022
+1480,SESSION: Papers: Reasoning and Sensemaking,1343,2022
+1481,"SESSION: Papers: Connecting through Telephone, Robot or XR",1343,2022
+1482,SESSION: Papers: Immersion,1343,2022
+1483,CHI,,2023
+1484,SESSION: (Un)Ethical Design,1483,2023
+1485,"SESSION: AI Trust, Transparency and Fairness",1483,2023
+1486,SESSION: AI for Health,1483,2023
+1487,SESSION: AI for Visual Generation,1483,2023
+1488,"SESSION: AI, Cognition & Bias",1483,2023
+1489,SESSION: AR & VR,1483,2023
+1490,SESSION: Accessibility and Care,1483,2023
+1491,SESSION: Accessible Interaction Techniques A,1483,2023
+1492,SESSION: Accessible Interaction Techniques B,1483,2023
+1493,SESSION: Arts/Creativity and Accessibility,1483,2023
+1494,SESSION: Augmentation of human skills,1483,2023
+1495,SESSION: Authentication and Smart Environments,1483,2023
+1496,SESSION: Automation and Gesture based interaction,1483,2023
+1497,SESSION: Body Haptics,1483,2023
+1498,SESSION: Building Bridges,1483,2023
+1499,SESSION: Children & Family,1483,2023
+1500,SESSION: Collaboration in Mixed Realities,1483,2023
+1501,SESSION: Communication and Social Good,1483,2023
+1502,"SESSION: Conversation, Communication & Collaborative AI",1483,2023
+1503,SESSION: Conversational Agents,1483,2023
+1504,SESSION: Creative Applications,1483,2023
+1505,SESSION: Creativity Support,1483,2023
+1506,SESSION: Critical Fairness,1483,2023
+1507,SESSION: Critical Perspectives and Critical Design,1483,2023
+1508,SESSION: Data Analyses and Representation,1483,2023
+1509,SESSION: Data Politics and Poetics,1483,2023
+1510,SESSION: Data for Productivity,1483,2023
+1511,"SESSION: Data practices, permissions, and consent",1483,2023
+1512,SESSION: Data-Driven Storytelling,1483,2023
+1513,SESSION: Design with New Technologies (including AI),1483,2023
+1514,SESSION: Designing and Understanding Embodied Experiences,1483,2023
+1515,SESSION: Digital Safety,1483,2023
+1516,SESSION: Digital Wellbeing,1483,2023
+1517,SESSION: Discovery Track Monday,1483,2023
+1518,SESSION: Discovery Track Thursday,1483,2023
+1519,SESSION: Discovery Track Tuesday,1483,2023
+1520,SESSION: Discovery Track Wednesday,1483,2023
+1521,SESSION: Education and Learning,1483,2023
+1522,SESSION: Education and Support,1483,2023
+1523,SESSION: Embodied and Haptic Systems,1483,2023
+1524,SESSION: Environment HCI,1483,2023
+1525,SESSION: Evolving Forms of Creativity,1483,2023
+1526,"SESSION: Explainable, Responsible, Manageable AI",1483,2023
+1527,SESSION: Eye Gaze and New Body,1483,2023
+1528,"SESSION: Eyes, Wrists, Touch, and Feet",1483,2023
+1529,"SESSION: Fabrication, Input, Sensing",1483,2023
+1530,SESSION: Fostering Meaningful Virtual Connections,1483,2023
+1531,SESSION: From Margin to Centre,1483,2023
+1532,"SESSION: GUIs, Gaze, and Gesture-based Interaction",1483,2023
+1533,SESSION: Games beyond Gaming,1483,2023
+1534,"SESSION: Gender, Trauma, and Wellbeing",1483,2023
+1535,SESSION: HCI for Society and Humanity,1483,2023
+1536,SESSION: Hand Interactions,1483,2023
+1537,SESSION: Haptic and sensing devices,1483,2023
+1538,SESSION: Health Behaviour Change,1483,2023
+1539,SESSION: Health Data and Tracking,1483,2023
+1540,SESSION: Health and Participatory Design,1483,2023
+1541,SESSION: Health and social media,1483,2023
+1542,SESSION: Health over a Distance,1483,2023
+1543,SESSION: Human AI Collaboration A,1483,2023
+1544,SESSION: Human AI Collaboration B,1483,2023
+1545,SESSION: Human-AI collaboration,1483,2023
+1546,SESSION: Human-Robot Interaction,1483,2023
+1547,SESSION: Humans and Machines,1483,2023
+1548,SESSION: Immersive & Ubiquitous Analytics,1483,2023
+1549,SESSION: Immersive Interaction,1483,2023
+1550,SESSION: Inclusive Futures,1483,2023
+1551,SESSION: Interaction and Perception in XR,1483,2023
+1552,SESSION: Interaction modalities,1483,2023
+1553,SESSION: Interaction with AI & Robots,1483,2023
+1554,SESSION: Interactive Learning Support Systems,1483,2023
+1555,SESSION: Interactive Surfaces,1483,2023
+1556,SESSION: Internet of Things for Social Purposes,1483,2023
+1557,SESSION: Large Language Models,1483,2023
+1558,SESSION: Learning and Education,1483,2023
+1559,SESSION: Learning in VR/AR/XR/Immersive Environments,1483,2023
+1560,SESSION: Learning with and about AI,1483,2023
+1561,SESSION: Making Realities,1483,2023
+1562,SESSION: Making Sense & Decisions with Visualization,1483,2023
+1563,SESSION: Managing Health and Care-Giving,1483,2023
+1564,SESSION: Material Interaction,1483,2023
+1565,SESSION: Mental Health,1483,2023
+1566,SESSION: Mental Health and Care Work,1483,2023
+1567,SESSION: Mental Health and Emotion,1483,2023
+1568,SESSION: Metaverse,1483,2023
+1569,SESSION: Metrics and Methods,1483,2023
+1570,SESSION: Mixed reality (AR/VR) and Social VR,1483,2023
+1571,SESSION: Modalities,1483,2023
+1572,SESSION: More Than Human Interactions,1483,2023
+1573,SESSION: More ways to use phones,1483,2023
+1574,SESSION: Nature and Environment,1483,2023
+1575,SESSION: Navigating Spaces and Places,1483,2023
+1576,"SESSION: News, Misinformation, and Social Media",1483,2023
+1577,SESSION: Online Communities,1483,2023
+1578,SESSION: Peer support and caregiving,1483,2023
+1579,SESSION: Platforms and Algorithms,1483,2023
+1580,SESSION: Player Experience,1483,2023
+1581,SESSION: Pointing and Icons,1483,2023
+1582,SESSION: Privacy Perceptions and Misconceptions,1483,2023
+1583,SESSION: Privacy and the Web,1483,2023
+1584,SESSION: Programming,1483,2023
+1585,SESSION: Reflexions,1483,2023
+1586,SESSION: Remote Communication and Collaboration,1483,2023
+1587,SESSION: Remote Work and Collaboration,1483,2023
+1588,SESSION: Security Awareness and Phishing,1483,2023
+1589,SESSION: Sensor Integration,1483,2023
+1590,SESSION: Smart Living + Smart Things,1483,2023
+1591,SESSION: Smart homes and Makers,1483,2023
+1592,SESSION: Smarter assistants and living,1483,2023
+1593,SESSION: Smartphones and Notifications,1483,2023
+1594,SESSION: Social Justice Methodologies,1483,2023
+1595,SESSION: Social Media and Information,1483,2023
+1596,SESSION: Social Media and Moderation,1483,2023
+1597,SESSION: Social Network and Support,1483,2023
+1598,SESSION: Social and Eduation in Games,1483,2023
+1599,SESSION: Soma Design,1483,2023
+1600,SESSION: Spatial and 3D,1483,2023
+1601,SESSION: Speech and Remapping Techniques,1483,2023
+1602,SESSION: Supporting Learning in Classrooms and Online Courses,1483,2023
+1603,SESSION: Supporting users in AR and VR,1483,2023
+1604,SESSION: Technology-Powered Learning,1483,2023
+1605,SESSION: Text Input and Textual Communication,1483,2023
+1606,SESSION: Theory and Model Development,1483,2023
+1607,SESSION: Tools for Creativity,1483,2023
+1608,SESSION: Tools for data scientists and Literature Reviews,1483,2023
+1609,SESSION: Touch & forces?,1483,2023
+1610,SESSION: Transportation and AI/ML,1483,2023
+1611,SESSION: Trust and Explainable AI,1483,2023
+1612,SESSION: UX methods and practices,1483,2023
+1613,SESSION: Understanding Outdoor Activities,1483,2023
+1614,SESSION: User Behavior Simulation and Modeling,1483,2023
+1615,SESSION: VR / AR/ Videoconferencing for Accessibility,1483,2023
+1616,SESSION: VR/AR/XR Play Experiences,1483,2023
+1617,SESSION: Video Sharing,1483,2023
+1618,SESSION: Videos,1483,2023
+1619,SESSION: Vis and People,1483,2023
+1620,SESSION: Visualization Grammars and Design,1483,2023
+1621,SESSION: Visualization Literacy & Trust,1483,2023
+1622,SESSION: Visualization Perception,1483,2023
+1623,SESSION: Visualization and Data,1483,2023
+1624,SESSION: Visualization for AI/ML,1483,2023
+1625,SESSION: Visualization in Practice,1483,2023
+1626,SESSION: Voice Interaction / Smart Assistants,1483,2023
+1627,SESSION: Wearables and Materials,1483,2023
+1628,SESSION: Work and Tools,1483,2023
+1629,SESSION: Working with Data,1483,2023
+1630,SESSION: Workplace and Vulnerable Population,1483,2023
+1631,SESSION: XR Beyond the Living Room,1483,2023
+1632,CHI,,1997
+1633,CHI,,1998
+1634,CHI,,1998
+1635,CHI,,1999
+1636,ETRA,,2019
+1637,ETRA,,2020
+1638,SESSION: Demos,1636,2020
+1639,SESSION: Videos,1636,2020
+1640,SESSION: ETRA Doctoral Symposium,1636,2020
+1641,SESSION: COGAIN: Gaze Communication,1636,2020
+1642,SESSION: COGAIN: Gaze Interaction,1636,2020
+1643,SESSION: ET4S: Maps and Wayfinding,1636,2020
+1644,SESSION: ET4S: Spatial Processing,1636,2020
+1645,SESSION: ET4S: Operators,1636,2020
+1646,SESSION: ETWEB - Eye Tracking for the Web,1636,2020
+1647,SESSION: ET-MM: SESSION 2,1636,2020
+1648,SESSION: ET-MM: SESSION 3,1636,2020
+1649,SESSION: EyeSec 2020: Eye-Gaze for Security Applications,1636,2020
+1650,SESSION: PrEThics - Privacy and Ethics in Eye Tracking,1636,2020
+1651,ETRA,,2020
+1652,SESSION: SESSION 1: Methods,1650,2020
+1653,SESSION: SESSION 2: User Interfaces and Interaction,1650,2020
+1654,SESSION: SESSION 3: Virtual Reality,1650,2020
+1655,SESSION: SESSION 4: Visualization,1650,2020
+1656,SESSION: SESSION 5: Applications,1650,2020
+1657,SESSION: SESSION 6: Cognition,1650,2020
+1658,ETRA,,2020
+1659,SESSION: SESSION 2: Privacy and Security,1656,2020
+1660,SESSION: SESSION 3: Saliency,1656,2020
+1661,SESSION: SESSION 4: User Interfaces and Interaction,1656,2020
+1662,SESSION: SESSION 5: Virtual Reality,1656,2020
+1663,SESSION: SESSION 6: Applications,1656,2020
+1664,SESSION: SESSION 7: Cognition,1656,2020
+1665,SESSION: SESSION 1: Analysis Techniques,1656,2020
+1666,SESSION: SESSION 2: Evaluation,1656,2020
+1667,SESSION: SESSION 1,1656,2020
+1668,SESSION: SESSION 1: Considerations for Application of Eye-Tracking in Games,1656,2020
+1669,SESSION: SESSION 2: Gaze-Based Studies,1656,2020
+1670,ETRA,,2021
+1671,SESSION: ETRA Demo & Video Track,1667,2021
+1672,SESSION: ETRA Doctoral Symposium,1667,2021
+1673,SESSION: ActivEye: Challenges in large scale eye-tracking for active participants,1667,2021
+1674,SESSION: COGAIN Symposium,1667,2021
+1675,ETRA,,2021
+1676,SESSION: Methods,1672,2021
+1677,SESSION: Visualization and Annotation,1672,2021
+1678,SESSION: Applications,1672,2021
+1679,SESSION: Gaze Input,1672,2021
+1680,ETRA,,2021
+1681,SESSION: User Interfaces and Interaction,1676,2021
+1682,SESSION: Eye Movements and Attention,1676,2021
+1683,SESSION: EYESEC: Workshop on Eye-Gaze for Security Applications,1676,2021
+1684,SESSION: COGAIN Symposium 2021,1676,2021
+1685,SESSION: EMIP: Eye Movements in Programming,1676,2021
+1686,SESSION: PLEY: 2nd Eye Tracking in Games and Play Workshop,1676,2021
+1687,ETRA,,2022
+1688,ETRA,,2023
+1689,SESSION: ETRA 2023 Short Papers,1683,2023
+1690,SESSION: ETRA 2023 Doctoral Symposium,1683,2023
+1691,SESSION: ETRA 2023 Late-Breaking Work (Poster Abstracts),1683,2023
+1692,SESSION: PETMEI 2023 Session I,1683,2023
+1693,SESSION: PETMEI 2023 Session II,1683,2023
+1694,SESSION: ETVIS Session I: Visual Attention and Strategies,1683,2023
+1695,SESSION: ETVIS Session II: Tools and Applications,1683,2023
+1696,SESSION: Eyes4ICU,1683,2023
+1697,SESSION: EduEye,1683,2023
+1698,SESSION: EMIP,1683,2023
+1699,SESSION: COGAIN 2023,1683,2023
+1700,ETRA,,2023
+1701,IEEE Pacific,,2008
+1702,IEEE Pacific,,2009
+1703,IEEE Pacific,,2010
+1704,IEEE Pacific,,2011
+1705,IEEE Pacific,,2012
+1706,IEEE Pacific,,2013
+1707,IEEE Pacific,,2014
+1708,IEEE Pacific,,2015
+1709,IEEE Pacific,,2016
+1710,IEEE Pacific,,2017
+1711,IEEE Pacific,,2018
+1712,IEEE Pacific,,2019
+1713,IEEE Pacific,,2020
+1714,IEEE Pacific,,2021
+1715,IEEE Pacific,,2022
+1716,IEEE Pacific,,2023
+1717,IEEE TVCG,,2003
+1718,IEEE TVCG,,2004
+1719,IEEE TVCG,,2005
+1720,IEEE TVCG,,2006
+1721,IEEE TVCG,,2007
+1722,IEEE TVCG,,2008
+1723,IEEE TVCG,,2009
+1724,IEEE TVCG,,2010
+1725,IEEE TVCG,,2011
+1726,IEEE TVCG,,2012
+1727,IEEE TVCG,,2013
+1728,IEEE TVCG,,2014
+1729,IEEE TVCG,,2015
+1730,IEEE TVCG,,2016
+1731,IEEE TVCG,,2017
+1732,IEEE TVCG,,2018
+1733,IEEE TVCG,,2019
+1734,IEEE TVCG,,2020
+1735,IEEE TVCG,,2021
+1736,IEEE TVCG,,2022
+1737,IEEE TVCG,,2023
