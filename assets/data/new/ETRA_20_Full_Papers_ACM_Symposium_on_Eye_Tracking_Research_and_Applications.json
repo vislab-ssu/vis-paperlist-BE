@@ -1,356 +1,329 @@
 [
-    {
-        "title": "Visual Search Target Inference in Natural Interaction Settings with Machine Learning",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 1: Methods\nRESEARCH-ARTICLE\nVisual Search Target Inference in Natural Interaction Settings with Machine Learning\nMichael Barz,Sven Stauden,Daniel Sonntag\nArticle No.: 1, pp 1–8https://doi.org/10.1145/3379155.3391314\nVisual search is a perceptual task in which humans aim at identifying a search target object such as a traffic sign among other objects. Search target inference subsumes computational methods for predicting this target by tracking and analyzing overt ...\n10369\nRESEARCH-ARTICLE\nCombining Gaze Estimation and Optical Flow for Pursuits Interaction\nMihai Bace,Vincent Becker,Chenyang Wang,Andreas Bulling\nArticle No.: 2, pp 1–10https://doi.org/10.1145/3379155.3391315\nPursuit eye movements have become widely popular because they enable spontaneous eye-based interaction. However, existing methods to detect smooth pursuits require special-purpose eye trackers. We propose the first method to detect pursuits using a ...\n6500\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnalyzing Gaze Behavior Using Object Detection and Unsupervised Clustering\nPranav Venuprasad,Li Xu,Enoch Huang,Andrew Gilman,Leanne Chukoskie Ph.D.,Pamela Cosman\nArticle No.: 3, pp 1–9https://doi.org/10.1145/3379155.3391316\nGaze behavior is important in early development, and atypical gaze behavior is among the first symptoms of autism. Here we describe a system that quantitatively assesses gaze behavior using eye-tracking glasses. Objects in the subject’s field of view ...\n6804\nRESEARCH-ARTICLE\nA MinHash approach for fast scanpath classification\nDavid Geisler,Nora Castner,Gjergji Kasneci,Enkelejda Kasneci\nArticle No.: 4, pp 1–9https://doi.org/10.1145/3379155.3391325\nThe visual scanpath describes the shift of visual attention over time. Characteristic patterns in the attention shifts allow inferences about cognitive processes, performed tasks, intention, or expertise. To analyse such patterns, the scanpath is often ...\n3330\nRESEARCH-ARTICLE\nLabel Likelihood Maximisation: Adapting iris segmentation models using domain adaptation\nAnton Mølbjerg Eskildsen,Dan Witzner Hansen\nArticle No.: 5, pp 1–9https://doi.org/10.1145/3379155.3391327\nWe propose to use unlabelled eye image data for domain adaptation of an iris segmentation network. Adaptation allows the model to be less reliant on its initial generality. This is beneficial due to the large variance exhibited by eye image data which ...\n0149\nRESEARCH-ARTICLE\nOPEN ACCESS\nValidation of a prototype hybrid eye-tracker against the DPI and the Tobii Spectrum\nKenneth Holmqvist,Saga Lee Orbom,Michael Miller,Albert Kashchenevsky,Mark M. Shovman,Mark W. Greenlee\nArticle No.: 6, pp 1–9https://doi.org/10.1145/3379155.3391330\nWe benchmark a new hybrid eye-tracker system against the DPI (Dual Purkinje Imaging) tracker and the Tobii Spectrum in a series of three experiments. In a first within-subjects battery of tests, we show that the precision of the new eye-tracker is much ...\n41,410\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnticipating Averted Gaze in Dyadic Interactions\nPhilipp Müller,Ekta Sood,Andreas Bulling\nArticle No.: 7, pp 1–10https://doi.org/10.1145/3379155.3391332\nWe present the first method to anticipate averted gaze in natural dyadic interactions. The task of anticipating averted gaze, i.e. that a person will not make eye contact in the near future, remains unsolved despite its importance for human social ...\n8594",
-        "data": "June 2020",
-        "authors": [
-            "Michael Barz",
-            "Sven Stauden",
-            "Daniel Sonntag"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391314",
-        "citation": "10",
-        "abstract": "Visual search is a perceptual task in which humans aim at identifying a search target object such as a traffic sign among other objects. Search target inference subsumes computational methods for predicting this target by tracking and analyzing overt behavioral cues of that person, e.g., the human gaze and fixated visual stimuli. We present a generic approach to inferring search targets in natural scenes by predicting the class of the surrounding image segment. Our method encodes visual search sequences as histograms of fixated segment classes determined by SegNet, a deep learning image segmentation model for natural scenes. We compare our sequence encoding and model training (SVM) to a recent baseline from the literature for predicting the target segment. Also, we use a new search target inference dataset. The results show that, first, our new segmentation-based sequence encoding outperforms the method from the literature, and second, that it enables target inference in natural settings."
-    },
-    {
-        "title": "Combining Gaze Estimation and Optical Flow for Pursuits Interaction",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 1: Methods\nRESEARCH-ARTICLE\nVisual Search Target Inference in Natural Interaction Settings with Machine Learning\nMichael Barz,Sven Stauden,Daniel Sonntag\nArticle No.: 1, pp 1–8https://doi.org/10.1145/3379155.3391314\nVisual search is a perceptual task in which humans aim at identifying a search target object such as a traffic sign among other objects. Search target inference subsumes computational methods for predicting this target by tracking and analyzing overt ...\n10369\nRESEARCH-ARTICLE\nCombining Gaze Estimation and Optical Flow for Pursuits Interaction\nMihai Bace,Vincent Becker,Chenyang Wang,Andreas Bulling\nArticle No.: 2, pp 1–10https://doi.org/10.1145/3379155.3391315\nPursuit eye movements have become widely popular because they enable spontaneous eye-based interaction. However, existing methods to detect smooth pursuits require special-purpose eye trackers. We propose the first method to detect pursuits using a ...\n6500\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnalyzing Gaze Behavior Using Object Detection and Unsupervised Clustering\nPranav Venuprasad,Li Xu,Enoch Huang,Andrew Gilman,Leanne Chukoskie Ph.D.,Pamela Cosman\nArticle No.: 3, pp 1–9https://doi.org/10.1145/3379155.3391316\nGaze behavior is important in early development, and atypical gaze behavior is among the first symptoms of autism. Here we describe a system that quantitatively assesses gaze behavior using eye-tracking glasses. Objects in the subject’s field of view ...\n6804\nRESEARCH-ARTICLE\nA MinHash approach for fast scanpath classification\nDavid Geisler,Nora Castner,Gjergji Kasneci,Enkelejda Kasneci\nArticle No.: 4, pp 1–9https://doi.org/10.1145/3379155.3391325\nThe visual scanpath describes the shift of visual attention over time. Characteristic patterns in the attention shifts allow inferences about cognitive processes, performed tasks, intention, or expertise. To analyse such patterns, the scanpath is often ...\n3330\nRESEARCH-ARTICLE\nLabel Likelihood Maximisation: Adapting iris segmentation models using domain adaptation\nAnton Mølbjerg Eskildsen,Dan Witzner Hansen\nArticle No.: 5, pp 1–9https://doi.org/10.1145/3379155.3391327\nWe propose to use unlabelled eye image data for domain adaptation of an iris segmentation network. Adaptation allows the model to be less reliant on its initial generality. This is beneficial due to the large variance exhibited by eye image data which ...\n0149\nRESEARCH-ARTICLE\nOPEN ACCESS\nValidation of a prototype hybrid eye-tracker against the DPI and the Tobii Spectrum\nKenneth Holmqvist,Saga Lee Orbom,Michael Miller,Albert Kashchenevsky,Mark M. Shovman,Mark W. Greenlee\nArticle No.: 6, pp 1–9https://doi.org/10.1145/3379155.3391330\nWe benchmark a new hybrid eye-tracker system against the DPI (Dual Purkinje Imaging) tracker and the Tobii Spectrum in a series of three experiments. In a first within-subjects battery of tests, we show that the precision of the new eye-tracker is much ...\n41,410\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnticipating Averted Gaze in Dyadic Interactions\nPhilipp Müller,Ekta Sood,Andreas Bulling\nArticle No.: 7, pp 1–10https://doi.org/10.1145/3379155.3391332\nWe present the first method to anticipate averted gaze in natural dyadic interactions. The task of anticipating averted gaze, i.e. that a person will not make eye contact in the near future, remains unsolved despite its importance for human social ...\n8594",
-        "data": "June 2020",
-        "authors": [
-            "Mihai Bace",
-            "Vincent Becker",
-            "Chenyang Wang",
-            "Andreas Bulling"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391315",
-        "citation": "6",
-        "abstract": "Pursuit eye movements have become widely popular because they enable spontaneous eye-based interaction. However, existing methods to detect smooth pursuits require special-purpose eye trackers. We propose the first method to detect pursuits using a single off-the-shelf RGB camera in unconstrained remote settings. The key novelty of our method is that it combines appearance-based gaze estimation with optical flow in the eye region to jointly analyse eye movement dynamics in a single pipeline. We evaluate the performance and robustness of our method for different numbers of targets and trajectories in a 13-participant user study. We show that our method not only outperforms the current state of the art but also achieves competitive performance to a consumer eye tracker for a small number of targets. As such, our work points towards a new family of methods for pursuit interaction directly applicable to an ever-increasing number of devices readily equipped with cameras."
-    },
-    {
-        "title": "Analyzing Gaze Behavior Using Object Detection and Unsupervised Clustering",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 1: Methods\nRESEARCH-ARTICLE\nVisual Search Target Inference in Natural Interaction Settings with Machine Learning\nMichael Barz,Sven Stauden,Daniel Sonntag\nArticle No.: 1, pp 1–8https://doi.org/10.1145/3379155.3391314\nVisual search is a perceptual task in which humans aim at identifying a search target object such as a traffic sign among other objects. Search target inference subsumes computational methods for predicting this target by tracking and analyzing overt ...\n10369\nRESEARCH-ARTICLE\nCombining Gaze Estimation and Optical Flow for Pursuits Interaction\nMihai Bace,Vincent Becker,Chenyang Wang,Andreas Bulling\nArticle No.: 2, pp 1–10https://doi.org/10.1145/3379155.3391315\nPursuit eye movements have become widely popular because they enable spontaneous eye-based interaction. However, existing methods to detect smooth pursuits require special-purpose eye trackers. We propose the first method to detect pursuits using a ...\n6500\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnalyzing Gaze Behavior Using Object Detection and Unsupervised Clustering\nPranav Venuprasad,Li Xu,Enoch Huang,Andrew Gilman,Leanne Chukoskie Ph.D.,Pamela Cosman\nArticle No.: 3, pp 1–9https://doi.org/10.1145/3379155.3391316\nGaze behavior is important in early development, and atypical gaze behavior is among the first symptoms of autism. Here we describe a system that quantitatively assesses gaze behavior using eye-tracking glasses. Objects in the subject’s field of view ...\n6804\nRESEARCH-ARTICLE\nA MinHash approach for fast scanpath classification\nDavid Geisler,Nora Castner,Gjergji Kasneci,Enkelejda Kasneci\nArticle No.: 4, pp 1–9https://doi.org/10.1145/3379155.3391325\nThe visual scanpath describes the shift of visual attention over time. Characteristic patterns in the attention shifts allow inferences about cognitive processes, performed tasks, intention, or expertise. To analyse such patterns, the scanpath is often ...\n3330\nRESEARCH-ARTICLE\nLabel Likelihood Maximisation: Adapting iris segmentation models using domain adaptation\nAnton Mølbjerg Eskildsen,Dan Witzner Hansen\nArticle No.: 5, pp 1–9https://doi.org/10.1145/3379155.3391327\nWe propose to use unlabelled eye image data for domain adaptation of an iris segmentation network. Adaptation allows the model to be less reliant on its initial generality. This is beneficial due to the large variance exhibited by eye image data which ...\n0149\nRESEARCH-ARTICLE\nOPEN ACCESS\nValidation of a prototype hybrid eye-tracker against the DPI and the Tobii Spectrum\nKenneth Holmqvist,Saga Lee Orbom,Michael Miller,Albert Kashchenevsky,Mark M. Shovman,Mark W. Greenlee\nArticle No.: 6, pp 1–9https://doi.org/10.1145/3379155.3391330\nWe benchmark a new hybrid eye-tracker system against the DPI (Dual Purkinje Imaging) tracker and the Tobii Spectrum in a series of three experiments. In a first within-subjects battery of tests, we show that the precision of the new eye-tracker is much ...\n41,410\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnticipating Averted Gaze in Dyadic Interactions\nPhilipp Müller,Ekta Sood,Andreas Bulling\nArticle No.: 7, pp 1–10https://doi.org/10.1145/3379155.3391332\nWe present the first method to anticipate averted gaze in natural dyadic interactions. The task of anticipating averted gaze, i.e. that a person will not make eye contact in the near future, remains unsolved despite its importance for human social ...\n8594",
-        "data": "June 2020",
-        "authors": [
-            "Pranav Venuprasad",
-            "Li Xu",
-            "Enoch Huang",
-            "Andrew Gilman",
-            "Leanne Chukoskie Ph.D.",
-            "Pamela Cosman"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391316",
-        "citation": "6",
-        "abstract": "Gaze behavior is important in early development, and atypical gaze behavior is among the first symptoms of autism. Here we describe a system that quantitatively assesses gaze behavior using eye-tracking glasses. Objects in the subject’s field of view are detected using a deep learning model on the video captured by the glasses’ world-view camera, and a stationary frame of reference is estimated using the positions of the detected objects. The gaze positions relative to the new frame of reference are subjected to unsupervised clustering to obtain the time sequence of looks. The clustering method increases the accuracy of look detection on test videos compared against a previous algorithm, and is considerably more robust on videos with poor calibration."
-    },
-    {
-        "title": "A MinHash approach for fast scanpath classification",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 1: Methods\nRESEARCH-ARTICLE\nVisual Search Target Inference in Natural Interaction Settings with Machine Learning\nMichael Barz,Sven Stauden,Daniel Sonntag\nArticle No.: 1, pp 1–8https://doi.org/10.1145/3379155.3391314\nVisual search is a perceptual task in which humans aim at identifying a search target object such as a traffic sign among other objects. Search target inference subsumes computational methods for predicting this target by tracking and analyzing overt ...\n10369\nRESEARCH-ARTICLE\nCombining Gaze Estimation and Optical Flow for Pursuits Interaction\nMihai Bace,Vincent Becker,Chenyang Wang,Andreas Bulling\nArticle No.: 2, pp 1–10https://doi.org/10.1145/3379155.3391315\nPursuit eye movements have become widely popular because they enable spontaneous eye-based interaction. However, existing methods to detect smooth pursuits require special-purpose eye trackers. We propose the first method to detect pursuits using a ...\n6500\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnalyzing Gaze Behavior Using Object Detection and Unsupervised Clustering\nPranav Venuprasad,Li Xu,Enoch Huang,Andrew Gilman,Leanne Chukoskie Ph.D.,Pamela Cosman\nArticle No.: 3, pp 1–9https://doi.org/10.1145/3379155.3391316\nGaze behavior is important in early development, and atypical gaze behavior is among the first symptoms of autism. Here we describe a system that quantitatively assesses gaze behavior using eye-tracking glasses. Objects in the subject’s field of view ...\n6804\nRESEARCH-ARTICLE\nA MinHash approach for fast scanpath classification\nDavid Geisler,Nora Castner,Gjergji Kasneci,Enkelejda Kasneci\nArticle No.: 4, pp 1–9https://doi.org/10.1145/3379155.3391325\nThe visual scanpath describes the shift of visual attention over time. Characteristic patterns in the attention shifts allow inferences about cognitive processes, performed tasks, intention, or expertise. To analyse such patterns, the scanpath is often ...\n3330\nRESEARCH-ARTICLE\nLabel Likelihood Maximisation: Adapting iris segmentation models using domain adaptation\nAnton Mølbjerg Eskildsen,Dan Witzner Hansen\nArticle No.: 5, pp 1–9https://doi.org/10.1145/3379155.3391327\nWe propose to use unlabelled eye image data for domain adaptation of an iris segmentation network. Adaptation allows the model to be less reliant on its initial generality. This is beneficial due to the large variance exhibited by eye image data which ...\n0149\nRESEARCH-ARTICLE\nOPEN ACCESS\nValidation of a prototype hybrid eye-tracker against the DPI and the Tobii Spectrum\nKenneth Holmqvist,Saga Lee Orbom,Michael Miller,Albert Kashchenevsky,Mark M. Shovman,Mark W. Greenlee\nArticle No.: 6, pp 1–9https://doi.org/10.1145/3379155.3391330\nWe benchmark a new hybrid eye-tracker system against the DPI (Dual Purkinje Imaging) tracker and the Tobii Spectrum in a series of three experiments. In a first within-subjects battery of tests, we show that the precision of the new eye-tracker is much ...\n41,410\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnticipating Averted Gaze in Dyadic Interactions\nPhilipp Müller,Ekta Sood,Andreas Bulling\nArticle No.: 7, pp 1–10https://doi.org/10.1145/3379155.3391332\nWe present the first method to anticipate averted gaze in natural dyadic interactions. The task of anticipating averted gaze, i.e. that a person will not make eye contact in the near future, remains unsolved despite its importance for human social ...\n8594",
-        "data": "June 2020",
-        "authors": [
-            "David Geisler",
-            "Nora Castner",
-            "Gjergji Kasneci",
-            "Enkelejda Kasneci"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391325",
-        "citation": "3",
-        "abstract": "The visual scanpath describes the shift of visual attention over time. Characteristic patterns in the attention shifts allow inferences about cognitive processes, performed tasks, intention, or expertise. To analyse such patterns, the scanpath is often represented as a sequence of symbols that can be used to calculate a similarity score to other scanpaths. However, as the length of the scanpath or the number of possible symbols increases, established methods for scanpath similarity become inefficient, both in terms of runtime and memory consumption. We present a MinHash approach for efficient scanpath similarity calculation. Our approach shows competitive results in clustering and classification of scanpaths compared to established methods such as Needleman-Wunsch, but at a fraction of the required runtime. Furthermore, with time complexity of and constant memory consumption, our approach is ideally suited for real-time operation or analyzing large amounts of data."
-    },
-    {
-        "title": "Label Likelihood Maximisation: Adapting iris segmentation models using domain adaptation",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 1: Methods\nRESEARCH-ARTICLE\nVisual Search Target Inference in Natural Interaction Settings with Machine Learning\nMichael Barz,Sven Stauden,Daniel Sonntag\nArticle No.: 1, pp 1–8https://doi.org/10.1145/3379155.3391314\nVisual search is a perceptual task in which humans aim at identifying a search target object such as a traffic sign among other objects. Search target inference subsumes computational methods for predicting this target by tracking and analyzing overt ...\n10369\nRESEARCH-ARTICLE\nCombining Gaze Estimation and Optical Flow for Pursuits Interaction\nMihai Bace,Vincent Becker,Chenyang Wang,Andreas Bulling\nArticle No.: 2, pp 1–10https://doi.org/10.1145/3379155.3391315\nPursuit eye movements have become widely popular because they enable spontaneous eye-based interaction. However, existing methods to detect smooth pursuits require special-purpose eye trackers. We propose the first method to detect pursuits using a ...\n6500\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnalyzing Gaze Behavior Using Object Detection and Unsupervised Clustering\nPranav Venuprasad,Li Xu,Enoch Huang,Andrew Gilman,Leanne Chukoskie Ph.D.,Pamela Cosman\nArticle No.: 3, pp 1–9https://doi.org/10.1145/3379155.3391316\nGaze behavior is important in early development, and atypical gaze behavior is among the first symptoms of autism. Here we describe a system that quantitatively assesses gaze behavior using eye-tracking glasses. Objects in the subject’s field of view ...\n6804\nRESEARCH-ARTICLE\nA MinHash approach for fast scanpath classification\nDavid Geisler,Nora Castner,Gjergji Kasneci,Enkelejda Kasneci\nArticle No.: 4, pp 1–9https://doi.org/10.1145/3379155.3391325\nThe visual scanpath describes the shift of visual attention over time. Characteristic patterns in the attention shifts allow inferences about cognitive processes, performed tasks, intention, or expertise. To analyse such patterns, the scanpath is often ...\n3330\nRESEARCH-ARTICLE\nLabel Likelihood Maximisation: Adapting iris segmentation models using domain adaptation\nAnton Mølbjerg Eskildsen,Dan Witzner Hansen\nArticle No.: 5, pp 1–9https://doi.org/10.1145/3379155.3391327\nWe propose to use unlabelled eye image data for domain adaptation of an iris segmentation network. Adaptation allows the model to be less reliant on its initial generality. This is beneficial due to the large variance exhibited by eye image data which ...\n0149\nRESEARCH-ARTICLE\nOPEN ACCESS\nValidation of a prototype hybrid eye-tracker against the DPI and the Tobii Spectrum\nKenneth Holmqvist,Saga Lee Orbom,Michael Miller,Albert Kashchenevsky,Mark M. Shovman,Mark W. Greenlee\nArticle No.: 6, pp 1–9https://doi.org/10.1145/3379155.3391330\nWe benchmark a new hybrid eye-tracker system against the DPI (Dual Purkinje Imaging) tracker and the Tobii Spectrum in a series of three experiments. In a first within-subjects battery of tests, we show that the precision of the new eye-tracker is much ...\n41,410\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnticipating Averted Gaze in Dyadic Interactions\nPhilipp Müller,Ekta Sood,Andreas Bulling\nArticle No.: 7, pp 1–10https://doi.org/10.1145/3379155.3391332\nWe present the first method to anticipate averted gaze in natural dyadic interactions. The task of anticipating averted gaze, i.e. that a person will not make eye contact in the near future, remains unsolved despite its importance for human social ...\n8594",
-        "data": "June 2020",
-        "authors": [
-            "Anton Mølbjerg Eskildsen",
-            "Dan Witzner Hansen"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391327",
-        "citation": "0",
-        "abstract": "We propose to use unlabelled eye image data for domain adaptation of an iris segmentation network. Adaptation allows the model to be less reliant on its initial generality. This is beneficial due to the large variance exhibited by eye image data which makes training of robust models difficult. The method uses a label prior in conjunction with network predictions to produce pseudo-labels. These are used in place of ground-truth data to adapt a base model. A fully connected neural network performs the pixel-wise iris segmentation. The base model is trained on synthetic data and adapted to several existing datasets with real-world eye images. The adapted models improve the average pupil centre detection rates by 24% at a distance of 25 pixels. We argue that the proposed method, and domain adaptation in general, is an interesting direction for increasing robustness of eye feature detectors."
-    },
-    {
-        "title": "Validation of a prototype hybrid eye-tracker against the DPI and the Tobii Spectrum",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 1: Methods\nRESEARCH-ARTICLE\nVisual Search Target Inference in Natural Interaction Settings with Machine Learning\nMichael Barz,Sven Stauden,Daniel Sonntag\nArticle No.: 1, pp 1–8https://doi.org/10.1145/3379155.3391314\nVisual search is a perceptual task in which humans aim at identifying a search target object such as a traffic sign among other objects. Search target inference subsumes computational methods for predicting this target by tracking and analyzing overt ...\n10369\nRESEARCH-ARTICLE\nCombining Gaze Estimation and Optical Flow for Pursuits Interaction\nMihai Bace,Vincent Becker,Chenyang Wang,Andreas Bulling\nArticle No.: 2, pp 1–10https://doi.org/10.1145/3379155.3391315\nPursuit eye movements have become widely popular because they enable spontaneous eye-based interaction. However, existing methods to detect smooth pursuits require special-purpose eye trackers. We propose the first method to detect pursuits using a ...\n6500\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnalyzing Gaze Behavior Using Object Detection and Unsupervised Clustering\nPranav Venuprasad,Li Xu,Enoch Huang,Andrew Gilman,Leanne Chukoskie Ph.D.,Pamela Cosman\nArticle No.: 3, pp 1–9https://doi.org/10.1145/3379155.3391316\nGaze behavior is important in early development, and atypical gaze behavior is among the first symptoms of autism. Here we describe a system that quantitatively assesses gaze behavior using eye-tracking glasses. Objects in the subject’s field of view ...\n6804\nRESEARCH-ARTICLE\nA MinHash approach for fast scanpath classification\nDavid Geisler,Nora Castner,Gjergji Kasneci,Enkelejda Kasneci\nArticle No.: 4, pp 1–9https://doi.org/10.1145/3379155.3391325\nThe visual scanpath describes the shift of visual attention over time. Characteristic patterns in the attention shifts allow inferences about cognitive processes, performed tasks, intention, or expertise. To analyse such patterns, the scanpath is often ...\n3330\nRESEARCH-ARTICLE\nLabel Likelihood Maximisation: Adapting iris segmentation models using domain adaptation\nAnton Mølbjerg Eskildsen,Dan Witzner Hansen\nArticle No.: 5, pp 1–9https://doi.org/10.1145/3379155.3391327\nWe propose to use unlabelled eye image data for domain adaptation of an iris segmentation network. Adaptation allows the model to be less reliant on its initial generality. This is beneficial due to the large variance exhibited by eye image data which ...\n0149\nRESEARCH-ARTICLE\nOPEN ACCESS\nValidation of a prototype hybrid eye-tracker against the DPI and the Tobii Spectrum\nKenneth Holmqvist,Saga Lee Orbom,Michael Miller,Albert Kashchenevsky,Mark M. Shovman,Mark W. Greenlee\nArticle No.: 6, pp 1–9https://doi.org/10.1145/3379155.3391330\nWe benchmark a new hybrid eye-tracker system against the DPI (Dual Purkinje Imaging) tracker and the Tobii Spectrum in a series of three experiments. In a first within-subjects battery of tests, we show that the precision of the new eye-tracker is much ...\n41,410\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnticipating Averted Gaze in Dyadic Interactions\nPhilipp Müller,Ekta Sood,Andreas Bulling\nArticle No.: 7, pp 1–10https://doi.org/10.1145/3379155.3391332\nWe present the first method to anticipate averted gaze in natural dyadic interactions. The task of anticipating averted gaze, i.e. that a person will not make eye contact in the near future, remains unsolved despite its importance for human social ...\n8594",
-        "data": "June 2020",
-        "authors": [
-            "Kenneth Holmqvist",
-            "Saga Lee Orbom",
-            "Michael Miller",
-            "Albert Kashchenevsky",
-            "Mark M. Shovman",
-            "Mark W. Greenlee"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391330",
-        "citation": "4",
-        "abstract": "We benchmark a new hybrid eye-tracker system against the DPI (Dual Purkinje Imaging) tracker and the Tobii Spectrum in a series of three experiments. In a first within-subjects battery of tests, we show that the precision of the new eye-tracker is much better than that of both the DPI and the Spectrum, but that accuracy is not better. We also show that the new eye-tracker is insensitive to effects of pupil contraction on gaze direction (in contrast to both the DPI and the Spectrum), that it detects microsaccades on par with the DPI and better than the Spectrum, and that it can possibly record tremor. In the second experiment, sensors of the novel eye-tracker were integrated into the optical path of the DPI bench. Simultaneous recordings show that saccade dynamics, post-saccadic oscillations and measurements of translational movements are comparable to those of the DPI. In the third experiment, we show that the DPI and the new eye-tracker are capable of detecting 2 arcmin artificial-eye rotations while the Spectrum cannot. Results suggest that the new eye-tracker, in contrast to video-based P-CR systems [Holmqvist and Blignaut 2020], is suitable for studies that record small eye-movements under varying ambient light levels."
-    },
-    {
-        "title": "Anticipating Averted Gaze in Dyadic Interactions",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 1: Methods\nRESEARCH-ARTICLE\nVisual Search Target Inference in Natural Interaction Settings with Machine Learning\nMichael Barz,Sven Stauden,Daniel Sonntag\nArticle No.: 1, pp 1–8https://doi.org/10.1145/3379155.3391314\nVisual search is a perceptual task in which humans aim at identifying a search target object such as a traffic sign among other objects. Search target inference subsumes computational methods for predicting this target by tracking and analyzing overt ...\n10369\nRESEARCH-ARTICLE\nCombining Gaze Estimation and Optical Flow for Pursuits Interaction\nMihai Bace,Vincent Becker,Chenyang Wang,Andreas Bulling\nArticle No.: 2, pp 1–10https://doi.org/10.1145/3379155.3391315\nPursuit eye movements have become widely popular because they enable spontaneous eye-based interaction. However, existing methods to detect smooth pursuits require special-purpose eye trackers. We propose the first method to detect pursuits using a ...\n6500\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnalyzing Gaze Behavior Using Object Detection and Unsupervised Clustering\nPranav Venuprasad,Li Xu,Enoch Huang,Andrew Gilman,Leanne Chukoskie Ph.D.,Pamela Cosman\nArticle No.: 3, pp 1–9https://doi.org/10.1145/3379155.3391316\nGaze behavior is important in early development, and atypical gaze behavior is among the first symptoms of autism. Here we describe a system that quantitatively assesses gaze behavior using eye-tracking glasses. Objects in the subject’s field of view ...\n6804\nRESEARCH-ARTICLE\nA MinHash approach for fast scanpath classification\nDavid Geisler,Nora Castner,Gjergji Kasneci,Enkelejda Kasneci\nArticle No.: 4, pp 1–9https://doi.org/10.1145/3379155.3391325\nThe visual scanpath describes the shift of visual attention over time. Characteristic patterns in the attention shifts allow inferences about cognitive processes, performed tasks, intention, or expertise. To analyse such patterns, the scanpath is often ...\n3330\nRESEARCH-ARTICLE\nLabel Likelihood Maximisation: Adapting iris segmentation models using domain adaptation\nAnton Mølbjerg Eskildsen,Dan Witzner Hansen\nArticle No.: 5, pp 1–9https://doi.org/10.1145/3379155.3391327\nWe propose to use unlabelled eye image data for domain adaptation of an iris segmentation network. Adaptation allows the model to be less reliant on its initial generality. This is beneficial due to the large variance exhibited by eye image data which ...\n0149\nRESEARCH-ARTICLE\nOPEN ACCESS\nValidation of a prototype hybrid eye-tracker against the DPI and the Tobii Spectrum\nKenneth Holmqvist,Saga Lee Orbom,Michael Miller,Albert Kashchenevsky,Mark M. Shovman,Mark W. Greenlee\nArticle No.: 6, pp 1–9https://doi.org/10.1145/3379155.3391330\nWe benchmark a new hybrid eye-tracker system against the DPI (Dual Purkinje Imaging) tracker and the Tobii Spectrum in a series of three experiments. In a first within-subjects battery of tests, we show that the precision of the new eye-tracker is much ...\n41,410\nRESEARCH-ARTICLE\nOPEN ACCESS\nAnticipating Averted Gaze in Dyadic Interactions\nPhilipp Müller,Ekta Sood,Andreas Bulling\nArticle No.: 7, pp 1–10https://doi.org/10.1145/3379155.3391332\nWe present the first method to anticipate averted gaze in natural dyadic interactions. The task of anticipating averted gaze, i.e. that a person will not make eye contact in the near future, remains unsolved despite its importance for human social ...\n8594",
-        "data": "June 2020",
-        "authors": [
-            "Philipp Müller",
-            "Ekta Sood",
-            "Andreas Bulling"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391332",
-        "citation": "8",
-        "abstract": "We present the first method to anticipate averted gaze in natural dyadic interactions. The task of anticipating averted gaze, i.e. that a person will not make eye contact in the near future, remains unsolved despite its importance for human social encounters as well as a number of applications, including human-robot interaction or conversational agents. Our multimodal method is based on a long short-term memory (LSTM) network that analyses non-verbal facial cues and speaking behaviour. We empirically evaluate our method for different future time horizons on a novel dataset of 121 YouTube videos of dyadic video conferences (74 hours in total). We investigate person-specific and person-independent performance and demonstrate that our method clearly outperforms baselines in both settings. As such, our work sheds light on the tight interplay between eye contact and other non-verbal signals and underlines the potential of computational modelling and anticipation of averted gaze for interactive applications."
-    },
-    {
-        "title": "BimodalGaze: Seamlessly Refined Pointing with Gaze and Filtered Gestural Head Movement",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 2: User Interfaces and Interaction\nRESEARCH-ARTICLE\nBimodalGaze: Seamlessly Refined Pointing with Gaze and Filtered Gestural Head Movement\nLudwig Sidenmark,Diako Mardanbegi,Argenis Ramirez Gomez,Christopher Clarke, + 1\nArticle No.: 8, pp 1–9https://doi.org/10.1145/3379155.3391312\nEye gaze is a fast and ergonomic modality for pointing but limited in precision and accuracy. In this work, we introduce BimodalGaze, a novel technique for seamless head-based refinement of a gaze cursor. The technique leverages eye-head coordination ...\n23569\n1\nARTICLE\nA Survey of Digital Eye Strain in Gaze-Based Interactive Systems\nTeresa Hirzle,Maurice Cordts,Enrico Rukzio,Andreas Bulling\nArticle No.: 9, pp 1–12https://doi.org/10.1145/3379155.3391313\nDisplay-based interfaces pose high demands on users’ eyes that can cause severe vision and eye problems, also known as digital eye strain (DES). Although these problems can become even more severe if the eyes are actively used for interaction, prior ...\n11578\nRESEARCH-ARTICLE\nDetecting Relevance during Decision-Making from Eye Movements for UI Adaptation\nAnna Maria Feit,Lukas Vordemann,Seonwook Park,Caterina Berube,Otmar Hilliges\nArticle No.: 10, pp 1–11https://doi.org/10.1145/3379155.3391321\nThis paper proposes an approach to detect information relevance during decision-making from eye movements in order to enable user interface adaptation. This is a challenging task because gaze behavior varies greatly across individual users and tasks and ...\n9509\nRESEARCH-ARTICLE\nBubble Gaze Cursor + Bubble Gaze Lens: Applying Area Cursor Technique to Eye-Gaze Interface\nMyungguen Choi,Daisuke Sakamoto,Tetsuo Ono\nArticle No.: 11, pp 1–10https://doi.org/10.1145/3379155.3391322\nWe conducted two studies exploring how an area cursor technique can improve the eye-gaze interface. We first examined the bubble cursor technique. We developed an eye-gaze-based cursor called the bubble gaze cursor and compared it to a standard eye-gaze ...\n8593\nRESEARCH-ARTICLE\nEye Gaze Controlled Robotic Arm for Persons with Severe Speech and Motor Impairment\nVinay Krishna Sharma,Kamalpreet Saluja,Vimal Mollyn,Pradipta Biswas\nArticle No.: 12, pp 1–9https://doi.org/10.1145/3379155.3391324\nRecent advancements in the field of robotics offers new promises for people with different range of abilities although making a human robot interface for people with severe disabilities is challenging. This paper describes the design and development of ...\n7364",
-        "data": "June 2020",
-        "authors": [
-            "Ludwig Sidenmark",
-            "Diako Mardanbegi",
-            "Argenis Ramirez Gomez",
-            "Christopher Clarke",
-            "Hans Gellersen"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391312",
-        "citation": "23",
-        "abstract": "Eye gaze is a fast and ergonomic modality for pointing but limited in precision and accuracy. In this work, we introduce BimodalGaze, a novel technique for seamless head-based refinement of a gaze cursor. The technique leverages eye-head coordination insights to separate natural from gestural head movement. This allows users to quickly shift their gaze to targets over larger fields of view with naturally combined eye-head movement, and to refine the cursor position with gestural head movement. In contrast to an existing baseline, head refinement is invoked automatically, and only if a target is not already acquired by the initial gaze shift. Study results show that users reliably achieve fine-grained target selection, but we observed a higher rate of initial selection errors affecting overall performance. An in-depth analysis of user performance provides insight into the classification of natural versus gestural head movement, for improvement of BimodalGaze and other potential applications."
-    },
-    {
-        "title": "A Survey of Digital Eye Strain in Gaze-Based Interactive Systems",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 2: User Interfaces and Interaction\nRESEARCH-ARTICLE\nBimodalGaze: Seamlessly Refined Pointing with Gaze and Filtered Gestural Head Movement\nLudwig Sidenmark,Diako Mardanbegi,Argenis Ramirez Gomez,Christopher Clarke, + 1\nArticle No.: 8, pp 1–9https://doi.org/10.1145/3379155.3391312\nEye gaze is a fast and ergonomic modality for pointing but limited in precision and accuracy. In this work, we introduce BimodalGaze, a novel technique for seamless head-based refinement of a gaze cursor. The technique leverages eye-head coordination ...\n23569\n1\nARTICLE\nA Survey of Digital Eye Strain in Gaze-Based Interactive Systems\nTeresa Hirzle,Maurice Cordts,Enrico Rukzio,Andreas Bulling\nArticle No.: 9, pp 1–12https://doi.org/10.1145/3379155.3391313\nDisplay-based interfaces pose high demands on users’ eyes that can cause severe vision and eye problems, also known as digital eye strain (DES). Although these problems can become even more severe if the eyes are actively used for interaction, prior ...\n11578\nRESEARCH-ARTICLE\nDetecting Relevance during Decision-Making from Eye Movements for UI Adaptation\nAnna Maria Feit,Lukas Vordemann,Seonwook Park,Caterina Berube,Otmar Hilliges\nArticle No.: 10, pp 1–11https://doi.org/10.1145/3379155.3391321\nThis paper proposes an approach to detect information relevance during decision-making from eye movements in order to enable user interface adaptation. This is a challenging task because gaze behavior varies greatly across individual users and tasks and ...\n9509\nRESEARCH-ARTICLE\nBubble Gaze Cursor + Bubble Gaze Lens: Applying Area Cursor Technique to Eye-Gaze Interface\nMyungguen Choi,Daisuke Sakamoto,Tetsuo Ono\nArticle No.: 11, pp 1–10https://doi.org/10.1145/3379155.3391322\nWe conducted two studies exploring how an area cursor technique can improve the eye-gaze interface. We first examined the bubble cursor technique. We developed an eye-gaze-based cursor called the bubble gaze cursor and compared it to a standard eye-gaze ...\n8593\nRESEARCH-ARTICLE\nEye Gaze Controlled Robotic Arm for Persons with Severe Speech and Motor Impairment\nVinay Krishna Sharma,Kamalpreet Saluja,Vimal Mollyn,Pradipta Biswas\nArticle No.: 12, pp 1–9https://doi.org/10.1145/3379155.3391324\nRecent advancements in the field of robotics offers new promises for people with different range of abilities although making a human robot interface for people with severe disabilities is challenging. This paper describes the design and development of ...\n7364",
-        "data": "June 2020",
-        "authors": [
-            "Teresa Hirzle",
-            "Maurice Cordts",
-            "Enrico Rukzio",
-            "Andreas Bulling"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391313",
-        "citation": "11",
-        "abstract": "Display-based interfaces pose high demands on users’ eyes that can cause severe vision and eye problems, also known as digital eye strain (DES). Although these problems can become even more severe if the eyes are actively used for interaction, prior work on gaze-based interfaces has largely neglected these risks. We offer the first comprehensive account of DES in gaze-based interactive systems that is specifically geared to gaze interaction designers. Through an extensive survey of more than 400 papers published over the last 46 years, we first discuss the current role of DES in interactive systems. One key finding is that DES is only rarely considered when evaluating novel gaze interfaces and neglected in discussions of usability. We identify the main causes and solutions to DES and derive recommendations for interaction designers on how to guide future research on evaluating and alleviating DES."
-    },
-    {
-        "title": "Detecting Relevance during Decision-Making from Eye Movements for UI Adaptation",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 2: User Interfaces and Interaction\nRESEARCH-ARTICLE\nBimodalGaze: Seamlessly Refined Pointing with Gaze and Filtered Gestural Head Movement\nLudwig Sidenmark,Diako Mardanbegi,Argenis Ramirez Gomez,Christopher Clarke, + 1\nArticle No.: 8, pp 1–9https://doi.org/10.1145/3379155.3391312\nEye gaze is a fast and ergonomic modality for pointing but limited in precision and accuracy. In this work, we introduce BimodalGaze, a novel technique for seamless head-based refinement of a gaze cursor. The technique leverages eye-head coordination ...\n23569\n1\nARTICLE\nA Survey of Digital Eye Strain in Gaze-Based Interactive Systems\nTeresa Hirzle,Maurice Cordts,Enrico Rukzio,Andreas Bulling\nArticle No.: 9, pp 1–12https://doi.org/10.1145/3379155.3391313\nDisplay-based interfaces pose high demands on users’ eyes that can cause severe vision and eye problems, also known as digital eye strain (DES). Although these problems can become even more severe if the eyes are actively used for interaction, prior ...\n11578\nRESEARCH-ARTICLE\nDetecting Relevance during Decision-Making from Eye Movements for UI Adaptation\nAnna Maria Feit,Lukas Vordemann,Seonwook Park,Caterina Berube,Otmar Hilliges\nArticle No.: 10, pp 1–11https://doi.org/10.1145/3379155.3391321\nThis paper proposes an approach to detect information relevance during decision-making from eye movements in order to enable user interface adaptation. This is a challenging task because gaze behavior varies greatly across individual users and tasks and ...\n9509\nRESEARCH-ARTICLE\nBubble Gaze Cursor + Bubble Gaze Lens: Applying Area Cursor Technique to Eye-Gaze Interface\nMyungguen Choi,Daisuke Sakamoto,Tetsuo Ono\nArticle No.: 11, pp 1–10https://doi.org/10.1145/3379155.3391322\nWe conducted two studies exploring how an area cursor technique can improve the eye-gaze interface. We first examined the bubble cursor technique. We developed an eye-gaze-based cursor called the bubble gaze cursor and compared it to a standard eye-gaze ...\n8593\nRESEARCH-ARTICLE\nEye Gaze Controlled Robotic Arm for Persons with Severe Speech and Motor Impairment\nVinay Krishna Sharma,Kamalpreet Saluja,Vimal Mollyn,Pradipta Biswas\nArticle No.: 12, pp 1–9https://doi.org/10.1145/3379155.3391324\nRecent advancements in the field of robotics offers new promises for people with different range of abilities although making a human robot interface for people with severe disabilities is challenging. This paper describes the design and development of ...\n7364",
-        "data": "June 2020",
-        "authors": [
-            "Anna Maria Feit",
-            "Lukas Vordemann",
-            "Seonwook Park",
-            "Caterina Berube",
-            "Otmar Hilliges"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391321",
-        "citation": "9",
-        "abstract": "This paper proposes an approach to detect information relevance during decision-making from eye movements in order to enable user interface adaptation. This is a challenging task because gaze behavior varies greatly across individual users and tasks and ground-truth data is difficult to obtain. Thus, prior work has mostly focused on simpler target-search tasks or on establishing general interest, where gaze behavior is less complex. From the literature, we identify six metrics that capture different aspects of the gaze behavior during decision-making and combine them in a voting scheme. We empirically show, that this accounts for the large variations in gaze behavior and out-performs standalone metrics. Importantly, it offers an intuitive way to control the amount of detected information, which is crucial for different UI adaptation schemes to succeed. We show the applicability of our approach by developing a room-search application that changes the visual saliency of content detected as relevant. In an empirical study, we show that it detects up to 97% of relevant elements with respect to user self-reporting, which allows us to meaningfully adapt the interface, as confirmed by participants. Our approach is fast, does not need any explicit user input and can be applied independent of task and user."
-    },
-    {
-        "title": "Bubble Gaze Cursor + Bubble Gaze Lens: Applying Area Cursor Technique to Eye-Gaze Interface",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 2: User Interfaces and Interaction\nRESEARCH-ARTICLE\nBimodalGaze: Seamlessly Refined Pointing with Gaze and Filtered Gestural Head Movement\nLudwig Sidenmark,Diako Mardanbegi,Argenis Ramirez Gomez,Christopher Clarke, + 1\nArticle No.: 8, pp 1–9https://doi.org/10.1145/3379155.3391312\nEye gaze is a fast and ergonomic modality for pointing but limited in precision and accuracy. In this work, we introduce BimodalGaze, a novel technique for seamless head-based refinement of a gaze cursor. The technique leverages eye-head coordination ...\n23569\n1\nARTICLE\nA Survey of Digital Eye Strain in Gaze-Based Interactive Systems\nTeresa Hirzle,Maurice Cordts,Enrico Rukzio,Andreas Bulling\nArticle No.: 9, pp 1–12https://doi.org/10.1145/3379155.3391313\nDisplay-based interfaces pose high demands on users’ eyes that can cause severe vision and eye problems, also known as digital eye strain (DES). Although these problems can become even more severe if the eyes are actively used for interaction, prior ...\n11578\nRESEARCH-ARTICLE\nDetecting Relevance during Decision-Making from Eye Movements for UI Adaptation\nAnna Maria Feit,Lukas Vordemann,Seonwook Park,Caterina Berube,Otmar Hilliges\nArticle No.: 10, pp 1–11https://doi.org/10.1145/3379155.3391321\nThis paper proposes an approach to detect information relevance during decision-making from eye movements in order to enable user interface adaptation. This is a challenging task because gaze behavior varies greatly across individual users and tasks and ...\n9509\nRESEARCH-ARTICLE\nBubble Gaze Cursor + Bubble Gaze Lens: Applying Area Cursor Technique to Eye-Gaze Interface\nMyungguen Choi,Daisuke Sakamoto,Tetsuo Ono\nArticle No.: 11, pp 1–10https://doi.org/10.1145/3379155.3391322\nWe conducted two studies exploring how an area cursor technique can improve the eye-gaze interface. We first examined the bubble cursor technique. We developed an eye-gaze-based cursor called the bubble gaze cursor and compared it to a standard eye-gaze ...\n8593\nRESEARCH-ARTICLE\nEye Gaze Controlled Robotic Arm for Persons with Severe Speech and Motor Impairment\nVinay Krishna Sharma,Kamalpreet Saluja,Vimal Mollyn,Pradipta Biswas\nArticle No.: 12, pp 1–9https://doi.org/10.1145/3379155.3391324\nRecent advancements in the field of robotics offers new promises for people with different range of abilities although making a human robot interface for people with severe disabilities is challenging. This paper describes the design and development of ...\n7364",
-        "data": "June 2020",
-        "authors": [
-            "Myungguen Choi",
-            "Daisuke Sakamoto",
-            "Tetsuo Ono"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391322",
-        "citation": "8",
-        "abstract": "We conducted two studies exploring how an area cursor technique can improve the eye-gaze interface. We first examined the bubble cursor technique. We developed an eye-gaze-based cursor called the bubble gaze cursor and compared it to a standard eye-gaze interface and a bubble cursor with a mouse. The results revealed that the bubble gaze cursor interface was faster than the standard point cursor-based eye-gaze interface. In addition, the usability and mental workload were significantly better than those of the standard interface. Next, we extended the bubble gaze cursor technique and developed a bubble gaze lens. The results indicated that the bubble gaze lens technique was faster than the bubble gaze cursor method and the error rate was reduced by 54.0%. The usability and mental workload were also considerably better than those of the bubble gaze cursor."
-    },
-    {
-        "title": "Eye Gaze Controlled Robotic Arm for Persons with Severe Speech and Motor Impairment",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 2: User Interfaces and Interaction\nRESEARCH-ARTICLE\nBimodalGaze: Seamlessly Refined Pointing with Gaze and Filtered Gestural Head Movement\nLudwig Sidenmark,Diako Mardanbegi,Argenis Ramirez Gomez,Christopher Clarke, + 1\nArticle No.: 8, pp 1–9https://doi.org/10.1145/3379155.3391312\nEye gaze is a fast and ergonomic modality for pointing but limited in precision and accuracy. In this work, we introduce BimodalGaze, a novel technique for seamless head-based refinement of a gaze cursor. The technique leverages eye-head coordination ...\n23569\n1\nARTICLE\nA Survey of Digital Eye Strain in Gaze-Based Interactive Systems\nTeresa Hirzle,Maurice Cordts,Enrico Rukzio,Andreas Bulling\nArticle No.: 9, pp 1–12https://doi.org/10.1145/3379155.3391313\nDisplay-based interfaces pose high demands on users’ eyes that can cause severe vision and eye problems, also known as digital eye strain (DES). Although these problems can become even more severe if the eyes are actively used for interaction, prior ...\n11578\nRESEARCH-ARTICLE\nDetecting Relevance during Decision-Making from Eye Movements for UI Adaptation\nAnna Maria Feit,Lukas Vordemann,Seonwook Park,Caterina Berube,Otmar Hilliges\nArticle No.: 10, pp 1–11https://doi.org/10.1145/3379155.3391321\nThis paper proposes an approach to detect information relevance during decision-making from eye movements in order to enable user interface adaptation. This is a challenging task because gaze behavior varies greatly across individual users and tasks and ...\n9509\nRESEARCH-ARTICLE\nBubble Gaze Cursor + Bubble Gaze Lens: Applying Area Cursor Technique to Eye-Gaze Interface\nMyungguen Choi,Daisuke Sakamoto,Tetsuo Ono\nArticle No.: 11, pp 1–10https://doi.org/10.1145/3379155.3391322\nWe conducted two studies exploring how an area cursor technique can improve the eye-gaze interface. We first examined the bubble cursor technique. We developed an eye-gaze-based cursor called the bubble gaze cursor and compared it to a standard eye-gaze ...\n8593\nRESEARCH-ARTICLE\nEye Gaze Controlled Robotic Arm for Persons with Severe Speech and Motor Impairment\nVinay Krishna Sharma,Kamalpreet Saluja,Vimal Mollyn,Pradipta Biswas\nArticle No.: 12, pp 1–9https://doi.org/10.1145/3379155.3391324\nRecent advancements in the field of robotics offers new promises for people with different range of abilities although making a human robot interface for people with severe disabilities is challenging. This paper describes the design and development of ...\n7364",
-        "data": "June 2020",
-        "authors": [
-            "Vinay Krishna Sharma",
-            "Kamalpreet Saluja",
-            "Vimal Mollyn",
-            "Pradipta Biswas"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391324",
-        "citation": "7",
-        "abstract": "Recent advancements in the field of robotics offers new promises for people with different range of abilities although making a human robot interface for people with severe disabilities is challenging. This paper describes the design and development of an eye gaze controlled interface for users with severe speech and motor impairment to manipulate a robotic arm. Two user studies were reported on pick and drop and reachability studies involving users with severe speech and motor impairment. Using the eye gaze controlled interface users could undertake representative pick and drop task at an average duration less than 15 secs and reach a randomly designated target within 60 secs."
-    },
-    {
-        "title": "Dataset for Eye Tracking on a Virtual Reality Platform",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 3: Virtual Reality\nRESEARCH-ARTICLE\nDataset for Eye Tracking on a Virtual Reality Platform\nStephan Joachim Garbin,Oleg Komogortsev,Robert Cavin,Gregory Hughes, + 3\nArticle No.: 13, pp 1–10https://doi.org/10.1145/3379155.3391317\nWe present a large scale data set of eye-images captured using a virtual-reality (VR) head mounted display mounted with two synchronized eye-facing cameras at a frame rate of 200 Hz under controlled illumination. This dataset is compiled from video ...\n8715\nRESEARCH-ARTICLE\nEffect of a Constant Camera Rotation on the Visibility of Transsaccadic Camera Shifts\nMaryam Keyvanara,Robert Allison\nArticle No.: 14, pp 1–8https://doi.org/10.1145/3379155.3391318\nOften in 3D games and virtual reality, changes in fixation occur during locomotion or other simulated head movements. We investigated whether a constant camera rotation in a virtual scene modulates saccadic suppression. The users viewed 3D scenes from ...\n1123",
-        "data": "June 2020",
-        "authors": [
-            "Stephan Joachim Garbin",
-            "Oleg Komogortsev",
-            "Robert Cavin",
-            "Gregory Hughes",
-            "Yiru Shen",
-            "Immo Schuetz",
-            "Sachin S Talathi"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391317",
-        "citation": "8",
-        "abstract": "We present a large scale data set of eye-images captured using a virtual-reality (VR) head mounted display mounted with two synchronized eye-facing cameras at a frame rate of 200 Hz under controlled illumination. This dataset is compiled from video capture of the eye-region collected from 152 individual participants and is divided into four subsets: (i) 12,759 images with pixel-level annotations for key eye-regions: iris, pupil and sclera (ii) 252,690 unlabeled eye-images, (iii) 91,200 frames from randomly selected video sequences of 1.5 seconds in duration, and (iv) 143 pairs of left and right point cloud data compiled from corneal topography of eye regions collected from a subset, 143 out of 152, participants in the study. A baseline experiment has been evaluated on the dataset for the task of semantic segmentation of pupil, iris, sclera and background, with the mean intersection-over-union (mIoU) of 98.3 %. We anticipate that this dataset will create opportunities to researchers in the eye tracking community and the broader machine learning and computer vision community to advance the state of eye-tracking for VR applications, which in its turn will have greater implications in Human-Computer Interaction."
-    },
-    {
-        "title": "Effect of a Constant Camera Rotation on the Visibility of Transsaccadic Camera Shifts",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 3: Virtual Reality\nRESEARCH-ARTICLE\nDataset for Eye Tracking on a Virtual Reality Platform\nStephan Joachim Garbin,Oleg Komogortsev,Robert Cavin,Gregory Hughes, + 3\nArticle No.: 13, pp 1–10https://doi.org/10.1145/3379155.3391317\nWe present a large scale data set of eye-images captured using a virtual-reality (VR) head mounted display mounted with two synchronized eye-facing cameras at a frame rate of 200 Hz under controlled illumination. This dataset is compiled from video ...\n8715\nRESEARCH-ARTICLE\nEffect of a Constant Camera Rotation on the Visibility of Transsaccadic Camera Shifts\nMaryam Keyvanara,Robert Allison\nArticle No.: 14, pp 1–8https://doi.org/10.1145/3379155.3391318\nOften in 3D games and virtual reality, changes in fixation occur during locomotion or other simulated head movements. We investigated whether a constant camera rotation in a virtual scene modulates saccadic suppression. The users viewed 3D scenes from ...\n1123",
-        "data": "June 2020",
-        "authors": [
-            "Maryam Keyvanara",
-            "Robert Allison"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391318",
-        "citation": "1",
-        "abstract": "Often in 3D games and virtual reality, changes in fixation occur during locomotion or other simulated head movements. We investigated whether a constant camera rotation in a virtual scene modulates saccadic suppression. The users viewed 3D scenes from the vantage point of a virtual camera which was either stationary or rotated at a constant rate about a vertical axis (camera pan) or horizontal axis (camera tilt). During this motion, observers fixated an object that was suddenly displaced horizontally/vertically in the scene, triggering them to produce a saccade. During the saccade an additional sudden movement was applied to the virtual camera. We estimated discrimination thresholds for these transsaccadic camera shifts using a Bayesian adaptive procedure. With an ongoing camera pan, we found higher thresholds (less noticeability) for additional sudden horizontal camera motion. Likewise, during simulated vertical head movements (i.e. a camera tilt), vertical transsaccadic image displacements were better hidden from the users for both horizontal and vertical saccades. Understanding the effect of continuous movement on the visibility of a sudden transsaccadic change can help optimize the visual performance of gaze-contingent displays and improve user experience."
-    },
-    {
-        "title": "Gaze-Adaptive Lenses for Feature-Rich Information Spaces",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 4: Visualization\nRESEARCH-ARTICLE\nGaze-Adaptive Lenses for Feature-Rich Information Spaces\nFabian Goebel,Kuno Kurzhals,Victor R. Schinazi,Peter Kiefer,Martin Raubal\nArticle No.: 15, pp 1–8https://doi.org/10.1145/3379155.3391323\nThe inspection of feature-rich information spaces often requires supportive tools that reduce visual clutter without sacrificing details. One common approach is to use focus+context lenses that provide multiple views of the data. While these lenses ...\n2252\nRESEARCH-ARTICLE\nVisual Analytics and Annotation of Pervasive Eye Tracking Video\nKuno Kurzhals,Nils Rodrigues,Maurice Koch,Michael Stoll,Andres Bruhn, + 2\nArticle No.: 16, pp 1–9https://doi.org/10.1145/3379155.3391326\nWe propose a new technique for visual analytics and annotation of long-term pervasive eye tracking data for which a combined analysis of gaze and egocentric video is necessary. Our approach enables two important tasks for such data for hour-long videos ...\n3353\nRESEARCH-ARTICLE\nTeaching Eye Tracking Visual Analytics in Computer and Data Science Bachelor Courses\nMichael Burch\nArticle No.: 17, pp 1–9https://doi.org/10.1145/3379155.3391331\nMaking students aware of eye tracking technologies can have a great benefit on the entire application field since they may build the next generation of eye tracking researchers. On the one hand students learn the usefulness and benefits of this ...\n3298",
-        "data": "June 2020",
-        "authors": [
-            "Fabian Goebel",
-            "Kuno Kurzhals",
-            "Victor R. Schinazi",
-            "Peter Kiefer",
-            "Martin Raubal"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391323",
-        "citation": "2",
-        "abstract": "The inspection of feature-rich information spaces often requires supportive tools that reduce visual clutter without sacrificing details. One common approach is to use focus+context lenses that provide multiple views of the data. While these lenses present local details together with global context, they require additional manual interaction. In this paper, we discuss the design space for gaze-adaptive lenses and present an approach that automatically displays additional details with respect to visual focus. We developed a prototype for a map application capable of displaying names and star-ratings of different restaurants. In a pilot study, we compared the gaze-adaptive lens to a mouse-only system in terms of efficiency, effectiveness, and usability. Our results revealed that participants were faster in locating the restaurants and more accurate in a map drawing task when using the gaze-adaptive lens. We discuss these results in relation to observed search strategies and inspected map areas."
-    },
-    {
-        "title": "Visual Analytics and Annotation of Pervasive Eye Tracking Video",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 4: Visualization\nRESEARCH-ARTICLE\nGaze-Adaptive Lenses for Feature-Rich Information Spaces\nFabian Goebel,Kuno Kurzhals,Victor R. Schinazi,Peter Kiefer,Martin Raubal\nArticle No.: 15, pp 1–8https://doi.org/10.1145/3379155.3391323\nThe inspection of feature-rich information spaces often requires supportive tools that reduce visual clutter without sacrificing details. One common approach is to use focus+context lenses that provide multiple views of the data. While these lenses ...\n2252\nRESEARCH-ARTICLE\nVisual Analytics and Annotation of Pervasive Eye Tracking Video\nKuno Kurzhals,Nils Rodrigues,Maurice Koch,Michael Stoll,Andres Bruhn, + 2\nArticle No.: 16, pp 1–9https://doi.org/10.1145/3379155.3391326\nWe propose a new technique for visual analytics and annotation of long-term pervasive eye tracking data for which a combined analysis of gaze and egocentric video is necessary. Our approach enables two important tasks for such data for hour-long videos ...\n3353\nRESEARCH-ARTICLE\nTeaching Eye Tracking Visual Analytics in Computer and Data Science Bachelor Courses\nMichael Burch\nArticle No.: 17, pp 1–9https://doi.org/10.1145/3379155.3391331\nMaking students aware of eye tracking technologies can have a great benefit on the entire application field since they may build the next generation of eye tracking researchers. On the one hand students learn the usefulness and benefits of this ...\n3298",
-        "data": "June 2020",
-        "authors": [
-            "Kuno Kurzhals",
-            "Nils Rodrigues",
-            "Maurice Koch",
-            "Michael Stoll",
-            "Andres Bruhn",
-            "Andreas Bulling",
-            "Daniel Weiskopf"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391326",
-        "citation": "3",
-        "abstract": "We propose a new technique for visual analytics and annotation of long-term pervasive eye tracking data for which a combined analysis of gaze and egocentric video is necessary. Our approach enables two important tasks for such data for hour-long videos from individual participants: (1) efficient annotation and (2) direct interpretation of the results. Exemplary time spans can be selected by the user and are then used as a query that initiates a fuzzy search of similar time spans based on gaze and video features. In an iterative refinement loop, the query interface then provides suggestions for the importance of individual features to improve the search results. A multi-layered timeline visualization shows an overview of annotated time spans. We demonstrate the efficiency of our approach for analyzing activities in about seven hours of video in a case study and discuss feedback on our approach from novices and experts performing the annotation task."
-    },
-    {
-        "title": "Teaching Eye Tracking Visual Analytics in Computer and Data Science Bachelor Courses",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 4: Visualization\nRESEARCH-ARTICLE\nGaze-Adaptive Lenses for Feature-Rich Information Spaces\nFabian Goebel,Kuno Kurzhals,Victor R. Schinazi,Peter Kiefer,Martin Raubal\nArticle No.: 15, pp 1–8https://doi.org/10.1145/3379155.3391323\nThe inspection of feature-rich information spaces often requires supportive tools that reduce visual clutter without sacrificing details. One common approach is to use focus+context lenses that provide multiple views of the data. While these lenses ...\n2252\nRESEARCH-ARTICLE\nVisual Analytics and Annotation of Pervasive Eye Tracking Video\nKuno Kurzhals,Nils Rodrigues,Maurice Koch,Michael Stoll,Andres Bruhn, + 2\nArticle No.: 16, pp 1–9https://doi.org/10.1145/3379155.3391326\nWe propose a new technique for visual analytics and annotation of long-term pervasive eye tracking data for which a combined analysis of gaze and egocentric video is necessary. Our approach enables two important tasks for such data for hour-long videos ...\n3353\nRESEARCH-ARTICLE\nTeaching Eye Tracking Visual Analytics in Computer and Data Science Bachelor Courses\nMichael Burch\nArticle No.: 17, pp 1–9https://doi.org/10.1145/3379155.3391331\nMaking students aware of eye tracking technologies can have a great benefit on the entire application field since they may build the next generation of eye tracking researchers. On the one hand students learn the usefulness and benefits of this ...\n3298",
-        "data": "June 2020",
-        "authors": [
-            "Michael Burch"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391331",
-        "citation": "3",
-        "abstract": "Making students aware of eye tracking technologies can have a great benefit on the entire application field since they may build the next generation of eye tracking researchers. On the one hand students learn the usefulness and benefits of this technique for different scientific purposes like user evaluation to find design flaws or visual attention strategies, gaze-assisted interaction to enhance and augment traditional interaction techniques, or as a means to improve virtual reality experiences. However, on the other hand, the large amount of recorded data means a challenge for data analytics in order to find rules, patterns, but also anomalies in the data, finally leading to insights and knowledge to understand or predict eye movement patterns which can have synergy effects for both disciplines - eye tracking and visual analytics. In this paper we will describe the challenges of teaching eye tracking combined with visual analytics in a computer and data science bachelor course with 42 students in an active learning scenario following four teaching stages. Some of the student project results are shown to demonstrate learning outcomes with respect to eye tracking data analysis and visual analytics techniques."
-    },
-    {
-        "title": "Deep semantic gaze embedding and scanpath comparison for expertise classification during OPT viewing",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 5: Applications\nRESEARCH-ARTICLE\nDeep semantic gaze embedding and scanpath comparison for expertise classification during OPT viewing\nNora Castner,Thomas C Kuebler,Katharina Scheiter,Juliane Richter, + 4\nArticle No.: 18, pp 1–10https://doi.org/10.1145/3379155.3391320\nModeling eye movement indicative of expertise behavior is decisive in user evaluation. However, it is indisputable that task semantics affect gaze behavior. We present a novel approach to gaze scanpath comparison that incorporates convolutional neural ...\n23403\nRESEARCH-ARTICLE\nEyes on URLs: Relating Visual Behavior to Safety Decisions\nNiveta Ramkumar,Vijay Kothari,Caitlin Mills,Ross Koppel,Jim Blythe, + 2\nArticle No.: 19, pp 1–10https://doi.org/10.1145/3379155.3391328\nIndividual and organizational computer security rests on how people interpret and use the security information they are presented. One challenge is determining whether a given URL is safe or not. This paper explores the visual behaviors that users ...\n4200\nRESEARCH-ARTICLE\nModeling Metacomprehension Monitoring Accuracy with Eye Gaze on Informational Content in a Multimedia Learning Environment\nMegan D Wiedbusch,Roger Azevedo\nArticle No.: 20, pp 1–9https://doi.org/10.1145/3379155.3391329\nMultimedia learning environments support learners in developing self-regulated learning (SRL) strategies. However, capturing these strategies and cognitive processes can be difficult for researchers because cognition is often inferred, not directly ...\n8380\nRESEARCH-ARTICLE\nSelection of Eye-Tracking Stimuli for Prediction by Sparsely Grouped Input Variables for Neural Networks: towards Biomarker Refinement for Autism\nBeibin Li,Erin Barney,Caitlin Hudac,Nicholas Nuechterlein,Pamela Ventola, + 2\nArticle No.: 21, pp 1–8https://doi.org/10.1145/3379155.3391334\nEye tracking has become a powerful tool in the study of autism spectrum disorder (ASD). Current, large-scale efforts aim to identify specific eye-tracking stimuli to be used as biomarkers for ASD, with the intention of informing the diagnostic process, ...\n8248\n1",
-        "data": "June 2020",
-        "authors": [
-            "Nora Castner",
-            "Thomas C Kuebler",
-            "Katharina Scheiter",
-            "Juliane Richter",
-            "Therese Eder",
-            "Fabian Huettig",
-            "Constanze Keutel",
-            "Enkelejda Kasneci"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391320",
-        "citation": "23",
-        "abstract": "Modeling eye movement indicative of expertise behavior is decisive in user evaluation. However, it is indisputable that task semantics affect gaze behavior. We present a novel approach to gaze scanpath comparison that incorporates convolutional neural networks (CNN) to process scene information at the fixation level. Image patches linked to respective fixations are used as input for a CNN and the resulting feature vectors provide the temporal and spatial gaze information necessary for scanpath similarity comparison. We evaluated our proposed approach on gaze data from expert and novice dentists interpreting dental radiographs using a local alignment similarity score. Our approach was capable of distinguishing experts from novices with 93% accuracy while incorporating the image semantics. Moreover, our scanpath comparison using image patch features has the potential to incorporate task semantics from a variety of tasks."
-    },
-    {
-        "title": "Eyes on URLs: Relating Visual Behavior to Safety Decisions",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 5: Applications\nRESEARCH-ARTICLE\nDeep semantic gaze embedding and scanpath comparison for expertise classification during OPT viewing\nNora Castner,Thomas C Kuebler,Katharina Scheiter,Juliane Richter, + 4\nArticle No.: 18, pp 1–10https://doi.org/10.1145/3379155.3391320\nModeling eye movement indicative of expertise behavior is decisive in user evaluation. However, it is indisputable that task semantics affect gaze behavior. We present a novel approach to gaze scanpath comparison that incorporates convolutional neural ...\n23403\nRESEARCH-ARTICLE\nEyes on URLs: Relating Visual Behavior to Safety Decisions\nNiveta Ramkumar,Vijay Kothari,Caitlin Mills,Ross Koppel,Jim Blythe, + 2\nArticle No.: 19, pp 1–10https://doi.org/10.1145/3379155.3391328\nIndividual and organizational computer security rests on how people interpret and use the security information they are presented. One challenge is determining whether a given URL is safe or not. This paper explores the visual behaviors that users ...\n4200\nRESEARCH-ARTICLE\nModeling Metacomprehension Monitoring Accuracy with Eye Gaze on Informational Content in a Multimedia Learning Environment\nMegan D Wiedbusch,Roger Azevedo\nArticle No.: 20, pp 1–9https://doi.org/10.1145/3379155.3391329\nMultimedia learning environments support learners in developing self-regulated learning (SRL) strategies. However, capturing these strategies and cognitive processes can be difficult for researchers because cognition is often inferred, not directly ...\n8380\nRESEARCH-ARTICLE\nSelection of Eye-Tracking Stimuli for Prediction by Sparsely Grouped Input Variables for Neural Networks: towards Biomarker Refinement for Autism\nBeibin Li,Erin Barney,Caitlin Hudac,Nicholas Nuechterlein,Pamela Ventola, + 2\nArticle No.: 21, pp 1–8https://doi.org/10.1145/3379155.3391334\nEye tracking has become a powerful tool in the study of autism spectrum disorder (ASD). Current, large-scale efforts aim to identify specific eye-tracking stimuli to be used as biomarkers for ASD, with the intention of informing the diagnostic process, ...\n8248\n1",
-        "data": "June 2020",
-        "authors": [
-            "Niveta Ramkumar",
-            "Vijay Kothari",
-            "Caitlin Mills",
-            "Ross Koppel",
-            "Jim Blythe",
-            "Sean Smith",
-            "Andrew L Kun"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391328",
-        "citation": "4",
-        "abstract": "Individual and organizational computer security rests on how people interpret and use the security information they are presented. One challenge is determining whether a given URL is safe or not. This paper explores the visual behaviors that users employ to gauge URL safety. We conducted a user study on 20 participants wherein participants classified URLs as safe or unsafe while wearing an eye tracker that recorded eye gaze (where they look) and pupil dilation (a proxy for cognitive effort). Among other things, our findings suggest that: users have a cap on the amount of cognitive resources they are willing to expend on vetting a URL; they tend to believe that the presence of www in the domain name indicates that the URL is safe; and they do not carefully parse the URL beyond what they perceive as the domain name."
-    },
-    {
-        "title": "Modeling Metacomprehension Monitoring Accuracy with Eye Gaze on Informational Content in a Multimedia Learning Environment",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 5: Applications\nRESEARCH-ARTICLE\nDeep semantic gaze embedding and scanpath comparison for expertise classification during OPT viewing\nNora Castner,Thomas C Kuebler,Katharina Scheiter,Juliane Richter, + 4\nArticle No.: 18, pp 1–10https://doi.org/10.1145/3379155.3391320\nModeling eye movement indicative of expertise behavior is decisive in user evaluation. However, it is indisputable that task semantics affect gaze behavior. We present a novel approach to gaze scanpath comparison that incorporates convolutional neural ...\n23403\nRESEARCH-ARTICLE\nEyes on URLs: Relating Visual Behavior to Safety Decisions\nNiveta Ramkumar,Vijay Kothari,Caitlin Mills,Ross Koppel,Jim Blythe, + 2\nArticle No.: 19, pp 1–10https://doi.org/10.1145/3379155.3391328\nIndividual and organizational computer security rests on how people interpret and use the security information they are presented. One challenge is determining whether a given URL is safe or not. This paper explores the visual behaviors that users ...\n4200\nRESEARCH-ARTICLE\nModeling Metacomprehension Monitoring Accuracy with Eye Gaze on Informational Content in a Multimedia Learning Environment\nMegan D Wiedbusch,Roger Azevedo\nArticle No.: 20, pp 1–9https://doi.org/10.1145/3379155.3391329\nMultimedia learning environments support learners in developing self-regulated learning (SRL) strategies. However, capturing these strategies and cognitive processes can be difficult for researchers because cognition is often inferred, not directly ...\n8380\nRESEARCH-ARTICLE\nSelection of Eye-Tracking Stimuli for Prediction by Sparsely Grouped Input Variables for Neural Networks: towards Biomarker Refinement for Autism\nBeibin Li,Erin Barney,Caitlin Hudac,Nicholas Nuechterlein,Pamela Ventola, + 2\nArticle No.: 21, pp 1–8https://doi.org/10.1145/3379155.3391334\nEye tracking has become a powerful tool in the study of autism spectrum disorder (ASD). Current, large-scale efforts aim to identify specific eye-tracking stimuli to be used as biomarkers for ASD, with the intention of informing the diagnostic process, ...\n8248\n1",
-        "data": "June 2020",
-        "authors": [
-            "Megan D Wiedbusch",
-            "Roger Azevedo"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391329",
-        "citation": "8",
-        "abstract": "Multimedia learning environments support learners in developing self-regulated learning (SRL) strategies. However, capturing these strategies and cognitive processes can be difficult for researchers because cognition is often inferred, not directly measured. This study sought to model self-reported metacognitive judgments using eye-tracking from 60 undergraduate students as they learned about biological systems with MetaTutorIVH, a multimedia learning environment. We found that participants’ gaze behaviors were different between the perceived relevance of the instructional content provided regardless of the actual content relevance. Additionally, we fit a cumulative link mixed effects ordinal regression model to explain reported metacognitive judgments based on content fixations, relevance, and presentation type. Main effects were found for all variables and several interactions between both fixations and content relevance as well as content fixations and presentation type. Surprisingly, accurate metacognitive judgments did not explain performance. Implication for multimedia learning environment design are discussed."
-    },
-    {
-        "title": "Selection of Eye-Tracking Stimuli for Prediction by Sparsely Grouped Input Variables for Neural Networks: towards Biomarker Refinement for Autism",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 5: Applications\nRESEARCH-ARTICLE\nDeep semantic gaze embedding and scanpath comparison for expertise classification during OPT viewing\nNora Castner,Thomas C Kuebler,Katharina Scheiter,Juliane Richter, + 4\nArticle No.: 18, pp 1–10https://doi.org/10.1145/3379155.3391320\nModeling eye movement indicative of expertise behavior is decisive in user evaluation. However, it is indisputable that task semantics affect gaze behavior. We present a novel approach to gaze scanpath comparison that incorporates convolutional neural ...\n23403\nRESEARCH-ARTICLE\nEyes on URLs: Relating Visual Behavior to Safety Decisions\nNiveta Ramkumar,Vijay Kothari,Caitlin Mills,Ross Koppel,Jim Blythe, + 2\nArticle No.: 19, pp 1–10https://doi.org/10.1145/3379155.3391328\nIndividual and organizational computer security rests on how people interpret and use the security information they are presented. One challenge is determining whether a given URL is safe or not. This paper explores the visual behaviors that users ...\n4200\nRESEARCH-ARTICLE\nModeling Metacomprehension Monitoring Accuracy with Eye Gaze on Informational Content in a Multimedia Learning Environment\nMegan D Wiedbusch,Roger Azevedo\nArticle No.: 20, pp 1–9https://doi.org/10.1145/3379155.3391329\nMultimedia learning environments support learners in developing self-regulated learning (SRL) strategies. However, capturing these strategies and cognitive processes can be difficult for researchers because cognition is often inferred, not directly ...\n8380\nRESEARCH-ARTICLE\nSelection of Eye-Tracking Stimuli for Prediction by Sparsely Grouped Input Variables for Neural Networks: towards Biomarker Refinement for Autism\nBeibin Li,Erin Barney,Caitlin Hudac,Nicholas Nuechterlein,Pamela Ventola, + 2\nArticle No.: 21, pp 1–8https://doi.org/10.1145/3379155.3391334\nEye tracking has become a powerful tool in the study of autism spectrum disorder (ASD). Current, large-scale efforts aim to identify specific eye-tracking stimuli to be used as biomarkers for ASD, with the intention of informing the diagnostic process, ...\n8248\n1",
-        "data": "June 2020",
-        "authors": [
-            "Beibin Li",
-            "Erin Barney",
-            "Caitlin Hudac",
-            "Nicholas Nuechterlein",
-            "Pamela Ventola",
-            "Linda Shapiro",
-            "Frederick Shic"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391334",
-        "citation": "8",
-        "abstract": "Eye tracking has become a powerful tool in the study of autism spectrum disorder (ASD). Current, large-scale efforts aim to identify specific eye-tracking stimuli to be used as biomarkers for ASD, with the intention of informing the diagnostic process, monitoring therapeutic response, predicting outcomes, or identifying subgroups with the spectrum. However, there are hundreds of candidate experimental paradigms, each of which contains dozens or even hundreds of individual stimuli. Each stimuli is associated with an array of potential derived outcome variables, thus the number of variables to consider can be enormous. Standard variable selection techniques are not applicable to this problem, because selection must be done at the level of stimuli and not individual variables. In other words, this is a grouped variable selection problem. In this work, we apply lasso, group lasso, and a new technique, Sparsely Grouped Input Variables for Neural Network (SGIN), to select experimental stimuli for group discrimination and regression with clinical variables. Using a dataset obtained from children with and without ASD who were administered a battery containing 109 different stimuli presentations involving 9647 features, we are able to retain strong group separation even with only 11 out of the 109 stimuli. This work sets the stage for concerted techniques designed around engines to iteratively refine and define next-generation biomarkers using eye tracking for psychiatric conditions. http://github.com/beibinli/SGIN"
-    },
-    {
-        "title": "Towards inferring cognitive state changes from pupil size variations in real world conditions",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 6: Cognition\nRESEARCH-ARTICLE\nTowards inferring cognitive state changes from pupil size variations in real world conditions\nNaga Venkata Kartheek Medathati,Ruta Desai,James Hillis\nArticle No.: 22, pp 1–10https://doi.org/10.1145/3379155.3391319\nThe ability to infer cognitive state from pupil size provides an opportunity to reduce friction in human-computer interaction. For example, the computer could automatically turn off notifications when it detects, using pupil size, that the user is ...\n7330\nRESEARCH-ARTICLE\nCognitive Load during Eye-typing\nTanya Bafna,John Paulin Paulin Hansen,Per Baekgaard\nArticle No.: 23, pp 1–8https://doi.org/10.1145/3379155.3391333\nIn this paper, we have measured cognitive load during an interactive eye-tracking task. Eye-typing was chosen as the task, because of its familiarity, ubiquitousness and ease. Experiments with 18 participants, where they memorized and eye-typed easy and ...\n7400",
-        "data": "June 2020",
-        "authors": [
-            "Naga Venkata Kartheek Medathati",
-            "Ruta Desai",
-            "James Hillis"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391319",
-        "citation": "7",
-        "abstract": "The ability to infer cognitive state from pupil size provides an opportunity to reduce friction in human-computer interaction. For example, the computer could automatically turn off notifications when it detects, using pupil size, that the user is deeply focused on a task. However, our ability to do so has been limited. A principal reason for this is that pupil size varies with multiple factors (e.g., luminance and vergence), so isolating variations due to cognitive processes is challenging. In particular, rigorous benchmarks to detect cognitively-driven pupillary event from continuous stream of data in real-world settings have not been well-established. Motivated by these challenges, we first performed visual search experiments at room scale, with natural indoor conditions with real stimuli where the timing of the detection event was user-controlled. In spite of the natural experimental conditions, we found that the mean pupil dilation response to a cognitive state change (i.e., search target detected) was qualitatively similar and consistent with more controlled laboratory studies. Next, to address the challenge of detecting state changes from continuous data, we fit discriminant models using Support Vector Machine (SVM) computed on short epochs of 1-2 seconds extracted using rolling windows. We tested three different features (descriptive statistics, baseline corrected pupil size, and local Z-score) with our models. We obtained best performance using local Z-score as a feature (mean Area under the Curve (AUC) of 0.6). Our naturalistic experiments and modeling results provide a baseline for future research aimed at leveraging pupillometry for real-world applications."
-    },
-    {
-        "title": "Cognitive Load during Eye-typing",
-        "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
-        "Session": "SESSION: SESSION 6: Cognition\nRESEARCH-ARTICLE\nTowards inferring cognitive state changes from pupil size variations in real world conditions\nNaga Venkata Kartheek Medathati,Ruta Desai,James Hillis\nArticle No.: 22, pp 1–10https://doi.org/10.1145/3379155.3391319\nThe ability to infer cognitive state from pupil size provides an opportunity to reduce friction in human-computer interaction. For example, the computer could automatically turn off notifications when it detects, using pupil size, that the user is ...\n7330\nRESEARCH-ARTICLE\nCognitive Load during Eye-typing\nTanya Bafna,John Paulin Paulin Hansen,Per Baekgaard\nArticle No.: 23, pp 1–8https://doi.org/10.1145/3379155.3391333\nIn this paper, we have measured cognitive load during an interactive eye-tracking task. Eye-typing was chosen as the task, because of its familiarity, ubiquitousness and ease. Experiments with 18 participants, where they memorized and eye-typed easy and ...\n7400",
-        "data": "June 2020",
-        "authors": [
-            "Tanya Bafna",
-            "John Paulin Paulin Hansen",
-            "Per Baekgaard"
-        ],
-        "DOI": "https://doi.org/10.1145/3379155.3391333",
-        "citation": "7",
-        "abstract": "In this paper, we have measured cognitive load during an interactive eye-tracking task. Eye-typing was chosen as the task, because of its familiarity, ubiquitousness and ease. Experiments with 18 participants, where they memorized and eye-typed easy and difficult sentences over four days, were used to compare the difficulty levels of the tasks using subjective scores and eye-metrics like blink duration, frequency and interval and pupil dilation were explored, in addition to performance measures like typing speed, error rate and attended but not selected rate. Typing performance lowered with increased task difficulty, while blink frequency, duration and interval were higher for the difficult tasks. Pupil dilation indicated the memorization process, but did not demonstrate a difference between easy and difficult tasks."
-    }
+  {
+    "title": "Visual Search Target Inference in Natural Interaction Settings with Machine Learning",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 1: Methods",
+    "data": "June 2020",
+    "authors": ["Michael Barz", "Sven Stauden", "Daniel Sonntag"],
+    "DOI": "https://doi.org/10.1145/3379155.3391314",
+    "citation": "10",
+    "abstract": "Visual search is a perceptual task in which humans aim at identifying a search target object such as a traffic sign among other objects. Search target inference subsumes computational methods for predicting this target by tracking and analyzing overt behavioral cues of that person, e.g., the human gaze and fixated visual stimuli. We present a generic approach to inferring search targets in natural scenes by predicting the class of the surrounding image segment. Our method encodes visual search sequences as histograms of fixated segment classes determined by SegNet, a deep learning image segmentation model for natural scenes. We compare our sequence encoding and model training (SVM) to a recent baseline from the literature for predicting the target segment. Also, we use a new search target inference dataset. The results show that, first, our new segmentation-based sequence encoding outperforms the method from the literature, and second, that it enables target inference in natural settings."
+  },
+  {
+    "title": "Combining Gaze Estimation and Optical Flow for Pursuits Interaction",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 1: Methods",
+    "data": "June 2020",
+    "authors": [
+      "Mihai Bace",
+      "Vincent Becker",
+      "Chenyang Wang",
+      "Andreas Bulling"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391315",
+    "citation": "6",
+    "abstract": "Pursuit eye movements have become widely popular because they enable spontaneous eye-based interaction. However, existing methods to detect smooth pursuits require special-purpose eye trackers. We propose the first method to detect pursuits using a single off-the-shelf RGB camera in unconstrained remote settings. The key novelty of our method is that it combines appearance-based gaze estimation with optical flow in the eye region to jointly analyse eye movement dynamics in a single pipeline. We evaluate the performance and robustness of our method for different numbers of targets and trajectories in a 13-participant user study. We show that our method not only outperforms the current state of the art but also achieves competitive performance to a consumer eye tracker for a small number of targets. As such, our work points towards a new family of methods for pursuit interaction directly applicable to an ever-increasing number of devices readily equipped with cameras."
+  },
+  {
+    "title": "Analyzing Gaze Behavior Using Object Detection and Unsupervised Clustering",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 1: Methods",
+    "data": "June 2020",
+    "authors": [
+      "Pranav Venuprasad",
+      "Li Xu",
+      "Enoch Huang",
+      "Andrew Gilman",
+      "Leanne Chukoskie Ph.D.",
+      "Pamela Cosman"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391316",
+    "citation": "6",
+    "abstract": "Gaze behavior is important in early development, and atypical gaze behavior is among the first symptoms of autism. Here we describe a system that quantitatively assesses gaze behavior using eye-tracking glasses. Objects in the subject’s field of view are detected using a deep learning model on the video captured by the glasses’ world-view camera, and a stationary frame of reference is estimated using the positions of the detected objects. The gaze positions relative to the new frame of reference are subjected to unsupervised clustering to obtain the time sequence of looks. The clustering method increases the accuracy of look detection on test videos compared against a previous algorithm, and is considerably more robust on videos with poor calibration."
+  },
+  {
+    "title": "A MinHash approach for fast scanpath classification",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 1: Methods",
+    "data": "June 2020",
+    "authors": [
+      "David Geisler",
+      "Nora Castner",
+      "Gjergji Kasneci",
+      "Enkelejda Kasneci"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391325",
+    "citation": "3",
+    "abstract": "The visual scanpath describes the shift of visual attention over time. Characteristic patterns in the attention shifts allow inferences about cognitive processes, performed tasks, intention, or expertise. To analyse such patterns, the scanpath is often represented as a sequence of symbols that can be used to calculate a similarity score to other scanpaths. However, as the length of the scanpath or the number of possible symbols increases, established methods for scanpath similarity become inefficient, both in terms of runtime and memory consumption. We present a MinHash approach for efficient scanpath similarity calculation. Our approach shows competitive results in clustering and classification of scanpaths compared to established methods such as Needleman-Wunsch, but at a fraction of the required runtime. Furthermore, with time complexity of and constant memory consumption, our approach is ideally suited for real-time operation or analyzing large amounts of data."
+  },
+  {
+    "title": "Label Likelihood Maximisation: Adapting iris segmentation models using domain adaptation",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 1: Methods",
+    "data": "June 2020",
+    "authors": ["Anton Mølbjerg Eskildsen", "Dan Witzner Hansen"],
+    "DOI": "https://doi.org/10.1145/3379155.3391327",
+    "citation": "0",
+    "abstract": "We propose to use unlabelled eye image data for domain adaptation of an iris segmentation network. Adaptation allows the model to be less reliant on its initial generality. This is beneficial due to the large variance exhibited by eye image data which makes training of robust models difficult. The method uses a label prior in conjunction with network predictions to produce pseudo-labels. These are used in place of ground-truth data to adapt a base model. A fully connected neural network performs the pixel-wise iris segmentation. The base model is trained on synthetic data and adapted to several existing datasets with real-world eye images. The adapted models improve the average pupil centre detection rates by 24% at a distance of 25 pixels. We argue that the proposed method, and domain adaptation in general, is an interesting direction for increasing robustness of eye feature detectors."
+  },
+  {
+    "title": "Validation of a prototype hybrid eye-tracker against the DPI and the Tobii Spectrum",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 1: Methods",
+    "data": "June 2020",
+    "authors": [
+      "Kenneth Holmqvist",
+      "Saga Lee Orbom",
+      "Michael Miller",
+      "Albert Kashchenevsky",
+      "Mark M. Shovman",
+      "Mark W. Greenlee"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391330",
+    "citation": "4",
+    "abstract": "We benchmark a new hybrid eye-tracker system against the DPI (Dual Purkinje Imaging) tracker and the Tobii Spectrum in a series of three experiments. In a first within-subjects battery of tests, we show that the precision of the new eye-tracker is much better than that of both the DPI and the Spectrum, but that accuracy is not better. We also show that the new eye-tracker is insensitive to effects of pupil contraction on gaze direction (in contrast to both the DPI and the Spectrum), that it detects microsaccades on par with the DPI and better than the Spectrum, and that it can possibly record tremor. In the second experiment, sensors of the novel eye-tracker were integrated into the optical path of the DPI bench. Simultaneous recordings show that saccade dynamics, post-saccadic oscillations and measurements of translational movements are comparable to those of the DPI. In the third experiment, we show that the DPI and the new eye-tracker are capable of detecting 2 arcmin artificial-eye rotations while the Spectrum cannot. Results suggest that the new eye-tracker, in contrast to video-based P-CR systems [Holmqvist and Blignaut 2020], is suitable for studies that record small eye-movements under varying ambient light levels."
+  },
+  {
+    "title": "Anticipating Averted Gaze in Dyadic Interactions",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 1: Methods",
+    "data": "June 2020",
+    "authors": ["Philipp Müller", "Ekta Sood", "Andreas Bulling"],
+    "DOI": "https://doi.org/10.1145/3379155.3391332",
+    "citation": "8",
+    "abstract": "We present the first method to anticipate averted gaze in natural dyadic interactions. The task of anticipating averted gaze, i.e. that a person will not make eye contact in the near future, remains unsolved despite its importance for human social encounters as well as a number of applications, including human-robot interaction or conversational agents. Our multimodal method is based on a long short-term memory (LSTM) network that analyses non-verbal facial cues and speaking behaviour. We empirically evaluate our method for different future time horizons on a novel dataset of 121 YouTube videos of dyadic video conferences (74 hours in total). We investigate person-specific and person-independent performance and demonstrate that our method clearly outperforms baselines in both settings. As such, our work sheds light on the tight interplay between eye contact and other non-verbal signals and underlines the potential of computational modelling and anticipation of averted gaze for interactive applications."
+  },
+  {
+    "title": "BimodalGaze: Seamlessly Refined Pointing with Gaze and Filtered Gestural Head Movement",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 2: User Interfaces and Interaction",
+    "data": "June 2020",
+    "authors": [
+      "Ludwig Sidenmark",
+      "Diako Mardanbegi",
+      "Argenis Ramirez Gomez",
+      "Christopher Clarke",
+      "Hans Gellersen"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391312",
+    "citation": "23",
+    "abstract": "Eye gaze is a fast and ergonomic modality for pointing but limited in precision and accuracy. In this work, we introduce BimodalGaze, a novel technique for seamless head-based refinement of a gaze cursor. The technique leverages eye-head coordination insights to separate natural from gestural head movement. This allows users to quickly shift their gaze to targets over larger fields of view with naturally combined eye-head movement, and to refine the cursor position with gestural head movement. In contrast to an existing baseline, head refinement is invoked automatically, and only if a target is not already acquired by the initial gaze shift. Study results show that users reliably achieve fine-grained target selection, but we observed a higher rate of initial selection errors affecting overall performance. An in-depth analysis of user performance provides insight into the classification of natural versus gestural head movement, for improvement of BimodalGaze and other potential applications."
+  },
+  {
+    "title": "A Survey of Digital Eye Strain in Gaze-Based Interactive Systems",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 2: User Interfaces and Interaction",
+    "data": "June 2020",
+    "authors": [
+      "Teresa Hirzle",
+      "Maurice Cordts",
+      "Enrico Rukzio",
+      "Andreas Bulling"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391313",
+    "citation": "11",
+    "abstract": "Display-based interfaces pose high demands on users’ eyes that can cause severe vision and eye problems, also known as digital eye strain (DES). Although these problems can become even more severe if the eyes are actively used for interaction, prior work on gaze-based interfaces has largely neglected these risks. We offer the first comprehensive account of DES in gaze-based interactive systems that is specifically geared to gaze interaction designers. Through an extensive survey of more than 400 papers published over the last 46 years, we first discuss the current role of DES in interactive systems. One key finding is that DES is only rarely considered when evaluating novel gaze interfaces and neglected in discussions of usability. We identify the main causes and solutions to DES and derive recommendations for interaction designers on how to guide future research on evaluating and alleviating DES."
+  },
+  {
+    "title": "Detecting Relevance during Decision-Making from Eye Movements for UI Adaptation",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 2: User Interfaces and Interaction",
+    "data": "June 2020",
+    "authors": [
+      "Anna Maria Feit",
+      "Lukas Vordemann",
+      "Seonwook Park",
+      "Caterina Berube",
+      "Otmar Hilliges"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391321",
+    "citation": "9",
+    "abstract": "This paper proposes an approach to detect information relevance during decision-making from eye movements in order to enable user interface adaptation. This is a challenging task because gaze behavior varies greatly across individual users and tasks and ground-truth data is difficult to obtain. Thus, prior work has mostly focused on simpler target-search tasks or on establishing general interest, where gaze behavior is less complex. From the literature, we identify six metrics that capture different aspects of the gaze behavior during decision-making and combine them in a voting scheme. We empirically show, that this accounts for the large variations in gaze behavior and out-performs standalone metrics. Importantly, it offers an intuitive way to control the amount of detected information, which is crucial for different UI adaptation schemes to succeed. We show the applicability of our approach by developing a room-search application that changes the visual saliency of content detected as relevant. In an empirical study, we show that it detects up to 97% of relevant elements with respect to user self-reporting, which allows us to meaningfully adapt the interface, as confirmed by participants. Our approach is fast, does not need any explicit user input and can be applied independent of task and user."
+  },
+  {
+    "title": "Bubble Gaze Cursor + Bubble Gaze Lens: Applying Area Cursor Technique to Eye-Gaze Interface",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 2: User Interfaces and Interaction",
+    "data": "June 2020",
+    "authors": ["Myungguen Choi", "Daisuke Sakamoto", "Tetsuo Ono"],
+    "DOI": "https://doi.org/10.1145/3379155.3391322",
+    "citation": "8",
+    "abstract": "We conducted two studies exploring how an area cursor technique can improve the eye-gaze interface. We first examined the bubble cursor technique. We developed an eye-gaze-based cursor called the bubble gaze cursor and compared it to a standard eye-gaze interface and a bubble cursor with a mouse. The results revealed that the bubble gaze cursor interface was faster than the standard point cursor-based eye-gaze interface. In addition, the usability and mental workload were significantly better than those of the standard interface. Next, we extended the bubble gaze cursor technique and developed a bubble gaze lens. The results indicated that the bubble gaze lens technique was faster than the bubble gaze cursor method and the error rate was reduced by 54.0%. The usability and mental workload were also considerably better than those of the bubble gaze cursor."
+  },
+  {
+    "title": "Eye Gaze Controlled Robotic Arm for Persons with Severe Speech and Motor Impairment",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 2: User Interfaces and Interaction",
+    "data": "June 2020",
+    "authors": [
+      "Vinay Krishna Sharma",
+      "Kamalpreet Saluja",
+      "Vimal Mollyn",
+      "Pradipta Biswas"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391324",
+    "citation": "7",
+    "abstract": "Recent advancements in the field of robotics offers new promises for people with different range of abilities although making a human robot interface for people with severe disabilities is challenging. This paper describes the design and development of an eye gaze controlled interface for users with severe speech and motor impairment to manipulate a robotic arm. Two user studies were reported on pick and drop and reachability studies involving users with severe speech and motor impairment. Using the eye gaze controlled interface users could undertake representative pick and drop task at an average duration less than 15 secs and reach a randomly designated target within 60 secs."
+  },
+  {
+    "title": "Dataset for Eye Tracking on a Virtual Reality Platform",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 3: Virtual Reality",
+    "data": "June 2020",
+    "authors": [
+      "Stephan Joachim Garbin",
+      "Oleg Komogortsev",
+      "Robert Cavin",
+      "Gregory Hughes",
+      "Yiru Shen",
+      "Immo Schuetz",
+      "Sachin S Talathi"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391317",
+    "citation": "8",
+    "abstract": "We present a large scale data set of eye-images captured using a virtual-reality (VR) head mounted display mounted with two synchronized eye-facing cameras at a frame rate of 200 Hz under controlled illumination. This dataset is compiled from video capture of the eye-region collected from 152 individual participants and is divided into four subsets: (i) 12,759 images with pixel-level annotations for key eye-regions: iris, pupil and sclera (ii) 252,690 unlabeled eye-images, (iii) 91,200 frames from randomly selected video sequences of 1.5 seconds in duration, and (iv) 143 pairs of left and right point cloud data compiled from corneal topography of eye regions collected from a subset, 143 out of 152, participants in the study. A baseline experiment has been evaluated on the dataset for the task of semantic segmentation of pupil, iris, sclera and background, with the mean intersection-over-union (mIoU) of 98.3 %. We anticipate that this dataset will create opportunities to researchers in the eye tracking community and the broader machine learning and computer vision community to advance the state of eye-tracking for VR applications, which in its turn will have greater implications in Human-Computer Interaction."
+  },
+  {
+    "title": "Effect of a Constant Camera Rotation on the Visibility of Transsaccadic Camera Shifts",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 3: Virtual Reality",
+    "data": "June 2020",
+    "authors": ["Maryam Keyvanara", "Robert Allison"],
+    "DOI": "https://doi.org/10.1145/3379155.3391318",
+    "citation": "1",
+    "abstract": "Often in 3D games and virtual reality, changes in fixation occur during locomotion or other simulated head movements. We investigated whether a constant camera rotation in a virtual scene modulates saccadic suppression. The users viewed 3D scenes from the vantage point of a virtual camera which was either stationary or rotated at a constant rate about a vertical axis (camera pan) or horizontal axis (camera tilt). During this motion, observers fixated an object that was suddenly displaced horizontally/vertically in the scene, triggering them to produce a saccade. During the saccade an additional sudden movement was applied to the virtual camera. We estimated discrimination thresholds for these transsaccadic camera shifts using a Bayesian adaptive procedure. With an ongoing camera pan, we found higher thresholds (less noticeability) for additional sudden horizontal camera motion. Likewise, during simulated vertical head movements (i.e. a camera tilt), vertical transsaccadic image displacements were better hidden from the users for both horizontal and vertical saccades. Understanding the effect of continuous movement on the visibility of a sudden transsaccadic change can help optimize the visual performance of gaze-contingent displays and improve user experience."
+  },
+  {
+    "title": "Gaze-Adaptive Lenses for Feature-Rich Information Spaces",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 4: Visualization",
+    "data": "June 2020",
+    "authors": [
+      "Fabian Goebel",
+      "Kuno Kurzhals",
+      "Victor R. Schinazi",
+      "Peter Kiefer",
+      "Martin Raubal"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391323",
+    "citation": "2",
+    "abstract": "The inspection of feature-rich information spaces often requires supportive tools that reduce visual clutter without sacrificing details. One common approach is to use focus+context lenses that provide multiple views of the data. While these lenses present local details together with global context, they require additional manual interaction. In this paper, we discuss the design space for gaze-adaptive lenses and present an approach that automatically displays additional details with respect to visual focus. We developed a prototype for a map application capable of displaying names and star-ratings of different restaurants. In a pilot study, we compared the gaze-adaptive lens to a mouse-only system in terms of efficiency, effectiveness, and usability. Our results revealed that participants were faster in locating the restaurants and more accurate in a map drawing task when using the gaze-adaptive lens. We discuss these results in relation to observed search strategies and inspected map areas."
+  },
+  {
+    "title": "Visual Analytics and Annotation of Pervasive Eye Tracking Video",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 4: Visualization",
+    "data": "June 2020",
+    "authors": [
+      "Kuno Kurzhals",
+      "Nils Rodrigues",
+      "Maurice Koch",
+      "Michael Stoll",
+      "Andres Bruhn",
+      "Andreas Bulling",
+      "Daniel Weiskopf"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391326",
+    "citation": "3",
+    "abstract": "We propose a new technique for visual analytics and annotation of long-term pervasive eye tracking data for which a combined analysis of gaze and egocentric video is necessary. Our approach enables two important tasks for such data for hour-long videos from individual participants: (1) efficient annotation and (2) direct interpretation of the results. Exemplary time spans can be selected by the user and are then used as a query that initiates a fuzzy search of similar time spans based on gaze and video features. In an iterative refinement loop, the query interface then provides suggestions for the importance of individual features to improve the search results. A multi-layered timeline visualization shows an overview of annotated time spans. We demonstrate the efficiency of our approach for analyzing activities in about seven hours of video in a case study and discuss feedback on our approach from novices and experts performing the annotation task."
+  },
+  {
+    "title": "Teaching Eye Tracking Visual Analytics in Computer and Data Science Bachelor Courses",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 4: Visualization",
+    "data": "June 2020",
+    "authors": ["Michael Burch"],
+    "DOI": "https://doi.org/10.1145/3379155.3391331",
+    "citation": "3",
+    "abstract": "Making students aware of eye tracking technologies can have a great benefit on the entire application field since they may build the next generation of eye tracking researchers. On the one hand students learn the usefulness and benefits of this technique for different scientific purposes like user evaluation to find design flaws or visual attention strategies, gaze-assisted interaction to enhance and augment traditional interaction techniques, or as a means to improve virtual reality experiences. However, on the other hand, the large amount of recorded data means a challenge for data analytics in order to find rules, patterns, but also anomalies in the data, finally leading to insights and knowledge to understand or predict eye movement patterns which can have synergy effects for both disciplines - eye tracking and visual analytics. In this paper we will describe the challenges of teaching eye tracking combined with visual analytics in a computer and data science bachelor course with 42 students in an active learning scenario following four teaching stages. Some of the student project results are shown to demonstrate learning outcomes with respect to eye tracking data analysis and visual analytics techniques."
+  },
+  {
+    "title": "Deep semantic gaze embedding and scanpath comparison for expertise classification during OPT viewing",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 5: Applications",
+    "data": "June 2020",
+    "authors": [
+      "Nora Castner",
+      "Thomas C Kuebler",
+      "Katharina Scheiter",
+      "Juliane Richter",
+      "Therese Eder",
+      "Fabian Huettig",
+      "Constanze Keutel",
+      "Enkelejda Kasneci"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391320",
+    "citation": "23",
+    "abstract": "Modeling eye movement indicative of expertise behavior is decisive in user evaluation. However, it is indisputable that task semantics affect gaze behavior. We present a novel approach to gaze scanpath comparison that incorporates convolutional neural networks (CNN) to process scene information at the fixation level. Image patches linked to respective fixations are used as input for a CNN and the resulting feature vectors provide the temporal and spatial gaze information necessary for scanpath similarity comparison. We evaluated our proposed approach on gaze data from expert and novice dentists interpreting dental radiographs using a local alignment similarity score. Our approach was capable of distinguishing experts from novices with 93% accuracy while incorporating the image semantics. Moreover, our scanpath comparison using image patch features has the potential to incorporate task semantics from a variety of tasks."
+  },
+  {
+    "title": "Eyes on URLs: Relating Visual Behavior to Safety Decisions",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 5: Applications",
+    "data": "June 2020",
+    "authors": [
+      "Niveta Ramkumar",
+      "Vijay Kothari",
+      "Caitlin Mills",
+      "Ross Koppel",
+      "Jim Blythe",
+      "Sean Smith",
+      "Andrew L Kun"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391328",
+    "citation": "4",
+    "abstract": "Individual and organizational computer security rests on how people interpret and use the security information they are presented. One challenge is determining whether a given URL is safe or not. This paper explores the visual behaviors that users employ to gauge URL safety. We conducted a user study on 20 participants wherein participants classified URLs as safe or unsafe while wearing an eye tracker that recorded eye gaze (where they look) and pupil dilation (a proxy for cognitive effort). Among other things, our findings suggest that: users have a cap on the amount of cognitive resources they are willing to expend on vetting a URL; they tend to believe that the presence of www in the domain name indicates that the URL is safe; and they do not carefully parse the URL beyond what they perceive as the domain name."
+  },
+  {
+    "title": "Modeling Metacomprehension Monitoring Accuracy with Eye Gaze on Informational Content in a Multimedia Learning Environment",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 5: Applications",
+    "data": "June 2020",
+    "authors": ["Megan D Wiedbusch", "Roger Azevedo"],
+    "DOI": "https://doi.org/10.1145/3379155.3391329",
+    "citation": "8",
+    "abstract": "Multimedia learning environments support learners in developing self-regulated learning (SRL) strategies. However, capturing these strategies and cognitive processes can be difficult for researchers because cognition is often inferred, not directly measured. This study sought to model self-reported metacognitive judgments using eye-tracking from 60 undergraduate students as they learned about biological systems with MetaTutorIVH, a multimedia learning environment. We found that participants’ gaze behaviors were different between the perceived relevance of the instructional content provided regardless of the actual content relevance. Additionally, we fit a cumulative link mixed effects ordinal regression model to explain reported metacognitive judgments based on content fixations, relevance, and presentation type. Main effects were found for all variables and several interactions between both fixations and content relevance as well as content fixations and presentation type. Surprisingly, accurate metacognitive judgments did not explain performance. Implication for multimedia learning environment design are discussed."
+  },
+  {
+    "title": "Selection of Eye-Tracking Stimuli for Prediction by Sparsely Grouped Input Variables for Neural Networks: towards Biomarker Refinement for Autism",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 5: Applications",
+    "data": "June 2020",
+    "authors": [
+      "Beibin Li",
+      "Erin Barney",
+      "Caitlin Hudac",
+      "Nicholas Nuechterlein",
+      "Pamela Ventola",
+      "Linda Shapiro",
+      "Frederick Shic"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391334",
+    "citation": "8",
+    "abstract": "Eye tracking has become a powerful tool in the study of autism spectrum disorder (ASD). Current, large-scale efforts aim to identify specific eye-tracking stimuli to be used as biomarkers for ASD, with the intention of informing the diagnostic process, monitoring therapeutic response, predicting outcomes, or identifying subgroups with the spectrum. However, there are hundreds of candidate experimental paradigms, each of which contains dozens or even hundreds of individual stimuli. Each stimuli is associated with an array of potential derived outcome variables, thus the number of variables to consider can be enormous. Standard variable selection techniques are not applicable to this problem, because selection must be done at the level of stimuli and not individual variables. In other words, this is a grouped variable selection problem. In this work, we apply lasso, group lasso, and a new technique, Sparsely Grouped Input Variables for Neural Network (SGIN), to select experimental stimuli for group discrimination and regression with clinical variables. Using a dataset obtained from children with and without ASD who were administered a battery containing 109 different stimuli presentations involving 9647 features, we are able to retain strong group separation even with only 11 out of the 109 stimuli. This work sets the stage for concerted techniques designed around engines to iteratively refine and define next-generation biomarkers using eye tracking for psychiatric conditions. http://github.com/beibinli/SGIN"
+  },
+  {
+    "title": "Towards inferring cognitive state changes from pupil size variations in real world conditions",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 6: Cognition",
+    "data": "June 2020",
+    "authors": [
+      "Naga Venkata Kartheek Medathati",
+      "Ruta Desai",
+      "James Hillis"
+    ],
+    "DOI": "https://doi.org/10.1145/3379155.3391319",
+    "citation": "7",
+    "abstract": "The ability to infer cognitive state from pupil size provides an opportunity to reduce friction in human-computer interaction. For example, the computer could automatically turn off notifications when it detects, using pupil size, that the user is deeply focused on a task. However, our ability to do so has been limited. A principal reason for this is that pupil size varies with multiple factors (e.g., luminance and vergence), so isolating variations due to cognitive processes is challenging. In particular, rigorous benchmarks to detect cognitively-driven pupillary event from continuous stream of data in real-world settings have not been well-established. Motivated by these challenges, we first performed visual search experiments at room scale, with natural indoor conditions with real stimuli where the timing of the detection event was user-controlled. In spite of the natural experimental conditions, we found that the mean pupil dilation response to a cognitive state change (i.e., search target detected) was qualitatively similar and consistent with more controlled laboratory studies. Next, to address the challenge of detecting state changes from continuous data, we fit discriminant models using Support Vector Machine (SVM) computed on short epochs of 1-2 seconds extracted using rolling windows. We tested three different features (descriptive statistics, baseline corrected pupil size, and local Z-score) with our models. We obtained best performance using local Z-score as a feature (mean Area under the Curve (AUC) of 0.6). Our naturalistic experiments and modeling results provide a baseline for future research aimed at leveraging pupillometry for real-world applications."
+  },
+  {
+    "title": "Cognitive Load during Eye-typing",
+    "conferenceTitle": "ETRA '20 Full Papers: ACM Symposium on Eye Tracking Research and Applications",
+    "Session": "SESSION: SESSION 6: Cognition",
+    "data": "June 2020",
+    "authors": ["Tanya Bafna", "John Paulin Paulin Hansen", "Per Baekgaard"],
+    "DOI": "https://doi.org/10.1145/3379155.3391333",
+    "citation": "7",
+    "abstract": "In this paper, we have measured cognitive load during an interactive eye-tracking task. Eye-typing was chosen as the task, because of its familiarity, ubiquitousness and ease. Experiments with 18 participants, where they memorized and eye-typed easy and difficult sentences over four days, were used to compare the difficulty levels of the tasks using subjective scores and eye-metrics like blink duration, frequency and interval and pupil dilation were explored, in addition to performance measures like typing speed, error rate and attended but not selected rate. Typing performance lowered with increased task difficulty, while blink frequency, duration and interval were higher for the difficult tasks. Pupil dilation indicated the memorization process, but did not demonstrate a difference between easy and difficult tasks."
+  }
 ]
