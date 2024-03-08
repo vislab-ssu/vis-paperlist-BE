@@ -87,9 +87,18 @@ async function getPaper(req: Request, res: Response) {
     let connection = await db.getConnection();
 
     let [papers, fields] = await connection
+      // .query(
+      //   `SELECT * FROM papers p\
+      //   JOIN journals j ON p.conference_session_id=j.id\
+      //   WHERE ${search} LIKE "%"?"%"\
+      //   `,
+      //   [query]
+      // )
       .query(
-        `SELECT * FROM papers p\
+        `SELECT p.id AS pid, p.abstract, p.title, p.author, p.conference_session_id, p.date, p.DOI, p.citation,\
+        j.id, j.name, j.upper_category_id, j.year, jo.name AS joname FROM papers p\
         JOIN journals j ON p.conference_session_id=j.id\
+        LEFT JOIN journals jo ON j.upper_category_id=jo.id\
         WHERE ${search} LIKE "%"?"%"\
         `,
         [query]
