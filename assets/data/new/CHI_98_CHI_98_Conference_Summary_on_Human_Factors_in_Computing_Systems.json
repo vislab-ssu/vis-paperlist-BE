@@ -1,366 +1,622 @@
 [
-    {
-        "title": "An interpreted demonstration of computer game design",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Chuck Clanton"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286499",
-        "citation": "71",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Double agent—presentation and filtering agents for a digital television recording system",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Peter Meuleman",
-            "Anita Heister",
-            "Han Kohar",
-            "Douglas Tedd"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286500",
-        "citation": "8",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Microcosm: support for virtual communities via an on-line graphical environment",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Ellen A. Isaacs"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286501",
-        "citation": "2",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Evolution of the talking dinosaur: the (not so) natural history of a new interface for children",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Kirsten Alexander",
-            "Erik Strommen"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286502",
-        "citation": "3",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Participatory simulations: using computational objects to learn about dynamic systems",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Vanessa Colella",
-            "Richard Borovoy",
-            "Mitchel Resnick"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286503",
-        "citation": "51",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Grammex: defining grammars by example",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Henry Lieberman",
-            "Bonnie A. Nardi",
-            "David Wright"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286504",
-        "citation": "3",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "IBM RealThings",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "John Mullaly"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286505",
-        "citation": "1",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Augment, bootstrap communities, the Web: what next?",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Douglas C. Engelbart"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286506",
-        "citation": "2",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Xerox Star live demonstration",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "David Canfield Smith",
-            "Charles H. Irby"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286507",
-        "citation": "3",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "The Lisa user interface",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Frank Ludolph",
-            "Roderick Perkins"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286508",
-        "citation": "5",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Classroom 2000: a system for capturing and accessing multimedia classroom experiences",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Gregory D. Abowd",
-            "Jason Brotherton",
-            "Janak Bhalodia"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286509",
-        "citation": "17",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "XLibris: the active reading machine",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Morgan N. Price",
-            "Bill N. Schilit",
-            "Gene Golovchinsky"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286510",
-        "citation": "33",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Pegasus: a drawing system for rapid geometric design",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Takeo Igarashi",
-            "Sachiko Kawachiya",
-            "Hidehiko Tanaka",
-            "Satoshi Matsuoka"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286511",
-        "citation": "40",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Alice: easy to learn interactive 3D graphics",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Jeffrey S. Pierce",
-            "Kevin Christiansen",
-            "Dennis Cosgrove",
-            "Matt Conway",
-            "Dan Moskowitz",
-            "Brian Stearns",
-            "Chris Sturgill",
-            "Randy Pausch"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286512",
-        "citation": "5",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Visualizing medical records with LifeLines",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Catherine Plaisant",
-            "Daniel Heller",
-            "Jia Li",
-            "Ben Shneiderman",
-            "Rich Mushlin",
-            "John Karat"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286513",
-        "citation": "8",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Incremental improvements in physician-computer interaction in response to clinical needs and user feedback",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Edward P. Cutolo",
-            "Nicholas A. Coblio",
-            "Paul McCright",
-            "Michael T. McCormick",
-            "Willard S. Harris"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286514",
-        "citation": "1",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Impediments to the integrated use of computers in the classroom",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Dean Eichorn"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286515",
-        "citation": "0",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "On overcoming the barriers to computer usage in high schools",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Rocky Harris"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286516",
-        "citation": "0",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Information technology in the Czech secondary schools",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Božena (Boba) Mannová"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286517",
-        "citation": "0",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "The method of teaching expert systems used in the manufacturing process",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Cezary Orlowski"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286518",
-        "citation": "0",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Activation energy required with classroom computers",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Charles Rencsok"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286519",
-        "citation": "0",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Teaching computers the young and the adults: observations on learning style differences",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Marcin Sikorski"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286520",
-        "citation": "4",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "What's in it for kids?",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Cynthia Solomon"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286521",
-        "citation": "1",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "What is wrong with computer-mediated communication (CMC)—an educator's point of view",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Peter Soreanu"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286522",
-        "citation": "0",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Graphical style sheets: towards reusable representations of biomedical graphics",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Raman M. Felciano",
-            "Russ Altman"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286523",
-        "citation": "1",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Intelligent tutoring systems have forgotten the tutor: adding a cognitive model of human tutors",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Neil T. Heffernan"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286524",
-        "citation": "2",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "The low-level cognitive processes involved in the visual search of pull-down menus and computer screens, as revealed by cognitive modeling",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Anthony J. Hornof"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286525",
-        "citation": "2",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Toward effective algorithm visualization artifacts: designing for participation and negotiation in an undergraduate algorithms course",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Christopher D. Hundhausen"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286526",
-        "citation": "14",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Computational implications of human navigation in multiscale electronic worlds",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Susanne Jul"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286527",
-        "citation": "0",
-        "abstract": "No abstract available."
-    },
-    {
-        "title": "Improving gestures and interaction techniques for pen-based user interfaces",
-        "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
-        "data": "April 1998",
-        "authors": [
-            "Allan Christian Long"
-        ],
-        "DOI": "https://doi.org/10.1145/286498.286528",
-        "citation": "2",
-        "abstract": "No abstract available."
-    }
+  {
+    "title": "An interpreted demonstration of computer game design",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Chuck Clanton"],
+    "DOI": "https://doi.org/10.1145/286498.286499",
+    "citation": "71",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Double agent—presentation and filtering agents for a digital television recording system",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Peter Meuleman", "Anita Heister", "Han Kohar", "Douglas Tedd"],
+    "DOI": "https://doi.org/10.1145/286498.286500",
+    "citation": "8",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Microcosm: support for virtual communities via an on-line graphical environment",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Ellen A. Isaacs"],
+    "DOI": "https://doi.org/10.1145/286498.286501",
+    "citation": "2",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Evolution of the talking dinosaur: the (not so) natural history of a new interface for children",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Kirsten Alexander", "Erik Strommen"],
+    "DOI": "https://doi.org/10.1145/286498.286502",
+    "citation": "3",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Participatory simulations: using computational objects to learn about dynamic systems",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Vanessa Colella", "Richard Borovoy", "Mitchel Resnick"],
+    "DOI": "https://doi.org/10.1145/286498.286503",
+    "citation": "51",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Grammex: defining grammars by example",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Henry Lieberman", "Bonnie A. Nardi", "David Wright"],
+    "DOI": "https://doi.org/10.1145/286498.286504",
+    "citation": "3",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "IBM RealThings",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["John Mullaly"],
+    "DOI": "https://doi.org/10.1145/286498.286505",
+    "citation": "1",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Augment, bootstrap communities, the Web: what next?",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Douglas C. Engelbart"],
+    "DOI": "https://doi.org/10.1145/286498.286506",
+    "citation": "2",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Xerox Star live demonstration",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["David Canfield Smith", "Charles H. Irby"],
+    "DOI": "https://doi.org/10.1145/286498.286507",
+    "citation": "3",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "The Lisa user interface",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Frank Ludolph", "Roderick Perkins"],
+    "DOI": "https://doi.org/10.1145/286498.286508",
+    "citation": "5",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Classroom 2000: a system for capturing and accessing multimedia classroom experiences",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Gregory D. Abowd", "Jason Brotherton", "Janak Bhalodia"],
+    "DOI": "https://doi.org/10.1145/286498.286509",
+    "citation": "17",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "XLibris: the active reading machine",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Morgan N. Price", "Bill N. Schilit", "Gene Golovchinsky"],
+    "DOI": "https://doi.org/10.1145/286498.286510",
+    "citation": "33",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Pegasus: a drawing system for rapid geometric design",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": [
+      "Takeo Igarashi",
+      "Sachiko Kawachiya",
+      "Hidehiko Tanaka",
+      "Satoshi Matsuoka"
+    ],
+    "DOI": "https://doi.org/10.1145/286498.286511",
+    "citation": "40",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Alice: easy to learn interactive 3D graphics",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": [
+      "Jeffrey S. Pierce",
+      "Kevin Christiansen",
+      "Dennis Cosgrove",
+      "Matt Conway",
+      "Dan Moskowitz",
+      "Brian Stearns",
+      "Chris Sturgill",
+      "Randy Pausch"
+    ],
+    "DOI": "https://doi.org/10.1145/286498.286512",
+    "citation": "5",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Visualizing medical records with LifeLines",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": [
+      "Catherine Plaisant",
+      "Daniel Heller",
+      "Jia Li",
+      "Ben Shneiderman",
+      "Rich Mushlin",
+      "John Karat"
+    ],
+    "DOI": "https://doi.org/10.1145/286498.286513",
+    "citation": "8",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Incremental improvements in physician-computer interaction in response to clinical needs and user feedback",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": [
+      "Edward P. Cutolo",
+      "Nicholas A. Coblio",
+      "Paul McCright",
+      "Michael T. McCormick",
+      "Willard S. Harris"
+    ],
+    "DOI": "https://doi.org/10.1145/286498.286514",
+    "citation": "1",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Impediments to the integrated use of computers in the classroom",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Dean Eichorn"],
+    "DOI": "https://doi.org/10.1145/286498.286515",
+    "citation": "0",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "On overcoming the barriers to computer usage in high schools",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Rocky Harris"],
+    "DOI": "https://doi.org/10.1145/286498.286516",
+    "citation": "0",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Information technology in the Czech secondary schools",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Božena (Boba) Mannová"],
+    "DOI": "https://doi.org/10.1145/286498.286517",
+    "citation": "0",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "The method of teaching expert systems used in the manufacturing process",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Cezary Orlowski"],
+    "DOI": "https://doi.org/10.1145/286498.286518",
+    "citation": "0",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Activation energy required with classroom computers",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Charles Rencsok"],
+    "DOI": "https://doi.org/10.1145/286498.286519",
+    "citation": "0",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Teaching computers the young and the adults: observations on learning style differences",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Marcin Sikorski"],
+    "DOI": "https://doi.org/10.1145/286498.286520",
+    "citation": "4",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "What's in it for kids?",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Cynthia Solomon"],
+    "DOI": "https://doi.org/10.1145/286498.286521",
+    "citation": "1",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "What is wrong with computer-mediated communication (CMC)—an educator's point of view",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Peter Soreanu"],
+    "DOI": "https://doi.org/10.1145/286498.286522",
+    "citation": "0",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Graphical style sheets: towards reusable representations of biomedical graphics",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Raman M. Felciano", "Russ Altman"],
+    "DOI": "https://doi.org/10.1145/286498.286523",
+    "citation": "1",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Intelligent tutoring systems have forgotten the tutor: adding a cognitive model of human tutors",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Neil T. Heffernan"],
+    "DOI": "https://doi.org/10.1145/286498.286524",
+    "citation": "2",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "The low-level cognitive processes involved in the visual search of pull-down menus and computer screens, as revealed by cognitive modeling",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Anthony J. Hornof"],
+    "DOI": "https://doi.org/10.1145/286498.286525",
+    "citation": "2",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Toward effective algorithm visualization artifacts: designing for participation and negotiation in an undergraduate algorithms course",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Christopher D. Hundhausen"],
+    "DOI": "https://doi.org/10.1145/286498.286526",
+    "citation": "14",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Computational implications of human navigation in multiscale electronic worlds",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Susanne Jul"],
+    "DOI": "https://doi.org/10.1145/286498.286527",
+    "citation": "0",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Improving gestures and interaction techniques for pen-based user interfaces",
+    "conferenceTitle": "CHI '98: CHI 98 Conference Summary on Human Factors in Computing Systems",
+    "data": "April 1998",
+    "authors": ["Allan Christian Long"],
+    "DOI": "https://doi.org/10.1145/286498.286528",
+    "citation": "2",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "NaviPoint: an input device for mobile information browsing",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Kiyokuni Kawachiya", "Hiroshi Ishikawa"],
+    "DOI": "https://doi.org/10.1145/274644.274645",
+    "citation": "14",
+    "abstract": "NONE"
+  },
+  {
+    "title": "The PadMouse: facilitating selection and spatial positioning for the non-dominant hand",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Ravin Balakrishnan", "Pranay Patel"],
+    "DOI": "https://doi.org/10.1145/274644.274646",
+    "citation": "30",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Squeeze me, hold me, tilt me! An exploration of manipulative user interfaces",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": [
+      "Beverly L. Harrison",
+      "Kenneth P. Fishkin",
+      "Anuj Gujar",
+      "Carlos Mochon",
+      "Roy Want"
+    ],
+    "DOI": "https://doi.org/10.1145/274644.274647",
+    "citation": "217",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Web page design: implications of memory, structure and scent for information retrieval",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Kevin Larson", "Mary Czerwinski"],
+    "DOI": "https://doi.org/10.1145/274644.274649",
+    "citation": "123",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Exploring browser design trade-offs using a dynamical model of optimal information foraging",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Peter Pirolli"],
+    "DOI": "https://doi.org/10.1145/274644.274650",
+    "citation": "7",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Information archiving with bookmarks: personal Web space construction and organization",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["David Abrams", "Ron Baecker", "Mark Chignell"],
+    "DOI": "https://doi.org/10.1145/274644.274651",
+    "citation": "184",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Triangles: tangible interface for manipulation and exploration of digital information topography",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Matthew G. Gorbet", "Maggie Orth", "Hiroshi Ishii"],
+    "DOI": "https://doi.org/10.1145/274644.274652",
+    "citation": "136",
+    "abstract": "NONE"
+  },
+  {
+    "title": "HandJive: a device for interpersonal haptic entertainment",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": [
+      "BJ Fogg",
+      "Lawrence D. Cutler",
+      "Perry Arnold",
+      "Chris Eisbach"
+    ],
+    "DOI": "https://doi.org/10.1145/274644.274653",
+    "citation": "61",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Simplifying the controls of an interactive movie game",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Jeff Johnson"],
+    "DOI": "https://doi.org/10.1145/274644.274655",
+    "citation": "4",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Patterns of change in design metaphor: a case study",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["William A. Stubblefield"],
+    "DOI": "https://doi.org/10.1145/274644.274656",
+    "citation": "9",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Netscape communicator's collapsible toolbars",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Irene Au", "Shuang Li"],
+    "DOI": "https://doi.org/10.1145/274644.274657",
+    "citation": "1",
+    "abstract": "NONE"
+  },
+  {
+    "title": "A study of fonts designed for screen display",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": [
+      "Dan Boyarski",
+      "Christine Neuwirth",
+      "Jodi Forlizzi",
+      "Susan Harkness Regli"
+    ],
+    "DOI": "https://doi.org/10.1145/274644.274658",
+    "citation": "55",
+    "abstract": "NONE"
+  },
+  {
+    "title": "From documents to discourse: shifting conceptions of scholarly publishing",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Tamara Sumner", "Simon Buckingham Shum"],
+    "DOI": "https://doi.org/10.1145/274644.274659",
+    "citation": "22",
+    "abstract": "NONE"
+  },
+  {
+    "title": "The effects of distance in local versus remote human-computer interaction",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Youngme Moon"],
+    "DOI": "https://doi.org/10.1145/274644.274660",
+    "citation": "17",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Design evolution in a multimedia tutorial on user-centered design",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Tom Carey", "Slade Mitchell", "Dan Peerenboom", "Mary Lytwyn"],
+    "DOI": "https://doi.org/10.1145/274644.274661",
+    "citation": "1",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Evaluating the location of hot spots in interactive scenes using the 3R toolbox",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Andre Plante", "Shoji Tanaka", "Seiki Inoue"],
+    "DOI": "https://doi.org/10.1145/274644.274662",
+    "citation": "4",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Providing advice for multimedia designers",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Pete Faraday", "Alistair Sutcliffe"],
+    "DOI": "https://doi.org/10.1145/274644.274663",
+    "citation": "14",
+    "abstract": "NONE"
+  },
+  {
+    "title": "101 spots, or how do users read menus?",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Antti Aaltonen", "Aulikki Hyrskykari", "Kari-Jouko Räihä"],
+    "DOI": "https://doi.org/10.1145/274644.274664",
+    "citation": "52",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Visual tracking for multimodal human computer interaction",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Jie Yang", "Rainer Stiefelhagen", "Uwe Meier", "Alex Waibel"],
+    "DOI": "https://doi.org/10.1145/274644.274666",
+    "citation": "34",
+    "abstract": "NONE"
+  },
+  {
+    "title": "When my face is the interface: an experimental comparison of interacting with one's own face or someone else's face",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Clifford Nass", "Eun-Young Kim", "Eun-Ju Lee"],
+    "DOI": "https://doi.org/10.1145/274644.274667",
+    "citation": "18",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Digital smart kiosk project",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Andrew D. Christian", "Brian L. Avery"],
+    "DOI": "https://doi.org/10.1145/274644.274668",
+    "citation": "41",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Worldlets: 3D thumbnails for 3D browsing",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": [
+      "T. Todd Elvins",
+      "David R. Nadeau",
+      "Rina Schul",
+      "David Kirsh"
+    ],
+    "DOI": "https://doi.org/10.1145/274644.274669",
+    "citation": "21",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Evolving video skims into useful multimedia abstractions",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": [
+      "Michael G. Christel",
+      "Michael A. Smith",
+      "C. Roy Taylor",
+      "David B. Winkler"
+    ],
+    "DOI": "https://doi.org/10.1145/274644.274670",
+    "citation": "125",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Navigation guided by artificial force fields",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Dongbo Xiao", "Roger Hubbold"],
+    "DOI": "https://doi.org/10.1145/274644.274671",
+    "citation": "46",
+    "abstract": "NONE"
+  },
+  {
+    "title": "The design of guided learner-adaptable scaffolding in interactive learning environments",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Shari L. Jackson", "Joseph Krajcik", "Elliot Soloway"],
+    "DOI": "https://doi.org/10.1145/274644.274672",
+    "citation": "81",
+    "abstract": "NONE"
+  },
+  {
+    "title": "ARTEMIS: learner-centered design of an information seeking environment for K-12 education",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": [
+      "Raven Wallace",
+      "Elliot Soloway",
+      "Joseph Krajcik",
+      "Nathan Bos",
+      "Joseph Hoffman",
+      "Heather Eccleston Hunter",
+      "Dan Kiskis",
+      "Elisabeth Klann",
+      "Greg Peters",
+      "David Richardson",
+      "Ofer Ronen"
+    ],
+    "DOI": "https://doi.org/10.1145/274644.274673",
+    "citation": "28",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Building an electronic learning community: from design to implementation",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": [
+      "Anne Rose",
+      "Wei Ding",
+      "Gary Marchionini",
+      "Josephus Beale",
+      "Victor Nolet"
+    ],
+    "DOI": "https://doi.org/10.1145/274644.274674",
+    "citation": "9",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Quantifying the effect of user interface design features on cyberstore traffic and sales",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["Gerald L. Lohse", "Peter Spiller"],
+    "DOI": "https://doi.org/10.1145/274644.274675",
+    "citation": "43",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Interactive advertising: patterns of use and effectiveness",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": [
+      "Kirsten Risden",
+      "Mary Czerwinski",
+      "Stephanie Worley",
+      "Lynda Hamilton",
+      "Joe Kubiniec",
+      "Hunter Hoffman",
+      "Nancy Mickel",
+      "Elizabeth Loftus"
+    ],
+    "DOI": "https://doi.org/10.1145/274644.274676",
+    "citation": "9",
+    "abstract": "NONE"
+  },
+  {
+    "title": "Persuasive computers: perspectives and research directions",
+    "conferenceTitle": "CHI '98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "data": "January 1998",
+    "authors": ["BJ Fogg"],
+    "DOI": "https://doi.org/10.1145/274644.274677",
+    "citation": "237",
+    "abstract": "NONE"
+  }
 ]
