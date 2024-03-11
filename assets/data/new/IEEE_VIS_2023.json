@@ -1,0 +1,793 @@
+[
+    {
+        "title": "Indy Survey Tool: A Framework to Unearth Correlations in Survey Data",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Tarik Crnovrsanin",
+            "Sara Di Bartolomeo",
+            "Connor Wilson",
+            "Cody Dunne"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00038",
+        "citation": 1,
+        "abstract": "Survey companion websites allow users to explore collected survey information more deeply, as well as update or add entries for papers. These sites can help information stay relevant past the original release date of the survey paper. However, creating and maintaining a website can be laborious and difficult, especially when authors might not be experienced with programming. We introduce Indy Survey Tool to help authors develop companion websites for survey papers across diverse fields of study. The tool’s core aim is to identify correlations between categorizations of papers. To accomplish this, the tool offers multiple combined filters and correlation matrix visualizations that enable users to explore the data from diverse perspectives. The tool’s visualizations, list of papers, and filters are harmoniously integrated and highly responsive, providing users with feedback based on their selections. Identifying correlations in survey papers is a pivotal aspect of research, as it can enable the recognition of common combinations of categorizations within the papers—as well as highlight any omissions. The versatility of Indy Survey Tool enables researchers to delve into the correlations between categorizations in survey data, an essential aspect of research that can reveal gaps in the literature and highlight promising areas for future exploration. A preprint and supplemental material for the paper can be found at osf.io/tdhqn."
+    },
+    {
+        "title": "Projection Ensemble: Visualizing the Robust Structures of Multidimensional Projections",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Myeongwon Jung",
+            "Jiwon Choi",
+            "Jaemin Jo"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00018",
+        "citation": 0,
+        "abstract": "We introduce Projection Ensemble, a novel approach for identifying and visualizing robust structures across multidimensional projections. Although multidimensional projections, such as t-Stochastic Neighbor Embedding (t-SNE), have gained popularity, their stochastic nature often leads the user to interpret the structures that arise by chance and make erroneous findings. To overcome this limitation, we present a frequent subgraph mining algorithm and a visualization interface to extract and visualize the consistent structures across multiple projections. We demonstrate that our system not only identifies trustworthy structures but also detects accidental clustering or separation of data points."
+    },
+    {
+        "title": "Visualizing Linguistic Diversity of Text Datasets Synthesized by Large Language Models",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Emily Reif",
+            "Minsuk Kahng",
+            "Savvas Petridis"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00056",
+        "citation": 0,
+        "abstract": "Large language models (LLMs) can be used to generate smaller, more refined datasets via few-shot prompting for benchmarking, fine-tuning or other use cases. However, understanding and evaluating these datasets is difficult, and the failure modes of LLM-generated data are still not well understood. Specifically, the data can be repetitive in surprising ways, not only semantically but also syntactically and lexically. We present LinguisticLens, a novel interactive visualization tool for making sense of and analyzing syntactic diversity of LLM-generated datasets. LinguisticLens clusters text along syntactic, lexical, and semantic axes. It supports hierarchical visualization of a text dataset, allowing users to quickly scan for an overview and inspect individual examples. The live demo is available at https://shorturl.at/zHOUV."
+    },
+    {
+        "title": "Visualizing Similarity of Pathline Dynamics in 2D Flow Fields",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Baldwin Nsonga",
+            "Gerik Scheuermann"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00023",
+        "citation": 0,
+        "abstract": "Even though the analysis of unsteady 2D flow fields is challenging, fluid mechanics experts generally have an intuition on where in the simulation domain specific features are expected. Using this intuition, showing similar regions enables the user to discover flow patterns within the simulation data. When focusing on similarity, a solid mathematical framework for a specific flow pattern is not required. We propose a technique that visualizes similar and dissimilar regions with respect to a region selected by the user. Using infinitesimal strain theory, we capture the strain and rotation progression and therefore the dynamics of fluid parcels along pathlines, which we encode as distributions. We then apply the Jensen–Shannon divergence to compute the (dis)similarity between pathline dynamics originating in a user-defined flow region and the pathline dynamics of the flow field. We validate our method by applying it to two simulation datasets of two-dimensional unsteady flows. Our results show that our approach is suitable for analyzing the similarity of time-dependent flow fields."
+    },
+    {
+        "title": "Gridded Glyphmaps for Supporting Spatial COVID-19 Modelling",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Aidan Slingsby",
+            "Richard Reeve",
+            "Claire Harris"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00009",
+        "citation": 0,
+        "abstract": "We describe our use of gridded glyphmaps to support development of a repurposed COVID-19 infection model during the height of the pandemic. We found that gridded glyphmaps’ ability to interactive summarise multivariate model input, intermediate results and outputs across multiple scales supported our model development tasks in ways that the modellers had not previously seen. We recount our experiences, reflect on potential to support more spatial model development more generally and suggest areas of further work."
+    },
+    {
+        "title": "WUDA: Visualizing and Transforming Rotations in Real-Time with Quaternions and Smart Devices",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Slobodan Milanko"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00057",
+        "citation": 0,
+        "abstract": "The rising popularity of inertial sensing via smart devices is evident, finding use in multidisciplinary applications, such as gesture recognition and image stabilization. Amid the popularity of analyzing raw motion signals and Euler angles, we highlight quaternion rotations as a robust alternative for studying device orientation. Quaternions are a powerful mathematical tool for representing and affecting three-dimensional rotations. Their abstract nature, however, can make it difficult for researchers to visualize the data they provide. Mobile sensing rarely invents practical tools to experiment with this mathematical method. Since visualization effectively communicates data findings, we develop an open-source, real-time app, Wuda, that allows users to observe the orientation of smart devices via inertial sensing. Wuda helps users reduce dimensional complexity and intuitively study quaternion transformations. We demonstrate the practical nature of Wuda in the context of fitness tracking."
+    },
+    {
+        "title": "MinMaxLTTB: Leveraging MinMax-Preselection to Scale LTTB",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Jeroen Van Der Donckt",
+            "Jonas Van Der Donckt",
+            "Michael Rademaker",
+            "Sofie Van Hoecke"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00013",
+        "citation": 0,
+        "abstract": "Visualization plays an important role in the analysis and exploration of time series data. To facilitate efficient visualization of large datasets, downsampling has emerged as a well-established approach. This work concentrates on LTTB (Largest-Triangle-Three-Buckets), a widely adopted downsampling algorithm for time series data point selection. Specifically, we introduce MinMaxLTTB, a two-step algorithm that significantly improves the scalability of LTTB. MinMaxLTTB consists of the following two steps: (i) the MinMax algorithm preselects a certain ratio of minimum and maximum data points, followed by (ii) applying the LTTB algorithm on only these preselected data points, effectively reducing LTTB’s time complexity. The MinMax algorithm is computationally efficient and can be parallelized, enabling efficient data point preselection. Additionally, MinMax demonstrates competitive performance in terms of visual representation, making it also an effective data reduction method. Experimental results demonstrate that MinMaxLTTB outperforms LTTB by more than an order of magnitude in terms of computation time. Furthermore, preselecting a small multiple of the desired output size already yields similar visual representativeness compared to LTTB. In summary, MinMaxLTTB leverages the computational efficiency of MinMax to scale LTTB, without compromising on LTTB its favorable visualization properties. The code and experiments associated with this paper can be found at https://github.com/predict-idlab/MinMaxLTTB."
+    },
+    {
+        "title": "Taken By Surprise? Evaluating how Bayesian Surprise & Suppression Influences Peoples’ Takeaways in Map Visualizations",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Akim Ndlovu",
+            "Hilson Shrestha",
+            "Lane T. Harrison"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00036",
+        "citation": 0,
+        "abstract": "Choropleth maps have been studied and extended in many ways to counteract the many biases that can occur when using them. Two recent techniques, Surprise metrics and Value Suppressing Uncertainty Palettes (VSUPs), offer promising solutions but have yet to be tested empirically with users of visualizations. In this paper, we explore how well people can make use of these techniques in map exploration tasks. We report a crowdsourced experiment where n = 300 participants are assigned to one of Choropleth, Surprise (only), and VSUP conditions (depicting rates and Surprise in a suppressed palette). Results show clear differences in map analysis outcomes, e.g. with Surprise maps leading people to significantly higher areas of population, or VSUPs performing similar or better than Choropleths for rate selection. Qualitative analysis suggests that many participants may only consider a subset of the metrics presented to them during exploration and decision-making. We discuss how these results generally support the use of Surprise and VSUP techniques in practice, and opportunities for further technique development. The material for the study (data, study results and code) is publicly available on https://osf.io/exb95/."
+    },
+    {
+        "title": "Simulating the Geometric Growth of the Marine Sponge Crella Incrustans",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Joshua O’Hagan",
+            "Andrew Chalmers",
+            "Taehyun Rhee"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00032",
+        "citation": 0,
+        "abstract": "Simulating marine sponge growth helps marine biologists analyze, measure, and predict the effects that the marine environment has on marine sponges, and vice versa. This paper describes a way to simulate and grow geometric models of the marine sponge Crella incrustans while considering environmental factors including fluid flow and nutrients. The simulation improves upon prior work by changing the skeletal architecture of the sponge in the growth model to better suit the structure of Crella incrustans. The change in skeletal architecture and other simulation parameters are then evaluated qualitatively against photos of a real-life Crella incrustans sponge. The results support the hypothesis that changing the skeletal architecture from radiate accretive to Halichondrid produces a sponge model which is closer in resemblance to Crella incrustans than the prior work."
+    },
+    {
+        "title": "WhaleVis: Visualizing the History of Commercial Whaling",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Ameya Patil",
+            "Zoe Rand",
+            "Trevor Branch",
+            "Leilani Battle"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00028",
+        "citation": 0,
+        "abstract": "Whales are an important part of the oceanic ecosystem. Although historic commercial whale hunting a.k.a. whaling has severely threatened whale populations, whale researchers are looking at historical whaling data to inform current whale status and future conservation efforts. To facilitate this, we worked with experts in aquatic and fishery sciences to create WhaleVis—an interactive dashboard for the commercial whaling dataset maintained by the International Whaling Commission (IWC). We characterize key analysis tasks among whale researchers for this database, most important of which is inferring spatial distribution of whale populations over time. In addition to facilitating analysis of whale catches based on the spatio-temporal attributes, we use whaling expedition details to plot the search routes of expeditions. We propose a model of the catch data as a graph, where nodes represent catch locations, and edges represent whaling expedition routes. This model facilitates visual estimation of whale search effort and in turn the spatial distribution of whale populations normalized by the search effort—a well known problem in fisheries research. It further opens up new avenues for graph analysis on the data, including more rigorous computation of spatial distribution of whales normalized by the search effort, and enabling new insight generation. We demonstrate the use of our dashboard through a real life use case."
+    },
+    {
+        "title": "Visualizing Query Traversals Over Bounding Volume Hierarchies Using Treemaps",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Abhishek Madan",
+            "Carolina Nobre"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00019",
+        "citation": 0,
+        "abstract": "Bounding volume hierarchies (BVHs) are one of the most common spatial data structures in computer graphics. Visualizing ray intersections in these data structures is challenging due to the large number of queries in typical image rendering workloads, the spatial clutter induced by superimposing the tree in a 3D viewport, and the strong tendency of these queries to visit several tree leaves, all of which add a very high dimensionality to the data being visualized. We present a new technique for visualizing ray intersection traversals on BVHs over triangle meshes. Unlike previous approaches which display aggregate traversal costs using a heatmap over the rendered image, we display detailed traversal information about individual queries, using a 3D view of the mesh, a treemap of the BVH, and synchronized highlighting between the two views, along with a pixel grid to select a ray intersection query to view. We demonstrate how this technique elucidates traversal dynamics and tree construction properties, which makes it possible to easily spot algorithmic improvements in these two categories."
+    },
+    {
+        "title": "Explain-and-Test: An Interactive Machine Learning Framework for Exploring Text Embeddings",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Shivam Raval",
+            "Carolyn Wang",
+            "Fernanda Viégas",
+            "Martin Wattenberg"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00052",
+        "citation": 0,
+        "abstract": "Text embeddings–mappings of collections of text to points in high-dimensional space–are a common object of analysis. A classic method to visualize these embeddings is to create a nonlinear projection to two dimensions and look for clusters and other structures in the resulting map. Explaining why certain texts cluster together, however, can be difficult. In this paper, we introduce a human-in-the-loop framework for applying machine learning (ML) to this challenge. The framework has two stages: (1) explain, in which we use ML to produce a description of a pattern; and (2) test, in which the user can verify the explanation by entering new text that fits the pattern, and sees where it appears on the map. If the new text is mapped to the original cluster, that is evidence in favor of the ML-generated explanation. We illustrate this process with a visualization application that provides two kinds of explanations: Natural Language Explanations and Contrastive PhraseClouds. Scenarios on exploring academic papers and literary work showcase the benefit of our workflow in discovering related topics and analyzing thematic differences in text."
+    },
+    {
+        "title": "Topological Analysis and Approximate Identification of Leading Lines in Artworks Based on Discrete Morse Theory",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Fuminori Shibasaki",
+            "Issei Fujishiro"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00010",
+        "citation": 0,
+        "abstract": "Accomplished artists often incorporate leading lines into their compositions to guide the observer’s attention. Although saliency maps are typically employed to locate attractive regions in still images, such scalar features do not express the trajectory of an observer’s gaze. In this study, we propose a method for the visual analysis and approximate identification of leading lines based on maximum graphs, sparse subsets of Morse–Smale complexes, extracted from saliency maps. We provide empirical evidence substantiating the feasibility of our method through a comparison with actual observers’ eye tracking results. Further, we investigate the limitations of our approach by employing it to analyze a variety of artworks with diverse styles."
+    },
+    {
+        "title": "Visual Analysis of Large Multi-Field AMR Data on GPUs Using Interactive Volume Lines",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Stefan Zellmann",
+            "Serkan Demirci",
+            "Uğur Güdükbay"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00020",
+        "citation": 0,
+        "abstract": "To visually compare ensembles of volumes, dynamic volume lines (DVLs) represent each ensemble member as a 1D polyline. To compute these, the volume cells are sorted on a space-filling curve and scaled by the ensemble’s local variation. The resulting 1D plot can augment or serve as an alternative to a 3D volume visualization free of visual clutter and occlusion. Interactively computing DVLs is challenging when the data is large, and the volume grid is not structured/regular, as is often the case with computational fluid dynamics simulations. We extend DVLs to support large-scale, multifield adaptive mesh refinement (AMR) data that can be explored interactively. Our GPU-based system updates the DVL representation whenever the data or the alpha transfer function changes. We demonstrate and evaluate our interactive prototype using large AMR volumes from astrophysics simulations."
+    },
+    {
+        "title": "A Visualization System for Hexahedral Mesh Quality Study",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Lei Si",
+            "Guoning Chen"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00026",
+        "citation": 0,
+        "abstract": "In this paper, we introduce a new 3D hex mesh visual analysis system that emphasizes poor-quality areas with an aggregated glyph, highlights overlapping elements, and provides detailed boundary error inspection in three forms. By supporting multi-level analysis through multiple views, our system effectively evaluates various mesh models and compares the performance of mesh generation and optimization algorithms for hexahedral meshes."
+    },
+    {
+        "title": "Draco 2: An Extensible Platform to Model Visualization Design",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Junran Yang",
+            "Péter Ferenc Gyarmati",
+            "Zehua Zeng",
+            "Dominik Moritz"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00042",
+        "citation": 1,
+        "abstract": "Draco introduced a constraint-based framework to model visualization design in an extensible and testable form. It provides a way to abstract design guidelines from theoretical and empirical studies and applies the knowledge in automated design tools. However, Draco is challenging to use because there is limited tooling and documentation. In response, we present Draco 2, the successor with (1) a more flexible visualization specification format, (2) a comprehensive test suite and documentation, and (3) flexible and convenient APIs. We designed Draco 2 to be more extensible and easier to integrate into visualization systems. We demonstrate these advantages and believe that they make Draco 2 a platform for future research."
+    },
+    {
+        "title": "DATATALES: Investigating the use of Large Language Models for Authoring Data-Driven Articles",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Nicole Sultanum",
+            "Arjun Srinivasan"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00055",
+        "citation": 1,
+        "abstract": "Authoring data-driven articles is a complex process requiring authors to not only analyze data for insights but also craft a cohesive narrative that effectively communicates the insights. Text generation capabilities of contemporary large language models (LLMs) present an opportunity to assist the authoring of data-driven articles and expedite the writing process. In this work, we investigate the feasibility and perceived value of leveraging LLMs to support authors of data-driven articles. We designed a prototype system, DATATALES, that leverages a LLM to generate textual narratives accompanying a given chart. Using DATATALES as a design probe, we conducted a qualitative study with 11 professionals to evaluate the concept, from which we distilled affordances and opportunities to further integrate LLMs as valuable data-driven article authoring assistants."
+    },
+    {
+        "title": "Augmented Reality as a Visualization Technique for Scholarly Publications in Astronomy: An Empirical Evaluation",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Jane L. Adams",
+            "Laura South",
+            "Arzu Çöltekin",
+            "Alyssa A. Goodman",
+            "Michelle A. Borkin"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00016",
+        "citation": 0,
+        "abstract": "We present a mixed methods user study evaluating augmented reality (AR) as a visualization technique for use in astronomy journal publications. This work is motivated by the highly spatial nature of scientific visualizations employed in astronomy, including spatial reasoning tasks for hypothesis generation and scientific communications. In this 52-person user study, we evaluate two AR approaches (one traditional tabletop projection and the other with a ‘tangible’ aid) as spatial 3D visualization techniques, as compared to a baseline 3D rendering on a phone. We identify a significant difference in mental and physical workload between the two AR conditions in men and women. Qualitatively, through thematic coding of interviews, we identify notable observed differences ranging from device-specific physical challenges, to subdomain-specific utility within astronomy. The confluence of quantitative and qualitative results suggest a tension between workload and engagement when comparing non-AR and AR technologies. We summarize these findings and contribute them for reference in data visualization research furthering novel scientific communications in astronomy journal publications."
+    },
+    {
+        "title": "CLEVER: A Framework for Connecting Lived Experiences with Visualisation of Electronic Records",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Mai Elshehaly",
+            "Lucy Eddy",
+            "Mark Mon-Williams"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00034",
+        "citation": 0,
+        "abstract": "The disconnect between insights generated from data and real-life practices of decision makers presents a number of open questions for visual analytics (VA). In public service planning, routine data are often perceived as unavailable, biased, incomplete and inconsistent across services. Decision makers often rely on qualitative data - sometimes collected through co-production - to understand the lived experience of communities before formulating a decision. We followed a subjectivist case study approach and immersed ourselves in ongoing co-production activities over the course of one year, to capture how VA can support the dialogue between population health decision-makers and the communities they serve. We present a framework for Connecting Lived Experiences with Visualisation of Electronic Records (CLEVER). The framework regards visualisation as a central component in a complex adaptive decision-making ecosystem and highlights the need to structure domain knowledge across decision contexts in Population Health Management (PHM) at clinical-, service- and district-levels. Our process for developing an initial framework comprised three steps: (i) we elicited decision-making tasks through a series of qualitative data collection activities; (ii) we developed a preliminary domain model to capture data views and a subjective view of the world through human stories; and (iii) we developed a series of visualisation prototypes to instantiate the framework and demonstrated them regularly to stakeholders. In future work, we will conduct ‘deep dives’ to systematically study the role of VA in individual stages of the framework."
+    },
+    {
+        "title": "ZADU: A Python Library for Evaluating the Reliability of Dimensionality Reduction Embeddings",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Hyeon Jeon",
+            "Aeri Cho",
+            "Jinhwa Jang",
+            "Soohyun Lee",
+            "Jake Hyun",
+            "Hyung-Kwon Ko",
+            "Jaemin Jo",
+            "Jinwook Seo"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00048",
+        "citation": 0,
+        "abstract": "Dimensionality reduction (DR) techniques inherently distort the original structure of input high-dimensional data, producing imperfect low-dimensional embeddings. Diverse distortion measures have thus been proposed to evaluate the reliability of DR embeddings. However, implementing and executing distortion measures in practice has so far been time-consuming and tedious. To address this issue, we present ZADU, a Python library that provides distortion measures. ZADU is not only easy to install and execute but also enables comprehensive evaluation of DR embeddings through three key features. First, the library covers a wide range of distortion measures. Second, it automatically optimizes the execution of distortion measures, substantially reducing the running time required to execute multiple measures. Last, the library informs how individual points contribute to the overall distortions, facilitating the detailed analysis of DR embeddings. By simulating a real-world scenario of optimizing DR embeddings, we verify that our optimization scheme substantially reduces the time required to execute distortion measures. Finally, as an application of ZADU, we present another library called ZADUVis that allows users to easily create distortion visualizations that depict the extent to which each region of an embedding suffers from distortions."
+    },
+    {
+        "title": "What Exactly is an Insight? A Literature Review",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Leilani Battle",
+            "Alvitta Ottley"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00027",
+        "citation": 0,
+        "abstract": "Insights are often considered the ideal outcome of visual analysis sessions. However, there is no single definition of what an insight is. Some scholars define insights as correlations, while others define them as hypotheses or aha moments. This lack of a clear definition can make it difficult to build visualization tools that effectively support insight discovery. In this paper, we contribute a comprehensive literature review that maps the landscape of existing insight definitions. We summarize key themes regarding how insight is defined, with the goal of helping readers identify which definitions of insight align closely with their research and tool development goals. Based on our review, we also suggest interesting research directions, such as synthesizing a unified formalism for insight and connecting theories of insight to other critical concepts in visualization research."
+    },
+    {
+        "title": "Comparing Morse Complexes Using Optimal Transport: An Experimental Study",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Mingzhe Li",
+            "Carson Storm",
+            "Austin Yang Li",
+            "Tom Needham",
+            "Bei Wang"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00017",
+        "citation": 0,
+        "abstract": "Morse complexes and Morse-Smale complexes are topological descriptors popular in topology-based visualization. Comparing these complexes plays an important role in their applications in feature correspondences, feature tracking, symmetry detection, and uncertainty visualization. Leveraging recent advances in optimal transport, we apply a class of optimal transport distances to the comparative analysis of Morse complexes. Contrasting with existing comparative measures, such distances are easy and efficient to compute, and naturally provide structural matching between Morse complexes. We perform an experimental study involving scientific simulation datasets and discuss the effectiveness of these distances as comparative measures for Morse complexes. We also provide an initial guideline for choosing the optimal transport distances under various data assumptions."
+    },
+    {
+        "title": "Data in the Wind: Evaluating Multiple-Encoding Design for Particle Motion Visualizations",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Yiren Ding",
+            "Lane Harrison"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00039",
+        "citation": 0,
+        "abstract": "Motion is widely used in modern data visualizations, serving as a means for transitioning views and as a primary channel for conveying information. Particle flow maps have become a popular means for communicating the speed and direction of wind in engaging and informative ways. Yet there is little empirical design guidance supporting the multiple encodings these maps use, such as particle speed, particle density, and color saturation. In this paper, we investigate multiple encoding wind maps using a staircase methodology to estimate just-noticeable differences for a range of speed values across visualizations with or without motion encodings. Results suggest: 1. the multiple encodings designers use are not only aesthetically engaging– they also improve speed discriminability for the average participant. 2. The speed of particle motion should be controlled under a certain range for good information retrieval accuracy. These findings contribute empirical guidance for particle motion encoding design, and lay groundwork for future investigations as motion becomes more widely used in visualization practice."
+    },
+    {
+        "title": "Effects of data distribution and granularity on color semantics for colormap data visualizations",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Clementine Zimnicki",
+            "Chin Tseng",
+            "Danielle Albers Szafir",
+            "Karen B Schloss"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00011",
+        "citation": 0,
+        "abstract": "To create effective data visualizations, it helps to represent data using visual features in intuitive ways. When visualization designs match observer expectations, visualizations are easier to interpret. Prior work suggests that several factors influence such expectations. For example, the dark-is-more bias leads observers to infer that darker colors map to larger quantities, and the opaque-is-more bias leads them to infer that regions appearing more opaque (given the background color) map to larger quantities. Previous work suggested that the background color only plays a role if visualizations appear to vary in opacity. The present study challenges this claim. We hypothesized that the background color would modulate inferred mappings for colormaps that should not appear to vary in opacity (by previous measures) if the visualization appeared to have a “hole” that revealed the background behind the map (hole hypothesis). We found that spatial aspects of the map contributed to inferred mappings, though the effects were inconsistent with the hole hypothesis. Our work raises new questions about how spatial distributions of data influence color semantics in colormap data visualizations."
+    },
+    {
+        "title": "GeneticFlow: Exploring Scholar Impact with Interactive Visualization",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Fengli Xiao",
+            "Lei Shi"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00022",
+        "citation": 0,
+        "abstract": "Visualizing a scholar’s scientific impact is important for many challenging tasks in academia such as tenure evaluation and award selection. Existing visualization and profiling approaches do not focus on the analysis of individual scholar’s impact, or they are too abstract to provide detailed interpretation of high-impact scholars. This work builds over a new scholar-centric impact-oriented profiling method called GeneticFlow. We propose a visualization design of scholar’s self-citation graphs using a time-dependent, hierarchical representation method. The graph visualization is augmented with color-coded topic information trained with cutting-edge deep learning techniques, and also temporal trend chart to illustrate the dynamics of topic/impact evolution. The visualization method is validated on a benchmark dataset established for the visualization field. Visualization results reveal key patterns of high-impact scholars and also demonstrate its capability to serve ordinary researchers for their impact visualization task."
+    },
+    {
+        "title": "A Simple yet Useful Spiral Visualization of Large Graphs",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Garima Jindal",
+            "Kamalakar Karlapalem"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00043",
+        "citation": 0,
+        "abstract": "We present a Spiral Visualization that facilitates users to visually comprehend large graphs. Spiral Visualization is a representation that highlights key aspects of networks, including the number, size, and density of communities, important or central nodes within communities, centrality distribution within communities, connections between communities, and connections between nodes. To facilitate analysis and comprehension of networks using various interaction techniques, such as zooming, tooltip, and highlight, we have implemented a Spiral Visualization dashboard. We conducted a qualitative user study incorporating observation, think-aloud protocols, and participant rating of confidence and easiness to assess the usability and suitability of our visualization. The findings suggest that our visualization is appropriate for the network tasks evaluated. However, tasks requiring color comparison, such as identifying the densest community and comparing community densities were found to be more challenging to perform."
+    },
+    {
+        "title": "TimePool: Visually Answer “Which and When” Questions On Univariate Time Series",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Tinghao Feng",
+            "Yueqi Hu",
+            "Jing Yang",
+            "Tom Polk",
+            "Ye Zhao",
+            "Shixia Liu",
+            "Zhaocong Yang"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00049",
+        "citation": 0,
+        "abstract": "When exploring time series datasets, analysts often pose “which and when” questions. For example, with world life expectancy data over one hundred years, they may inquire about the top 10 countries in life expectancy and the time period when they achieved this status, or which countries have had longer life expectancy than Ireland and when. This paper proposes TimePool, a new visualization prototype, to address this need for univariate time series analysis. It allows users to construct interactive “which and when” queries and visually explore the results for insights. TimePool has been evaluated through example scenarios, a formal user study, and interviews with domain experts."
+    },
+    {
+        "title": "Design of an Ecological Visual Analytics Interface for Operators of Time-Constant Processes",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Elmira Zohrevandi",
+            "Emmanuel Brorsson",
+            "Andreas Darnell",
+            "Magnus Bång",
+            "Jonas Lundberg",
+            "Anders Ynnerman"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00035",
+        "citation": 0,
+        "abstract": "In industrial applications where the physical parameters are highly interconnected, keeping the process flow steady is a major concern for the operators. This is caused by the sensitivity of system to the process dynamics. As a result, a slight adjustment to a control parameter can significantly affect the efficiency of the system and thus impact the financial gain. Paper pulp production is an example of such a process, where operators continuously investigate the potential of changes in the process and predict the consequences of an adjustment before making a decision. Process parameter adjustments prescribed by simulated control models cannot be fully trusted as the external disturbances and the process inherent variabilities cannot be fully incorporated into the simulations. Therefore, to assess the viability of a strategy, operators often compare the situation with the historical records and trends during which the processes in the plant ran steadily. While previous research has mostly focused on developing advanced control models to simulate complex pulp production process, this work aims to support operators analytical reasoning by provision of effective data visualization. The contributions of our design study include a domain problem characterization and a linked-view visual encoding design, which aims to enhance operator’s mental models independent of particular users or scenarios. Finally, by reflecting on the advantages of our choice of task abstraction technique, inherited from the ecological interface design framework [5], we reason for the generalizability of our approach to similar industrial applications."
+    },
+    {
+        "title": "“Two Heads are Better than One”: Pair-Interviews for Visualization",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Derya Akbaba",
+            "Miriah Meyer"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00050",
+        "citation": 0,
+        "abstract": "Visualization research methods help us study how visualization systems are used in complex real-world scenarios. One such widely used method is the interview — researchers asking participants specific questions to enrich their understanding. In this work, we introduce the pair-interview technique as a method that relies on two interviewers with specific and delineated roles, instead of one. Pair-interviewing focuses on the mechanics of conducting semi-structured interviews as a pair, and complements other existing visualization interview techniques. Based on a synthesis of the experiences and reflections of researchers in four diverse studies who used pair-interviewing, we outline recommendations for when and how to use pair-interviewing within visualization research studies."
+    },
+    {
+        "title": "Compact Phase Histograms for Guided Exploration of Periodicity",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Max Franke",
+            "Steffen Koch"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00047",
+        "citation": 0,
+        "abstract": "Periodically occurring accumulations of events or measured values are present in many time-dependent datasets and can be of interest for analyses. The frequency of such periodic behavior is often not known in advance, making it difficult to detect and tedious to explore. Automated analysis methods exist, but can be too costly for smooth, interactive analysis. We propose a compact visual representation that reveals periodicity by showing a phase histogram for a given period length that can be used standalone or in combination with other linked visualizations. Our approach supports guided, interactive analyses by suggesting other period lengths to explore, which are ranked based on two quality measures. We further describe how the phase can be mapped to visual representations in other views to reveal periodicity there."
+    },
+    {
+        "title": "Do You Trust What You See? Toward A Multidimensional Measure of Trust in Visualization",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Saugat Pandey",
+            "Oen G. McKinley",
+            "R. Jordan Crouser",
+            "Alvitta Ottley"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00014",
+        "citation": 0,
+        "abstract": "Few concepts are as ubiquitous in computational fields as trust. However, in the case of information visualization, there are several unique and complex challenges, chief among them: defining and measuring trust. In this paper, we investigate the factors that influence trust in visualizations. We draw on the literature to identify five factors likely to affect trust: credibility, clarity, reliability, familiarity, and confidence. We then conduct two studies investigating these factors’ relationship with visualization design features. In the first study, participants’ credibility, understanding, and reliability ratings depended on the visualization design and its source. In the second study, we find these factors also align with subjective trust rankings. Our findings suggest that these five factors are important considerations for the design of trustworthy visualizations."
+    },
+    {
+        "title": "Let’s Get Vysical: Perceptual Accuracy in Visual & Tactile Encodings",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Zhongzheng Xu",
+            "Kristin Williams",
+            "Emily Wall"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00012",
+        "citation": 0,
+        "abstract": "In this paper, we explore the effectiveness of tactile data encodings using swell paper in comparison to visual encodings displayed with SVGs for data perception tasks. By replicating and adapting Cleveland and McGill’s graphical perception study for the tactile modality, we establish a novel tactile encoding hierarchy. In a study with 12 university students, we found that participants perceived visual encodings more accurately when comparing values, judging their ratios with lower cognitive load, and better self-evaluated performance than tactile encodings. However, tactile encodings differed from their visual counterparts in terms of how accurately values could be decoded from them. This suggests that data physicalizations will require different design guidance than that developed for visual encodings. By providing empirical evidence for the perceptual accuracy of tactile encodings, our work contributes to foundational research on forms of data representation that prioritize tactile perception such as tactile graphics."
+    },
+    {
+        "title": "Towards Autocomplete Strategies for Visualization Construction",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Wei Wei",
+            "Samuel Huron",
+            "Yvonne Jansen"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00037",
+        "citation": 0,
+        "abstract": "Constructive visualization uses physical data units - tokens - to enable non-experts to create personalized visualizations engagingly. However, its physical nature limits efficiency and scalability. One potential solution to address this issue is autocomplete. By providing automated suggestions while still allowing for manual intervention, autocomplete can expedite visualization construction while maintaining expressivity. We conduct a speculative design study to examine how people would like to interact with a visualization authoring system that supports autocomplete. Our study identifies three types of autocomplete strategies and gains insights for designing future visualization authoring tools with autocomplete functionality.A free copy of this paper and all supplemental materials are available on our online repository: https://osf.io/nu4z3/?view_only= 594baee54d114a99ab381886fb32a126."
+    },
+    {
+        "title": "The Role of Visualization in Genomics Data Analysis Workflows: The Interviews",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Sehi L’Yi",
+            "Qianwen Wang",
+            "Nils Gehlenborg"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00029",
+        "citation": 0,
+        "abstract": "The diversity of genome-mapped data and analysis tasks makes it challenging for a single visualization tool to fulfill all visualization needs. To design a visualization tool that supports various genomics workflows of users, it is critical to first gain insights into the diverse workflows and the limitations of existing genomics tools for supporting them. In this paper, we conducted semi-structured interviews (N=9) to understand the role of visualization in genomics data analysis workflows. Our main goals were to identify various genomics workflows, from data analysis to visual exploration and presentation, and to observe challenges that genomics analysts encounter in these workflows when using existing tools. Through the interviews, we found several unique characteristics of genomics workflows, such as the use of multiple visualization tools and many repetitive tasks, which can significantly affect the overall performance. Based on our findings, we discuss implications for designing effective visualization authoring tools that tightly support genomics workflows, such as supporting automation and reproducibility."
+    },
+    {
+        "title": "Quantifying the Impact of XR Visual Guidance on User Performance Using a Large-Scale Virtual Assembly Experiment",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Leon Pietschmann",
+            "Paul Zürcher",
+            "Erik Bubik",
+            "Zhutian Chen",
+            "Hanspeter Pfister",
+            "Thomas Bohné"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00051",
+        "citation": 0,
+        "abstract": "The combination of Visual Guidance and Extended Reality (XR) technology holds the potential to greatly improve the performance of human workforces in numerous areas, particularly industrial environments. Focusing on virtual assembly tasks and making use of different forms of supportive visualisations, this study investigates the potential of XR Visual Guidance. Set in a web-based immersive environment, our results draw from a heterogeneous pool of 199 participants. This research is designed to significantly differ from previous exploratory studies, which yielded conflicting results on user performance and associated human factors. Our results clearly show the advantages of XR Visual Guidance based on an over 50% reduction in task completion times and mistakes made; this may further be enhanced and refined using specific frameworks and other forms of visualisations/Visual Guidance. Discussing the role of other factors, such as cognitive load, motivation, and usability, this paper also seeks to provide concrete avenues for future research and practical takeaways for practitioners."
+    },
+    {
+        "title": "ExoplanetExplorer: Contextual Visualization of Exoplanet Systems",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Emma Broman",
+            "Jacqueline Faherty",
+            "Laura Kreidberg",
+            "Sebastian Zieba",
+            "Charles Hansen",
+            "Anders Ynnerman",
+            "Alexander Bock"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00025",
+        "citation": 0,
+        "abstract": "An exoplanet is a planet outside of our solar system. Researchers study known exoplanets and gather data about them through observations and derived data. Ongoing efforts involve finding planets with an environment that supports life, which likely exists in what is known as the habitable zone around a star. Through a participatory design process, we developed a tool that enables the exploration of exoplanet attribute data and provides contextual visual information in a 3D spatial view that seamlessly presents an overview and a system view showing particular exoplanet systems."
+    },
+    {
+        "title": "HAiVA: Hybrid AI-assisted Visual Analysis Framework to Study the Effects of Cloud Properties on Climate Patterns",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Subhashis Hazarika",
+            "Haruki Hirasawa",
+            "Sookyung Kim",
+            "Kalai Ramea",
+            "Salva R. Cachay",
+            "Peetak Mitra",
+            "Dipti Hingmire",
+            "Hansi Singh",
+            "Phil J. Rasch"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00054",
+        "citation": 0,
+        "abstract": "Clouds have a significant impact on the Earth’s climate system. They play a vital role in modulating Earth’s radiation budget and driving regional changes in temperature and precipitation. This makes clouds ideal for climate intervention techniques like Marine Cloud Brightening (MCB) which refers to modification in cloud reflectivity, thereby cooling the surrounding region. However, to avoid unintended effects of MCB, we need a better understanding of the complex cloud to climate response function. Designing and testing such interventions scenarios with conventional Earth System Models is computationally expensive. Therefore, we propose a hybrid AI-assisted visual analysis framework to drive such scientific studies and facilitate interactive “what-if” investigation of different MCB intervention scenarios to assess their intended and unintended impacts on climate patterns. We work with a team of climate scientists to develop a suite of hybrid AI models emulating cloud-climate response function and design a tightly coupled frontend interactive visual analysis system to perform different MCB intervention experiments."
+    },
+    {
+        "title": "Concept Lens: Visually Analyzing the Consistency of Semantic Manipulation in GANs",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Sangwon Jeong",
+            "Mingwei Li",
+            "Matthew Berger",
+            "Shusen Liu"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00053",
+        "citation": 0,
+        "abstract": "As applications of generative AI become mainstream, it is important to understand what generative models are capable of producing, and the extent to which one can predictably control their outputs. In this paper, we propose a visualization design, named Concept Lens, for jointly navigating the data distribution of a generative model, and concept manipulations supported by the model. Our work is focused on modern vision-based generative adversarial networks (GAN), and their learned latent spaces, wherein concept discovery has gained significant interest as a means of image manipulation. Concept Lens is designed to support users in understanding the diversity of a provided set of concepts, the relationship between concepts, and the suitability of concepts to give semantic controls for image generation. Key to our approach is the hierarchical grouping of concepts, generated images, and the associated joint exploration. We show how Concept Lens can reveal consistent semantic manipulations for editing images, while also serving as a diagnostic tool for studying the limitations and trade-offs of concept discovery methods."
+    },
+    {
+        "title": "Combining Degree of Interest Functions and Progressive Visualization",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Marius Hogräfer",
+            "Dominik Moritz",
+            "Adam Perer",
+            "Hans-Jörg Schulz"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00059",
+        "citation": 0,
+        "abstract": "When visualizing large datasets, an important goal is to emphasize data that is relevant to the task at hand. A common way of achieving this is to compute the relevance of the data using degree of interest (DOI) functions, which apply a scenario-specific metric to quantify the data items according to their relevance to the users and their tasks. These DOI values can then be used to adjust the visual encoding through mechanisms like focus+context or information hiding. For datasets too large to be visualized at once, an alternative approach is to visualize it progressively in chunks, allowing analysts to reason about partial results and concluding their analysis much earlier than had they waited for all data. Combining the advantages of both approaches to tailor the visualization seems synergistic, yet, in practice turns out to be challenging, as DOI functions require the context of all data to produce useful values, requiring lengthy computations that break analysts’ flow in progressive visualization. In this paper, we propose an approach for uniting DOI functions with progressive visualization. We first introduce a new model for quantifying the user interest in analysis scenarios where the data is only partially available, by computing the interest for available data and predicting it for the rest. We then propose regression trees for implementing this approach in practice and evaluate it in benchmarks. With DOI values now available for progressive visualization as well, our approach opens the door for tailoring the visualization of large datasets to the analysis task at interactive update rates."
+    },
+    {
+        "title": "What Is the Difference Between a Mountain and a Molehill? Quantifying Semantic Labeling of Visual Features in Line Charts",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Dennis Bromley",
+            "Vidya Setlur"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00041",
+        "citation": 0,
+        "abstract": "Relevant language describing visual features in charts can be useful for authoring captions and summaries about the charts to help with readers’ takeaways. To better understand the interplay between concepts that describe visual features and the semantic relationships among those concepts (e.g., ‘sharp increase’ vs. ‘gradual rise’), we conducted a crowdsourced study to collect labels and visual feature pairs for univariate line charts. Using this crowdsourced dataset of labeled visual signatures, this paper proposes a novel method for labeling visual chart features based on combining feature-word distributions with the visual features and the data domain of the charts. These feature-word-topic models identify word associations with similar yet subtle differences in semantics, such as ‘flat,’ ‘plateau,’ and ‘stagnant,’ and descriptors of the visual features, such as ‘sharp increase,’ ‘slow climb,’ and ‘peak.’ Our feature-word-topic model is computed using both a quantified semantics approach and a signal processing-inspired least-errors shape-similarity approach. We finally demonstrate the application of this dataset for annotating charts and generating textual data summaries."
+    },
+    {
+        "title": "reVISit: Supporting Scalable Evaluation of Interactive Visualizations",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Yiren Ding",
+            "Jack Wilburn",
+            "Hilson Shrestha",
+            "Akim Ndlovu",
+            "Kiran Gadhave",
+            "Carolina Nobre",
+            "Alexander Lex",
+            "Lane Harrison"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00015",
+        "citation": 0,
+        "abstract": "reVISit is an open-source software toolkit and framework for creating, deploying, and monitoring empirical visualization studies. Running a quality empirical study in visualization can be demanding and resource-intensive, requiring substantial time, cost, and technical expertise from the research team. These challenges are amplified as research norms trend towards more complex and rigorous study methodologies, alongside a growing need to evaluate more complex interactive visualizations. reVISit aims to ameliorate these challenges by introducing a domain-specific language for study set-up, and a series of software components, such as UI elements, behavior provenance, and an experiment monitoring and management interface. Together with interactive or static stimuli provided by the experimenter, these are compiled to a ready-to-deploy web-based experiment. We demonstrate reVISit’s functionality by re-implementing two studies — a graphical perception task and a more complex, interactive study. reVISit is an open-source community project, available at https://revisit.dev/."
+    },
+    {
+        "title": "Vis-SPLIT: Interactive Hierarchical Modeling for mRNA Expression Classification",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Braden Roper",
+            "James C. Mathews",
+            "Saad Nadeem",
+            "Ji Hwan Park"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00030",
+        "citation": 0,
+        "abstract": "We propose an interactive visual analytics tool, Vis-SPLIT, for partitioning a population of individuals into groups with similar gene signatures. Vis-SPLIT allows users to interactively explore a dataset and exploit visual separations to build a classification model for specific cancers. The visualization components reveal gene expression and correlation to assist specific partitioning decisions, while also providing overviews for the decision model and clustered genetic signatures. We demonstrate the effectiveness of our framework through a case study and evaluate its usability with domain experts. Our results show that Vis-SPLIT can classify patients based on their genetic signatures to effectively gain insights into RNA sequencing data, as compared to an existing classification system."
+    },
+    {
+        "title": "Evaluation of cinematic volume rendering open-source and commercial solutions for the exploration of congenital heart data",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Irum Baseer",
+            "Israel Valverde",
+            "Abdel H. Moustafa",
+            "Josep Blat",
+            "Oscar Camara"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00024",
+        "citation": 0,
+        "abstract": "Detailed anatomical information is essential to optimize medical decisions for surgical and pre-operative planning in patients with congenital heart disease. The visualization techniques commonly used in clinical routine for the exploration of complex cardiac data are based on multi-planar reformations, maximum intensity projection, and volume rendering, which rely on basic lighting models prone to image distortion. On the other hand, cinematic rendering (CR), a three-dimensional visualization technique based on physically-based rendering methods, can create volumetric images with high fidelity. However, there are a lot of parameters involved in CR that affect the visualization results, thus being dependent on the user’s experience and requiring detailed evaluation protocols to compare available solutions. In this study, we have analyzed the impact of the most relevant parameters in a CR pipeline developed in the open-source version of the MeVisLab framework for the visualization of the heart anatomy of three congenital patients and two adults from CT images. The resulting visualizations were compared to a commercial tool used in the clinics with a questionnaire filled in by clinical users, providing similar definitions of structures, depth perception, texture appearance, realism, and diagnostic ability."
+    },
+    {
+        "title": "Line Harp: Importance-Driven Sonification for Dense Line Charts",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Egil Bru",
+            "Thomas Trautner",
+            "Stefan Bruckner"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00046",
+        "citation": 0,
+        "abstract": "Accessibility in visualization is an important yet challenging topic. Sonification, in particular, is a valuable yet underutilized technique that can enhance accessibility for people with low vision. However, the lower bandwidth of the auditory channel makes it difficult to fully convey dense visualizations. For this reason, interactivity is key in making full use of its potential. In this paper, we present a novel approach for the sonification of dense line charts. We utilize the metaphor of a string instrument, where individual line segments can be “plucked”. We propose an importance-driven approach which encodes the directionality of line segments using frequency and dynamically scales amplitude for improved density perception. We discuss the potential of our approach based on a set of examples."
+    },
+    {
+        "title": "ProtoGraph: A Non-Expert Toolkit for Creating Animated Graphs",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Malchiel Rodrigues",
+            "Joel Dapello",
+            "Priyan Vaithilingam",
+            "Carolina Nobre",
+            "Johanna Beyer"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00044",
+        "citation": 0,
+        "abstract": "Creating intuitive and aesthetically pleasing visualizations and animations of small-to-moderate-sized graphs in the form of node-link diagrams is a common task across many fields, particularly in pedagogical settings. However, creating a graph visualization either requires users to manually construct a graph by hand or programming skills. We present ProtoGraph, an English-like programming language for non-expert users to rapidly specify and animate node-link graph visualizations. The language supports iterative prototyping, thereby allowing non-experts users to intuitively refine their graphs, and to easily create animated graphs. The key features of ProtoGraph include a web-based live coding interface, previews for the different states in an animated graph, integrated user documentation, and an active-learning style tutorial. We have integrated the ProtoGraph language into an open-source JavaScript graph visualization library for rendering and a graphical web interface for rapid prototyping. In a user study, we show that participants with varying coding experiences were able to quickly learn the ProtoGraph language and create real-world pedagogical visualizations, showing that ProtoGraph is easy to learn, efficient to use, and extensible."
+    },
+    {
+        "title": "Enabling Multimodal User Interactions for Genomics Visualization Creation",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Qianwen Wang",
+            "Xiao Liu",
+            "Man Qing Liang",
+            "Sehi L’Yi",
+            "Nils Gehlenborg"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00031",
+        "citation": 0,
+        "abstract": "Visualization plays an important role in extracting insights from complex and large-scale genomics data. Traditional graphical user interfaces (GUIs) offer limited flexibility for custom visualizations. Our prior work, Gosling, enables expressive visualization creation using a grammar-based approach, but beginners may face challenges in constructing complex visualizations. To address this, we explore multimodal interactions, including sketches, example images, and natural language inputs, to streamline visualization creation. Specifically, we customize two deep learning models (YOLO v7 and GPT3.5) to interpret user interactions and convert them into Gosling specifications. A workflow is proposed to progressively introduce and integrate multimodal interactions. We then present use cases demonstrating their effectiveness and identify challenges and opportunities for future research."
+    },
+    {
+        "title": "How “Applied” is Fifteen Years of VAST conference?",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Lei Shi",
+            "Lei Xia",
+            "Zipeng Liu",
+            "Ye Sun",
+            "Huijie Guo",
+            "Klaus Mueller"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00033",
+        "citation": 0,
+        "abstract": "Visual analytics (VA) science and technology emerge as a promising methodology in visualization and data science in the new century. Application-driven research continues to contribute significantly to the development of VA, as well as in a broader scope of VIS. However, existing studies on the trend and impact of VA/VIS application research stay at a commentary and subjective level, using methods such as panel discussions and expert interviews. On the contrary, this work presents a first study on VA application research using data-driven methodology with cutting-edge machine learning algorithms, achieving both objective and scalable goals. Experiment results demonstrate the validity of our method with high F1 scores up to 0.89 for the inference of VA application papers on both the expert-labeled benchmark dataset and two external validation data sources. Inference results on 15 years of VAST conference papers also narrate interesting patterns in VA application research’s origin, trend, and constitution."
+    },
+    {
+        "title": "Show Me My Users: A Dashboard Visualizing User Interaction Logs",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Jinrui Wang",
+            "Mashael AlKadi",
+            "Benjamin Bach"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00040",
+        "citation": 0,
+        "abstract": "This paper describes the design of a dashboard and analysis pipeline to monitor users of visualization tools in the wild. Our pipeline describes how to extract analysis KPIs from extensive log event data and a mix of user types. The resulting three-page dashboard displays live KPIs, helping analysts to understand users, detect exploratory behaviors, plan education interventions, and improve tool features. We propose this case study as a motivation to use the dashboard approach for a more ‘casual’ monitoring of users and building carer mindsets for visualization tools."
+    },
+    {
+        "title": "Fast Fiber Line Extraction for 2D Bivariate Scalar Fields",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Felix Raith",
+            "Baldwin Nsonga",
+            "Gerik Scheuermann",
+            "Christian Heine"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00021",
+        "citation": 0,
+        "abstract": "Extracting level sets from scalar data is a fundamental operation in visualization with many applications. Recently, the concept of level set extraction has been extended to bivariate scalar fields. Prior work on vector field equivalence, wherein an analyst marks a region in the domain and is shown other regions in the domain with similar vector values, pointed out the need to make this extraction operation fast, so that analysts can work interactively. To date, the fast extraction of level sets from bivariate scalar fields has not been researched as extensively as for the univariate case. In this paper, we present a novel algorithm that extracts fiber lines, i.e., the preimages of so called control polygons (FSCP), for bivariate 2D data by joint traversal of bounding volume hierarchies for both grid and FSCP elements. We performed an extensive evaluation, comparing our method to a two-dimensional adaptation of the method proposed by Klacansky et al., as well as to the naive approach for fiber line extraction. The evaluation incorporates a vast array of configurations in several datasets. We found that our method provides a speedup of several orders of magnitudes compared to the naive algorithm and requires two thirds of the computation time compared to Klacansky et al. adapted for 2D."
+    },
+    {
+        "title": "Visual Validation versus Visual Estimation: A Study on the Average Value in Scatterplots",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Daniel Braun",
+            "Ashley Suh",
+            "Remco Chang",
+            "Michael Gleicher",
+            "Tatiana von Landesberger"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00045",
+        "citation": 0,
+        "abstract": "We investigate the ability of individuals to visually validate statistical models in terms of their fit to the data. While visual model estimation has been studied extensively, visual model validation remains under-investigated. It is unknown how well people are able to visually validate models, and how their performance compares to visual and computational estimation. As a starting point, we conducted a study across two populations (crowdsourced and volunteers). Participants had to both visually estimate (i.e, draw) and visually validate (i.e., accept or reject) the frequently studied model of averages. Across both populations, the level of accuracy of the models that were considered valid was lower than the accuracy of the estimated models. We find that participants’ validation and estimation were unbiased. Moreover, their natural critical point between accepting and rejecting a given mean value is close to the boundary of its 95% confidence interval, indicating that the visually perceived confidence interval corresponds to a common statistical standard. Our work contributes to the understanding of visual model validation and opens new research opportunities."
+    },
+    {
+        "title": "ScatterUQ: Interactive Uncertainty Visualizations for Multiclass Deep Learning Problems",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Harry X. Li",
+            "Steven Jorgensen",
+            "John Holodnak",
+            "Allan B. Wollaber"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00058",
+        "citation": 0,
+        "abstract": "Recently, uncertainty-aware deep learning methods for multiclass labeling problems have been developed that provide calibrated class prediction probabilities and out-of-distribution (OOD) indicators, letting machine learning (ML) consumers and engineers gauge a model’s confidence in its predictions. However, this extra neural network prediction information is challenging to scalably convey visually for arbitrary data sources under multiple uncertainty contexts. To address these challenges, we present ScatterUQ, an interactive system that provides targeted visualizations to allow users to better understand model performance in context-driven uncertainty settings. ScatterUQ leverages recent advances in distance-aware neural networks, together with dimensionality reduction techniques, to construct robust, 2-D scatter plots explaining why a model predicts a test example to be (1) in-distribution and of a particular class, (2) in-distribution but unsure of the class, and (3) out-of-distribution. ML consumers and engineers can visually compare the salient features of test samples with training examples through the use of a “hover callback” to understand model uncertainty performance and decide follow up courses of action. We demonstrate the effectiveness of ScatterUQ to explain model uncertainty for a multiclass image classification on a distance-aware neural network trained on Fashion-MNIST and tested on Fashion-MNIST (in distribution) and MNIST digits (out of distribution), as well as a deep learning model for a cyber dataset. We quantitatively evaluate dimensionality reduction techniques to optimize our contextually driven UQ visualizations. Our results indicate that the ScatterUQ system should scale to arbitrary, multiclass datasets. Our code is available at https://github.com/mit-ll-responsible-ai/equine-webapp."
+    },
+    {
+        "title": "Title Page i",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [],
+        "DOI": "10.1109/VIS54172.2023.00001",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Title Page iii",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [],
+        "DOI": "10.1109/VIS54172.2023.00002",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Welcome Message from the VIS 2023 General Chairs",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [
+            "Tim Dwyer",
+            "Sarah Goodwin",
+            "Michael Wybrow"
+        ],
+        "DOI": "10.1109/VIS54172.2023.00005",
+        "citation": 0,
+        "abstract": "We are thrilled this year to welcome the IEEE VIS conference for its first ever visit to Australia. It is, for that matter, the first time for this conference to come to the Southern Hemisphere, as well as its first time in an Asian time zone. We acknowledge Traditional Owners of Narrm, the Boon Wurrung and Wurundjeri Woi Wurrung people of the Kulin nation, on whose land VIS 2023 will be held. We pay our respects to their Elders past, present and emerging. We know Melbourne (Narrm) is a long way from Europe and the US, as we’ve been doing the reverse trip ourselves for many years. But we are grateful to all from those regions who are able to join us, and we are delighted to welcome many new participants from the Asia-Pacific region who are now able to attend in-person for the first time. This sojourn down-under marks a significant milestone for IEEE VIS towards becoming a truly global conference."
+    },
+    {
+        "title": "Copyright Page",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [],
+        "DOI": "10.1109/VIS54172.2023.00003",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "VIS 2023 Reviewers",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [],
+        "DOI": "10.1109/VIS54172.2023.00008",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "VIS 2023 Program Committee",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [],
+        "DOI": "10.1109/VIS54172.2023.00007",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Table of Contents",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [],
+        "DOI": "10.1109/VIS54172.2023.00004",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "Author Index",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [],
+        "DOI": "10.1109/VIS54172.2023.00060",
+        "citation": 0,
+        "abstract": ""
+    },
+    {
+        "title": "VIS 2023 Conference Committee",
+        "conferenceTitle": "2023 IEEE Visualization and Visual Analytics (VIS)",
+        "date": "21-27 Oct. 2023",
+        "authors": [],
+        "DOI": "10.1109/VIS54172.2023.00006",
+        "citation": 0,
+        "abstract": ""
+    }
+]
