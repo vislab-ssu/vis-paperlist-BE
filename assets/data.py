@@ -99,6 +99,7 @@ month_to_number = {
     'August': 8,
     'September': 9,
     'October': 10,
+    'Oct': 10,
     'November': 11,
     'December': 12
 }
@@ -141,6 +142,7 @@ for paper_idx in range(1, len(papers)):
             # print("3")
             # print(papers[paper_idx][DATE_IDX])
             month, dummy, year = re.search(r'([A-Za-z]+)\.-([A-Za-z]+).? ([0-9]+)', papers[paper_idx][DATE_IDX]).groups()
+            
         # 예외처리: Jan. 2011
         elif re.search(r'([A-Za-z]+)\. ([0-9]+)', papers[paper_idx][DATE_IDX]):
             # print("4")
