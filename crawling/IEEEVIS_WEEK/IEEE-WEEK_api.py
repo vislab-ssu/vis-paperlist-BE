@@ -1,5 +1,6 @@
 # IEEE VIS: IEEEVIS_WEEK_2008, 2009, 2010
-# 2008 데이터 수집 완료 : 2024.05.08 - 최서현
+# 데이터 수집 완료 : 2024.05.08 - 최서현
+# iEEE Xplore에 없는 값들은 api로 불러올 수 없다는 것을 주의해주세요!
 
 # http://vis.computer.org/VisWeek2008/vis/sessions_papers.html
 # http://vis.computer.org/VisWeek2008/infovis/sessions_papers.html
@@ -43,6 +44,7 @@ def save_data(year, papers):
 # "index": "IEEEVIS-WEEK-2008"
 # "index": "IEEEVIS-WEEK-2009"
 # "index": "IEEEVIS-WEEK-2010"
+
     formatted_papers = []
     for paper in papers:
         # 이슈 번호가 6인 문서로 다 되어있음 위의 링크들은 -> 따라서 이슈번호 6
