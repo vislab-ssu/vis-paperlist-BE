@@ -21,6 +21,14 @@ import pacmap
 # DBSCAN
 from sklearn.cluster import DBSCAN
 
+## 머신러닝 워크플로우 ##
+# 1.수집 - 2.점검및탐색 - 3.전처리및정제 - 4.모델링및훈련 - .....
+
+###################################
+####### 3. 전처리 및 정제 #########
+###################################
+    
+# calculate_Doc2Vec에서 모델에 도입하기 이전에 전처리 적용
 def preprocess_text(text):
     # 소문자 변환
     lower_text = text.lower()
@@ -30,6 +38,44 @@ def preprocess_text(text):
     stop_words = set(stopwords.words('english'))
     filtered_text = [word for word in tokenized_text if word not in stop_words and word not in string.punctuation]
     return filtered_text
+
+
+###################################
+####### 4. 모델링 및 훈련 #########
+###################################
+
+# Doc2Vec 모델에 적용.
+# 인공신경망을 기반으로 하여 대량의 텍스트의 데이터로부터 단어 또는 문서의 벡터 표현을 학습한 모델을 활용
+# Doc2Vec에서는 논문 하나를 백차원의 벡터로 표현
+def calculate_Word2Vec(input_data):
+    tokenized_data = []
+
+    # 모든 논문 abstract을 하나의 데이터 세트로 결합
+    for abstract in input_data:
+        sentences = sent_tokenize(abstract)
+        for sentence in sentences:
+            tokenized_data.append(preprocess_text(sentence))
+
+    # 모든 데이터에 대한 하나의 Word2Vec 모델 학습
+    model = Word2Vec(tokenized_data, vector_size=100, window=5, min_count=1, workers=4)
+
+    return model
+
+def calculate_Doc2Vec(input_data):
+        
+    tagged_data = [TaggedDocument(words=preprocess_text(doc['abstract']), tags=[i]) for i, doc in enumerate(input_data)]
+
+    # Doc2Vec 모델 초기화 및 학습
+    model = Doc2Vec(vector_size=300, window=5, min_count=10, workers=4, sample=1e-5, negative=5, epochs=400)
+    model.build_vocab(tagged_data)
+    model.train(tagged_data, total_examples=model.corpus_count, epochs=model.epochs)
+
+    return model
+
+###################################
+####### 5. 차원축소 기법  #########
+###################################
+
 
 def mergeDoc2VecAndMetadata_tSNE(model, papers_info, top_n=50):
     # 문서 벡터 추출
@@ -94,6 +140,12 @@ def mergeDoc2VecAndMetadata_PaCMAP(model, papers_info, top_n=50):
     except TypeError as e:
         print(e)
 
+
+###################################
+######## Practice  Code  ##########
+###################################
+
+# Word2Vec에 t-SNE적용 -> DBSCAN 클러스터링 -> matplotlib로 시각화
 def tSNE_visualize(model, top_n=50):
     # 상위 N개의 단어와 해당 벡터 추출
     # model.wv.index_to_key : 빈도 수에따라 정렬된 모델의 단어 리스트
@@ -119,7 +171,7 @@ def tSNE_visualize(model, top_n=50):
                      textcoords='offset points', ha='right', va='bottom')
     
     plt.show()
-
+# Doc2Vec에 t-SNE적용 -> matplotlib로 시각화
 def tSNE_visualize_doc2vec(model, labels=None, top_n=50):
     # 문서 벡터 추출
     doc_ids = list(range(min(top_n, len(model.dv))))
@@ -137,7 +189,7 @@ def tSNE_visualize_doc2vec(model, labels=None, top_n=50):
                      xytext=(5, 2), textcoords='offset points', ha='right', va='bottom')
     
     plt.show()
-
+# Doc2Vec에 t-SNE적용 -> DBSCAN 클러스터링 -> matplotlib로 시각화
 def tSNE_visualize_doc2vec_DBSCAN(model, labels=None, top_n=50):
     # 문서 벡터 추출
     doc_ids = list(range(min(top_n, len(model.dv))))
@@ -162,7 +214,7 @@ def tSNE_visualize_doc2vec_DBSCAN(model, labels=None, top_n=50):
     
     plt.show()
 
-
+# Word2Vec에 PaCMAP적용 -> DBSCAN 클러스터링 -> matplotlib로 시각화
 def PaCMAP_visualize(model, top_n=50):
     # 상위 N개의 단어와 해당 벡터 추출
     words = model.wv.index_to_key[:top_n]
@@ -180,7 +232,7 @@ def PaCMAP_visualize(model, top_n=50):
                      textcoords='offset points', ha='right', va='bottom')
     
     plt.show()
-
+# Doc2Vec에 PaCMAP적용 -> matplotlib로 시각화
 def PaCMAP_visualize_doc2Vec(model, labels=None, top_n=50):
     doc_ids = list(range(min(top_n, len(model.dv))))
     doc_vectors = np.array([model.dv[i] for i in doc_ids])
@@ -197,7 +249,7 @@ def PaCMAP_visualize_doc2Vec(model, labels=None, top_n=50):
                      xytext=(5, 2), textcoords='offset points', ha='right', va='bottom')
     
     plt.show()
-
+# Doc2Vec에 PaCMAP적용 -> DBSCAN 클러스터링 -> matplotlib로 시각화
 def PaCMAP_visualize_doc2vec_DBSCAN(model, labels=None, top_n=50):
     # 문서 벡터 추출
     doc_ids = list(range(min(top_n, len(model.dv))))
@@ -222,37 +274,11 @@ def PaCMAP_visualize_doc2vec_DBSCAN(model, labels=None, top_n=50):
     
     plt.show()
     
+
 ###################################
-######### create model ############
+########   main  code    ##########
 ###################################
-    
-def calculate_Word2Vec(input_data):
-    tokenized_data = []
 
-    # 모든 논문 abstract을 하나의 데이터 세트로 결합
-    for abstract in input_data:
-        sentences = sent_tokenize(abstract)
-        for sentence in sentences:
-            tokenized_data.append(preprocess_text(sentence))
-
-    # 모든 데이터에 대한 하나의 Word2Vec 모델 학습
-    model = Word2Vec(tokenized_data, vector_size=100, window=5, min_count=1, workers=4)
-
-    return model
-
-
-def calculate_Doc2Vec(input_data):
-        
-    tagged_data = [TaggedDocument(words=preprocess_text(doc['abstract']), tags=[i]) for i, doc in enumerate(input_data)]
-
-    # Doc2Vec 모델 초기화 및 학습
-    model = Doc2Vec(vector_size=300, window=5, min_count=10, workers=4, sample=1e-5, negative=5, epochs=400)
-    model.build_vocab(tagged_data)
-    model.train(tagged_data, total_examples=model.corpus_count, epochs=model.epochs)
-
-    return model
-
-    
 def main():
     # 입력 데이터를 JSON 형식으로 받음
     input_data = json.loads(sys.stdin.read())
@@ -261,10 +287,9 @@ def main():
     papers_info = [{"title": doc['title'], "author": doc['author'], "abstract": doc['abstract'],
                     "citation": doc['citation'], "DOI": doc['DOI']} for doc in input_data]
     
-    # Word2Vec 모델 생성
+    # # Word2Vec 모델 생성
     # model_Word2Vec = calculate_Word2Vec(input_data2)
-
-    # Doc2Vec 모델 학습
+    # # Doc2Vec 모델 학습
     model_Doc2Vec = calculate_Doc2Vec(input_data)
     # mergeDoc2VecAndMetadata_tSNE(model_Doc2Vec, papers_info)
     mergeDoc2VecAndMetadata_PaCMAP(model_Doc2Vec, papers_info)

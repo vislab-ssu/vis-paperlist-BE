@@ -1,7 +1,10 @@
 import { Request, Response } from "express";
 import { db } from "../database";
 import { processPapers } from "./tokenizerModule";
-import { processWordCloud } from "./wordCloud";
+import { processWordCloud } from "./NLP/TF_IDF_wordCloud";
+import ieeeData_2008 from "../crawling/IEEEVIS_WEEK/Result/IEEE_2008.json";
+import ieeeData_2009 from "../crawling/IEEEVIS_WEEK/Result/IEEE_2009.json";
+import ieeeData_2010 from "../crawling/IEEEVIS_WEEK/Result/IEEE_2010.json";
 
 type SearchType = {
   search: "title" | "author" | "abstract";
@@ -12,7 +15,7 @@ const { spawn } = require("child_process");
 
 async function getTfidfForAbstracts(abstracts: string[]) {
   return new Promise((resolve, reject) => {
-    const pythonProcess = spawn("python3", ["./paper/TF_IDF.py"]);
+    const pythonProcess = spawn("python3", ["./paper/NLP/TF_IDF.py"]);
 
     // Python 스크립트에 데이터 전송
     pythonProcess.stdin.write(JSON.stringify(abstracts));
@@ -39,9 +42,9 @@ async function getTfidfForAbstracts(abstracts: string[]) {
   });
 }
 
-async function getWord2VecForAbstracts(papers: string[]) {
+async function getVecMapReduceForAbstracts(papers: string[]) {
   return new Promise((resolve, reject) => {
-    const pythonProcess = spawn("python3", ["./paper/Word2Vec.py"]);
+    const pythonProcess = spawn("python3", ["./paper/NLP/NLP2VecMap.py"]);
 
     // Python 스크립트에 데이터 전송
     pythonProcess.stdin.write(JSON.stringify(papers));
@@ -114,6 +117,10 @@ async function getPaper(req: Request, res: Response) {
       );
     await connection.release(); // connection이 이루어진 후에는 반드시 release 해야함
 
+    ///////////////////////////
+    //////// NLP 처리 /////////
+    ///////////////////////////
+
     // 키워드 빈도 처리//
     const { papers: processedPapers, totalKeywordCount: tokenizedResultCount } =
       processPapers(papers);
@@ -126,9 +133,10 @@ async function getPaper(req: Request, res: Response) {
     const { myWords } = processWordCloud(tfidfResults);
 
     // Word2Vec 방식
-    const Word2VecResults = await getWord2VecForAbstracts(papers);
+    const Word2VecResults = await getVecMapReduceForAbstracts(papers);
     console.log(Word2VecResults);
 
+    //////// 데이터 반환 /////////
     // return res.status(200).send(papers);
     return res.status(200).send({
       papers: processedPapers,
